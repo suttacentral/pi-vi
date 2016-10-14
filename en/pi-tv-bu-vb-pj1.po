@@ -86,8 +86,8 @@ msgid "upasaṅkamitvā ekamantaṃ nisīdi."
 msgstr "and sat down to one side."
 
 msgctxt "pi-tv-bu-vb-pj1:6.10"
-msgid "Ekamantaṃ nisinnassa kho sudinnassa kalan­da­puttassa etadahosi—"
-msgstr "As he was sitting there, he thought,"
+msgid "<span class=\\\"sutta\\\">Ekamantaṃ nisinnassa kho sudinnassa kalan­da­puttassa etadahosi—"
+msgstr "<span class=\\\"sutta\\\">As he was sitting there, he thought,"
 
 msgctxt "pi-tv-bu-vb-pj1:6.11"
 msgid "“yathā yathā kho ahaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekanta­pari­puṇṇaṃ ekanta­pari­suddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ;"
@@ -294,7 +294,7 @@ msgctxt "pi-tv-bu-vb-pj1:12.7"
 msgid "bhuñjanto pivanto paricārento kāme paribhuñjanto puññāni karonto abhiramassu."
 msgstr "Enjoy sense pleasures and do acts of merit."
 
-msgctxt "pi-tv-bu-vb-pj1:12.87"
+msgctxt "pi-tv-bu-vb-pj1:12.8"
 msgid "Na taṃ mayaṃ anujānāma agārasmā anagāriyaṃ pabbajjāyā”ti."
 msgstr "We wonʼt allow you to go forth.”"
 
@@ -368,16 +368,16 @@ msgctxt "pi-tv-bu-vb-pj1:14.8"
 msgid "Dutiyampi kho … pe …"
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-pj1:14.10"
+msgctxt "pi-tv-bu-vb-pj1:14.9"
 msgid "tatiyampi kho sudinnassa kalan­da­puttassa sahāyakā sudinnaṃ kalandaputtaṃ etadavocuṃ—"
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-pj1:14.11"
+msgctxt "pi-tv-bu-vb-pj1:14.10"
 msgid "“tvaṃ khosi, samma sudinna … pe …"
 msgstr ""
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.14" href="#Vin.3.14">Vin 3.14</a> <a class="pts-vp-en" id="BD.1.25" href="#BD.1.25">BD.1.25</a>
-msgctxt "pi-tv-bu-vb-pj1:14.13"
+msgctxt "pi-tv-bu-vb-pj1:14.11"
 msgid "tatiyampi kho sudinno kalandaputto tuṇhī ahosi."
 msgstr "But Sudinna made no response."
 
@@ -832,8 +832,8 @@ msgid "“Bhuñja, tāta sudinnā”ti."
 msgstr "“Eat, Sudinna,” he said."
 
 msgctxt "pi-tv-bu-vb-pj1:24.4"
-msgid "Atha kho āyasmato sudinnassa mātā ca pitā ca āyasmantaṃ sudinnaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesuṃ sampavāresuṃ."
-msgstr "And with their own hands, Sudinna’s mother and father served and satisfied him with various kinds of fine food."
+msgid "Atha kho āyasmato sudinnassa mātā ca pitā ca āyasmantaṃ sudinnaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesuṃ sampavāresuṃ.</span>"
+msgstr "And with their own hands, Sudinna’s mother and father served and satisfied him with various kinds of fine food.</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:24.5"
 msgid "Atha kho āyasmato sudinnassa mātā āyasmantaṃ sudinnaṃ bhuttāviṃ onīta­patta­pāṇiṃ etadavoca—"
@@ -1365,7 +1365,7 @@ msgstr "First preliminary ruling"
 #. </h2><p><a class="sc" id="32"></a><a class="ms-pa" id="MS.72" href="#MS.72">MS.72</a>
 msgctxt "pi-tv-bu-vb-pj1:37.2"
 msgid "<strong class=\\\"rule\\\">“Yo pana bhikkhu methunaṃ dhammaṃ paṭiseveyya, pārājiko hoti asaṃvāso”</strong>ti."
-msgstr "‘If a monk has sexual intercourse, he is expelled and not in communion.ʼ”"
+msgstr "<strong class=\\\"rule\\\">‘If a monk has sexual intercourse, he is expelled and not in communion.ʼ”</strong>"
 
 #. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="MS.73" href="#MS.73">MS.73</a>
 msgctxt "pi-tv-bu-vb-pj1:38.1"
@@ -1577,7 +1577,7 @@ msgstr "Second preliminary ruling"
 #. </h2><p><a class="sc" id="39"></a>a class="ms-pa" id="MS.79" href="#MS.79">MS.79</a>
 msgctxt "pi-tv-bu-vb-pj1:45.2"
 msgid "<strong class=\\\"rule\\\">“Yo pana bhikkhu methunaṃ dhammaṃ paṭiseveyya antamaso tiracchā­na­gatā­yapi, pārājiko hoti asaṃvāso”</strong>ti."
-msgstr "‘If a monk has sexual intercourse, even with a female animal, he is expelled and not in communion.ʼ”"
+msgstr "<strong class=\\\"rule\\\">‘If a monk has sexual intercourse, even with a female animal, he is expelled and not in communion.ʼ”</strong>"
 
 #. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="MS.80" href="#MS.80">MS.80</a>
 msgctxt "pi-tv-bu-vb-pj1:46.1"
@@ -1657,13 +1657,13 @@ msgstr "The Master then gave a teaching and addressed the monks:"
 
 #. <span class=\\\"var\\\" title=\\\"yo pana bhikkhave bhikkhu (bj, pts1) yo kho bhikkhave bhikkhu (s1-3)\\\" id=\\\"note38\\\">bhikkhave</span>
 msgctxt "pi-tv-bu-vb-pj1:51.2"
-msgid "“yo, bhikkhave, sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭisevati so āgato na upasam­pā­detabbo."
-msgstr "“Monks, if a monk, without first renouncing the training and revealing his weakness, has sexual intercourse, he may not receive the full ordination."
+msgid "<span class=\\\"rule\\\">“yo, bhikkhave, sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭisevati so āgato na upasam­pā­detabbo."
+msgstr "<span class=\\\"rule\\\">“Monks, if a monk, without first renouncing the training and revealing his weakness, has sexual intercourse, he may not receive the full ordination."
 
 #. <span class=\\\"var\\\" title=\\\"yo ca kho bhikkhave bhikkhu (bj, s1-3)\\\" id=\\\"note39\\\">ca kho, bhikkhave</span>
 msgctxt "pi-tv-bu-vb-pj1:51.3"
-msgid "Yo ca kho, bhikkhave, sikkhaṃ paccakkhāya dubbalyaṃ āvikatvā methunaṃ dhammaṃ paṭisevati so āgato upasam­pā­detabbo."
-msgstr "But, monks, if someone has sexual intercourse after first renouncing the training and revealing his weakness, he may receive the full ordination."
+msgid "Yo ca kho, bhikkhave, sikkhaṃ paccakkhāya dubbalyaṃ āvikatvā methunaṃ dhammaṃ paṭisevati so āgato upasam­pā­detabbo.</span>"
+msgstr "But, monks, if someone has sexual intercourse after first renouncing the training and revealing his weakness, he may receive the full ordination.</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:51.4"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
@@ -1678,7 +1678,7 @@ msgstr "Final ruling"
 #. <span class=\\\"var\\\" title=\\\"appaccakkhāya (s2, s3)\\\" id=\\\"note40\\\">apaccakkhāya</span>
 msgctxt "pi-tv-bu-vb-pj1:52.2"
 msgid "<strong class=\\\"rule\\\">“Yo pana bhikkhu bhikkhūnaṃ sikkhā­sājīva­samā­panno sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchā­na­gatā­yapi, pārājiko hoti asaṃvāso”</strong>ti."
-msgstr "‘If a monk, after taking on the monks’ training and way of life, without first renouncing the training and revealing his weakness, has sexual intercourse, even with a female animal, he is expelled and not in communion.ʼ”"
+msgstr "<strong class=\\\"rule\\\">‘If a monk, after taking on the monks’ training and way of life, without first renouncing the training and revealing his weakness, has sexual intercourse, even with a female animal, he is expelled and not in communion.ʼ”</strong>"
 
 #. </p><h2>
 msgctxt "pi-tv-bu-vb-pj1:52.3"
@@ -1687,26 +1687,26 @@ msgstr "Definitions"
 
 #. </h2><p><a class="pts-cs-empty" id="Bu-Pj.1.8">Bu-Pj.1.8</a> <a class="pts-cs" id="Bu-Pj.1.8.1" href="#Bu-Pj.1.8.1">Bu-Pj.1.8.1</a> <a class="ms-pa" id="MS.86" href="#MS.86">MS.86</a>
 msgctxt "pi-tv-bu-vb-pj1:52.4"
-msgid "(<em>1</em>:<strong>1</strong>)"
-msgstr "A:"
+msgid "(<em>1</em>:<strong class=\\\"term\\\">1</strong>)"
+msgstr "<strong class=\\\"term\\\">A:</strong>"
 
 #. </p><p><a class="sc" id="46"></a><a class="pts-vp-pi" id="pts-vp-pi3.24"></a><a class="pts-vp-pi" id="pts-vp-pi3.24" href="#Vin.3.24">Vin 3.24</a>
 msgctxt "pi-tv-bu-vb-pj1:53.1"
-msgid "<strong>Yo panā</strong>ti yo yādiso yathāyutto yathājacco yathānāmo yathāgotto yathāsīlo yathāvihārī yathāgocaro thero vā navo vā majjhimo vā."
-msgstr "whoever, of such a kind, of such activity, of such social standing, of such name, of such family, of such conduct, of such behavior, of such association, who is senior, who is junior, or who is of middle standing—"
+msgid "<span class=\\\"gloss\\\">Yo panāti yo yādiso yathāyutto yathājacco yathānāmo yathāgotto yathāsīlo yathāvihārī yathāgocaro thero vā navo vā majjhimo vā."
+msgstr "<span class=\\\"gloss\\\">whoever, of such a kind, of such activity, of such social standing, of such name, of such family, of such conduct, of such behavior, of such association, who is senior, who is junior, or who is of middle standing—"
 
 msgctxt "pi-tv-bu-vb-pj1:53.2"
-msgid "Eso vuccati “yo panā”ti."
-msgstr "this is called “a.”"
+msgid "Eso vuccati “yo panā”ti.</span>"
+msgstr "this is called “a.”</span>"
 
 #. </p><p><a class="sc" id="47"></a><a class="ms-pa" id="MS.87" href="#MS.87">MS.87</a>
 msgctxt "pi-tv-bu-vb-pj1:54.1"
-msgid "<strong>Bhikkhū</strong>ti"
-msgstr "Monk:"
+msgid "<strong class=\\\"term\\\">Bhikkhū</strong>ti"
+msgstr "<strong class=\\\"term\\\">Monk:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:54.2"
-msgid "bhikkhakoti bhikkhu,"
-msgstr "he is a monk because he lives on alms;"
+msgid "<span class=\\\"gloss\\\">bhikkhakoti bhikkhu,"
+msgstr "<span class=\\\"gloss\\\">he is a monk because he lives on alms;"
 
 msgctxt "pi-tv-bu-vb-pj1:54.3"
 msgid "bhikkhācariyaṃ ajjhupagatoti bhikkhu,"
@@ -1757,52 +1757,56 @@ msgid "Tatra yvāyaṃ bhikkhu samaggena saṃghena ñatti­catut­thena kammena
 msgstr "The monk given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements, which is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-pj1:54.15"
-msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti.</span>"
 msgstr "this sort of monk is meant in this case.</span>"
 
 #. </p><p><a class="sc" id="88"></a><a class="ms-pa" id="MS.88" href="#MS.88">MS.88</a>
 msgctxt "pi-tv-bu-vb-pj1:55.1"
-msgid "<strong>Sikkhā</strong>ti tisso sikkhā—"
-msgstr "Training: the three trainings:"
+msgid "<strong class=\\\"term\\\">Sikkhā</strong>ti tisso sikkhā—"
+msgstr "<strong class=\\\"term\\\">Training:</strong> the three trainings:"
+
+msgctxt "pi-tv-bu-vb-pj1:55.2"
+msgid "<span class=\\\"gloss\\\">tisso sikkhā—"
+msgstr "<span class=\\\"gloss\\\">the three trainings:"
 
 #. <a class="pts-vp-en" id="BD.1.43" href="#BD.1.43">BD.1.43</a>
-msgctxt "pi-tv-bu-vb-pj1:55.2"
+msgctxt "pi-tv-bu-vb-pj1:55.3"
 msgid "adhisīlasikkhā, adhi­citta­sikkhā, adhipañ­ñā­sikkhā."
 msgstr "the training in the higher morality, the training in the higher mind, the training in the higher wisdom."
 
-msgctxt "pi-tv-bu-vb-pj1:55.3"
-msgid "Tatra yāyaṃ adhisīlasikkhā, ayaṃ imasmiṃ atthe adhippetā sikkhāti."
-msgstr "The training in the higher morality is the training meant in this case."
+msgctxt "pi-tv-bu-vb-pj1:55.4"
+msgid "Tatra yāyaṃ adhisīlasikkhā, ayaṃ imasmiṃ atthe adhippetā sikkhāti.</span>"
+msgstr "The training in the higher morality is the training meant in this case.</span>"
 
 #. </p><p><a class="sc" id="49"></a><a class="ms-pa" id="MS.89" href="#MS.89">MS.89</a>
 msgctxt "pi-tv-bu-vb-pj1:56.1"
-msgid "<strong>Sājīvaṃ</strong> nāma"
-msgstr "Way of life:"
+msgid "<strong class=\\\"term\\\">Sājīvaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Way of life:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:56.2"
-msgid "yaṃ bhagavatā paññattaṃ sikkhāpadaṃ,"
-msgstr "whatever training rule has been laid down by the Master—"
+msgid "<span class=\\\"gloss\\\">yaṃ bhagavatā paññattaṃ sikkhāpadaṃ,"
+msgstr "<span class=\\\"gloss\\\">whatever training rule has been laid down by the Master—"
 
 msgctxt "pi-tv-bu-vb-pj1:56.3"
 msgid "etaṃ sājīvaṃ nāma."
 msgstr "this is called “way of life.”"
 
 msgctxt "pi-tv-bu-vb-pj1:56.4"
-msgid "Tasmiṃ sikkhati, tena vuccati sājīva­samā­pan­noti."
-msgstr "One trains in this; therefore it is called “after taking on […] the way of life.”"
+msgid "Tasmiṃ sikkhati, tena vuccati sājīva­samā­pan­noti.</span>"
+msgstr "One trains in this; therefore it is called “after taking on […] the way of life.”</span>"
 
 #. </p><p><a class="sc" id="50"></a><a class="pts-cs" id="Bu-Pj.1.8.2" href="#Bu-Pj.1.8.2">Bu-Pj.1.8.2</a><a class="ms-pa" id="MS.90" href="#MS.90">MS.90</a>
 msgctxt "pi-tv-bu-vb-pj1:57.1"
-msgid "<strong>Sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā</strong>ti"
-msgstr "Without first renouncing the training and revealing his weakness:"
+msgid "<strong class=\\\"term\\\">Sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā</strong>ti"
+msgstr "<strong class=\\\"term\\\">Without first renouncing the training and revealing his weakness:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:57.2"
-msgid "atthi, bhikkhave, dubbal­yā­vi­kammañ­ceva hoti sikkhā ca apaccakkhātā;"
-msgstr "“There is, monks, a revealing of weakness without the training being renounced;"
+msgid "<span class=\\\"gloss\\\">atthi, bhikkhave, dubbal­yā­vi­kammañ­ceva hoti sikkhā ca apaccakkhātā;"
+msgstr "<span class=\\\"gloss\\\">“There is, monks, a revealing of weakness without the training being renounced;"
 
 msgctxt "pi-tv-bu-vb-pj1:57.3"
-msgid "atthi, bhikkhave, dubbal­yā­vi­kammañ­ceva hoti sikkhā ca paccakkhātā."
-msgstr "and there is a revealing of weakness together with the training being renounced."
+msgid "atthi, bhikkhave, dubbal­yā­vi­kammañ­ceva hoti sikkhā ca paccakkhātā.</span>"
+msgstr "and there is a revealing of weakness together with the training being renounced.</span>"
 
 #. </p><p><a class="sc" id="51"></a><a class="ms-pa" id="MS.91" href="#MS.91">MS.91</a>
 msgctxt "pi-tv-bu-vb-pj1:58.1"
@@ -2604,48 +2608,52 @@ msgstr "In this way, monks, the training isnʼt renounced.”"
 
 #. </p><p><a class="sc" id="63"></a><a class="pts-cs" id="Bu-Pj.1.8.5" href="#Bu-Pj.1.8.5">Bu-Pj.1.8.5</a><a class="ms-pa" id="MS.103" href="#MS.103">MS.103</a>
 msgctxt "pi-tv-bu-vb-pj1:70.1"
-msgid "<strong>Methunadhammo</strong> nāma"
-msgstr "Sexual intercourse:"
+msgid "<strong class=\\\"term\\\">Methunadhammo</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Sexual intercourse:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:70.2"
-msgid "yo so asaddhammo gāmadhammo vasaladhammo duṭṭhullaṃ odakantikaṃ rahassaṃ dvayaṃ­d­vayasa­māpatti, eso methunadhammo nāma."
-msgstr "what is contrary to the true Teaching, the common practice, the low practice, the coarse practice, that which ends with a wash, that which is done in private, that which is done wherever there are couples—: this is called “sexual intercourse.”"
+msgid "<span class=\\\"gloss\\\">yo so asaddhammo gāmadhammo vasaladhammo duṭṭhullaṃ odakantikaṃ rahassaṃ dvayaṃ­d­vayasa­māpatti,"
+msgstr "<span class=\\\"gloss\\\">what is contrary to the true Teaching, the common practice, the low practice, the coarse practice, that which ends with a wash, that which is done in private, that which is done wherever there are couples—: "
+
+msgctxt "pi-tv-bu-vb-pj1:70.3"
+msgid "eso methunadhammo nāma.</span>"
+msgstr "this is called “sexual intercourse.”</span>"
 
 #. </p><p><a class="sc" id="64"></a><a class="ms-pa" id="MS.104" href="#MS.104">MS.104</a>
 msgctxt "pi-tv-bu-vb-pj1:71.1"
-msgid "<strong>Paṭisevati</strong> nāma"
-msgstr "Has:"
+msgid "<strong class=\\\"term\\\">Paṭisevati</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Has:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:71.2"
-msgid "yo nimittena nimittaṃ aṅgajātena aṅgajātaṃ antamaso tilaphala­mattampi paveseti, eso paṭisevati nāma."
-msgstr "<span class="gloss">organ with organ, genital with genital, even to the depth of a sesame seed—this is called “has.”"
+msgid "<span class=\\\"gloss\\\">yo nimittena nimittaṃ aṅgajātena aṅgajātaṃ antamaso tilaphala­mattampi paveseti, eso paṭisevati nāma.</span>"
+msgstr "<span class=\\\"gloss\\\">organ with organ, genital with genital, even to the depth of a sesame seed—this is called “has.”</span>"
 
 #. </p><p><a class="sc" id="65"></a>
 msgctxt "pi-tv-bu-vb-pj1:72.1"
-msgid "<strong>Antamaso tiracchā­na­gatā­yapī</strong>ti"
-msgstr "Even with a female animal:"
+msgid "<strong class=\\\"term\\\">Antamaso tiracchā­na­gatā­yapī</strong>ti"
+msgstr "<strong class=\\\"term\\\">Even with a female animal:</strong>"
 
 #. <a class="pts-vp-en" id="BD.1.48" href="#BD.1.48">BD.1.48</a>
 msgctxt "pi-tv-bu-vb-pj1:72.2"
-msgid "tiracchā­na­ga­titthi­yāpi methunaṃ dhammaṃ paṭisevitvā assamaṇo hoti asakyaputtiyo, pageva manussitthiyā."
-msgstr "even having had sexual intercourse with a female animal, he is not an ascetic, not a son of the Sakyan; how much less so with a woman—"
+msgid "<span class=\\\"gloss\\\">tiracchā­na­ga­titthi­yāpi methunaṃ dhammaṃ paṭisevitvā assamaṇo hoti asakyaputtiyo, pageva manussitthiyā."
+msgstr "<span class=\\\"gloss\\\">even having had sexual intercourse with a female animal, he is not an ascetic, not a son of the Sakyan; how much less so with a woman—"
 
 msgctxt "pi-tv-bu-vb-pj1:72.3"
 msgid "Tena vuccati—"
 msgstr "therefore it is called"
 
 msgctxt "pi-tv-bu-vb-pj1:72.4"
-msgid "“antamaso tiracchā­na­gatā­yapī”ti."
-msgstr "“even with a female animal.”"
+msgid "“antamaso tiracchā­na­gatā­yapī”ti.</span>"
+msgstr "“even with a female animal.”</span>"
 
 #. </p><p><a class="sc" id="66"></a><a class="ms-pa" id="MS.106" href="#MS.106">MS.106</a>
 msgctxt "pi-tv-bu-vb-pj1:73.1"
-msgid "<strong>Pārājiko hotī</strong>ti"
-msgstr "He is expelled:"
+msgid "<strong class=\\\"term\\\">Pārājiko hotī</strong>ti"
+msgstr "<strong class=\\\"term\\\">He is expelled:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:73.2"
-msgid "seyyathāpi nāma puriso sīsacchinno abhabbo tena sarīra­bandha­nena jīvituṃ;"
-msgstr "just as a man with his head cut off is unable to continue living by reconnecting it to the body,"
+msgid "<span class=\\\"gloss\\\">seyyathāpi nāma puriso sīsacchinno abhabbo tena sarīra­bandha­nena jīvituṃ;"
+msgstr "<span class=\\\"gloss\\\">just as a man with his head cut off is unable to continue living by reconnecting it to the body,"
 
 msgctxt "pi-tv-bu-vb-pj1:73.3"
 msgid "evameva bhikkhu methunaṃ dhammaṃ paṭisevitvā assamaṇo hoti asakyaputtiyo."
@@ -2656,33 +2664,37 @@ msgid "Tena vuccati—"
 msgstr "therefore it is said"
 
 msgctxt "pi-tv-bu-vb-pj1:73.5"
-msgid "“pārājiko hotī”ti."
-msgstr "“he is expelled.”"
+msgid "“pārājiko hotī”ti.</span>"
+msgstr "“he is expelled.”</span>"
 
 #. </p><p><a class="sc" id="67"></a><a class="ms-pa" id="MS.107" href="#MS.107">MS.107</a>
 msgctxt "pi-tv-bu-vb-pj1:74.1"
-msgid "<strong>Asaṃvāso</strong>ti"
-msgstr "Not in communion:"
+msgid "<strong class=\\\"term\\\">Asaṃvāso</strong>ti"
+msgstr "<strong class=\\\"term\\\">Not in communion:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:74.2"
-msgid "saṃvāso nāma ekakammaṃ ekuddeso samasikkhatā—"
-msgstr "Communion: common formal procedures, the same recital, the same training—"
+msgid "<span class=\\\"gloss\\\"><strong class=\\\"term\\\">saṃvāso nāma</strong>"
+msgstr "<span class=\\\"gloss\\\"><strong class=\\\"term\\\">Communion:</strong>"
 
 msgctxt "pi-tv-bu-vb-pj1:74.3"
-msgid "eso saṃvāso nāma."
-msgstr "this is called “communion.”"
+msgid "<span class=\\\"gloss\\\">ekakammaṃ ekuddeso samasikkhatā—"
+msgstr "<span class=\\\"gloss\\\">common formal procedures, the same recital, the same training—"
 
 msgctxt "pi-tv-bu-vb-pj1:74.4"
+msgid "eso saṃvāso nāma.</span>"
+msgstr "this is called “communion.”</span>"
+
+msgctxt "pi-tv-bu-vb-pj1:74.5"
 msgid "So tena saddhiṃ natthi."
 msgstr "He does not take part in this—"
 
-msgctxt "pi-tv-bu-vb-pj1:74.5"
+msgctxt "pi-tv-bu-vb-pj1:74.6"
 msgid "Tena vuccati—"
 msgstr "therefore it is called"
 
-msgctxt "pi-tv-bu-vb-pj1:74.6"
-msgid "“asaṃvāso”ti."
-msgstr "“not in communion.”"
+msgctxt "pi-tv-bu-vb-pj1:74.7"
+msgid "“asaṃvāso”ti.</span>"
+msgstr "“not in communion.”</span>"
 
 #. </p><h2>
 msgctxt "pi-tv-bu-vb-pj1:75.1"
@@ -3910,27 +3922,27 @@ msgctxt "pi-tv-bu-vb-pj1:99.12"
 msgid "mukhaṃ abhinisīdenti"
 msgstr "its mouth,"
 
-msgctxt "pi-tv-bu-vb-pj1:99.12"
+msgctxt "pi-tv-bu-vb-pj1:99.13"
 msgid "santhatassa asanthatassa,"
 msgstr "the monk being covered and the animal uncovered;"
 
-msgctxt "pi-tv-bu-vb-pj1:99.12"
+msgctxt "pi-tv-bu-vb-pj1:99.14"
 msgid "asanthatassa santhatassa,"
 msgstr "the monk uncovered and the animal covered;"
 
-msgctxt "pi-tv-bu-vb-pj1:99.12"
+msgctxt "pi-tv-bu-vb-pj1:99.15"
 msgid "santhatassa santhatassa,"
 msgstr "the monk covered and the animal covered;"
 
-msgctxt "pi-tv-bu-vb-pj1:99.12"
+msgctxt "pi-tv-bu-vb-pj1:99.16"
 msgid "asanthatassa asanthatassa,"
 msgstr "the monk uncovered and the animal uncovered."
 
-msgctxt "pi-tv-bu-vb-pj1:99.13"
+msgctxt "pi-tv-bu-vb-pj1:99.17"
 msgid "So ce pavesanaṃ sādiyati, paviṭṭhaṃ sādiyati, ṭhitaṃ sādiyati, uddharaṇaṃ sādiyati, āpatti pārājikassa … pe …"
 msgstr "If he agrees to the entry, if he agrees to having entered, if he agrees to the remaining, if he agrees to the taking out, he commits an offense entailing expulsion. …"
 
-msgctxt "pi-tv-bu-vb-pj1:99.15"
+msgctxt "pi-tv-bu-vb-pj1:99.18"
 msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
@@ -4449,8 +4461,8 @@ msgstr ""
 
 #. </p><p><a class="sc" id="111"></a><a class="pts-vp-pi" id="pts-vp-pi3.35"></a><a class="pts-cs" id="Bu-Pj.1.10.5" href="#Bu-Pj.1.10.5">Bu-Pj.1.10.5</a><a class="pts-vp-pi" id="pts-vp-pi3.35" href="#Vin.3.35">Vin 3.35</a> <a class="ms-pa" id="MS.151" href="#MS.151">MS.151</a>
 msgctxt "pi-tv-bu-vb-pj1:120.1"
-msgid "Tena kho pana samayena aññataro māṇavako uppalavaṇṇāya bhikkhuniyā paṭi­baddha­citto hoti."
-msgstr "At one time a brahmin youth was in love with the nun Uppalavaṇṇā."
+msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena aññataro māṇavako uppalavaṇṇāya bhikkhuniyā paṭi­baddha­citto hoti."
+msgstr "<span class=\\\"bhikkhuni\\\">At one time a brahmin youth was in love with the nun Uppalavaṇṇā."
 
 #. <a class="pts-vp-en" id="BD.1.54" href="#BD.1.54">BD.1.54</a>
 msgctxt "pi-tv-bu-vb-pj1:120.2"
@@ -4478,8 +4490,8 @@ msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ."
 msgstr "who in turn informed the Master."
 
 msgctxt "pi-tv-bu-vb-pj1:120.8"
-msgid "“Anāpatti, bhikkhave, asādiyantiyā”ti."
-msgstr "“Thereʼs no offense for one who doesnʼt consent.”"
+msgid "“Anāpatti, bhikkhave, asādiyantiyā”ti.</span>"
+msgstr "“Thereʼs no offense for one who doesnʼt consent.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:120.9"
 msgid "(13)"
@@ -4487,8 +4499,8 @@ msgstr ""
 
 #. </p><p><a class="sc" id="112"></a><a class="pts-cs" id="Bu-Pj.1.10.6" href="#Bu-Pj.1.10.6">Bu-Pj.1.10.6</a><a class="ms-pa" id="MS.152" href="#MS.152">MS.152</a>
 msgctxt "pi-tv-bu-vb-pj1:121.1"
-msgid "Tena kho pana samayena aññatarassa bhikkhuno itthiliṅgaṃ pātubhūtaṃ hoti."
-msgstr "At one time the characteristics of a woman appeared on a monk."
+msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena aññatarassa bhikkhuno itthiliṅgaṃ pātubhūtaṃ hoti."
+msgstr "<span class=\\\"bhikkhuni\\\">At one time the characteristics of a woman appeared on a monk."
 
 msgctxt "pi-tv-bu-vb-pj1:121.2"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
@@ -4497,16 +4509,16 @@ msgstr "They informed the Master. He said:"
 #. <span class=\\\"var\\\" title=\\\"tāni (bj, s1-3, pts1)\\\" id=\\\"note47\\\">tāniyeva</span>
 #. <span class=\\\"var\\\" title=\\\"saṅkamituṃ (bj, s1-3, pts1)\\\" id=\\\"note48\\\">saṅgamituṃ</span>
 msgctxt "pi-tv-bu-vb-pj1:121.3"
-msgid "“Anujānāmi, bhikkhave, taññeva upajjhaṃ tameva upasampadaṃ tāniyeva vassāni bhikkhunīhi saṅgamituṃ."
-msgstr "“Monks, I allow that very discipleship, that very ordination, those years as a monk, to be transferred to the nuns."
+msgid "<span class=\\\"rule\\\">“Anujānāmi, bhikkhave, taññeva upajjhaṃ tameva upasampadaṃ tāniyeva vassāni bhikkhunīhi saṅgamituṃ."
+msgstr "<span class=\\\"rule\\\">“Monks, I allow that very discipleship, that very ordination, those years as a monk, to be transferred to the nuns."
 
 msgctxt "pi-tv-bu-vb-pj1:121.4"
 msgid "Yā āpattiyo bhikkhūnaṃ bhikkhunīhi sādhāraṇā tā āpattiyo bhikkhunīnaṃ santike vuṭṭhātuṃ."
 msgstr "The monksʼ offenses that are in common with the nuns are to be dealt with in the presence of the nuns."
 
 msgctxt "pi-tv-bu-vb-pj1:121.5"
-msgid "Yā āpattiyo bhikkhūnaṃ bhikkhunīhi asādhāraṇā tāhi āpattīhi anāpattī”ti."
-msgstr "For the monksʼ offenses that are not in common with the nuns, thereʼs no offense.”"
+msgid "Yā āpattiyo bhikkhūnaṃ bhikkhunīhi asādhāraṇā tāhi āpattīhi anāpattī”ti.</span></span>"
+msgstr "For the monksʼ offenses that are not in common with the nuns, thereʼs no offense.</span>”</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:121.6"
 msgid "(14)"
@@ -4514,8 +4526,8 @@ msgstr ""
 
 #. </p><p><a class="sc" id="113"></a><a class="ms-pa" id="MS.153" href="#MS.153">MS.153</a>
 msgctxt "pi-tv-bu-vb-pj1:122.1"
-msgid "Tena kho pana samayena aññatarissā bhikkhuniyā purisaliṅgaṃ pātubhūtaṃ hoti."
-msgstr "At one time the characteristics of a man appeared on a nun."
+msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena aññatarissā bhikkhuniyā purisaliṅgaṃ pātubhūtaṃ hoti."
+msgstr "<span class=\\\"bhikkhuni\\\">At one time the characteristics of a man appeared on a nun."
 
 msgctxt "pi-tv-bu-vb-pj1:122.2"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
@@ -4524,16 +4536,16 @@ msgstr "They informed the Master. He said:"
 #. <span class=\\\"var\\\" title=\\\"tāni (bj, s1-3, pts1)\\\" id=\\\"note49\\\">tāniyeva</span>
 #. <span class=\\\"var\\\" title=\\\"saṅkamituṃ (bj, s1-3, pts1)\\\" id=\\\"note50\\\">saṅgamituṃ</span>
 msgctxt "pi-tv-bu-vb-pj1:122.3"
-msgid "“Anujānāmi, bhikkhave, taññeva upajjhaṃ tameva upasampadaṃ tāniyeva vassāni bhikkhūhi saṅgamituṃ."
-msgstr "“Monks, I allow that very discipleship, that very ordination, those years as a nun, to be transferred to the monks."
+msgid "<span class=\\\"rule\\\">“Anujānāmi, bhikkhave, taññeva upajjhaṃ tameva upasampadaṃ tāniyeva vassāni bhikkhūhi saṅgamituṃ."
+msgstr "<span class=\\\"rule\\\">“Monks, I allow that very discipleship, that very ordination, those years as a nun, to be transferred to the monks."
 
 msgctxt "pi-tv-bu-vb-pj1:122.4"
 msgid "Yā āpattiyo bhikkhunīnaṃ bhikkhūhi sādhāraṇā tā āpattiyo bhikkhūnaṃ santike vuṭṭhātuṃ."
 msgstr "The nunsʼ offenses that are in common with the monks are to be dealt with in the presence of the monks."
 
 msgctxt "pi-tv-bu-vb-pj1:122.5"
-msgid "Yā āpattiyo bhikkhunīnaṃ bhikkhūhi asādhāraṇā tāhi āpattīhi anāpattī”ti."
-msgstr "For the nunsʼ offenses that are not in common with the monks, thereʼs no offense.”"
+msgid "Yā āpattiyo bhikkhunīnaṃ bhikkhūhi asādhāraṇā tāhi āpattīhi anāpattī”ti.</span></span>"
+msgstr "For the nunsʼ offenses that are not in common with the monks, thereʼs no offense.”</span></span>"
 
 msgctxt "pi-tv-bu-vb-pj1:122.6"
 msgid "(15)"
@@ -5139,8 +5151,8 @@ msgstr "The monks, seeing the moisture, informed the Master."
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.38" href="#Vin.3.38">Vin 3.38</a>
 msgctxt "pi-tv-bu-vb-pj1:144.5"
-msgid "“Pañcahi, bhikkhave, ākārehi aṅgajātaṃ kammaniyaṃ hoti—"
-msgstr "“Monks, an erection occurs for five reasons:"
+msgid "<span class=\\\"sutta\\\">“Pañcahi, bhikkhave, ākārehi aṅgajātaṃ kammaniyaṃ hoti—"
+msgstr "<span class=\\\"sutta\\\">“Monks, an erection occurs for five reasons:"
 
 msgctxt "pi-tv-bu-vb-pj1:144.6"
 msgid "rāgena, vaccena, passāvena, vātena, uccāliṅ­ga­pāṇaka­daṭ­ṭhena."
@@ -5155,8 +5167,8 @@ msgid "Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ tassa bhikkhuno rāgena 
 msgstr "Itʼs impossible that that monk had an erection because of lust."
 
 msgctxt "pi-tv-bu-vb-pj1:144.9"
-msgid "Arahaṃ so, bhikkhave, bhikkhu."
-msgstr "That monk is a perfected one."
+msgid "Arahaṃ so, bhikkhave, bhikkhu.</span>"
+msgstr "That monk is a perfected one.</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:144.10"
 msgid "Anāpatti, bhikkhave, tassa bhikkhuno”ti."
@@ -5364,8 +5376,8 @@ msgid "Bhikkhū kilinnaṃ passitvā bhagavato etamatthaṃ ārocesuṃ."
 msgstr "The monks saw the moisture and informed the Master."
 
 msgctxt "pi-tv-bu-vb-pj1:150.8"
-msgid "“Pañcahi, bhikkhave, ākārehi aṅgajātaṃ kammaniyaṃ hoti—"
-msgstr "“Monks, an erection occurs for five reasons:"
+msgid "<span class=\\\"sutta\\\">“Pañcahi, bhikkhave, ākārehi aṅgajātaṃ kammaniyaṃ hoti—"
+msgstr "<span class=\\\"sutta\\\">“Monks, an erection occurs for five reasons:"
 
 msgctxt "pi-tv-bu-vb-pj1:150.9"
 msgid "rāgena, vaccena, passāvena, vātena, uccāliṅ­ga­pāṇaka­daṭ­ṭhena."
@@ -5380,16 +5392,16 @@ msgid "Aṭṭhānametaṃ, bhikkhave, anavakāso, yaṃ tassa bhikkhuno rāgena
 msgstr "Itʼs impossible that that monk had an erection because of lust."
 
 msgctxt "pi-tv-bu-vb-pj1:150.12"
-msgid "Arahaṃ so, bhikkhave, bhikkhu."
-msgstr "That monk is a perfected one."
+msgid "Arahaṃ so, bhikkhave, bhikkhu.</span>"
+msgstr "That monk is a perfected one.</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:150.13"
 msgid "Anāpatti, bhikkhave, tassa bhikkhuno."
 msgstr "Thereʼs no offense for that monk."
 
 msgctxt "pi-tv-bu-vb-pj1:150.14"
-msgid "Anujānāmi, bhikkhave, divā paṭi­sal­lī­yan­tena dvāraṃ saṃvaritvā paṭisallīyitun”ti."
-msgstr "But, monks, I advise you to close the door when you are in seclusion during the day.”"
+msgid "<span class=\\\"rule\\\">Anujānāmi, bhikkhave, divā paṭi­sal­lī­yan­tena dvāraṃ saṃvaritvā paṭisallīyitun”ti.</span>"
+msgstr "<span class=\\\"rule\\\">But, monks, I advise you to close the door when you are in seclusion during the day.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:150.15"
 msgid "(51)"
@@ -5572,8 +5584,8 @@ msgstr ""
 
 #. </p><p><a class="sc" id="145"></a><a class="pts-vp-pi" id="pts-vp-pi3.40"></a><a class="pts-cs" id="Bu-Pj.1.10.25" href="#Bu-Pj.1.10.25">Bu-Pj.1.10.25</a><a class="ms-pa" id="MS.185" href="#MS.185">MS.185</a><a class="pts-vp-en" id="BD.1.62" href="#BD.1.62">BD.1.62</a><a class="pts-vp-pi" id="pts-vp-pi3.40" href="#Vin.3.40">Vin 3.40</a>
 msgctxt "pi-tv-bu-vb-pj1:154.1"
-msgid "Tena kho pana samayena vesāliyaṃ ­liccha­vi­kumārakā bhikkhuṃ gahetvā bhikkhuniyā vippaṭipādesuṃ …"
-msgstr "At one time in Vesālī some Licchavī youths took hold of a monk and made him commit misconduct with a nun …"
+msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena vesāliyaṃ ­liccha­vi­kumārakā bhikkhuṃ gahetvā bhikkhuniyā vippaṭipādesuṃ …"
+msgstr "<span class=\\\"bhikkhuni\\\">At one time in Vesālī some Licchavī youths took hold of a monk and made him commit misconduct with a nun …"
 
 msgctxt "pi-tv-bu-vb-pj1:154.2"
 msgid "sikkhamānāya vippaṭipādesuṃ …"
@@ -5596,8 +5608,8 @@ msgid "Ubho na sādiyiṃsu."
 msgstr "Neither agreed:"
 
 msgctxt "pi-tv-bu-vb-pj1:154.7"
-msgid "Ubhinnaṃ anāpatti."
-msgstr "there is no offense for either."
+msgid "Ubhinnaṃ anāpatti.</span>"
+msgstr "there is no offense for either.</span>"
 
 msgctxt "pi-tv-bu-vb-pj1:154.8"
 msgid "(71–‍76)"

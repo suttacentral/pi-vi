@@ -183,11 +183,11 @@ msgid "Mā pacchimā janatā pāṇesu pātabyataṃ āpajji."
 msgstr "Donʼt let future generations take up the destruction of living beings."
 
 msgctxt "pi-tv-bu-vb-pj2:8.11"
-msgid "Na ca, bhikkhave, sab­bamat­tikā­mayā kuṭikā kātabbā."
+msgid "<span class=\\\"rule\\\">Na ca, bhikkhave, sab­bamat­tikā­mayā kuṭikā kātabbā."
 msgstr "<span class=\\\"rule\\\">And, monks, you should not make a hut consisting of nothing but clay."
 
 msgctxt "pi-tv-bu-vb-pj2:8.12"
-msgid "Yo kareyya, āpatti dukkaṭassā”ti."
+msgid "Yo kareyya, āpatti dukkaṭassā”ti.</span>"
 msgstr "If you do, you commit an offense of wrong conduct.</span>”"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.67\\\" href=\\\"#BD.1.67\\\">BD.1.67</a>
@@ -626,7 +626,7 @@ msgstr "Preliminary ruling"
 #. </h2><p><a class="sc" id="16"></a><a class=\\\"ms-pa\\\" id=\\\"MS.206\\\" href=\\\"#MS.206\\\">MS.206</a>
 msgctxt "pi-tv-bu-vb-pj2:20.2"
 msgid "<strong class=\\\"rule\\\">“Yo pana bhikkhu adinnaṃ they­ya­saṅ­khā­taṃ ādiyeyya,"
-msgstr "<span class=\\\"subrule\\\">‘If a monk, intending to steal, takes what has not been given to him—"
+msgstr "<strong class=\\\"rule\\\">‘If a monk, intending to steal, takes what has not been given to him—"
 
 msgctxt "pi-tv-bu-vb-pj2:20.3"
 msgid "yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā—"
@@ -638,7 +638,7 @@ msgstr "“Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thie
 
 msgctxt "pi-tv-bu-vb-pj2:20.5"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”</strong>ti."
-msgstr "he too is expelled and not in communion.’”</span>"
+msgstr "he too is expelled and not in communion.’”</strong>"
 
 #. </p><p><a class="sc" id="17"></a><a class=\\\"ms-pa\\\" id=\\\"MS.207\\\" href=\\\"#MS.207\\\">MS.207</a>
 msgctxt "pi-tv-bu-vb-pj2:21.1"
@@ -780,19 +780,19 @@ msgstr "Final ruling"
 #. </h2><p><a class="sc" id="20"></a><a class=\\\"ms-pa\\\" id=\\\"MS.210\\\" href=\\\"#MS.210\\\">MS.210</a>
 msgctxt "pi-tv-bu-vb-pj2:24.2"
 msgid "<strong class=\\\"rule\\\">“Yo pana bhikkhu gāmā vā araññā vā adinnaṃ they­ya­saṅ­khā­taṃ ādiyeyya,"
-msgstr "‘If a monk, intending to steal, takes from a village or from the wilderness what has not been given to him—"
+msgstr "<strong class=\\\"rule\\\">‘If a monk, intending to steal, takes from a village or from the wilderness what has not been given to him—"
 
 msgctxt "pi-tv-bu-vb-pj2:24.3"
 msgid "yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā—"
 msgstr "the sort of theft for which kings, having caught a thief, would beat, imprison, or banish him, saying,"
 
 msgctxt "pi-tv-bu-vb-pj2:24.4"
-msgid "‘corosi bālosi mūḷhosi thenosī’ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”</strong>ti."
+msgid "‘corosi bālosi mūḷhosi thenosī’ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "“Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thief”—"
 
 msgctxt "pi-tv-bu-vb-pj2:24.5"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”</strong>ti."
-msgstr "he too is expelled and not in communion.ʼ”"
+msgstr "he too is expelled and not in communion.ʼ”</strong>"
 
 msgctxt "pi-tv-bu-vb-pj2:24.6"
 msgid "(<em>2</em>:<strong>2</strong>)"
@@ -805,60 +805,60 @@ msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="21"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.3\\\" href=\\\"#Bu-Pj.2.3\\\">Bu-Pj.2.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.211\\\" href=\\\"#MS.211\\\">MS.211</a>
 msgctxt "pi-tv-bu-vb-pj2:25.2"
-msgid "<strong>Yo panā</strong>ti"
-msgstr "<span class=\\\"term\\\">A</span>:"
+msgid "<strong class=\\\"term\\\">Yo panā</strong>ti"
+msgstr "<strong class=\\\"term\\\">A</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:25.3"
-msgid "yo yādiso … pe …"
+msgid "<span class=\\\"gloss\\\">yo yādiso … pe …</span>"
 msgstr "<span class=\\\"gloss\\\">whoever …</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:25.4"
-msgid "<strong>bhikkhū</strong>ti … pe …"
-msgstr "<span class=\\\"term\\\">Monk</span>: <span class=\\\"gloss\\\">… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgid "<strong class=\\\"term\\\">bhikkhū</strong>ti <span class=\\\"gloss\\\">… pe …"
+msgstr "<strong class=\\\"term\\\">Monk</strong>: <span class=\\\"gloss\\\">… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-pj2:25.5"
-msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti.</span>"
 msgstr "this sort of monk is meant in this case.</span>"
 
 #. </p><p><a class="sc" id="22"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.74\\\" href=\\\"#BD.1.74\\\">BD.1.74</a><a class=\\\"ms-pa\\\" id=\\\"MS.212\\\" href=\\\"#MS.212\\\">MS.212</a>
 msgctxt "pi-tv-bu-vb-pj2:26.1"
-msgid "<strong>Gāmo</strong> nāma"
-msgstr "<span class=\\\"term\\\">A village</span>:"
+msgid "<strong class=\\\"term\\\">Gāmo</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A village</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:26.2"
-msgid "ekakuṭikopi gāmo, dvikuṭikopi gāmo, tikuṭikopi gāmo, catukuṭikopi gāmo, samanussopi gāmo, amanussopi gāmo, parikkhittopi gāmo, aparikkhittopi gāmo, gonisādi­niviṭṭhopi gāmo, yopi sattho ati­reka­catumā­sani­viṭṭho sopi vuccati gāmo."
+msgid "<span class=\\\"gloss\\\">ekakuṭikopi gāmo, dvikuṭikopi gāmo, tikuṭikopi gāmo, catukuṭikopi gāmo, samanussopi gāmo, amanussopi gāmo, parikkhittopi gāmo, aparikkhittopi gāmo, gonisādi­niviṭṭhopi gāmo, yopi sattho ati­reka­catumā­sani­viṭṭho sopi vuccati gāmo."
 msgstr "<span class=\\\"gloss\\\">a village of one hut, a village of two huts, a village of three huts, a village of four huts, an inhabited village, an uninhabited village, an enclosed village, an unenclosed village, a disorganized village, and even a caravan settled for more than four months is called “a village.”"
 
 #. </p><p><a class="sc" id="23"></a>
 #. <span class=\\\"var\\\" title=\\\"indakhile (mr)\\\" id=\\\"note68\\\">indakhīle</span>
 msgctxt "pi-tv-bu-vb-pj2:27.1"
-msgid "<strong>Gāmūpacāro</strong> nāma"
-msgstr "<span class=\\\"term\\\">The vicinity of a village</span>:"
+msgid "<strong class=\\\"term\\\">Gāmūpacāro</strong> nāma"
+msgstr "<strong class=\\\"term\\\">The vicinity of a village</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:27.2"
-msgid "parikkhittassa gāmassa indakhīle ṭhitassa majjhimassa purisassa leḍḍupāto,"
+msgid "<span class=\\\"gloss\\\">parikkhittassa gāmassa indakhīle ṭhitassa majjhimassa purisassa leḍḍupāto,"
 msgstr "<span class=\\\"gloss\\\">of an enclosed village: the outward stone-throw of a man of average height standing at the threshold of the village gateway;"
 
 msgctxt "pi-tv-bu-vb-pj2:27.3"
-msgid "aparik­khit­tassa gāmassa gharūpacāre ṭhitassa majjhimassa purisassa leḍḍupāto."
+msgid "aparik­khit­tassa gāmassa gharūpacāre ṭhitassa majjhimassa purisassa leḍḍupāto.</span></span>"
 msgstr "of an unenclosed village: the outward stone-throw of a man of average height standing within the vicinity of a house.</span></span>"
 
 #. </p><p><a class="sc" id="24"></a><a class=\\\"ms-pa\\\" id=\\\"MS.214\\\" href=\\\"#MS.214\\\">MS.214</a>
 msgctxt "pi-tv-bu-vb-pj2:28.1"
-msgid "<strong>Araññaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">The wilderness</span>:"
+msgid "<strong class=\\\"term\\\">Araññaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">The wilderness</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:28.2"
-msgid "ṭhapetvā gāmañca gāmūpacārañca avasesaṃ araññaṃ nāma."
+msgid "<span class=\\\"gloss\\\">ṭhapetvā gāmañca gāmūpacārañca avasesaṃ araññaṃ nāma.</span>"
 msgstr "<span class=\\\"gloss\\\">apart from the village and the vicinity of the village, the remainder is called “the wilderness.”</span>"
 
 #. </p><p><a class="sc" id="25"></a><a class=\\\"ms-pa\\\" id=\\\"MS.215\\\" href=\\\"#MS.215\\\">MS.215</a>
 msgctxt "pi-tv-bu-vb-pj2:29.1"
-msgid "<strong>Adinnaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">What has not been given</span>:"
+msgid "<strong class=\\\"term\\\">Adinnaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">What has not been given</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:29.2"
-msgid "yaṃ adinnaṃ anissaṭṭhaṃ apariccattaṃ"
+msgid "<span class=\\\"gloss\\\">yaṃ adinnaṃ anissaṭṭhaṃ apariccattaṃ"
 msgstr "<span class=\\\"gloss\\\">what has not been given, what has not been let go of, what has not been relinquished;"
 
 msgctxt "pi-tv-bu-vb-pj2:29.3"
@@ -870,135 +870,135 @@ msgid "paraparig­gahi­taṃ."
 msgstr "what belongs to someone else."
 
 msgctxt "pi-tv-bu-vb-pj2:29.5"
-msgid "Etaṃ adinnaṃ nāma."
+msgid "Etaṃ adinnaṃ nāma.</span>"
 msgstr "This is called “what has not been given.”</span>"
 
 #. </p><p><a class="sc" id="26"></a><a class=\\\"ms-pa\\\" id=\\\"MS.216\\\" href=\\\"#MS.216\\\">MS.216</a>
 msgctxt "pi-tv-bu-vb-pj2:30.1"
-msgid "<strong>They­ya­saṅ­khā­tan</strong>ti"
-msgstr ""
+msgid "<strong class=\\\"term\\\">They­ya­saṅ­khā­tan</strong>ti"
+msgstr "<strong class=\\\"term\\\">Intending to steal</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:30.2"
-msgid "theyyacitto avaharaṇacitto."
+msgid "<span class=\\\"gloss\\\">theyyacitto avaharaṇacitto.</span>"
 msgstr "<span class=\\\"gloss\\\">the thought of stealing, the thought of taking.</span>"
 
 #. </p><p><a class="sc" id="27"></a><a class=\\\"ms-pa\\\" id=\\\"MS.217\\\" href=\\\"#MS.217\\\">MS.217</a>
 msgctxt "pi-tv-bu-vb-pj2:31.1"
-msgid "<strong>Ādiyeyyā</strong>ti"
-msgstr "<span class=\\\"term\\\">Takes</span>:"
+msgid "<strong class=\\\"term\\\">Ādiyeyyā</strong>ti"
+msgstr "<strong class=\\\"term\\\">Takes</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:31.2"
-msgid "ādiyeyya hareyya avahareyya iriyāpathaṃ vikopeyya ṭhānā cāveyya saṅketaṃ vītināmeyya."
+msgid "<span class=\\\"gloss\\\">ādiyeyya hareyya avahareyya iriyāpathaṃ vikopeyya ṭhānā cāveyya saṅketaṃ vītināmeyya.</span>"
 msgstr "<span class=\\\"gloss\\\">takes, carries off, takes away, interrupts the movement of, removes from its base, does not fulfill an agreement.</span>"
 
 #. </p><p><a class="sc" id="28"></a><a class=\\\"ms-pa\\\" id=\\\"MS.218\\\" href=\\\"#MS.218\\\">MS.218</a>
 msgctxt "pi-tv-bu-vb-pj2:32.1"
-msgid "<strong>Yathārūpaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">The sort</span>:"
+msgid "<strong class=\\\"term\\\">Yathārūpaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">The sort</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:32.2"
-msgid "pādaṃ vā pādārahaṃ vā atirekapādaṃ vā."
+msgid "<span class=\\\"gloss\\\">pādaṃ vā pādārahaṃ vā atirekapādaṃ vā.</span>"
 msgstr "<span class=\\\"gloss\\\">a <i lang=\\\"pi\\\">pāda</i> coin, the worth of a <i lang=\\\"pi\\\">pāda</i>, or more than a <i lang=\\\"pi\\\">pāda</i>.</span>"
 
 #. </p><p><a class="sc" id="29"></a><a class="pts-vp-pi" id="pts-vp-pi3.47"></a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.47\\\" href=\\\"#Vin.3.47\\\">Vin 3.47</a> <a class=\\\"ms-pa\\\" id=\\\"MS.219\\\" href=\\\"#MS.219\\\">MS.219</a>
 msgctxt "pi-tv-bu-vb-pj2:33.1"
-msgid "<strong>Rājāno</strong> nāma"
-msgstr "<span class=\\\"term\\\">Kings</span>:"
+msgid "<strong class=\\\"term\\\">Rājāno</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Kings</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:33.2"
-msgid "pathabyārājā padesarājā maṇḍalikā antarabhogikā akkhadassā mahāmattā, ye vā pana chejjabhejjaṃ karontā anusāsanti."
+msgid "<span class=\\\"gloss\\\">pathabyārājā padesarājā maṇḍalikā antarabhogikā akkhadassā mahāmattā, ye vā pana chejjabhejjaṃ karontā anusāsanti."
 msgstr "<span class=\\\"gloss\\\">kings of the earth, kings of a region, rulers of islands, rulers of border areas, judges, ministers, or whoever metes out physical punishment—"
 
 msgctxt "pi-tv-bu-vb-pj2:33.3"
-msgid "Ete rājāno nāma."
+msgid "Ete rājāno nāma.</span>"
 msgstr "these are called “kings.”</span>"
 
 #. </p><p><a class="sc" id="30"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.75\\\" href=\\\"#BD.1.75\\\">BD.1.75</a><a class=\\\"ms-pa\\\" id=\\\"MS.220\\\" href=\\\"#MS.220\\\">MS.220</a>
 msgctxt "pi-tv-bu-vb-pj2:34.1"
-msgid "<strong>Coro</strong> nāma"
-msgstr "<span class=\\\"term\\\">A thief</span>:"
+msgid "<strong class=\\\"term\\\">Coro</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A thief</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:34.2"
-msgid "yo pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ adinnaṃ they­ya­saṅ­khā­taṃ ādiyati."
+msgid "<span class=\\\"gloss\\\">yo pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ adinnaṃ they­ya­saṅ­khā­taṃ ādiyati."
 msgstr "<span class=\\\"gloss\\\">whoever, intending to steal, takes anything having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsaka</i> coins that has not been given—"
 
 msgctxt "pi-tv-bu-vb-pj2:34.3"
-msgid "Eso coro nāma."
+msgid "Eso coro nāma.</span>"
 msgstr "he is called “a thief.”</span>"
 
 #. </p><p><a class="sc" id="31"></a><a class=\\\"ms-pa\\\" id=\\\"MS.221\\\" href=\\\"#MS.221\\\">MS.221</a>
 msgctxt "pi-tv-bu-vb-pj2:35.1"
-msgid "<strong>Haneyyuṃ vā</strong>ti"
-msgstr "<span class=\\\"term\\\">Would beat</span>:"
+msgid "<strong class=\\\"term\\\">Haneyyuṃ vā</strong>ti"
+msgstr "<strong class=\\\"term\\\">Would beat</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:35.2"
-msgid "hatthena vā pādena vā kasāya vā vettena vā aḍḍhadaṇḍakena vā chejjāya vā haneyyuṃ."
+msgid "<span class=\\\"gloss\\\">hatthena vā pādena vā kasāya vā vettena vā aḍḍhadaṇḍakena vā chejjāya vā haneyyuṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">would beat with the hand, the foot, a whip, a cane, a cudgel, or by mutilation.</span>"
 
 #. </p><p><a class="sc" id="32"></a><a class=\\\"ms-pa\\\" id=\\\"MS.222\\\" href=\\\"#MS.222\\\">MS.222</a>
 msgctxt "pi-tv-bu-vb-pj2:36.1"
-msgid "<strong>Bandheyyuṃ vā</strong>ti "
-msgstr "<span class=\\\"term\\\">Would […] imprison</span>:"
+msgid "<strong class=\\\"term\\\">Bandheyyuṃ vā</strong>ti "
+msgstr "<strong class=\\\"term\\\">Would […] imprison</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:36.2"
-msgid "rajju­bandha­nena vā andubandhanena vā saṅ­kha­lika­bandha­nena vā ghara­bandha­nena vā nagara­bandha­nena vā gāmabandhanena vā nigama­bandha­nena vā bandheyyuṃ, purisaguttiṃ vā kareyyuṃ."
+msgid "<span class=\\\"gloss\\\">rajju­bandha­nena vā andubandhanena vā saṅ­kha­lika­bandha­nena vā ghara­bandha­nena vā nagara­bandha­nena vā gāmabandhanena vā nigama­bandha­nena vā bandheyyuṃ, purisaguttiṃ vā kareyyuṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">would imprison by constriction with a rope, by constriction with shackles, by constriction with chains, by constriction to a house, by constriction to a city, by constriction to a village, by constriction to a town, by being guarded.</span>"
 
 #. </p><p><a class="sc" id="33"></a><a class=\\\"ms-pa\\\" id=\\\"MS.223\\\" href=\\\"#MS.223\\\">MS.223</a>
 msgctxt "pi-tv-bu-vb-pj2:37.1"
-msgid "<strong>Pabbājeyyuṃ vā</strong>ti"
-msgstr "<span class=\\\"term\\\">Would […] banish</span>:"
+msgid "<strong class=\\\"term\\\">Pabbājeyyuṃ vā</strong>ti"
+msgstr "<strong class=\\\"term\\\">Would […] banish</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:37.2"
-msgid "gāmā vā nigamā vā nagarā vā janapadā vā janapadapadesā vā pabbājeyyuṃ."
+msgid "<span class=\\\"gloss\\\">gāmā vā nigamā vā nagarā vā janapadā vā janapadapadesā vā pabbājeyyuṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">would banish from a village, from a town, from a city, from a country, or from a district.</span>"
 
 #. </p><p><a class="sc" id="34"></a><a class=\\\"ms-pa\\\" id=\\\"MS.224\\\" href=\\\"#MS.224\\\">MS.224</a>
 msgctxt "pi-tv-bu-vb-pj2:38.1"
-msgid "<strong>Corosi bālosi mūḷhosi thenosī</strong>ti"
-msgstr "<span class=\\\"term\\\">Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thief</span>:"
+msgid "<strong class=\\\"term\\\">Corosi bālosi mūḷhosi thenosī</strong>ti"
+msgstr "<strong class=\\\"term\\\">Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thief</strong>:"
 
-#. Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang=\\\"pi\\\">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">yathārūpaṃ</i>, “the sort,” and secondly, <i lang=\\\"pi\\\">ādiyamāno</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">ādiyeyya</i>, “takes.”
 msgctxt "pi-tv-bu-vb-pj2:38.2"
-msgid "paribhāso eso."
+msgid "<span class=\\\"gloss\\\">paribhāso eso.</span>"
 msgstr "<span class=\\\"gloss\\\">this is a rebuke.</span>"
 
 #. </p><p><a class="sc" id="35"></a>
+#. Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang=\\\"pi\\\">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">yathārūpaṃ</i>, “the sort,” and secondly, <i lang=\\\"pi\\\">ādiyamāno</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">ādiyeyya</i>, “takes.”
 msgctxt "pi-tv-bu-vb-pj2:39.1"
-msgid "<strong>Tathārūpaṃ</strong> nāma"
+msgid "<strong class=\\\"term\\\">Tathārūpaṃ</strong> nāma"
 msgstr ""
 
 msgctxt "pi-tv-bu-vb-pj2:39.2"
-msgid "pādaṃ vā pādārahaṃ vā atirekapādaṃ vā."
+msgid "<span class=\\\"gloss\\\">pādaṃ vā pādārahaṃ vā atirekapādaṃ vā.</span>"
 msgstr ""
 
 #. </p><p><a class="sc" id="36"></a>
 msgctxt "pi-tv-bu-vb-pj2:40.1"
-msgid "<strong>Ādiyamāno</strong>ti"
+msgid "<strong class=\\\"term\\\">Ādiyamāno</strong>ti"
 msgstr ""
 
 msgctxt "pi-tv-bu-vb-pj2:40.2"
-msgid "ādiyamāno haramāno avaharamāno iriyāpathaṃ vikopayamāno ṭhānā cāvayamāno saṅketaṃ vītināmayamāno."
+msgid "<span class=\\\"gloss\\\">ādiyamāno haramāno avaharamāno iriyāpathaṃ vikopayamāno ṭhānā cāvayamāno saṅketaṃ vītināmayamāno.</span>"
 msgstr ""
 
 #. </p><p><a class="sc" id="37"></a><a class=\\\"ms-pa\\\" id=\\\"MS.227\\\" href=\\\"#MS.227\\\">MS.227</a>
 msgctxt "pi-tv-bu-vb-pj2:41.1"
-msgid "<strong>Ayampī</strong>ti"
-msgstr "<span class=\\\"term\\\">He too</span>:"
+msgid "<strong class=\\\"term\\\">Ayampī</strong>ti"
+msgstr "<strong class=\\\"term\\\">He too</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:41.2"
-msgid "purimaṃ upādāya vuccati."
+msgid "<span class=\\\"gloss\\\">purimaṃ upādāya vuccati.</span>"
 msgstr "<span class=\\\"gloss\\\">this is said with reference to the preceding offense entailing expulsion.</span>"
 
 #. </p><p><a class="sc" id="38"></a><a class=\\\"ms-pa\\\" id=\\\"MS.228\\\" href=\\\"#MS.228\\\">MS.228</a>
 #. <span class=\\\"var\\\" title=\\\"pamutto (pts1) | pavuttho (itipi)\\\" id=\\\"note69\\\">pavutto</span>
 #. <span class=\\\"var\\\" title=\\\"haritattāya (bj, s1-3, pts1)\\\" id=\\\"note70\\\">haritatthāya</span>
 msgctxt "pi-tv-bu-vb-pj2:42.1"
-msgid "<strong>Pārājiko hotī</strong>ti"
-msgstr "<span class=\\\"term\\\">Is expelled</span>:"
+msgid "<strong class=\\\"term\\\">Pārājiko hotī</strong>ti"
+msgstr "<strong class=\\\"term\\\">Is expelled</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:42.2"
-msgid "seyyathāpi nāma paṇḍupalāso bandhanā pavutto abhabbo haritatthāya;"
+msgid "<span class=\\\"gloss\\\">seyyathāpi nāma paṇḍupalāso bandhanā pavutto abhabbo haritatthāya;"
 msgstr "<span class=\\\"gloss\\\">just as a fallen, withered leaf is incapable of becoming green again,"
 
 msgctxt "pi-tv-bu-vb-pj2:42.3"
@@ -1010,24 +1010,24 @@ msgid "Tena vuccati—"
 msgstr "therefore it is said,"
 
 msgctxt "pi-tv-bu-vb-pj2:42.5"
-msgid "“pārājiko hotī”ti."
+msgid "“pārājiko hotī”ti.</span>"
 msgstr "“he is expelled.”</span>"
 
 #. </p><p><a class="sc" id="39"></a><a class=\\\"ms-pa\\\" id=\\\"MS.229\\\" href=\\\"#MS.229\\\">MS.229</a>
 msgctxt "pi-tv-bu-vb-pj2:43.1"
-msgid "<strong>Asaṃvāso</strong>ti"
-msgstr "<span class=\\\"term\\\">Not in communion</span>:"
+msgid "<strong class=\\\"term\\\">Asaṃvāso</strong>ti"
+msgstr "<strong class=\\\"term\\\">Not in communion</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:43.2"
-msgid "saṃvāso nāma"
-msgstr "<span class=\\\"gloss\\\"><span class=\\\"term\\\">msgstr "Communion</span>:"
+msgid "<span class=\\\"gloss\\\"><strong class=\\\"term\\\">saṃvāso nāma</strong>"
+msgstr "<span class=\\\"gloss\\\"><strong class=\\\"term\\\">msgstr "Communion</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:43.3"
-msgid "ekakammaṃ ekuddeso samasikkhatā."
+msgid "<span class=\\\"gloss\\\">ekakammaṃ ekuddeso samasikkhatā."
 msgstr "<span class=\\\"gloss\\\">common formal procedures, the same recital, the same training—"
 
 msgctxt "pi-tv-bu-vb-pj2:43.4"
-msgid "Eso saṃvāso nāma."
+msgid "Eso saṃvāso nāma.</span>"
 msgstr "this is called “communion.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:43.5"
@@ -1035,7 +1035,7 @@ msgid "So tena saddhiṃ natthi."
 msgstr "He does not take part in this—"
 
 msgctxt "pi-tv-bu-vb-pj2:43.6"
-msgid "Tena vuccati—“asaṃvāso”ti."
+msgid "Tena vuccati—“asaṃvāso”ti.</span>"
 msgstr "therefore it is called “not in communion.”</span>"
 
 #. </p><h2>
@@ -1067,11 +1067,11 @@ msgstr "Exposition"
 
 #. </h4><p><a class="sc" id="41"></a><a class="pts-vp-pi" id="pts-vp-pi3.48"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.2\\\" href=\\\"#Bu-Pj.2.4.2\\\">Bu-Pj.2.4.2</a><a class=\\\"ms-pa\\\" id=\\\"MS.231\\\" href=\\\"#MS.231\\\">MS.231</a>
 msgctxt "pi-tv-bu-vb-pj2:45.2"
-msgid "<strong>Bhūmaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in the earth</span>:"
+msgid "<strong class=\\\"term\\\">Bhūmaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in the earth</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:45.3"
-msgid "bhaṇḍaṃ bhūmiyaṃ nikkhittaṃ hoti nikhātaṃ paṭicchannaṃ."
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ bhūmiyaṃ nikkhittaṃ hoti nikhātaṃ paṭicchannaṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">the goods have been put down into the earth, buried, covered.</span>"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.77\\\" href=\\\"#BD.1.77\\\">BD.1.77</a>
@@ -1176,11 +1176,11 @@ msgstr "he commits an offense of wrong conduct."
 
 #. </p><p><a class="sc" id="42"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.3\\\" href=\\\"#Bu-Pj.2.4.3\\\">Bu-Pj.2.4.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.232\\\" href=\\\"#MS.232\\\">MS.232</a>
 msgctxt "pi-tv-bu-vb-pj2:46.1"
-msgid "<strong>Thalaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being on the ground</span>:"
+msgid "<strong class=\\\"term\\\">Thalaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being on the ground</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:46.2"
-msgid "bhaṇḍaṃ thale nikkhittaṃ hoti."
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ thale nikkhittaṃ hoti.</span>"
 msgstr "<span class=\\\"gloss\\\">the goods have been put down on the ground.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:46.3"
@@ -1210,11 +1210,11 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="43"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.4\\\" href=\\\"#Bu-Pj.2.4.4\\\">Bu-Pj.2.4.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.233\\\" href=\\\"#MS.233\\\">MS.233</a>
 msgctxt "pi-tv-bu-vb-pj2:47.1"
-msgid "<strong>Ākāsaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in the air</span>:"
+msgid "<strong class=\\\"term\\\">Ākāsaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in the air</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:47.2"
-msgid "bhaṇḍaṃ ākāsagataṃ hoti."
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ ākāsagataṃ hoti."
 msgstr "<span class=\\\"gloss\\\">the goods are in the air—"
 
 msgctxt "pi-tv-bu-vb-pj2:47.3"
@@ -1222,8 +1222,8 @@ msgid "Moro vā kapiñjaro vā tittiro vā vaṭṭako vā,"
 msgstr "a peacock, a partridge, or a quail;"
 
 msgctxt "pi-tv-bu-vb-pj2:47.4"
-msgid "sāṭakaṃ vā veṭhanaṃ vā hiraññaṃ vā suvaṇṇaṃ vā chijjamānaṃ patati."
-msgstr "or a robe, a turban, or gold that fall after being cut loose.</span>"
+msgid "sāṭakaṃ vā veṭhanaṃ vā hiraññaṃ vā suvaṇṇaṃ vā chijjamānaṃ patati.</span>"
+msgstr "or a robe, a turban, or gold that falls after being cut loose.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:47.5"
 msgid "Ākāsaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
@@ -1255,16 +1255,16 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="44"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.5\\\" href=\\\"#Bu-Pj.2.4.5\\\">Bu-Pj.2.4.5</a><a class=\\\"ms-pa\\\" id=\\\"MS.234\\\" href=\\\"#MS.234\\\">MS.234</a>
 msgctxt "pi-tv-bu-vb-pj2:48.1"
-msgid "<strong>Vehāsaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being above ground</span>:"
+msgid "<strong class=\\\"term\\\">Vehāsaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being above ground</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:48.2"
-msgid "bhaṇḍaṃ vehāsagataṃ hoti."
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ vehāsagataṃ hoti."
 msgstr "<span class=\\\"gloss\\\">the goods are above ground—"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.80\\\" href=\\\"#BD.1.80\\\">BD.1.80</a>
 msgctxt "pi-tv-bu-vb-pj2:48.3"
-msgid "Mañce vā pīṭhe vā cīvaravaṃse vā cīvararajjuyā vā bhittikhile vā nāgadante vā rukkhe vā laggitaṃ hoti, antamaso pattādhārakepi."
+msgid "Mañce vā pīṭhe vā cīvaravaṃse vā cīvararajjuyā vā bhittikhile vā nāgadante vā rukkhe vā laggitaṃ hoti, antamaso pattādhārakepi.</span>"
 msgstr "on a bed, on a bench, on a bamboo robe-rack, on a clothes line for robes, on a peg in the wall, on an elephant-tusk peg, in a tree, or even just fastened to a bowl stand.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:48.4"
@@ -1293,11 +1293,11 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="45"></a><a class="pts-vp-pi" id="pts-vp-pi3.49"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.6\\\" href=\\\"#Bu-Pj.2.4.6\\\">Bu-Pj.2.4.6</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.49\\\" href=\\\"#Vin.3.49\\\">Vin 3.49</a> <a class=\\\"ms-pa\\\" id=\\\"MS.235\\\" href=\\\"#MS.235\\\">MS.235</a>
 msgctxt "pi-tv-bu-vb-pj2:49.1"
-msgid "<strong>Udakaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in the water</span>:"
+msgid "<strong class=\\\"term\\\">Udakaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in the water</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:49.2"
-msgid "bhaṇḍaṃ udake nikkhittaṃ hoti."
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ udake nikkhittaṃ hoti.</span>"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in the water.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:49.3"
@@ -1342,19 +1342,19 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="46"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.7\\\" href=\\\"#Bu-Pj.2.4.7\\\">Bu-Pj.2.4.7</a><a class=\\\"ms-pa\\\" id=\\\"MS.236\\\" href=\\\"#MS.236\\\">MS.236</a>
 msgctxt "pi-tv-bu-vb-pj2:50.1"
-msgid "<strong>Nāvā</strong> nāma"
-msgstr "<span class=\\\"term\\\">A boat</span>:"
+msgid "<strong class=\\\"term\\\">Nāvā</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A boat</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:50.2"
-msgid "yāya tarati."
+msgid "<span class=\\\"gloss\\\">yāya tarati.</span>"
 msgstr "<span class=\\\"gloss\\\">that by mean of which one crosses.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:50.3"
-msgid "<strong>Nāvaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in a boat</span>:"
+msgid "<strong class=\\\"term\\\">Nāvaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in a boat</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:50.4"
-msgid "bhaṇḍaṃ nāvāya nikkhittaṃ hoti."
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ nāvāya nikkhittaṃ hoti.</span>"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in a boat.</span>"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.81\\\" href=\\\"#BD.1.81\\\">BD.1.81</a>
@@ -1420,19 +1420,19 @@ msgstr "If he makes it move up or down or across the water, even as much as a ha
 
 #. </p><p><a class="sc" id="47"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.8\\\" href=\\\"#Bu-Pj.2.4.8\\\">Bu-Pj.2.4.8</a><a class=\\\"ms-pa\\\" id=\\\"MS.237\\\" href=\\\"#MS.237\\\">MS.237</a>
 msgctxt "pi-tv-bu-vb-pj2:51.1"
-msgid "<strong>Yānaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">A vehicle</span>:"
+msgid "<strong class=\\\"term\\\">Yānaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A vehicle</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:51.2"
-msgid "vayhaṃ ratho sakaṭaṃ sandamānikā."
+msgid "<span class=\\\"gloss\\\">vayhaṃ ratho sakaṭaṃ sandamānikā.</span>"
 msgstr "<span class=\\\"gloss\\\">a wagon, a carriage, a cart, a chariot.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:51.3"
-msgid "<strong>Yānaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in a vehicle</span>:"
+msgid "<strong class=\\\"term\\\">Yānaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in a vehicle</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:51.4"
-msgid "bhaṇḍaṃ yāne nikkhittaṃ hoti."
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ yāne nikkhittaṃ hoti.</span>"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in a vehicle.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:51.5"
@@ -1485,11 +1485,11 @@ msgstr "If he moves it from its base, he commits an offense entailing expulsion.
 
 #. </p><p><a class="sc" id="48"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.9\\\" href=\\\"#Bu-Pj.2.4.9\\\">Bu-Pj.2.4.9</a><a class=\\\"ms-pa\\\" id=\\\"MS.238\\\" href=\\\"#MS.238\\\">MS.238</a>
 msgctxt "pi-tv-bu-vb-pj2:52.1"
-msgid "<strong>Bhāro</strong> nāma"
-msgstr "<span class=\\\"term\\\">A burden</span>:"
+msgid "<strong class=\\\"term\\\">Bhāro</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A burden</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:52.2"
-msgid "sīsabhāro khandhabhāro kaṭibhāro olambako."
+msgid "<span class=\\\"gloss\\\">sīsabhāro khandhabhāro kaṭibhāro olambako.</span>"
 msgstr "<span class=\\\"gloss\\\">a burden carried on the head, a burden carried on the shoulder, a burden carried on the hip, one hanging down.</span>"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.82\\\" href=\\\"#BD.1.82\\\">BD.1.82</a>
@@ -1539,23 +1539,23 @@ msgstr "If, intending to steal, he takes it from the ground, he commits an offen
 
 #. </p><p><a class="sc" id="49"></a><a class="pts-vp-pi" id="pts-vp-pi3.50"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.10\\\" href=\\\"#Bu-Pj.2.4.10\\\">Bu-Pj.2.4.10</a><a class=\\\"ms-pa\\\" id=\\\"MS.239\\\" href=\\\"#MS.239\\\">MS.239</a>
 msgctxt "pi-tv-bu-vb-pj2:53.1"
-msgid "<strong>Ārāmo</strong> nāma"
-msgstr "<span class=\\\"term\\\">A park</span>:"
+msgid "<strong class=\\\"term\\\">Ārāmo</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A park</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:53.2"
-msgid "pupphārāmo phalārāmo."
+msgid "<span class=\\\"gloss\\\">pupphārāmo phalārāmo.</span>"
 msgstr "<span class=\\\"gloss\\\">a park with flowers, an orchard.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:53.3"
-msgid "<strong>Ārāmaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in a park</span>:"
+msgid "<strong class=\\\"term\\\">Ārāmaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in a park</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:53.4"
-msgid "bhaṇḍaṃ ārāme catūhi ṭhānehi nikkhittaṃ hoti—"
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ ārāme catūhi ṭhānehi nikkhittaṃ hoti—"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in a park in four places:"
 
 msgctxt "pi-tv-bu-vb-pj2:53.5"
-msgid "bhūmaṭṭhaṃ thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ."
+msgid "bhūmaṭṭhaṃ thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ.</span>"
 msgstr "in the earth, on the ground, in the air, above the ground.</span>"
 
 #. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.50\\\" href=\\\"#Vin.3.50\\\">Vin 3.50</a>
@@ -1618,15 +1618,15 @@ msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p><a class="sc" id="50"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.11\\\" href=\\\"#Bu-Pj.2.4.11\\\">Bu-Pj.2.4.11</a><a class=\\\"ms-pa\\\" id=\\\"MS.240\\\" href=\\\"#MS.240\\\">MS.240</a>
 msgctxt "pi-tv-bu-vb-pj2:54.1"
-msgid "<strong>Vihāraṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in a monastic dwelling</span>:"
+msgid "<strong class=\\\"term\\\">Vihāraṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in a monastic dwelling</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:54.2"
-msgid "bhaṇḍaṃ vihāre catūhi ṭhānehi nikkhittaṃ hoti—"
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ vihāre catūhi ṭhānehi nikkhittaṃ hoti—"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in a monastic dwelling in four places:"
 
 msgctxt "pi-tv-bu-vb-pj2:54.3"
-msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ."
+msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ.</span>"
 msgstr "in the earth, on the ground, in the air, above the ground.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:54.4"
@@ -1675,23 +1675,23 @@ msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p><a class="sc" id="51"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.12\\\" href=\\\"#Bu-Pj.2.4.12\\\">Bu-Pj.2.4.12</a><a class=\\\"ms-pa\\\" id=\\\"MS.241\\\" href=\\\"#MS.241\\\">MS.241</a>
 msgctxt "pi-tv-bu-vb-pj2:55.1"
-msgid "<strong>Khettaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">A field</span>:"
+msgid "<strong class=\\\"term\\\">Khettaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A field</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:55.2"
-msgid "yattha pubbaṇṇaṃ vā aparaṇṇaṃ vā jāyati."
+msgid "<span class=\\\"gloss\\\">yattha pubbaṇṇaṃ vā aparaṇṇaṃ vā jāyati.</span>"
 msgstr "<span class=\\\"gloss\\\">where grain or vegetables grow.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:55.3"
-msgid "<strong>Khettaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in a field</span>:"
+msgid "<strong class=\\\"term\\\">Khettaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in a field</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:55.4"
-msgid "bhaṇḍaṃ khette catūhi ṭhānehi nikkhittaṃ hoti—"
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ khette catūhi ṭhānehi nikkhittaṃ hoti—"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in a field in four places:"
 
 msgctxt "pi-tv-bu-vb-pj2:55.5"
-msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ."
+msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ.</span>"
 msgstr "in the earth, on the ground, in the air, above the ground.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:55.6"
@@ -1764,23 +1764,23 @@ msgstr "When the last action of the moving is completed, he commits an offense e
 
 #. </p><p><a class="sc" id="52"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.13\\\" href=\\\"#Bu-Pj.2.4.13\\\">Bu-Pj.2.4.13</a><a class=\\\"ms-pa\\\" id=\\\"MS.242\\\" href=\\\"#MS.242\\\">MS.242</a>
 msgctxt "pi-tv-bu-vb-pj2:56.1"
-msgid "<strong>Vatthu</strong> nāma"
-msgstr "<span class=\\\"term\\\">A plot of land</span>:"
+msgid "<strong class=\\\"term\\\">Vatthu</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A plot of land</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:56.2"
-msgid "ārāmavatthu vihāravatthu."
+msgid "<span class=\\\"gloss\\\">ārāmavatthu vihāravatthu.</span>"
 msgstr "<span class=\\\"gloss\\\">the plot of land of a park or a monastery, the plot of land of a monastic dwelling.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:56.3"
-msgid "<strong>Vatthuṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being on a plot of land</span>:"
+msgid "<strong class=\\\"term\\\">Vatthuṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being on a plot of land</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:56.4"
-msgid "bhaṇḍaṃ vatthusmiṃ catūhi ṭhānehi nikkhittaṃ hoti—"
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ vatthusmiṃ catūhi ṭhānehi nikkhittaṃ hoti—"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited on a plot of land in four places:"
 
 msgctxt "pi-tv-bu-vb-pj2:56.5"
-msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ."
+msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ.</span>"
 msgstr "in the earth, on the ground, in the air, above the ground.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:56.6"
@@ -1831,25 +1831,25 @@ msgctxt "pi-tv-bu-vb-pj2:56.17"
 msgid "Khīlaṃ vā rajjuṃ vā vatiṃ vā pākāraṃ vā saṅkāmeti, āpatti dukkaṭassa."
 msgstr "If he moves a post, a cord, a fence, or a boundary, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:56.19"
+msgctxt "pi-tv-bu-vb-pj2:56.18"
 msgid "Ekaṃ payogaṃ anāgate āpatti thullaccayassa."
 msgstr "When one action of the moving remains, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:56.20"
+msgctxt "pi-tv-bu-vb-pj2:56.19"
 msgid "Tasmiṃ payoge āgate āpatti pārājikassa."
 msgstr "When the last action of the moving is completed, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="53"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.14\\\" href=\\\"#Bu-Pj.2.4.14\\\">Bu-Pj.2.4.14</a><a class=\\\"ms-pa\\\" id=\\\"MS.243\\\" href=\\\"#MS.243\\\">MS.243</a>
 msgctxt "pi-tv-bu-vb-pj2:57.1"
-msgid "<strong>Gāmaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in a village</span>:"
+msgid "<strong class=\\\"term\\\">Gāmaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in a village</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:57.2"
-msgid "bhaṇḍaṃ gāme catūhi ṭhānehi nikkhittaṃ hoti—"
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ gāme catūhi ṭhānehi nikkhittaṃ hoti—"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in a village in four places:"
 
 msgctxt "pi-tv-bu-vb-pj2:57.3"
-msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ."
+msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ.</span>"
 msgstr "in the earth, on the ground, in the air, above the ground.</span>"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.85\\\" href=\\\"#BD.1.85\\\">BD.1.85</a>
@@ -1879,23 +1879,23 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="54"></a><a class="pts-vp-pi" id="pts-vp-pi3.51"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.15\\\" href=\\\"#Bu-Pj.2.4.15\\\">Bu-Pj.2.4.15</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.51\\\" href=\\\"#Vin.3.51\\\">Vin 3.51</a> <a class=\\\"ms-pa\\\" id=\\\"MS.244\\\" href=\\\"#MS.244\\\">MS.244</a>
 msgctxt "pi-tv-bu-vb-pj2:58.1"
-msgid "<strong>Araññaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">The wilderness</span>:"
+msgid "<strong class=\\\"term\\\">Araññaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">The wilderness</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:58.2"
-msgid "yaṃ manussānaṃ pariggahitaṃ hoti, taṃ araññaṃ."
+msgid "<span class=\\\"gloss\\\">yaṃ manussānaṃ pariggahitaṃ hoti, taṃ araññaṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">any wilderness which is owned by people.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:58.3"
-msgid "<strong>Araññaṭṭhaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Being in the wilderness</span>:"
+msgid "<strong class=\\\"term\\\">Araññaṭṭhaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Being in the wilderness</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:58.4"
-msgid "bhaṇḍaṃ araññe catūhi ṭhānehi nikkhittaṃ hoti—"
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ araññe catūhi ṭhānehi nikkhittaṃ hoti—"
 msgstr "<span class=\\\"gloss\\\">the goods have been deposited in the wilderness in four places:"
 
 msgctxt "pi-tv-bu-vb-pj2:58.5"
-msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ."
+msgid "bhūmaṭṭhaṃ, thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭhaṃ.</span>"
 msgstr "in the earth, on the ground, in the air, above the ground.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:58.6"
@@ -1936,11 +1936,11 @@ msgstr "If he moves it from its base, he commits an offense entailing expulsion.
 
 #. </p><p><a class="sc" id="55"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.16\\\" href=\\\"#Bu-Pj.2.4.16\\\">Bu-Pj.2.4.16</a><a class=\\\"ms-pa\\\" id=\\\"MS.245\\\" href=\\\"#MS.245\\\">MS.245</a>
 msgctxt "pi-tv-bu-vb-pj2:59.1"
-msgid "<strong>Udakaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Water</span>:"
+msgid "<strong class=\\\"term\\\">Udakaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Water</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:59.2"
-msgid "bhājanagataṃ vā hoti pokkharaṇiyā vā taḷāke vā."
+msgid "<span class=\\\"gloss\\\">bhājanagataṃ vā hoti pokkharaṇiyā vā taḷāke vā.</span>"
 msgstr "<span class=\\\"gloss\\\">in a vessel, in a pond, or in a reservoir.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:59.3"
@@ -1986,11 +1986,11 @@ msgstr "If he allows water to escape that has a value of a <i lang=\\\"pi\\\">m�
 
 #. </p><p><a class="sc" id="56"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.17\\\" href=\\\"#Bu-Pj.2.4.17\\\">Bu-Pj.2.4.17</a><a class=\\\"ms-pa\\\" id=\\\"MS.246\\\" href=\\\"#MS.246\\\">MS.246</a>
 msgctxt "pi-tv-bu-vb-pj2:60.1"
-msgid "<strong>Dantapoṇaṃ</strong>"
-msgstr "<span class=\\\"term\\\">Toothbrush</span>:"
+msgid "<strong class=\\\"term\\\">Dantapoṇaṃ</strong>"
+msgstr "<strong class=\\\"term\\\">Toothbrush</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:60.2"
-msgid "chinnaṃ vā acchinnaṃ vā."
+msgid "<span class=\\\"gloss\\\">chinnaṃ vā acchinnaṃ vā.</span>"
 msgstr "<span class=\\\"gloss\\\">either ready for use or not.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:60.3"
@@ -2007,11 +2007,11 @@ msgstr "If he moves it from its base, he commits an offense entailing expulsion.
 
 #. </p><p><a class="sc" id="57"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.18\\\" href=\\\"#Bu-Pj.2.4.18\\\">Bu-Pj.2.4.18</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.86\\\" href=\\\"#BD.1.86\\\">BD.1.86</a><a class=\\\"ms-pa\\\" id=\\\"MS.247\\\" href=\\\"#MS.247\\\">MS.247</a>
 msgctxt "pi-tv-bu-vb-pj2:61.1"
-msgid "<strong>Vanappati</strong> nāma"
-msgstr "<span class=\\\"term\\\">Forest tree</span>:"
+msgid "<strong class=\\\"term\\\">Vanappati</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Forest tree</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:61.2"
-msgid "yo manussānaṃ pariggahito hoti rukkho paribhogo."
+msgid "<span class=\\\"gloss\\\">yo manussānaṃ pariggahito hoti rukkho paribhogo.</span>"
 msgstr "<span class=\\\"gloss\\\">whatever tree is owned by people.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:61.3"
@@ -2028,11 +2028,11 @@ msgstr "When the last blow is completed, he commits an offense entailing expulsi
 
 #. </p><p><a class="sc" id="58"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.19\\\" href=\\\"#Bu-Pj.2.4.19\\\">Bu-Pj.2.4.19</a><a class=\\\"ms-pa\\\" id=\\\"MS.248\\\" href=\\\"#MS.248\\\">MS.248</a>
 msgctxt "pi-tv-bu-vb-pj2:62.1"
-msgid "<strong>Haraṇakaṃ</strong>"
-msgstr "<span class=\\\"term\\\">Goods being carried</span>:"
+msgid "<strong class=\\\"term\\\">Haraṇakaṃ</strong>"
+msgstr "<strong class=\\\"term\\\">Goods being carried</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:62.2"
-msgid "nāma aññassa haraṇakaṃ bhaṇḍaṃ."
+msgid "<span class=\\\"gloss\\\">nāma aññassa haraṇakaṃ bhaṇḍaṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">the goods of another are being carried.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:62.3"
@@ -2073,11 +2073,11 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="59"></a><a class="pts-vp-pi" id="pts-vp-pi3.52"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.20\\\" href=\\\"#Bu-Pj.2.4.20\\\">Bu-Pj.2.4.20</a><a class=\\\"ms-pa\\\" id=\\\"MS.249\\\" href=\\\"#MS.249\\\">MS.249</a>
 msgctxt "pi-tv-bu-vb-pj2:63.1"
-msgid "<strong>Upanidhi</strong>"
-msgstr "<span class=\\\"term\\\">Deposit</span>:"
+msgid "<strong class=\\\"term\\\">Upanidhi</strong>"
+msgstr "<strong class=\\\"term\\\">Deposit</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:63.2"
-msgid "upanikkhittaṃ bhaṇḍaṃ."
+msgid "<span class=\\\"gloss\\\">upanikkhittaṃ bhaṇḍaṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">goods deposited with a monk.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:63.3"
@@ -2104,11 +2104,11 @@ msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p><a class="sc" id="60"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.21\\\" href=\\\"#Bu-Pj.2.4.21\\\">Bu-Pj.2.4.21</a><a class=\\\"ms-pa\\\" id=\\\"MS.250\\\" href=\\\"#MS.250\\\">MS.250</a>
 msgctxt "pi-tv-bu-vb-pj2:64.1"
-msgid "<strong>Suṅkaghātaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Customs station</span>:"
+msgid "<strong class=\\\"term\\\">Suṅkaghātaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Customs station</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:64.2"
-msgid "raññā ṭhapitaṃ hoti pabbatakhaṇḍe vā nadītitthe vā gāmadvāre vā—"
+msgid "<span class=\\\"gloss\\\">raññā ṭhapitaṃ hoti pabbatakhaṇḍe vā nadītitthe vā gāmadvāre vā—</span>"
 msgstr "<span class=\\\"gloss\\\">it is established by a king in a mountain-pass, at a ford in a river, or at the gateway of a village</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:64.3"
@@ -2144,11 +2144,11 @@ msgstr "If he avoids the customs station altogether, he commits an offense of wr
 
 #. </p><p><a class="sc" id="61"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.22\\\" href=\\\"#Bu-Pj.2.4.22\\\">Bu-Pj.2.4.22</a><a class=\\\"ms-pa\\\" id=\\\"MS.251\\\" href=\\\"#MS.251\\\">MS.251</a>
 msgctxt "pi-tv-bu-vb-pj2:65.1"
-msgid "<strong>Pāṇo</strong> nāma"
-msgstr "<span class=\\\"term\\\">Creature</span>:"
+msgid "<strong class=\\\"term\\\">Pāṇo</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Creature</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:65.2"
-msgid "manussapāṇo vuccati."
+msgid "<span class=\\\"gloss\\\">manussapāṇo vuccati.</span>"
 msgstr "<span class=\\\"gloss\\\">a human being is what is meant.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:65.3"
@@ -2173,11 +2173,11 @@ msgstr "If he makes them move the second foot, he commits an offense entailing e
 
 #. </p><p><a class="sc" id="62"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.23\\\" href=\\\"#Bu-Pj.2.4.23\\\">Bu-Pj.2.4.23</a><a class=\\\"ms-pa\\\" id=\\\"MS.252\\\" href=\\\"#MS.252\\\">MS.252</a>
 msgctxt "pi-tv-bu-vb-pj2:66.1"
-msgid "<strong>Apadaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Footless</span>:"
+msgid "<strong class=\\\"term\\\">Apadaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Footless</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:66.2"
-msgid "ahi macchā."
+msgid "<span class=\\\"gloss\\\">ahi macchā.</span>"
 msgstr "<span class=\\\"gloss\\\">snakes and fish.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:66.3"
@@ -2194,11 +2194,11 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="63"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.24\\\" href=\\\"#Bu-Pj.2.4.24\\\">Bu-Pj.2.4.24</a><a class=\\\"ms-pa\\\" id=\\\"MS.253\\\" href=\\\"#MS.253\\\">MS.253</a>
 msgctxt "pi-tv-bu-vb-pj2:67.1"
-msgid "<strong>Dvipadaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Two-footed</span>:"
+msgid "<strong class=\\\"term\\\">Dvipadaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Two-footed</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:67.2"
-msgid "manussā, pakkhajātā."
+msgid "<span class=\\\"gloss\\\">manussā, pakkhajātā.</span>"
 msgstr "<span class=\\\"gloss\\\">humans and birds.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:67.3"
@@ -2223,11 +2223,11 @@ msgstr "If he makes it move the second foot, he commits an offense entailing exp
 
 #. </p><p><a class="sc" id="64"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.25\\\" href=\\\"#Bu-Pj.2.4.25\\\">Bu-Pj.2.4.25</a><a class=\\\"ms-pa\\\" id=\\\"MS.254\\\" href=\\\"#MS.254\\\">MS.254</a>
 msgctxt "pi-tv-bu-vb-pj2:68.1"
-msgid "<strong>Catuppadaṃ</strong> nāma—"
-msgstr "<span class=\\\"term\\\">Four-footed</span>:"
+msgid "<strong class=\\\"term\\\">Catuppadaṃ</strong> nāma—"
+msgstr "<strong class=\\\"term\\\">Four-footed</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:68.2"
-msgid "hatthī assā oṭṭhā goṇā gadrabhā pasukā."
+msgid "<span class=\\\"gloss\\\">hatthī assā oṭṭhā goṇā gadrabhā pasukā.</span>"
 msgstr "<span class=\\\"gloss\\\">elephants, horses, camels, cattle, asses, domesticated animals.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:68.3"
@@ -2261,11 +2261,11 @@ msgstr "If he makes it move the fourth foot, he commits an offense entailing exp
 
 #. </p><p><a class="sc" id="65"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.26\\\" href=\\\"#Bu-Pj.2.4.26\\\">Bu-Pj.2.4.26</a><a class=\\\"ms-pa\\\" id=\\\"MS.255\\\" href=\\\"#MS.255\\\">MS.255</a>
 msgctxt "pi-tv-bu-vb-pj2:69.1"
-msgid "<strong>Bahuppadaṃ</strong> nāma—"
-msgstr "<span class=\\\"term\\\">Many-footed</span>:"
+msgid "<strong class=\\\"term\\\">Bahuppadaṃ</strong> nāma—"
+msgstr "<strong class=\\\"term\\\">Many-footed</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:69.2"
-msgid "vicchikā satapadī uccāliṅ­ga­pāṇakā."
+msgid "<span class=\\\"gloss\\\">vicchikā satapadī uccāliṅ­ga­pāṇakā.</span>"
 msgstr "<span class=\\\"gloss\\\">scorpions, centipedes, caterpillars.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:69.3"
@@ -2290,11 +2290,11 @@ msgstr "When the last leg moves, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="66"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.27\\\" href=\\\"#Bu-Pj.2.4.27\\\">Bu-Pj.2.4.27</a><a class=\\\"ms-pa\\\" id=\\\"MS.256\\\" href=\\\"#MS.256\\\">MS.256</a>
 msgctxt "pi-tv-bu-vb-pj2:70.1"
-msgid "<strong>Ocarako</strong> nāma"
-msgstr "<span class=\\\"term\\\">A spy</span>:"
+msgid "<strong class=\\\"term\\\">Ocarako</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A spy</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:70.2"
-msgid "bhaṇḍaṃ ocaritvā ācikkhati—"
+msgid "<span class=\\\"gloss\\\">bhaṇḍaṃ ocaritvā ācikkhati—</span>"
 msgstr "<span class=\\\"gloss\\\">having spied out goods. If he describes them and says,</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:70.3"
@@ -2311,11 +2311,11 @@ msgstr "If he makes it quiver, he commits a serious offense."
 
 #. </p><p><a class="sc" id="67"></a><a class="pts-vp-pi" id="pts-vp-pi3.53"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.28\\\" href=\\\"#Bu-Pj.2.4.28\\\">Bu-Pj.2.4.28</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.53\\\" href=\\\"#Vin.3.53\\\">Vin 3.53</a> <a class=\\\"ms-pa\\\" id=\\\"MS.257\\\" href=\\\"#MS.257\\\">MS.257</a>
 msgctxt "pi-tv-bu-vb-pj2:71.1"
-msgid "<strong>Oṇirakkho</strong> nāma"
-msgstr "<span class=\\\"term\\\">A protector of goods</span>:"
+msgid "<strong class=\\\"term\\\">Oṇirakkho</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A protector of goods</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:71.2"
-msgid "āhaṭaṃ bhaṇḍaṃ gopento"
+msgid "<span class=\\\"gloss\\\">āhaṭaṃ bhaṇḍaṃ gopento</span>"
 msgstr "<span class=\\\"gloss\\\">a monk who guards goods that have been brought to him.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:71.3"
@@ -2332,11 +2332,11 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 
 #. </p><p><a class="sc" id="68"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.29\\\" href=\\\"#Bu-Pj.2.4.29\\\">Bu-Pj.2.4.29</a><a class=\\\"ms-pa\\\" id=\\\"MS.258\\\" href=\\\"#MS.258\\\">MS.258</a>
 msgctxt "pi-tv-bu-vb-pj2:72.1"
-msgid "<strong>Saṃvidāvahāro</strong> nāma"
-msgstr "<span class=\\\"term\\\">A mutually agreed theft</span>:"
+msgid "<strong class=\\\"term\\\">Saṃvidāvahāro</strong> nāma"
+msgstr "<strong class=\\\"term\\\">A mutually agreed theft</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:72.2"
-msgid "sambahulā saṃvidahitvā"
+msgid "<span class=\\\"gloss\\\">sambahulā saṃvidahitvā</span>"
 msgstr "<span class=\\\"gloss\\\">many have agreed together.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:72.3"
@@ -2345,15 +2345,15 @@ msgstr "If only one steals the goods, there is an offense entailing expulsion fo
 
 #. </p><p><a class="sc" id="69"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.30\\\" href=\\\"#Bu-Pj.2.4.30\\\">Bu-Pj.2.4.30</a><a class=\\\"ms-pa\\\" id=\\\"MS.259\\\" href=\\\"#MS.259\\\">MS.259</a>
 msgctxt "pi-tv-bu-vb-pj2:73.1"
-msgid "<strong>Saṅketakammaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">An arranged action</span>:"
+msgid "<strong class=\\\"term\\\">Saṅketakammaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">An arranged action</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:73.2"
-msgid "saṅketaṃ karoti—"
+msgid "<span class=\\\"gloss\\\">saṅketaṃ karoti—"
 msgstr "<span class=\\\"gloss\\\">one makes an arrangement"
 
 msgctxt "pi-tv-bu-vb-pj2:73.3"
-msgid "“purebhattaṃ vā pacchābhattaṃ vā rattiṃ vā divā vā"
+msgid "“purebhattaṃ vā pacchābhattaṃ vā rattiṃ vā divā vā</span>"
 msgstr "for before the meal or for after the meal, for the night or for the day.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:73.4"
@@ -2379,12 +2379,12 @@ msgstr "but an offense entailing expulsion for the thief."
 
 #. </p><p><a class="sc" id="70"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.4.31\\\" href=\\\"#Bu-Pj.2.4.31\\\">Bu-Pj.2.4.31</a><a class=\\\"ms-pa\\\" id=\\\"MS.260\\\" href=\\\"#MS.260\\\">MS.260</a>
 msgctxt "pi-tv-bu-vb-pj2:74.1"
-msgid "<strong>Nimittakammaṃ</strong> nāma"
-msgstr "<span class=\\\"term\\\">Making a sign</span>:"
+msgid "<strong class=\\\"term\\\">Nimittakammaṃ</strong> nāma"
+msgstr "<strong class=\\\"term\\\">Making a sign</strong>:"
 
 msgctxt "pi-tv-bu-vb-pj2:74.2"
-msgid "nimittaṃ karoti."
-msgstr "<span class=\\\"gloss\\\">he makes a sign</span>."
+msgid "<span class=\\\"gloss\\\">nimittaṃ karoti.</span>"
+msgstr "<span class=\\\"gloss\\\">he makes a sign.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:74.3"
 msgid "Akkhiṃ vā nikhaṇissāmi bhamukaṃ vā ukkhipissāmi sīsaṃ vā ukkhipissāmi, tena nimittena taṃ bhaṇḍaṃ avaharāti, āpatti dukkaṭassa."
@@ -2542,35 +2542,35 @@ msgctxt "pi-tv-bu-vb-pj2:81.2"
 msgid "“itthannāmaṃ bhaṇḍaṃ avaharā”ti,"
 msgstr "“Steal such-and-such goods,”"
 
-msgctxt "pi-tv-bu-vb-pj2:81.2"
+msgctxt "pi-tv-bu-vb-pj2:81.3"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:81.3"
+msgctxt "pi-tv-bu-vb-pj2:81.4"
 msgid "So gantvā puna paccāgacchati—"
 msgstr "If the second monk goes there, but returns, saying,"
 
-msgctxt "pi-tv-bu-vb-pj2:81.4"
+msgctxt "pi-tv-bu-vb-pj2:81.5"
 msgid "“nāhaṃ sakkomi taṃ bhaṇḍaṃ avaharitun”ti."
 msgstr "“Iʼm not able to steal those goods,”"
 
-msgctxt "pi-tv-bu-vb-pj2:81.5"
+msgctxt "pi-tv-bu-vb-pj2:81.6"
 msgid "So puna āṇāpeti—"
 msgstr "and if he tells him again,"
 
-msgctxt "pi-tv-bu-vb-pj2:81.6"
+msgctxt "pi-tv-bu-vb-pj2:81.7"
 msgid "“yadā sakkosi tadā taṃ bhaṇḍaṃ avaharā”ti,"
 msgstr "“When youʼre able, then steal those goods,”"
 
-msgctxt "pi-tv-bu-vb-pj2:81.7"
+msgctxt "pi-tv-bu-vb-pj2:81.8"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:81.8"
+msgctxt "pi-tv-bu-vb-pj2:81.9"
 msgid "So taṃ bhaṇḍaṃ avaharati,"
 msgstr "If the second monk steals the goods,"
 
-msgctxt "pi-tv-bu-vb-pj2:81.9"
+msgctxt "pi-tv-bu-vb-pj2:81.10"
 msgid "āpatti ubhinnaṃ pārājikassa."
 msgstr "there is an offense entailing expulsion for both."
 
@@ -3640,7 +3640,7 @@ msgstr ""
 
 #. </p><p><a class="sc" id="113"></a><a class=\\\"ms-pa\\\" id=\\\"MS.303\\\" href=\\\"#MS.303\\\">MS.303</a>
 msgctxt "pi-tv-bu-vb-pj2:119.1"
-msgid "Tena kho pana samayena aññatarā bhikkhunī vatiyā cīvaraṃ pattharitvā vihāraṃ pāvisi."
+msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena aññatarā bhikkhunī vatiyā cīvaraṃ pattharitvā vihāraṃ pāvisi."
 msgstr "<span class=\\\"bhikkhuni\\\">On one occasion, a nun spread out her robe on a fence and entered her dwelling."
 
 msgctxt "pi-tv-bu-vb-pj2:119.2"
@@ -3688,7 +3688,7 @@ msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "who in turn informed the Master. …"
 
 msgctxt "pi-tv-bu-vb-pj2:119.13"
-msgid "“anāpatti, bhikkhave, niruttipathe”ti."
+msgid "“anāpatti, bhikkhave, niruttipathe”ti.</span>"
 msgstr "“If it was just a way of speaking, there’s no offense.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:119.14"
@@ -3800,11 +3800,11 @@ msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
 msgctxt "pi-tv-bu-vb-pj2:122.11"
-msgid "Na ca, bhikkhave, abhinne sarīre paṃsukūlaṃ gahetabbaṃ."
+msgid "<span class=\\\"rule\\\">Na ca, bhikkhave, abhinne sarīre paṃsukūlaṃ gahetabbaṃ."
 msgstr "<span class=\\\"rule\\\">But a monk shouldn’t take rags from a fresh corpse."
 
 msgctxt "pi-tv-bu-vb-pj2:122.12"
-msgid "Yo gaṇheyya, āpatti dukkaṭassā”ti."
+msgid "Yo gaṇheyya, āpatti dukkaṭassā”ti.</span>"
 msgstr "If he does, he commits an offense of wrong conduct.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:122.13"
@@ -4052,27 +4052,27 @@ msgctxt "pi-tv-bu-vb-pj2:132.3"
 msgid "So taṃ maññamāno taṃ avahari … pe …"
 msgstr "He then took it, thinking it was the one he had seen …"
 
-msgctxt "pi-tv-bu-vb-pj2:132.5"
+msgctxt "pi-tv-bu-vb-pj2:132.4"
 msgid "taṃ maññamāno aññaṃ avahari … pe …"
 msgstr "He then took something else, thinking it was the one he had seen …"
 
-msgctxt "pi-tv-bu-vb-pj2:132.7"
+msgctxt "pi-tv-bu-vb-pj2:132.5"
 msgid "aññaṃ maññamāno taṃ avahari … pe …"
 msgstr "He then took it, thinking it was something else than what he had seen …"
 
-msgctxt "pi-tv-bu-vb-pj2:132.9"
+msgctxt "pi-tv-bu-vb-pj2:132.6"
 msgid "aññaṃ maññamāno aññaṃ avahari."
 msgstr "He then took something else, thinking it was something else than what he had seen."
 
-msgctxt "pi-tv-bu-vb-pj2:132.10"
+msgctxt "pi-tv-bu-vb-pj2:132.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became anxious …"
 
-msgctxt "pi-tv-bu-vb-pj2:132.12"
+msgctxt "pi-tv-bu-vb-pj2:132.8"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
 msgstr "“You have committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj2:132.13"
+msgctxt "pi-tv-bu-vb-pj2:132.9"
 msgid "(51–‍54)"
 msgstr ""
 
@@ -4341,23 +4341,23 @@ msgctxt "pi-tv-bu-vb-pj2:141.7"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became anxious"
 
-msgctxt "pi-tv-bu-vb-pj2:141.9"
+msgctxt "pi-tv-bu-vb-pj2:141.8"
 msgid "bhagavato etamatthaṃ ārocesuṃ."
 msgstr "and informed the Master."
 
-msgctxt "pi-tv-bu-vb-pj2:141.10"
+msgctxt "pi-tv-bu-vb-pj2:141.9"
 msgid "“Kiṃcittā tumhe, bhikkhave”ti?"
 msgstr "“What was your intention?”"
 
-msgctxt "pi-tv-bu-vb-pj2:141.11"
+msgctxt "pi-tv-bu-vb-pj2:141.10"
 msgid "“Paṃsu­kūla­saññino mayaṃ, bhagavā”ti."
 msgstr "“Master, we perceived them as discarded.”"
 
-msgctxt "pi-tv-bu-vb-pj2:141.12"
+msgctxt "pi-tv-bu-vb-pj2:141.11"
 msgid "“Anāpatti, bhikkhave, paṃsu­kūla­saññissā”ti."
 msgstr "“There’s no offense for one who perceives something as discarded.”"
 
-msgctxt "pi-tv-bu-vb-pj2:141.13"
+msgctxt "pi-tv-bu-vb-pj2:141.12"
 msgid "(63)"
 msgstr ""
 
@@ -4620,11 +4620,11 @@ msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
 msgctxt "pi-tv-bu-vb-pj2:148.8"
-msgid "Na ca, bhikkhave, vutto vajjemīti vattabbo."
+msgid "<span class=\\\"rule\\\">Na ca, bhikkhave, vutto vajjemīti vattabbo."
 msgstr "<span class=\\\"rule\\\">But you should not say, ‘I can take a message.’"
 
 msgctxt "pi-tv-bu-vb-pj2:148.9"
-msgid "Yo vadeyya, āpatti dukkaṭassā”ti."
+msgid "Yo vadeyya, āpatti dukkaṭassā”ti.</span>"
 msgstr "If you do, you commit an offense of wrong conduct.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:148.10"
@@ -4669,11 +4669,11 @@ msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
 msgctxt "pi-tv-bu-vb-pj2:149.10"
-msgid "Na ca, bhikkhave, vutto vajjehīti vattabbo."
+msgid "<span class=\\\"rule\\\">Na ca, bhikkhave, vutto vajjehīti vattabbo."
 msgstr "<span class=\\\"rule\\\">But you shouldn’t say, ‘Please take a message.’"
 
 msgctxt "pi-tv-bu-vb-pj2:149.11"
-msgid "Yo vadeyya, āpatti dukkaṭassā”ti."
+msgid "Yo vadeyya, āpatti dukkaṭassā”ti.</span>"
 msgstr "If you do, you commit an offense of wrong conduct.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:149.12"
@@ -4719,11 +4719,11 @@ msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
 msgctxt "pi-tv-bu-vb-pj2:150.10"
-msgid "Na ca, bhikkhave, vutto vajjemīti vattabbo, na ca vutto vajjehīti vattabbo."
+msgid "<span class=\\\"rule\\\">Na ca, bhikkhave, vutto vajjemīti vattabbo, na ca vutto vajjehīti vattabbo."
 msgstr "<span class=\\\"rule\\\">But you should not say, ‘I can take a message;’ nor should you say, ‘Please do.’"
 
 msgctxt "pi-tv-bu-vb-pj2:150.11"
-msgid "Yo vadeyya, āpatti dukkaṭassā”ti."
+msgid "Yo vadeyya, āpatti dukkaṭassā”ti.</span>"
 msgstr "If you do, you commit an offense of wrong conduct.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:150.12"
@@ -5700,11 +5700,11 @@ msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They informed the Master."
 
 msgctxt "pi-tv-bu-vb-pj2:183.5"
-msgid "“Na, bhikkhave, aññatra paribhogo aññatra pari­bhuñji­tabbo."
+msgid "<span class=\\\"rule\\\">“Na, bhikkhave, aññatra paribhogo aññatra pari­bhuñji­tabbo."
 msgstr "“<span class=\\\"rule\\\">You should not use elsewhere requisites belonging somewhere else."
 
 msgctxt "pi-tv-bu-vb-pj2:183.6"
-msgid "Yo paribhuñjeyya, āpatti dukkaṭassā”ti."
+msgid "Yo paribhuñjeyya, āpatti dukkaṭassā”ti.</span>"
 msgstr "If you do, you commit an offense of wrong conduct.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:183.7"
@@ -5725,7 +5725,7 @@ msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They informed the Master."
 
 msgctxt "pi-tv-bu-vb-pj2:184.4"
-msgid "“Anujānāmi, bhikkhave, tāvakālikaṃ haritun”ti."
+msgid "<span class=\\\"rule\\\">“Anujānāmi, bhikkhave, tāvakālikaṃ haritun”ti.</span>"
 msgstr "“<span class=\\\"rule\\\">I allow you to borrow.</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:184.5"
@@ -5734,7 +5734,7 @@ msgstr ""
 
 #. </p><p><a class="sc" id="179"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.7.45\\\" href=\\\"#Bu-Pj.2.7.45\\\">Bu-Pj.2.7.45</a><a class=\\\"ms-pa\\\" id=\\\"MS.369\\\" href=\\\"#MS.369\\\">MS.369</a>
 msgctxt "pi-tv-bu-vb-pj2:185.1"
-msgid "Tena kho pana samayena campāyaṃ thullanandāya bhikkhuniyā antevāsinī bhikkhunī thullanandāya bhikkhuniyā upaṭṭhākakulaṃ gantvā—"
+msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena campāyaṃ thullanandāya bhikkhuniyā antevāsinī bhikkhunī thullanandāya bhikkhuniyā upaṭṭhākakulaṃ gantvā—"
 msgstr "<span class=\\\"bhikkhuni\\\">On one occasion, at Campā, a nun who was a pupil of the nun Thullanandā went to a family who supported Thullanandā and said,"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.111\\\" href=\\\"#BD.1.111\\\">BD.1.111</a>
@@ -5775,7 +5775,7 @@ msgid "“Anāpatti, bhikkhave, pārājikassa;"
 msgstr "“There’s no offense entailing expulsion,"
 
 msgctxt "pi-tv-bu-vb-pj2:185.11"
-msgid "āpatti sam­pajā­na­musā­vāde pācittiyassā”ti."
+msgid "āpatti sam­pajā­na­musā­vāde pācittiyassā”ti.</span>"
 msgstr "but there’s an offense entailing confession for lying.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:185.12"
@@ -5784,7 +5784,7 @@ msgstr ""
 
 #. </p><p><a class="sc" id="180"></a><a class=\\\"ms-pa\\\" id=\\\"MS.370\\\" href=\\\"#MS.370\\\">MS.370</a>
 msgctxt "pi-tv-bu-vb-pj2:186.1"
-msgid "Tena kho pana samayena rājagahe thullanandāya bhikkhuniyā antevāsinī bhikkhunī thullanandāya bhikkhuniyā upaṭṭhākakulaṃ gantvā—"
+msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena rājagahe thullanandāya bhikkhuniyā antevāsinī bhikkhunī thullanandāya bhikkhuniyā upaṭṭhākakulaṃ gantvā—"
 msgstr "<span class=\\\"bhikkhuni\\\">On one occasion, in Rājagaha, a nun who was a pupil of the nun Thullanandā went to a family who supported Thullanandā and said,"
 
 msgctxt "pi-tv-bu-vb-pj2:186.2"
@@ -5812,7 +5812,7 @@ msgid "“anāpatti, bhikkhave, pārājikassa;"
 msgstr "“There’s no offense entailing expulsion,"
 
 msgctxt "pi-tv-bu-vb-pj2:186.8"
-msgid "āpatti sam­pajā­na­musā­vāde pācittiyassā”ti."
+msgid "āpatti sam­pajā­na­musā­vāde pācittiyassā”ti.</span>"
 msgstr "but there’s an offense entailing confession for lying.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:186.9"
@@ -5951,7 +5951,7 @@ msgstr "And they informed the Master."
 
 #. <span class=\\\"var\\\" title=\\\"iddhimato (bj) | iddhimantassa (s1-3, pts1)\\\" id=\\\"note95\\\">iddhimassa</span>
 msgctxt "pi-tv-bu-vb-pj2:188.10"
-msgid "“Anāpatti, bhikkhave, iddhimassa iddhivisaye”ti."
+msgid "<span class=\\\"rule\\\">“Anāpatti, bhikkhave, iddhimassa iddhivisaye”ti.</span>"
 msgstr "He said, “<span class=\\\"rule\\\">There’s no offense in the area of supernormal powers for one who possesses them.”</span>"
 
 msgctxt "pi-tv-bu-vb-pj2:188.11"
