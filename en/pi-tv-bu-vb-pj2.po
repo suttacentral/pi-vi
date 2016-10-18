@@ -50,7 +50,7 @@ msgstr "First sub-story"
 #. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.41"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.2\\\">Bu-Pj.2</a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.2.1\\\">Bu-Pj.2.1</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.1.1\\\" href=\\\"#Bu-Pj.2.1.1\\\">Bu-Pj.2.1.1</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.64\\\" href=\\\"#BD.1.64\\\">BD.1.64</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.41\\\" href=\\\"#Vin.3.41\\\">Vin 3.41</a> <a class=\\\"ms-pa\\\" id=\\\"MS.191\\\" href=\\\"#MS.191\\\">MS.191</a>
 msgctxt "pi-tv-bu-vb-pj2:5.3"
 msgid "Tena samayena buddho bhagavā rājagahe viharati gijjhakūṭe pabbate."
-msgstr "At one time the Buddha was staying at Rājagaha on Mount Vulture Peak."
+msgstr "At one time, the Buddha was staying at Rājagaha on Mount Vulture Peak."
 
 msgctxt "pi-tv-bu-vb-pj2:5.4"
 msgid "Tena kho pana samayena sambahulā sandiṭṭhā sambhattā bhikkhū isigilipasse tiṇakuṭiyo karitvā vassaṃ upagacchiṃsu."
@@ -475,7 +475,7 @@ msgstr "“I remember, Venerable."
 
 msgctxt "pi-tv-bu-vb-pj2:15.14"
 msgid "Santi, bhante, samaṇabrāhmaṇā lajjino kukkuccakā sikkhākāmā."
-msgstr "There are ascetics and brahmins who have a sense of conscience, who are scrupulous and desirous of training."
+msgstr "There are ascetics and brahmins who have a sense of conscience, who are afraid of wrongdoing and desirous of training."
 
 msgctxt "pi-tv-bu-vb-pj2:15.15"
 msgid "Tesaṃ appamattakepi kukkuccaṃ uppajjati."
@@ -509,7 +509,7 @@ msgstr "But people grumbled and complained:"
 
 msgctxt "pi-tv-bu-vb-pj2:16.2"
 msgid "“alajjino ime samaṇā sakyaputtiyā dussīlā musāvādino."
-msgstr "“These Sakyan ascetics are shameless, immoral, and liars."
+msgstr "“These Sakyan ascetics are shameless and immoral liars."
 
 msgctxt "pi-tv-bu-vb-pj2:16.3"
 msgid "Ime hi nāma dhammacārino samacārino brāhmacārino saccavādino sīlavanto kalyāṇadhammā paṭijānissanti."
@@ -521,7 +521,7 @@ msgstr "But they don’t have the qualities of an ascetic or a brahmin;"
 
 msgctxt "pi-tv-bu-vb-pj2:16.5"
 msgid "Naṭṭhaṃ imesaṃ sāmaññaṃ, naṭṭhaṃ imesaṃ brahmaññaṃ."
-msgstr "they have lost their way."
+msgstr "theyʼve lost the plot."
 
 msgctxt "pi-tv-bu-vb-pj2:16.6"
 msgid "Kuto imesaṃ sāmaññaṃ, kuto imesaṃ brahmaññaṃ."
@@ -542,7 +542,7 @@ msgstr "Monks heard the complaints of those people."
 
 msgctxt "pi-tv-bu-vb-pj2:17.2"
 msgid "Ye te bhikkhū appicchā santuṭṭhā lajjino kukkuccakā sikkhākāmā te ujjhāyanti khiyyanti vipācenti—"
-msgstr "The monks of few desires who had a sense of conscience, who were contented, scrupulous, and desirous of training, complained and criticized Venerable Dhaniya:"
+msgstr "The monks of few desires who had a sense of conscience, who were contented, afraid of wrongdoing, and desirous of training, complained and criticized Venerable Dhaniya:"
 
 msgctxt "pi-tv-bu-vb-pj2:17.3"
 msgid "“kathañhi nāma āyasmā dhaniyo kumbha­kā­ra­putto rañño dārūni adinnaṃ ādiyissatī”ti."
@@ -958,12 +958,12 @@ msgctxt "pi-tv-bu-vb-pj2:38.1"
 msgid "<strong class=\\\"term\\\">Corosi bālosi mūḷhosi thenosī</strong>ti"
 msgstr "<strong class=\\\"term\\\">Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thief</strong>:"
 
+#. Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang=\\\"pi\\\">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">yathārūpaṃ</i>, “the sort,” and secondly, <i lang=\\\"pi\\\">ādiyamāno</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">ādiyeyya</i>, “takes.”
 msgctxt "pi-tv-bu-vb-pj2:38.2"
 msgid "<span class=\\\"gloss\\\">paribhāso eso.</span>"
 msgstr "<span class=\\\"gloss\\\">this is a rebuke.</span>"
 
 #. </p><p><a class="sc" id="35"></a>
-#. Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang=\\\"pi\\\">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">yathārūpaṃ</i>, “the sort,” and secondly, <i lang=\\\"pi\\\">ādiyamāno</i>, which is defined in exactly the same way as <i lang=\\\"pi\\\">ādiyeyya</i>, “takes.”
 msgctxt "pi-tv-bu-vb-pj2:39.1"
 msgid "<strong class=\\\"term\\\">Tathārūpaṃ</strong> nāma"
 msgstr ""
@@ -2116,7 +2116,7 @@ msgid "“atra paviṭṭhassa suṅkaṃ gaṇhantū”ti."
 msgstr "so that tax can be collected from a person passing through."
 
 #. <span class=\\\"var\\\" title=\\\"rājagghaṃ (bj, s1-3, pts1)\\\" id=\\\"note74\\\">rājaggaṃ</span>
-#. Although not explicitly stated in the Pali, the commentary, <ref>Sp.2.358.29</ref>, confirms that the value meant is the tax value: <i lang=\\\"pi\\\">rājaggaṃ bhaṇḍanti: rājārahaṃ bhaṇḍaṃ; yato rañño pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ suṅkaṃ dātabbaṃ hoti, taṃ bhaṇḍanti attho</i>.
+#. Although not explicitly stated in the Pali, the commentary, <ref>Sp.2.358.29</ref>, confirms that the value meant is the tax value: “Goods having a value to the king means: goods having a worth to the king. The meaning is: the goods because of which tax having a value of five <i lang=\\\"pi\\\">māsakas</i> or more is to be given to the king.” (<i lang=\\\"pi\\\">Rājaggaṃ bhaṇḍanti: rājārahaṃ bhaṇḍaṃ; yato rañño pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ suṅkaṃ dātabbaṃ hoti, taṃ bhaṇḍanti attho</i>.)
 msgctxt "pi-tv-bu-vb-pj2:64.4"
 msgid "Tatra pavisitvā rājaggaṃ bhaṇḍaṃ pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal and having entered the customs station, he touches goods that have a tax value to the king of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
@@ -3264,7 +3264,7 @@ msgstr "On one occasion, monks from the group of six went to the dyers’ spread
 
 msgctxt "pi-tv-bu-vb-pj2:108.2"
 msgid "Tesaṃ kukkuccaṃ ahosi—"
-msgstr "They became anxious, thinking,"
+msgstr "They became remorseful, thinking,"
 
 msgctxt "pi-tv-bu-vb-pj2:108.3"
 msgid "“bhagavatā sikkhāpadaṃ paññattaṃ."
@@ -3293,7 +3293,7 @@ msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valu
 
 msgctxt "pi-tv-bu-vb-pj2:109.2"
 msgid "Tassa kukkuccaṃ ahosi—"
-msgstr "He became anxious, thinking,"
+msgstr "He became remorseful, thinking,"
 
 msgctxt "pi-tv-bu-vb-pj2:109.3"
 msgid "“bhagavatā sikkhāpadaṃ paññattaṃ,"
@@ -3322,7 +3322,7 @@ msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valu
 
 msgctxt "pi-tv-bu-vb-pj2:110.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:110.3"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -3343,7 +3343,7 @@ msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valu
 
 msgctxt "pi-tv-bu-vb-pj2:111.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:111.3"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -3364,7 +3364,7 @@ msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valu
 
 msgctxt "pi-tv-bu-vb-pj2:112.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:112.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -3430,7 +3430,7 @@ msgstr "But he stole something else, thinking it was something else."
 
 msgctxt "pi-tv-bu-vb-pj2:114.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:114.8"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -3455,7 +3455,7 @@ msgstr "But he stole his own goods, thinking they were the ones he had seen."
 
 msgctxt "pi-tv-bu-vb-pj2:115.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:115.5"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -3529,7 +3529,7 @@ msgstr ""
 #. </p><p><a class="sc" id="111"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.7.6\\\" href=\\\"#Bu-Pj.2.7.6\\\">Bu-Pj.2.7.6</a><a class=\\\"ms-pa\\\" id=\\\"MS.301\\\" href=\\\"#MS.301\\\">MS.301</a>
 msgctxt "pi-tv-bu-vb-pj2:117.1"
 msgid "Tena kho pana samayena aññataro bhikkhu ajjhokāse cīvaraṃ pattharitvā vihāraṃ pāvisi."
-msgstr "On one occasion, a monk spread out his robe in the open air and entered his dwelling."
+msgstr "On one occasion, a monk spread out his robe out in the open and entered his dwelling."
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.96\\\" href=\\\"#BD.1.96\\\">BD.1.96</a>
 msgctxt "pi-tv-bu-vb-pj2:117.2"
@@ -3562,7 +3562,7 @@ msgstr "The first monk took hold of him and said, “You’re no longer an ascet
 
 msgctxt "pi-tv-bu-vb-pj2:117.9"
 msgid "Tassa kukkuccaṃ ahosi … pe …."
-msgstr "The second monk became anxious, and he informed the Master."
+msgstr "The second monk became remorseful, and he informed the Master."
 
 msgctxt "pi-tv-bu-vb-pj2:117.10"
 msgid "Bhagavato etamatthaṃ ārocesi."
@@ -3628,7 +3628,7 @@ msgstr "The first monk took hold of him and said, “You’re no longer an ascet
 
 msgctxt "pi-tv-bu-vb-pj2:118.11"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:118.12"
 msgid "“anāpatti, bhikkhu, niruttipathe”ti."
@@ -3673,7 +3673,7 @@ msgstr "The first nun took hold of her and said, “You’re no longer an asceti
 
 msgctxt "pi-tv-bu-vb-pj2:119.9"
 msgid "Tassā kukkuccaṃ ahosi … pe …."
-msgstr "The second nun became anxious …"
+msgstr "The second nun became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:119.10"
 msgid "Atha kho sā bhikkhunī bhikkhunīnaṃ etamatthaṃ ārocesi."
@@ -3710,7 +3710,7 @@ msgstr "“I’ll give it to the owners.” But the owners rebuked him, saying, 
 
 msgctxt "pi-tv-bu-vb-pj2:120.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:120.5"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -3748,7 +3748,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:121.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:121.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -3793,7 +3793,7 @@ msgstr "and the body fell down at that very place."
 
 msgctxt "pi-tv-bu-vb-pj2:122.9"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:122.10"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -3822,7 +3822,7 @@ msgstr "A monk, intending to steal, disregarded his grass ticket and took a robe
 
 msgctxt "pi-tv-bu-vb-pj2:123.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:123.4"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -3873,7 +3873,7 @@ msgstr "They had it cooked and ate it."
 
 msgctxt "pi-tv-bu-vb-pj2:125.3"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:125.4"
 msgid "“anāpatti, bhikkhave, sīhavighāse”ti."
@@ -3927,7 +3927,7 @@ msgstr "a monk said without having a proper reason, “Give me a portion for som
 
 msgctxt "pi-tv-bu-vb-pj2:127.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:127.4"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -3965,7 +3965,7 @@ msgstr "a monk said without having a proper reason, “Give me a portion for som
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.99\\\" href=\\\"#BD.1.99\\\">BD.1.99</a>
 msgctxt "pi-tv-bu-vb-pj2:128.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …."
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:128.7"
 msgid "“Anāpatti, bhikkhu, pārājikassa."
@@ -3986,7 +3986,7 @@ msgstr "On one occasion, during a shortage of food, a monk, intending to steal, 
 
 msgctxt "pi-tv-bu-vb-pj2:129.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:129.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4029,7 +4029,7 @@ msgstr "took a bowlful of confectioneries."
 
 msgctxt "pi-tv-bu-vb-pj2:131.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:131.5"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4066,7 +4066,7 @@ msgstr "He then took something else, thinking it was something else than what he
 
 msgctxt "pi-tv-bu-vb-pj2:132.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:132.8"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4091,7 +4091,7 @@ msgstr "But he took his own requisite, thinking it was what he had seen."
 
 msgctxt "pi-tv-bu-vb-pj2:133.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:133.5"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -4121,7 +4121,7 @@ msgstr "and so he took it by moving the bench."
 
 msgctxt "pi-tv-bu-vb-pj2:134.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:134.5"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4138,7 +4138,7 @@ msgstr "On one occasion, a monk, intending to steal it, took a cushion belonging
 
 msgctxt "pi-tv-bu-vb-pj2:135.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:135.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4155,7 +4155,7 @@ msgstr "On one occasion, a monk, intending to steal it, took a robe from a bambo
 
 msgctxt "pi-tv-bu-vb-pj2:136.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:136.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4219,7 +4219,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:138.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:138.8"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -4261,7 +4261,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:139.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:139.7"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -4339,7 +4339,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:141.7"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious"
+msgstr "They became remorseful"
 
 msgctxt "pi-tv-bu-vb-pj2:141.8"
 msgid "bhagavato etamatthaṃ ārocesuṃ."
@@ -4364,7 +4364,7 @@ msgstr ""
 #. </p><p><a class="sc" id="136"></a><a class="pts-vp-pi" id="pts-vp-pi3.61"></a><a class=\\\"ms-pa\\\" id=\\\"MS.326\\\" href=\\\"#MS.326\\\">MS.326</a>
 msgctxt "pi-tv-bu-vb-pj2:142.1"
 msgid "Tena kho pana samayena jambucorakā …"
-msgstr "On one occasion, rose-apple thieves …"
+msgstr "On one occasion, black plum thieves …"
 
 msgctxt "pi-tv-bu-vb-pj2:142.2"
 msgid "labujacorakā …"
@@ -4409,7 +4409,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:142.12"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:142.13"
 msgid "“anāpatti, bhikkhave, paṃsu­kūla­saññissā”ti."
@@ -4446,7 +4446,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:143.7"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:143.8"
 msgid "“āpattiṃ tumhe, bhikkhave, āpannā pārājikan”ti."
@@ -4459,7 +4459,7 @@ msgstr ""
 #. </p><p><a class="sc" id="138"></a><a class=\\\"ms-pa\\\" id=\\\"MS.328\\\" href=\\\"#MS.328\\\">MS.328</a>
 msgctxt "pi-tv-bu-vb-pj2:144.1"
 msgid "Tena kho pana samayena jambucorakā …"
-msgstr "On one occasion, rose-apple thieves …"
+msgstr "On one occasion, black plum thieves …"
 
 msgctxt "pi-tv-bu-vb-pj2:144.2"
 msgid "labujacorakā …"
@@ -4503,7 +4503,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:144.12"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:144.13"
 msgid "“āpattiṃ tumhe, bhikkhave, āpannā pārājikan”ti."
@@ -4520,7 +4520,7 @@ msgstr "On one occasion, a monk, intending to steal it, took a mango belonging t
 
 msgctxt "pi-tv-bu-vb-pj2:145.2"
 msgid "saṃghassa jambuṃ …"
-msgstr "a rose-apple …"
+msgstr "a black plum …"
 
 msgctxt "pi-tv-bu-vb-pj2:145.3"
 msgid "saṃghassa labujaṃ …"
@@ -4544,7 +4544,7 @@ msgstr "a <i lang=\\\"pi\\\">timbarūsaka</i> fruit belonging to the Order."
 
 msgctxt "pi-tv-bu-vb-pj2:145.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:145.9"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4561,7 +4561,7 @@ msgstr "On one occasion, a monk went to a flower-garden, and intending to steal 
 
 msgctxt "pi-tv-bu-vb-pj2:146.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious. …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:146.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4578,7 +4578,7 @@ msgstr "On one occasion, a monk went to a flower-garden, and intending to steal 
 
 msgctxt "pi-tv-bu-vb-pj2:147.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:147.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4613,7 +4613,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:148.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:148.7"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -4662,7 +4662,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:149.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:149.9"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -4712,7 +4712,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:150.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:150.9"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -4794,7 +4794,7 @@ msgstr "The man informed the monk."
 
 msgctxt "pi-tv-bu-vb-pj2:152.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:152.9"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -4835,7 +4835,7 @@ msgstr "And the monk took the jewel past the customs station."
 
 msgctxt "pi-tv-bu-vb-pj2:153.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:153.7"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4852,7 +4852,7 @@ msgstr "On one occasion, a monk, feeling compassion, released a pig trapped in a
 
 msgctxt "pi-tv-bu-vb-pj2:154.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:154.3"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -4881,7 +4881,7 @@ msgstr "intending to steal it before the owners saw it."
 
 msgctxt "pi-tv-bu-vb-pj2:155.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:155.4"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4919,7 +4919,7 @@ msgstr "intending to steal them before the owners saw it."
 
 msgctxt "pi-tv-bu-vb-pj2:156.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:156.8"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4945,7 +4945,7 @@ msgstr "So he took them by setting the vehicle in motion."
 
 msgctxt "pi-tv-bu-vb-pj2:157.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:157.5"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4974,7 +4974,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:158.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:158.6"
 msgid "“anāpatti, bhikkhu, atheyya­cittassā”ti."
@@ -5003,7 +5003,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:159.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:159.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5037,7 +5037,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:160.6"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:160.7"
 msgid "“anāpatti, bhikkhave, paṃsu­kūla­saññissā”ti."
@@ -5069,7 +5069,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:161.6"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:161.7"
 msgid "“āpattiṃ tumhe, bhikkhave, āpannā pārājikan”ti."
@@ -5098,7 +5098,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:162.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:162.6"
 msgid "“anāpatti, bhikkhu, paṃsu­kūla­saññissā”ti."
@@ -5128,7 +5128,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:163.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:163.6"
 msgid "“anāpatti, bhikkhu, atheyya­cittassā”ti."
@@ -5158,7 +5158,7 @@ msgstr "“You’re no longer a ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:164.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:164.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5175,7 +5175,7 @@ msgstr "On one occasion, a monk saw a pot of ghee and ate it little by little."
 
 msgctxt "pi-tv-bu-vb-pj2:165.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:165.3"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -5262,7 +5262,7 @@ msgstr "On one occasion, when Sāvatthī was short of food, a monk, intending to
 
 msgctxt "pi-tv-bu-vb-pj2:168.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:168.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5275,11 +5275,11 @@ msgstr ""
 #. </p><p><a class="sc" id="163"></a><a class=\\\"ms-pa\\\" id=\\\"MS.353\\\" href=\\\"#MS.353\\\">MS.353</a>
 msgctxt "pi-tv-bu-vb-pj2:169.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sāvatthiyaṃ dubbhikkhe āpaṇikassa muggamuṭṭhiṃ …"
-msgstr "On one occasion, when Sāvatthī was short of food, a monk, intending to steal, took a handful of kidney-beans …"
+msgstr "On one occasion, when Sāvatthī was short of food, a monk, intending to steal, took a handful of green gram …"
 
 msgctxt "pi-tv-bu-vb-pj2:169.2"
 msgid "māsamuṭṭhiṃ …"
-msgstr "a handful of beans …"
+msgstr "a handful of black gram …"
 
 msgctxt "pi-tv-bu-vb-pj2:169.3"
 msgid "tilamuṭṭhiṃ theyyacitto avahari."
@@ -5287,7 +5287,7 @@ msgstr "a handful of sesame belonging to a shopkeeper."
 
 msgctxt "pi-tv-bu-vb-pj2:169.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:169.5"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5317,7 +5317,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:170.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:170.6"
 msgid "“anāpatti, bhikkhave, paṃsu­kūla­saññissā”ti."
@@ -5363,7 +5363,7 @@ msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he 
 
 msgctxt "pi-tv-bu-vb-pj2:172.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:172.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5380,7 +5380,7 @@ msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he 
 
 msgctxt "pi-tv-bu-vb-pj2:173.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:173.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5405,7 +5405,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:174.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:174.5"
 msgid "bhagavato etamatthaṃ ārocesuṃ."
@@ -5431,7 +5431,7 @@ msgstr ""
 #. </p><p><a class="sc" id="169"></a><a class=\\\"ms-pa\\\" id=\\\"MS.359\\\" href=\\\"#MS.359\\\">MS.359</a>
 msgctxt "pi-tv-bu-vb-pj2:175.1"
 msgid "Tena kho pana samayena āgantukā bhikkhū saṃghassa jambuṃ …"
-msgstr "On one occasion, some visiting monks divided up the rose-apples belonging to the Order …"
+msgstr "On one occasion, some visiting monks divided up the black plums belonging to the Order …"
 
 msgctxt "pi-tv-bu-vb-pj2:175.2"
 msgid "saṃghassa labujaṃ …"
@@ -5463,7 +5463,7 @@ msgstr "“You’re no longer ascetics.”"
 
 msgctxt "pi-tv-bu-vb-pj2:175.9"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:175.10"
 msgid "“anāpatti, bhikkhave, pari­bhogat­thāyā”ti."
@@ -5484,7 +5484,7 @@ msgstr "The monks, thinking, “They have the authority to guard, but not to giv
 
 msgctxt "pi-tv-bu-vb-pj2:176.3"
 msgid "kukkuccāyantā na paṭiggaṇhanti."
-msgstr "had scruples and did not accept it."
+msgstr "were afraid of wrongdoing and did not accept it."
 
 msgctxt "pi-tv-bu-vb-pj2:176.4"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
@@ -5501,7 +5501,7 @@ msgstr ""
 #. </p><p><a class="sc" id="171"></a><a class=\\\"ms-pa\\\" id=\\\"MS.361\\\" href=\\\"#MS.361\\\">MS.361</a>
 msgctxt "pi-tv-bu-vb-pj2:177.1"
 msgid "Tena kho pana samayena jambupālakā …"
-msgstr "On one occasion, the keepers of a rose-apple grove …"
+msgstr "On one occasion, the keepers of a black plum grove …"
 
 msgctxt "pi-tv-bu-vb-pj2:177.2"
 msgid "labujapālakā …"
@@ -5529,7 +5529,7 @@ msgstr "The monks, thinking, “They have the authority to guard, but not to giv
 
 msgctxt "pi-tv-bu-vb-pj2:177.8"
 msgid "kukkuccāyantā na paṭiggaṇhanti."
-msgstr "had scruples and did not accept it."
+msgstr "were afraid of wrongdoing and did not accept it."
 
 msgctxt "pi-tv-bu-vb-pj2:177.9"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
@@ -5558,7 +5558,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:178.4"
 msgid "Tassa kukkuccaṃ ahosi."
-msgstr "He became anxious"
+msgstr "He became remorseful"
 
 msgctxt "pi-tv-bu-vb-pj2:178.5"
 msgid "Bhagavato etamatthaṃ ārocesi."
@@ -5595,7 +5595,7 @@ msgstr "intending to steal it, took a pile of grass belonging to the Order. …"
 
 msgctxt "pi-tv-bu-vb-pj2:179.4"
 msgid "tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:179.5"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5612,7 +5612,7 @@ msgstr "On one occasion, a monk who had the intention to steal set fire to a pil
 
 msgctxt "pi-tv-bu-vb-pj2:180.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:180.3"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -5633,7 +5633,7 @@ msgstr "On one occasion, a monk, intending to steal it, took a bed belonging to 
 
 msgctxt "pi-tv-bu-vb-pj2:181.2"
 msgid "tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:181.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5672,7 +5672,7 @@ msgstr "intending to steal it, he took a rafter belonging to the Order. …"
 
 msgctxt "pi-tv-bu-vb-pj2:182.7"
 msgid "tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:182.8"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5714,11 +5714,11 @@ msgstr ""
 #. </p><p><a class="sc" id="178"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.2.7.44\\\" href=\\\"#Bu-Pj.2.7.44\\\">Bu-Pj.2.7.44</a><a class=\\\"ms-pa\\\" id=\\\"MS.368\\\" href=\\\"#MS.368\\\">MS.368</a>
 msgctxt "pi-tv-bu-vb-pj2:184.1"
 msgid "Tena kho pana samayena bhikkhū uposathaggampi sannisajjampi harituṃ kukkuccāyantā chamāyaṃ nisīdanti."
-msgstr "On one occasion, some monks had scruples about taking requisites to the observance hall or to a meeting place, and they sat down on the bare ground."
+msgstr "At that time, being afraid of wrongdoing, the monks did not take requisites to the observance hall or to meetings, and they sat down on the bare ground."
 
 msgctxt "pi-tv-bu-vb-pj2:184.2"
 msgid "Gattānipi cīvarānipi paṃsukitāni honti."
-msgstr "Their limbs and robes were covered with dust."
+msgstr "Their limbs and robes became dusty."
 
 msgctxt "pi-tv-bu-vb-pj2:184.3"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
@@ -5756,7 +5756,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:185.6"
 msgid "Tassā kukkuccaṃ ahosi … pe …."
-msgstr "She became anxious."
+msgstr "She became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:185.7"
 msgid "Atha kho sā bhikkhunī bhikkhunīnaṃ etamatthaṃ ārocesi."
@@ -5805,7 +5805,7 @@ msgstr "“You’re no longer an ascetic.”"
 
 msgctxt "pi-tv-bu-vb-pj2:186.6"
 msgid "Tassā kukkuccaṃ ahosi … pe …"
-msgstr "She became anxious …"
+msgstr "She became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj2:186.7"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
