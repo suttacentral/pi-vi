@@ -600,11 +600,11 @@ msgstr "to eat the country’s alms."
 #. <span class=\\\"var\\\" title=\\\"bhagavā te (c1)\\\" id=\\\"note126\\\">bhagavā</span>
 msgctxt "pi-tv-bu-vb-pj4:21.1"
 msgid "Atha kho bhagavā vaggu­mudā­tīriye bhikkhū aneka­pariyā­yena vigarahitvā dubbharatāya dupposatāya … pe …"
-msgstr "Then the Master, after criticizing the monks from the banks of the Vaggumudā in various ways for being difficult to maintain, difficult to support … …"
+msgstr "Then the Master, after criticizing the monks from the banks of the Vaggumudā in various ways for being difficult to maintain, difficult to support …"
 
 msgctxt "pi-tv-bu-vb-pj4:21.2"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
-msgstr "And, monks, this training rule should be recited thus:"
+msgstr "“… And, monks, this training rule should be recited thus:"
 
 #. </p><h3>
 msgctxt "pi-tv-bu-vb-pj4:22.1"
