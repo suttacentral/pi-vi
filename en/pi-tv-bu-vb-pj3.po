@@ -50,7 +50,7 @@ msgstr "First sub-story"
 #. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.68"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3\\\">Bu-Pj.3</a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3.1\\\">Bu-Pj.3.1</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.1\\\" href=\\\"#Bu-Pj.3.1.1\\\">Bu-Pj.3.1.1</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.116\\\" href=\\\"#BD.1.116\\\">BD.1.116</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.68\\\" href=\\\"#Vin.3.68\\\">Vin 3.68</a> <a class=\\\"ms-pa\\\" id=\\\"MS.376\\\" href=\\\"#MS.376\\\">MS.376</a>
 msgctxt "pi-tv-bu-vb-pj3:5.3"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭā­gāra­sālāyaṃ."
-msgstr "At one time the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
+msgstr "At one time, the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
 
 msgctxt "pi-tv-bu-vb-pj3:5.4"
 msgid "Tena kho pana samayena bhagavā bhikkhūnaṃ aneka­pariyā­yena asubhakathaṃ katheti,"
@@ -210,7 +210,7 @@ msgstr "“Ānanda, why is the Order of monks so diminished?”"
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.120\\\" href=\\\"#BD.1.120\\\">BD.1.120</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.70\\\" href=\\\"#Vin.3.70\\\">Vin 3.70</a>
 msgctxt "pi-tv-bu-vb-pj3:11.3"
 msgid "“Tathā hi pana, bhante, bhagavā bhikkhūnaṃ aneka­pariyā­yena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubha­bhāva­nāya vaṇṇaṃ bhāsati, ādissa ādissa asubha­samā­pattiyā vaṇṇaṃ bhāsati."
-msgstr "Venerable Ānanda told him what had happened and added,"
+msgstr "Ānanda told him what had happened and added,"
 
 msgctxt "pi-tv-bu-vb-pj3:11.4"
 msgid "Te ca, bhante, bhikkhū—"
@@ -347,7 +347,7 @@ msgctxt "pi-tv-bu-vb-pj3:15.4"
 msgid "rassaṃ vā passasanto rassaṃ passasāmīti pajānāti."
 msgstr "and when he breathes out short, he knows that."
 
-#. I have here translated <i lang=\\\"pi\\\">kāya</i> as breath in accordance with the usage in the Ānāpānasati Sutta <ref>MN 118.24</ref> where the breath is specifically said to be a body among bodies. This is also the commentarial explanation (<ref>Sp.2.411.2</ref>): <i lang=\\\"pi\\\">sakalassa assāsakāyassa ādimajjhapariyosānaṃ viditaṃ karonto pākaṭaṃ karonto “assasissāmī”ti sikkhati</i>.
+#. I have here translated <i lang=\\\"pi\\\">kāya</i> as breath in accordance with the usage in the Ānāpānasati Sutta <ref>MN 118.24</ref> where the breath is specifically said to be a body among bodies. This is also the commentarial explanation: “He trains, ‘I will breath in,’ producing knowledge of and familiarity with the beginning, the middle, and the end of the whole body of the breath.” (<i lang=\\\"pi\\\">Sakalassa assāsakāyassa ādimajjhapariyosānaṃ viditaṃ karonto pākaṭaṃ karonto “assasissāmī”ti sikkhati</i>; <ref>Sp.2.411.2</ref>.)
 msgctxt "pi-tv-bu-vb-pj3:15.5"
 msgid "Sabba­kāyap­paṭi­saṃ­vedī assasissāmīti sikkhati."
 msgstr "When breathing in, he trains in having the full experience of the breath;"
@@ -475,7 +475,7 @@ msgstr "and it stops and settles bad, unwholesome qualities on the spot, wheneve
 #. </p><p><a class="sc" id="15"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.4\\\" href=\\\"#Bu-Pj.3.1.4\\\">Bu-Pj.3.1.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.390\\\" href=\\\"#MS.390\\\">MS.390</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.123\\\" href=\\\"#BD.1.123\\\">BD.1.123</a>
 msgctxt "pi-tv-bu-vb-pj3:19.1"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā bhikkhū paṭipucchi—"
-msgstr "The Master then convened the Order of monks and asked them:"
+msgstr "The Master then had the Order of monks assembled and asked them:"
 
 #. <span class=\\\"var\\\" title=\\\"vadenti (bj, s1-3)\\\" id=\\\"note104\\\">vadanti</span>
 msgctxt "pi-tv-bu-vb-pj3:19.2"
@@ -653,7 +653,7 @@ msgstr "But his wife complained and criticized those monks:"
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.125\\\" href=\\\"#BD.1.125\\\">BD.1.125</a>
 msgctxt "pi-tv-bu-vb-pj3:23.13"
 msgid "“alajjino ime samaṇā sakyaputtiyā dussīlā musāvādino."
-msgstr "“These Sakyan ascetics are shameless, immoral, and liars."
+msgstr "“These Sakyan ascetics are shameless and immoral liars."
 
 msgctxt "pi-tv-bu-vb-pj3:23.14"
 msgid "Ime hi nāma dhammacārino samacārino brahmacārino saccavādino sīlavanto kalyāṇadhammā paṭijānissanti."
@@ -665,7 +665,7 @@ msgstr "But they don’t have the qualities of an ascetic or a brahmin;"
 
 msgctxt "pi-tv-bu-vb-pj3:23.16"
 msgid "naṭṭhaṃ imesaṃ sāmaññaṃ naṭṭhaṃ imesaṃ brahmaññaṃ, kuto imesaṃ sāmaññaṃ kuto imesaṃ brahmaññaṃ, apagatā ime sāmaññā apagatā ime brahmaññā."
-msgstr "theyʼve lost their way."
+msgstr "theyʼve lost the plot."
 
 msgctxt "pi-tv-bu-vb-pj3:23.17"
 msgid "Ime me sāmikassa maraṇavaṇṇaṃ saṃvaṇṇesuṃ."
@@ -706,7 +706,7 @@ msgstr "The monks heard the criticism of those people."
 
 msgctxt "pi-tv-bu-vb-pj3:24.2"
 msgid "Ye te bhikkhū appicchā … pe …"
-msgstr "Those monks who had few desires and a sense of conscience, who were contented, scrupulous, and desirous of training,"
+msgstr "Those monks who had few desires and a sense of conscience, who were contented, afraid of wrongdoing, and desirous of training,"
 
 msgctxt "pi-tv-bu-vb-pj3:24.3"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
@@ -2547,7 +2547,7 @@ msgstr "Tickling, in taking hold of, a spirit,"
 #. <br>
 msgctxt "pi-tv-bu-vb-pj3:85.2"
 msgid "vāḷayakkhañca pāhiṇi;"
-msgstr "Beasts of prey, and spirits, sent;"
+msgstr "Wild animals, and spirits, sent;"
 
 #. <br>
 msgctxt "pi-tv-bu-vb-pj3:85.3"
@@ -2599,7 +2599,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:88.4"
 msgid "Tesaṃ kukkuccaṃ ahosi"
-msgstr "They became anxious"
+msgstr "They became remorseful"
 
 msgctxt "pi-tv-bu-vb-pj3:88.5"
 msgid "“bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho mayaṃ pārājikaṃ āpattiṃ āpannā”ti?"
@@ -2629,7 +2629,7 @@ msgstr "The boy died."
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.138\\\" href=\\\"#BD.1.138\\\">BD.1.138</a>
 msgctxt "pi-tv-bu-vb-pj3:89.3"
 msgid "Tassa kukkuccaṃ ahosi"
-msgstr "The monk became anxious"
+msgstr "The monk became remorseful"
 
 msgctxt "pi-tv-bu-vb-pj3:89.4"
 msgid "“bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ pārājikaṃ āpattiṃ āpanno”ti?"
@@ -2674,7 +2674,7 @@ msgstr "who then died."
 
 msgctxt "pi-tv-bu-vb-pj3:90.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:90.5"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -2711,7 +2711,7 @@ msgstr "who then died."
 
 msgctxt "pi-tv-bu-vb-pj3:91.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:91.6"
 msgid "“anāpatti, bhikkhu, asañciccā”ti."
@@ -2746,7 +2746,7 @@ msgstr "The father fell down and died."
 
 msgctxt "pi-tv-bu-vb-pj3:92.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The son became anxious …"
+msgstr "The son became remorseful …"
 
 #. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.80\\\" href=\\\"#Vin.3.80\\\">Vin 3.80</a>
 msgctxt "pi-tv-bu-vb-pj3:92.7"
@@ -2788,7 +2788,7 @@ msgstr "The father fell down and died."
 
 msgctxt "pi-tv-bu-vb-pj3:93.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The son became anxious …"
+msgstr "The son became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:93.7"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -2821,7 +2821,7 @@ msgstr "The father fell down, but did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:94.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The son became anxious …"
+msgstr "The son became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:94.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -2854,7 +2854,7 @@ msgstr "and the monk died."
 
 msgctxt "pi-tv-bu-vb-pj3:95.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:95.6"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -2883,7 +2883,7 @@ msgstr "and the monk died."
 
 msgctxt "pi-tv-bu-vb-pj3:96.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:96.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -2913,7 +2913,7 @@ msgstr "but the monk did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:97.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:97.6"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -2946,7 +2946,7 @@ msgstr "They died."
 
 msgctxt "pi-tv-bu-vb-pj3:98.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:98.6"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -2975,7 +2975,7 @@ msgstr "That monk died."
 
 msgctxt "pi-tv-bu-vb-pj3:99.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:99.4"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -3022,7 +3022,7 @@ msgstr "who died."
 
 msgctxt "pi-tv-bu-vb-pj3:100.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:100.7"
 msgid "“anāpatti, bhikkhu, asañciccā”ti."
@@ -3055,7 +3055,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:101.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:101.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -3093,7 +3093,7 @@ msgstr "who died."
 
 msgctxt "pi-tv-bu-vb-pj3:102.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:102.7"
 msgid "“anāpatti, bhikkhu, asañciccā”ti."
@@ -3126,7 +3126,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:103.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:103.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -3163,7 +3163,7 @@ msgstr "who died."
 
 msgctxt "pi-tv-bu-vb-pj3:104.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:104.7"
 msgid "“anāpatti, bhikkhu, asañciccā”ti."
@@ -3196,7 +3196,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:105.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:105.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -3233,7 +3233,7 @@ msgstr "who died."
 
 msgctxt "pi-tv-bu-vb-pj3:106.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:106.7"
 msgid "“anāpatti, bhikkhu, asañciccā”ti."
@@ -3266,7 +3266,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:107.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:107.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -3300,7 +3300,7 @@ msgstr "He did, and he fell down and died."
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.142\\\" href=\\\"#BD.1.142\\\">BD.1.142</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.82\\\" href=\\\"#Vin.3.82\\\">Vin 3.82</a>
 msgctxt "pi-tv-bu-vb-pj3:108.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:108.6"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -3341,7 +3341,7 @@ msgstr "he fell down, but did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:109.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:109.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -3374,7 +3374,7 @@ msgstr "He did, and he fell down and died."
 
 msgctxt "pi-tv-bu-vb-pj3:110.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:110.6"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -3407,7 +3407,7 @@ msgstr "he fell down, but did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:111.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:111.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -3437,7 +3437,7 @@ msgstr "The basket-maker died,"
 
 msgctxt "pi-tv-bu-vb-pj3:112.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "and the monk became anxious …"
+msgstr "and the monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:112.5"
 msgid "“anāpatti, bhikkhu, pārājikassa."
@@ -3475,7 +3475,7 @@ msgstr "and killed him."
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.143\\\" href=\\\"#BD.1.143\\\">BD.1.143</a>
 msgctxt "pi-tv-bu-vb-pj3:113.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious. …"
+msgstr "They became remorseful. …"
 
 msgctxt "pi-tv-bu-vb-pj3:113.5"
 msgid "“anāpatti, bhikkhave, pārājikassa."
@@ -3512,7 +3512,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:114.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious. …"
+msgstr "They became remorseful. …"
 
 msgctxt "pi-tv-bu-vb-pj3:114.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3541,7 +3541,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:115.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:115.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3570,7 +3570,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:116.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious. …"
+msgstr "They became remorseful. …"
 
 msgctxt "pi-tv-bu-vb-pj3:116.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3599,7 +3599,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:117.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:117.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3628,7 +3628,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:118.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious. …"
+msgstr "They became remorseful. …"
 
 msgctxt "pi-tv-bu-vb-pj3:118.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3657,7 +3657,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:119.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:119.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3686,7 +3686,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:120.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:120.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3715,7 +3715,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:121.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:121.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3744,7 +3744,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:122.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:122.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3773,7 +3773,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:123.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:123.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3802,7 +3802,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:124.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:124.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3831,7 +3831,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:125.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:125.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3860,7 +3860,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:126.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:126.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3889,7 +3889,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:127.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:127.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3918,7 +3918,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:128.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:128.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -3947,7 +3947,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:129.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:129.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -3976,7 +3976,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:130.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:130.5"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -4005,7 +4005,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:131.5"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:131.6"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -4046,7 +4046,7 @@ msgstr "The child died."
 
 msgctxt "pi-tv-bu-vb-pj3:132.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:132.8"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4095,7 +4095,7 @@ msgstr "but the mother did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:133.10"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:133.11"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4144,7 +4144,7 @@ msgstr "but the child did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:134.10"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 #. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.84\\\" href=\\\"#Vin.3.84\\\">Vin 3.84</a>
 #. It is not an offense entailing expulsion because he was aiming to kill the child, not the mother.
@@ -4199,7 +4199,7 @@ msgstr "Neither died."
 
 msgctxt "pi-tv-bu-vb-pj3:135.10"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:135.11"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4232,7 +4232,7 @@ msgstr "She crushed it and caused an abortion."
 
 msgctxt "pi-tv-bu-vb-pj3:136.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:136.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4261,7 +4261,7 @@ msgstr "She heated herself and caused an abortion."
 
 msgctxt "pi-tv-bu-vb-pj3:137.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:137.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4294,7 +4294,7 @@ msgstr "She died."
 
 msgctxt "pi-tv-bu-vb-pj3:138.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:138.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4354,7 +4354,7 @@ msgstr "Being unable to breathe, he died."
 
 msgctxt "pi-tv-bu-vb-pj3:140.3"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 #. <span class=\\\"var\\\" title=\\\"āpatti pācittiyassāti (s1-3)\\\" id=\\\"note116\\\">anāpatti, bhikkhave, pārājikassā”ti</span>
 msgctxt "pi-tv-bu-vb-pj3:140.4"
@@ -4366,7 +4366,7 @@ msgid "(69)"
 msgstr ""
 
 #. </p><p><a class="sc" id="135"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.23\\\" href=\\\"#Bu-Pj.3.5.23\\\">Bu-Pj.3.5.23</a><a class=\\\"ms-pa\\\" id=\\\"MS.510\\\" href=\\\"#MS.510\\\">MS.510</a>
-#. The text doesn’t say what the formal procedure, the <i lang=\\\"pi\\\">saṅghakamma</i>, was about, but it seems implied that it was against that monk. This is also the position of the subcommentary (<ref>Sp-ṭ.2.187</ref>): <i lang=\\\"pi\\\">kammādhippāyāti: tajjanīyādikammakaraṇādhippāyā</i>. The monks from the group of seventeen were in regular conflict with the monks from the group of six.
+#. The text doesn’t say what the formal procedure, the <i lang=\\\"pi\\\">saṅghakamma</i>, was about, but it seems implied that it was against that monk. This is also the position of the subcommentary: “Aiming at a formal procedure: aiming at doing a formal procedure of censure, etc.” (<i lang=\\\"pi\\\">Kammādhippāyāti: tajjanīyādikammakaraṇādhippāyā</i>; <ref>Sp-ṭ.2.187</ref>.) The monks from the group of seventeen were in regular conflict with the monks from the group of six.
 msgctxt "pi-tv-bu-vb-pj3:141.1"
 msgid "Tena kho pana samayena satta­rasa­vaggiyā bhikkhū chabbaggiyaṃ bhikkhuṃ kammaṃ karissāmāti"
 msgstr "On one occasion, monks from the group of seventeen overpowered a monk from the group of six, thinking, “We’ll do a formal procedure against him.”"
@@ -4377,7 +4377,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:141.3"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "They became anxious …"
+msgstr "They became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:141.4"
 msgid "“anāpatti, bhikkhave, pārājikassā”ti."
@@ -4394,7 +4394,7 @@ msgstr "On one occasion, a monk who was an exorcist killed a spirit."
 
 msgctxt "pi-tv-bu-vb-pj3:142.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He became anxious …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:142.3"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4419,7 +4419,7 @@ msgstr "The spirits killed him."
 
 msgctxt "pi-tv-bu-vb-pj3:143.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:143.4"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -4445,7 +4445,7 @@ msgstr "The spirits did not kill him."
 
 msgctxt "pi-tv-bu-vb-pj3:144.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:144.5"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4462,15 +4462,15 @@ msgstr ""
 #. </p><p><a class="sc" id="139"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.26\\\" href=\\\"#Bu-Pj.3.5.26\\\">Bu-Pj.3.5.26</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.85\\\" href=\\\"#Vin.3.85\\\">Vin 3.85</a> <a class=\\\"ms-pa\\\" id=\\\"MS.514\\\" href=\\\"#MS.514\\\">MS.514</a>
 msgctxt "pi-tv-bu-vb-pj3:145.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññataraṃ bhikkhuṃ vāḷakantāraṃ pāhesi."
-msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by beasts of prey."
+msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by wild animals."
 
 msgctxt "pi-tv-bu-vb-pj3:145.2"
 msgid "Taṃ vāḷā jīvitā voropesuṃ."
-msgstr "The beasts of prey killed him."
+msgstr "The wild animals killed him."
 
 msgctxt "pi-tv-bu-vb-pj3:145.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:145.4"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -4483,19 +4483,19 @@ msgstr ""
 #. </p><p><a class="sc" id="140"></a><a class=\\\"ms-pa\\\" id=\\\"MS.515\\\" href=\\\"#MS.515\\\">MS.515</a>
 msgctxt "pi-tv-bu-vb-pj3:146.1"
 msgid "Tena kho pana samayena aññataro bhikkhu maraṇādhippāyo aññataraṃ bhikkhuṃ vāḷakantāraṃ pāhesi."
-msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by beasts of prey, meaning to kill him."
+msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by wild animals, meaning to kill him."
 
 msgctxt "pi-tv-bu-vb-pj3:146.2"
 msgid "Taṃ vāḷā jīvitā voropesuṃ … pe …"
-msgstr "The beasts of prey killed him. …"
+msgstr "The wild animals killed him. …"
 
 msgctxt "pi-tv-bu-vb-pj3:146.3"
 msgid "taṃ vāḷā jīvitā na voropesuṃ."
-msgstr "The beasts of prey did not kill him."
+msgstr "The wild animals did not kill him."
 
 msgctxt "pi-tv-bu-vb-pj3:146.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:146.5"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4520,7 +4520,7 @@ msgstr "The criminals killed him."
 
 msgctxt "pi-tv-bu-vb-pj3:147.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first became anxious …"
+msgstr "The first became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:147.4"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -4545,7 +4545,7 @@ msgstr "The criminals did not kill him."
 
 msgctxt "pi-tv-bu-vb-pj3:148.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:148.5"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4578,7 +4578,7 @@ msgstr "killed another person, perceiving him as another person."
 
 msgctxt "pi-tv-bu-vb-pj3:149.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "That monk became anxious …"
+msgstr "That monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:149.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4603,7 +4603,7 @@ msgstr "He died."
 
 msgctxt "pi-tv-bu-vb-pj3:150.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The other monk became anxious …"
+msgstr "The other monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:150.5"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -4632,7 +4632,7 @@ msgstr "He did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:151.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The second monk became anxious …"
+msgstr "The second monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:151.6"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4657,7 +4657,7 @@ msgstr "He became keen on it and died."
 
 msgctxt "pi-tv-bu-vb-pj3:152.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:152.4"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -4682,7 +4682,7 @@ msgstr "He became keen on it, but did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:153.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:153.5"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4707,7 +4707,7 @@ msgstr "He became terrified and died."
 
 msgctxt "pi-tv-bu-vb-pj3:154.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:154.4"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -4732,7 +4732,7 @@ msgstr "He became terrified, but did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:155.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:155.5"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4773,7 +4773,7 @@ msgstr "and he died."
 
 msgctxt "pi-tv-bu-vb-pj3:156.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:156.8"
 msgid "“anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
@@ -4810,7 +4810,7 @@ msgstr "The tree fell on him, but he did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:157.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The first monk became anxious …"
+msgstr "The first monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:157.8"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4836,7 +4836,7 @@ msgstr "Some people were burnt and died."
 
 msgctxt "pi-tv-bu-vb-pj3:158.3"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:158.4"
 msgid "“anāpatti, bhikkhave, ­namara­ṇādhip­pāyassā”ti."
@@ -4861,7 +4861,7 @@ msgstr "Some people were burnt, but did not die."
 
 msgctxt "pi-tv-bu-vb-pj3:159.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
-msgstr "The monks became anxious …"
+msgstr "The monks became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:159.5"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
@@ -4898,7 +4898,7 @@ msgstr "and he killed him with a single blow."
 
 msgctxt "pi-tv-bu-vb-pj3:160.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:160.7"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -4931,7 +4931,7 @@ msgstr "and he executed him."
 
 msgctxt "pi-tv-bu-vb-pj3:161.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:161.7"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
@@ -4976,7 +4976,7 @@ msgstr "and he died."
 
 msgctxt "pi-tv-bu-vb-pj3:162.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "The monk became anxious …"
+msgstr "The monk became remorseful …"
 
 msgctxt "pi-tv-bu-vb-pj3:162.9"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
@@ -5017,7 +5017,7 @@ msgstr "and he died."
 
 msgctxt "pi-tv-bu-vb-pj3:163.8"
 msgid "Tassā kukkuccaṃ ahosi … pe …."
-msgstr "The nun became anxious. …"
+msgstr "The nun became remorseful. …"
 
 #. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.150\\\" href=\\\"#BD.1.150\\\">BD.1.150</a>
 msgctxt "pi-tv-bu-vb-pj3:163.9"
