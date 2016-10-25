@@ -12,42 +12,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="pi-tv-bu-vb-pj3"><article><div
-#. class="hgroup"><p class="division">
+#: <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#: name="description"><title></title></head><body><div id="text"
+#: lang="pi"><section class="sutta" id="pi-tv-bu-vb-pj3"><article><div
+#: class="hgroup"><p class="division">
 msgctxt "pi-tv-bu-vb-pj3:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
 
-#. </p><p>
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:2.1"
 msgid "Mahāvibhaṅga"
 msgstr "Monks’ rules and their analysis"
 
-#. </p><p>
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:3.1"
 msgid "Pārājikakaṇḍa"
 msgstr ""
 
-#. </p><h1>
-#. <span class=\\\"add\\\">Pārājika 3: </span>
+#: </p><h1>
+#: <span class=\\\"add\\\">Pārājika 3: </span>
 msgctxt "pi-tv-bu-vb-pj3:4.1"
 msgid "Pārājika 3: Tatiya­pā­rāji­ka­sikkhā­pada"
 msgstr "Monks’ Expulsion 3: the third training rule"
 
-#. </h1></div><h2>
+#: </h1></div><h2>
 msgctxt "pi-tv-bu-vb-pj3:5.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><h3>
+#: </h2><h3>
 msgctxt "pi-tv-bu-vb-pj3:5.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.68"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3\\\">Bu-Pj.3</a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3.1\\\">Bu-Pj.3.1</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.1\\\" href=\\\"#Bu-Pj.3.1.1\\\">Bu-Pj.3.1.1</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.116\\\" href=\\\"#BD.1.116\\\">BD.1.116</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.68\\\" href=\\\"#Vin.3.68\\\">Vin 3.68</a> <a class=\\\"ms-pa\\\" id=\\\"MS.376\\\" href=\\\"#MS.376\\\">MS.376</a>
+#: </h3><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.68"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3\\\">Bu-Pj.3</a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3.1\\\">Bu-Pj.3.1</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.1\\\" href=\\\"#Bu-Pj.3.1.1\\\">Bu-Pj.3.1.1</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.116\\\" href=\\\"#BD.1.116\\\">BD.1.116</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.68\\\" href=\\\"#Vin.3.68\\\">Vin 3.68</a> <a class=\\\"ms-pa\\\" id=\\\"MS.376\\\" href=\\\"#MS.376\\\">MS.376</a>
 msgctxt "pi-tv-bu-vb-pj3:5.3"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭā­gāra­sālāyaṃ."
 msgstr "At one time, the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
@@ -68,7 +68,7 @@ msgctxt "pi-tv-bu-vb-pj3:5.7"
 msgid "ādissa ādissa asubha­samā­pattiyā vaṇṇaṃ bhāsati."
 msgstr "and in praise of the attainment of unattractiveness."
 
-#. </p><p><a class="sc" id="2"></a><a class=\\\"ms-pa\\\" id=\\\"MS.377\\\" href=\\\"#MS.377\\\">MS.377</a>
+#: </p><p><a class="sc" id="2"></a><a class=\\\"ms-pa\\\" id=\\\"MS.377\\\" href=\\\"#MS.377\\\">MS.377</a>
 msgctxt "pi-tv-bu-vb-pj3:6.1"
 msgid "Atha kho bhagavā bhikkhū āmantesi—"
 msgstr "The Master then addressed the monks:"
@@ -81,7 +81,8 @@ msgctxt "pi-tv-bu-vb-pj3:6.3"
 msgid "Namhi kenaci upasaṅka­mi­tabbo, aññatra ekena piṇḍa­pāta­nīhāra­kenā”ti."
 msgstr "No-one is to approach me except the one who brings me almsfood.”"
 
-#. <span class=\\\"var\\\" title=\\\"paṭissutvā (bj) | paṭisuṇitvā (pts1)\\\" id=\\\"note99\\\">paṭissuṇitvā</span>
+#: </p><p>
+#: <span class=\\\"var\\\" title=\\\"paṭissutvā (bj) | paṭisuṇitvā (pts1)\\\" id=\\\"note99\\\">paṭissuṇitvā</span>
 msgctxt "pi-tv-bu-vb-pj3:6.4"
 msgid "“Evaṃ, bhante”ti, kho te bhikkhū bhagavato paṭissuṇitvā"
 msgstr "“Yes, Venerable Sir,” they replied,"
@@ -90,8 +91,8 @@ msgctxt "pi-tv-bu-vb-pj3:6.5"
 msgid "nāssudha koci bhagavantaṃ upasaṅkamati, aññatra ekena piṇḍa­pāta­nīhāra­kena."
 msgstr "and no-one approached him except the one who brought him almsfood."
 
-#. </p><p><a class="sc" id="3"></a><a class=\\\"ms-pa\\\" id=\\\"MS.378\\\" href=\\\"#MS.378\\\">MS.378</a>
-#. <span class=\\\"var\\\" title=\\\"atirekapāṭhena bhavitabbaṃ. evamuparipi īdisesu\\\" id=\\\"note100\\\">te</span>
+#: </p><p><a class="sc" id="3"></a><a class=\\\"ms-pa\\\" id=\\\"MS.378\\\" href=\\\"#MS.378\\\">MS.378</a>
+#: <span class=\\\"var\\\" title=\\\"atirekapāṭhena bhavitabbaṃ. evamuparipi īdisesu\\\" id=\\\"note100\\\">te</span>
 msgctxt "pi-tv-bu-vb-pj3:7.1"
 msgid "Bhikkhū—“bhagavā kho aneka­pariyā­yena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubha­bhāva­nāya vaṇṇaṃ bhāsati, ādissa ādissa asubha­samā­pattiyā vaṇṇaṃ bhāsatī”ti,"
 msgstr "The monks thought, “The Master has talked in many ways about unattractiveness,”"
@@ -104,7 +105,7 @@ msgctxt "pi-tv-bu-vb-pj3:7.3"
 msgid "Te sakena kāyena aṭṭīyanti harāyanti jigucchanti."
 msgstr "As a consequence, they became troubled by their own bodies, ashamed of them, disgusted with them."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.117\\\" href=\\\"#BD.1.117\\\">BD.1.117</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.117\\\" href=\\\"#BD.1.117\\\">BD.1.117</a>
 msgctxt "pi-tv-bu-vb-pj3:7.4"
 msgid "Seyyathāpi nāma itthī vā puriso vā daharo yuvā maṇḍa­na­kajā­tiko sīsaṃnhāto ahikuṇapena vā kukku­ra­kuṇa­pena vā ­manus­sa­kuṇa­pena vā kaṇṭhe āsattena aṭṭīyeyya harāyeyya jiguccheyya;"
 msgstr "Just as a young woman or man—someone fond of adornments, who had just washed her hair—would be ashamed, humiliated, and disgusted if the carcase of a snake, a dog, or a man were hung around her neck,"
@@ -132,13 +133,13 @@ msgctxt "pi-tv-bu-vb-pj3:7.10"
 msgid "Idaṃ te pattacīvaraṃ bhavissatī”ti."
 msgstr "This bowl and robe will be yours.”"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.118\\\" href=\\\"#BD.1.118\\\">BD.1.118</a>
-#. <span class=\\\"var\\\" title=\\\"lohitagataṃ (pts1, mr)\\\" id=\\\"note101\\\">lohitakaṃ</span>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.118\\\" href=\\\"#BD.1.118\\\">BD.1.118</a>
+#: <span class=\\\"var\\\" title=\\\"lohitagataṃ (pts1, mr)\\\" id=\\\"note101\\\">lohitakaṃ</span>
 msgctxt "pi-tv-bu-vb-pj3:7.11"
 msgid "Atha kho migalaṇḍiko samaṇakuttako pattacīvarehi bhaṭo sambahule bhikkhū jīvitā voropetvā lohitakaṃ asiṃ ādāya yena vaggumudā nadī tenupasaṅkami."
 msgstr "And hired for a bowl and robe, Migalaṇḍika killed many monks."
 
-#. </p><p><a class="sc" id="4"></a><a class="pts-vp-pi" id="pts-vp-pi3.69"></a><a class=\\\"ms-pa\\\" id=\\\"MS.379\\\" href=\\\"#MS.379\\\">MS.379</a>
+#: </p><p><a class="sc" id="4"></a><a class="pts-vp-pi" id="pts-vp-pi3.69"></a><a class=\\\"ms-pa\\\" id=\\\"MS.379\\\" href=\\\"#MS.379\\\">MS.379</a>
 msgctxt "pi-tv-bu-vb-pj3:8.1"
 msgid "Atha kho migalaṇḍikassa samaṇa­kutta­kassa lohitakaṃ taṃ asiṃ dhovantassa ahudeva"
 msgstr "He took his <span class=\\\"pts\\\">blood-stained</span> knife to the river Vaggumudā, and while he was washing it,"
@@ -151,11 +152,12 @@ msgctxt "pi-tv-bu-vb-pj3:8.3"
 msgid "“alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me suladdhaṃ."
 msgstr "“This is truly bad for me;"
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.69\\\" href=\\\"#Vin.3.69\\\">Vin 3.69</a>"
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.69\\\" href=\\\"#Vin.3.69\\\">Vin 3.69</a>"
 msgctxt "pi-tv-bu-vb-pj3:8.4"
 msgid "Bahuṃ vata mayā apuññaṃ pasutaṃ, yohaṃ bhikkhū sīlavante kalyāṇadhamme jīvitā voropesin”ti."
 msgstr "Iʼve made much demerit by killing virtuous monks.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:8.5"
 msgid "Atha kho aññatarā mārakāyikā devatā abhijjamāne udake āgantvā migalaṇḍikaṃ samaṇakuttakaṃ etadavoca—"
 msgstr "Then, walking across the water, a god from the realm of the lord of death said to Migalaṇḍika,"
@@ -168,7 +170,7 @@ msgctxt "pi-tv-bu-vb-pj3:8.7"
 msgid "Bahuṃ tayā, sappurisa, puññaṃ pasutaṃ, yaṃ tvaṃ atiṇṇe tāresī”ti."
 msgstr "Youʼve made much merit, because youʼve brought across those who hadnʼt yet crossed.”"
 
-#. </p><p><a class="sc" id="5"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.119\\\" href=\\\"#BD.1.119\\\">BD.1.119</a><a class=\\\"ms-pa\\\" id=\\\"MS.380\\\" href=\\\"#MS.380\\\">MS.380</a>
+#: </p><p><a class="sc" id="5"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.119\\\" href=\\\"#BD.1.119\\\">BD.1.119</a><a class=\\\"ms-pa\\\" id=\\\"MS.380\\\" href=\\\"#MS.380\\\">MS.380</a>
 msgctxt "pi-tv-bu-vb-pj3:9.1"
 msgid "Atha kho migalaṇḍiko samaṇakuttako—"
 msgstr "And Migalaṇḍika thought,"
@@ -193,12 +195,12 @@ msgctxt "pi-tv-bu-vb-pj3:9.6"
 msgid "Ye pana te bhikkhū vītarāgā tesaṃ tasmiṃ samaye na hoti bhayaṃ na hoti chambhitattaṃ na hoti lomahaṃso."
 msgstr "Only those who were free from desires were unaffected."
 
-#. </p><p><a class="sc" id="6"></a><a class=\\\"ms-pa\\\" id=\\\"MS.381\\\" href=\\\"#MS.381\\\">MS.381</a>
+#: </p><p><a class="sc" id="6"></a><a class=\\\"ms-pa\\\" id=\\\"MS.381\\\" href=\\\"#MS.381\\\">MS.381</a>
 msgctxt "pi-tv-bu-vb-pj3:10.1"
 msgid "Atha kho migalaṇḍiko samaṇakuttako ekampi bhikkhuṃ ekāhena jīvitā voropesi, dvepi bhikkhū ekāhena jīvitā voropesi, tayopi bhikkhū ekāhena jīvitā voropesi, cattāropi bhikkhū ekāhena jīvitā voropesi, pañcapi bhikkhū ekāhena jīvitā voropesi, dasapi bhikkhū ekāhena jīvitā voropesi, vīsampi bhikkhū ekāhena jīvitā voropesi, tiṃsampi bhikkhū ekāhena jīvitā voropesi, cattālīsampi bhikkhū ekāhena jīvitā voropesi, paññāsampi bhikkhū ekāhena jīvitā voropesi, saṭṭhimpi bhikkhū ekāhena jīvitā voropesi."
 msgstr "Then, on a single day, Migalaṇḍika killed one monk, two monks, three, four, five, ten, twenty, thirty, forty, fifty, even sixty monks."
 
-#. </p><p><a class="sc" id="7"></a><a class="pts-vp-pi" id="pts-vp-pi3.70"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.2\\\" href=\\\"#Bu-Pj.3.1.2\\\">Bu-Pj.3.1.2</a><a class=\\\"ms-pa\\\" id=\\\"MS.382\\\" href=\\\"#MS.382\\\">MS.382</a>
+#: </p><p><a class="sc" id="7"></a><a class="pts-vp-pi" id="pts-vp-pi3.70"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.2\\\" href=\\\"#Bu-Pj.3.1.2\\\">Bu-Pj.3.1.2</a><a class=\\\"ms-pa\\\" id=\\\"MS.382\\\" href=\\\"#MS.382\\\">MS.382</a>
 msgctxt "pi-tv-bu-vb-pj3:11.1"
 msgid "Atha kho bhagavā tassa addhamāsassa accayena paṭisallānā vuṭṭhito āyasmantaṃ ānandaṃ āmantesi—"
 msgstr "At the end of that half-month, the Master came out of seclusion and said to Venerable Ānanda,"
@@ -207,7 +209,8 @@ msgctxt "pi-tv-bu-vb-pj3:11.2"
 msgid "“kiṃ nu kho, ānanda, tanubhūto viya bhikkhusaṃgho”ti?"
 msgstr "“Ānanda, why is the Order of monks so diminished?”"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.120\\\" href=\\\"#BD.1.120\\\">BD.1.120</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.70\\\" href=\\\"#Vin.3.70\\\">Vin 3.70</a>
+#: </p><p>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.120\\\" href=\\\"#BD.1.120\\\">BD.1.120</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.70\\\" href=\\\"#Vin.3.70\\\">Vin 3.70</a>
 msgctxt "pi-tv-bu-vb-pj3:11.3"
 msgid "“Tathā hi pana, bhante, bhagavā bhikkhūnaṃ aneka­pariyā­yena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubha­bhāva­nāya vaṇṇaṃ bhāsati, ādissa ādissa asubha­samā­pattiyā vaṇṇaṃ bhāsati."
 msgstr "Ānanda told him what had happened and added,"
@@ -252,11 +255,12 @@ msgctxt "pi-tv-bu-vb-pj3:11.13"
 msgid "Sādhu, bhante, bhagavā aññaṃ pariyāyaṃ ācikkhatu yathāyaṃ bhikkhusaṃgho aññāya saṇṭhaheyyā”ti."
 msgstr "“Venerable Sir, please give another instruction so that the Order of monks may become established in final knowledge.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:11.14"
 msgid "“Tenahānanda, yāvatikā bhikkhū vesāliṃ upanissāya viharanti te sabbe upaṭṭhā­na­sālā­yaṃ sannipātehī”ti."
 msgstr "“Well then, Ānanda, bring together in the assembly-hall all the monks who live near Vesālī.”"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.121\\\" href=\\\"#BD.1.121\\\">BD.1.121</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.121\\\" href=\\\"#BD.1.121\\\">BD.1.121</a>
 msgctxt "pi-tv-bu-vb-pj3:11.15"
 msgid "“Evaṃ, bhante”ti,"
 msgstr "“Yes.”"
@@ -277,7 +281,7 @@ msgctxt "pi-tv-bu-vb-pj3:11.19"
 msgid "yassadāni, bhante, bhagavā kālaṃ maññatī”ti."
 msgstr "Please do as you think is appropriate.”"
 
-#. </p><p><a class="sc" id="8"></a><a class=\\\"ms-pa\\\" id=\\\"MS.383\\\" href=\\\"#MS.383\\\">MS.383</a>
+#: </p><p><a class="sc" id="8"></a><a class=\\\"ms-pa\\\" id=\\\"MS.383\\\" href=\\\"#MS.383\\\">MS.383</a>
 msgctxt "pi-tv-bu-vb-pj3:12.1"
 msgid "Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami;"
 msgstr "The Master then went to the assembly-hall,"
@@ -290,7 +294,7 @@ msgctxt "pi-tv-bu-vb-pj3:12.3"
 msgid "Nisajja kho bhagavā bhikkhū āmantesi—"
 msgstr "and addressed the monks:"
 
-#. </p><p><a class="sc" id="9"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.3\\\" href=\\\"#Bu-Pj.3.1.3\\\">Bu-Pj.3.1.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.384\\\" href=\\\"#MS.384\\\">MS.384</a>
+#: </p><p><a class="sc" id="9"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.3\\\" href=\\\"#Bu-Pj.3.1.3\\\">Bu-Pj.3.1.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.384\\\" href=\\\"#MS.384\\\">MS.384</a>
 msgctxt "pi-tv-bu-vb-pj3:13.1"
 msgid "“Ayampi kho, bhikkhave, ānā­pā­nassa­ti­samā­dhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca"
 msgstr "“Monks, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, a satisfying state of happiness."
@@ -299,7 +303,7 @@ msgctxt "pi-tv-bu-vb-pj3:13.2"
 msgid "pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti."
 msgstr "And it stops and settles bad, unwholesome qualities on the spot, whenever they arise."
 
-#. <span class=\\\"var\\\" title=\\\"ūhataṃ (bj, s1-3, pts1, mr)\\\" id=\\\"note102\\\">uhataṃ</span>
+#: <span class=\\\"var\\\" title=\\\"ūhataṃ (bj, s1-3, pts1, mr)\\\" id=\\\"note102\\\">uhataṃ</span>
 msgctxt "pi-tv-bu-vb-pj3:13.3"
 msgid "Seyyathāpi, bhikkhave, gimhānaṃ pacchime māse uhataṃ rajojallaṃ tamenaṃ mahāakālamegho ṭhānaso antaradhāpeti vūpasameti;"
 msgstr "Just as a great, unseasonal storm in the last month of the hot season stops and settles the dust and dirt in the air,"
@@ -308,15 +312,16 @@ msgctxt "pi-tv-bu-vb-pj3:13.4"
 msgid "evameva kho, bhikkhave, ānā­pā­nassa­ti­samā­dhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti."
 msgstr "just so, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, and it stops and settles bad, unwholesome qualities on the spot, whenever they arise."
 
-#. </p><p><a class="sc" id="10"></a><a class=\\\"ms-pa\\\" id=\\\"MS.385\\\" href=\\\"#MS.385\\\">MS.385</a>
+#: </p><p><a class="sc" id="10"></a><a class=\\\"ms-pa\\\" id=\\\"MS.385\\\" href=\\\"#MS.385\\\">MS.385</a>
 msgctxt "pi-tv-bu-vb-pj3:14.1"
 msgid "Kathaṃ bhāvito ca, bhikkhave, ānā­pā­nassa­ti­samā­dhi kathaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti?"
 msgstr "And how is stillness by mindfulness of breathing developed and cultivated in this way?"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.122\\\" href=\\\"#BD.1.122\\\">BD.1.122</a>
+#: </p><div class="sutta"><p>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.122\\\" href=\\\"#BD.1.122\\\">BD.1.122</a>
 msgctxt "pi-tv-bu-vb-pj3:14.2"
-msgid "<span class=\\\"sutta\\\">Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati"
-msgstr "<span class=\\\"sutta\\\">A monk sits down in the wilderness, at the foot of a tree, or in an empty hut.""
+msgid "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati"
+msgstr "A monk sits down in the wilderness, at the foot of a tree, or in an empty hut.""
 
 msgctxt "pi-tv-bu-vb-pj3:14.3"
 msgid "pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā."
@@ -327,10 +332,10 @@ msgid "So satova assasati"
 msgstr "Simply mindful, he breathes in;"
 
 msgctxt "pi-tv-bu-vb-pj3:14.5"
-msgid "sato passasati.</span>"
-msgstr "simply mindful, he breathes out.</span>"
+msgid "sato passasati."
+msgstr "simply mindful, he breathes out."
 
-#. </p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi3.71"></a><a class=\\\"ms-pa\\\" id=\\\"MS.386\\\" href=\\\"#MS.386\\\">MS.386</a>
+#: </p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi3.71"></a><a class=\\\"ms-pa\\\" id=\\\"MS.386\\\" href=\\\"#MS.386\\\">MS.386</a>
 msgctxt "pi-tv-bu-vb-pj3:15.1"
 msgid "Dīghaṃ vā assasanto dīghaṃ assasāmīti pajānāti,"
 msgstr "When he breathes in long, he knows it;"
@@ -347,12 +352,12 @@ msgctxt "pi-tv-bu-vb-pj3:15.4"
 msgid "rassaṃ vā passasanto rassaṃ passasāmīti pajānāti."
 msgstr "and when he breathes out short, he knows that."
 
-#. I have here translated <i lang=\\\"pi\\\">kāya</i> as breath in accordance with the usage in the Ānāpānasati Sutta <ref>MN 118.24</ref> where the breath is specifically said to be a body among bodies. This is also the commentarial explanation: “He trains, ‘I will breath in,’ producing knowledge of and familiarity with the beginning, the middle, and the end of the whole body of the breath.” (<i lang=\\\"pi\\\">Sakalassa assāsakāyassa ādimajjhapariyosānaṃ viditaṃ karonto pākaṭaṃ karonto “assasissāmī”ti sikkhati</i>; <ref>Sp.2.411.2</ref>.)
+#: I have here translated <i lang=\\\"pi\\\">kāya</i> as breath in accordance with the usage in the Ānāpānasati Sutta <ref>MN 118.24</ref> where the breath is specifically said to be a body among bodies. This is also the commentarial explanation: “He trains, ‘I will breath in,’ producing knowledge of and familiarity with the beginning, the middle, and the end of the whole body of the breath.” (<i lang=\\\"pi\\\">Sakalassa assāsakāyassa ādimajjhapariyosānaṃ viditaṃ karonto pākaṭaṃ karonto “assasissāmī”ti sikkhati</i>; <ref>Sp.2.411.2</ref>.)
 msgctxt "pi-tv-bu-vb-pj3:15.5"
 msgid "Sabba­kāyap­paṭi­saṃ­vedī assasissāmīti sikkhati."
 msgstr "When breathing in, he trains in having the full experience of the breath;"
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.71\\\" href=\\\"#Vin.3.71\\\">Vin 3.71</a>
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.71\\\" href=\\\"#Vin.3.71\\\">Vin 3.71</a>
 msgctxt "pi-tv-bu-vb-pj3:15.6"
 msgid "Sabba­kāyap­paṭi­saṃ­vedī passasissāmīti sikkhati."
 msgstr "when breathing out, he trains in having the full experience of the breath."
@@ -365,7 +370,7 @@ msgctxt "pi-tv-bu-vb-pj3:15.8"
 msgid "Passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati."
 msgstr "when breathing out, he trains in calming the activity of the body."
 
-#. </p><p><a class="sc" id="12"></a><a class=\\\"ms-pa\\\" id=\\\"MS.387\\\" href=\\\"#MS.387\\\">MS.387</a>
+#: </p><p><a class="sc" id="12"></a><a class=\\\"ms-pa\\\" id=\\\"MS.387\\\" href=\\\"#MS.387\\\">MS.387</a>
 msgctxt "pi-tv-bu-vb-pj3:16.1"
 msgid "Pītippa­ṭisaṃ­vedī assasissāmīti sikkhati."
 msgstr "When breathing in, he trains in experiencing joy;"
@@ -398,6 +403,7 @@ msgctxt "pi-tv-bu-vb-pj3:16.8"
 msgid "Passambhayaṃ cittasaṅkhāraṃ passasissāmīti sikkhati."
 msgstr "when breathing out, he trains in calming the activity of the mind."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:16.9"
 msgid "Cittap­paṭi­saṃ­vedī assasissāmīti sikkhati."
 msgstr "When breathing in, he trains in experiencing the mind;"
@@ -430,7 +436,7 @@ msgctxt "pi-tv-bu-vb-pj3:16.16"
 msgid "pe …"
 msgstr "when breathing out, he trains in freeing the mind."
 
-#. </p><p><a class="sc" id="13"></a><a class=\\\"ms-pa\\\" id=\\\"MS.388\\\" href=\\\"#MS.388\\\">MS.388</a>
+#: </p><p><a class="sc" id="13"></a><a class=\\\"ms-pa\\\" id=\\\"MS.388\\\" href=\\\"#MS.388\\\">MS.388</a>
 msgctxt "pi-tv-bu-vb-pj3:17.1"
 msgid "Aniccānupassī …"
 msgstr "When breathing in, he trains in contemplating impermanence;"
@@ -463,7 +469,7 @@ msgctxt "pi-tv-bu-vb-pj3:17.8"
 msgid "Paṭi­nissag­gā­nu­passī passasissāmīti sikkhati."
 msgstr "when breathing out, he trains in contemplating relinquishment."
 
-#. </p><p><a class="sc" id="14"></a><a class=\\\"ms-pa\\\" id=\\\"MS.389\\\" href=\\\"#MS.389\\\">MS.389</a>
+#: </p></div><p><a class="sc" id="14"></a><a class=\\\"ms-pa\\\" id=\\\"MS.389\\\" href=\\\"#MS.389\\\">MS.389</a>
 msgctxt "pi-tv-bu-vb-pj3:18.1"
 msgid "Evaṃ bhāvito kho, bhikkhave, ānā­pā­nassa­ti­samā­dhi evaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca"
 msgstr "Monks, when stillness by mindfulness of breathing is developed and cultivated in this way, it is peaceful and sublime, a satisfying state of happiness,"
@@ -472,12 +478,12 @@ msgctxt "pi-tv-bu-vb-pj3:18.2"
 msgid "pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī”ti."
 msgstr "and it stops and settles bad, unwholesome qualities on the spot, whenever they arise.”"
 
-#. </p><p><a class="sc" id="15"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.4\\\" href=\\\"#Bu-Pj.3.1.4\\\">Bu-Pj.3.1.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.390\\\" href=\\\"#MS.390\\\">MS.390</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.123\\\" href=\\\"#BD.1.123\\\">BD.1.123</a>
+#: </p><p><a class="sc" id="15"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.1.4\\\" href=\\\"#Bu-Pj.3.1.4\\\">Bu-Pj.3.1.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.390\\\" href=\\\"#MS.390\\\">MS.390</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.123\\\" href=\\\"#BD.1.123\\\">BD.1.123</a>
 msgctxt "pi-tv-bu-vb-pj3:19.1"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā bhikkhū paṭipucchi—"
 msgstr "The Master then had the Order of monks assembled and asked them:"
 
-#. <span class=\\\"var\\\" title=\\\"vadenti (bj, s1-3)\\\" id=\\\"note104\\\">vadanti</span>
+#: <span class=\\\"var\\\" title=\\\"vadenti (bj, s1-3)\\\" id=\\\"note104\\\">vadanti</span>
 msgctxt "pi-tv-bu-vb-pj3:19.2"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū attanāpi attānaṃ jīvitā voropenti, aññamaññampi jīvitā voropenti migalaṇḍikampi samaṇakuttakaṃ upasaṅkamitvā evaṃ vadanti—"
 msgstr "“Is it true, monks, that some monks have taken their own lives, have killed one another, and have said to Migalaṇḍika,"
@@ -486,10 +492,12 @@ msgctxt "pi-tv-bu-vb-pj3:19.3"
 msgid "‘sādhu no, āvuso, jīvitā voropehi, idaṃ te pattacīvaraṃ bhavissatī’”ti?"
 msgstr "‘Please kill us; this bowl and robe will be yours’?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:19.4"
 msgid "“Saccaṃ, bhagavā”ti."
 msgstr "“Itʼs true, Master.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:19.5"
 msgid "Vigarahi buddho bhagavā—"
 msgstr "The Buddha criticized them:"
@@ -514,27 +522,27 @@ msgctxt "pi-tv-bu-vb-pj3:19.10"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
-#. </p><h3>
+#: </p><h3>
 msgctxt "pi-tv-bu-vb-pj3:20.1"
 msgid ""
 msgstr "Preliminary ruling"
 
-#. </h3><p><a class="sc" id="16"></a><a class=\\\"ms-pa\\\" id=\\\"MS.391\\\" href=\\\"#MS.391\\\">MS.391</a>
+#: </h3><p><a class="sc" id="16"></a><a class=\\\"ms-pa\\\" id=\\\"MS.391\\\" href=\\\"#MS.391\\\">MS.391</a>
 msgctxt "pi-tv-bu-vb-pj3:20.2"
 msgid "<strong class=\\\"rule\\\">“Yo pana bhikkhu sañcicca manus­savig­gahaṃ jīvitā voropeyya satthahārakaṃ vāssa pariyeseyya, ayampi pārājiko hoti asaṃvāso”</strong>ti."
 msgstr "<strong class=\\\"rule\\\">‘If a monk intentionally kills a human being or seeks an instrument of death for him, he too is expelled and not in communion.ʼ”</strong>"
 
-#. </p><p><a class="sc" id="17"></a><a class=\\\"ms-pa\\\" id=\\\"MS.392\\\" href=\\\"#MS.392\\\">MS.392</a>
+#: </p><p class="endsection"><a class="sc" id="17"></a><a class=\\\"ms-pa\\\" id=\\\"MS.392\\\" href=\\\"#MS.392\\\">MS.392</a>
 msgctxt "pi-tv-bu-vb-pj3:21.1"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
-#. </p><h3>
+#: </p><h3>
 msgctxt "pi-tv-bu-vb-pj3:22.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="18"></a><a class="pts-vp-pi" id="pts-vp-pi3.72"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.2\\\" href=\\\"#Bu-Pj.3.2\\\">Bu-Pj.3.2</a><a class=\\\"ms-pa\\\" id=\\\"MS.393\\\" href=\\\"#MS.393\\\">MS.393</a>
+#: </h3><p><a class="sc" id="18"></a><a class="pts-vp-pi" id="pts-vp-pi3.72"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.2\\\" href=\\\"#Bu-Pj.3.2\\\">Bu-Pj.3.2</a><a class=\\\"ms-pa\\\" id=\\\"MS.393\\\" href=\\\"#MS.393\\\">MS.393</a>
 msgctxt "pi-tv-bu-vb-pj3:22.2"
 msgid "Tena kho pana samayena aññataro upāsako gilāno hoti."
 msgstr "At one time a lay follower was sick."
@@ -547,7 +555,7 @@ msgctxt "pi-tv-bu-vb-pj3:22.4"
 msgid "Chabbaggiyā bhikkhū tassā itthiyā paṭi­baddha­cittā honti."
 msgstr "and monks from the group of six had fallen in love with her."
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.72\\\" href=\\\"#Vin.3.72\\\">Vin 3.72</a>
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.72\\\" href=\\\"#Vin.3.72\\\">Vin 3.72</a>
 msgctxt "pi-tv-bu-vb-pj3:22.5"
 msgid "Atha kho chabbaggiyānaṃ bhikkhūnaṃ etadahosi—"
 msgstr "They said to each other,"
@@ -560,6 +568,7 @@ msgctxt "pi-tv-bu-vb-pj3:22.7"
 msgid "Handa mayaṃ, āvuso, tassa upāsakassa maraṇavaṇṇaṃ saṃvaṇṇemā”ti."
 msgstr "Come, letʼs praise death to him.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:22.8"
 msgid "Atha kho chabbaggiyā bhikkhū yena so upāsako tenu­pasaṅka­miṃsu;"
 msgstr "They then went to that lay follower"
@@ -572,7 +581,7 @@ msgctxt "pi-tv-bu-vb-pj3:22.10"
 msgid "“tvaṃ khosi, upāsaka, katakalyāṇo katakusalo"
 msgstr "“Youʼve done whatʼs good and wholesome;"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.124\\\" href=\\\"#BD.1.124\\\">BD.1.124</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.124\\\" href=\\\"#BD.1.124\\\">BD.1.124</a>
 msgctxt "pi-tv-bu-vb-pj3:22.11"
 msgid "katabhīruttāṇo"
 msgstr "youʼve made a shelter against fear."
@@ -601,7 +610,7 @@ msgctxt "pi-tv-bu-vb-pj3:22.17"
 msgid "Tattha dibbehi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāressasī”ti."
 msgstr "There youʼll be able to enjoy the five kinds of heavenly sense pleasure.”"
 
-#. </p><p><a class="sc" id="19"></a><a class=\\\"ms-pa\\\" id=\\\"MS.394\\\" href=\\\"#MS.394\\\">MS.394</a>
+#: </p><p><a class="sc" id="19"></a><a class=\\\"ms-pa\\\" id=\\\"MS.394\\\" href=\\\"#MS.394\\\">MS.394</a>
 msgctxt "pi-tv-bu-vb-pj3:23.1"
 msgid "Atha kho so upāsako—"
 msgstr "That lay follower thought,"
@@ -634,6 +643,7 @@ msgctxt "pi-tv-bu-vb-pj3:23.8"
 msgid "Tattha dibbehi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāressāmī”ti,"
 msgstr ""
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:23.9"
 msgid "so asappāyāni ceva bhojanāni bhuñji asappāyāni ca khādanīyāni khādi asappāyāni ca sāyanīyāni sāyi asappāyāni ca pānāni pivi."
 msgstr "From then on he ate various kinds of detrimental food and drank detrimental drinks,"
@@ -646,11 +656,12 @@ msgctxt "pi-tv-bu-vb-pj3:23.11"
 msgid "So teneva ābādhena kālamakāsi."
 msgstr "and died."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:23.12"
 msgid "Tassa pajāpati ujjhāyati khiyyati vipāceti—"
 msgstr "But his wife complained and criticized those monks:"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.125\\\" href=\\\"#BD.1.125\\\">BD.1.125</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.125\\\" href=\\\"#BD.1.125\\\">BD.1.125</a>
 msgctxt "pi-tv-bu-vb-pj3:23.13"
 msgid "“alajjino ime samaṇā sakyaputtiyā dussīlā musāvādino."
 msgstr "“These Sakyan ascetics are shameless and immoral liars."
@@ -675,6 +686,7 @@ msgctxt "pi-tv-bu-vb-pj3:23.18"
 msgid "Imehi me sāmiko mārito”ti."
 msgstr "and because of them my husband has died.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:23.19"
 msgid "Aññepi manussā ujjhāyanti khiyyanti vipācenti—"
 msgstr "And other people complained and criticized them in the same way."
@@ -699,7 +711,7 @@ msgctxt "pi-tv-bu-vb-pj3:23.24"
 msgid "Imehi upāsako mārito”ti."
 msgstr ""
 
-#. </p><p><a class="sc" id="20"></a><a class=\\\"ms-pa\\\" id=\\\"MS.395\\\" href=\\\"#MS.395\\\">MS.395</a>
+#: </p><p><a class="sc" id="20"></a><a class=\\\"ms-pa\\\" id=\\\"MS.395\\\" href=\\\"#MS.395\\\">MS.395</a>
 msgctxt "pi-tv-bu-vb-pj3:24.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
 msgstr "The monks heard the criticism of those people."
@@ -716,19 +728,22 @@ msgctxt "pi-tv-bu-vb-pj3:24.4"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū upāsakassa maraṇavaṇṇaṃ saṃvaṇṇissantī”ti."
 msgstr "“How could they praise death to that lay follower?”"
 
-#. </p><p><a class="sc" id="21"></a><a class="pts-vp-pi" id="pts-vp-pi3.73"></a><a class=\\\"ms-pa\\\" id=\\\"MS.396\\\" href=\\\"#MS.396\\\">MS.396</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.73\\\" href=\\\"#Vin.3.73\\\">Vin 3.73</a>
+#: </p><p><a class="sc" id="21"></a><a class="pts-vp-pi" id="pts-vp-pi3.73"></a><a class=\\\"ms-pa\\\" id=\\\"MS.396\\\" href=\\\"#MS.396\\\">MS.396</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.73\\\" href=\\\"#Vin.3.73\\\">Vin 3.73</a>
 msgctxt "pi-tv-bu-vb-pj3:25.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "After criticizing those monks in various ways, they informed the Master …"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:25.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, upāsakassa maraṇavaṇṇaṃ saṃvaṇṇethā”ti?"
 msgstr "“Is it true, monks, that you praised death to that lay follower?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:25.3"
 msgid "“Saccaṃ, bhagavā”ti."
 msgstr "“Itʼs true, Master.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:25.4"
 msgid "Vigarahi buddho bhagavā—"
 msgstr "The Buddha rebuked them:"
@@ -749,13 +764,13 @@ msgctxt "pi-tv-bu-vb-pj3:25.8"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
-#. </p><h2>
+#: </p><h2>
 msgctxt "pi-tv-bu-vb-pj3:26.1"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="22"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.126\\\" href=\\\"#BD.1.126\\\">BD.1.126</a>
-#. <i lang=\\\"pi\\\">Satthahāraka</i>. I here follow Richard Gombrich’s interpretation of this word. See, “The Mass Suicide of Monks in Discourse and Vinaya Literature,” by Analayo, Journal of the Oxford Centre for Buddhist Studies, 7: 11-55, 2014.
+#: </h2><p><a class="sc" id="22"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.126\\\" href=\\\"#BD.1.126\\\">BD.1.126</a>
+#: <i lang=\\\"pi\\\">Satthahāraka</i>. I here follow Richard Gombrich’s interpretation of this word. See, “The Mass Suicide of Monks in Discourse and Vinaya Literature,” by Analayo, Journal of the Oxford Centre for Buddhist Studies, 7: 11-55, 2014.
 msgctxt "pi-tv-bu-vb-pj3:26.2"
 msgid "<strong class=\\\"rule\\\">“Yo pana bhikkhu sañcicca manus­savig­gahaṃ jīvitā voropeyya satthahārakaṃ vāssa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā samādapeyya—"
 msgstr "<strong class=\\\"rule\\\">‘If a monk intentionally kills a human being or seeks an instrument of death for him or praises death or incites someone to die, saying,"
@@ -768,7 +783,7 @@ msgctxt "pi-tv-bu-vb-pj3:26.4"
 msgid "mataṃ te jīvitā seyyo’ti,"
 msgstr "Death is better for you than life!”—"
 
-#. <span class=\\\"var\\\" title=\\\"matante (bj, s1-3, pts1)\\\" id=\\\"note105\\\">mataṃ te</span>
+#: <span class=\\\"var\\\" title=\\\"matante (bj, s1-3, pts1)\\\" id=\\\"note105\\\">mataṃ te</span>
 msgctxt "pi-tv-bu-vb-pj3:26.5"
 msgid "mataṃ te jīvitā seyyo’ti, iti cittamano cittasaṅkappo aneka­pariyā­yena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya,"
 msgstr "thinking and intending thus, if he praises death in various ways or incites someone to die—"
@@ -781,12 +796,12 @@ msgctxt "pi-tv-bu-vb-pj3:26.7"
 msgid "(<em>3</em>:<strong>3</strong>)"
 msgstr ""
 
-#. </p><h2>
+#: </p><h2>
 msgctxt "pi-tv-bu-vb-pj3:27.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="23"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.3\\\" href=\\\"#Bu-Pj.3.3\\\">Bu-Pj.3.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.398\\\" href=\\\"#MS.398\\\">MS.398</a>
+#: </h2><p><a class="sc" id="23"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.3\\\" href=\\\"#Bu-Pj.3.3\\\">Bu-Pj.3.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.398\\\" href=\\\"#MS.398\\\">MS.398</a>
 msgctxt "pi-tv-bu-vb-pj3:27.2"
 msgid "<strong class=\\\"term\\\">Yo panā</strong>ti"
 msgstr "<strong class=\\\"term\\\">A</strong>:"
@@ -803,7 +818,7 @@ msgctxt "pi-tv-bu-vb-pj3:27.5"
 msgid "<span class=\\\"gloss\\\">… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti.</span>"
 msgstr "<span class=\\\"gloss\\\">… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case.</span>"
 
-#. </p><p><a class="sc" id="24"></a><a class=\\\"ms-pa\\\" id=\\\"MS.399\\\" href=\\\"#MS.399\\\">MS.399</a>
+#: </p><p><a class="sc" id="24"></a><a class=\\\"ms-pa\\\" id=\\\"MS.399\\\" href=\\\"#MS.399\\\">MS.399</a>
 msgctxt "pi-tv-bu-vb-pj3:28.1"
 msgid "<strong class=\\\"term\\\">Sañciccā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Intentionally</strong>:"
@@ -812,7 +827,7 @@ msgctxt "pi-tv-bu-vb-pj3:28.2"
 msgid "<span class=\\\"gloss\\\">jānanto sañjānanto cecca abhivitaritvā vītikkamo.</span>"
 msgstr "<span class=\\\"gloss\\\">knowing, perceiving, having intended, having decided, he transgresses.</span>"
 
-#. </p><p><a class="sc" id="25"></a><a class=\\\"ms-pa\\\" id=\\\"MS.400\\\" href=\\\"#MS.400\\\">MS.400</a>
+#: </p><p><a class="sc" id="25"></a><a class=\\\"ms-pa\\\" id=\\\"MS.400\\\" href=\\\"#MS.400\\\">MS.400</a>
 msgctxt "pi-tv-bu-vb-pj3:29.1"
 msgid "<strong class=\\\"term\\\">Manussaviggaho</strong> nāma"
 msgstr "<strong class=\\\"term\\\">A human being</strong>:"
@@ -825,7 +840,7 @@ msgctxt "pi-tv-bu-vb-pj3:29.3"
 msgid "eso manussaviggaho nāma.</span>"
 msgstr "this is called “a human being.”</span>"
 
-#. </p><p><a class="sc" id="26"></a><a class=\\\"ms-pa\\\" id=\\\"MS.401\\\" href=\\\"#MS.401\\\">MS.401</a>
+#: </p><p><a class="sc" id="26"></a><a class=\\\"ms-pa\\\" id=\\\"MS.401\\\" href=\\\"#MS.401\\\">MS.401</a>
 msgctxt "pi-tv-bu-vb-pj3:30.1"
 msgid "<strong class=\\\"term\\\">Jīvitā voropeyyā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Kills</strong>:"
@@ -834,9 +849,9 @@ msgctxt "pi-tv-bu-vb-pj3:30.2"
 msgid "<span class=\\\"gloss\\\">jīvitindriyaṃ upacchindati uparodheti santatiṃ vikopeti.</span>"
 msgstr "<span class=\\\"gloss\\\">Cuts off the life faculty, brings it to an end, interrupts its continuation.</span>"
 
-#. </p><p><a class="sc" id="27"></a><a class=\\\"ms-pa\\\" id=\\\"MS.402\\\" href=\\\"#MS.402\\\">MS.402</a>
-#. <span class=\\\"var\\\" title=\\\"bhendiṃ vā (mr)\\\" id=\\\"note106\\\">bheṇḍiṃ vā</span>
-#. <span class=\\\"var\\\" title=\\\"lagulaṃ (si) | sūlaṃ vā laguḷaṃ vā (s1-3)\\\" id=\\\"note107\\\">laguḷaṃ vā</span>
+#: </p><p><a class="sc" id="27"></a><a class=\\\"ms-pa\\\" id=\\\"MS.402\\\" href=\\\"#MS.402\\\">MS.402</a>
+#: <span class=\\\"var\\\" title=\\\"bhendiṃ vā (mr)\\\" id=\\\"note106\\\">bheṇḍiṃ vā</span>
+#: <span class=\\\"var\\\" title=\\\"lagulaṃ (si) | sūlaṃ vā laguḷaṃ vā (s1-3)\\\" id=\\\"note107\\\">laguḷaṃ vā</span>
 msgctxt "pi-tv-bu-vb-pj3:31.1"
 msgid "<strong class=\\\"term\\\">Satthahārakaṃ vāssa pariyeseyyā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Or seeks an instrument of death for him</strong>:"
@@ -845,7 +860,7 @@ msgctxt "pi-tv-bu-vb-pj3:31.2"
 msgid "<span class=\\\"gloss\\\">asiṃ vā sattiṃ vā bheṇḍiṃ vā laguḷaṃ vā pāsāṇaṃ vā satthaṃ vā visaṃ vā rajjuṃ vā.</span>"
 msgstr "<span class=\\\"gloss\\\">a sword, a dagger, an arrow, a club, a rock, a knife, poison, or a rope.</span>"
 
-#. </p><p><a class="sc" id="28"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.127\\\" href=\\\"#BD.1.127\\\">BD.1.127</a><a class=\\\"ms-pa\\\" id=\\\"MS.403\\\" href=\\\"#MS.403\\\">MS.403</a>
+#: </p><p><a class="sc" id="28"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.127\\\" href=\\\"#BD.1.127\\\">BD.1.127</a><a class=\\\"ms-pa\\\" id=\\\"MS.403\\\" href=\\\"#MS.403\\\">MS.403</a>
 msgctxt "pi-tv-bu-vb-pj3:32.1"
 msgid "<strong class=\\\"term\\\">Maraṇavaṇṇaṃ vā saṃvaṇṇeyyā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Or praises death</strong>:"
@@ -854,7 +869,7 @@ msgctxt "pi-tv-bu-vb-pj3:32.2"
 msgid "<span class=\\\"gloss\\\">jīvite ādīnavaṃ dasseti, maraṇe vaṇṇaṃ bhaṇati.</span>"
 msgstr "<span class=\\\"gloss\\\">he shows the disadvantage in living and speaks in praise of death.</span>"
 
-#. </p><p><a class="sc" id="29"></a><a class=\\\"ms-pa\\\" id=\\\"MS.404\\\" href=\\\"#MS.404\\\">MS.404</a>
+#: </p><p><a class="sc" id="29"></a><a class=\\\"ms-pa\\\" id=\\\"MS.404\\\" href=\\\"#MS.404\\\">MS.404</a>
 msgctxt "pi-tv-bu-vb-pj3:33.1"
 msgid "<strong class=\\\"term\\\">Maraṇāya vā samādapeyyā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Or incites someone to die</strong>:"
@@ -863,7 +878,7 @@ msgctxt "pi-tv-bu-vb-pj3:33.2"
 msgid "<span class=\\\"gloss\\\">satthaṃ vā āhara, visaṃ vā khāda, rajjuyā vā ubbandhitvā kālaṃ karohīti.</span>"
 msgstr "<span class=\\\"gloss\\\">he says, “Kill yourself with a knife/eat poison/die by hanging yourself with a rope.”</span>"
 
-#. </p><p><a class="sc" id="30"></a><a class=\\\"ms-pa\\\" id=\\\"MS.405\\\" href=\\\"#MS.405\\\">MS.405</a>
+#: </p><p><a class="sc" id="30"></a><a class=\\\"ms-pa\\\" id=\\\"MS.405\\\" href=\\\"#MS.405\\\">MS.405</a>
 msgctxt "pi-tv-bu-vb-pj3:34.1"
 msgid "<strong class=\\\"term\\\">Ambho purisā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Good man</strong>:"
@@ -872,7 +887,7 @@ msgctxt "pi-tv-bu-vb-pj3:34.2"
 msgid "<span class=\\\"gloss\\\">ālapa­nādhi­vacana­metaṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">this is a form of address.</span>"
 
-#. </p><p><a class="sc" id="31"></a><a class="pts-vp-pi" id="pts-vp-pi3.74"></a><a class=\\\"ms-pa\\\" id=\\\"MS.406\\\" href=\\\"#MS.406\\\">MS.406</a>
+#: </p><p><a class="sc" id="31"></a><a class="pts-vp-pi" id="pts-vp-pi3.74"></a><a class=\\\"ms-pa\\\" id=\\\"MS.406\\\" href=\\\"#MS.406\\\">MS.406</a>
 msgctxt "pi-tv-bu-vb-pj3:35.1"
 msgid "<strong class=\\\"term\\\">Kiṃ tuyhiminā pāpakena dujjīvitenā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Whatʼs the point of this wretched and difficult life</strong>: "
@@ -893,7 +908,7 @@ msgctxt "pi-tv-bu-vb-pj3:35.5"
 msgid "devānaṃ jīvitaṃ upādāya manussānaṃ jīvitaṃ pāpakaṃ.</span>"
 msgstr "the life of humans is wretched compared to the life of the gods.</span>"
 
-#. </p><p><a class="sc" id="32"></a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.74\\\" href=\\\"#Vin.3.74\\\">Vin 3.74</a> <a class=\\\"ms-pa\\\" id=\\\"MS.407\\\" href=\\\"#MS.407\\\">MS.407</a>
+#: </p><p><a class="sc" id="32"></a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.74\\\" href=\\\"#Vin.3.74\\\">Vin 3.74</a> <a class=\\\"ms-pa\\\" id=\\\"MS.407\\\" href=\\\"#MS.407\\\">MS.407</a>
 msgctxt "pi-tv-bu-vb-pj3:36.1"
 msgid "<strong class=\\\"term\\\">Dujjīvitaṃ</strong> nāma "
 msgstr "<strong class=\\\"term\\\">Difficult life</strong>:"
@@ -906,7 +921,7 @@ msgctxt "pi-tv-bu-vb-pj3:36.3"
 msgid "iminā ca pāpakena iminā ca dujjīvitena mataṃ te jīvitā seyyoti.</span>"
 msgstr "Because of this sort of wretchedness and because of this sort of difficult life, one says, “Death is better for you than life.”</span>"
 
-#. </p><p><a class="sc" id="33"></a><a class=\\\"ms-pa\\\" id=\\\"MS.408\\\" href=\\\"#MS.408\\\">MS.408</a>
+#: </p><p><a class="sc" id="33"></a><a class=\\\"ms-pa\\\" id=\\\"MS.408\\\" href=\\\"#MS.408\\\">MS.408</a>
 msgctxt "pi-tv-bu-vb-pj3:37.1"
 msgid "<strong class=\\\"term\\\">Iti cittamano</strong>ti"
 msgstr "<strong class=\\\"term\\\">Thinking</strong>:"
@@ -915,7 +930,7 @@ msgctxt "pi-tv-bu-vb-pj3:37.2"
 msgid "<span class=\\\"gloss\\\">yaṃ cittaṃ taṃ mano, yaṃ mano taṃ cittaṃ.</span>"
 msgstr "<span class=\\\"gloss\\\">mind and thought are equivalent.</span>"
 
-#. </p><p><a class="sc" id="34"></a><a class=\\\"ms-pa\\\" id=\\\"MS.409\\\" href=\\\"#MS.409\\\">MS.409</a>
+#: </p><p><a class="sc" id="34"></a><a class=\\\"ms-pa\\\" id=\\\"MS.409\\\" href=\\\"#MS.409\\\">MS.409</a>
 msgctxt "pi-tv-bu-vb-pj3:38.1"
 msgid "<strong class=\\\"term\\\">Cittasaṅkappo</strong>ti"
 msgstr "<strong class=\\\"term\\\">Intending</strong>:"
@@ -924,7 +939,7 @@ msgctxt "pi-tv-bu-vb-pj3:38.2"
 msgid "<span class=\\\"gloss\\\">maraṇasaññī maraṇacetano maraṇādhippāyo.</span>"
 msgstr "<span class=\\\"gloss\\\">perceiving death, intending death, aiming at death.</span>"
 
-#. </p><p><a class="sc" id="35"></a><a class=\\\"ms-pa\\\" id=\\\"MS.410\\\" href=\\\"#MS.410\\\">MS.410</a>
+#: </p><p><a class="sc" id="35"></a><a class=\\\"ms-pa\\\" id=\\\"MS.410\\\" href=\\\"#MS.410\\\">MS.410</a>
 msgctxt "pi-tv-bu-vb-pj3:39.1"
 msgid "<strong class=\\\"term\\\">Aneka­pariyā­yenā</strong>ti"
 msgstr "<strong class=\\\"term\\\">In various ways</strong>:"
@@ -933,7 +948,7 @@ msgctxt "pi-tv-bu-vb-pj3:39.2"
 msgid "<span class=\\\"gloss\\\">uccāvacehi ākārehi.</span>"
 msgstr "<span class=\\\"gloss\\\">in different manners.</span>"
 
-#. </p><p><a class="sc" id="36"></a><a class=\\\"ms-pa\\\" id=\\\"MS.411\\\" href=\\\"#MS.411\\\">MS.411</a>
+#: </p><p><a class="sc" id="36"></a><a class=\\\"ms-pa\\\" id=\\\"MS.411\\\" href=\\\"#MS.411\\\">MS.411</a>
 msgctxt "pi-tv-bu-vb-pj3:40.1"
 msgid "<strong class=\\\"term\\\">Maraṇavaṇṇaṃ vā saṃvaṇṇeyyā</strong>ti"
 msgstr "<strong class=\\\"term\\\">He praises death</strong>:"
@@ -950,7 +965,7 @@ msgctxt "pi-tv-bu-vb-pj3:40.4"
 msgid "tattha dibbehi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāressasī”ti.</span>"
 msgstr "There you’ll have access to and enjoy the five kinds of heavenly sense pleasures.”</span>"
 
-#. </p><p><a class="sc" id="37"></a><a class=\\\"ms-pa\\\" id=\\\"MS.412\\\" href=\\\"#MS.412\\\">MS.412</a>
+#: </p><p><a class="sc" id="37"></a><a class=\\\"ms-pa\\\" id=\\\"MS.412\\\" href=\\\"#MS.412\\\">MS.412</a>
 msgctxt "pi-tv-bu-vb-pj3:41.1"
 msgid "<strong class=\\\"term\\\">Maraṇāya vā samādapeyyā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Or incites someone to die</strong>:"
@@ -959,7 +974,7 @@ msgctxt "pi-tv-bu-vb-pj3:41.2"
 msgid "<span class=\\\"gloss\\\">satthaṃ vā āhara, visaṃ vā khāda, rajjuyā vā ubbandhitvā kālaṃ karohi, sobbhe vā narake vā papāte vā papatāti.</span>"
 msgstr "<span class=\\\"gloss\\\">he says, “Kill yourself with a knife/eat poison/die by hanging yourself with a rope/jump into a chasm/jump into a pit/jump off a cliff.”</span>"
 
-#. </p><p><a class="sc" id="38"></a><a class=\\\"ms-pa\\\" id=\\\"MS.413\\\" href=\\\"#MS.413\\\">MS.413</a>
+#: </p><p><a class="sc" id="38"></a><a class=\\\"ms-pa\\\" id=\\\"MS.413\\\" href=\\\"#MS.413\\\">MS.413</a>
 msgctxt "pi-tv-bu-vb-pj3:42.1"
 msgid "<strong class=\\\"term\\\">Ayampī</strong>ti"
 msgstr "<strong class=\\\"term\\\">He too</strong>:"
@@ -968,13 +983,13 @@ msgctxt "pi-tv-bu-vb-pj3:42.2"
 msgid "<span class=\\\"gloss\\\">purime upādāya vuccati.</span>"
 msgstr "<span class=\\\"gloss\\\">this is said with reference to the preceding offenses entailing expulsion.</span>"
 
-#. </p><p><a class="sc" id="39"></a><a class=\\\"ms-pa\\\" id=\\\"MS.414\\\" href=\\\"#MS.414\\\">MS.414</a>
+#: </p><p><a class="sc" id="39"></a><a class=\\\"ms-pa\\\" id=\\\"MS.414\\\" href=\\\"#MS.414\\\">MS.414</a>
 msgctxt "pi-tv-bu-vb-pj3:43.1"
 msgid "<strong class=\\\"term\\\">Pārājiko hotī</strong>ti"
 msgstr "<strong class=\\\"term\\\">Is expelled</strong>:"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.128\\\" href=\\\"#BD.1.128\\\">BD.1.128</a>
-#. <span class=\\\"var\\\" title=\\\"dvedhā bhinnā (bj, s1-3, pts1)\\\" id=\\\"note108\\\">dvidhā bhinnā</span>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.128\\\" href=\\\"#BD.1.128\\\">BD.1.128</a>
+#: <span class=\\\"var\\\" title=\\\"dvedhā bhinnā (bj, s1-3, pts1)\\\" id=\\\"note108\\\">dvidhā bhinnā</span>
 msgctxt "pi-tv-bu-vb-pj3:43.2"
 msgid "<span class=\\\"gloss\\\">seyyathāpi nāma puthusilā dvidhā bhinnā appaṭisandhikā hoti,"
 msgstr "<span class=\\\"gloss\\\">just as an ordinary stone that has been broken in half cannot be put back together again,"
@@ -991,7 +1006,7 @@ msgctxt "pi-tv-bu-vb-pj3:43.5"
 msgid "“pārājiko hotī”ti.</span>"
 msgstr "“he is expelled.”</span>"
 
-#. </p><p><a class="sc" id="40"></a><a class=\\\"ms-pa\\\" id=\\\"MS.415\\\" href=\\\"#MS.415\\\">MS.415</a>
+#: </p><p><a class="sc" id="40"></a><a class=\\\"ms-pa\\\" id=\\\"MS.415\\\" href=\\\"#MS.415\\\">MS.415</a>
 msgctxt "pi-tv-bu-vb-pj3:44.1"
 msgid "<strong class=\\\"term\\\">Asaṃvāso</strong>ti"
 msgstr "<strong class=\\\"term\\\">Not in communion</strong>:"
@@ -1016,21 +1031,22 @@ msgctxt "pi-tv-bu-vb-pj3:44.6"
 msgid "tena vuccati asaṃvāsoti.</span>"
 msgstr "therefore it is called “not in communion.”</span>"
 
-#. </p><h2>
+#: </p><h2>
 msgctxt "pi-tv-bu-vb-pj3:45.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><h4>
+#: </h2><h4>
 msgctxt "pi-tv-bu-vb-pj3:45.2"
 msgid ""
 msgstr "Summary"
 
-#. </h4><p><a class="sc" id="41"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3.4\\\">Bu-Pj.3.4</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.1\\\" href=\\\"#Bu-Pj.3.4.1\\\">Bu-Pj.3.4.1</a><a class=\\\"ms-pa\\\" id=\\\"MS.416\\\" href=\\\"#MS.416\\\">MS.416</a>
+#: </h4><p><a class="sc" id="41"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3.4\\\">Bu-Pj.3.4</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.1\\\" href=\\\"#Bu-Pj.3.4.1\\\">Bu-Pj.3.4.1</a><a class=\\\"ms-pa\\\" id=\\\"MS.416\\\" href=\\\"#MS.416\\\">MS.416</a>
 msgctxt "pi-tv-bu-vb-pj3:45.3"
 msgid "Sāmaṃ, adhiṭṭhāya, dūtena, dūta­param­parāya, visakkiyena dūtena, gatapaccā­gatena dūtena,"
 msgstr "Oneself, having resolved, by messenger, by a series of messengers, by a messenger who does not follow instructions, by a messenger gone and returned again."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:45.4"
 msgid "araho rahosaññī,"
 msgstr "Not in private, but perceiving it as private;"
@@ -1047,6 +1063,7 @@ msgctxt "pi-tv-bu-vb-pj3:45.7"
 msgid "raho rahosaññī"
 msgstr "in private, and perceiving it as private."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:45.8"
 msgid "kāyena saṃvaṇṇeti,"
 msgstr "He praises by means of the body;"
@@ -1067,16 +1084,17 @@ msgctxt "pi-tv-bu-vb-pj3:45.12"
 msgid "lekhāya saṃvaṇṇeti,"
 msgstr "he praises by means of writing."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:45.13"
 msgid "opātaṃ apassenaṃ, upanikkhipanaṃ, bhesajjaṃ, rūpūpahāro, saddūpahāro, gandhūpahāro, rasūpahāro, ­phoṭṭhab­bū­pahāro, dhammūpahāro, ācikkhanā, anusāsanī, saṅketakammaṃ, nimitta­kammanti."
 msgstr "A pit, a piece of furniture, placing near, medicine, arranging a sight, arranging a sound, arranging a smell, arranging a taste, arranging a touch, arranging a mental state, information, instruction, an arranged action, making a sign."
 
-#. </p><h4>
+#: </p><h4>
 msgctxt "pi-tv-bu-vb-pj3:46.1"
 msgid ""
 msgstr "Exposition"
 
-#. </h4><p><a class="sc" id="42"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.2\\\" href=\\\"#Bu-Pj.3.4.2\\\">Bu-Pj.3.4.2</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.129\\\" href=\\\"#BD.1.129\\\">BD.1.129</a><a class=\\\"ms-pa\\\" id=\\\"MS.417\\\" href=\\\"#MS.417\\\">MS.417</a>
+#: </h4><p><a class="sc" id="42"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.2\\\" href=\\\"#Bu-Pj.3.4.2\\\">Bu-Pj.3.4.2</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.129\\\" href=\\\"#BD.1.129\\\">BD.1.129</a><a class=\\\"ms-pa\\\" id=\\\"MS.417\\\" href=\\\"#MS.417\\\">MS.417</a>
 msgctxt "pi-tv-bu-vb-pj3:46.2"
 msgid "<strong class=\\\"term\\\">Sāman</strong>ti"
 msgstr "<strong class=\\\"term\\\">Oneself</strong>:"
@@ -1085,7 +1103,7 @@ msgctxt "pi-tv-bu-vb-pj3:46.3"
 msgid "<span class=\\\"gloss\\\">sayaṃ hanati kāyena vā kāyapaṭi­bad­dhena vā nissaggiyena vā.</span>"
 msgstr "<span class=\\\"gloss\\\">one oneself kills by means of the body or by means of something attached to the body or by means of something released.</span>"
 
-#. </p><p><a class="sc" id="43"></a><a class=\\\"ms-pa\\\" id=\\\"MS.418\\\" href=\\\"#MS.418\\\">MS.418</a>
+#: </p><p><a class="sc" id="43"></a><a class=\\\"ms-pa\\\" id=\\\"MS.418\\\" href=\\\"#MS.418\\\">MS.418</a>
 msgctxt "pi-tv-bu-vb-pj3:47.1"
 msgid "<strong class=\\\"term\\\">Adhiṭṭhāyā</strong>ti"
 msgstr "<strong class=\\\"term\\\">Having resolved</strong>:"
@@ -1098,28 +1116,34 @@ msgctxt "pi-tv-bu-vb-pj3:47.3"
 msgid "“evaṃ vijjha, evaṃ pahara, evaṃ ghātehī”ti.</span>"
 msgstr "“Hit thus, strike thus, kill thus.”</span>"
 
-#. </p><p><a class="sc" id="44"></a><a class="pts-vp-pi" id="pts-vp-pi3.75"></a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.75\\\" href=\\\"#Vin.3.75\\\">Vin 3.75</a> <a class=\\\"ms-pa\\\" id=\\\"MS.419\\\" href=\\\"#MS.419\\\">MS.419</a>
+#: </p><p><a class="sc" id="44"></a><a class="pts-vp-pi" id="pts-vp-pi3.75"></a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.75\\\" href=\\\"#Vin.3.75\\\">Vin 3.75</a> <a class=\\\"ms-pa\\\" id=\\\"MS.419\\\" href=\\\"#MS.419\\\">MS.419</a><strong class="term">
 msgctxt "pi-tv-bu-vb-pj3:48.1"
+msgid ""
+msgstr "By messenger:"
+
+#: </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pj3:48.2"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
 
-msgctxt "pi-tv-bu-vb-pj3:48.2"
+msgctxt "pi-tv-bu-vb-pj3:48.3"
 msgid "“itthannāmaṃ jīvitā voropehī”ti,"
 msgstr "“Kill so-and-so,”"
 
-msgctxt "pi-tv-bu-vb-pj3:48.3"
+#: </span>
+msgctxt "pi-tv-bu-vb-pj3:48.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj3:48.4"
+msgctxt "pi-tv-bu-vb-pj3:48.5"
 msgid "So taṃ maññamāno taṃ jīvitā voropeti,"
 msgstr "If the second monk kills that person, thinking he is the one he was told to kill,"
 
-msgctxt "pi-tv-bu-vb-pj3:48.5"
+msgctxt "pi-tv-bu-vb-pj3:48.6"
 msgid "āpatti ubhinnaṃ pārājikassa."
 msgstr "there is an offense entailing expulsion for both."
 
-#. </p><p><a class="sc" id="45"></a><a class=\\\"ms-pa\\\" id=\\\"MS.420\\\" href=\\\"#MS.420\\\">MS.420</a>
+#: </p><p><a class="sc" id="45"></a><a class=\\\"ms-pa\\\" id=\\\"MS.420\\\" href=\\\"#MS.420\\\">MS.420</a>
 msgctxt "pi-tv-bu-vb-pj3:49.1"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
@@ -1144,7 +1168,7 @@ msgctxt "pi-tv-bu-vb-pj3:49.6"
 msgid "Vadhakassa āpatti pārājikassa."
 msgstr "but there is an offense entailing expulsion for the murderer."
 
-#. </p><p><a class="sc" id="46"></a><a class=\\\"ms-pa\\\" id=\\\"MS.421\\\" href=\\\"#MS.421\\\">MS.421</a>
+#: </p><p><a class="sc" id="46"></a><a class=\\\"ms-pa\\\" id=\\\"MS.421\\\" href=\\\"#MS.421\\\">MS.421</a>
 msgctxt "pi-tv-bu-vb-pj3:50.1"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
@@ -1165,7 +1189,7 @@ msgctxt "pi-tv-bu-vb-pj3:50.5"
 msgid "āpatti ubhinnaṃ pārājikassa."
 msgstr "there is an offense entailing expulsion for both."
 
-#. </p><p><a class="sc" id="47"></a><a class=\\\"ms-pa\\\" id=\\\"MS.422\\\" href=\\\"#MS.422\\\">MS.422</a>
+#: </p><p><a class="sc" id="47"></a><a class=\\\"ms-pa\\\" id=\\\"MS.422\\\" href=\\\"#MS.422\\\">MS.422</a>
 msgctxt "pi-tv-bu-vb-pj3:51.1"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
@@ -1190,127 +1214,145 @@ msgctxt "pi-tv-bu-vb-pj3:51.6"
 msgid "vadhakassa āpatti pārājikassa."
 msgstr "but there is an offense entailing expulsion for the murderer."
 
-#. </p><p><a class="sc" id="48"></a><a class=\\\"ms-pa\\\" id=\\\"MS.423\\\" href=\\\"#MS.423\\\">MS.423</a>
+#: </p><p><a class="sc" id="48"></a><a class=\\\"ms-pa\\\" id=\\\"MS.423\\\" href=\\\"#MS.423\\\">MS.423</a><strong class="term">
 msgctxt "pi-tv-bu-vb-pj3:52.1"
+msgid ""
+msgstr "By a series of messengers:"
+
+#: </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pj3:52.2"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
 
-msgctxt "pi-tv-bu-vb-pj3:52.2"
+msgctxt "pi-tv-bu-vb-pj3:52.3"
 msgid "“itthannāmassa pāvada—‘itthannāmo itthannāmassa pāvadatu—itthannāmo itthannāmaṃ jīvitā voropetū’”ti,"
 msgstr "“Tell so-and-so to tell so-and-so to kill so-and-so,”"
 
-msgctxt "pi-tv-bu-vb-pj3:52.3"
+#: </span>
+msgctxt "pi-tv-bu-vb-pj3:52.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj3:52.4"
+msgctxt "pi-tv-bu-vb-pj3:52.5"
 msgid "So itarassa āroceti,"
 msgstr "In informing the next person,"
 
-msgctxt "pi-tv-bu-vb-pj3:52.5"
+msgctxt "pi-tv-bu-vb-pj3:52.6"
 msgid "āpatti dukkaṭassa."
 msgstr "there is an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj3:52.6"
+msgctxt "pi-tv-bu-vb-pj3:52.7"
 msgid "Vadhako paṭiggaṇhāti,"
 msgstr "If the murderer-to-be agrees,"
 
-msgctxt "pi-tv-bu-vb-pj3:52.7"
+msgctxt "pi-tv-bu-vb-pj3:52.8"
 msgid "mūlaṭṭhassa āpatti thullaccayassa."
 msgstr "there is a serious offense for the instigator."
 
-msgctxt "pi-tv-bu-vb-pj3:52.8"
+msgctxt "pi-tv-bu-vb-pj3:52.9"
 msgid "So taṃ jīvitā voropeti,"
 msgstr "If he kills that person,"
 
-msgctxt "pi-tv-bu-vb-pj3:52.9"
+msgctxt "pi-tv-bu-vb-pj3:52.10"
 msgid "āpatti sabbesaṃ pārājikassa."
 msgstr "there is an offense entailing expulsion for all of them."
 
-#. </p><p><a class="sc" id="49"></a><a class=\\\"ms-pa\\\" id=\\\"MS.424\\\" href=\\\"#MS.424\\\">MS.424</a>
+#: </p><p><a class="sc" id="49"></a><a class=\\\"ms-pa\\\" id=\\\"MS.424\\\" href=\\\"#MS.424\\\">MS.424</a><strong class="term">
 msgctxt "pi-tv-bu-vb-pj3:53.1"
+msgid ""
+msgstr "By a messenger who does not follow instructions:"
+
+#: </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pj3:53.2"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
 
-msgctxt "pi-tv-bu-vb-pj3:53.2"
+msgctxt "pi-tv-bu-vb-pj3:53.3"
 msgid "“itthannāmassa pāvada—‘itthannāmo itthannāmassa pāvadatu—itthannāmo itthannāmaṃ jīvitā voropetū’”ti,"
 msgstr "“Tell so-and-so to tell so-and-so to kill so-and-so,”"
 
-msgctxt "pi-tv-bu-vb-pj3:53.3"
+#: </span>
+msgctxt "pi-tv-bu-vb-pj3:53.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj3:53.4"
+msgctxt "pi-tv-bu-vb-pj3:53.5"
 msgid "So aññaṃ āṇāpeti,"
 msgstr "If the second monk tells someone else than the one he was told to tell,"
 
-msgctxt "pi-tv-bu-vb-pj3:53.5"
+msgctxt "pi-tv-bu-vb-pj3:53.6"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj3:53.6"
+msgctxt "pi-tv-bu-vb-pj3:53.7"
 msgid "Vadhako paṭiggaṇhāti,"
 msgstr "If the murderer-to-be agrees,"
 
-msgctxt "pi-tv-bu-vb-pj3:53.7"
+msgctxt "pi-tv-bu-vb-pj3:53.8"
 msgid "āpatti dukkaṭassa."
 msgstr "there is an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj3:53.8"
+msgctxt "pi-tv-bu-vb-pj3:53.9"
 msgid "So taṃ jīvitā voropeti,"
 msgstr "If he kills that person,"
 
-msgctxt "pi-tv-bu-vb-pj3:53.9"
+msgctxt "pi-tv-bu-vb-pj3:53.10"
 msgid "mūlaṭṭhassa anāpatti;"
 msgstr "there is no offense for the instigator,"
 
-msgctxt "pi-tv-bu-vb-pj3:53.10"
+msgctxt "pi-tv-bu-vb-pj3:53.11"
 msgid "āṇāpakassa ca vadhakassa ca āpatti pārājikassa."
 msgstr "but there is an offense entailing expulsion for the messenger and for the murderer."
 
-#. </p><p><a class="sc" id="50"></a><a class=\\\"ms-pa\\\" id=\\\"MS.425\\\" href=\\\"#MS.425\\\">MS.425</a>
+#: </p><p><a class="sc" id="50"></a><a class=\\\"ms-pa\\\" id=\\\"MS.425\\\" href=\\\"#MS.425\\\">MS.425</a><strong class="term">
 msgctxt "pi-tv-bu-vb-pj3:54.1"
+msgid ""
+msgstr "By a messenger gone and returned again:"
+
+#: </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pj3:54.2"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
 
-msgctxt "pi-tv-bu-vb-pj3:54.2"
+msgctxt "pi-tv-bu-vb-pj3:54.3"
 msgid "“itthannāmaṃ jīvitā voropehī”ti,"
 msgstr "“Kill so-and-so,”"
 
-msgctxt "pi-tv-bu-vb-pj3:54.3"
+#: </span>
+msgctxt "pi-tv-bu-vb-pj3:54.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.130\\\" href=\\\"#BD.1.130\\\">BD.1.130</a>
-msgctxt "pi-tv-bu-vb-pj3:54.4"
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.130\\\" href=\\\"#BD.1.130\\\">BD.1.130</a>
+msgctxt "pi-tv-bu-vb-pj3:54.5"
 msgid "So gantvā puna paccāgacchati—"
 msgstr "He goes, but returns,"
 
-msgctxt "pi-tv-bu-vb-pj3:54.5"
+msgctxt "pi-tv-bu-vb-pj3:54.6"
 msgid "“nāhaṃ sakkomi taṃ jīvitā voropetun”ti."
 msgstr "saying, “I wasnʼt able to kill them.”"
 
-msgctxt "pi-tv-bu-vb-pj3:54.6"
+msgctxt "pi-tv-bu-vb-pj3:54.7"
 msgid "So puna āṇāpeti—"
 msgstr "If the first monk tells him again,"
 
-msgctxt "pi-tv-bu-vb-pj3:54.7"
+msgctxt "pi-tv-bu-vb-pj3:54.8"
 msgid "“yadā sakkosi tadā taṃ jīvitā voropehī”ti,"
 msgstr "“When youʼre able, then kill them,”"
 
-msgctxt "pi-tv-bu-vb-pj3:54.8"
+msgctxt "pi-tv-bu-vb-pj3:54.9"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj3:54.9"
+msgctxt "pi-tv-bu-vb-pj3:54.10"
 msgid "So taṃ jīvitā voropeti,"
 msgstr "If the second monk kills that person,"
 
-msgctxt "pi-tv-bu-vb-pj3:54.10"
+msgctxt "pi-tv-bu-vb-pj3:54.11"
 msgid "āpatti ubhinnaṃ pārājikassa."
 msgstr "there is an offense entailing expulsion for both."
 
-#. </p><p><a class="sc" id="51"></a><a class=\\\"ms-pa\\\" id=\\\"MS.426\\\" href=\\\"#MS.426\\\">MS.426</a>
+#: </p><p><a class="sc" id="51"></a><a class=\\\"ms-pa\\\" id=\\\"MS.426\\\" href=\\\"#MS.426\\\">MS.426</a>
 msgctxt "pi-tv-bu-vb-pj3:55.1"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
@@ -1323,7 +1365,7 @@ msgctxt "pi-tv-bu-vb-pj3:55.3"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.130\\\" href=\\\"#BD.1.130\\\">BD.1.130</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.130\\\" href=\\\"#BD.1.130\\\">BD.1.130</a>
 msgctxt "pi-tv-bu-vb-pj3:55.4"
 msgid "So āṇāpetvā vippaṭisārī na sāveti—"
 msgstr "He then becomes remorseful, but does not say,"
@@ -1340,7 +1382,7 @@ msgctxt "pi-tv-bu-vb-pj3:55.7"
 msgid "āpatti ubhinnaṃ pārājikassa."
 msgstr "there is an offense entailing expulsion for both."
 
-#. </p><p><a class="sc" id="52"></a><a class=\\\"ms-pa\\\" id=\\\"MS.427\\\" href=\\\"#MS.427\\\">MS.427</a>
+#: </p><p><a class="sc" id="52"></a><a class=\\\"ms-pa\\\" id=\\\"MS.427\\\" href=\\\"#MS.427\\\">MS.427</a>
 msgctxt "pi-tv-bu-vb-pj3:56.1"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
@@ -1377,7 +1419,7 @@ msgctxt "pi-tv-bu-vb-pj3:56.9"
 msgid "Vadhakassa āpatti pārājikassa."
 msgstr "but there is an offense entailing expulsion for the murderer."
 
-#. </p><p><a class="sc" id="53"></a><a class=\\\"ms-pa\\\" id=\\\"MS.428\\\" href=\\\"#MS.428\\\">MS.428</a>
+#: </p><p><a class="sc" id="53"></a><a class=\\\"ms-pa\\\" id=\\\"MS.428\\\" href=\\\"#MS.428\\\">MS.428</a>
 msgctxt "pi-tv-bu-vb-pj3:57.1"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
@@ -1406,23 +1448,26 @@ msgctxt "pi-tv-bu-vb-pj3:57.7"
 msgid "ubhinnaṃ anāpatti."
 msgstr "there is no offense for either."
 
-#. </p><p><a class="sc" id="54"></a><a class="pts-vp-pi" id="pts-vp-pi3.76"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.3\\\" href=\\\"#Bu-Pj.3.4.3\\\">Bu-Pj.3.4.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.429\\\" href=\\\"#MS.429\\\">MS.429</a>
+#: </p><hr><p><a class="sc" id="54"></a><a class="pts-vp-pi" id="pts-vp-pi3.76"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.3\\\" href=\\\"#Bu-Pj.3.4.3\\\">Bu-Pj.3.4.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.429\\\" href=\\\"#MS.429\\\">MS.429</a><strong class="term">
 msgctxt "pi-tv-bu-vb-pj3:58.1"
 msgid "Araho rahosaññī"
-msgstr "<strong class=\\\"term\\\">Not in private, but perceiving it as private</strong>:"
+msgstr "Not in private, but perceiving it as private:"
 
+#: </strong><span class="gloss">
 msgctxt "pi-tv-bu-vb-pj3:58.2"
-msgid "<span class=\\\"gloss\\\">ullapati—"
-msgstr "<span class=\\\"gloss\\\">if he says aloud,"
+msgid "ullapati—"
+msgstr "if he says aloud,"
 
 msgctxt "pi-tv-bu-vb-pj3:58.3"
 msgid "“aho itthannāmo hato assā”ti,"
 msgstr "“I wish so-and-so were killed,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:58.4"
-msgid "āpatti dukkaṭassa.</span>"
-msgstr "he commits an offense of wrong conduct</span>."
+msgid "āpatti dukkaṭassa."
+msgstr "he commits an offense of wrong conduct."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:58.5"
 msgid "<strong class=\\\"term\\\">Raho arahosaññī</strong>"
 msgstr "<strong class=\\\"term\\\">In private, but perceiving it as not private</strong>:"
@@ -1435,10 +1480,12 @@ msgctxt "pi-tv-bu-vb-pj3:58.7"
 msgid "“aho itthannāmo hato assā”ti,"
 msgstr "“I wish so-and-so were killed,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:58.8"
-msgid "āpatti dukkaṭassa.</span>"
-msgstr "he commits an offense of wrong conduct</span>."
+msgid "āpatti dukkaṭassa."
+msgstr "he commits an offense of wrong conduct."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:58.9"
 msgid "<strong class=\\\"term\\\">Araho arahosaññī</strong>"
 msgstr "<strong class=\\\"term\\\">Not in private, and perceiving it as not private</strong>:"
@@ -1447,15 +1494,17 @@ msgctxt "pi-tv-bu-vb-pj3:58.10"
 msgid "<span class=\\\"gloss\\\">ullapati—"
 msgstr "<span class=\\\"gloss\\\">if he says aloud,"
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.76\\\" href=\\\"#Vin.3.76\\\">Vin 3.76</a>
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.76\\\" href=\\\"#Vin.3.76\\\">Vin 3.76</a>
 msgctxt "pi-tv-bu-vb-pj3:58.11"
 msgid "“aho itthannāmo hato assā”ti,"
 msgstr "“I wish so-and-so were killed,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:58.12"
-msgid "āpatti dukkaṭassa.</span>"
-msgstr "he commits an offense of wrong conduct</span>."
+msgid "āpatti dukkaṭassa."
+msgstr "he commits an offense of wrong conduct."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:58.13"
 msgid "<strong class=\\\"term\\\">Raho rahosaññī</strong>"
 msgstr "<strong class=\\\"term\\\">In private, and perceiving it as private</strong>:"
@@ -1468,11 +1517,12 @@ msgctxt "pi-tv-bu-vb-pj3:58.15"
 msgid "“aho itthannāmo hato assā”ti,"
 msgstr "“I wish so-and-so were killed,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:58.16"
-msgid "āpatti dukkaṭassa.</span>"
-msgstr "he commits an offense of wrong conduct</span>."
+msgid "āpatti dukkaṭassa."
+msgstr "he commits an offense of wrong conduct."
 
-#. </p><p><a class="sc" id="55"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.4\\\" href=\\\"#Bu-Pj.3.4.4\\\">Bu-Pj.3.4.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.430\\\" href=\\\"#MS.430\\\">MS.430</a>
+#: </p><hr><p><a class="sc" id="55"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.4\\\" href=\\\"#Bu-Pj.3.4.4\\\">Bu-Pj.3.4.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.430\\\" href=\\\"#MS.430\\\">MS.430</a>
 msgctxt "pi-tv-bu-vb-pj3:59.1"
 msgid "<strong class=\\\"term\\\">Kāyena saṃvaṇṇeti</strong> nāma"
 msgstr "<strong class=\\\"term\\\">He praises by means of the body</strong>:"
@@ -1485,6 +1535,7 @@ msgctxt "pi-tv-bu-vb-pj3:59.3"
 msgid "“yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
 msgstr "“Whoever dies thus, receives wealth/becomes famous/goes to heaven,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:59.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1506,10 +1557,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:59.9"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="56"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.131\\\" href=\\\"#BD.1.131\\\">BD.1.131</a><a class=\\\"ms-pa\\\" id=\\\"MS.431\\\" href=\\\"#MS.431\\\">MS.431</a>
+#: </p><p><a class="sc" id="56"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.131\\\" href=\\\"#BD.1.131\\\">BD.1.131</a><a class=\\\"ms-pa\\\" id=\\\"MS.431\\\" href=\\\"#MS.431\\\">MS.431</a>
 msgctxt "pi-tv-bu-vb-pj3:60.1"
 msgid "<strong class=\\\"term\\\">Vācāya saṃvaṇṇeti</strong> nāma"
 msgstr "<strong class=\\\"term\\\">He praises by means of speech</strong>:"
@@ -1522,6 +1573,7 @@ msgctxt "pi-tv-bu-vb-pj3:60.3"
 msgid "“yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
 msgstr "“Whoever dies thus, receives wealth/becomes famous/goes to heaven,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:60.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1543,10 +1595,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:60.9"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="57"></a><a class=\\\"ms-pa\\\" id=\\\"MS.432\\\" href=\\\"#MS.432\\\">MS.432</a>
+#: </p><p><a class="sc" id="57"></a><a class=\\\"ms-pa\\\" id=\\\"MS.432\\\" href=\\\"#MS.432\\\">MS.432</a>
 msgctxt "pi-tv-bu-vb-pj3:61.1"
 msgid "<strong class=\\\"term\\\">Kāyena vācāya saṃvaṇṇeti</strong> nāma"
 msgstr "<strong class=\\\"term\\\">He praises by means of the body and speech</strong>:"
@@ -1559,6 +1611,7 @@ msgctxt "pi-tv-bu-vb-pj3:61.3"
 msgid "“yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
 msgstr "“Whoever dies thus, receives wealth/becomes famous/goes to heaven,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:61.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1580,10 +1633,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:61.9"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="58"></a><a class=\\\"ms-pa\\\" id=\\\"MS.433\\\" href=\\\"#MS.433\\\">MS.433</a>
+#: </p><p><a class="sc" id="58"></a><a class=\\\"ms-pa\\\" id=\\\"MS.433\\\" href=\\\"#MS.433\\\">MS.433</a>
 msgctxt "pi-tv-bu-vb-pj3:62.1"
 msgid "<strong class=\\\"term\\\">Dūtena saṃvaṇṇeti</strong> nāma"
 msgstr "<strong class=\\\"term\\\">He praises by means of a messenger</strong>:"
@@ -1596,6 +1649,7 @@ msgctxt "pi-tv-bu-vb-pj3:62.3"
 msgid "“yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
 msgstr "“Whoever dies thus, receives wealth/becomes famous/goes to heaven,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:62.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1617,10 +1671,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:62.9"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="59"></a><a class=\\\"ms-pa\\\" id=\\\"MS.434\\\" href=\\\"#MS.434\\\">MS.434</a>
+#: </p><p><a class="sc" id="59"></a><a class=\\\"ms-pa\\\" id=\\\"MS.434\\\" href=\\\"#MS.434\\\">MS.434</a>
 msgctxt "pi-tv-bu-vb-pj3:63.1"
 msgid "<strong class=\\\"term\\\">Lekhāya saṃvaṇṇeti</strong> nāma"
 msgstr "<strong class=\\\"term\\\">He praises by means of a writing</strong>:"
@@ -1629,11 +1683,12 @@ msgctxt "pi-tv-bu-vb-pj3:63.2"
 msgid "<span class=\\\"gloss\\\">lekhaṃ chindati—"
 msgstr "<span class=\\\"gloss\\\">if a monk writes,"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.132\\\" href=\\\"#BD.1.132\\\">BD.1.132</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.132\\\" href=\\\"#BD.1.132\\\">BD.1.132</a>
 msgctxt "pi-tv-bu-vb-pj3:63.3"
 msgid "“yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
 msgstr "“Whoever dies thus, receives wealth/becomes famous/goes to heaven,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:63.4"
 msgid "akkharak­kha­rāya āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct for each character he writes."
@@ -1655,10 +1710,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:63.9"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="60"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.5\\\" href=\\\"#Bu-Pj.3.4.5\\\">Bu-Pj.3.4.5</a><a class=\\\"ms-pa\\\" id=\\\"MS.435\\\" href=\\\"#MS.435\\\">MS.435</a>
+#: </p><hr><p><a class="sc" id="60"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.5\\\" href=\\\"#Bu-Pj.3.4.5\\\">Bu-Pj.3.4.5</a><a class=\\\"ms-pa\\\" id=\\\"MS.435\\\" href=\\\"#MS.435\\\">MS.435</a>
 msgctxt "pi-tv-bu-vb-pj3:64.1"
 msgid "<strong class=\\\"term\\\">Opātaṃ</strong> nāma"
 msgstr "<strong class=\\\"term\\\">A pit</strong>:"
@@ -1671,6 +1726,7 @@ msgctxt "pi-tv-bu-vb-pj3:64.3"
 msgid "“papatitvā marissatī”ti,"
 msgstr "“Falling into it someone will die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:64.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1688,9 +1744,10 @@ msgid "Marati,"
 msgstr "If they die,"
 
 msgctxt "pi-tv-bu-vb-pj3:64.8"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:64.9"
 msgid "<span class=\\\"gloss\\\">Anodissa opātaṃ khanati—"
 msgstr "<span class=\\\"gloss\\\">If a monk digs a non-specific pit, thinking,"
@@ -1699,6 +1756,7 @@ msgctxt "pi-tv-bu-vb-pj3:64.10"
 msgid "“yo koci papatitvā marissatī”ti,"
 msgstr "“Whatever falls into it will die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:64.11"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1759,7 +1817,7 @@ msgctxt "pi-tv-bu-vb-pj3:64.25"
 msgid "āpatti dukkaṭassa."
 msgstr "the monk commits an offense of wrong conduct."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.133\\\" href=\\\"#BD.1.133\\\">BD.1.133</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.133\\\" href=\\\"#BD.1.133\\\">BD.1.133</a>
 msgctxt "pi-tv-bu-vb-pj3:64.26"
 msgid "Papatite dukkhā vedanā uppajjati,"
 msgstr "If it experiences pain after falling,"
@@ -1773,10 +1831,10 @@ msgid "Marati,"
 msgstr "If it dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:64.29"
-msgid "āpatti pācittiyassa.</span>"
-msgstr "the monk commits an offense entailing confession.</span>"
+msgid "āpatti pācittiyassa."
+msgstr "the monk commits an offense entailing confession."
 
-#. </p><p><a class="sc" id="61"></a><a class="pts-vp-pi" id="pts-vp-pi3.77"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.6\\\" href=\\\"#Bu-Pj.3.4.6\\\">Bu-Pj.3.4.6</a><a class=\\\"ms-pa\\\" id=\\\"MS.436\\\" href=\\\"#MS.436\\\">MS.436</a>
+#: </p><p><a class="sc" id="61"></a><a class="pts-vp-pi" id="pts-vp-pi3.77"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.6\\\" href=\\\"#Bu-Pj.3.4.6\\\">Bu-Pj.3.4.6</a><a class=\\\"ms-pa\\\" id=\\\"MS.436\\\" href=\\\"#MS.436\\\">MS.436</a>
 msgctxt "pi-tv-bu-vb-pj3:65.1"
 msgid "<strong class=\\\"term\\\">Apassenaṃ</strong> nāma"
 msgstr "<strong class=\\\"term\\\">A piece of furniture</strong>:"
@@ -1789,6 +1847,7 @@ msgctxt "pi-tv-bu-vb-pj3:65.3"
 msgid "“papatitvā marissatī”ti,"
 msgstr "“Falling down, theyʼll die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:65.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1801,16 +1860,16 @@ msgctxt "pi-tv-bu-vb-pj3:65.6"
 msgid "āpatti thullaccayassa."
 msgstr "the monk commits a serious offense."
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.77\\\" href=\\\"#Vin.3.77\\\">Vin 3.77</a>
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.77\\\" href=\\\"#Vin.3.77\\\">Vin 3.77</a>
 msgctxt "pi-tv-bu-vb-pj3:65.7"
 msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:65.8"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="62"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.7\\\" href=\\\"#Bu-Pj.3.4.7\\\">Bu-Pj.3.4.7</a><a class=\\\"ms-pa\\\" id=\\\"MS.437\\\" href=\\\"#MS.437\\\">MS.437</a>
+#: </p><p><a class="sc" id="62"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.7\\\" href=\\\"#Bu-Pj.3.4.7\\\">Bu-Pj.3.4.7</a><a class=\\\"ms-pa\\\" id=\\\"MS.437\\\" href=\\\"#MS.437\\\">MS.437</a>
 msgctxt "pi-tv-bu-vb-pj3:66.1"
 msgid "<strong class=\\\"term\\\">Upanikkhipanaṃ</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Placing near</strong>:"
@@ -1831,6 +1890,7 @@ msgctxt "pi-tv-bu-vb-pj3:66.5"
 msgid "“Tena marissāmī”ti"
 msgstr "If the target person thinks, “Using that, I shall die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:66.6"
 msgid "dukkhaṃ vedanaṃ uppādeti,"
 msgstr "and he does something painful,"
@@ -1844,10 +1904,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:66.9"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="63"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.8\\\" href=\\\"#Bu-Pj.3.4.8\\\">Bu-Pj.3.4.8</a><a class=\\\"ms-pa\\\" id=\\\"MS.438\\\" href=\\\"#MS.438\\\">MS.438</a>
+#: </p><p><a class="sc" id="63"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.8\\\" href=\\\"#Bu-Pj.3.4.8\\\">Bu-Pj.3.4.8</a><a class=\\\"ms-pa\\\" id=\\\"MS.438\\\" href=\\\"#MS.438\\\">MS.438</a>
 msgctxt "pi-tv-bu-vb-pj3:67.1"
 msgid "<strong class=\\\"term\\\">Bhesajjaṃ</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Tonics</strong>:"
@@ -1860,6 +1920,7 @@ msgctxt "pi-tv-bu-vb-pj3:67.3"
 msgid "“imaṃ sāyitvā marissatī”ti,"
 msgstr "“After tasting this, theyʼll die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:67.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1881,10 +1942,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:67.9"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="64"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.9\\\" href=\\\"#Bu-Pj.3.4.9\\\">Bu-Pj.3.4.9</a><a class=\\\"ms-pa\\\" id=\\\"MS.439\\\" href=\\\"#MS.439\\\">MS.439</a>
+#: </p><hr><p><a class="sc" id="64"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.9\\\" href=\\\"#Bu-Pj.3.4.9\\\">Bu-Pj.3.4.9</a><a class=\\\"ms-pa\\\" id=\\\"MS.439\\\" href=\\\"#MS.439\\\">MS.439</a>
 msgctxt "pi-tv-bu-vb-pj3:68.1"
 msgid "<strong class=\\\"term\\\">Rūpūpahāro</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Arranging a sight</strong>:"
@@ -1897,6 +1958,7 @@ msgctxt "pi-tv-bu-vb-pj3:68.3"
 msgid "“imaṃ passitvā uttasitvā marissatī”ti,"
 msgstr "“Seeing this and becoming terrified, theyʼll die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:68.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -1917,12 +1979,12 @@ msgctxt "pi-tv-bu-vb-pj3:68.8"
 msgid "āpatti pārājikassa."
 msgstr "the monk commits an offense entailing expulsion."
 
-#. <span class=\\\"var\\\" title=\\\"upasaṃharati pemanīyaṃ hadayaṅgamaṃ (s1-3)\\\" id=\\\"note109\\\">upasaṃharati</span>
+#: <span class=\\\"var\\\" title=\\\"upasaṃharati pemanīyaṃ hadayaṅgamaṃ (s1-3)\\\" id=\\\"note109\\\">upasaṃharati</span>
 msgctxt "pi-tv-bu-vb-pj3:68.9"
 msgid "Manāpikaṃ rūpaṃ upasaṃharati—"
 msgstr "If a monk arranges a lovely sight, thinking,"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.134\\\" href=\\\"#BD.1.134\\\">BD.1.134</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.134\\\" href=\\\"#BD.1.134\\\">BD.1.134</a>
 msgctxt "pi-tv-bu-vb-pj3:68.10"
 msgid "“imaṃ passitvā alābhakena sussitvā marissatī”ti,"
 msgstr "“Seeing this and then not being able to obtain it, theyʼll wither and die,”"
@@ -1944,10 +2006,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:68.15"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="65"></a><a class=\\\"ms-pa\\\" id=\\\"MS.440\\\" href=\\\"#MS.440\\\">MS.440</a>
+#: </p><p><a class="sc" id="65"></a><a class=\\\"ms-pa\\\" id=\\\"MS.440\\\" href=\\\"#MS.440\\\">MS.440</a>
 msgctxt "pi-tv-bu-vb-pj3:69.1"
 msgid "<strong class=\\\"term\\\">Saddūpahāro</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Arranging a sound</strong>:"
@@ -1960,6 +2022,7 @@ msgctxt "pi-tv-bu-vb-pj3:69.3"
 msgid "“imaṃ sutvā uttasitvā marissatī”ti,"
 msgstr "“Hearing this and becoming terrified, theyʼll die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:69.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2005,11 +2068,11 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:69.15"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="66"></a><a class=\\\"ms-pa\\\" id=\\\"MS.441\\\" href=\\\"#MS.441\\\">MS.441</a>
-#. <span class=\\\"var\\\" title=\\\"paṭikūlaṃ (?)\\\" id=\\\"note110\\\">pāṭikulyaṃ</span>
+#: </p><p><a class="sc" id="66"></a><a class=\\\"ms-pa\\\" id=\\\"MS.441\\\" href=\\\"#MS.441\\\">MS.441</a>
+#: <span class=\\\"var\\\" title=\\\"paṭikūlaṃ (?)\\\" id=\\\"note110\\\">pāṭikulyaṃ</span>
 msgctxt "pi-tv-bu-vb-pj3:70.1"
 msgid "<strong class=\\\"term\\\">Gandhūpahāro</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Arranging a smell</strong>:"
@@ -2022,6 +2085,7 @@ msgctxt "pi-tv-bu-vb-pj3:70.3"
 msgid "“imaṃ ghāyitvā jegucchatā pāṭikulyatā marissatī”ti,"
 msgstr "“Smelling this, theyʼll die from disgust and aversion,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:70.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2067,15 +2131,15 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:70.15"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="67"></a><a class=\\\"ms-pa\\\" id=\\\"MS.442\\\" href=\\\"#MS.442\\\">MS.442</a>
+#: </p><p><a class="sc" id="67"></a><a class=\\\"ms-pa\\\" id=\\\"MS.442\\\" href=\\\"#MS.442\\\">MS.442</a>
 msgctxt "pi-tv-bu-vb-pj3:71.1"
 msgid "<strong class=\\\"term\\\">Rasūpahāro</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Arranging a taste</strong>:"
 
-#. <span class=\\\"var\\\" title=\\\"paṭikūlaṃ (?)\\\" id=\\\"note111\\\">pāṭikulyaṃ</span>
+#: <span class=\\\"var\\\" title=\\\"paṭikūlaṃ (?)\\\" id=\\\"note111\\\">pāṭikulyaṃ</span>
 msgctxt "pi-tv-bu-vb-pj3:71.2"
 msgid "<span class=\\\"gloss\\\">amanāpikaṃ rasaṃ upasaṃharati jegucchaṃ pāṭikulyaṃ—"
 msgstr "<span class=\\\"gloss\\\">if a monk arranges a disgusting and repulsive taste, thinking, "
@@ -2084,6 +2148,7 @@ msgctxt "pi-tv-bu-vb-pj3:71.3"
 msgid "“imaṃ sāyitvā jegucchatā pāṭikulyatā marissatī”ti,"
 msgstr "“Tasting this, theyʼll die from disgust and aversion,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:71.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2129,15 +2194,15 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:71.15"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="68"></a><a class="pts-vp-pi" id="pts-vp-pi3.78"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.135\\\" href=\\\"#BD.1.135\\\">BD.1.135</a><a class=\\\"ms-pa\\\" id=\\\"MS.443\\\" href=\\\"#MS.443\\\">MS.443</a>
+#: </p><p><a class="sc" id="68"></a><a class="pts-vp-pi" id="pts-vp-pi3.78"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.135\\\" href=\\\"#BD.1.135\\\">BD.1.135</a><a class=\\\"ms-pa\\\" id=\\\"MS.443\\\" href=\\\"#MS.443\\\">MS.443</a>
 msgctxt "pi-tv-bu-vb-pj3:72.1"
 msgid "<strong class=\\\"term\\\">Phoṭṭhab­bū­pahāro</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Arranging a touch</strong>:"
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.78\\\" href=\\\"#Vin.3.78\\\">Vin 3.78</a>
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.78\\\" href=\\\"#Vin.3.78\\\">Vin 3.78</a>
 msgctxt "pi-tv-bu-vb-pj3:72.2"
 msgid "<span class=\\\"gloss\\\">amanāpikaṃ phoṭṭhabbaṃ upasaṃharati duk­kha­samphas­saṃ kha­ra­samphas­saṃ—"
 msgstr "<span class=\\\"gloss\\\">if a monk arranges a painful and harsh physical contact, thinking,"
@@ -2146,6 +2211,7 @@ msgctxt "pi-tv-bu-vb-pj3:72.3"
 msgid "“iminā phuṭṭho marissatī”ti,"
 msgstr "“Touched by this, theyʼll die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:72.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2191,10 +2257,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:72.15"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="69"></a><a class=\\\"ms-pa\\\" id=\\\"MS.444\\\" href=\\\"#MS.444\\\">MS.444</a>
+#: </p><p><a class="sc" id="69"></a><a class=\\\"ms-pa\\\" id=\\\"MS.444\\\" href=\\\"#MS.444\\\">MS.444</a>
 msgctxt "pi-tv-bu-vb-pj3:73.1"
 msgid "<strong class=\\\"term\\\">Dhammūpahāro</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Arranging a mental state</strong>:"
@@ -2207,6 +2273,7 @@ msgctxt "pi-tv-bu-vb-pj3:73.3"
 msgid "“imaṃ sutvā uttasitvā marissatī”ti,"
 msgstr "“Hearing this and becoming terrified, theyʼll die,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:73.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2256,10 +2323,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:73.16"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="70"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.10\\\" href=\\\"#Bu-Pj.3.4.10\\\">Bu-Pj.3.4.10</a><a class=\\\"ms-pa\\\" id=\\\"MS.445\\\" href=\\\"#MS.445\\\">MS.445</a>
+#: </p><hr><p><a class="sc" id="70"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.10\\\" href=\\\"#Bu-Pj.3.4.10\\\">Bu-Pj.3.4.10</a><a class=\\\"ms-pa\\\" id=\\\"MS.445\\\" href=\\\"#MS.445\\\">MS.445</a>
 msgctxt "pi-tv-bu-vb-pj3:74.1"
 msgid "<strong class=\\\"term\\\">Ācikkhanā</strong> nāma puṭṭho bhaṇati—"
 msgstr "<strong class=\\\"term\\\">Information</strong>:"
@@ -2276,6 +2343,7 @@ msgctxt "pi-tv-bu-vb-pj3:74.4"
 msgid "Yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
 msgstr "anyone who dies like this receives wealth/becomes famous/goes to heaven,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:74.5"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2297,10 +2365,10 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:74.10"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="71"></a><a class=\\\"ms-pa\\\" id=\\\"MS.446\\\" href=\\\"#MS.446\\\">MS.446</a>
+#: </p><p><a class="sc" id="71"></a><a class=\\\"ms-pa\\\" id=\\\"MS.446\\\" href=\\\"#MS.446\\\">MS.446</a>
 msgctxt "pi-tv-bu-vb-pj3:75.1"
 msgid "<strong class=\\\"term\\\">Anusāsanī</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Instruction</strong>:"
@@ -2317,6 +2385,7 @@ msgctxt "pi-tv-bu-vb-pj3:75.4"
 msgid "Yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
 msgstr "anyone who dies like this receives wealth/becomes famous/goes to heaven,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:75.5"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2338,15 +2407,15 @@ msgid "Marati,"
 msgstr "If the person dies,"
 
 msgctxt "pi-tv-bu-vb-pj3:75.10"
-msgid "āpatti pārājikassa.</span>"
-msgstr "the monk commits an offense entailing expulsion.</span>"
+msgid "āpatti pārājikassa."
+msgstr "the monk commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="72"></a><a class=\\\"ms-pa\\\" id=\\\"MS.447\\\" href=\\\"#MS.447\\\">MS.447</a>
+#: </p><p><a class="sc" id="72"></a><a class=\\\"ms-pa\\\" id=\\\"MS.447\\\" href=\\\"#MS.447\\\">MS.447</a>
 msgctxt "pi-tv-bu-vb-pj3:76.1"
 msgid "<strong class=\\\"term\\\">Saṅketakammaṃ</strong> nāma"
 msgstr "<strong class=\\\"term\\\">An arranged action</strong>:"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.136\\\" href=\\\"#BD.1.136\\\">BD.1.136</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.136\\\" href=\\\"#BD.1.136\\\">BD.1.136</a>
 msgctxt "pi-tv-bu-vb-pj3:76.2"
 msgid "<span class=\\\"gloss\\\">saṅketaṃ karoti purebhattaṃ vā pacchābhattaṃ vā rattiṃ vā divā vā—"
 msgstr "<span class=\\\"gloss\\\">if a monk makes an arrangement for before the meal or for after the meal, for the night or for the day, telling another person,"
@@ -2355,6 +2424,7 @@ msgctxt "pi-tv-bu-vb-pj3:76.3"
 msgid "“tena saṅketena taṃ jīvitā voropehī”ti,"
 msgstr "“Kill that person according to this arrangement,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:76.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2376,10 +2446,10 @@ msgid "mūlaṭṭhassa anāpatti,"
 msgstr "there is no offense for the instigator,"
 
 msgctxt "pi-tv-bu-vb-pj3:76.9"
-msgid "vadhakassa āpatti pārājikassa.</span>"
-msgstr "but there is an offense entailing expulsion for the murderer.</span>"
+msgid "vadhakassa āpatti pārājikassa."
+msgstr "but there is an offense entailing expulsion for the murderer."
 
-#. </p><p><a class="sc" id="73"></a><a class=\\\"ms-pa\\\" id=\\\"MS.448\\\" href=\\\"#MS.448\\\">MS.448</a>
+#: </p><p><a class="sc" id="73"></a><a class=\\\"ms-pa\\\" id=\\\"MS.448\\\" href=\\\"#MS.448\\\">MS.448</a>
 msgctxt "pi-tv-bu-vb-pj3:77.1"
 msgid "<strong class=\\\"term\\\">Nimittakammaṃ</strong> nāma"
 msgstr "<strong class=\\\"term\\\">Making a sign</strong>:"
@@ -2392,6 +2462,7 @@ msgctxt "pi-tv-bu-vb-pj3:77.3"
 msgid "“akkhiṃ vā nikhaṇissāmi bhamukaṃ vā ukkhipissāmi sīsaṃ vā ukkhipissāmi, tena nimittena taṃ jīvitā voropehī”ti,"
 msgstr "If he says to another person, “When I wink/raise my eyebrow/nod, at that sign kill that person,”"
 
+#: </span>
 msgctxt "pi-tv-bu-vb-pj3:77.4"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
@@ -2413,15 +2484,15 @@ msgid "mūlaṭṭhassa anāpatti,"
 msgstr "there is no offense for the instigator,"
 
 msgctxt "pi-tv-bu-vb-pj3:77.9"
-msgid "vadhakassa āpatti pārājikassa.</span>"
-msgstr "but there is an offense entailing expulsion for the murderer.</span>"
+msgid "vadhakassa āpatti pārājikassa."
+msgstr "but there is an offense entailing expulsion for the murderer."
 
-#. </p><h2>
+#: </p><h2>
 msgctxt "pi-tv-bu-vb-pj3:78.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="74"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.11\\\" href=\\\"#Bu-Pj.3.4.11\\\">Bu-Pj.3.4.11</a><a class=\\\"ms-pa\\\" id=\\\"MS.449\\\" href=\\\"#MS.449\\\">MS.449</a>
+#: </h2><p><a class="sc" id="74"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.4.11\\\" href=\\\"#Bu-Pj.3.4.11\\\">Bu-Pj.3.4.11</a><a class=\\\"ms-pa\\\" id=\\\"MS.449\\\" href=\\\"#MS.449\\\">MS.449</a>
 msgctxt "pi-tv-bu-vb-pj3:78.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
@@ -2430,7 +2501,7 @@ msgctxt "pi-tv-bu-vb-pj3:78.3"
 msgid "asañcicca"
 msgstr "if it is unintentional;"
 
-#. <span class=\\\"var\\\" title=\\\"ummattakassa khittacittassa vedanaṭṭassa (bj, s1-3)\\\" id=\\\"note112\\\">ajānantassa ­namara­ṇādhip­pāyassa ummattakassa</span>
+#: <span class=\\\"var\\\" title=\\\"ummattakassa khittacittassa vedanaṭṭassa (bj, s1-3)\\\" id=\\\"note112\\\">ajānantassa ­namara­ṇādhip­pāyassa ummattakassa</span>
 msgctxt "pi-tv-bu-vb-pj3:78.4"
 msgid "ajānantassa"
 msgstr "if he does not know;"
@@ -2447,144 +2518,149 @@ msgctxt "pi-tv-bu-vb-pj3:78.7"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="75"></a><a class=\\\"ms-pa\\\" id=\\\"MS.450\\\" href=\\\"#MS.450\\\">MS.450</a>
+#: </p><p class="endsutta"><a class="sc" id="75"></a><a class=\\\"ms-pa\\\" id=\\\"MS.450\\\" href=\\\"#MS.450\\\">MS.450</a>
 msgctxt "pi-tv-bu-vb-pj3:79.1"
 msgid "Manus­savig­gaha­pā­rāji­kamhi paṭha­ma­bhā­ṇavāro niṭṭhito."
 msgstr "The first section on expulsion in relation to human beings is finished."
 
-#. </p><h3>
+#: </p><hr><h2>
 msgctxt "pi-tv-bu-vb-pj3:80.1"
 msgid "3.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings"
 
-#. </h3><blockquote class="gatha"><p><a class="sc" id="76"></a><a
-#. class="pts-vp-pi" id="pts-vp-pi3.79"></a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.79\\\" href=\\\"#Vin.3.79\\\">Vin 3.79</a> <a class=\\\"ms-pa\\\" id=\\\"MS.451\\\" href=\\\"#MS.451\\\">MS.451</a>
+#: </h2><div class="uddana"><h5>
+msgctxt "pi-tv-bu-vb-pj2:80.2"
+msgid ""
+msgstr "Mnemonic list"
+
+#: </h5><blockquote class="gatha"><p><a class="sc" id="76"></a><a
+#: class="pts-vp-pi" id="pts-vp-pi3.79"></a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.79\\\" href=\\\"#Vin.3.79\\\">Vin 3.79</a> <a class=\\\"ms-pa\\\" id=\\\"MS.451\\\" href=\\\"#MS.451\\\">MS.451</a>
 msgctxt "pi-tv-bu-vb-pj3:81.1"
 msgid "Saṃvaṇṇanā nisīdanto,"
 msgstr "Praising, sitting down,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:81.2"
 msgid "musalo­duk­kha­lena ca;"
 msgstr "And with pestle, with mortar;"
 
-#. <br>
-#. <span class=\\\"var\\\" title=\\\"buddha­pabba­jitā satta (bj) | vuḍḍha­pabba­jitā santo (s1-3)\\\" id=\\\"note113\\\">Vuḍḍha­pabba­ji­tā­bhisanno</span>
+#: <br>
+#: <span class=\\\"var\\\" title=\\\"buddha­pabba­jitā satta (bj) | vuḍḍha­pabba­jitā santo (s1-3)\\\" id=\\\"note113\\\">Vuḍḍha­pabba­ji­tā­bhisanno</span>
 msgctxt "pi-tv-bu-vb-pj3:81.3"
 msgid "Vuḍḍha­pabba­ji­tā­bhisanno,"
 msgstr "Gone forth when old, flowing out,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:81.4"
 msgid "agga­vī­maṃ­sa­nā­visaṃ."
 msgstr "First, experimental poison."
 
-#. </p><p><a class="sc" id="77"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.137\\\" href=\\\"#BD.1.137\\\">BD.1.137</a><a class=\\\"ms-pa\\\" id=\\\"MS.452\\\" href=\\\"#MS.452\\\">MS.452</a>
+#: </p><p><a class="sc" id="77"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.137\\\" href=\\\"#BD.1.137\\\">BD.1.137</a><a class=\\\"ms-pa\\\" id=\\\"MS.452\\\" href=\\\"#MS.452\\\">MS.452</a>
 msgctxt "pi-tv-bu-vb-pj3:82.1"
 msgid "Tayo ca vatthukammehi,"
 msgstr "And three with making sites,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:82.2"
 msgid "iṭṭhakāhipare tayo;"
 msgstr "Another three with bricks;"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:82.3"
 msgid "Vāsī gopānasī ceva,"
 msgstr "An adz, and a rafter,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:82.4"
 msgid "aṭṭakotaraṇaṃ pati."
 msgstr "A elevated platform, coming down, fell down."
 
-#. </p><p><a class="sc" id="78"></a><a class=\\\"ms-pa\\\" id=\\\"MS.453\\\" href=\\\"#MS.453\\\">MS.453</a>
+#: </p><p><a class="sc" id="78"></a><a class=\\\"ms-pa\\\" id=\\\"MS.453\\\" href=\\\"#MS.453\\\">MS.453</a>
 msgctxt "pi-tv-bu-vb-pj3:83.1"
 msgid "Sedaṃ natthuñca sambāho,"
 msgstr "Sweating, and nose treatment, massage,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:83.2"
 msgid "nhāpanab­bhañ­ja­nena ca;"
 msgstr "By bathing, and by smearing;"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:83.3"
 msgid "Uṭṭhāpento nipātento,"
 msgstr "Making get up, making lie down,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:83.4"
 msgid "annapānena māraṇaṃ."
 msgstr "Death through food, through drink."
 
-#. </p><p><a class="sc" id="79"></a><a class=\\\"ms-pa\\\" id=\\\"MS.454\\\" href=\\\"#MS.454\\\">MS.454</a>
+#: </p><p><a class="sc" id="79"></a><a class=\\\"ms-pa\\\" id=\\\"MS.454\\\" href=\\\"#MS.454\\\">MS.454</a>
 msgctxt "pi-tv-bu-vb-pj3:84.1"
 msgid "Jāragabbho sapattī ca,"
 msgstr "Child by a lover, and co-wives,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:84.2"
 msgid "mātā puttaṃ ubho vadhi;"
 msgstr "Mother, child, he killed both;"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:84.3"
 msgid "Ubho na miyyare maddā,"
 msgstr "He killed neither, crushing,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:84.4"
 msgid "tāpaṃ vañjhā vijāyinī."
 msgstr "Heating, barren, fertile."
 
-#. </p><p><a class="sc" id="80"></a><a class=\\\"ms-pa\\\" id=\\\"MS.455\\\" href=\\\"#MS.455\\\">MS.455</a>
+#: </p><p><a class="sc" id="80"></a><a class=\\\"ms-pa\\\" id=\\\"MS.455\\\" href=\\\"#MS.455\\\">MS.455</a>
 msgctxt "pi-tv-bu-vb-pj3:85.1"
 msgid "Patodaṃ niggahe yakkho,"
 msgstr "Tickling, in taking hold of, a spirit,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:85.2"
 msgid "vāḷayakkhañca pāhiṇi;"
 msgstr "Wild animals, and spirits, sent;"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:85.3"
 msgid "Taṃ maññamāno pahari,"
 msgstr "Thinking it was him, he gave a blow,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:85.4"
 msgid "saggañca nirayaṃ bhaṇe."
 msgstr "In talking about heaven, and about hell."
 
-#. </p><p><a class="sc" id="81"></a><a class=\\\"ms-pa\\\" id=\\\"MS.456\\\" href=\\\"#MS.456\\\">MS.456</a>
+#: </p><p><a class="sc" id="81"></a><a class=\\\"ms-pa\\\" id=\\\"MS.456\\\" href=\\\"#MS.456\\\">MS.456</a>
 msgctxt "pi-tv-bu-vb-pj3:86.1"
 msgid "Āḷaviyā tayo rukkhā,"
 msgstr "Three trees at Āḷavī,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:86.2"
 msgid "dāyehi apare tayo;"
 msgstr "Three others with forest groves;"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:86.3"
 msgid "Mā kilamesi na tuyhaṃ,"
 msgstr "Do not torture, not as you,"
 
-#. <br>
+#: <br>
 msgctxt "pi-tv-bu-vb-pj3:86.4"
 msgid "takkaṃ sovīrakena cāti."
 msgstr "Buttermilk, and salty medicine."
 
-#. </p></blockquote><h3>
+#: </p></div><h3>
 msgctxt "pi-tv-bu-vb-pj3:87.1"
 msgid "3.2. Vinītavatthu"
 msgstr "Case details"
 
-#. </h3><p><a class="sc" id="82"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3.5\\\">Bu-Pj.3.5</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.1\\\" href=\\\"#Bu-Pj.3.5.1\\\">Bu-Pj.3.5.1</a><a class=\\\"ms-pa\\\" id=\\\"MS.457\\\" href=\\\"#MS.457\\\">MS.457</a>
+#: </h3><p><a class="sc" id="82"></a><a class=\\\"pts-cs-empty\\\" id=\\\"Bu-Pj.3.5\\\">Bu-Pj.3.5</a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.1\\\" href=\\\"#Bu-Pj.3.5.1\\\">Bu-Pj.3.5.1</a><a class=\\\"ms-pa\\\" id=\\\"MS.457\\\" href=\\\"#MS.457\\\">MS.457</a>
 msgctxt "pi-tv-bu-vb-pj3:88.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -2617,7 +2693,7 @@ msgctxt "pi-tv-bu-vb-pj3:88.8"
 msgid "(1)"
 msgstr ""
 
-#. </p><p><a class="sc" id="83"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.2\\\" href=\\\"#Bu-Pj.3.5.2\\\">Bu-Pj.3.5.2</a><a class=\\\"ms-pa\\\" id=\\\"MS.458\\\" href=\\\"#MS.458\\\">MS.458</a>
+#: </p><hr><p><a class="sc" id="83"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.2\\\" href=\\\"#Bu-Pj.3.5.2\\\">Bu-Pj.3.5.2</a><a class=\\\"ms-pa\\\" id=\\\"MS.458\\\" href=\\\"#MS.458\\\">MS.458</a>
 msgctxt "pi-tv-bu-vb-pj3:89.1"
 msgid "Tena kho pana samayena aññataro piṇḍacāriko bhikkhu pīṭhake pilotikāya paṭicchannaṃ dārakaṃ nisīdanto ottharitvā"
 msgstr "On one occasion, a monk who was an almsgoer sat down on a bench, crushing a boy who was concealed by a rag."
@@ -2626,7 +2702,7 @@ msgctxt "pi-tv-bu-vb-pj3:89.2"
 msgid "māresi."
 msgstr "The boy died."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.138\\\" href=\\\"#BD.1.138\\\">BD.1.138</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.138\\\" href=\\\"#BD.1.138\\\">BD.1.138</a>
 msgctxt "pi-tv-bu-vb-pj3:89.3"
 msgid "Tassa kukkuccaṃ ahosi"
 msgstr "The monk became remorseful"
@@ -2659,7 +2735,7 @@ msgctxt "pi-tv-bu-vb-pj3:89.10"
 msgid "(2)"
 msgstr ""
 
-#. </p><p><a class="sc" id="84"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.3\\\" href=\\\"#Bu-Pj.3.5.3\\\">Bu-Pj.3.5.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.459\\\" href=\\\"#MS.459\\\">MS.459</a>
+#: </p><hr><p><a class="sc" id="84"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.3\\\" href=\\\"#Bu-Pj.3.5.3\\\">Bu-Pj.3.5.3</a><a class=\\\"ms-pa\\\" id=\\\"MS.459\\\" href=\\\"#MS.459\\\">MS.459</a>
 msgctxt "pi-tv-bu-vb-pj3:90.1"
 msgid "Tena kho pana samayena aññataro bhikkhu bhattagge antaraghare āsanaṃ paññapento musale ussite ekaṃ musalaṃ aggahesi."
 msgstr "On one occasion, a monk was preparing a seat in a dining hall in an inhabited area."
@@ -2680,10 +2756,12 @@ msgctxt "pi-tv-bu-vb-pj3:90.5"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:90.6"
 msgid "“Asañcicca ahaṃ, bhagavā”ti."
 msgstr "“I didn’t intend it, Master.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:90.7"
 msgid "“Anāpatti, bhikkhu, asañciccā”ti."
 msgstr "“There’s no offense when it’s unintentional.”"
@@ -2692,7 +2770,7 @@ msgctxt "pi-tv-bu-vb-pj3:90.8"
 msgid "(3)"
 msgstr ""
 
-#. </p><p><a class="sc" id="85"></a><a class=\\\"ms-pa\\\" id=\\\"MS.460\\\" href=\\\"#MS.460\\\">MS.460</a>
+#: </p><hr><p><a class="sc" id="85"></a><a class=\\\"ms-pa\\\" id=\\\"MS.460\\\" href=\\\"#MS.460\\\">MS.460</a>
 msgctxt "pi-tv-bu-vb-pj3:91.1"
 msgid "Tena kho pana samayena aññataro bhikkhu bhattagge antaraghare āsanaṃ paññapento"
 msgstr "On one occasion, a monk was preparing a seat in a dining hall in an inhabited area."
@@ -2721,17 +2799,17 @@ msgctxt "pi-tv-bu-vb-pj3:91.7"
 msgid "(4)"
 msgstr ""
 
-#. </p><p><a class="sc" id="86"></a><a class="pts-vp-pi" id="pts-vp-pi3.80"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.4\\\" href=\\\"#Bu-Pj.3.5.4\\\">Bu-Pj.3.5.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.461\\\" href=\\\"#MS.461\\\">MS.461</a>
+#: </p><hr><p><a class="sc" id="86"></a><a class="pts-vp-pi" id="pts-vp-pi3.80"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.4\\\" href=\\\"#Bu-Pj.3.5.4\\\">Bu-Pj.3.5.4</a><a class=\\\"ms-pa\\\" id=\\\"MS.461\\\" href=\\\"#MS.461\\\">MS.461</a>
 msgctxt "pi-tv-bu-vb-pj3:92.1"
 msgid "Tena kho pana samayena pitāputtā bhikkhūsu pabbajitā honti."
 msgstr "At one time, there was a father and son who had gone forth with the monks."
 
-#. “For a certain event” is not found in the Pali, but has been added to make the Pali idiom clearer.
+#: “For a certain event” is not found in the Pali, but has been added to make the Pali idiom clearer.
 msgctxt "pi-tv-bu-vb-pj3:92.2"
 msgid "Kāle ārocite putto pitaraṃ etadavoca—"
 msgstr "When the time was announced for a certain event, the son said to his father, "
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.139\\\" href=\\\"#BD.1.139\\\">BD.1.139</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.139\\\" href=\\\"#BD.1.139\\\">BD.1.139</a>
 msgctxt "pi-tv-bu-vb-pj3:92.3"
 msgid "“gaccha, bhante, saṃgho taṃ patimānetī”ti piṭṭhiyaṃ gahetvā paṇāmesi."
 msgstr "“Go, Venerable, the Order is waiting for you,”"
@@ -2748,15 +2826,17 @@ msgctxt "pi-tv-bu-vb-pj3:92.6"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "The son became remorseful …"
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.80\\\" href=\\\"#Vin.3.80\\\">Vin 3.80</a>
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.80\\\" href=\\\"#Vin.3.80\\\">Vin 3.80</a>
 msgctxt "pi-tv-bu-vb-pj3:92.7"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:92.8"
 msgid "“Nāhaṃ, bhagavā, maraṇādhippāyo”ti."
 msgstr "“I didn’t mean to kill him, Master.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:92.9"
 msgid "“Anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
 msgstr "“There’s no offense for one who is not aiming at death."
@@ -2765,7 +2845,7 @@ msgctxt "pi-tv-bu-vb-pj3:92.10"
 msgid "(5)"
 msgstr ""
 
-#. </p><p><a class="sc" id="87"></a><a class=\\\"ms-pa\\\" id=\\\"MS.462\\\" href=\\\"#MS.462\\\">MS.462</a>
+#: </p><hr><p><a class="sc" id="87"></a><a class=\\\"ms-pa\\\" id=\\\"MS.462\\\" href=\\\"#MS.462\\\">MS.462</a>
 msgctxt "pi-tv-bu-vb-pj3:93.1"
 msgid "Tena kho pana samayena pitāputtā bhikkhūsu pabbajitā honti."
 msgstr "At one time, there was a father and son who had gone forth with the monks."
@@ -2798,7 +2878,7 @@ msgctxt "pi-tv-bu-vb-pj3:93.8"
 msgid "(6)"
 msgstr ""
 
-#. </p><p><a class="sc" id="88"></a><a class=\\\"ms-pa\\\" id=\\\"MS.463\\\" href=\\\"#MS.463\\\">MS.463</a>
+#: </p><hr><p><a class="sc" id="88"></a><a class=\\\"ms-pa\\\" id=\\\"MS.463\\\" href=\\\"#MS.463\\\">MS.463</a>
 msgctxt "pi-tv-bu-vb-pj3:94.1"
 msgid "Tena kho pana samayena pitāputtā bhikkhūsu pabbajitā honti."
 msgstr "At one time, there was a father and son who had gone forth with the monks."
@@ -2835,7 +2915,7 @@ msgctxt "pi-tv-bu-vb-pj3:94.9"
 msgid "(7)"
 msgstr ""
 
-#. </p><p><a class="sc" id="89"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.5\\\" href=\\\"#Bu-Pj.3.5.5\\\">Bu-Pj.3.5.5</a><a class=\\\"ms-pa\\\" id=\\\"MS.464\\\" href=\\\"#MS.464\\\">MS.464</a>
+#: </p><hr><p><a class="sc" id="89"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.5\\\" href=\\\"#Bu-Pj.3.5.5\\\">Bu-Pj.3.5.5</a><a class=\\\"ms-pa\\\" id=\\\"MS.464\\\" href=\\\"#MS.464\\\">MS.464</a>
 msgctxt "pi-tv-bu-vb-pj3:95.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno bhuñjantassa maṃsaṃ kaṇṭhe vilaggaṃ hoti."
 msgstr "On one occasion, while a monk was eating, some meat got stuck in his throat."
@@ -2864,7 +2944,7 @@ msgctxt "pi-tv-bu-vb-pj3:95.7"
 msgid "(8)"
 msgstr ""
 
-#. </p><p><a class="sc" id="90"></a><a class=\\\"ms-pa\\\" id=\\\"MS.465\\\" href=\\\"#MS.465\\\">MS.465</a>
+#: </p><hr><p><a class="sc" id="90"></a><a class=\\\"ms-pa\\\" id=\\\"MS.465\\\" href=\\\"#MS.465\\\">MS.465</a>
 msgctxt "pi-tv-bu-vb-pj3:96.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno bhuñjantassa maṃsaṃ kaṇṭhe vilaggaṃ hoti."
 msgstr "On one occasion, while a monk was eating, some meat got stuck in his throat."
@@ -2893,7 +2973,7 @@ msgctxt "pi-tv-bu-vb-pj3:96.7"
 msgid "(9)"
 msgstr ""
 
-#. </p><p><a class="sc" id="91"></a><a class=\\\"ms-pa\\\" id=\\\"MS.466\\\" href=\\\"#MS.466\\\">MS.466</a>
+#: </p><hr><p><a class="sc" id="91"></a><a class=\\\"ms-pa\\\" id=\\\"MS.466\\\" href=\\\"#MS.466\\\">MS.466</a>
 msgctxt "pi-tv-bu-vb-pj3:97.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno bhuñjantassa maṃsaṃ kaṇṭhe vilaggaṃ hoti."
 msgstr "On one occasion, while a monk was eating some meat got stuck in his throat."
@@ -2902,7 +2982,7 @@ msgctxt "pi-tv-bu-vb-pj3:97.2"
 msgid "Aññataro bhikkhu maraṇādhippāyo tassa bhikkhuno gīvāyaṃ pahāraṃ adāsi."
 msgstr "Another monk, meaning to kill him, hit him on the neck."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.140\\\" href=\\\"#BD.1.140\\\">BD.1.140</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.140\\\" href=\\\"#BD.1.140\\\">BD.1.140</a>
 msgctxt "pi-tv-bu-vb-pj3:97.3"
 msgid "Salohitaṃ maṃsaṃ pati."
 msgstr "The meat came out together with blood,"
@@ -2927,7 +3007,7 @@ msgctxt "pi-tv-bu-vb-pj3:97.8"
 msgid "(10)"
 msgstr ""
 
-#. </p><p><a class="sc" id="92"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.6\\\" href=\\\"#Bu-Pj.3.5.6\\\">Bu-Pj.3.5.6</a><a class=\\\"ms-pa\\\" id=\\\"MS.467\\\" href=\\\"#MS.467\\\">MS.467</a>
+#: </p><hr><p><a class="sc" id="92"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.6\\\" href=\\\"#Bu-Pj.3.5.6\\\">Bu-Pj.3.5.6</a><a class=\\\"ms-pa\\\" id=\\\"MS.467\\\" href=\\\"#MS.467\\\">MS.467</a>
 msgctxt "pi-tv-bu-vb-pj3:98.1"
 msgid "Tena kho pana samayena aññataro piṇḍacāriko bhikkhu visagataṃ piṇḍapātaṃ labhitvā"
 msgstr "On one occasion, a monk who was an alms-collector received poisoned almsfood."
@@ -2952,10 +3032,12 @@ msgctxt "pi-tv-bu-vb-pj3:98.6"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention, monk?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:98.7"
 msgid "“Nāhaṃ, bhagavā, jānāmī”ti."
 msgstr "“I didnʼt know, Master.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:98.8"
 msgid "“Anāpatti, bhikkhu, ajānantassā”ti."
 msgstr "“There’s no offense for one who doesnʼt know."
@@ -2964,7 +3046,7 @@ msgctxt "pi-tv-bu-vb-pj3:98.9"
 msgid "(11)"
 msgstr ""
 
-#. </p><p><a class="sc" id="93"></a><a class=\\\"ms-pa\\\" id=\\\"MS.468\\\" href=\\\"#MS.468\\\">MS.468</a>
+#: </p><hr><p><a class="sc" id="93"></a><a class=\\\"ms-pa\\\" id=\\\"MS.468\\\" href=\\\"#MS.468\\\">MS.468</a>
 msgctxt "pi-tv-bu-vb-pj3:99.1"
 msgid "Tena kho pana samayena aññataro bhikkhu vīmaṃ­sā­dhip­pāyo aññatarassa bhikkhuno visaṃ adāsi."
 msgstr "On one occasion, a monk gave poison to a second monk with the purpose of investigating it."
@@ -2981,10 +3063,12 @@ msgctxt "pi-tv-bu-vb-pj3:99.4"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention, monk?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:99.5"
 msgid "“Vīmaṃ­sā­dhip­pāyo ahaṃ, bhagavā”ti."
 msgstr "“My purpose was to investigate it, Master.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:99.6"
 msgid "“Anāpatti, bhikkhu, pārājikassa;"
 msgstr "“There’s no offense entailing expulsion,"
@@ -2997,13 +3081,13 @@ msgctxt "pi-tv-bu-vb-pj3:99.8"
 msgid "(12)"
 msgstr ""
 
-#. </p><p><a class="sc" id="94"></a><a class="pts-vp-pi" id="pts-vp-pi3.81"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.7\\\" href=\\\"#Bu-Pj.3.5.7\\\">Bu-Pj.3.5.7</a><a class=\\\"ms-pa\\\" id=\\\"MS.469\\\" href=\\\"#MS.469\\\">MS.469</a>
-#. <span class=\\\"var\\\" title=\\\"ālavakā (bj) | āḷavikā (s1-3)\\\" id=\\\"note114\\\">āḷavakā</span>
+#: </p><hr><p><a class="sc" id="94"></a><a class="pts-vp-pi" id="pts-vp-pi3.81"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.7\\\" href=\\\"#Bu-Pj.3.5.7\\\">Bu-Pj.3.5.7</a><a class=\\\"ms-pa\\\" id=\\\"MS.469\\\" href=\\\"#MS.469\\\">MS.469</a>
+#: <span class=\\\"var\\\" title=\\\"ālavakā (bj) | āḷavikā (s1-3)\\\" id=\\\"note114\\\">āḷavakā</span>
 msgctxt "pi-tv-bu-vb-pj3:100.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū vihāravatthuṃ karonti."
 msgstr "On one occasion, the monks of Āḷavī were preparing a site for a dwelling."
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.81\\\" href=\\\"#Vin.3.81\\\">Vin 3.81</a>
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.81\\\" href=\\\"#Vin.3.81\\\">Vin 3.81</a>
 msgctxt "pi-tv-bu-vb-pj3:100.2"
 msgid "Aññataro bhikkhu heṭṭhā hutvā silaṃ uccāresi."
 msgstr "A monk who was below lifted up a stone."
@@ -3032,7 +3116,7 @@ msgctxt "pi-tv-bu-vb-pj3:100.8"
 msgid "(13)"
 msgstr ""
 
-#. </p><p><a class="sc" id="95"></a><a class=\\\"ms-pa\\\" id=\\\"MS.470\\\" href=\\\"#MS.470\\\">MS.470</a>
+#: </p><hr><p><a class="sc" id="95"></a><a class=\\\"ms-pa\\\" id=\\\"MS.470\\\" href=\\\"#MS.470\\\">MS.470</a>
 msgctxt "pi-tv-bu-vb-pj3:101.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū vihāravatthuṃ karonti."
 msgstr "On one occasion, the monks of Āḷavī were preparing a site for a dwelling."
@@ -3069,12 +3153,12 @@ msgctxt "pi-tv-bu-vb-pj3:101.9"
 msgid "(14–‍15)"
 msgstr ""
 
-#. </p><p><a class="sc" id="96"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.8\\\" href=\\\"#Bu-Pj.3.5.8\\\">Bu-Pj.3.5.8</a><a class=\\\"ms-pa\\\" id=\\\"MS.471\\\" href=\\\"#MS.471\\\">MS.471</a>
+#: </p><hr><p><a class="sc" id="96"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.8\\\" href=\\\"#Bu-Pj.3.5.8\\\">Bu-Pj.3.5.8</a><a class=\\\"ms-pa\\\" id=\\\"MS.471\\\" href=\\\"#MS.471\\\">MS.471</a>
 msgctxt "pi-tv-bu-vb-pj3:102.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū vihārassa kuṭṭaṃ uṭṭhāpenti."
 msgstr "On one occasion, the monks of Āḷavī were building a wall for a dwelling."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.141\\\" href=\\\"#BD.1.141\\\">BD.1.141</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.141\\\" href=\\\"#BD.1.141\\\">BD.1.141</a>
 msgctxt "pi-tv-bu-vb-pj3:102.2"
 msgid "Aññataro bhikkhu heṭṭhā hutvā iṭṭhakaṃ uccāresi."
 msgstr "A monk who was below lifted up a brick."
@@ -3103,7 +3187,7 @@ msgctxt "pi-tv-bu-vb-pj3:102.8"
 msgid "(16)"
 msgstr ""
 
-#. </p><p><a class="sc" id="97"></a><a class=\\\"ms-pa\\\" id=\\\"MS.472\\\" href=\\\"#MS.472\\\">MS.472</a>
+#: </p><hr><p><a class="sc" id="97"></a><a class=\\\"ms-pa\\\" id=\\\"MS.472\\\" href=\\\"#MS.472\\\">MS.472</a>
 msgctxt "pi-tv-bu-vb-pj3:103.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū vihārassa kuṭṭaṃ uṭṭhāpenti."
 msgstr "On one occasion, the monks of Āḷavī were building a wall for a dwelling."
@@ -3140,7 +3224,7 @@ msgctxt "pi-tv-bu-vb-pj3:103.9"
 msgid "(17–‍18)"
 msgstr ""
 
-#. </p><p><a class="sc" id="98"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.9\\\" href=\\\"#Bu-Pj.3.5.9\\\">Bu-Pj.3.5.9</a><a class=\\\"ms-pa\\\" id=\\\"MS.473\\\" href=\\\"#MS.473\\\">MS.473</a>
+#: </p><hr><p><a class="sc" id="98"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.9\\\" href=\\\"#Bu-Pj.3.5.9\\\">Bu-Pj.3.5.9</a><a class=\\\"ms-pa\\\" id=\\\"MS.473\\\" href=\\\"#MS.473\\\">MS.473</a>
 msgctxt "pi-tv-bu-vb-pj3:104.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karonti."
 msgstr "On one occasion, the monks of Āḷavī were doing building work."
@@ -3173,7 +3257,7 @@ msgctxt "pi-tv-bu-vb-pj3:104.8"
 msgid "(19)"
 msgstr ""
 
-#. </p><p><a class="sc" id="99"></a><a class=\\\"ms-pa\\\" id=\\\"MS.474\\\" href=\\\"#MS.474\\\">MS.474</a>
+#: </p><hr><p><a class="sc" id="99"></a><a class=\\\"ms-pa\\\" id=\\\"MS.474\\\" href=\\\"#MS.474\\\">MS.474</a>
 msgctxt "pi-tv-bu-vb-pj3:105.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karonti."
 msgstr "On one occasion, the monks of Āḷavī were doing building work."
@@ -3210,7 +3294,7 @@ msgctxt "pi-tv-bu-vb-pj3:105.9"
 msgid "(20–‍21)"
 msgstr ""
 
-#. </p><p><a class="sc" id="100"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.10\\\" href=\\\"#Bu-Pj.3.5.10\\\">Bu-Pj.3.5.10</a><a class=\\\"ms-pa\\\" id=\\\"MS.475\\\" href=\\\"#MS.475\\\">MS.475</a>
+#: </p><hr><p><a class="sc" id="100"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.10\\\" href=\\\"#Bu-Pj.3.5.10\\\">Bu-Pj.3.5.10</a><a class=\\\"ms-pa\\\" id=\\\"MS.475\\\" href=\\\"#MS.475\\\">MS.475</a>
 msgctxt "pi-tv-bu-vb-pj3:106.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karonti."
 msgstr "On one occasion, the monks of Āḷavī were doing building work."
@@ -3243,7 +3327,7 @@ msgctxt "pi-tv-bu-vb-pj3:106.8"
 msgid "(22)"
 msgstr ""
 
-#. </p><p><a class="sc" id="101"></a><a class=\\\"ms-pa\\\" id=\\\"MS.476\\\" href=\\\"#MS.476\\\">MS.476</a>
+#: </p><hr><p><a class="sc" id="101"></a><a class=\\\"ms-pa\\\" id=\\\"MS.476\\\" href=\\\"#MS.476\\\">MS.476</a>
 msgctxt "pi-tv-bu-vb-pj3:107.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karonti."
 msgstr "On one occasion, the monks of Āḷavī were doing building work."
@@ -3280,7 +3364,7 @@ msgctxt "pi-tv-bu-vb-pj3:107.9"
 msgid "(23–‍24)"
 msgstr ""
 
-#. </p><p><a class="sc" id="102"></a><a class="pts-vp-pi" id="pts-vp-pi3.82"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.11\\\" href=\\\"#Bu-Pj.3.5.11\\\">Bu-Pj.3.5.11</a><a class=\\\"ms-pa\\\" id=\\\"MS.477\\\" href=\\\"#MS.477\\\">MS.477</a>
+#: </p><hr><p><a class="sc" id="102"></a><a class="pts-vp-pi" id="pts-vp-pi3.82"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.11\\\" href=\\\"#Bu-Pj.3.5.11\\\">Bu-Pj.3.5.11</a><a class=\\\"ms-pa\\\" id=\\\"MS.477\\\" href=\\\"#MS.477\\\">MS.477</a>
 msgctxt "pi-tv-bu-vb-pj3:108.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karontā aṭṭakaṃ bandhanti."
 msgstr "On one occasion, the monks of Āḷavī, while doing building work, were putting together an elevated platform."
@@ -3297,7 +3381,7 @@ msgctxt "pi-tv-bu-vb-pj3:108.4"
 msgid "So tatraṭṭhito bandhanto paripatitvā kālamakāsi."
 msgstr "He did, and he fell down and died."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.142\\\" href=\\\"#BD.1.142\\\">BD.1.142</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.82\\\" href=\\\"#Vin.3.82\\\">Vin 3.82</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.142\\\" href=\\\"#BD.1.142\\\">BD.1.142</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.82\\\" href=\\\"#Vin.3.82\\\">Vin 3.82</a>
 msgctxt "pi-tv-bu-vb-pj3:108.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "The first monk became remorseful …"
@@ -3306,10 +3390,12 @@ msgctxt "pi-tv-bu-vb-pj3:108.6"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention, monk?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:108.7"
 msgid "“Nāhaṃ, bhagavā, maraṇādhippāyo”ti."
 msgstr "“I didn’t mean to kill him, Master.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:108.8"
 msgid "“Anāpatti, bhikkhu, ­namara­ṇādhip­pāyassā”ti."
 msgstr "“There’s no offense for one who is not aiming at death.”"
@@ -3318,7 +3404,7 @@ msgctxt "pi-tv-bu-vb-pj3:108.9"
 msgid "(25)"
 msgstr ""
 
-#. </p><p><a class="sc" id="103"></a><a class=\\\"ms-pa\\\" id=\\\"MS.478\\\" href=\\\"#MS.478\\\">MS.478</a>
+#: </p><hr><p><a class="sc" id="103"></a><a class=\\\"ms-pa\\\" id=\\\"MS.478\\\" href=\\\"#MS.478\\\">MS.478</a>
 msgctxt "pi-tv-bu-vb-pj3:109.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karontā aṭṭakaṃ bandhanti."
 msgstr "On one occasion, the monks of Āḷavī, while doing building work, were putting together an elevated platform."
@@ -3355,7 +3441,7 @@ msgctxt "pi-tv-bu-vb-pj3:109.9"
 msgid "(26–‍27)"
 msgstr ""
 
-#. </p><p><a class="sc" id="104"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.12\\\" href=\\\"#Bu-Pj.3.5.12\\\">Bu-Pj.3.5.12</a><a class=\\\"ms-pa\\\" id=\\\"MS.479\\\" href=\\\"#MS.479\\\">MS.479</a>
+#: </p><hr><p><a class="sc" id="104"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.12\\\" href=\\\"#Bu-Pj.3.5.12\\\">Bu-Pj.3.5.12</a><a class=\\\"ms-pa\\\" id=\\\"MS.479\\\" href=\\\"#MS.479\\\">MS.479</a>
 msgctxt "pi-tv-bu-vb-pj3:110.1"
 msgid "Tena kho pana samayena aññataro bhikkhu vihāraṃ chādetvā otarati."
 msgstr "On one occasion, a monk was coming down after making a roof for a dwelling."
@@ -3384,7 +3470,7 @@ msgctxt "pi-tv-bu-vb-pj3:110.7"
 msgid "(28)"
 msgstr ""
 
-#. </p><p><a class="sc" id="105"></a><a class=\\\"ms-pa\\\" id=\\\"MS.480\\\" href=\\\"#MS.480\\\">MS.480</a>
+#: </p><hr><p><a class="sc" id="105"></a><a class=\\\"ms-pa\\\" id=\\\"MS.480\\\" href=\\\"#MS.480\\\">MS.480</a>
 msgctxt "pi-tv-bu-vb-pj3:111.1"
 msgid "Tena kho pana samayena aññataro bhikkhu vihāraṃ chādetvā otarati."
 msgstr "On one occasion, a monk was coming down after making a roof for a dwelling."
@@ -3421,8 +3507,8 @@ msgctxt "pi-tv-bu-vb-pj3:111.9"
 msgid "(29–‍30)"
 msgstr ""
 
-#. </p><p><a class="sc" id="106"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.13\\\" href=\\\"#Bu-Pj.3.5.13\\\">Bu-Pj.3.5.13</a><a class=\\\"ms-pa\\\" id=\\\"MS.481\\\" href=\\\"#MS.481\\\">MS.481</a>
-#. The Pali seem to say that he simply fell off the cliff, <i lang=\\\"pi\\\">papatanto</i>, but the context seems to require something more deliberate. Perhaps it is just an idiom.
+#: </p><hr><p><a class="sc" id="106"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.13\\\" href=\\\"#Bu-Pj.3.5.13\\\">Bu-Pj.3.5.13</a><a class=\\\"ms-pa\\\" id=\\\"MS.481\\\" href=\\\"#MS.481\\\">MS.481</a>
+#: The Pali seem to say that he simply fell off the cliff, <i lang=\\\"pi\\\">papatanto</i>, but the context seems to require something more deliberate. Perhaps it is just an idiom.
 msgctxt "pi-tv-bu-vb-pj3:112.1"
 msgid "Tena kho pana samayena aññataro bhikkhu anabhiratiyā pīḷito gijjhakūṭaṃ pabbataṃ abhiruhitvā papāte papatanto"
 msgstr "On one occasion, a monk who was plagued by discontent climbed Mount Vulture Peak, jumped off the cliff,"
@@ -3459,7 +3545,7 @@ msgctxt "pi-tv-bu-vb-pj3:112.9"
 msgid "(31)"
 msgstr ""
 
-#. </p><p><a class="sc" id="107"></a><a class=\\\"ms-pa\\\" id=\\\"MS.482\\\" href=\\\"#MS.482\\\">MS.482</a>
+#: </p><hr><p><a class="sc" id="107"></a><a class=\\\"ms-pa\\\" id=\\\"MS.482\\\" href=\\\"#MS.482\\\">MS.482</a>
 msgctxt "pi-tv-bu-vb-pj3:113.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū gijjhakūṭaṃ pabbataṃ abhiruhitvā davāya silaṃ pavijjhiṃsu."
 msgstr "On one occasion, monks from the group of six climbed Mount Vulture Peak and threw down a stone for fun."
@@ -3472,7 +3558,7 @@ msgctxt "pi-tv-bu-vb-pj3:113.3"
 msgid "māresi."
 msgstr "and killed him."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.143\\\" href=\\\"#BD.1.143\\\">BD.1.143</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.143\\\" href=\\\"#BD.1.143\\\">BD.1.143</a>
 msgctxt "pi-tv-bu-vb-pj3:113.4"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became remorseful. …"
@@ -3497,7 +3583,7 @@ msgctxt "pi-tv-bu-vb-pj3:113.9"
 msgid "(32)"
 msgstr ""
 
-#. </p><p><a class="sc" id="108"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.14\\\" href=\\\"#Bu-Pj.3.5.14\\\">Bu-Pj.3.5.14</a><a class=\\\"ms-pa\\\" id=\\\"MS.483\\\" href=\\\"#MS.483\\\">MS.483</a>
+#: </p><hr><p><a class="sc" id="108"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.14\\\" href=\\\"#Bu-Pj.3.5.14\\\">Bu-Pj.3.5.14</a><a class=\\\"ms-pa\\\" id=\\\"MS.483\\\" href=\\\"#MS.483\\\">MS.483</a>
 msgctxt "pi-tv-bu-vb-pj3:114.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3522,7 +3608,7 @@ msgctxt "pi-tv-bu-vb-pj3:114.6"
 msgid "(33)"
 msgstr ""
 
-#. </p><p><a class="sc" id="109"></a><a class=\\\"ms-pa\\\" id=\\\"MS.484\\\" href=\\\"#MS.484\\\">MS.484</a>
+#: </p><hr><p><a class="sc" id="109"></a><a class=\\\"ms-pa\\\" id=\\\"MS.484\\\" href=\\\"#MS.484\\\">MS.484</a>
 msgctxt "pi-tv-bu-vb-pj3:115.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3555,7 +3641,7 @@ msgctxt "pi-tv-bu-vb-pj3:115.8"
 msgid "(34–‍35)"
 msgstr ""
 
-#. </p><p><a class="sc" id="110"></a><a class="pts-vp-pi" id="pts-vp-pi3.83"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.15\\\" href=\\\"#Bu-Pj.3.5.15\\\">Bu-Pj.3.5.15</a><a class=\\\"ms-pa\\\" id=\\\"MS.485\\\" href=\\\"#MS.485\\\">MS.485</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.83\\\" href=\\\"#Vin.3.83\\\">Vin 3.83</a>
+#: </p><hr><p><a class="sc" id="110"></a><a class="pts-vp-pi" id="pts-vp-pi3.83"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.15\\\" href=\\\"#Bu-Pj.3.5.15\\\">Bu-Pj.3.5.15</a><a class=\\\"ms-pa\\\" id=\\\"MS.485\\\" href=\\\"#MS.485\\\">MS.485</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.83\\\" href=\\\"#Vin.3.83\\\">Vin 3.83</a>
 msgctxt "pi-tv-bu-vb-pj3:116.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno sīsābhitāpo hoti."
 msgstr "On one occasion, a monk had a headache."
@@ -3580,7 +3666,7 @@ msgctxt "pi-tv-bu-vb-pj3:116.6"
 msgid "(36)"
 msgstr ""
 
-#. </p><p><a class="sc" id="111"></a><a class=\\\"ms-pa\\\" id=\\\"MS.486\\\" href=\\\"#MS.486\\\">MS.486</a>
+#: </p><hr><p><a class="sc" id="111"></a><a class=\\\"ms-pa\\\" id=\\\"MS.486\\\" href=\\\"#MS.486\\\">MS.486</a>
 msgctxt "pi-tv-bu-vb-pj3:117.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno sīsābhitāpo hoti."
 msgstr "On one occasion, a certain monk had a headache."
@@ -3613,7 +3699,7 @@ msgctxt "pi-tv-bu-vb-pj3:117.8"
 msgid "(37–‍38)"
 msgstr ""
 
-#. </p><p><a class="sc" id="112"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.16\\\" href=\\\"#Bu-Pj.3.5.16\\\">Bu-Pj.3.5.16</a><a class=\\\"ms-pa\\\" id=\\\"MS.487\\\" href=\\\"#MS.487\\\">MS.487</a>
+#: </p><hr><p><a class="sc" id="112"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.16\\\" href=\\\"#Bu-Pj.3.5.16\\\">Bu-Pj.3.5.16</a><a class=\\\"ms-pa\\\" id=\\\"MS.487\\\" href=\\\"#MS.487\\\">MS.487</a>
 msgctxt "pi-tv-bu-vb-pj3:118.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3638,7 +3724,7 @@ msgctxt "pi-tv-bu-vb-pj3:118.6"
 msgid "(39)"
 msgstr ""
 
-#. </p><p><a class="sc" id="113"></a><a class=\\\"ms-pa\\\" id=\\\"MS.488\\\" href=\\\"#MS.488\\\">MS.488</a>
+#: </p><hr><p><a class="sc" id="113"></a><a class=\\\"ms-pa\\\" id=\\\"MS.488\\\" href=\\\"#MS.488\\\">MS.488</a>
 msgctxt "pi-tv-bu-vb-pj3:119.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3671,7 +3757,7 @@ msgctxt "pi-tv-bu-vb-pj3:119.8"
 msgid "(40–‍41)"
 msgstr ""
 
-#. </p><p><a class="sc" id="114"></a><a class=\\\"ms-pa\\\" id=\\\"MS.489\\\" href=\\\"#MS.489\\\">MS.489</a>
+#: </p><hr><p><a class="sc" id="114"></a><a class=\\\"ms-pa\\\" id=\\\"MS.489\\\" href=\\\"#MS.489\\\">MS.489</a>
 msgctxt "pi-tv-bu-vb-pj3:120.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3696,7 +3782,7 @@ msgctxt "pi-tv-bu-vb-pj3:120.6"
 msgid "(42)"
 msgstr ""
 
-#. </p><p><a class="sc" id="115"></a><a class=\\\"ms-pa\\\" id=\\\"MS.490\\\" href=\\\"#MS.490\\\">MS.490</a>
+#: </p><hr><p><a class="sc" id="115"></a><a class=\\\"ms-pa\\\" id=\\\"MS.490\\\" href=\\\"#MS.490\\\">MS.490</a>
 msgctxt "pi-tv-bu-vb-pj3:121.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3729,7 +3815,7 @@ msgctxt "pi-tv-bu-vb-pj3:121.8"
 msgid "(43–‍44)"
 msgstr ""
 
-#. </p><p><a class="sc" id="116"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.144\\\" href=\\\"#BD.1.144\\\">BD.1.144</a><a class=\\\"ms-pa\\\" id=\\\"MS.491\\\" href=\\\"#MS.491\\\">MS.491</a>
+#: </p><hr><p><a class="sc" id="116"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.144\\\" href=\\\"#BD.1.144\\\">BD.1.144</a><a class=\\\"ms-pa\\\" id=\\\"MS.491\\\" href=\\\"#MS.491\\\">MS.491</a>
 msgctxt "pi-tv-bu-vb-pj3:122.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3754,7 +3840,7 @@ msgctxt "pi-tv-bu-vb-pj3:122.6"
 msgid "(45)"
 msgstr ""
 
-#. </p><p><a class="sc" id="117"></a><a class=\\\"ms-pa\\\" id=\\\"MS.492\\\" href=\\\"#MS.492\\\">MS.492</a>
+#: </p><hr><p><a class="sc" id="117"></a><a class=\\\"ms-pa\\\" id=\\\"MS.492\\\" href=\\\"#MS.492\\\">MS.492</a>
 msgctxt "pi-tv-bu-vb-pj3:123.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3787,7 +3873,7 @@ msgctxt "pi-tv-bu-vb-pj3:123.8"
 msgid "(46–‍47)"
 msgstr ""
 
-#. </p><p><a class="sc" id="118"></a><a class=\\\"ms-pa\\\" id=\\\"MS.493\\\" href=\\\"#MS.493\\\">MS.493</a>
+#: </p><hr><p><a class="sc" id="118"></a><a class=\\\"ms-pa\\\" id=\\\"MS.493\\\" href=\\\"#MS.493\\\">MS.493</a>
 msgctxt "pi-tv-bu-vb-pj3:124.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3812,7 +3898,7 @@ msgctxt "pi-tv-bu-vb-pj3:124.6"
 msgid "(48)"
 msgstr ""
 
-#. </p><p><a class="sc" id="119"></a><a class=\\\"ms-pa\\\" id=\\\"MS.494\\\" href=\\\"#MS.494\\\">MS.494</a>
+#: </p><hr><p><a class="sc" id="119"></a><a class=\\\"ms-pa\\\" id=\\\"MS.494\\\" href=\\\"#MS.494\\\">MS.494</a>
 msgctxt "pi-tv-bu-vb-pj3:125.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3845,7 +3931,7 @@ msgctxt "pi-tv-bu-vb-pj3:125.8"
 msgid "(49–‍50)"
 msgstr ""
 
-#. </p><p><a class="sc" id="120"></a><a class=\\\"ms-pa\\\" id=\\\"MS.495\\\" href=\\\"#MS.495\\\">MS.495</a>
+#: </p><hr><p><a class="sc" id="120"></a><a class=\\\"ms-pa\\\" id=\\\"MS.495\\\" href=\\\"#MS.495\\\">MS.495</a>
 msgctxt "pi-tv-bu-vb-pj3:126.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3870,7 +3956,7 @@ msgctxt "pi-tv-bu-vb-pj3:126.6"
 msgid "(51)"
 msgstr ""
 
-#. </p><p><a class="sc" id="121"></a><a class=\\\"ms-pa\\\" id=\\\"MS.496\\\" href=\\\"#MS.496\\\">MS.496</a>
+#: </p><hr><p><a class="sc" id="121"></a><a class=\\\"ms-pa\\\" id=\\\"MS.496\\\" href=\\\"#MS.496\\\">MS.496</a>
 msgctxt "pi-tv-bu-vb-pj3:127.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3903,7 +3989,7 @@ msgctxt "pi-tv-bu-vb-pj3:127.8"
 msgid "(52–‍53)"
 msgstr ""
 
-#. </p><p><a class="sc" id="122"></a><a class=\\\"ms-pa\\\" id=\\\"MS.497\\\" href=\\\"#MS.497\\\">MS.497</a>
+#: </p><hr><p><a class="sc" id="122"></a><a class=\\\"ms-pa\\\" id=\\\"MS.497\\\" href=\\\"#MS.497\\\">MS.497</a>
 msgctxt "pi-tv-bu-vb-pj3:128.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3928,7 +4014,7 @@ msgctxt "pi-tv-bu-vb-pj3:128.6"
 msgid "(54)"
 msgstr ""
 
-#. </p><p><a class="sc" id="123"></a><a class=\\\"ms-pa\\\" id=\\\"MS.498\\\" href=\\\"#MS.498\\\">MS.498</a>
+#: </p><hr><p><a class="sc" id="123"></a><a class=\\\"ms-pa\\\" id=\\\"MS.498\\\" href=\\\"#MS.498\\\">MS.498</a>
 msgctxt "pi-tv-bu-vb-pj3:129.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3961,7 +4047,7 @@ msgctxt "pi-tv-bu-vb-pj3:129.8"
 msgid "(55–‍56)"
 msgstr ""
 
-#. </p><p><a class="sc" id="124"></a><a class=\\\"ms-pa\\\" id=\\\"MS.499\\\" href=\\\"#MS.499\\\">MS.499</a>
+#: </p><hr><p><a class="sc" id="124"></a><a class=\\\"ms-pa\\\" id=\\\"MS.499\\\" href=\\\"#MS.499\\\">MS.499</a>
 msgctxt "pi-tv-bu-vb-pj3:130.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -3986,7 +4072,7 @@ msgctxt "pi-tv-bu-vb-pj3:130.6"
 msgid "(57)"
 msgstr ""
 
-#. </p><p><a class="sc" id="125"></a><a class=\\\"ms-pa\\\" id=\\\"MS.500\\\" href=\\\"#MS.500\\\">MS.500</a>
+#: </p><hr><p><a class="sc" id="125"></a><a class=\\\"ms-pa\\\" id=\\\"MS.500\\\" href=\\\"#MS.500\\\">MS.500</a>
 msgctxt "pi-tv-bu-vb-pj3:131.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "On one occasion, a certain monk was sick."
@@ -4019,7 +4105,7 @@ msgctxt "pi-tv-bu-vb-pj3:131.8"
 msgid "(58–‍59)"
 msgstr ""
 
-#. </p><p><a class="sc" id="126"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.17\\\" href=\\\"#Bu-Pj.3.5.17\\\">Bu-Pj.3.5.17</a><a class=\\\"ms-pa\\\" id=\\\"MS.501\\\" href=\\\"#MS.501\\\">MS.501</a>
+#: </p><hr><p><a class="sc" id="126"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.17\\\" href=\\\"#Bu-Pj.3.5.17\\\">Bu-Pj.3.5.17</a><a class=\\\"ms-pa\\\" id=\\\"MS.501\\\" href=\\\"#MS.501\\\">MS.501</a>
 msgctxt "pi-tv-bu-vb-pj3:132.1"
 msgid "Tena kho pana samayena aññatarā itthī pavutthapatikā jārena gabbhinī hoti."
 msgstr "At one time a woman whose husband was living away from home became pregnant by a lover."
@@ -4056,7 +4142,7 @@ msgctxt "pi-tv-bu-vb-pj3:132.9"
 msgid "(60)"
 msgstr ""
 
-#. </p><p><a class="sc" id="127"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.18\\\" href=\\\"#Bu-Pj.3.5.18\\\">Bu-Pj.3.5.18</a><a class=\\\"ms-pa\\\" id=\\\"MS.502\\\" href=\\\"#MS.502\\\">MS.502</a>
+#: </p><hr><p><a class="sc" id="127"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.18\\\" href=\\\"#Bu-Pj.3.5.18\\\">Bu-Pj.3.5.18</a><a class=\\\"ms-pa\\\" id=\\\"MS.502\\\" href=\\\"#MS.502\\\">MS.502</a>
 msgctxt "pi-tv-bu-vb-pj3:133.1"
 msgid "Tena kho pana samayena aññatarassa purisassa dve pajāpatiyo honti—"
 msgstr "At one time, there was a man had two wives,"
@@ -4105,7 +4191,7 @@ msgctxt "pi-tv-bu-vb-pj3:133.12"
 msgid "(61)"
 msgstr ""
 
-#. </p><p><a class="sc" id="128"></a><a class="pts-vp-pi" id="pts-vp-pi3.84"></a><a class=\\\"ms-pa\\\" id=\\\"MS.503\\\" href=\\\"#MS.503\\\">MS.503</a>
+#: </p><hr><p><a class="sc" id="128"></a><a class="pts-vp-pi" id="pts-vp-pi3.84"></a><a class=\\\"ms-pa\\\" id=\\\"MS.503\\\" href=\\\"#MS.503\\\">MS.503</a>
 msgctxt "pi-tv-bu-vb-pj3:134.1"
 msgid "Tena kho pana samayena aññatarassa purisassa dve pajāpatiyo honti—"
 msgstr "At one time, there was a man had two wives,"
@@ -4146,8 +4232,8 @@ msgctxt "pi-tv-bu-vb-pj3:134.10"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "The monk became remorseful …"
 
-#. <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.84\\\" href=\\\"#Vin.3.84\\\">Vin 3.84</a>
-#. It is not an offense entailing expulsion because he was aiming to kill the child, not the mother.
+#: <a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.84\\\" href=\\\"#Vin.3.84\\\">Vin 3.84</a>
+#: It is not an offense entailing expulsion because he was aiming to kill the child, not the mother.
 msgctxt "pi-tv-bu-vb-pj3:134.11"
 msgid "“anāpatti, bhikkhu, pārājikassa;"
 msgstr "“There’s no offense entailing expulsion,"
@@ -4160,7 +4246,7 @@ msgctxt "pi-tv-bu-vb-pj3:134.13"
 msgid "(62)"
 msgstr ""
 
-#. </p><p><a class="sc" id="129"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.145\\\" href=\\\"#BD.1.145\\\">BD.1.145</a><a class=\\\"ms-pa\\\" id=\\\"MS.504\\\" href=\\\"#MS.504\\\">MS.504</a>
+#: </p><hr><p><a class="sc" id="129"></a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.145\\\" href=\\\"#BD.1.145\\\">BD.1.145</a><a class=\\\"ms-pa\\\" id=\\\"MS.504\\\" href=\\\"#MS.504\\\">MS.504</a>
 msgctxt "pi-tv-bu-vb-pj3:135.1"
 msgid "Tena kho pana samayena aññatarassa purisassa dve pajāpatiyo honti—"
 msgstr "At one time, there was a man had two wives,"
@@ -4213,7 +4299,7 @@ msgctxt "pi-tv-bu-vb-pj3:135.13"
 msgid "(63–‍64)"
 msgstr ""
 
-#. </p><p><a class="sc" id="130"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.19\\\" href=\\\"#Bu-Pj.3.5.19\\\">Bu-Pj.3.5.19</a><a class=\\\"ms-pa\\\" id=\\\"MS.505\\\" href=\\\"#MS.505\\\">MS.505</a>
+#: </p><hr><p><a class="sc" id="130"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.19\\\" href=\\\"#Bu-Pj.3.5.19\\\">Bu-Pj.3.5.19</a><a class=\\\"ms-pa\\\" id=\\\"MS.505\\\" href=\\\"#MS.505\\\">MS.505</a>
 msgctxt "pi-tv-bu-vb-pj3:136.1"
 msgid "Tena kho pana samayena aññatarā gabbhinī itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a woman who was pregnant said to a monk who was supported by her family,"
@@ -4242,7 +4328,7 @@ msgctxt "pi-tv-bu-vb-pj3:136.7"
 msgid "(65)"
 msgstr ""
 
-#. </p><p><a class="sc" id="131"></a><a class=\\\"ms-pa\\\" id=\\\"MS.506\\\" href=\\\"#MS.506\\\">MS.506</a>
+#: </p><hr><p><a class="sc" id="131"></a><a class=\\\"ms-pa\\\" id=\\\"MS.506\\\" href=\\\"#MS.506\\\">MS.506</a>
 msgctxt "pi-tv-bu-vb-pj3:137.1"
 msgid "Tena kho pana samayena aññatarā gabbhinī itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a woman who was pregnant said to a monk who was supported by her family,"
@@ -4271,7 +4357,7 @@ msgctxt "pi-tv-bu-vb-pj3:137.7"
 msgid "(66)"
 msgstr ""
 
-#. </p><p><a class="sc" id="132"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.20\\\" href=\\\"#Bu-Pj.3.5.20\\\">Bu-Pj.3.5.20</a><a class=\\\"ms-pa\\\" id=\\\"MS.507\\\" href=\\\"#MS.507\\\">MS.507</a>
+#: </p><hr><p><a class="sc" id="132"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.20\\\" href=\\\"#Bu-Pj.3.5.20\\\">Bu-Pj.3.5.20</a><a class=\\\"ms-pa\\\" id=\\\"MS.507\\\" href=\\\"#MS.507\\\">MS.507</a>
 msgctxt "pi-tv-bu-vb-pj3:138.1"
 msgid "<span class=\\\"rule\\\">Tena kho pana samayena aññatarā vañjhā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "<span class=\\\"rule\\\">On one occasion, a barren woman said to a monk who was supported by her family,"
@@ -4308,7 +4394,7 @@ msgctxt "pi-tv-bu-vb-pj3:138.9"
 msgid "(67)"
 msgstr ""
 
-#. </p><p><a class="sc" id="133"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.21\\\" href=\\\"#Bu-Pj.3.5.21\\\">Bu-Pj.3.5.21</a><a class=\\\"ms-pa\\\" id=\\\"MS.508\\\" href=\\\"#MS.508\\\">MS.508</a>
+#: </p><hr><p><a class="sc" id="133"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.21\\\" href=\\\"#Bu-Pj.3.5.21\\\">Bu-Pj.3.5.21</a><a class=\\\"ms-pa\\\" id=\\\"MS.508\\\" href=\\\"#MS.508\\\">MS.508</a>
 msgctxt "pi-tv-bu-vb-pj3:139.1"
 msgid "<span class=\\\"rule\\\">Tena kho pana samayena aññatarā vijāyinī itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "<span class=\\\"rule\\\">On one occasion, a fertile woman said to a monk who was supported by her family,"
@@ -4341,13 +4427,13 @@ msgctxt "pi-tv-bu-vb-pj3:139.8"
 msgid "(68)"
 msgstr ""
 
-#. </p><p><a class="sc" id="134"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.22\\\" href=\\\"#Bu-Pj.3.5.22\\\">Bu-Pj.3.5.22</a><a class=\\\"ms-pa\\\" id=\\\"MS.509\\\" href=\\\"#MS.509\\\">MS.509</a>
+#: </p><hr><p><a class="sc" id="134"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.22\\\" href=\\\"#Bu-Pj.3.5.22\\\">Bu-Pj.3.5.22</a><a class=\\\"ms-pa\\\" id=\\\"MS.509\\\" href=\\\"#MS.509\\\">MS.509</a>
 msgctxt "pi-tv-bu-vb-pj3:140.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū satta­rasa­vaggi­yaṃ bhikkhuṃ aṅguli­patoda­kena hāsesuṃ."
 msgstr "On one occasion, monks from the group of six used their fingers to tickle a monk from the group of seventeen to make him laugh."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.146\\\" href=\\\"#BD.1.146\\\">BD.1.146</a>
-#. <span class=\\\"var\\\" title=\\\"uttasanto (bj, s1-3)\\\" id=\\\"note115\\\">uttanto</span>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.146\\\" href=\\\"#BD.1.146\\\">BD.1.146</a>
+#: <span class=\\\"var\\\" title=\\\"uttasanto (bj, s1-3)\\\" id=\\\"note115\\\">uttanto</span>
 msgctxt "pi-tv-bu-vb-pj3:140.2"
 msgid "So bhikkhu uttanto anassāsako kālamakāsi."
 msgstr "Being unable to breathe, he died."
@@ -4356,7 +4442,7 @@ msgctxt "pi-tv-bu-vb-pj3:140.3"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became remorseful …"
 
-#. <span class=\\\"var\\\" title=\\\"āpatti pācittiyassāti (s1-3)\\\" id=\\\"note116\\\">anāpatti, bhikkhave, pārājikassā”ti</span>
+#: <span class=\\\"var\\\" title=\\\"āpatti pācittiyassāti (s1-3)\\\" id=\\\"note116\\\">anāpatti, bhikkhave, pārājikassā”ti</span>
 msgctxt "pi-tv-bu-vb-pj3:140.4"
 msgid "“anāpatti, bhikkhave, pārājikassā”ti."
 msgstr "“There’s no offense entailing expulsion.”"
@@ -4365,8 +4451,8 @@ msgctxt "pi-tv-bu-vb-pj3:140.5"
 msgid "(69)"
 msgstr ""
 
-#. </p><p><a class="sc" id="135"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.23\\\" href=\\\"#Bu-Pj.3.5.23\\\">Bu-Pj.3.5.23</a><a class=\\\"ms-pa\\\" id=\\\"MS.510\\\" href=\\\"#MS.510\\\">MS.510</a>
-#. The text doesn’t say what the formal procedure, the <i lang=\\\"pi\\\">saṅghakamma</i>, was about, but it seems implied that it was against that monk. This is also the position of the subcommentary: “Aiming at a formal procedure: aiming at doing a formal procedure of censure, etc.” (<i lang=\\\"pi\\\">Kammādhippāyāti: tajjanīyādikammakaraṇādhippāyā</i>; <ref>Sp-ṭ.2.187</ref>.) The monks from the group of seventeen were in regular conflict with the monks from the group of six.
+#: </p><hr><p><a class="sc" id="135"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.23\\\" href=\\\"#Bu-Pj.3.5.23\\\">Bu-Pj.3.5.23</a><a class=\\\"ms-pa\\\" id=\\\"MS.510\\\" href=\\\"#MS.510\\\">MS.510</a>
+#: The text doesn’t say what the formal procedure, the <i lang=\\\"pi\\\">saṅghakamma</i>, was about, but it seems implied that it was against that monk. This is also the position of the subcommentary: “Aiming at a formal procedure: aiming at doing a formal procedure of censure, etc.” (<i lang=\\\"pi\\\">Kammādhippāyāti: tajjanīyādikammakaraṇādhippāyā</i>; <ref>Sp-ṭ.2.187</ref>.) The monks from the group of seventeen were in regular conflict with the monks from the group of six.
 msgctxt "pi-tv-bu-vb-pj3:141.1"
 msgid "Tena kho pana samayena satta­rasa­vaggiyā bhikkhū chabbaggiyaṃ bhikkhuṃ kammaṃ karissāmāti"
 msgstr "On one occasion, monks from the group of seventeen overpowered a monk from the group of six, thinking, “We’ll do a formal procedure against him.”"
@@ -4387,7 +4473,7 @@ msgctxt "pi-tv-bu-vb-pj3:141.5"
 msgid "(70)"
 msgstr ""
 
-#. </p><p><a class="sc" id="136"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.24\\\" href=\\\"#Bu-Pj.3.5.24\\\">Bu-Pj.3.5.24</a><a class=\\\"ms-pa\\\" id=\\\"MS.511\\\" href=\\\"#MS.511\\\">MS.511</a>
+#: </p><hr><p><a class="sc" id="136"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.24\\\" href=\\\"#Bu-Pj.3.5.24\\\">Bu-Pj.3.5.24</a><a class=\\\"ms-pa\\\" id=\\\"MS.511\\\" href=\\\"#MS.511\\\">MS.511</a>
 msgctxt "pi-tv-bu-vb-pj3:142.1"
 msgid "Tena kho pana samayena aññataro bhūtavejjako bhikkhu yakkhaṃ jīvitā voropesi."
 msgstr "On one occasion, a monk who was an exorcist killed a spirit."
@@ -4408,7 +4494,7 @@ msgctxt "pi-tv-bu-vb-pj3:142.5"
 msgid "(71)"
 msgstr ""
 
-#. </p><p><a class="sc" id="137"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.25\\\" href=\\\"#Bu-Pj.3.5.25\\\">Bu-Pj.3.5.25</a><a class=\\\"ms-pa\\\" id=\\\"MS.512\\\" href=\\\"#MS.512\\\">MS.512</a>
+#: </p><hr><p><a class="sc" id="137"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.25\\\" href=\\\"#Bu-Pj.3.5.25\\\">Bu-Pj.3.5.25</a><a class=\\\"ms-pa\\\" id=\\\"MS.512\\\" href=\\\"#MS.512\\\">MS.512</a>
 msgctxt "pi-tv-bu-vb-pj3:143.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññataraṃ bhikkhuṃ vāḷa­yak­kha­vihāraṃ pāhesi."
 msgstr "On one occasion, a monk sent a second monk to a dwelling inhabited by predatory spirits."
@@ -4429,12 +4515,12 @@ msgctxt "pi-tv-bu-vb-pj3:143.5"
 msgid "(72)"
 msgstr ""
 
-#. </p><p><a class="sc" id="138"></a><a class="pts-vp-pi" id="pts-vp-pi3.85"></a><a class=\\\"ms-pa\\\" id=\\\"MS.513\\\" href=\\\"#MS.513\\\">MS.513</a>
+#: </p><hr><p><a class="sc" id="138"></a><a class="pts-vp-pi" id="pts-vp-pi3.85"></a><a class=\\\"ms-pa\\\" id=\\\"MS.513\\\" href=\\\"#MS.513\\\">MS.513</a>
 msgctxt "pi-tv-bu-vb-pj3:144.1"
 msgid "Tena kho pana samayena aññataro bhikkhu maraṇādhippāyo aññataraṃ bhikkhuṃ vāḷa­yak­kha­vihāraṃ pāhesi."
 msgstr "On one occasion, a monk sent a second monk to a dwelling inhabited by predatory spirits, meaning to kill him."
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.147\\\" href=\\\"#BD.1.147\\\">BD.1.147</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.147\\\" href=\\\"#BD.1.147\\\">BD.1.147</a>
 msgctxt "pi-tv-bu-vb-pj3:144.2"
 msgid "Taṃ yakkhā jīvitā voropesuṃ … pe …"
 msgstr "The spirits killed him. …"
@@ -4459,7 +4545,7 @@ msgctxt "pi-tv-bu-vb-pj3:144.7"
 msgid "(73–‍74)"
 msgstr ""
 
-#. </p><p><a class="sc" id="139"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.26\\\" href=\\\"#Bu-Pj.3.5.26\\\">Bu-Pj.3.5.26</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.85\\\" href=\\\"#Vin.3.85\\\">Vin 3.85</a> <a class=\\\"ms-pa\\\" id=\\\"MS.514\\\" href=\\\"#MS.514\\\">MS.514</a>
+#: </p><hr><p><a class="sc" id="139"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.26\\\" href=\\\"#Bu-Pj.3.5.26\\\">Bu-Pj.3.5.26</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.85\\\" href=\\\"#Vin.3.85\\\">Vin 3.85</a> <a class=\\\"ms-pa\\\" id=\\\"MS.514\\\" href=\\\"#MS.514\\\">MS.514</a>
 msgctxt "pi-tv-bu-vb-pj3:145.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññataraṃ bhikkhuṃ vāḷakantāraṃ pāhesi."
 msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by wild animals."
@@ -4480,7 +4566,7 @@ msgctxt "pi-tv-bu-vb-pj3:145.5"
 msgid "(75)"
 msgstr ""
 
-#. </p><p><a class="sc" id="140"></a><a class=\\\"ms-pa\\\" id=\\\"MS.515\\\" href=\\\"#MS.515\\\">MS.515</a>
+#: </p><hr><p><a class="sc" id="140"></a><a class=\\\"ms-pa\\\" id=\\\"MS.515\\\" href=\\\"#MS.515\\\">MS.515</a>
 msgctxt "pi-tv-bu-vb-pj3:146.1"
 msgid "Tena kho pana samayena aññataro bhikkhu maraṇādhippāyo aññataraṃ bhikkhuṃ vāḷakantāraṃ pāhesi."
 msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by wild animals, meaning to kill him."
@@ -4509,7 +4595,7 @@ msgctxt "pi-tv-bu-vb-pj3:146.7"
 msgid "(76–‍77)"
 msgstr ""
 
-#. </p><p><a class="sc" id="141"></a><a class=\\\"ms-pa\\\" id=\\\"MS.516\\\" href=\\\"#MS.516\\\">MS.516</a>
+#: </p><hr><p><a class="sc" id="141"></a><a class=\\\"ms-pa\\\" id=\\\"MS.516\\\" href=\\\"#MS.516\\\">MS.516</a>
 msgctxt "pi-tv-bu-vb-pj3:147.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññataraṃ bhikkhuṃ corakantāraṃ pāhesi."
 msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by criminals."
@@ -4530,7 +4616,7 @@ msgctxt "pi-tv-bu-vb-pj3:147.5"
 msgid "(78)"
 msgstr ""
 
-#. </p><p><a class="sc" id="142"></a><a class=\\\"ms-pa\\\" id=\\\"MS.517\\\" href=\\\"#MS.517\\\">MS.517</a>
+#: </p><hr><p><a class="sc" id="142"></a><a class=\\\"ms-pa\\\" id=\\\"MS.517\\\" href=\\\"#MS.517\\\">MS.517</a>
 msgctxt "pi-tv-bu-vb-pj3:148.1"
 msgid "Tena kho pana samayena aññataro bhikkhu maraṇādhippāyo aññataraṃ bhikkhuṃ corakantāraṃ pāhesi."
 msgstr "On one occasion, a monk sent a second monk to a wilderness inhabited by criminals, meaning to kill him."
@@ -4559,7 +4645,7 @@ msgctxt "pi-tv-bu-vb-pj3:148.7"
 msgid "(79–‍80)"
 msgstr ""
 
-#. </p><p><a class="sc" id="143"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.27\\\" href=\\\"#Bu-Pj.3.5.27\\\">Bu-Pj.3.5.27</a><a class=\\\"ms-pa\\\" id=\\\"MS.518\\\" href=\\\"#MS.518\\\">MS.518</a>
+#: </p><hr><p><a class="sc" id="143"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.27\\\" href=\\\"#Bu-Pj.3.5.27\\\">Bu-Pj.3.5.27</a><a class=\\\"ms-pa\\\" id=\\\"MS.518\\\" href=\\\"#MS.518\\\">MS.518</a>
 msgctxt "pi-tv-bu-vb-pj3:149.1"
 msgid "Tena kho pana samayena aññataro bhikkhu taṃ maññamāno taṃ jīvitā voropesi … pe …"
 msgstr "On one occasion, a monk killed a particular person, perceiving him as that person …"
@@ -4588,7 +4674,7 @@ msgctxt "pi-tv-bu-vb-pj3:149.7"
 msgid "(81–‍84)"
 msgstr ""
 
-#. </p><p><a class="sc" id="144"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.28\\\" href=\\\"#Bu-Pj.3.5.28\\\">Bu-Pj.3.5.28</a><a class=\\\"ms-pa\\\" id=\\\"MS.519\\\" href=\\\"#MS.519\\\">MS.519</a>
+#: </p><hr><p><a class="sc" id="144"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.28\\\" href=\\\"#Bu-Pj.3.5.28\\\">Bu-Pj.3.5.28</a><a class=\\\"ms-pa\\\" id=\\\"MS.519\\\" href=\\\"#MS.519\\\">MS.519</a>
 msgctxt "pi-tv-bu-vb-pj3:150.1"
 msgid "Tena kho pana samayena aññataro bhikkhu amanussena gahito hoti."
 msgstr "At one time a monk was possessed by a spirit."
@@ -4613,7 +4699,7 @@ msgctxt "pi-tv-bu-vb-pj3:150.6"
 msgid "(85)"
 msgstr ""
 
-#. </p><p><a class="sc" id="145"></a><a class=\\\"ms-pa\\\" id=\\\"MS.520\\\" href=\\\"#MS.520\\\">MS.520</a>
+#: </p><hr><p><a class="sc" id="145"></a><a class=\\\"ms-pa\\\" id=\\\"MS.520\\\" href=\\\"#MS.520\\\">MS.520</a>
 msgctxt "pi-tv-bu-vb-pj3:151.1"
 msgid "Tena kho pana samayena aññataro bhikkhu amanussena gahito hoti."
 msgstr "At one time a monk was possessed by a spirit."
@@ -4646,7 +4732,7 @@ msgctxt "pi-tv-bu-vb-pj3:151.8"
 msgid "(86–‍87)"
 msgstr ""
 
-#. </p><p><a class="sc" id="146"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.29\\\" href=\\\"#Bu-Pj.3.5.29\\\">Bu-Pj.3.5.29</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.148\\\" href=\\\"#BD.1.148\\\">BD.1.148</a><a class=\\\"ms-pa\\\" id=\\\"MS.521\\\" href=\\\"#MS.521\\\">MS.521</a>
+#: </p><hr><p><a class="sc" id="146"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.29\\\" href=\\\"#Bu-Pj.3.5.29\\\">Bu-Pj.3.5.29</a><a class=\\\"pts-vp-en\\\" id=\\\"BD.1.148\\\" href=\\\"#BD.1.148\\\">BD.1.148</a><a class=\\\"ms-pa\\\" id=\\\"MS.521\\\" href=\\\"#MS.521\\\">MS.521</a>
 msgctxt "pi-tv-bu-vb-pj3:152.1"
 msgid "Tena kho pana samayena aññataro bhikkhu kal­yāṇa­kammassa saggakathaṃ kathesi."
 msgstr "On one occasion, a monk gave a talk about heaven to a man of good behavior."
@@ -4667,7 +4753,7 @@ msgctxt "pi-tv-bu-vb-pj3:152.5"
 msgid "(88)"
 msgstr ""
 
-#. </p><p><a class="sc" id="147"></a><a class=\\\"ms-pa\\\" id=\\\"MS.522\\\" href=\\\"#MS.522\\\">MS.522</a>
+#: </p><hr><p><a class="sc" id="147"></a><a class=\\\"ms-pa\\\" id=\\\"MS.522\\\" href=\\\"#MS.522\\\">MS.522</a>
 msgctxt "pi-tv-bu-vb-pj3:153.1"
 msgid "Tena kho pana samayena aññataro bhikkhu maraṇādhippāyo kal­yāṇa­kammassa saggakathaṃ kathesi."
 msgstr "On one occasion, a monk gave a talk about heaven to a man of good behavior, meaning to kill him."
@@ -4696,7 +4782,7 @@ msgctxt "pi-tv-bu-vb-pj3:153.7"
 msgid "(89–‍90)"
 msgstr ""
 
-#. </p><p><a class="sc" id="148"></a><a class=\\\"ms-pa\\\" id=\\\"MS.523\\\" href=\\\"#MS.523\\\">MS.523</a>
+#: </p><hr><p><a class="sc" id="148"></a><a class=\\\"ms-pa\\\" id=\\\"MS.523\\\" href=\\\"#MS.523\\\">MS.523</a>
 msgctxt "pi-tv-bu-vb-pj3:154.1"
 msgid "Tena kho pana samayena aññataro bhikkhu nerayikassa nirayakathaṃ kathesi."
 msgstr "On one occasion, a monk gave a talk about hell to a man bound for hell."
@@ -4717,7 +4803,7 @@ msgctxt "pi-tv-bu-vb-pj3:154.5"
 msgid "(91)"
 msgstr ""
 
-#. </p><p><a class="sc" id="149"></a><a class=\\\"ms-pa\\\" id=\\\"MS.524\\\" href=\\\"#MS.524\\\">MS.524</a>
+#: </p><hr><p><a class="sc" id="149"></a><a class=\\\"ms-pa\\\" id=\\\"MS.524\\\" href=\\\"#MS.524\\\">MS.524</a>
 msgctxt "pi-tv-bu-vb-pj3:155.1"
 msgid "Tena kho pana samayena aññataro bhikkhu maraṇādhippāyo nerayikassa nirayakathaṃ kathesi."
 msgstr "On one occasion, a monk gave a talk about hell to a man bound for hell, meaning to kill him."
@@ -4746,7 +4832,7 @@ msgctxt "pi-tv-bu-vb-pj3:155.7"
 msgid "(92–‍93)"
 msgstr ""
 
-#. </p><p><a class="sc" id="150"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.30\\\" href=\\\"#Bu-Pj.3.5.30\\\">Bu-Pj.3.5.30</a><a class=\\\"ms-pa\\\" id=\\\"MS.525\\\" href=\\\"#MS.525\\\">MS.525</a>
+#: </p><hr><p><a class="sc" id="150"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.30\\\" href=\\\"#Bu-Pj.3.5.30\\\">Bu-Pj.3.5.30</a><a class=\\\"ms-pa\\\" id=\\\"MS.525\\\" href=\\\"#MS.525\\\">MS.525</a>
 msgctxt "pi-tv-bu-vb-pj3:156.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karontā rukkhaṃ chindanti."
 msgstr "On one occasion, the monks of Āḷavī, while doing building work, felled a tree."
@@ -4783,7 +4869,7 @@ msgctxt "pi-tv-bu-vb-pj3:156.9"
 msgid "(94)"
 msgstr ""
 
-#. </p><p><a class="sc" id="151"></a><a class=\\\"ms-pa\\\" id=\\\"MS.526\\\" href=\\\"#MS.526\\\">MS.526</a>
+#: </p><hr><p><a class="sc" id="151"></a><a class=\\\"ms-pa\\\" id=\\\"MS.526\\\" href=\\\"#MS.526\\\">MS.526</a>
 msgctxt "pi-tv-bu-vb-pj3:157.1"
 msgid "Tena kho pana samayena āḷavakā bhikkhū navakammaṃ karontā rukkhaṃ chindanti."
 msgstr "On one occasion, the monks of Āḷavī, while doing building work, felled a tree."
@@ -4824,8 +4910,8 @@ msgctxt "pi-tv-bu-vb-pj3:157.10"
 msgid "(95–‍96)"
 msgstr ""
 
-#. </p><p><a class="sc" id="152"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.31\\\" href=\\\"#Bu-Pj.3.5.31\\\">Bu-Pj.3.5.31</a><a class=\\\"ms-pa\\\" id=\\\"MS.527\\\" href=\\\"#MS.527\\\">MS.527</a>
-#. <span class=\\\"var\\\" title=\\\"āḷimpesuṃ (mr)\\\" id=\\\"note117\\\">ālimpesuṃ</span>
+#: </p><hr><p><a class="sc" id="152"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.31\\\" href=\\\"#Bu-Pj.3.5.31\\\">Bu-Pj.3.5.31</a><a class=\\\"ms-pa\\\" id=\\\"MS.527\\\" href=\\\"#MS.527\\\">MS.527</a>
+#: <span class=\\\"var\\\" title=\\\"āḷimpesuṃ (mr)\\\" id=\\\"note117\\\">ālimpesuṃ</span>
 msgctxt "pi-tv-bu-vb-pj3:158.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū dāyaṃ ālimpesuṃ;"
 msgstr "On one occasion, monks from the group of six set fire to a forest grove."
@@ -4846,7 +4932,7 @@ msgctxt "pi-tv-bu-vb-pj3:158.5"
 msgid "(97)"
 msgstr ""
 
-#. </p><p><a class="sc" id="153"></a><a class=\\\"ms-pa\\\" id=\\\"MS.528\\\" href=\\\"#MS.528\\\">MS.528</a>
+#: </p><hr><p><a class="sc" id="153"></a><a class=\\\"ms-pa\\\" id=\\\"MS.528\\\" href=\\\"#MS.528\\\">MS.528</a>
 msgctxt "pi-tv-bu-vb-pj3:159.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū maraṇādhippāyā dāyaṃ ālimpesuṃ."
 msgstr "On one occasion, monks from the group of six, meaning to cause death, set fire to a forest grove."
@@ -4875,7 +4961,7 @@ msgctxt "pi-tv-bu-vb-pj3:159.7"
 msgid "(98–‍99)"
 msgstr ""
 
-#. </p><p><a class="sc" id="154"></a><a class="pts-vp-pi" id="pts-vp-pi3.86"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.32\\\" href=\\\"#Bu-Pj.3.5.32\\\">Bu-Pj.3.5.32</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.86\\\" href=\\\"#Vin.3.86\\\">Vin 3.86</a> <a class=\\\"ms-pa\\\" id=\\\"MS.529\\\" href=\\\"#MS.529\\\">MS.529</a>
+#: </p><hr><p><a class="sc" id="154"></a><a class="pts-vp-pi" id="pts-vp-pi3.86"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.32\\\" href=\\\"#Bu-Pj.3.5.32\\\">Bu-Pj.3.5.32</a><a class=\\\"pts-vp-pi\\\" id=\\\"pts-vp-pi3.86\\\" href=\\\"#Vin.3.86\\\">Vin 3.86</a> <a class=\\\"ms-pa\\\" id=\\\"MS.529\\\" href=\\\"#MS.529\\\">MS.529</a>
 msgctxt "pi-tv-bu-vb-pj3:160.1"
 msgid "Tena kho pana samayena aññataro bhikkhu āghātanaṃ gantvā coraghātaṃ etadavoca—"
 msgstr "On one occasion, a monk went to a place of execution and said to the executioner,"
@@ -4908,7 +4994,7 @@ msgctxt "pi-tv-bu-vb-pj3:160.8"
 msgid "(100)"
 msgstr ""
 
-#. </p><p><a class="sc" id="155"></a><a class=\\\"ms-pa\\\" id=\\\"MS.530\\\" href=\\\"#MS.530\\\">MS.530</a>
+#: </p><hr><p><a class="sc" id="155"></a><a class=\\\"ms-pa\\\" id=\\\"MS.530\\\" href=\\\"#MS.530\\\">MS.530</a>
 msgctxt "pi-tv-bu-vb-pj3:161.1"
 msgid "Tena kho pana samayena aññataro bhikkhu āghātanaṃ gantvā coraghātaṃ etadavoca—"
 msgstr "On one occasion, a monk went to a place of execution and said to the executioner,"
@@ -4945,7 +5031,7 @@ msgctxt "pi-tv-bu-vb-pj3:161.9"
 msgid "(101)"
 msgstr ""
 
-#. </p><p><a class="sc" id="156"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.33\\\" href=\\\"#Bu-Pj.3.5.33\\\">Bu-Pj.3.5.33</a><a class=\\\"ms-pa\\\" id=\\\"MS.531\\\" href=\\\"#MS.531\\\">MS.531</a>
+#: </p><hr><p><a class="sc" id="156"></a><a class=\\\"pts-cs\\\" id=\\\"Bu-Pj.3.5.33\\\" href=\\\"#Bu-Pj.3.5.33\\\">Bu-Pj.3.5.33</a><a class=\\\"ms-pa\\\" id=\\\"MS.531\\\" href=\\\"#MS.531\\\">MS.531</a>
 msgctxt "pi-tv-bu-vb-pj3:162.1"
 msgid "Tena kho pana samayena aññataro puriso ñātighare ­hattha­pādac­chinno ñātakehi samparikiṇṇo hoti."
 msgstr "On one occasion, a man whose hands and feet had been cut off was in his relatives’ house surrounded by his relations."
@@ -4958,14 +5044,17 @@ msgctxt "pi-tv-bu-vb-pj3:162.3"
 msgid "“āvuso, icchatha imassa maraṇan”ti?"
 msgstr "“Would you like him to die?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:162.4"
 msgid "“Āma, bhante, icchāmā”ti."
 msgstr "“Yes, Venerable.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:162.5"
 msgid "“Tena hi takkaṃ pāyethā”ti."
 msgstr "“Then you should give him buttermilk.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:162.6"
 msgid "Te taṃ takkaṃ pāyesuṃ."
 msgstr "They gave him buttermilk"
@@ -4986,7 +5075,7 @@ msgctxt "pi-tv-bu-vb-pj3:162.10"
 msgid "(102)"
 msgstr ""
 
-#. </p><p><a class="sc" id="157"></a><a class=\\\"ms-pa\\\" id=\\\"MS.532\\\" href=\\\"#MS.532\\\">MS.532</a>
+#: </p><hr><p><a class="sc" id="157"></a><a class=\\\"ms-pa\\\" id=\\\"MS.532\\\" href=\\\"#MS.532\\\">MS.532</a>
 msgctxt "pi-tv-bu-vb-pj3:163.1"
 msgid "<span class=\\\"bhikkhuni\\\">Tena kho pana samayena aññataro puriso kulaghare ­hattha­pādac­chinno ñātakehi samparikiṇṇo hoti."
 msgstr "<span class=\\\"bhikkhuni\\\">On one occasion, a man whose hands and feet had been cut off was in his family’s house, surrounded by his relations."
@@ -4999,14 +5088,17 @@ msgctxt "pi-tv-bu-vb-pj3:163.3"
 msgid "“āvuso, icchatha imassa maraṇan”ti?"
 msgstr "“Would you like him to die?”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:163.4"
 msgid "“Āmāyye, icchāmā”ti."
 msgstr "“Yes, Venerable.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:163.5"
 msgid "“Tena hi loṇasovīrakaṃ pāyethā”ti."
 msgstr "“Then you should give him salty medicine.”"
 
+#: </p><p>
 msgctxt "pi-tv-bu-vb-pj3:163.6"
 msgid "Te taṃ loṇasovīrakaṃ pāyesuṃ."
 msgstr "They gave him salty medicine"
@@ -5019,7 +5111,7 @@ msgctxt "pi-tv-bu-vb-pj3:163.8"
 msgid "Tassā kukkuccaṃ ahosi … pe …."
 msgstr "The nun became remorseful. …"
 
-#. <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.150\\\" href=\\\"#BD.1.150\\\">BD.1.150</a>
+#: <a class=\\\"pts-vp-en\\\" id=\\\"BD.1.150\\\" href=\\\"#BD.1.150\\\">BD.1.150</a>
 msgctxt "pi-tv-bu-vb-pj3:163.9"
 msgid "Atha kho sā bhikkhunī bhikkhunīnaṃ etamatthaṃ ārocesi."
 msgstr "She then informed the nuns,"
@@ -5033,14 +5125,14 @@ msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ."
 msgstr "who then informed the Master."
 
 msgctxt "pi-tv-bu-vb-pj3:163.12"
-msgid "“Āpattiṃ sā, bhikkhave, bhikkhunī āpannā pārājikan”ti.</span>"
-msgstr "He said, “Monks, that nun has committed an offense entailing expulsion.”</span>"
+msgid "“Āpattiṃ sā, bhikkhave, bhikkhunī āpannā pārājikan”ti."
+msgstr "He said, “Monks, that nun has committed an offense entailing expulsion.”"
 
 msgctxt "pi-tv-bu-vb-pj3:163.13"
 msgid "(103)"
 msgstr ""
 
-#. </p><p class="endsutta"><a class="sc" id="158"></a><a class=\\\"ms-pa\\\" id=\\\"MS.533\\\" href=\\\"#MS.533\\\">MS.533</a>
+#: </p><hr><p class="endsutta"><a class="sc" id="158"></a><a class=\\\"ms-pa\\\" id=\\\"MS.533\\\" href=\\\"#MS.533\\\">MS.533</a>
 msgctxt "pi-tv-bu-vb-pj3:164.1"
 msgid "Tatiya­pā­rāji­kaṃ samattaṃ."
 msgstr "The third offense entailing expulsion is finished."
