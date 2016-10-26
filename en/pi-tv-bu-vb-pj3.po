@@ -2529,7 +2529,7 @@ msgid "3.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings"
 
 #. </h2><div class="uddana"><h5>
-msgctxt "pi-tv-bu-vb-pj2:80.2"
+msgctxt "pi-tv-bu-vb-pj3:80.2"
 msgid ""
 msgstr "Mnemonic list"
 
