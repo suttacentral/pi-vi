@@ -622,12 +622,12 @@ msgstr "“For what amount of theft does King Bimbisāra beat, imprison, or bani
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:19.4"
 msgid "“Pādena vā, bhagavā, pādārahena vā”ti."
-msgstr "“For a <i lang=\\\"pi\\\">pāda</i> coin, Master, for the worth of a <i lang=\\\"pi\\\">pāda</i>, or for more than a <i lang=\\\"pi\\\">pāda</i>.”"
+msgstr "“For a <i lang=\"pi\">pāda</i> coin, Master, for the worth of a <i lang=\"pi\">pāda</i>, or for more than a <i lang=\"pi\">pāda</i>.”"
 
 #. <a class="pts-vp-en" id="bd.1.72" href="#bd.1.72"></a> 
 msgctxt "pi-tv-bu-vb-pj2:19.5"
 msgid "Tena kho pana samayena rājagahe pañcamāsako pādo hoti."
-msgstr "At that time in Rājagaha a <i lang=\\\"pi\\\">pāda</i> coin was worth five <i lang=\\\"pi\\\">māsaka</i> coins."
+msgstr "At that time in Rājagaha a <i lang=\"pi\">pāda</i> coin was worth five <i lang=\"pi\">māsaka</i> coins."
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:19.6"
@@ -965,7 +965,7 @@ msgstr "The sort:"
 #. <span class="gloss">
 msgctxt "pi-tv-bu-vb-pj2:32.2"
 msgid "pādaṃ vā pādārahaṃ vā atirekapādaṃ vā."
-msgstr "a <i lang=\\\"pi\\\">pāda</i> coin, the worth of a <i lang=\\\"pi\\\">pāda</i>, or more than a <i lang=\\\"pi\\\">pāda</i>."
+msgstr "a <i lang=\"pi\">pāda</i> coin, the worth of a <i lang=\"pi\">pāda</i>, or more than a <i lang=\"pi\">pāda</i>."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="pts-vp-pi" id="pts-vp-pi3.47" href="#Vin.3.47"></a> <a class="ms-pa" id="ms.219" href="#ms.219"></a> 
@@ -995,7 +995,7 @@ msgstr "A thief:"
 #. <span class="gloss">
 msgctxt "pi-tv-bu-vb-pj2:34.2"
 msgid "yo pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ adinnaṃ they­ya­saṅ­khā­taṃ ādiyati."
-msgstr "whoever, intending to steal, takes anything having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsaka</i> coins that has not been given—"
+msgstr "whoever, intending to steal, takes anything having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsaka</i> coins that has not been given—"
 
 msgctxt "pi-tv-bu-vb-pj2:34.3"
 msgid "Eso coro nāma."
@@ -1104,7 +1104,7 @@ msgstr "just as a fallen, withered leaf is incapable of becoming green again,"
 
 msgctxt "pi-tv-bu-vb-pj2:42.3"
 msgid "evameva bhikkhu pādaṃ vā pādārahaṃ vā atirekapādaṃ vā adinnaṃ they­ya­saṅ­khā­taṃ ādiyitvā assamaṇo hoti asakyaputtiyo."
-msgstr " so too a monk who, intending to steal, takes a <i lang=\\\"pi\\\">pāda</i> coin, the worth of a <i lang=\\\"pi\\\">pāda</i>, or more than a <i lang=\\\"pi\\\">pāda</i> that had not been given to him, is not an ascetic, not a son of the Sakyan—"
+msgstr " so too a monk who, intending to steal, takes a <i lang=\"pi\">pāda</i> coin, the worth of a <i lang=\"pi\">pāda</i>, or more than a <i lang=\"pi\">pāda</i> that had not been given to him, is not an ascetic, not a son of the Sakyan—"
 
 msgctxt "pi-tv-bu-vb-pj2:42.4"
 msgid "Tena vuccati—"
@@ -1230,7 +1230,7 @@ msgstr "If he makes it move from its base, he commits an offense entailing expul
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:45.14"
 msgid "Attano bhājanaṃ pavesetvā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he puts his own vessel into the container and touches something worth five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he puts his own vessel into the container and touches something worth five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:45.15"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -1265,7 +1265,7 @@ msgstr "If he removes the goods even as much as a hair’s breadth over the rim 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:45.22"
 msgid "Sappiṃ vā telaṃ vā madhuṃ vā phāṇitaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto ekena payogena pivati, āpatti pārājikassa."
-msgstr "If, intending to steal, he drinks—in a single action—ghee, oil, honey, or molasses having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense entailing expulsion."
+msgstr "If, intending to steal, he drinks—in a single action—ghee, oil, honey, or molasses having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense entailing expulsion."
 
 msgctxt "pi-tv-bu-vb-pj2:45.23"
 msgid "Tattheva bhindati vā"
@@ -1460,7 +1460,7 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:49.10"
 msgid "Tattha jātakaṃ uppalaṃ vā padumaṃ vā puṇḍarīkaṃ vā bhisaṃ vā macchaṃ vā kacchapaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches either a blue, red, or white lotus growing there, or the sprout of a lotus, or a fish, or a turtle having a value of five <i lang=\\\"pi\\\">māsakas</i> or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches either a blue, red, or white lotus growing there, or the sprout of a lotus, or a fish, or a turtle having a value of five <i lang=\"pi\">māsakas</i> or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:49.11"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -1746,7 +1746,7 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:53.12"
 msgid "Tattha jātakaṃ mūlaṃ vā tacaṃ vā pattaṃ vā pupphaṃ vā phalaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches something growing there—a root, a piece of bark, a leaf, a flower, or a fruit—having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches something growing there—a root, a piece of bark, a leaf, a flower, or a fruit—having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:53.13"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -1896,7 +1896,7 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:55.12"
 msgid "Tattha jātakaṃ pubbaṇṇaṃ vā aparaṇṇaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches grain or vegetables that grow there, having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches grain or vegetables that grow there, having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:55.13"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2125,7 +2125,7 @@ msgstr "If he moves them from their base, he commits an offense entailing expuls
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:58.12"
 msgid "Tattha jātakaṃ kaṭṭhaṃ vā lataṃ vā tiṇaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches something that belongs there—a piece of wood, a creeper, or grass—having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches something that belongs there—a piece of wood, a creeper, or grass—having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:58.13"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2164,7 +2164,7 @@ msgstr "If he moves it from its base, he commits an offense entailing expulsion.
 #. <span class="note" hidden>The Pali text just says “into,” and I have added “the container holding the water” for clarity.</span> 
 msgctxt "pi-tv-bu-vb-pj2:59.6"
 msgid "Attano bhājanaṃ pavesetvā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ udakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he puts his own vessel into the container holding the water, and he touches water having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he puts his own vessel into the container holding the water, and he touches water having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:59.7"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2181,15 +2181,15 @@ msgstr "If he breaks the embankment, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:59.10"
 msgid "Mariyādaṃ bhinditvā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ udakaṃ nikkhāmeti, āpatti pārājikassa."
-msgstr "If, after breaking the embankment, he allows water to escape that has a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense entailing expulsion."
+msgstr "If, after breaking the embankment, he allows water to escape that has a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense entailing expulsion."
 
 msgctxt "pi-tv-bu-vb-pj2:59.11"
 msgid "Atirekamāsakaṃ vā ūnapañ­ca­māsakaṃ vā agghanakaṃ udakaṃ nikkhāmeti, āpatti thullaccayassa."
-msgstr "If he allows water to escape that has a value of more than one <i lang=\\\"pi\\\">māsaka</i> but less than five <i lang=\\\"pi\\\">māsakas</i>, he commits a serious offense."
+msgstr "If he allows water to escape that has a value of more than one <i lang=\"pi\">māsaka</i> but less than five <i lang=\"pi\">māsakas</i>, he commits a serious offense."
 
 msgctxt "pi-tv-bu-vb-pj2:59.12"
 msgid "Māsakaṃ vā ūnamāsakaṃ vā agghanakaṃ udakaṃ nikkhāmeti, āpatti dukkaṭassa."
-msgstr "If he allows water to escape that has a value of a <i lang=\\\"pi\\\">māsaka</i> or less than a <i lang=\\\"pi\\\">māsaka</i>, he commits an offense of wrong conduct."
+msgstr "If he allows water to escape that has a value of a <i lang=\"pi\">māsaka</i> or less than a <i lang=\"pi\">māsaka</i>, he commits an offense of wrong conduct."
 
 #. </p><p><a class="sc" id="56"></a><a class="pts-cs" id="Bu-Pj.2.4.17" href="#Bu-Pj.2.4.17"></a><a class="ms-pa" id="ms.246" href="#ms.246"></a> 
 #. <strong class="term">
@@ -2206,7 +2206,7 @@ msgstr "either ready for use or not."
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:60.3"
 msgid "Pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches what has a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches what has a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:60.4"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2282,7 +2282,7 @@ msgstr "If he thinks, “I’ll take the fallen goods,” and he makes them fall
 
 msgctxt "pi-tv-bu-vb-pj2:62.9"
 msgid "Patitaṃ bhaṇḍaṃ pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches fallen goods having a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches fallen goods having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:62.10"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2347,7 +2347,7 @@ msgstr "so that tax can be collected from a person passing through."
 #. <span class="note" hidden>Although not explicitly stated in the Pali, the commentary, <span class="ref">Sp.2.358.29</span>, confirms that the value meant is the tax value: “Goods having a value to the king means: goods having a worth to the king. The meaning is: the goods because of which tax having a value of five <i lang="pi">māsakas</i> or more is to be given to the king.” (<i lang="pi">Rājaggaṃ bhaṇḍanti: rājārahaṃ bhaṇḍaṃ; yato rañño pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ suṅkaṃ dātabbaṃ hoti, taṃ bhaṇḍanti attho</i>.)</span> 
 msgctxt "pi-tv-bu-vb-pj2:64.4"
 msgid "Tatra pavisitvā rājaggaṃ bhaṇḍaṃ pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal and having entered the customs station, he touches goods that have a tax value to the king of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal and having entered the customs station, he touches goods that have a tax value to the king of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:64.5"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2421,7 +2421,7 @@ msgstr "snakes and fish."
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:66.3"
 msgid "Pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches what has a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches what has a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:66.4"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2523,7 +2523,7 @@ msgstr "scorpions, centipedes, caterpillars."
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:69.3"
 msgid "Pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches what has a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches what has a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:69.4"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2582,7 +2582,7 @@ msgstr "a monk who guards goods that have been brought to him."
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:71.3"
 msgid "pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches what has a value of five <i lang=\\\"pi\\\">māsaka</i> coins or more than five <i lang=\\\"pi\\\">māsakas</i>, he commits an offense of wrong conduct."
+msgstr "If, intending to steal, he touches what has a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:71.4"
 msgid "Phandāpeti, āpatti thullaccayassa."
@@ -2959,7 +2959,7 @@ msgstr "he perceives it as such;"
 
 msgctxt "pi-tv-bu-vb-pj2:85.5"
 msgid "garuko ca hoti parikkhāro, pañcamāsako vā ati­reka­pañca­māsako vā, theyyacittañca paccupaṭṭhitaṃ hoti."
-msgstr "it is a valuable possession worth at least five <i lang=\\\"pi\\\">māsaka</i> coins;"
+msgstr "it is a valuable possession worth at least five <i lang=\"pi\">māsaka</i> coins;"
 
 msgctxt "pi-tv-bu-vb-pj2:85.6"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -2993,7 +2993,7 @@ msgstr "he perceives it as such;"
 #. <a class="pts-vp-en" id="bd.1.91" href="#bd.1.91"></a> 
 msgctxt "pi-tv-bu-vb-pj2:86.4"
 msgid "lahuko ca hoti parikkhāro, atirekamāsako vā ūnapañcamāsako vā, theyyacittañca paccupaṭṭhitaṃ hoti."
-msgstr "it is an ordinary possession worth more than one <i lang=\\\"pi\\\">māsaka</i> coin, but less than five;"
+msgstr "it is an ordinary possession worth more than one <i lang=\"pi\">māsaka</i> coin, but less than five;"
 
 msgctxt "pi-tv-bu-vb-pj2:86.5"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -3026,7 +3026,7 @@ msgstr "he perceives it as such;"
 
 msgctxt "pi-tv-bu-vb-pj2:87.4"
 msgid "lahuko ca hoti parikkhāro, māsako vā ūnamāsako vā,"
-msgstr "it is an ordinary possession worth one <i lang=\\\"pi\\\">māsaka</i> coin or less;"
+msgstr "it is an ordinary possession worth one <i lang=\"pi\">māsaka</i> coin or less;"
 
 msgctxt "pi-tv-bu-vb-pj2:87.5"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -3063,7 +3063,7 @@ msgstr "he does not borrow it;"
 
 msgctxt "pi-tv-bu-vb-pj2:88.5"
 msgid "garuko ca hoti parikkhāro, pañcamāsako vā ati­reka­pañca­māsako vā,"
-msgstr "it is a valuable possession worth at least five <i lang=\\\"pi\\\">māsaka</i> coins;"
+msgstr "it is a valuable possession worth at least five <i lang=\"pi\">māsaka</i> coins;"
 
 msgctxt "pi-tv-bu-vb-pj2:88.6"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -3101,7 +3101,7 @@ msgstr "he does not borrow it;"
 #. <a class="pts-vp-pi" id="pts-vp-pi3.55" href="#Vin.3.55"></a> 
 msgctxt "pi-tv-bu-vb-pj2:89.5"
 msgid "lahuko ca hoti parikkhāro atirekamāsako vā ūnapañcamāsako vā,"
-msgstr "it is an ordinary possession worth more than one <i lang=\\\"pi\\\">māsaka</i> coin, but less than five;"
+msgstr "it is an ordinary possession worth more than one <i lang=\"pi\">māsaka</i> coin, but less than five;"
 
 msgctxt "pi-tv-bu-vb-pj2:89.6"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -3138,7 +3138,7 @@ msgstr "he does not borrow it;"
 
 msgctxt "pi-tv-bu-vb-pj2:90.5"
 msgid "lahuko ca hoti parikkhāro, māsako vā ūnamāsako vā,"
-msgstr "it is an ordinary possession worth one <i lang=\\\"pi\\\">māsaka</i> coin or less;"
+msgstr "it is an ordinary possession worth one <i lang=\"pi\">māsaka</i> coin or less;"
 
 msgctxt "pi-tv-bu-vb-pj2:90.6"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -3171,7 +3171,7 @@ msgstr "but he perceives it as the possession of another;"
 
 msgctxt "pi-tv-bu-vb-pj2:91.4"
 msgid "garuko ca hoti parikkhāro, pañcamāsako vā ati­reka­pañca­māsako vā,"
-msgstr "it is a valuable possession worth at least five <i lang=\\\"pi\\\">māsaka</i> coins;"
+msgstr "it is a valuable possession worth at least five <i lang=\"pi\">māsaka</i> coins;"
 
 msgctxt "pi-tv-bu-vb-pj2:91.5"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -3205,7 +3205,7 @@ msgstr "but he perceives it as the possession of another;"
 
 msgctxt "pi-tv-bu-vb-pj2:92.4"
 msgid "lahuko ca hoti parikkhāro, atirekamāsako vā ūnapañcamāsako vā,"
-msgstr "it is an ordinary possession worth more than one <i lang=\\\"pi\\\">māsaka</i> coin, but less than five;"
+msgstr "it is an ordinary possession worth more than one <i lang=\"pi\">māsaka</i> coin, but less than five;"
 
 msgctxt "pi-tv-bu-vb-pj2:92.5"
 msgid " theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -3238,7 +3238,7 @@ msgstr "but he perceives it as the possession of another;"
 
 msgctxt "pi-tv-bu-vb-pj2:93.4"
 msgid "lahuko ca hoti parikkhāro, māsako vā ūnamāsako vā,"
-msgstr "it is an ordinary possession worth one <i lang=\\\"pi\\\">māsaka</i> coin or less;"
+msgstr "it is an ordinary possession worth one <i lang=\"pi\">māsaka</i> coin or less;"
 
 msgctxt "pi-tv-bu-vb-pj2:93.5"
 msgid "theyyacittañca paccupaṭṭhitaṃ hoti."
@@ -4239,7 +4239,7 @@ msgstr "when sugar-cane belonging to the Order was being distributed …"
 
 msgctxt "pi-tv-bu-vb-pj2:128.4"
 msgid "saṃghassa timbarūsake bhājīyamāne—"
-msgstr "when <i lang=\\\"pi\\\">timbarūsaka</i> fruits belonging to the Order were being distributed,"
+msgstr "when <i lang=\"pi\">timbarūsaka</i> fruits belonging to the Order were being distributed,"
 
 msgctxt "pi-tv-bu-vb-pj2:128.5"
 msgid "“aparassa bhāgaṃ dehī”ti amūlakaṃ aggahesi."
@@ -4674,7 +4674,7 @@ msgstr "sugar-cane thieves …"
 #. <a class="pts-vp-pi" id="pts-vp-pi3.61" href="#Vin.3.61"></a> 
 msgctxt "pi-tv-bu-vb-pj2:142.6"
 msgid "tim­barū­saka­corakā timbarūsake uccinitvā bhaṇḍikaṃ ādāya agamaṃsu."
-msgstr "thieves of <i lang=\\\"pi\\\">timbarūsaka</i> fruit took some, collected them in a bundle, and left."
+msgstr "thieves of <i lang=\"pi\">timbarūsaka</i> fruit took some, collected them in a bundle, and left."
 
 msgctxt "pi-tv-bu-vb-pj2:142.7"
 msgid "Sāmikā te corake anubandhiṃsu."
@@ -4768,7 +4768,7 @@ msgstr "sugar-cane thieves …"
 
 msgctxt "pi-tv-bu-vb-pj2:144.6"
 msgid "tim­barū­saka­corakā timbarūsake uccinitvā bhaṇḍikaṃ ādāya agamaṃsu."
-msgstr "thieves of <i lang=\\\"pi\\\">timbarūsaka</i> fruit took some, collected them in a bundle, and left."
+msgstr "thieves of <i lang=\"pi\">timbarūsaka</i> fruit took some, collected them in a bundle, and left."
 
 msgctxt "pi-tv-bu-vb-pj2:144.7"
 msgid "Sāmikā te corake anubandhiṃsu."
@@ -4829,7 +4829,7 @@ msgstr "a sugar-cane …"
 
 msgctxt "pi-tv-bu-vb-pj2:145.7"
 msgid "saṃghassa timbarūsakaṃ theyyacitto avahari."
-msgstr "a <i lang=\\\"pi\\\">timbarūsaka</i> fruit belonging to the Order."
+msgstr "a <i lang=\"pi\">timbarūsaka</i> fruit belonging to the Order."
 
 msgctxt "pi-tv-bu-vb-pj2:145.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4846,7 +4846,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="140"></a><a class="pts-cs" id="Bu-Pj.2.7.24" href="#Bu-Pj.2.7.24"></a><a class="ms-pa" id="ms.330" href="#ms.330"></a> 
 msgctxt "pi-tv-bu-vb-pj2:146.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pupphārāmaṃ gantvā ocitaṃ pupphaṃ pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a flower-garden, and intending to steal it, he took a flower worth five <i lang=\\\"pi\\\">māsaka</i> coins that had already been plucked."
+msgstr "On one occasion, a monk went to a flower-garden, and intending to steal it, he took a flower worth five <i lang=\"pi\">māsaka</i> coins that had already been plucked."
 
 msgctxt "pi-tv-bu-vb-pj2:146.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4863,7 +4863,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="141"></a><a class="ms-pa" id="ms.331" href="#ms.331"></a> 
 msgctxt "pi-tv-bu-vb-pj2:147.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pupphārāmaṃ gantvā pupphaṃ ocinitvā pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a flower-garden, and intending to steal it, he picked a flower worth five <i lang=\\\"pi\\\">māsaka</i> coins and took it away."
+msgstr "On one occasion, a monk went to a flower-garden, and intending to steal it, he picked a flower worth five <i lang=\"pi\">māsaka</i> coins and took it away."
 
 msgctxt "pi-tv-bu-vb-pj2:147.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4993,7 +4993,7 @@ msgstr "“Please do.”"
 #. <a class="pts-vp-en" id="bd.1.104" href="#bd.1.104"></a> 
 msgctxt "pi-tv-bu-vb-pj2:150.5"
 msgid "So gantvā āḷhakaṃ sappiṃ tulaṃ guḷaṃ doṇaṃ taṇḍulaṃ āharāpetvā attanā paribhuñji."
-msgstr "He went there and brought back an <i lang=\\\"pi\\\">āḷhaka</i> measure of ghee, a <i lang=\\\"pi\\\">tulā</i> measure of sugar, and a <i lang=\\\"pi\\\">doṇa</i> measure of husked rice, which he ate himself."
+msgstr "He went there and brought back an <i lang=\"pi\">āḷhaka</i> measure of ghee, a <i lang=\"pi\">tulā</i> measure of sugar, and a <i lang=\"pi\">doṇa</i> measure of husked rice, which he ate himself."
 
 msgctxt "pi-tv-bu-vb-pj2:150.6"
 msgid "So jānitvā taṃ codesi—"
@@ -5533,7 +5533,7 @@ msgstr "At one time, a number of monks made an arrangement, stole some goods, an
 
 msgctxt "pi-tv-bu-vb-pj2:167.2"
 msgid "Tehi bhājīyamāne ekamekassa paṭiviso na pañcamāsako pūri."
-msgstr "When it was being shared out, each of them received a share with a value of less than five <i lang=\\\"pi\\\">māsaka</i> coins."
+msgstr "When it was being shared out, each of them received a share with a value of less than five <i lang=\"pi\">māsaka</i> coins."
 
 msgctxt "pi-tv-bu-vb-pj2:167.3"
 msgid "Te evamāhaṃsu—"
@@ -5658,7 +5658,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="166"></a><a class="pts-cs" id="Bu-Pj.2.7.37" href="#Bu-Pj.2.7.37"></a><a class="ms-pa" id="ms.356" href="#ms.356"></a> 
 msgctxt "pi-tv-bu-vb-pj2:172.1"
 msgid "Tena kho pana samayena aññataro bhikkhu tiṇakkhettaṃ gantvā lūtaṃ tiṇaṃ pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he took some cut grass worth five <i lang=\\\"pi\\\">māsaka</i> coins."
+msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he took some cut grass worth five <i lang=\"pi\">māsaka</i> coins."
 
 msgctxt "pi-tv-bu-vb-pj2:172.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5675,7 +5675,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="167"></a><a class="ms-pa" id="ms.357" href="#ms.357"></a> 
 msgctxt "pi-tv-bu-vb-pj2:173.1"
 msgid "Tena kho pana samayena aññataro bhikkhu tiṇakkhettaṃ gantvā tiṇaṃ lāyitvā pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he cut grass worth five <i lang=\\\"pi\\\">māsaka</i> coins and took it away."
+msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he cut grass worth five <i lang=\"pi\">māsaka</i> coins and took it away."
 
 msgctxt "pi-tv-bu-vb-pj2:173.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5752,7 +5752,7 @@ msgstr "the sugar-cane …"
 
 msgctxt "pi-tv-bu-vb-pj2:175.6"
 msgid "saṃghassa timbarūsakaṃ bhājāpetvā paribhuñjiṃsu."
-msgstr "the <i lang=\\\"pi\\\">timbarūsaka</i> fruits belonging to the Order and ate them."
+msgstr "the <i lang=\"pi\">timbarūsaka</i> fruits belonging to the Order and ate them."
 
 msgctxt "pi-tv-bu-vb-pj2:175.7"
 msgid "Āvāsikā bhikkhū te bhikkhū codesuṃ—"
@@ -5822,7 +5822,7 @@ msgstr "of a sugar-cane field …"
 
 msgctxt "pi-tv-bu-vb-pj2:177.6"
 msgid "tim­barū­saka­pālakā bhikkhūnaṃ timbarūsakaṃ denti."
-msgstr "of a <i lang=\\\"pi\\\">timbarūsaka</i> grove gave <i lang=\\\"pi\\\">timbarūsaka</i> fruit to some monks."
+msgstr "of a <i lang=\"pi\">timbarūsaka</i> grove gave <i lang=\"pi\">timbarūsaka</i> fruit to some monks."
 
 msgctxt "pi-tv-bu-vb-pj2:177.7"
 msgid "Bhikkhū—“gopetuṃ ime issarā, nayime dātun”ti,"
@@ -6366,7 +6366,7 @@ msgstr "After getting the turban brought, Venerable Daḷhika had it valued,"
 
 msgctxt "pi-tv-bu-vb-pj2:190.7"
 msgid "Taṃ agghāpentaṃ na pañcamāsake agghati."
-msgstr "and it was not worth five <i lang=\\\"pi\\\">māsaka</i> coins."
+msgstr "and it was not worth five <i lang=\"pi\">māsaka</i> coins."
 
 msgctxt "pi-tv-bu-vb-pj2:190.8"
 msgid "“Anāpatti, āvuso, pārājikassā”ti."

@@ -504,7 +504,7 @@ msgstr "Again, a bad monk takes valuable goods and requisites belonging to the m
 
 msgctxt "pi-tv-bu-vb-pj4:16.2"
 msgid "ārāmo ārāmavatthu vihāro vihāravatthu mañco pīṭhaṃ bhisi bibbohanaṃ lohakumbhī lohabhāṇakaṃ lohavārako lohakaṭāhaṃ vāsi parasu kuṭhārī kudālo nikhādanaṃ valli veḷu muñjaṃ pabbajaṃ tiṇaṃ mattikā dārubhaṇḍaṃ mattikābhaṇḍaṃ,"
-msgstr "a monastery, the land of a monastery, a dwelling, the land of a dwelling, a bed, a bench, a cushion, a pillow, a metal vessel, a metal jar, a metal pot, a metal receptacle, an adz, a hatchet, an ax, a spade, a chisel, a creeper, bamboo, <i lang=\\\"pi\\\">muñja</i>-reed, <i lang=\\\"pi\\\">pabbaja</i>-reed, grass, clay, wooden articles, earthenware articles—"
+msgstr "a monastery, the land of a monastery, a dwelling, the land of a dwelling, a bed, a bench, a cushion, a pillow, a metal vessel, a metal jar, a metal pot, a metal receptacle, an adz, a hatchet, an ax, a spade, a chisel, a creeper, bamboo, <i lang=\"pi\">muñja</i>-reed, <i lang=\"pi\">pabbaja</i>-reed, grass, clay, wooden articles, earthenware articles—"
 
 msgctxt "pi-tv-bu-vb-pj4:16.3"
 msgid "tehi gihiṃ saṅgaṇhāti upalāpeti."
