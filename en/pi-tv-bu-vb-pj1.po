@@ -3879,11 +3879,11 @@ msgstr "a human hermaphrodite, a non-human hermaphrodite, an animal hermaphrodit
 
 msgctxt "pi-tv-bu-vb-pj1:75.8"
 msgid "Tayo paṇḍakā—"
-msgstr "There are three kinds of sexual eccentrics:"
+msgstr "There are three kinds of sexual nonconformists:"
 
 msgctxt "pi-tv-bu-vb-pj1:75.9"
 msgid "manussapaṇḍako, amanus­sa­paṇḍako, tiracchā­na­gata­paṇḍako."
-msgstr "a human sexual eccentric, a non-human sexual eccentric, a sexually eccentric animal."
+msgstr "a sexually nonconformist human, a sexually nonconformist spirit, a sexually nonconformist animal."
 
 msgctxt "pi-tv-bu-vb-pj1:75.10"
 msgid "Tayo purisā—"
@@ -3937,7 +3937,7 @@ msgstr "the anus, the vagina, or the mouth."
 
 msgctxt "pi-tv-bu-vb-pj1:76.11"
 msgid "­Manus­sa­paṇḍa­kassa dve magge methunaṃ dhammaṃ paṭisevantassa āpatti pārājikassa—"
-msgstr "He commits an offense entailing expulsion if he has sexual intercourse with a human sexual eccentric through two orifices:"
+msgstr "He commits an offense entailing expulsion if he has sexual intercourse with a sexually nonconformist human through two orifices:"
 
 msgctxt "pi-tv-bu-vb-pj1:76.12"
 msgid "vaccamagge, mukhe."
@@ -3945,11 +3945,11 @@ msgstr "the anus or the mouth. …"
 
 msgctxt "pi-tv-bu-vb-pj1:76.13"
 msgid "Amanus­sa­paṇḍa­kassa …"
-msgstr "with a non-human sexual eccentric …"
+msgstr "with a sexually nonconformist spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:76.14"
 msgid "tiracchā­na­gata­paṇḍa­kassa …"
-msgstr "with a sexually eccentric animal …"
+msgstr "with a sexually nonconformist animal …"
 
 msgctxt "pi-tv-bu-vb-pj1:76.15"
 msgid "­manus­sa­purisassa …"
@@ -3957,7 +3957,7 @@ msgstr "with a human male …"
 
 msgctxt "pi-tv-bu-vb-pj1:76.16"
 msgid "amanus­sa­purisassa …"
-msgstr "with a non-human male …"
+msgstr "with a male spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:76.17"
 msgid "tiracchā­na­gata­purisassa dve magge methunaṃ dhammaṃ paṭisevantassa āpatti pārājikassa—"
@@ -4017,15 +4017,15 @@ msgstr " through the anus … through the vagina … through the mouth, he commi
 
 msgctxt "pi-tv-bu-vb-pj1:77.12"
 msgid "Bhikkhussa sevanacittaṃ upaṭṭhite ­manus­sa­paṇḍa­kassa vaccamaggaṃ mukhaṃ aṅgajātaṃ pavesentassa āpatti pārājikassa."
-msgstr "If a monk has the intention of association and he lets his penis enter a human sexual eccentric …"
+msgstr "If a monk has the intention of association and he lets his penis enter a sexually nonconformist human …"
 
 msgctxt "pi-tv-bu-vb-pj1:77.13"
 msgid "Bhikkhussa sevanacittaṃ upaṭṭhite amanus­sa­paṇḍa­kassa …"
-msgstr "a non-human sexual eccentric …"
+msgstr "a sexually nonconformist spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:77.14"
 msgid "tiracchā­na­gata­paṇḍa­kassa …"
-msgstr "a sexually eccentric animal …"
+msgstr "a sexually nonconformist animal …"
 
 msgctxt "pi-tv-bu-vb-pj1:77.15"
 msgid "­manus­sa­purisassa …"
@@ -4033,7 +4033,7 @@ msgstr "a human male …"
 
 msgctxt "pi-tv-bu-vb-pj1:77.16"
 msgid "amanus­sa­purisassa …"
-msgstr "a non-human male …"
+msgstr "a male spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:77.17"
 msgid "tiracchā­na­gata­purisassa vaccamaggaṃ mukhaṃ aṅgajātaṃ pavesentassa āpatti pārājikassa."
@@ -4250,15 +4250,15 @@ msgstr "If he does not agree … there is no offense."
 #. </p><hr><p><a class="sc" id="76"></a> 
 msgctxt "pi-tv-bu-vb-pj1:83.1"
 msgid "Bhik­khu­pac­catthikā ­manus­sa­paṇḍa­kaṃ …"
-msgstr "Enemy monks bring a human sexual eccentric …"
+msgstr "Enemy monks bring a sexually nonconformist human …"
 
 msgctxt "pi-tv-bu-vb-pj1:83.2"
 msgid "amanus­sa­paṇḍa­kaṃ …"
-msgstr "a non-human sexual eccentric …"
+msgstr "a sexually nonconformist spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:83.3"
 msgid "tiracchā­na­gata­paṇḍa­kaṃ bhikkhussa santike ānetvā vaccamaggena …"
-msgstr "a sexually eccentric animal into a monk’s presence and insert his penis into its anus …"
+msgstr "a sexually nonconformist animal into a monk’s presence and insert his penis into its anus …"
 
 msgctxt "pi-tv-bu-vb-pj1:83.4"
 msgid "mukhena aṅgajātaṃ abhinisīdenti."
@@ -4275,7 +4275,7 @@ msgstr "If he does not agree … there is no offense."
 #. </p><p><a class="sc" id="77"></a><a class="ms-pa" id="ms.117" href="#ms.117"></a> 
 msgctxt "pi-tv-bu-vb-pj1:84.1"
 msgid "Bhik­khu­pac­catthikā tiracchā­na­gata­paṇḍa­kaṃ jāgarantaṃ …"
-msgstr "Enemy monks bring a sexually eccentric animal that is awake …"
+msgstr "Enemy monks bring a sexually nonconformist animal that is awake …"
 
 msgctxt "pi-tv-bu-vb-pj1:84.2"
 msgid "suttaṃ …"
@@ -4632,15 +4632,15 @@ msgstr "If he does not agree … there is no offense."
 #. </p><hr><p><a class="sc" id="84"></a><a class="ms-pa" id="ms.124" href="#ms.124"></a> 
 msgctxt "pi-tv-bu-vb-pj1:91.1"
 msgid "Bhik­khu­pac­catthikā ­manus­sa­paṇḍa­kaṃ …"
-msgstr "Enemy monks bring a human sexual eccentric …"
+msgstr "Enemy monks bring a sexually nonconformist human …"
 
 msgctxt "pi-tv-bu-vb-pj1:91.2"
 msgid "amanus­sa­paṇḍa­kaṃ …"
-msgstr "a non-human sexual eccentric …"
+msgstr "a sexually nonconformist spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:91.3"
 msgid "tiracchā­na­gata­paṇḍa­kaṃ …"
-msgstr "a sexually eccentric animal …"
+msgstr "a sexually nonconformist animal …"
 
 msgctxt "pi-tv-bu-vb-pj1:91.4"
 msgid "manussapurisaṃ …"
@@ -4648,7 +4648,7 @@ msgstr "a human male …"
 
 msgctxt "pi-tv-bu-vb-pj1:91.5"
 msgid "amanus­sa­purisaṃ …"
-msgstr "a non-human male …"
+msgstr "a male spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:91.6"
 msgid "tiracchā­na­gata­purisaṃ bhikkhussa santike ānetvā vaccamaggena …"
@@ -4850,15 +4850,15 @@ msgstr "an animal hermaphrodite …"
 
 msgctxt "pi-tv-bu-vb-pj1:95.6"
 msgid "­manus­sa­paṇḍa­kassa …"
-msgstr "a human sexual eccentric …"
+msgstr "a sexually nonconformist human …"
 
 msgctxt "pi-tv-bu-vb-pj1:95.7"
 msgid "amanus­sa­paṇḍa­kassa …"
-msgstr "a non-human sexual eccentric …"
+msgstr "a sexually nonconformist spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:95.8"
 msgid "tiracchā­na­gata­paṇḍa­kassa …"
-msgstr "a sexually eccentric animal …"
+msgstr "a sexually nonconformist animal …"
 
 msgctxt "pi-tv-bu-vb-pj1:95.9"
 msgid "­manus­sa­purisassa …"
@@ -4866,7 +4866,7 @@ msgstr "a human male …"
 
 msgctxt "pi-tv-bu-vb-pj1:95.10"
 msgid "amanus­sa­purisassa …"
-msgstr "a non-human male …"
+msgstr "a male spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:95.11"
 msgid "tiracchā­na­gata­purisassa santike ānetvā aṅgajātena vaccamaggaṃ …"
@@ -5068,15 +5068,15 @@ msgstr "an animal hermaphrodite …"
 
 msgctxt "pi-tv-bu-vb-pj1:99.6"
 msgid "­manus­sa­paṇḍa­kassa …"
-msgstr "a human sexual eccentric …"
+msgstr "a sexually nonconformist human …"
 
 msgctxt "pi-tv-bu-vb-pj1:99.7"
 msgid "amanus­sa­paṇḍa­kassa …"
-msgstr "a non-human sexual eccentric …"
+msgstr "a sexually nonconformist spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:99.8"
 msgid "tiracchā­na­gata­paṇḍa­kassa …"
-msgstr "a sexually eccentric animal …"
+msgstr "a sexually nonconformist animal …"
 
 msgctxt "pi-tv-bu-vb-pj1:99.9"
 msgid "­manus­sa­purisassa …"
@@ -5084,7 +5084,7 @@ msgstr "a human male …"
 
 msgctxt "pi-tv-bu-vb-pj1:99.10"
 msgid "amanus­sa­purisassa …"
-msgstr "a non-human male …"
+msgstr "a male spirit …"
 
 msgctxt "pi-tv-bu-vb-pj1:99.11"
 msgid "tiracchā­na­gata­purisassa santike ānetvā aṅgajātena vaccamaggaṃ …"
@@ -5239,12 +5239,12 @@ msgstr "A monk molests a sleeping monk:"
 
 msgctxt "pi-tv-bu-vb-pj1:104.2"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
-msgstr "if he wakes up and consents, both should be expelled;"
+msgstr "if he wakes up and consents, both should be ejected;"
 
 #. <a class="pts-vp-en" id="bd.1.51" href="#bd.1.51"></a> 
 msgctxt "pi-tv-bu-vb-pj1:104.3"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
-msgstr "if he wakes up but does not consent, the molester should be expelled."
+msgstr "if he wakes up but does not consent, the molester should be ejected."
 
 msgctxt "pi-tv-bu-vb-pj1:104.4"
 msgid "Bhikkhu sutta­sāma­ṇeramhi vippaṭipajjati;"
@@ -5252,11 +5252,11 @@ msgstr "A monk molests a sleeping novice:"
 
 msgctxt "pi-tv-bu-vb-pj1:104.5"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
-msgstr "if he wakes up and consents, both should be expelled;"
+msgstr "if he wakes up and consents, both should be ejected;"
 
 msgctxt "pi-tv-bu-vb-pj1:104.6"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
-msgstr "if he wakes up but does not consent, the molester should be expelled."
+msgstr "if he wakes up but does not consent, the molester should be ejected."
 
 msgctxt "pi-tv-bu-vb-pj1:104.7"
 msgid "Sāmaṇero sutta­bhik­khumhi vippaṭipajjati;"
@@ -5264,11 +5264,11 @@ msgstr "A novice molests a sleeping monk:"
 
 msgctxt "pi-tv-bu-vb-pj1:104.8"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
-msgstr "if he wakes up and consents, both should be expelled;"
+msgstr "if he wakes up and consents, both should be ejected;"
 
 msgctxt "pi-tv-bu-vb-pj1:104.9"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
-msgstr "if he wakes up but does not consent, the molester should be expelled."
+msgstr "if he wakes up but does not consent, the molester should be ejected."
 
 msgctxt "pi-tv-bu-vb-pj1:104.10"
 msgid "Sāmaṇero sutta­sāma­ṇeramhi vippaṭipajjati;"
@@ -5276,11 +5276,11 @@ msgstr "A novice molests a sleeping novice:"
 
 msgctxt "pi-tv-bu-vb-pj1:104.11"
 msgid "paṭibuddho sādiyati, ubho nāsetabbā."
-msgstr "if he wakes up and consents, both should be expelled;"
+msgstr "if he wakes up and consents, both should be ejected;"
 
 msgctxt "pi-tv-bu-vb-pj1:104.12"
 msgid "Paṭibuddho na sādiyati, dūsako nāsetabbo."
-msgstr "if he wakes up but does not consent, the molester should be expelled."
+msgstr "if he wakes up but does not consent, the molester should be ejected."
 
 #. </p><h2>
 msgctxt "pi-tv-bu-vb-pj1:105.1"
@@ -5384,7 +5384,7 @@ msgstr "A female dragon, and a female spirit, and a female ghost,"
 #. <br>
 msgctxt "pi-tv-bu-vb-pj1:110.4"
 msgid "paṇḍakopahato chupe."
-msgstr "A sexual eccentric, impaired, should touch."
+msgstr "A sexual nonconformist, impaired, should touch."
 
 #. </p><p><a class="sc" id="103"></a><a class="ms-pa" id="ms.143" href="#ms.143"></a> 
 msgctxt "pi-tv-bu-vb-pj1:111.1"
@@ -5419,7 +5419,7 @@ msgstr "A trainee nun, and a novice nun;"
 #. <br>
 msgctxt "pi-tv-bu-vb-pj1:112.3"
 msgid "Vesiyā paṇḍako gihī,"
-msgstr "A prostitute, a sexual eccentric, a householder,"
+msgstr "A prostitute, a sexual nonconformist, a householder,"
 
 #. <br>
 msgctxt "pi-tv-bu-vb-pj1:112.4"
@@ -6239,7 +6239,7 @@ msgstr "had sexual intercourse with a female ghost …"
 #. <a class="pts-vp-en" id="bd.1.58" href="#bd.1.58"></a> 
 msgctxt "pi-tv-bu-vb-pj1:141.4"
 msgid "paṇḍakassa methunaṃ dhammaṃ paṭisevi."
-msgstr "had sexual intercourse with a sexual eccentric."
+msgstr "had sexual intercourse with a sexual nonconformist."
 
 msgctxt "pi-tv-bu-vb-pj1:141.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -6791,7 +6791,7 @@ msgstr "Both agreed:"
 
 msgctxt "pi-tv-bu-vb-pj1:154.5"
 msgid "Ubho nāsetabbā."
-msgstr "both should be expelled."
+msgstr "both should be ejected."
 
 msgctxt "pi-tv-bu-vb-pj1:154.6"
 msgid "Ubho na sādiyiṃsu."
@@ -6813,7 +6813,7 @@ msgstr "At one time in Vesālī some Licchavī youths took hold of a monk and ma
 
 msgctxt "pi-tv-bu-vb-pj1:155.2"
 msgid "paṇḍake vippaṭipādesuṃ …"
-msgstr "made him commit misconduct with a sexual eccentric …"
+msgstr "made him commit misconduct with a sexual nonconformist …"
 
 msgctxt "pi-tv-bu-vb-pj1:155.3"
 msgid "gihiniyā vippaṭipādesuṃ."
@@ -6825,7 +6825,7 @@ msgstr "The monk agreed:"
 
 msgctxt "pi-tv-bu-vb-pj1:155.5"
 msgid "Bhikkhu nāsetabbo."
-msgstr "he should be expelled."
+msgstr "he should be ejected."
 
 msgctxt "pi-tv-bu-vb-pj1:155.6"
 msgid "Bhikkhu na sādiyi."
@@ -6850,7 +6850,7 @@ msgstr "Both agreed:"
 
 msgctxt "pi-tv-bu-vb-pj1:156.3"
 msgid "Ubho nāsetabbā."
-msgstr "both should be expelled."
+msgstr "both should be ejected."
 
 msgctxt "pi-tv-bu-vb-pj1:156.4"
 msgid "Ubho na sādiyiṃsu."
