@@ -5326,7 +5326,12 @@ msgctxt "pi-tv-bu-vb-pj1:107.1"
 msgid "4. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings"
 
-#. </h2><div class="uddana"><p><a class="sc" id="100"></a><a class="ms-pa" id="ms.140" href="#ms.140"></a> 
+#. </h2><div class="uddana"><h5>
+msgctxt "pi-tv-bu-vb-pj1:107.2"
+msgid ""
+msgstr "Mnemonic list"
+
+#. </h5><p><a class="sc" id="100"></a><a class="ms-pa" id="ms.140" href="#ms.140"></a> 
 msgctxt "pi-tv-bu-vb-pj1:108.1"
 msgid "Makkaṭī vajjiputtā ca,"
 msgstr "The female monkey, and the Vajjians,"
