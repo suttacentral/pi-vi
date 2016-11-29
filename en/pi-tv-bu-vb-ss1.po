@@ -17,12 +17,12 @@ msgctxt "pi-tv-bu-vb-ss1:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
 
-#. </p><p> 
+#. </p><p class="division">
 msgctxt "pi-tv-bu-vb-ss1:2.1"
 msgid "Mahāvibhaṅga"
 msgstr "Monks’ rules and their analysis"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:3.1"
 msgid "Saṃ­ghā­di­sesa­kaṇḍa"
 msgstr ""
@@ -43,12 +43,12 @@ msgctxt "pi-tv-bu-vb-ss1:5.1"
 msgid "Ime kho panāyasmanto terasa saṃghādisesā dhammā uddesaṃ āgacchanti."
 msgstr "Venerables, these thirteen rules entailing suspension come up for recitation."
 
-#. </p><h2> 
+#. </p><h2>
 msgctxt "pi-tv-bu-vb-ss1:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><h3> 
+#. </h2><h3>
 msgctxt "pi-tv-bu-vb-ss1:6.2"
 msgid ""
 msgstr "First sub-story"
@@ -82,12 +82,12 @@ msgctxt "pi-tv-bu-vb-ss1:6.9"
 msgid "Kacci no tvaṃ, āvuso seyyasaka, anabhirato brahmacariyaṃ carasī”ti?"
 msgstr "Are you perhaps discontent with the spiritual life?”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:6.10"
 msgid "“Evamāvuso”ti."
 msgstr "“I am.”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:6.11"
 msgid "“Tena hi tvaṃ, āvuso seyyasaka, yāvadatthaṃ bhuñja yāvadatthaṃ supa yāvadatthaṃ nhāya."
 msgstr "“Well then, eat as much as you like, sleep as much as you like, and bathe as much as you like."
@@ -101,7 +101,7 @@ msgctxt "pi-tv-bu-vb-ss1:6.13"
 msgid "“Kiṃ nu kho, āvuso, kappati evarūpaṃ kātun”ti?"
 msgstr "“But is that allowable?”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:6.14"
 msgid "“Āma, āvuso."
 msgstr "“Yes,"
@@ -140,7 +140,7 @@ msgctxt "pi-tv-bu-vb-ss1:7.7"
 msgid "Kiṃ nu kho tvaṃ, āvuso seyyasaka, bhesajjaṃ karosī”ti?"
 msgstr "Have you been taking medicine?”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:7.8"
 msgid "“Na kho ahaṃ, āvuso, bhesajjaṃ karomi."
 msgstr "“No, I haven’t."
@@ -158,12 +158,12 @@ msgctxt "pi-tv-bu-vb-ss1:7.11"
 msgid "“Kiṃ pana tvaṃ, āvuso seyyasaka, yeneva hatthena saddhādeyyaṃ bhuñjasi teneva hatthena upakkamitvā asuciṃ mocesī”ti?"
 msgstr "“Do you eat the almsfood of the faithful with the same hand you use to emit semen?”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:7.12"
 msgid "“Evamāvuso”ti."
 msgstr "“Yes.”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:7.13"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
@@ -190,12 +190,12 @@ msgctxt "pi-tv-bu-vb-ss1:8.3"
 msgid "“saccaṃ kira tvaṃ, seyyasaka, hatthena upakkamitvā asuciṃ mocesī”ti?"
 msgstr "“Is it true, Seyyasaka, that you emit semen with your hand?”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:8.4"
 msgid "“Saccaṃ, bhagavā”ti."
 msgstr "“Yes, Master.”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:8.5"
 msgid "Vigarahi buddho bhagavā—"
 msgstr "The Buddha rebuked him,"
@@ -250,7 +250,7 @@ msgctxt "pi-tv-bu-vb-ss1:8.17"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "the Master said, “And, monks, this training rule should be recited thus:"
 
-#. </p><h3> 
+#. </p><h3>
 msgctxt "pi-tv-bu-vb-ss1:9.1"
 msgid ""
 msgstr "Preliminary ruling"
@@ -267,7 +267,7 @@ msgctxt "pi-tv-bu-vb-ss1:10.1"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
-#. </p><h3> 
+#. </p><h3>
 msgctxt "pi-tv-bu-vb-ss1:11.1"
 msgid ""
 msgstr "Second sub-story"
@@ -323,7 +323,7 @@ msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 
-#. </p><h2> 
+#. </p><h2>
 msgctxt "pi-tv-bu-vb-ss1:12.1"
 msgid ""
 msgstr "Final ruling"
@@ -339,7 +339,7 @@ msgctxt "pi-tv-bu-vb-ss1:12.3"
 msgid "(<em>1</em>:<strong>5</strong>)"
 msgstr ""
 
-#. </p><h2> 
+#. </p><h2>
 msgctxt "pi-tv-bu-vb-ss1:13.1"
 msgid ""
 msgstr "Definitions"
@@ -426,17 +426,17 @@ msgid "Tenapi vuccati—“saṃghādiseso”ti."
 msgstr "Therefore, too, it is called “an offense entailing suspension.”"
 
 #. </span>
-#. </p><h2> 
+#. </p><h2>
 msgctxt "pi-tv-bu-vb-ss1:18.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><h3> 
+#. </h2><h3>
 msgctxt "pi-tv-bu-vb-ss1:18.2"
 msgid ""
 msgstr "Permutations part 1"
 
-#. </h3><h4> 
+#. </h3><h4>
 msgctxt "pi-tv-bu-vb-ss1:18.3"
 msgid ""
 msgstr "Summary"
@@ -458,7 +458,7 @@ msgctxt "pi-tv-bu-vb-ss1:18.7"
 msgid "ākāse kaṭiṃ kampento moceti;"
 msgstr "one emits shaking the pelvis in the air."
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:18.8"
 msgid "rāgūpatthambhe moceti,"
 msgstr "When it is stiff through lust one emits;"
@@ -479,7 +479,7 @@ msgctxt "pi-tv-bu-vb-ss1:18.12"
 msgid "uccāliṅ­ga­pāṇaka­daṭṭhū­pattham­bhe moceti;"
 msgstr "when it is stiff because of being stung by caterpillars one emits."
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:18.13"
 msgid "ārogyatthāya moceti,"
 msgstr "One emits for the sake of health;"
@@ -521,7 +521,7 @@ msgctxt "pi-tv-bu-vb-ss1:18.22"
 msgid "davatthāya moceti;"
 msgstr "one emits for the sake of fun."
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:18.23"
 msgid "nīlaṃ moceti,"
 msgstr "One emits blue;"
@@ -562,7 +562,7 @@ msgctxt "pi-tv-bu-vb-ss1:18.32"
 msgid "sappivaṇṇaṃ moceti."
 msgstr "one emits the color of ghee."
 
-#. </p></div><h4> 
+#. </p></div><h4>
 msgctxt "pi-tv-bu-vb-ss1:19.1"
 msgid ""
 msgstr "Definitions"
@@ -828,7 +828,7 @@ msgid "khiḍḍādhippāyo."
 msgstr "desiring to play."
 
 #. </span>
-#. </p><h4> 
+#. </p><h4>
 msgctxt "pi-tv-bu-vb-ss1:38.1"
 msgid ""
 msgstr "Exposition part 1"
@@ -878,7 +878,7 @@ msgctxt "pi-tv-bu-vb-ss1:46.1"
 msgid "Uccāliṅ­ga­pāṇaka­daṭṭhū­pattham­bhe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, when it is stiff because of being bitten by caterpillars, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><h4> 
+#. </p><h4>
 msgctxt "pi-tv-bu-vb-ss1:47.1"
 msgid ""
 msgstr "Exposition part 2"
@@ -2489,7 +2489,7 @@ msgctxt "pi-tv-bu-vb-ss1:163.2"
 msgid "Piṭṭhicakkaṃ niṭṭhitaṃ."
 msgstr "The additional permutation series is finished."
 
-#. </p><h3> 
+#. </p><h3>
 msgctxt "pi-tv-bu-vb-ss1:164.1"
 msgid ""
 msgstr "Permutations part 2"
@@ -2534,7 +2534,7 @@ msgctxt "pi-tv-bu-vb-ss1:171.1"
 msgid "Na ceteti na upakkamati na muccati, anāpatti."
 msgstr "If he does not intend, nor does he makes an effort, nor is semen emitted, there is no offense."
 
-#. </p><h2> 
+#. </p><h2>
 msgctxt "pi-tv-bu-vb-ss1:172.1"
 msgid ""
 msgstr "Non-offenses"
@@ -2569,12 +2569,12 @@ msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
 
-#. </p><h2> 
+#. </p><h2>
 msgctxt "pi-tv-bu-vb-ss1:173.1"
 msgid "1.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings"
 
-#. </h2><h4> 
+#. </h2><h4>
 msgctxt "pi-tv-bu-vb-ss1:173.2"
 msgid ""
 msgstr "Mnemonic list"
@@ -2640,7 +2640,7 @@ msgctxt "pi-tv-bu-vb-ss1:176.4"
 msgid "saya­naṅ­guṭṭha­kena cāti."
 msgstr "Bed, and with the thumb."
 
-#. </p></div><h3> 
+#. </p></div><h3>
 msgctxt "pi-tv-bu-vb-ss1:177.1"
 msgid "1.2. Vinītavatthu"
 msgstr "Case details"
@@ -2683,12 +2683,12 @@ msgctxt "pi-tv-bu-vb-ss1:179.3"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention, monk?”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:179.4"
 msgid "“Nāhaṃ, bhagavā, mocanādhippāyo”ti."
 msgstr "“I wasn’t aiming at emission, Master.”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:179.5"
 msgid "“Anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
 msgstr "“There’s no offense if one isn’t aiming at emission.”"
@@ -2744,12 +2744,12 @@ msgctxt "pi-tv-bu-vb-ss1:182.3"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention, monk?”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:182.4"
 msgid "“Nāhaṃ, bhagavā, mocanādhippāyo”ti."
 msgstr "“I wasn’t aiming at emission, Master.”"
 
-#. </p><p> 
+#. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:182.5"
 msgid "“Anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
 msgstr "“There’s no offense if one isn’t aiming at emission.”"

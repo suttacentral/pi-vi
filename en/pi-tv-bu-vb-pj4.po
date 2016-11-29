@@ -13,12 +13,12 @@ msgstr ""
 "Generated-By: Babel 1.3\n"
 
 #. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description">
-#. <title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-pj4"><article><div class="hgroup"><p class="division">
+#. <title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-pj4"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-pj4:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
 
-#. </p><p>
+#. </p><p class="division">
 msgctxt "pi-tv-bu-vb-pj4:2.1"
 msgid "Mahāvibhaṅga"
 msgstr "Monks’ rules and their analysis"
@@ -29,12 +29,12 @@ msgid "Pārājikakaṇḍa"
 msgstr ""
 
 #. </p><h1>
-#. <span class="add">
+#. <span class="add"> 
 msgctxt "pi-tv-bu-vb-pj4:4.1"
 msgid "Pārājika 4:"
 msgstr "Monks’ Expulsion 4:"
 
-#. </span>
+#. </span> 
 msgctxt "pi-tv-bu-vb-pj4:4.2"
 msgid "Catut­tha­pā­rāji­ka­sikkhā­pada"
 msgstr "the fourth training rule"
@@ -544,17 +544,17 @@ msgctxt "pi-tv-bu-vb-pj4:18.1"
 msgid "Aññathā santamattānaṃ,"
 msgstr "Whoever should declare himself"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:18.2"
 msgid "aññathā yo pavedaye;"
 msgstr "to be other than he truly is,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:18.3"
 msgid "Nikacca kitavasseva,"
 msgstr "Has eaten this by theft,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:18.4"
 msgid "bhuttaṃ theyyena tassa taṃ."
 msgstr "like a cheater who has deceived."
@@ -564,17 +564,17 @@ msgctxt "pi-tv-bu-vb-pj4:19.1"
 msgid "Kāsāvakaṇṭhā bahavo,"
 msgstr "Many ocher-necks of bad qualities,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:19.2"
 msgid "pāpadhammā asaññatā;"
 msgstr "uncontrolled and wicked—"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:19.3"
 msgid "Pāpā pāpehi kammehi,"
 msgstr "By their wicked deeds,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:19.4"
 msgid "nirayaṃ te upapajjare."
 msgstr "they are reborn in hell."
@@ -584,17 +584,17 @@ msgctxt "pi-tv-bu-vb-pj4:20.1"
 msgid "Seyyo ayoguḷo bhutto,"
 msgstr "It is better to eat an iron ball,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:20.2"
 msgid "tatto aggisikhūpamo;"
 msgstr "heated, like a burning flame,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:20.3"
 msgid "Yañce bhuñjeyya dussīlo,"
 msgstr "Than for the immoral and uncontrolled"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:20.4"
 msgid "raṭṭhapiṇḍaṃ asaññatoti."
 msgstr "to eat the country’s alms."
@@ -614,7 +614,7 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="18"></a><a class="ms-pa" id="ms.551" href="#ms.551"></a><a class="pts-vp-en" id="bd.1.158" href="#bd.1.158"></a> 
-#. <strong class="rule">
+#. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj4:22.2"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
 msgstr "‘If a monk falsely claims for himself a super-human quality, knowledge and vision worthy of the noble ones, saying,"
@@ -708,7 +708,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="22"></a><a class="ms-pa" id="ms.555" href="#ms.555"></a> 
-#. <strong class="rule">
+#. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj4:26.2"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
 msgstr "‘If a monk falsely claims for himself a super-human quality, knowledge and vision worthy of the noble ones, saying,"
@@ -751,24 +751,24 @@ msgctxt "pi-tv-bu-vb-pj4:27.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="23"></a><a class="pts-cs" id="Bu-Pj.4.3" href="#Bu-Pj.4.3.1"></a><a class="ms-pa" id="ms.556" href="#ms.556"></a> <strong  class="term">
+#. </h2><p><a class="sc" id="23"></a><a class="pts-cs" id="Bu-Pj.4.3" href="#Bu-Pj.4.3.1"></a><a class="ms-pa" id="ms.556" href="#ms.556"></a> <strong  class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:27.2"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:27.3"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span> <strong  class="term">
+#. </span> <strong  class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:27.4"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:27.5"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -779,13 +779,13 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms.557" href="#ms.557"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:28.1"
 msgid "Anabhijānanti"
 msgstr "Falsely:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:28.2"
 msgid "asantaṃ abhūtaṃ asaṃvijjamānaṃ ajānanto apassanto attani kusalaṃ dhammaṃ—"
 msgstr "although a certain wholesome quality is non-existent in himself, not real, not to be found, and he does not see it or know it,"
@@ -795,26 +795,26 @@ msgid "atthi me kusalo dhammoti."
 msgstr "he says, “I have this wholesome quality.”"
 
 #. </span>
-#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms.558" href="#ms.558"></a><strong  class="term">
+#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms.558" href="#ms.558"></a><strong  class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:29.1"
 msgid "Uttari­manus­sa­dhammo nāma"
 msgstr "A super-human quality:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:29.2"
 msgid "jhānaṃ vimokkho samādhi samāpatti ñāṇadassanaṃ maggabhāvanā phala­sacchi­kiriyā kilesappahānaṃ vinīvaraṇatā cittassa suññāgāre abhirati."
 msgstr "absorption, release, stillness, attainment, knowledge and vision, development of the path, realization of the fruits, abandoning the defilements, a mind without hindrances, delighting in empty dwellings."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms.559" href="#ms.559"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:30.1"
 msgid "Attupanāyikanti"
 msgstr "For himself:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:30.2"
 msgid "te vā kusale dhamme attani upaneti"
 msgstr "either he presents those good qualities as in himself,"
@@ -825,51 +825,51 @@ msgstr "or he presents himself as among those good qualities."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms.560" href="#ms.560"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:31.1"
 msgid "Ñāṇanti"
 msgstr "Knowledge:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:31.2"
 msgid "tisso vijjā."
 msgstr "the three true insights."
 
 #. </span>
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:31.3"
 msgid "Dassananti"
 msgstr "Vision:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:31.4"
 msgid "yaṃ ñāṇaṃ taṃ dassanaṃ, yaṃ dassanaṃ taṃ ñāṇaṃ."
 msgstr "knowledge and vision are equivalent."
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="pts-vp-pi" id="pts-vp-pi3.92" href="#Vin.3.92"></a> <a class="ms-pa" id="ms.561" href="#ms.561"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:32.1"
 msgid "Samudācareyyāti"
 msgstr "Claims:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:32.2"
 msgid "āroceyya itthiyā vā purisassa vā gahaṭṭhassa vā pabbajitassa vā."
 msgstr "announces to a woman or a man, to a householder or one gone forth."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms.562" href="#ms.562"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:33.1"
 msgid "Iti jānāmi iti passāmīti"
 msgstr "This I know, this I see:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:33.2"
 msgid "jānāmahaṃ ete dhamme,"
 msgstr "“I know these qualities/"
@@ -889,26 +889,26 @@ msgstr "and I conform to them.”"
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms.563" href="#ms.563"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:34.1"
 msgid "Tato aparena samayenāti"
 msgstr "After some time:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:34.2"
 msgid "yasmiṃ khaṇe samudāciṇṇaṃ hoti taṃ khaṇaṃ taṃ layaṃ taṃ muhuttaṃ vītivatte."
 msgstr "the moment, the second, the instant after he has made the claim."
 
 #. </span>
 #. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms.564" href="#ms.564"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:35.1"
 msgid "Sama­nug­gāhīya­mānoti"
 msgstr "He is questioned:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:35.2"
 msgid "yaṃ vatthu paṭiññātaṃ hoti tasmiṃ vatthusmiṃ sama­nug­gāhīya­māno—"
 msgstr "he is questioned in regard to what he has claimed:"
@@ -939,26 +939,26 @@ msgstr "Which qualities did you gain?”"
 
 #. </span>
 #. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms.565" href="#ms.565"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:36.1"
 msgid "Asama­nug­gāhīya­mānoti"
 msgstr "Not:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:36.2"
 msgid "na kenaci vuccamāno."
 msgstr "he is not spoken to by anyone."
 
 #. </span>
 #. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="ms.566" href="#ms.566"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:37.1"
 msgid "Āpannoti"
 msgstr "Having committed the offense:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:37.2"
 msgid "pāpiccho icchāpakato asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapitvā"
 msgstr "having bad desires, overcome by desire, claiming a non-existent, unreal super-human quality,"
@@ -969,26 +969,26 @@ msgstr "he has committed an offense entailing expulsion."
 
 #. </span>
 #. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms.567" href="#ms.567"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:38.1"
 msgid "Visuddhāpekkhoti"
 msgstr "Desiring purification:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:38.2"
 msgid "gihī vā hotukāmo upāsako vā hotukāmo ārāmiko vā hotukāmo sāmaṇero vā hotukāmo."
 msgstr "he desires to be a householder, a lay follower, a monastery attendant, or a novice monk."
 
 #. </span>
 #. </p><p><a class="sc" id="35"></a><a class="ms-pa" id="ms.568" href="#ms.568"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:39.1"
 msgid "Ajānamevaṃ, āvuso, avacaṃ—jānāmi, apassaṃ passāmīti"
 msgstr "Not knowing I said that I know, not seeing that I see:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:39.2"
 msgid "nāhaṃ ete dhamme jānāmi,"
 msgstr "“I don’t know these qualities/"
@@ -1007,13 +1007,13 @@ msgstr "and I don’t conform to them.”"
 
 #. </span>
 #. </p><p><a class="sc" id="36"></a><a class="ms-pa" id="ms.569" href="#ms.569"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:40.1"
 msgid "Tucchaṃ musā vilapinti"
 msgstr "What I said was empty and false:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:40.2"
 msgid "tucchakaṃ mayā bhaṇitaṃ,"
 msgstr "what I said was empty;"
@@ -1032,40 +1032,40 @@ msgstr "I said it without knowing."
 
 #. </span>
 #. </p><p><a class="sc" id="37"></a><a class="ms-pa" id="ms.570" href="#ms.570"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:41.1"
 msgid "Aññatra adhimānāti"
 msgstr "Unless it is due to overestimation:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:41.2"
 msgid "ṭhapetvā adhimānaṃ."
 msgstr "except if it is overestimation."
 
 #. </span>
 #. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms.571" href="#ms.571"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:42.1"
 msgid "Ayampīti"
 msgstr "He too:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:42.2"
 msgid "purime upādāya vuccati."
 msgstr "this is said with reference to the preceding offenses entailing expulsion."
 
 #. </span>
 #. </p><p><a class="sc" id="39"></a><a class="ms-pa" id="ms.572" href="#ms.572"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:43.1"
 msgid "Pārājiko hotīti"
 msgstr "Is expelled:"
 
 #. </strong> 
 #. <a class="pts-vp-en" id="bd.1.161" href="#bd.1.161"></a> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:43.2"
 msgid "seyyathāpi nāma tālo mattha­kac­chinno abhabbo puna virūḷhiyā;"
 msgstr "just as a palm tree with its crown cut off is incapable of further growth, "
@@ -1084,19 +1084,19 @@ msgstr "“he is expelled.”"
 
 #. </span>
 #. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms.573" href="#ms.573"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:44.1"
 msgid "Asaṃvāsoti"
 msgstr "Not in communion:"
 
 #. </strong> 
-#. <span class="gloss"><strong class="term">
+#. <span class="gloss"><strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:44.2"
 msgid "saṃvāso nāma"
 msgstr "Communion:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:44.3"
 msgid "ekakammaṃ ekuddeso samasikkhatā—"
 msgstr "common formal procedures, the same recital, the same training—"
@@ -1130,31 +1130,27 @@ msgid ""
 msgstr "Summary"
 
 #. </h4><p><a class="sc" id="41"></a><a class="pts-cs-empty" id="Bu-Pj.4.4"></a><a class="pts-cs" id="Bu-Pj.4.4.1" href="#Bu-Pj.4.4.1"></a><a class="ms-pa" id="ms.574" href="#ms.574"></a> 
-#. <strong class="term">
 msgctxt "pi-tv-bu-vb-pj4:45.3"
 msgid "Uttari­manus­sa­dhammo nāma"
 msgstr "A super-human quality:"
 
-#. </strong> 
-#. <span class="gloss">
 msgctxt "pi-tv-bu-vb-pj4:45.4"
 msgid "jhānaṃ vimokkho samādhi samāpatti ñāṇadassanaṃ maggabhāvanā phala­sacchi­kiriyā kilesappahānaṃ vinīvaraṇatā cittassa suññāgāre abhirati."
 msgstr "absorption, release, stillness, attainment, knowledge and vision, development of the path, realization of the fruits, abandoning the defilements, a mind without hindrances, delighting in empty dwellings."
 
-#. </span>
 #. </p><h4>
 msgctxt "pi-tv-bu-vb-pj4:46.1"
 msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="42"></a><a class="ms-pa" id="ms.575" href="#ms.575"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:46.2"
 msgid "Jhānanti"
 msgstr "Absorption:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:46.3"
 msgid "paṭhamaṃ jhānaṃ"
 msgstr "the first absorption,"
@@ -1173,13 +1169,13 @@ msgstr "the fourth absorption."
 
 #. </span>
 #. </p><p><a class="sc" id="43"></a><a class="ms-pa" id="ms.576" href="#ms.576"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:47.1"
 msgid "Vimokkhoti"
 msgstr "Release:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:47.2"
 msgid "suññato vimokkho"
 msgstr "emptiness release,"
@@ -1194,13 +1190,13 @@ msgstr "desireless release."
 
 #. </span>
 #. </p><p><a class="sc" id="44"></a><a class="pts-vp-pi" id="pts-vp-pi3.93" href="#Vin.3.93"></a> <a class="ms-pa" id="ms.577" href="#ms.577"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:48.1"
 msgid "Samādhīti"
 msgstr "Stillness:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:48.2"
 msgid "suññato samādhi"
 msgstr "emptiness stillness,"
@@ -1215,13 +1211,13 @@ msgstr "desireless stillness."
 
 #. </span>
 #. </p><p><a class="sc" id="45"></a><a class="ms-pa" id="ms.578" href="#ms.578"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:49.1"
 msgid "Samāpattīti"
 msgstr "Attainment:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:49.2"
 msgid "suññatā samāpatti"
 msgstr "emptiness attainment,"
@@ -1236,26 +1232,26 @@ msgstr "desireless attainment."
 
 #. </span>
 #. </p><p><a class="sc" id="46"></a><a class="ms-pa" id="ms.579" href="#ms.579"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:50.1"
 msgid "Ñāṇadassananti"
 msgstr "Knowledge and vision:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:50.2"
 msgid "tisso vijjā."
 msgstr "the three true insights."
 
 #. </span>
 #. </p><p><a class="sc" id="47"></a><a class="ms-pa" id="ms.580" href="#ms.580"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:51.1"
 msgid "Maggabhāvanāti"
 msgstr "Development of the path:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:51.2"
 msgid "cattāro satipaṭṭhānā,"
 msgstr "the four applications of mindfulness,"
@@ -1287,13 +1283,13 @@ msgstr "the noble eightfold path."
 
 #. </span>
 #. </p><p><a class="sc" id="48"></a><a class="ms-pa" id="ms.581" href="#ms.581"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:52.1"
 msgid "Phala­sacchi­kiriyāti"
 msgstr "Realization of the fruits:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:52.2"
 msgid "sotā­patti­phalassa sacchikiriyā,"
 msgstr "realization of the fruit of stream-entry,"
@@ -1312,13 +1308,13 @@ msgstr "realization of perfection."
 
 #. </span>
 #. </p><p><a class="sc" id="49"></a><a class="ms-pa" id="ms.582" href="#ms.582"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:53.1"
 msgid "Kilesappahānanti"
 msgstr "Abandoning the defilements:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:53.2"
 msgid "rāgassa pahānaṃ"
 msgstr "the abandoning of sense desire,"
@@ -1333,13 +1329,13 @@ msgstr "the abandoning of confusion."
 
 #. </span>
 #. </p><p><a class="sc" id="50"></a><a class="ms-pa" id="ms.583" href="#ms.583"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:54.1"
 msgid "Vinīvaraṇatā cittassāti"
 msgstr "A mind without hindrances:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:54.2"
 msgid "rāgā cittaṃ vinīvaraṇatā,"
 msgstr "a mind without sense desire,"
@@ -1354,13 +1350,13 @@ msgstr "a mind without confusion."
 
 #. </span>
 #. </p><p><a class="sc" id="51"></a><a class="ms-pa" id="ms.584" href="#ms.584"></a> 
-#. <strong class="term">
+#. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj4:55.1"
 msgid "Suññāgāre abhiratīti"
 msgstr "Delighting in empty dwellings:"
 
 #. </strong> 
-#. <span class="gloss">
+#. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:55.2"
 msgid "paṭhamena jhānena suññāgāre abhirati,"
 msgstr "because of the first absorption, there is delight in empty dwellings;"
@@ -3822,7 +3818,7 @@ msgctxt "pi-tv-bu-vb-pj4:146.1"
 msgid "Sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items is finished."
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:146.2"
 msgid "Suddhi­ka­vāraka­thā niṭṭhitā."
 msgstr "The exposition of the section on the basic series is finished."
@@ -4053,7 +4049,7 @@ msgctxt "pi-tv-bu-vb-pj4:155.1"
 msgid "Vatthu­vi­sārakassa ekamūlakassa baddhacakkaṃ."
 msgstr "The linked permutation series on one root item with a speech extension."
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:155.2"
 msgid "Mūlaṃ saṃkhittaṃ."
 msgstr "The basis in brief."
@@ -4131,7 +4127,7 @@ msgctxt "pi-tv-bu-vb-pj4:159.5"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa."
 msgstr "if the listener does not understand, he commits a serious offense when three conditions are fulfilled … when seven conditions are fulfilled."
 
-#. </p><div class="var long-var" title=" etthantare pāṭhā syā1-3 potthakesu"><p><a class="sc" id="156"></a><a class="ms-pa" id="ms.689" href="#ms.689"></a> 
+#. </p><p><a class="sc" id="156"></a><a class="ms-pa" id="ms.689" href="#ms.689"></a> 
 msgctxt "pi-tv-bu-vb-pj4:160.1"
 msgid "Tīhākārehi dutiyañca jhānaṃ tatiyañca jhānaṃ catutthañca jhānaṃ suññatañca vimokkhaṃ animittañca vimokkhaṃ appaṇihitañca vimokkhaṃ suññatañca samādhiṃ animittañca samādhiṃ appaṇihitañca samādhiṃ suññatañca samāpattiṃ animittañca samāpattiṃ appaṇihitañca samāpattiṃ tisso ca vijjā cattāro ca satipaṭṭhāne cattāro ca sammappadhāne cattāro ca iddhipāde pañca ca indriyāni pañca ca balāni satta ca bojjhaṅge ariyañca aṭṭhaṅgikaṃ maggaṃ sotā­patti­phalañca sakadā­gāmi­phalañca anāgā­mi­phalañca arahattañca samāpajjiṃ … pe …"
 msgstr "If he lies in full awareness, meaning to say, “I attained the second absorption and the third absorption and the fourth absorption and the emptiness release and the signless release and the desireless release and the emptiness stillness and the signless stillness and the desireless stillness and the emptiness attainment and the signless attainment and the desireless attainment and the three true insights and the four applications of mindfulness and the four right efforts and the four bases for spiritual power and the five faculties and the five powers and the seven factors of awakening and the noble eightfold path and the fruit of stream-entry and the fruit of once-returning and the fruit of non-returning and perfection …"
@@ -4211,17 +4207,17 @@ msgctxt "pi-tv-bu-vb-pj4:163.1"
 msgid "Vatthu­vi­sārakassa sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items with a speech extension is finished."
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:163.2"
 msgid "Vatthu­vi­sārakassa cakkapeyyālaṃ niṭṭhitaṃ."
 msgstr "The successive permutation series with a speech extension is finished."
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:163.3"
 msgid "Vatthu­kā­ma­vāraka­thā niṭṭhitā."
 msgstr "The exposition of the section on ʻmeaning to sayʼ is finished."
 
-#. </p></div><h5>
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-pj4:164.1"
 msgid ""
 msgstr "Gross hinting: in regard to dwellings"
@@ -4773,12 +4769,12 @@ msgctxt "pi-tv-bu-vb-pj4:174.1"
 msgid "Peyyā­la­panna­rasa­kaṃ niṭṭhitaṃ."
 msgstr "The successive fifteen are finished."
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:174.2"
 msgid "Pac­ca­yap­paṭi­saṃ­yutta­vāraka­thā niṭṭhitā."
 msgstr "The exposition of the section on that connected with requisites is finished."
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:174.3"
 msgid "Uttari­manus­sa­dhamma­cakka­peyyā­laṃ niṭṭhitaṃ."
 msgstr "The successive permutation series on super-human qualities is finished."
@@ -4832,17 +4828,17 @@ msgctxt "pi-tv-bu-vb-pj4:177.1"
 msgid "Adhimāne araññamhi,"
 msgstr "About overestimation, in the wilderness,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:177.2"
 msgid "piṇ­ḍo­paj­jhāriyā­patho;"
 msgstr "Almsfood, a preceptor, behavior;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:177.3"
 msgid "Saṃyojanā rahodhammā,"
 msgstr "Fetters, qualities in private,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:177.4"
 msgid "vihāro paccupaṭṭhito."
 msgstr "A dwelling, attended on."
@@ -4852,7 +4848,7 @@ msgctxt "pi-tv-bu-vb-pj4:178.1"
 msgid "Na dukkaraṃ viriyamathopi maccuno,"
 msgstr "Not difficult, energy, fear of death,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:178.2"
 msgid "Bhāyāvuso vippaṭisāri sammā;"
 msgstr "Remorseful friend, rightly;"
@@ -4862,7 +4858,7 @@ msgctxt "pi-tv-bu-vb-pj4:178.3"
 msgid "Viriyena yogena ārādhanāya,"
 msgstr "By energy, by exertion,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:178.4"
 msgid "Atha vedanāya adhivāsanā duve."
 msgstr "Two on the enduring of feeling."
@@ -4872,17 +4868,17 @@ msgctxt "pi-tv-bu-vb-pj4:179.1"
 msgid "Brāhmaṇe pañca vatthūni,"
 msgstr "Five stories on a brahmin,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:179.2"
 msgid "aññaṃ byākaraṇā tayo;"
 msgstr "Three on declaring final knowledge;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:179.3"
 msgid "Agārāvaraṇā kāmā,"
 msgstr "House, rejected sense-pleasures,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:179.4"
 msgid "rati cāpi apakkami."
 msgstr "And delight, set out."
@@ -4892,17 +4888,17 @@ msgctxt "pi-tv-bu-vb-pj4:180.1"
 msgid "Aṭṭhi pesi ubho gāvaghātakā,"
 msgstr "Bone, lump: both are cattle-butchers,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:180.2"
 msgid "Piṇḍo sākuṇiko nicchavi orabbhi;"
 msgstr "A morsel is a poultry-butcher, a sheep-butcher is flayed;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:180.3"
 msgid "Asi ca sūkariko satti māgavi,"
 msgstr "And a pig-butcher and sword, a deer-hunter and knife,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:180.4"
 msgid "Usu ca kāraṇiko sūci sārathi."
 msgstr "And a torturer and arrow, a horse trainer and needle."
@@ -4912,17 +4908,17 @@ msgctxt "pi-tv-bu-vb-pj4:181.1"
 msgid "Yo ca sibbīyati sūcako hi so,"
 msgstr "And a slanderer is sewn,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:181.2"
 msgid "Aṇḍabhāri ahu gāmakūṭako;"
 msgstr "A corrupt magistrate with testicles as burden;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:181.3"
 msgid "Kūpe nimuggo hi so pāradāriko,"
 msgstr "An adulterer submerged in a pit,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:181.4"
 msgid "Gūthakhādī ahu duṭṭhabrāhmaṇo."
 msgstr "An eater of dung was a wicked brahmin."
@@ -4932,17 +4928,17 @@ msgctxt "pi-tv-bu-vb-pj4:182.1"
 msgid "Nicchavitthī aticārinī ahu,"
 msgstr "A flayed woman was an adulteress,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:182.2"
 msgid "Maṅgulitthī ahu ikkhaṇitthikā;"
 msgstr "An ugly woman was a fortune-teller;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:182.3"
 msgid "Okilinī hi sapat­taṅ­gā­rokiri,"
 msgstr "A sweltering woman scattered coals on a co-wife,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:182.4"
 msgid "Sīsacchinno ahu coraghātako."
 msgstr "A beheaded man was an executioner."
@@ -4952,17 +4948,17 @@ msgctxt "pi-tv-bu-vb-pj4:183.1"
 msgid "Bhikkhu bhikkhunī sikkhamānā,"
 msgstr "A monk, a nun, a trainee nun,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:183.2"
 msgid "Sāmaṇero atha sāmaṇerikā;"
 msgstr "A novice monk, then a novice nun;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:183.3"
 msgid "Kassapassa vinayasmiṃ pabbajaṃ,"
 msgstr "These having gone forth in the training of Kassapa"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:183.4"
 msgid "Pāpakam­ma­makariṃsu tāvade."
 msgstr "Did bad deeds just then."
@@ -4972,17 +4968,17 @@ msgctxt "pi-tv-bu-vb-pj4:184.1"
 msgid "Tapodā rājagahe yuddhaṃ,"
 msgstr "The Tapodā in Rājagaha, battle,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:184.2"
 msgid "nāgānogāhanena ca;"
 msgstr "And with the plunging in of elephants;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:184.3"
 msgid "Sobhito arahaṃ bhikkhu,"
 msgstr "The perfected monk Sobhita"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:184.4"
 msgid "pañca­kap­pasataṃ sareti."
 msgstr "Recalls five hundred eons."
@@ -5042,7 +5038,7 @@ msgctxt "pi-tv-bu-vb-pj4:187.5"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule">
+#. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj4:187.6"
 msgid "Na ca, bhikkhave, paṇidhāya araññe vatthabbaṃ."
 msgstr "But, monks, you should not live in the wilderness because of a wish."
@@ -5077,7 +5073,7 @@ msgctxt "pi-tv-bu-vb-pj4:188.5"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule">
+#. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj4:188.6"
 msgid "Na ca, bhikkhave, paṇidhāya piṇḍāya caritabbaṃ."
 msgstr "But, monks, you should not walk for almsfood because of a wish."
@@ -5194,7 +5190,7 @@ msgctxt "pi-tv-bu-vb-pj4:191.8"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule">
+#. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj4:191.9"
 msgid "Na ca, bhikkhave, paṇidhāya seyyā kappetabbā."
 msgstr "But, monks, you should not walk up and down … stand … sit … lie down because of a wish."
@@ -6956,17 +6952,17 @@ msgctxt "pi-tv-bu-vb-pj4:245.1"
 msgid "Methu­nādinnā­dānañca,"
 msgstr "Sexual intercourse, and stealing,"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:245.2"
 msgid "­manus­sa­vigga­huttari;"
 msgstr "Person, super;"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:245.3"
 msgid "Pārājikāni cattāri,"
 msgstr "The four offenses entailing expulsion—"
 
-#. <br>
+#. <br> 
 msgctxt "pi-tv-bu-vb-pj4:245.4"
 msgid "chejjavatthū asaṃsayāti."
 msgstr "The foundation is definitively cut off."
