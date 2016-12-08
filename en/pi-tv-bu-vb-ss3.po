@@ -1,0 +1,1165 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-10-21 10:34-0144\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-ss3"><article><div class="hgroup"><p class="division"> 
+msgctxt "pi-tv-bu-vb-ss3:1.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. </p><p class="division"> 
+msgctxt "pi-tv-bu-vb-ss3:2.1"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss3:3.1"
+msgid "Saṃ­ghā­di­sesa­kaṇḍa"
+msgstr ""
+
+#. </p><h1>
+#. <span class="add"> 
+msgctxt "pi-tv-bu-vb-ss3:4.1"
+msgid "Saṅghādisesā 3:"
+msgstr "Monks’ Suspension 3:"
+
+#. </span> 
+msgctxt "pi-tv-bu-vb-ss3:4.2"
+msgid "Duṭṭhul­la­vācā­sikkhā­pada"
+msgstr "the training rule on lewd speech"
+
+#. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-ss3:4.3"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.128"></a><a class="pts-vp-en" id="bd.1.214" href="#bd.1.214"></a><a class="pts-cs-empty" id="bu-ss.3.1" href="#bu-ss.3.1"></a><a class="pts-cs" id="bu-ss.3.1.1" href="#bu-ss.3.1.1"></a><a class="ms-pa" id="ms-pa1133" href="#ms-pa1133"></a> 
+msgctxt "pi-tv-bu-vb-ss3:5.1"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
+msgstr "At one time, the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pi-tv-bu-vb-ss3:5.2"
+msgid "Tena kho pana samayena āyasmā udāyī araññe viharati."
+msgstr "At that time, Venerable Udāyī was staying in the wilderness,"
+
+msgctxt "pi-tv-bu-vb-ss3:5.3"
+msgid "Tassāyasmato vihāro abhirūpo hoti dassanīyo pāsādiko."
+msgstr "in a beautiful dwelling."
+
+msgctxt "pi-tv-bu-vb-ss3:5.4"
+msgid "Tena kho pana samayena sambahulā itthiyo ārāmaṃ āgamaṃsu vihā­ra­pekkhi­kāyo."
+msgstr "Just then a number of women came to the monastery to see the dwellings."
+
+msgctxt "pi-tv-bu-vb-ss3:5.5"
+msgid "Atha kho tā itthiyo yenāyasmā udāyī tenu­pasaṅka­miṃsu;"
+msgstr "They approached Udāyī"
+
+msgctxt "pi-tv-bu-vb-ss3:5.6"
+msgid "upasaṅkamitvā āyasmantaṃ udāyiṃ etadavocuṃ—"
+msgstr "and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:5.7"
+msgid "“icchāma mayaṃ, bhante, ayyassa vihāraṃ pekkhitun”ti."
+msgstr "“Venerable, we would like to see your dwelling.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss3:5.8"
+msgid "Atha kho āyasmā udāyī tā itthiyo vihāraṃ pekkhāpetvā tāsaṃ itthīnaṃ vaccamaggaṃ passāvamaggaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi"
+msgstr "Then, after showing them his own dwelling, he praised and disparaged their private parts;"
+
+msgctxt "pi-tv-bu-vb-ss3:5.9"
+msgid "bhaṇati yācatipi āyācatipi pucchatipi paṭipucchatipi ācikkhatipi anusāsatipi akkosatipi."
+msgstr "he requested and implored, asked and enquired, described, instructed, and abused."
+
+#. <a class="pts-vp-pi" id="vin.3.128" href="#vin.3.128"></a> 
+msgctxt "pi-tv-bu-vb-ss3:5.10"
+msgid "Yā tā itthiyo chinnikā dhuttikā ahirikāyo tā āyasmatā udāyinā saddhiṃ uhasantipi"
+msgstr "Those  women among them who were wanton and shameless flirted with Udāyī;"
+
+msgctxt "pi-tv-bu-vb-ss3:5.11"
+msgid "ullapantipi ujjagghantipi uppaṇḍentipi."
+msgstr "they called out to him, laughed with him, and made fun of him."
+
+msgctxt "pi-tv-bu-vb-ss3:5.12"
+msgid "Yā pana tā itthiyo hirimanā tā nikkhamitvā bhikkhū ujjhāpenti—"
+msgstr "But, after leaving, those among them who had a sense of shame complained to the monks,"
+
+msgctxt "pi-tv-bu-vb-ss3:5.13"
+msgid "“idaṃ, bhante, nacchannaṃ nappatirūpaṃ."
+msgstr "“Venerables, this isn’t suitable and appropriate."
+
+msgctxt "pi-tv-bu-vb-ss3:5.14"
+msgid "Sāmikenapi mayaṃ evaṃ vuttā na iccheyyāma, kiṃ panāyyena udāyinā”ti."
+msgstr "We wouldn’t want to hear this from our own husbands, let alone from Venerable Udāyī.”"
+
+#. </p><p><a class="pts-cs" id="bu-ss.3.1.2" href="#bu-ss.3.1.2"></a> 
+msgctxt "pi-tv-bu-vb-ss3:5.15"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "The monks of few desires …"
+
+#. <a class="pts-vp-en" id="bd.1.215" href="#bd.1.215"></a> 
+msgctxt "pi-tv-bu-vb-ss3:5.16"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized him,"
+
+msgctxt "pi-tv-bu-vb-ss3:5.17"
+msgid "“kathañhi nāma āyasmā udāyī mātugāmaṃ duṭṭhullāhi vācāhi obhāsissatī”ti."
+msgstr "“How can Venerable Udāyī speak lewdly to women?”"
+
+#. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1134" href="#ms-pa1134"></a> 
+msgctxt "pi-tv-bu-vb-ss3:6.1"
+msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
+msgstr "They rebuked Udāyī in many ways and informed the Master."
+
+msgctxt "pi-tv-bu-vb-ss3:6.2"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ udāyiṃ paṭipucchi—"
+msgstr "And the Master had the Order of monks assembled and questioned Udāyī,"
+
+msgctxt "pi-tv-bu-vb-ss3:6.3"
+msgid "“saccaṃ kira tvaṃ, udāyi, mātugāmaṃ duṭṭhullāhi vācāhi obhāsasī”ti?"
+msgstr "“Is it true, Udāyī, that you spoke lewdly to women?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss3:6.4"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss3:6.5"
+msgid "Vigarahi buddho bhagavā—"
+msgstr "The Buddha rebuked him,"
+
+msgctxt "pi-tv-bu-vb-ss3:6.6"
+msgid "“ananucchavikaṃ, moghapurisa, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
+msgstr "“It’s not suitable, foolish man, it’s not proper, it’s not worthy of a recluse, it’s not allowable, it should not to be done."
+
+msgctxt "pi-tv-bu-vb-ss3:6.7"
+msgid "Kathañhi nāma tvaṃ, moghapurisa, mātugāmaṃ duṭṭhullāhi vācāhi obhāsissasi."
+msgstr "How can you speak lewdly to women?"
+
+msgctxt "pi-tv-bu-vb-ss3:6.8"
+msgid "Nanu mayā, moghapurisa, aneka­pariyā­yena virāgāya dhammo desito no sarāgāya … pe …"
+msgstr "Haven’t I given many teachings for the sake of dispassion, not for the sake of passion …"
+
+msgctxt "pi-tv-bu-vb-ss3:6.9"
+msgid "kāma­pari­ḷāhā­naṃ vūpasamo akkhāto."
+msgstr "for the stilling of the fevers of sense desire?"
+
+msgctxt "pi-tv-bu-vb-ss3:6.10"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pi-tv-bu-vb-ss3:6.11"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss3:7.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="3"></a>
+#. <strong class="rule"> 
+msgctxt "pi-tv-bu-vb-ss3:7.2"
+msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya yathā taṃ yuvā yuvatiṃ methu­nu­pa­saṃhi­tāhi, saṃghādiseso”ti."
+msgstr "‘If a monk, lustful and with a distorted mind, speaks lewd words connected with sexual intercourse to a woman, as a young man might to a young woman, he commits an offense entailing suspension.’”"
+
+#. </strong> 
+msgctxt "pi-tv-bu-vb-ss3:7.3"
+msgid "(<em>3</em>:<strong>7</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss3:8.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-ss.3.2" href="#bu-ss.3.2"></a><a class="ms-pa" id="ms-pa1136" href="#ms-pa1136"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:8.2"
+msgid "Yo panāti"
+msgstr "A:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:8.3"
+msgid "yo yādiso … pe …"
+msgstr "whoever …"
+
+#. </span>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:8.4"
+msgid "bhikkhūti"
+msgstr "Monk:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:8.5"
+msgid "… pe …"
+msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgctxt "pi-tv-bu-vb-ss3:8.6"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case."
+
+#. </span>
+#. </p><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa1137" href="#ms-pa1137"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:9.1"
+msgid "Otiṇṇo nāma"
+msgstr "Lustful:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:9.2"
+msgid "sāratto apekkhavā paṭi­baddha­citto."
+msgstr "having lust, longing for, in love with."
+
+#. </span>
+#. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa1138" href="#ms-pa1138"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:10.1"
+msgid "Vipariṇatanti"
+msgstr "Distorted mind:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:10.2"
+msgid "rattampi cittaṃ vipariṇataṃ, duṭṭhampi cittaṃ vipariṇataṃ mūḷhampi cittaṃ vipariṇataṃ."
+msgstr "a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted."
+
+msgctxt "pi-tv-bu-vb-ss3:10.3"
+msgid "Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti."
+msgstr "But in this case “distorted” refers to a mind with desire."
+
+#. </span>
+#. </p><p><a class="sc" id="7"></a><a class="ms-pa" id="ms-pa1139" href="#ms-pa1139"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:11.1"
+msgid "Mātugāmo nāma"
+msgstr "A woman:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:11.2"
+msgid "manussitthī, na yakkhī, na petī, na tiracchānagatā."
+msgstr "a human female, not a female spirit, not a female ghost, not a female animal."
+
+#. <a class="pts-vp-en" id="bd.1.216" href="#bd.1.216"></a> 
+msgctxt "pi-tv-bu-vb-ss3:11.3"
+msgid "Viññū paṭibalā subhā­sita­dub­bhāsi­taṃ duṭṭhul­lā­duṭṭhul­laṃ ājānituṃ."
+msgstr "She understands and is capable of discerning bad speech and good speech, what is lewd and what is not lewd."
+
+#. </span>
+#. </p><p><a class="sc" id="8"></a><a class="ms-pa" id="ms-pa1140" href="#ms-pa1140"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:12.1"
+msgid "Duṭṭhullā nāma"
+msgstr "Lewd words:"
+
+#. </strong><span class="gloss"><a class="ms-pa" id="ms-pa1141" href="#ms-pa1141"></a> 
+msgctxt "pi-tv-bu-vb-ss3:12.2"
+msgid "vācā vacca­magga­passā­va­magga­me­thuna­dhammap­paṭi­saṃ­yuttā vācā."
+msgstr "speech connected with the anus, the vagina, or sexual intercourse."
+
+#. </span>
+#. </p><p><a class="sc" id="9"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:13.1"
+msgid "Obhāseyyāti"
+msgstr "Speaks:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:13.2"
+msgid "ajjhācāro vuccati."
+msgstr "misconduct is what is meant."
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1142" href="#ms-pa1142"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:14.1"
+msgid "Yathā taṃ yuvā yuvatinti"
+msgstr "As a young man might to a young woman:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:14.2"
+msgid "daharo dahariṃ, taruṇo taruṇiṃ, kāmabhogī kāmabhoginiṃ."
+msgstr "a male youth to a female youth, a boy to a girl, a male indulging in sense pleasures to a female indulging in sense pleasures."
+
+#. </span>
+#. </p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi3.129"></a><a class="pts-vp-pi" id="vin.3.129" href="#vin.3.129"></a><a class="ms-pa" id="ms-pa1143" href="#ms-pa1143"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:15.1"
+msgid "Methu­nu­pa­saṃhi­tāhīti"
+msgstr "Connected with sexual intercourse:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:15.2"
+msgid "methuna­dhammap­paṭi­saṃ­yuttāhi."
+msgstr "connected with the sexual act."
+
+#. </span>
+#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1144" href="#ms-pa1144"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:16.1"
+msgid "Saṃghādisesoti"
+msgstr "He commits an offense entailing suspension:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:16.2"
+msgid "… pe … tenapi vuccati saṃghādisesoti."
+msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
+
+#. </span>
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss3:17.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><h4>
+msgctxt "pi-tv-bu-vb-ss3:17.2"
+msgid ""
+msgstr "Summary"
+
+#. </h4><p><a class="sc" id="13"></a><a class="pts-cs-empty" href="#bu-ss.3.3" id="bu-ss.3.3"></a><a class="pts-cs" href="#bu-ss.3.3.1" id="bu-ss.3.3.1"></a><a class="ms-pa" href="#ms-pa1145" id="ms-pa1145"></a> 
+msgctxt "pi-tv-bu-vb-ss3:17.3"
+msgid "Dve magge ādissa vaṇṇampi bhaṇati, avaṇṇampi bhaṇati, yācatipi, āyācatipi, pucchatipi, paṭipucchatipi, ācikkhatipi, anusāsatipi, akkosatipi."
+msgstr "Referring to the two private orifices, he praises, disparages, requests, implores, asks, enquires, describes, instructs, abuses."
+
+#. </p><h4>
+msgctxt "pi-tv-bu-vb-ss3:17.4"
+msgid ""
+msgstr "Sub-definitions"
+
+#. </h4><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1146" href="#ms-pa1146"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:18.1"
+msgid "Vaṇṇaṃ bhaṇati nāma"
+msgstr "Praises:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:18.2"
+msgid "dve magge thometi vaṇṇeti pasaṃsati."
+msgstr "extols, praises, commends the two private orifices."
+
+#. </span>
+#. </p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1147" href="#ms-pa1147"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:19.1"
+msgid "Avaṇṇaṃ bhaṇati nāma"
+msgstr "Disparages:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:19.2"
+msgid "dve magge khuṃseti vambheti garahati."
+msgstr "despises, reviles, censures the two private orifices."
+
+#. </span>
+#. </p><p><a class="sc" id="16"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:20.1"
+msgid "Yācati nāma"
+msgstr "Requests:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:20.2"
+msgid "dehi me, arahasi me dātunti."
+msgstr "saying, “Give to me; you should to give to me.”"
+
+#. </span>
+#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1149" href="#ms-pa1149"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:21.1"
+msgid "Āyācati nāma"
+msgstr "Implores:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:21.2"
+msgid "kadā te mātā pasīdissati,"
+msgstr "saying, “When will you please your mother?"
+
+msgctxt "pi-tv-bu-vb-ss3:21.3"
+msgid "kadā te pitā pasīdissati,"
+msgstr "When will you please your father?"
+
+msgctxt "pi-tv-bu-vb-ss3:21.4"
+msgid "kadā te devatāyo pasīdissanti,"
+msgstr "When will you please the gods?"
+
+msgctxt "pi-tv-bu-vb-ss3:21.5"
+msgid "kadā sukhaṇo sulayo sumuhutto bhavissati,"
+msgstr "When will there be a good opportunity, a good time, a good moment?"
+
+msgctxt "pi-tv-bu-vb-ss3:21.6"
+msgid "kadā te methunaṃ dhammaṃ labhissāmīti."
+msgstr "When will I have sexual intercourse with you?”"
+
+#. </span>
+#. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1150" href="#ms-pa1150"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:22.1"
+msgid "Pucchati nāma"
+msgstr "Asks:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:22.2"
+msgid "kathaṃ tvaṃ sāmikassa desi,"
+msgstr "saying, “How do you give to your husband?"
+
+msgctxt "pi-tv-bu-vb-ss3:22.3"
+msgid "kathaṃ jārassa desīti?"
+msgstr "How do you give to your lover?”"
+
+#. </span>
+#. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1151" href="#ms-pa1151"></a><a class="pts-vp-en" id="bd.1.217" href="#bd.1.217"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:23.1"
+msgid "Paṭipucchati nāma"
+msgstr "Enquires:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:23.2"
+msgid "evaṃ kira tvaṃ sāmikassa desi,"
+msgstr "saying, “So in this way you give to your husband;"
+
+msgctxt "pi-tv-bu-vb-ss3:23.3"
+msgid "evaṃ jārassa desīti."
+msgstr "in this way you give to your lover?”"
+
+#. </span>
+#. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1152" href="#ms-pa1152"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:24.1"
+msgid "Ācikkhati nāma"
+msgstr "Describes:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:24.2"
+msgid "puṭṭho bhaṇati—"
+msgstr "having been asked, he says,"
+
+msgctxt "pi-tv-bu-vb-ss3:24.3"
+msgid "“evaṃ dehi."
+msgstr "“Give in this way."
+
+msgctxt "pi-tv-bu-vb-ss3:24.4"
+msgid "Evaṃ dentā sāmikassa piyā bhavissati manāpā cā”ti."
+msgstr "When you do, you’ll be dear and pleasing to your husband.”"
+
+#. </span>
+#. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1153" href="#ms-pa1153"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:25.1"
+msgid "Anusāsati nāma"
+msgstr "Instructs:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:25.2"
+msgid "apuṭṭho bhaṇati—"
+msgstr "not having been asked, he says,"
+
+msgctxt "pi-tv-bu-vb-ss3:25.3"
+msgid "“evaṃ dehi."
+msgstr "“Give in this way."
+
+msgctxt "pi-tv-bu-vb-ss3:25.4"
+msgid "Evaṃ dentā sāmikassa piyā bhavissati manāpā cā”ti."
+msgstr "When you do, you’ll be dear and pleasing to your husband.”"
+
+#. </span>
+#. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1154" href="#ms-pa1154"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-ss3:26.1"
+msgid "Akkosati nāma"
+msgstr "Abuses:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-ss3:26.2"
+msgid "animittāsi,"
+msgstr "saying, “You’re lacking sexual characteristics;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.3"
+msgid "nimittamattāsi,"
+msgstr "you’re defective in sexual characteristics;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.4"
+msgid "alohitāsi,"
+msgstr "you don’t menstruate;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.5"
+msgid "dhuvalohitāsi,"
+msgstr "you menstruate continuously;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.6"
+msgid "dhuvacoḷāsi,"
+msgstr "you use the menstruation cloth continuously;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.7"
+msgid "paggharantīsi,"
+msgstr "you’re dripping;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.8"
+msgid "sikharaṇīsi,"
+msgstr "you’re deformed;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.9"
+msgid "itthipaṇḍakāsi,"
+msgstr "you’re a sexually eccentric female;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.10"
+msgid "vepurisikāsi,"
+msgstr "you have male characteristics;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.11"
+msgid "sambhinnāsi,"
+msgstr "your sexual characteristics are mixed;"
+
+msgctxt "pi-tv-bu-vb-ss3:26.12"
+msgid "ubhatob­yañ­janā­sīti."
+msgstr "you’re a hermaphrodite.”"
+
+#. </span>
+#. </p><h4>
+msgctxt "pi-tv-bu-vb-ss3:27.1"
+msgid ""
+msgstr "Exposition"
+
+#. </h4><p><a class="sc" id="23"></a><a class="pts-cs" id="bu-ss.3.3.2" href="#bu-ss.3.3.2"></a><a class="ms-pa" id="ms-pa1155" href="#ms-pa1155"></a> 
+msgctxt "pi-tv-bu-vb-ss3:27.2"
+msgid "Itthī ca hoti itthisaññī sāratto ca."
+msgstr "It is a woman, he perceives her as a woman, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:27.3"
+msgid "Bhikkhu ca naṃ itthiyā vaccamaggaṃ passāvamaggaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati yācatipi āyācatipi pucchatipi paṭipucchatipi ācikkhatipi anusāsatipi akkosatipi, āpatti saṃ­ghā­di­sesassa …"
+msgstr "If the monk, referring to one of the two private orifices of the woman, praises, disparages, requests, implores, asks, enquires, describes, instructs, abuses, he commits an offense entailing suspension. …"
+
+#. <span class="add"> 
+msgctxt "pi-tv-bu-vb-ss3:27.4"
+msgid "pe …."
+msgstr "To be expanded as in <a href=\"#ms-pa1122\">MS.1.1122-MS.1.1035</a>. …"
+
+#. </span>
+#. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1156" href="#ms-pa1156"></a> 
+msgctxt "pi-tv-bu-vb-ss3:28.1"
+msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
+msgstr "It is two women, he perceives them both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:28.2"
+msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ vaccamaggaṃ passāvamaggaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to one of the two private orifices of both women, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:28.3"
+msgid "akkosatipi, āpatti dvinnaṃ saṃ­ghādi­sesānaṃ … pe …."
+msgstr "abuses, he commits two offenses entailing suspension. …"
+
+#. <span class="add"> 
+msgctxt "pi-tv-bu-vb-ss3:28.4"
+msgid ""
+msgstr "To be expanded as in <a href=\"#Ms.1.1036\">MS.1.1036-MS.1.1045</a>. …"
+
+#. </span>
+#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1157" href="#ms-pa1157"></a> 
+msgctxt "pi-tv-bu-vb-ss3:29.1"
+msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
+msgstr "It is a woman and a sexual eccentric, but he perceives both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:29.2"
+msgid "Bhikkhu ca naṃ ubhinnaṃ vaccamaggaṃ passāvamaggaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to one of the two private orifices of both of them, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:29.3"
+msgid "akkosatipi, āpatti saṃghādisesena dukkaṭassa … pe …."
+msgstr "abuses, he commits one offense entailing suspension and one offense of wrong conduct. …"
+
+#. <span class="add"> 
+msgctxt "pi-tv-bu-vb-ss3:29.4"
+msgid ""
+msgstr "To be expanded as in <a href=\"#Ms.1.1046\">MS.1.1046-MS.1.1060</a>. …"
+
+#. </span>
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.3.3" href="#bu-ss.3.3.3"></a><a class="ms-pa" id="ms-pa1158" href="#ms-pa1158"></a><a class="sc" id="26"></a><a class="pts-vp-pi" id="pts-vp-pi3.130"></a> 
+msgctxt "pi-tv-bu-vb-ss3:30.1"
+msgid "Itthī ca hoti itthisaññī sāratto ca."
+msgstr "It is a woman, he perceives her as a woman, and he has lust."
+
+#. <a class="pts-vp-pi" id="vin.3.130" href="#vin.3.130"></a> 
+msgctxt "pi-tv-bu-vb-ss3:30.2"
+msgid "Bhikkhu ca naṃ itthiyā vaccamaggaṃ passāvamaggaṃ ṭhapetvā adhakkhakaṃ ubbha­jāṇu­maṇḍa­laṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to any part of the woman below the collar bone but above the knees, apart from the two private orifices, praises, disparages  …"
+
+msgctxt "pi-tv-bu-vb-ss3:30.3"
+msgid "akkosatipi, āpatti thullaccayassa … pe …."
+msgstr "abuses, he commits a serious offense. …"
+
+#. </p><p><a class="sc" id="27"></a><a class="pts-vp-en" id="bd.1.218" href="#bd.1.218"></a><a class="ms-pa" id="ms-pa1159" href="#ms-pa1159"></a> 
+msgctxt "pi-tv-bu-vb-ss3:31.1"
+msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
+msgstr "It is two women, he perceives them both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:31.2"
+msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ vaccamaggaṃ passāvamaggaṃ ṭhapetvā adhakkhakaṃ ubbha­jāṇu­maṇḍa­laṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to any part of both women below the collar bone but above the knees, apart from the two private orifices, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:31.3"
+msgid "akkosatipi, āpatti dvinnaṃ thullaccayānaṃ … pe …."
+msgstr "abuses, he commits two serious offenses. …"
+
+#. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1160" href="#ms-pa1160"></a> 
+msgctxt "pi-tv-bu-vb-ss3:32.1"
+msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
+msgstr "It is a woman and a sexual eccentric, but he perceives both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:32.2"
+msgid "Bhikkhu ca naṃ ubhinnaṃ vaccamaggaṃ passāvamaggaṃ ṭhapetvā adhakkhakaṃ ubbha­jāṇu­maṇḍa­laṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to any part of both of them below the collar bone but above the knees, apart from the two private orifices, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:32.3"
+msgid "akkosatipi, āpatti thullaccayena dukkaṭassa … pe …."
+msgstr "abuses, he commits one serious offense and one offense of wrong conduct. …"
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.3.4" href="#bu-ss.3.3.4"></a><a class="ms-pa" id="ms-pa1161" href="#ms-pa1161"></a><a class="sc" id="29"></a> 
+msgctxt "pi-tv-bu-vb-ss3:33.1"
+msgid "Itthī ca hoti itthisaññī sāratto ca."
+msgstr "It is a woman, he perceives her as a woman, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:33.2"
+msgid "Bhikkhu ca naṃ itthiyā ubbhakkhakaṃ adho­jāṇu­maṇḍa­laṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to any part of the woman above the collar bone or below the knees, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:33.3"
+msgid "akkosatipi, āpatti dukkaṭassa … pe …."
+msgstr "abuses, he commits an offense of wrong conduct. …"
+
+#. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1162" href="#ms-pa1162"></a> 
+msgctxt "pi-tv-bu-vb-ss3:34.1"
+msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
+msgstr "It is two women, he perceives them both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:34.2"
+msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ ubbhakkhakaṃ adho­jāṇu­maṇḍa­laṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to any part of both women above the collar bone or below the knees, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:34.3"
+msgid "akkosatipi, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
+msgstr "abuses, he commits two offenses of wrong conduct. …"
+
+#. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1163" href="#ms-pa1163"></a> 
+msgctxt "pi-tv-bu-vb-ss3:35.1"
+msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
+msgstr "It is a woman and a sexual eccentric, but he perceives both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:35.2"
+msgid "Bhikkhu ca naṃ ubhinnaṃ ubbhakkhakaṃ adho­jāṇu­maṇḍa­laṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to any part of both of them above the collar bone or below the knees, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:35.3"
+msgid "akkosatipi, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
+msgstr "abuses, he commits two offenses of wrong conduct. …"
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.3.5" href="#bu-ss.3.3.5"></a><a class="ms-pa" id="ms-pa1164" href="#ms-pa1164"></a><a class="sc" id="32"></a> 
+msgctxt "pi-tv-bu-vb-ss3:36.1"
+msgid "Itthī ca hoti itthisaññī sāratto ca."
+msgstr "It is a woman, he perceives her as a woman, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:36.2"
+msgid "Bhikkhu ca naṃ itthiyā kāyapaṭi­baddhaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to anything connected to the woman’s body, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:36.3"
+msgid "akkosatipi, āpatti dukkaṭassa … pe …."
+msgstr "abuses, he commits an offense of wrong conduct. …"
+
+#. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="ms-pa1165" href="#ms-pa1165"></a> 
+msgctxt "pi-tv-bu-vb-ss3:37.1"
+msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
+msgstr "It is two women, he perceives them both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:37.2"
+msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyapaṭi­baddhaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to anything connected to the body of both women, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:37.3"
+msgid "akkosatipi, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
+msgstr "abuses, he commits two offenses of wrong conduct. …"
+
+#. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms-pa1166" href="#ms-pa1166"></a> 
+msgctxt "pi-tv-bu-vb-ss3:38.1"
+msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
+msgstr "It is a woman and a sexual eccentric, but he perceives both as women, and he has lust."
+
+msgctxt "pi-tv-bu-vb-ss3:38.2"
+msgid "Bhikkhu ca naṃ ubhinnaṃ kāyapaṭi­baddhaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
+msgstr "If the monk, referring to anything connected to the body of both of them, praises, disparages …"
+
+msgctxt "pi-tv-bu-vb-ss3:38.3"
+msgid "akkosatipi, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
+msgstr "abuses, he commits two offenses of wrong conduct. …"
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss3:39.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="35"></a><a class="pts-cs" id="bu-ss.3.3.6" href="#bu-ss.3.3.6"></a><a class="ms-pa" id="ms-pa1167" href="#ms-pa1167"></a> 
+msgctxt "pi-tv-bu-vb-ss3:39.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pi-tv-bu-vb-ss3:39.3"
+msgid "attha­purek­khā­rassa,"
+msgstr "if he is aiming at what is beneficial;"
+
+msgctxt "pi-tv-bu-vb-ss3:39.4"
+msgid "dhamma­purek­khā­rassa,"
+msgstr "if he is aiming at giving a teaching;"
+
+msgctxt "pi-tv-bu-vb-ss3:39.5"
+msgid "anu­sāsa­ni­purek­khā­rassa,"
+msgstr "if he is aiming at giving instruction;"
+
+msgctxt "pi-tv-bu-vb-ss3:39.6"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pi-tv-bu-vb-ss3:39.7"
+msgid "ādi­kammi­kas­sāti."
+msgstr "if he is the first offender."
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss3:40.1"
+msgid "3.1. Vinīta­vatthu­uddāna­gāthā"
+msgstr "Case rulings"
+
+#. </h2><div class="uddana"><h5><a class="ms-pa" href="#ms-pa1168" id="ms-pa1168"></a> 
+msgctxt "pi-tv-bu-vb-ss3:40.2"
+msgid ""
+msgstr "Mnemonic list"
+
+#. </h5><p><a class="sc" id="36"></a> 
+msgctxt "pi-tv-bu-vb-ss3:41.1"
+msgid "Lohitaṃ kakkasākiṇṇaṃ,"
+msgstr "Red, coarse, thick,"
+
+#. <br> 
+msgctxt "pi-tv-bu-vb-ss3:41.2"
+msgid "kharaṃ dīghañca vāpitaṃ;"
+msgstr "Rough, long, sown;"
+
+#. <br> 
+msgctxt "pi-tv-bu-vb-ss3:41.3"
+msgid "Kacci saṃsīdati maggo,"
+msgstr "I hope the path has an end,"
+
+#. <br> 
+msgctxt "pi-tv-bu-vb-ss3:41.4"
+msgid "saddhā dānena kammunāti."
+msgstr "Faith, with a gift, with work."
+
+#. </p></div><h3>
+msgctxt "pi-tv-bu-vb-ss3:42.1"
+msgid "3.2. Vinītavatthu"
+msgstr "Case details"
+
+#. </h3><p><a class="sc" id="37"></a><a class="pts-cs-empty" id="bu-ss.3.4" href="#bu-ss.3.4"></a><a class="pts-cs" id="bu-ss.3.4.1" href="#bu-ss.3.4.1"></a><a class="pts-vp-en" id="bd.1.219" href="#bd.1.219"></a><a class="ms-pa" id="ms-pa1169" href="#ms-pa1169"></a> 
+msgctxt "pi-tv-bu-vb-ss3:43.1"
+msgid "Tena kho pana samayena aññatarā itthī navarattaṃ kambalaṃ pārutā hoti."
+msgstr "At one time, a certain woman was wearing a newly dyed upper robe of wool."
+
+msgctxt "pi-tv-bu-vb-ss3:43.2"
+msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
+msgstr "A monk, being lustful, said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:43.3"
+msgid "“lohitaṃ kho te, bhaginī”ti."
+msgstr "“Sister, is that red thing yours?”"
+
+msgctxt "pi-tv-bu-vb-ss3:43.4"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:43.5"
+msgid "“Āmāyya, navaratto kambalo”ti."
+msgstr "“Yes, Venerable, it’s a newly dyed upper robe of wool.”"
+
+msgctxt "pi-tv-bu-vb-ss3:43.6"
+msgid "Tassa kukkuccaṃ ahosi"
+msgstr "He became remorseful and thought,"
+
+msgctxt "pi-tv-bu-vb-ss3:43.7"
+msgid "“bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti?"
+msgstr "“The Master has laid down a training rule."
+
+msgctxt "pi-tv-bu-vb-ss3:43.8"
+msgid "kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti?"
+msgstr "Could it be that I’ve committed an offense entailing suspension?”"
+
+msgctxt "pi-tv-bu-vb-ss3:43.9"
+msgid "Bhagavato etamatthaṃ ārocesi."
+msgstr "He informed the Master, and the Master said,"
+
+msgctxt "pi-tv-bu-vb-ss3:43.10"
+msgid "“Anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:43.11"
+msgid "āpatti dukkaṭassā”ti."
+msgstr "but there’s an offense of wrong conduct.”"
+
+msgctxt "pi-tv-bu-vb-ss3:43.12"
+msgid "(1)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.2" href="#bu-ss.3.4.2"></a><a class="ms-pa" id="ms-pa1170" href="#ms-pa1170"></a><a class="sc" id="38"></a> 
+msgctxt "pi-tv-bu-vb-ss3:44.1"
+msgid "Tena kho pana samayena aññatarā itthī kharakambalaṃ pārutā hoti."
+msgstr "At one time, a certain woman was wearing an upper robe of coarse wool."
+
+msgctxt "pi-tv-bu-vb-ss3:44.2"
+msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
+msgstr "A monk, being lustful, said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:44.3"
+msgid "“kakkasalomaṃ kho te, bhaginī”ti."
+msgstr "“Sister, is that coarse hair yours?”"
+
+msgctxt "pi-tv-bu-vb-ss3:44.4"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:44.5"
+msgid "“Āmāyya, kharakambalo”ti."
+msgstr "“Yes, Venerable, it’s an upper robe of coarse wool.”"
+
+msgctxt "pi-tv-bu-vb-ss3:44.6"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:44.7"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:44.8"
+msgid "āpatti dukkaṭassā”ti."
+msgstr "but there’s an offense of wrong conduct.”"
+
+msgctxt "pi-tv-bu-vb-ss3:44.9"
+msgid "(2)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.3" href="#bu-ss.3.4.3"></a><a class="ms-pa" id="ms-pa1171" href="#ms-pa1171"></a><a class="sc" id="39"></a> 
+msgctxt "pi-tv-bu-vb-ss3:45.1"
+msgid "Tena kho pana samayena aññatarā itthī navāvutaṃ kambalaṃ pārutā hoti."
+msgstr "At one time, a certain woman was wearing a newly woven upper robe of wool."
+
+msgctxt "pi-tv-bu-vb-ss3:45.2"
+msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
+msgstr "A monk, being lustful, said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:45.3"
+msgid "“ākiṇṇalomaṃ kho te, bhaginī”ti."
+msgstr "“Sister, is that thick hair yours?”"
+
+msgctxt "pi-tv-bu-vb-ss3:45.4"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:45.5"
+msgid "“Āmāyya, navāvuto kambalo”ti."
+msgstr "“Yes, Venerable, it’s a newly woven upper robe of wool.”"
+
+msgctxt "pi-tv-bu-vb-ss3:45.6"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:45.7"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:45.8"
+msgid "āpatti dukkaṭassā”ti."
+msgstr "but there’s an offense of wrong conduct.”"
+
+msgctxt "pi-tv-bu-vb-ss3:45.9"
+msgid "(3)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.4" href="#bu-ss.3.4.4"></a><a class="ms-pa" id="ms-pa1172" href="#ms-pa1172"></a><a class="sc" id="40"></a> 
+msgctxt "pi-tv-bu-vb-ss3:46.1"
+msgid "Tena kho pana samayena aññatarā itthī kha­ra­kam­balakaṃ pārutā hoti."
+msgstr "At one time, a certain woman was wearing an upper robe of coarse wool."
+
+msgctxt "pi-tv-bu-vb-ss3:46.2"
+msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
+msgstr "A monk, being lustful, said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:46.3"
+msgid "“kharalomaṃ kho te, bhaginī”ti."
+msgstr "“Sister, is that rough hair yours?”"
+
+msgctxt "pi-tv-bu-vb-ss3:46.4"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:46.5"
+msgid "“Āmāyya, kharakambalako”ti."
+msgstr "“Yes, Venerable, it’s an upper robe of coarse wool.”"
+
+msgctxt "pi-tv-bu-vb-ss3:46.6"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:46.7"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:46.8"
+msgid "āpatti dukkaṭassā”ti."
+msgstr "but there’s an offense of wrong conduct.”"
+
+msgctxt "pi-tv-bu-vb-ss3:46.9"
+msgid "(4)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.5" href="#bu-ss.3.4.5"></a><a class="ms-pa" id="ms-pa1173" href="#ms-pa1173"></a><a class="sc" id="41"></a> 
+msgctxt "pi-tv-bu-vb-ss3:47.1"
+msgid "Tena kho pana samayena aññatarā itthī pāvāraṃ pārutā hoti."
+msgstr "At one time, a certain woman was wearing a fleecy upper robe."
+
+#. <a class="pts-vp-en" id="bd.1.220" href="#bd.1.220"></a> 
+msgctxt "pi-tv-bu-vb-ss3:47.2"
+msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
+msgstr "A monk, being lustful, said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:47.3"
+msgid "“dīghalomaṃ kho te, bhaginī”ti."
+msgstr "“Sister, is that long hair yours?”"
+
+msgctxt "pi-tv-bu-vb-ss3:47.4"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:47.5"
+msgid "“Āmāyya, pāvāro”ti."
+msgstr "“Yes, Venerable, it’s a fleecy upper robe.”"
+
+msgctxt "pi-tv-bu-vb-ss3:47.6"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:47.7"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:47.8"
+msgid "āpatti dukkaṭassā”ti."
+msgstr "but there’s an offense of wrong conduct.”"
+
+msgctxt "pi-tv-bu-vb-ss3:47.9"
+msgid "(5)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.6" href="#bu-ss.3.4.6"></a><a class="pts-vp-pi" id="vin.3.131" href="#vin.3.131"></a><a class="ms-pa" id="ms-pa1174" href="#ms-pa1174"></a><a class="sc" id="42"></a><a class="pts-vp-pi" id="pts-vp-pi3.131"></a> 
+msgctxt "pi-tv-bu-vb-ss3:48.1"
+msgid "Tena kho pana samayena aññatarā itthī khettaṃ vapāpetvā āgacchati."
+msgstr "At one time, a woman was returning after having had a field sown."
+
+msgctxt "pi-tv-bu-vb-ss3:48.2"
+msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
+msgstr "A monk, being lustful, said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:48.3"
+msgid "“vāpitaṃ kho te, bhaginī”ti?"
+msgstr "“Have you sown, Sister?”"
+
+msgctxt "pi-tv-bu-vb-ss3:48.4"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:48.5"
+msgid "“Āmāyya, no ca kho paṭivuttan”ti."
+msgstr "“Yes, Venerable, but the furrow is not yet closed.”"
+
+msgctxt "pi-tv-bu-vb-ss3:48.6"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:48.7"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:48.8"
+msgid "āpatti dukkaṭassā”ti."
+msgstr "but there’s an offense of wrong conduct.”"
+
+msgctxt "pi-tv-bu-vb-ss3:48.9"
+msgid "(6)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.7" href="#bu-ss.3.4.7"></a><a class="ms-pa" id="ms-pa1175" href="#ms-pa1175"></a><a class="sc" id="43"></a> 
+msgctxt "pi-tv-bu-vb-ss3:49.1"
+msgid "Tena kho pana samayena aññataro bhikkhu paribbājikaṃ paṭipathe passitvā sāratto taṃ paribbājikaṃ etadavoca—"
+msgstr "At one time, a monk saw a female wanderer coming in the opposite direction, and being lustful he said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:49.2"
+msgid "“kacci, bhagini, maggo saṃsīdatī”ti?"
+msgstr "“Sister, I hope the path has an end?”"
+
+msgctxt "pi-tv-bu-vb-ss3:49.3"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand and said,"
+
+msgctxt "pi-tv-bu-vb-ss3:49.4"
+msgid "“Āma, bhikkhu, paṭipajjissasī”ti."
+msgstr "“Yes, just keep going.”"
+
+msgctxt "pi-tv-bu-vb-ss3:49.5"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:49.6"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:49.7"
+msgid "āpatti thullaccayassā”ti."
+msgstr "but there’s a serious offense.”"
+
+msgctxt "pi-tv-bu-vb-ss3:49.8"
+msgid "(7)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.8" href="#bu-ss.3.4.8"></a><a class="ms-pa" id="ms-pa1176" href="#ms-pa1176"></a><a class="sc" id="44"></a> 
+msgctxt "pi-tv-bu-vb-ss3:50.1"
+msgid "Tena kho pana samayena aññataro bhikkhu sāratto aññataraṃ itthiṃ etadavoca—"
+msgstr "At one time, a monk, being lustful, said to a woman,"
+
+msgctxt "pi-tv-bu-vb-ss3:50.2"
+msgid "“saddhāsi tvaṃ, bhagini."
+msgstr "“You have confidence, Sister,"
+
+msgctxt "pi-tv-bu-vb-ss3:50.3"
+msgid "Api ca yaṃ sāmikassa desi taṃ nāmhākaṃ desī”ti."
+msgstr "but you don’t give us what you give your husband.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss3:50.4"
+msgid "“Kiṃ, bhante”ti?"
+msgstr "“What’s that, Venerable?”"
+
+#. </p><p><a class="pts-vp-en" id="bd.1.221" href="#bd.1.221"></a> 
+msgctxt "pi-tv-bu-vb-ss3:50.5"
+msgid "“Methunadhamman”ti."
+msgstr "“Sexual intercourse.”"
+
+msgctxt "pi-tv-bu-vb-ss3:50.6"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:50.7"
+msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno saṃghādisesan”ti."
+msgstr "“There’s an offense entailing suspension.”"
+
+msgctxt "pi-tv-bu-vb-ss3:50.8"
+msgid "(8)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.9" href="#bu-ss.3.4.9"></a><a class="ms-pa" id="ms-pa1177" href="#ms-pa1177"></a><a class="sc" id="45"></a> 
+msgctxt "pi-tv-bu-vb-ss3:51.1"
+msgid "Tena kho pana samayena aññataro bhikkhu sāratto aññataraṃ itthiṃ etadavoca—"
+msgstr "At one time, a monk, being lustful, said to a woman,"
+
+msgctxt "pi-tv-bu-vb-ss3:51.2"
+msgid "“saddhāsi tvaṃ, bhagini."
+msgstr "“You have confidence, Sister,"
+
+msgctxt "pi-tv-bu-vb-ss3:51.3"
+msgid "Api ca yaṃ aggadānaṃ taṃ nāmhākaṃ desī”ti."
+msgstr "yet you don’t give us the highest gift.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss3:51.4"
+msgid "“Kiṃ, bhante, aggadānan”ti?"
+msgstr "“What’s the highest gift, Venerable?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss3:51.5"
+msgid "“Methunadhamman”ti."
+msgstr "“Sexual intercourse.”"
+
+msgctxt "pi-tv-bu-vb-ss3:51.6"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:51.7"
+msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno saṃghādisesan”ti."
+msgstr "“There’s an offense entailing suspension.”"
+
+msgctxt "pi-tv-bu-vb-ss3:51.8"
+msgid "(9)"
+msgstr ""
+
+#. </p><hr><p><a class="pts-cs" id="bu-ss.3.4.10" href="#bu-ss.3.4.10"></a><a class="ms-pa" id="ms-pa1178" href="#ms-pa1178"></a><a class="sc" id="46"></a> 
+msgctxt "pi-tv-bu-vb-ss3:52.1"
+msgid "Tena kho pana samayena aññatarā itthī kammaṃ karoti."
+msgstr "At one time, a woman was doing some work."
+
+msgctxt "pi-tv-bu-vb-ss3:52.2"
+msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
+msgstr "A monk, being lustful, said to her,"
+
+msgctxt "pi-tv-bu-vb-ss3:52.3"
+msgid "“tiṭṭha, bhagini, ahaṃ karissāmī”ti … pe …"
+msgstr "“Stand, Sister, I’ll work.” …"
+
+msgctxt "pi-tv-bu-vb-ss3:52.4"
+msgid "nisīda, bhagini, ahaṃ karissāmī”ti … pe …"
+msgstr "“Sit, Sister, I’ll work.” …"
+
+msgctxt "pi-tv-bu-vb-ss3:52.5"
+msgid "nipajja, bhagini, ahaṃ karissāmī”ti."
+msgstr "“Lie down, Sister, I’ll work.”"
+
+msgctxt "pi-tv-bu-vb-ss3:52.6"
+msgid "Sā na paṭivijāni."
+msgstr "She did not understand."
+
+msgctxt "pi-tv-bu-vb-ss3:52.7"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr "He became remorseful …"
+
+msgctxt "pi-tv-bu-vb-ss3:52.8"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr "“There’s no offense entailing suspension,"
+
+msgctxt "pi-tv-bu-vb-ss3:52.9"
+msgid "āpatti dukkaṭassā”ti."
+msgstr "but there’s an offense of wrong conduct.”"
+
+msgctxt "pi-tv-bu-vb-ss3:52.10"
+msgid "(10–‍12)"
+msgstr ""
+
+#. </p><p class="endsutta"><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa1179" href="#ms-pa1179"></a> 
+msgctxt "pi-tv-bu-vb-ss3:53.1"
+msgid "Duṭṭhul­la­vācā­sikkhā­padaṃ niṭṭhitaṃ tatiyaṃ."
+msgstr "The third rule, the training rule on lewd speech, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Hornerʼs translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html>
