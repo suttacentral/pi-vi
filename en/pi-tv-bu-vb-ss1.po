@@ -1091,7 +1091,7 @@ msgctxt "pi-tv-bu-vb-ss1:59.2"
 msgid "­bhesaj­jat­thañca sukhatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of medicine and for the sake of pleasure, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa829" href="#ms-pa829"></a><a class="sc" id="56"></a> 
+#. </p><hr><p><a class="sc" id="56"></a><a class="ms-pa" id="ms-pa829" href="#ms-pa829"></a> 
 msgctxt "pi-tv-bu-vb-ss1:60.1"
 msgid "Dānatthañca puññatthañca … pe …"
 msgstr "If, for the sake of a gift and for the sake of merit …"
@@ -1129,7 +1129,7 @@ msgctxt "pi-tv-bu-vb-ss1:61.3"
 msgid "dānatthañca ­bhesaj­jat­thañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of a gift and for the sake of medicine, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa831" href="#ms-pa831"></a><a class="sc" id="58"></a> 
+#. </p><hr><p><a class="sc" id="58"></a><a class="ms-pa" id="ms-pa831" href="#ms-pa831"></a> 
 msgctxt "pi-tv-bu-vb-ss1:62.1"
 msgid "Puññatthañca yaññatthañca … pe …"
 msgstr "If, for the sake of merit and for the sake of sacrifice …"
@@ -1167,7 +1167,7 @@ msgctxt "pi-tv-bu-vb-ss1:63.4"
 msgid "puññatthañca dānatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of merit and for the sake of a gift, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa833" href="#ms-pa833"></a><a class="sc" id="60"></a> 
+#. </p><hr><p><a class="sc" id="60"></a><a class="ms-pa" id="ms-pa833" href="#ms-pa833"></a> 
 msgctxt "pi-tv-bu-vb-ss1:64.1"
 msgid "Yaññatthañca saggatthañca … pe …"
 msgstr "If, for the sake of sacrifice and for the sake of heaven …"
@@ -1205,7 +1205,7 @@ msgctxt "pi-tv-bu-vb-ss1:65.5"
 msgid "yaññatthañca puññatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of sacrifice and for the sake of merit, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa835" href="#ms-pa835"></a><a class="sc" id="62"></a> 
+#. </p><hr><p><a class="sc" id="62"></a><a class="ms-pa" id="ms-pa835" href="#ms-pa835"></a> 
 msgctxt "pi-tv-bu-vb-ss1:66.1"
 msgid "Saggatthañca bījatthañca … pe …"
 msgstr "If, for the sake of heaven and for the sake of seed …"
@@ -1243,7 +1243,7 @@ msgctxt "pi-tv-bu-vb-ss1:67.6"
 msgid "saggatthañca yaññatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of heaven and for the sake of sacrifice, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa837" href="#ms-pa837"></a><a class="sc" id="64"></a> 
+#. </p><hr><p><a class="sc" id="64"></a><a class="ms-pa" id="ms-pa837" href="#ms-pa837"></a> 
 msgctxt "pi-tv-bu-vb-ss1:68.1"
 msgid "Bījatthañca vīmaṃsatthañca … pe …"
 msgstr "If, for the sake of seed and for the sake of investigating …"
@@ -1281,7 +1281,7 @@ msgctxt "pi-tv-bu-vb-ss1:69.7"
 msgid "bījatthañca saggatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of seed and for the sake of heaven, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa839" href="#ms-pa839"></a><a class="sc" id="66"></a> 
+#. </p><hr><p><a class="sc" id="66"></a><a class="ms-pa" id="ms-pa839" href="#ms-pa839"></a> 
 msgctxt "pi-tv-bu-vb-ss1:70.1"
 msgid "Vīmaṃsatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of investigating and for the sake of fun, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
@@ -1319,7 +1319,7 @@ msgctxt "pi-tv-bu-vb-ss1:71.8"
 msgid "vīmaṃsatthañca bījatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of investigating and for the sake of seed, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa841" href="#ms-pa841"></a><a class="sc" id="68"></a> 
+#. </p><hr><p><a class="sc" id="68"></a><a class="ms-pa" id="ms-pa841" href="#ms-pa841"></a> 
 msgctxt "pi-tv-bu-vb-ss1:72.1"
 msgid "Davatthañca ārogyatthañca … pe …"
 msgstr "If, for the sake of fun and for the sake of health …"
@@ -1553,7 +1553,7 @@ msgctxt "pi-tv-bu-vb-ss1:93.2"
 msgid "lohitakañca pītakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends red and yellow, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa863" href="#ms-pa863"></a><a class="sc" id="90"></a> 
+#. </p><hr><p><a class="sc" id="90"></a><a class="ms-pa" id="ms-pa863" href="#ms-pa863"></a> 
 msgctxt "pi-tv-bu-vb-ss1:94.1"
 msgid "Odātañca takkavaṇṇañca … pe …"
 msgstr "If he intends white and the color of buttermilk …"
@@ -1591,7 +1591,7 @@ msgctxt "pi-tv-bu-vb-ss1:95.3"
 msgid "odātañca lohitakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends white and red, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa865" href="#ms-pa865"></a><a class="sc" id="92"></a> 
+#. </p><hr><p><a class="sc" id="92"></a><a class="ms-pa" id="ms-pa865" href="#ms-pa865"></a> 
 msgctxt "pi-tv-bu-vb-ss1:96.1"
 msgid "Takkavaṇṇañca dakavaṇṇañca … pe …"
 msgstr "If he intends the color of buttermilk and the color of water …"
@@ -1629,7 +1629,7 @@ msgctxt "pi-tv-bu-vb-ss1:97.4"
 msgid "takkavaṇṇañca odātañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of buttermilk and white, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa867" href="#ms-pa867"></a><a class="sc" id="94"></a> 
+#. </p><hr><p><a class="sc" id="94"></a><a class="ms-pa" id="ms-pa867" href="#ms-pa867"></a> 
 msgctxt "pi-tv-bu-vb-ss1:98.1"
 msgid "Dakavaṇṇañca telavaṇṇañca … pe …"
 msgstr "If he intends the color of water and the color of oil …"
@@ -1667,7 +1667,7 @@ msgctxt "pi-tv-bu-vb-ss1:99.5"
 msgid "dakavaṇṇañca takkavaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of water and the color of buttermilk, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa869" href="#ms-pa869"></a><a class="sc" id="96"></a> 
+#. </p><hr><p><a class="sc" id="96"></a><a class="ms-pa" id="ms-pa869" href="#ms-pa869"></a> 
 msgctxt "pi-tv-bu-vb-ss1:100.1"
 msgid "Telavaṇṇañca khīravaṇṇañca … pe …"
 msgstr "If he intends the color of oil and the color of milk …"
@@ -1705,7 +1705,7 @@ msgctxt "pi-tv-bu-vb-ss1:101.6"
 msgid "telavaṇṇañca dakavaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of oil and the color of water, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa871" href="#ms-pa871"></a><a class="sc" id="98"></a> 
+#. </p><hr><p><a class="sc" id="98"></a><a class="ms-pa" id="ms-pa871" href="#ms-pa871"></a> 
 msgctxt "pi-tv-bu-vb-ss1:102.1"
 msgid "Khīravaṇṇañca dadhivaṇṇañca … pe …"
 msgstr "If he intends the color of milk and the color of curd …"
@@ -1743,7 +1743,7 @@ msgctxt "pi-tv-bu-vb-ss1:103.7"
 msgid "khīravaṇṇañca telavaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of milk and the color of oil, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa873" href="#ms-pa873"></a><a class="sc" id="100"></a> 
+#. </p><hr><p><a class="sc" id="100"></a><a class="ms-pa" id="ms-pa873" href="#ms-pa873"></a> 
 msgctxt "pi-tv-bu-vb-ss1:104.1"
 msgid "Dadhivaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of curd and the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
@@ -1781,7 +1781,7 @@ msgctxt "pi-tv-bu-vb-ss1:105.8"
 msgid "dadhivaṇṇañca khīravaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of curd and the color of milk, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa875" href="#ms-pa875"></a><a class="sc" id="102"></a> 
+#. </p><hr><p><a class="sc" id="102"></a><a class="ms-pa" id="ms-pa875" href="#ms-pa875"></a> 
 msgctxt "pi-tv-bu-vb-ss1:106.1"
 msgid "Sappivaṇṇañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of ghee and blue, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
@@ -3009,7 +3009,7 @@ msgctxt "pi-tv-bu-vb-ss1:194.6"
 msgid "(21–‍22)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa962" href="#ms-pa962"></a><a class="sc" id="189"></a> 
+#. </p><hr><p><a class="sc" id="189"></a><a class="ms-pa" id="ms-pa962" href="#ms-pa962"></a> 
 msgctxt "pi-tv-bu-vb-ss1:195.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno jantāghare upajjhāyassa piṭṭhi­pari­kammaṃ karontassa asuci mucci."
 msgstr "On one occasion, a monk was rubbing his preceptor’s back in the sauna, and semen was emitted."
@@ -3026,7 +3026,7 @@ msgctxt "pi-tv-bu-vb-ss1:195.4"
 msgid "(23)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa963" href="#ms-pa963"></a><a class="sc" id="190"></a> 
+#. </p><hr><p><a class="sc" id="190"></a><a class="ms-pa" id="ms-pa963" href="#ms-pa963"></a> 
 msgctxt "pi-tv-bu-vb-ss1:196.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa jantāghare upajjhāyassa piṭṭhi­pari­kammaṃ karontassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, rubbed his preceptor’s back in the sauna, and semen was emitted. …"
@@ -3051,7 +3051,7 @@ msgctxt "pi-tv-bu-vb-ss1:196.6"
 msgid "(24–‍25)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa964" href="#ms-pa964"></a><a class="sc" id="191"></a> 
+#. </p><hr><p><a class="sc" id="191"></a><a class="ms-pa" id="ms-pa964" href="#ms-pa964"></a> 
 msgctxt "pi-tv-bu-vb-ss1:197.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno ūruṃ ghaṭṭāpentassa asuci mucci."
 msgstr "On one occasion, a monk was having his thigh massaged, and semen was emitted."
@@ -3068,7 +3068,7 @@ msgctxt "pi-tv-bu-vb-ss1:197.4"
 msgid "(26)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa965" href="#ms-pa965"></a><a class="sc" id="192"></a> 
+#. </p><hr><p><a class="sc" id="192"></a><a class="ms-pa" id="ms-pa965" href="#ms-pa965"></a> 
 msgctxt "pi-tv-bu-vb-ss1:198.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa ūruṃ ghaṭṭāpentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, had his thigh massaged, and semen was emitted. …"
@@ -3093,7 +3093,7 @@ msgctxt "pi-tv-bu-vb-ss1:198.6"
 msgid "(27–‍28)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.9" href="#bu-ss.1.5.9"></a><a class="ms-pa" id="ms-pa966" href="#ms-pa966"></a><a class="sc" id="193"></a> 
+#. </p><hr><p><a class="sc" id="193"></a><a class="pts-cs" id="bu-ss.1.5.9" href="#bu-ss.1.5.9"></a><a class="ms-pa" id="ms-pa966" href="#ms-pa966"></a> 
 msgctxt "pi-tv-bu-vb-ss1:199.1"
 msgid "Tena kho pana samayena aññataro bhikkhu mocanādhippāyo aññataraṃ sāmaṇeraṃ etadavoca—"
 msgstr "On one occasion, a monk, aiming at emission, said to a novice,"
@@ -3122,7 +3122,7 @@ msgctxt "pi-tv-bu-vb-ss1:199.7"
 msgid "(29)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa967" href="#ms-pa967"></a><a class="sc" id="194"></a><a class="pts-vp-pi" id="pts-vp-pi3.118"></a> 
+#. </p><hr><p><a class="sc" id="194"></a><a class="ms-pa" id="ms-pa967" href="#ms-pa967"></a><a class="pts-vp-pi" id="pts-vp-pi3.118"></a> 
 msgctxt "pi-tv-bu-vb-ss1:200.1"
 msgid "Tena kho pana samayena aññataro bhikkhu suttassa sāmaṇerassa aṅgajātaṃ aggahesi."
 msgstr "On one occasion, a monk took hold of the penis of a sleeping novice,"
@@ -3148,7 +3148,7 @@ msgctxt "pi-tv-bu-vb-ss1:200.6"
 msgid "(30)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.10" href="#bu-ss.1.5.10"></a><a class="ms-pa" id="ms-pa968" href="#ms-pa968"></a><a class="sc" id="195"></a> 
+#. </p><hr><p><a class="sc" id="195"></a><a class="pts-cs" id="bu-ss.1.5.10" href="#bu-ss.1.5.10"></a><a class="ms-pa" id="ms-pa968" href="#ms-pa968"></a> 
 msgctxt "pi-tv-bu-vb-ss1:201.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa ūrūhi aṅgajātaṃ pīḷentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, pressed his penis between his thighs, and semen was emitted. …"
@@ -3173,7 +3173,7 @@ msgctxt "pi-tv-bu-vb-ss1:201.6"
 msgid "(31–‍32)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa969" href="#ms-pa969"></a><a class="sc" id="196"></a> 
+#. </p><hr><p><a class="sc" id="196"></a><a class="ms-pa" id="ms-pa969" href="#ms-pa969"></a> 
 msgctxt "pi-tv-bu-vb-ss1:202.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa muṭṭhinā aṅgajātaṃ pīḷentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, pressed his penis with his fist, and semen was emitted. …"
@@ -3198,7 +3198,7 @@ msgctxt "pi-tv-bu-vb-ss1:202.6"
 msgid "(33–‍34)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa970" href="#ms-pa970"></a><a class="sc" id="197"></a> 
+#. </p><hr><p><a class="sc" id="197"></a><a class="ms-pa" id="ms-pa970" href="#ms-pa970"></a> 
 msgctxt "pi-tv-bu-vb-ss1:203.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa ākāse kaṭiṃ kampentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, shook his pelvis in the air, and semen was emitted. …"
@@ -3223,7 +3223,7 @@ msgctxt "pi-tv-bu-vb-ss1:203.6"
 msgid "(35–‍36)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.11" href="#bu-ss.1.5.11"></a><a class="ms-pa" id="ms-pa971" href="#ms-pa971"></a><a class="sc" id="198"></a> 
+#. </p><hr><p><a class="sc" id="198"></a><a class="pts-cs" id="bu-ss.1.5.11" href="#bu-ss.1.5.11"></a><a class="ms-pa" id="ms-pa971" href="#ms-pa971"></a> 
 msgctxt "pi-tv-bu-vb-ss1:204.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno kāyaṃ thambhentassa asuci mucci."
 msgstr "On one occasion, a monk stretched his body, and semen was emitted."
@@ -3240,7 +3240,7 @@ msgctxt "pi-tv-bu-vb-ss1:204.4"
 msgid "(37)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa972" href="#ms-pa972"></a><a class="sc" id="199"></a> 
+#. </p><hr><p><a class="sc" id="199"></a><a class="ms-pa" id="ms-pa972" href="#ms-pa972"></a> 
 msgctxt "pi-tv-bu-vb-ss1:205.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa kāyaṃ thambhentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, stretched his body, and semen was emitted. …"
@@ -3265,7 +3265,7 @@ msgctxt "pi-tv-bu-vb-ss1:205.6"
 msgid "(38–‍39)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.12" href="#bu-ss.1.5.12"></a><a class="ms-pa" id="ms-pa973" href="#ms-pa973"></a><a class="sc" id="200"></a> 
+#. </p><hr><p><a class="sc" id="200"></a><a class="pts-cs" id="bu-ss.1.5.12" href="#bu-ss.1.5.12"></a><a class="ms-pa" id="ms-pa973" href="#ms-pa973"></a> 
 msgctxt "pi-tv-bu-vb-ss1:206.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sāratto mātugāmassa aṅgajātaṃ upanijjhāyi."
 msgstr "On one occasion, a monk, being lustful, stared at the private parts of a woman,"
@@ -3296,7 +3296,7 @@ msgctxt "pi-tv-bu-vb-ss1:206.7"
 msgid "(40)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.13" href="#bu-ss.1.5.13"></a><a class="ms-pa" id="ms-pa974" href="#ms-pa974"></a><a class="sc" id="201"></a> 
+#. </p><hr><p><a class="sc" id="201"></a><a class="pts-cs" id="bu-ss.1.5.13" href="#bu-ss.1.5.13"></a><a class="ms-pa" id="ms-pa974" href="#ms-pa974"></a> 
 msgctxt "pi-tv-bu-vb-ss1:207.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa tāḷacchiddaṃ aṅgajātaṃ pavesentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, inserted his penis into a keyhole, and semen was emitted. …"
@@ -3321,7 +3321,7 @@ msgctxt "pi-tv-bu-vb-ss1:207.6"
 msgid "(41–‍42)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.14" href="#bu-ss.1.5.14"></a><a class="ms-pa" id="ms-pa975" href="#ms-pa975"></a><a class="sc" id="202"></a> 
+#. </p><hr><p><a class="sc" id="202"></a><a class="pts-cs" id="bu-ss.1.5.14" href="#bu-ss.1.5.14"></a><a class="ms-pa" id="ms-pa975" href="#ms-pa975"></a> 
 msgctxt "pi-tv-bu-vb-ss1:208.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa kaṭṭhena aṅgajātaṃ ghaṭṭentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, rubbed his penis against a piece of wood, and semen was emitted. …"
@@ -3346,7 +3346,7 @@ msgctxt "pi-tv-bu-vb-ss1:208.6"
 msgid "(43–‍44)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.15" href="#bu-ss.1.5.15"></a><a class="ms-pa" id="ms-pa976" href="#ms-pa976"></a><a class="sc" id="203"></a> 
+#. </p><hr><p><a class="sc" id="203"></a><a class="pts-cs" id="bu-ss.1.5.15" href="#bu-ss.1.5.15"></a><a class="ms-pa" id="ms-pa976" href="#ms-pa976"></a> 
 msgctxt "pi-tv-bu-vb-ss1:209.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno paṭisote nhāyantassa asuci mucci."
 msgstr "On one occasion, a monk was bathing against the current, and semen was emitted."
@@ -3363,7 +3363,7 @@ msgctxt "pi-tv-bu-vb-ss1:209.4"
 msgid "(45)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa977" href="#ms-pa977"></a><a class="sc" id="204"></a> 
+#. </p><hr><p><a class="sc" id="204"></a><a class="ms-pa" id="ms-pa977" href="#ms-pa977"></a> 
 msgctxt "pi-tv-bu-vb-ss1:210.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa paṭisote nhāyantassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, bathed against the current, and semen was emitted. …"
@@ -3388,7 +3388,7 @@ msgctxt "pi-tv-bu-vb-ss1:210.6"
 msgid "(46–‍47)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.16" href="#bu-ss.1.5.16"></a><a class="ms-pa" id="ms-pa978" href="#ms-pa978"></a><a class="sc" id="205"></a> 
+#. </p><hr><p><a class="sc" id="205"></a><a class="pts-cs" id="bu-ss.1.5.16" href="#bu-ss.1.5.16"></a><a class="ms-pa" id="ms-pa978" href="#ms-pa978"></a> 
 msgctxt "pi-tv-bu-vb-ss1:211.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno udañjalaṃ kīḷantassa asuci mucci."
 msgstr "On one occasion, a monk was playing in mud, and semen was emitted."
@@ -3405,7 +3405,7 @@ msgctxt "pi-tv-bu-vb-ss1:211.4"
 msgid "(48)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa979" href="#ms-pa979"></a><a class="sc" id="206"></a> 
+#. </p><hr><p><a class="sc" id="206"></a><a class="ms-pa" id="ms-pa979" href="#ms-pa979"></a> 
 msgctxt "pi-tv-bu-vb-ss1:212.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa udañjalaṃ kīḷantassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, played in mud, and semen was emitted. …"
@@ -3430,7 +3430,7 @@ msgctxt "pi-tv-bu-vb-ss1:212.6"
 msgid "(49–‍50)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa980" href="#ms-pa980"></a><a class="sc" id="207"></a> 
+#. </p><hr><p><a class="sc" id="207"></a><a class="ms-pa" id="ms-pa980" href="#ms-pa980"></a> 
 msgctxt "pi-tv-bu-vb-ss1:213.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno udake dhāvantassa asuci mucci."
 msgstr "On one occasion, a monk ran in water, and semen was emitted."
@@ -3447,7 +3447,7 @@ msgctxt "pi-tv-bu-vb-ss1:213.4"
 msgid "(51)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa981" href="#ms-pa981"></a><a class="sc" id="208"></a> 
+#. </p><hr><p><a class="sc" id="208"></a><a class="ms-pa" id="ms-pa981" href="#ms-pa981"></a> 
 msgctxt "pi-tv-bu-vb-ss1:214.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa udake dhāvantassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, ran in water, and semen was emitted. …"
@@ -3472,7 +3472,7 @@ msgctxt "pi-tv-bu-vb-ss1:214.6"
 msgid "(52–‍53)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa982" href="#ms-pa982"></a><a class="sc" id="209"></a> 
+#. </p><hr><p><a class="sc" id="209"></a><a class="ms-pa" id="ms-pa982" href="#ms-pa982"></a> 
 msgctxt "pi-tv-bu-vb-ss1:215.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno pupphāvaliyaṃ kīḷantassa asuci mucci."
 msgstr "On one occasion, a monk was playing in the mud on the steep banks of a river, and semen was emitted."
@@ -3489,7 +3489,7 @@ msgctxt "pi-tv-bu-vb-ss1:215.4"
 msgid "(54)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa983" href="#ms-pa983"></a><a class="sc" id="210"></a> 
+#. </p><hr><p><a class="sc" id="210"></a><a class="ms-pa" id="ms-pa983" href="#ms-pa983"></a> 
 msgctxt "pi-tv-bu-vb-ss1:216.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa pupphāvaliyaṃ kīḷantassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, played in the mud on the steep banks of a river, and semen was emitted. …"
@@ -3514,7 +3514,7 @@ msgctxt "pi-tv-bu-vb-ss1:216.6"
 msgid "(55–‍56)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa984" href="#ms-pa984"></a><a class="sc" id="211"></a> 
+#. </p><hr><p><a class="sc" id="211"></a><a class="ms-pa" id="ms-pa984" href="#ms-pa984"></a> 
 msgctxt "pi-tv-bu-vb-ss1:217.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno pokkharavane dhāvantassa asuci mucci."
 msgstr "On one occasion, a monk was running in a lotus grove, and semen was emitted."
@@ -3531,7 +3531,7 @@ msgctxt "pi-tv-bu-vb-ss1:217.4"
 msgid "(57)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa985" href="#ms-pa985"></a><a class="sc" id="212"></a> 
+#. </p><hr><p><a class="sc" id="212"></a><a class="ms-pa" id="ms-pa985" href="#ms-pa985"></a> 
 msgctxt "pi-tv-bu-vb-ss1:218.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa pokkharavane dhāvantassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, ran in a lotus grove, and semen was emitted. …"
@@ -3556,7 +3556,7 @@ msgctxt "pi-tv-bu-vb-ss1:218.6"
 msgid "(58–‍59)"
 msgstr ""
 
-#. </p><hr><p><a class="pts-cs" id="bu-ss.1.5.17" href="#bu-ss.1.5.17"></a><a class="ms-pa" id="ms-pa986" href="#ms-pa986"></a><a class="sc" id="213"></a> 
+#. </p><hr><p><a class="sc" id="213"></a><a class="pts-cs" id="bu-ss.1.5.17" href="#bu-ss.1.5.17"></a><a class="ms-pa" id="ms-pa986" href="#ms-pa986"></a> 
 msgctxt "pi-tv-bu-vb-ss1:219.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa vālikaṃ aṅgajātaṃ pavesentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, inserted his penis into sand, and semen was emitted. …"
@@ -3581,7 +3581,7 @@ msgctxt "pi-tv-bu-vb-ss1:219.6"
 msgid "(60–‍61)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa987" href="#ms-pa987"></a><a class="sc" id="214"></a><a class="pts-vp-pi" id="pts-vp-pi3.119"></a> 
+#. </p><hr><p><a class="sc" id="214"></a><a class="ms-pa" id="ms-pa987" href="#ms-pa987"></a><a class="pts-vp-pi" id="pts-vp-pi3.119"></a> 
 msgctxt "pi-tv-bu-vb-ss1:220.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa kaddamaṃ aṅgajātaṃ pavesentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, inserted his penis into mud, and semen was emitted. …"
@@ -3607,7 +3607,7 @@ msgctxt "pi-tv-bu-vb-ss1:220.6"
 msgid "(62–‍63)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa988" href="#ms-pa988"></a><a class="sc" id="215"></a> 
+#. </p><hr><p><a class="sc" id="215"></a><a class="ms-pa" id="ms-pa988" href="#ms-pa988"></a> 
 msgctxt "pi-tv-bu-vb-ss1:221.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno udakena aṅgajātaṃ osiñcantassa asuci mucci."
 msgstr "On one occasion, a monk sprinkled water on his penis, and semen was emitted."
@@ -3624,7 +3624,7 @@ msgctxt "pi-tv-bu-vb-ss1:221.4"
 msgid "(64)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa989" href="#ms-pa989"></a><a class="sc" id="216"></a> 
+#. </p><hr><p><a class="sc" id="216"></a><a class="ms-pa" id="ms-pa989" href="#ms-pa989"></a> 
 msgctxt "pi-tv-bu-vb-ss1:222.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa udakena aṅgajātaṃ osiñcantassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, sprinkled water on his penis, and semen was emitted. …"
@@ -3649,7 +3649,7 @@ msgctxt "pi-tv-bu-vb-ss1:222.6"
 msgid "(65–‍66)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa990" href="#ms-pa990"></a><a class="sc" id="217"></a> 
+#. </p><hr><p><a class="sc" id="217"></a><a class="ms-pa" id="ms-pa990" href="#ms-pa990"></a> 
 msgctxt "pi-tv-bu-vb-ss1:223.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa sayane aṅgajātaṃ ghaṭṭentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, rubbed his penis against his bed, and semen was emitted. …"
@@ -3674,7 +3674,7 @@ msgctxt "pi-tv-bu-vb-ss1:223.6"
 msgid "(67–‍68)"
 msgstr ""
 
-#. </p><hr><p><a class="ms-pa" id="ms-pa991" href="#ms-pa991"></a><a class="sc" id="218"></a> 
+#. </p><hr><p><a class="sc" id="218"></a><a class="ms-pa" id="ms-pa991" href="#ms-pa991"></a> 
 msgctxt "pi-tv-bu-vb-ss1:224.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa aṅguṭṭhena aṅgajātaṃ ghaṭṭentassa asuci mucci … pe …"
 msgstr "On one occasion, a monk, aiming at emission, rubbed his penis with his thumb, and semen was emitted. …"
