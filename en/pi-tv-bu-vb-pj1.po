@@ -1286,7 +1286,7 @@ msgctxt "pi-tv-bu-vb-pj1:9.8"
 msgid "Maraṇenapi mayaṃ te akāmakā vinā bhavissāma, kiṃ pana mayaṃ taṃ jīvantaṃ anujānissāma agārasmā anagāriyaṃ pabbajjāyā”ti."
 msgstr ""
 
-#. </p><p><a class="sc" id="5"></a> 
+#. </p><p><a class="sc" id="45"></a> 
 msgctxt "pi-tv-bu-vb-pj1:10.1"
 msgid "Tatiyampi kho sudinno kalandaputto mātāpitaro etadavoca—"
 msgstr "and a third time, but got the same reply."
@@ -2513,7 +2513,7 @@ msgctxt "pi-tv-bu-vb-pj1:41.10"
 msgid "Atha kho so bhikkhu vesāliyaṃ piṇḍāya caritvā piṇḍapātaṃ ādāya paṭikkami."
 msgstr "Then, when that monk had finished his almsround in Vesālī and had returned with his almsfood,"
 
-#. </p><p><a class="sc" id="36"></a> 
+#. </p><p><a class="sc" id="76"></a> 
 msgctxt "pi-tv-bu-vb-pj1:42.1"
 msgid "Atha kho sā makkaṭī yena so bhikkhu tenupasaṅkami."
 msgstr ""
@@ -2531,7 +2531,7 @@ msgctxt "pi-tv-bu-vb-pj1:42.4"
 msgid "Atha kho so bhikkhu tassā makkaṭiyā methunaṃ dhammaṃ paṭisevati."
 msgstr "and he had sexual intercourse with her."
 
-#. </p><p><a class="sc" id="37"></a> 
+#. </p><p><a class="sc" id="77"></a> 
 msgctxt "pi-tv-bu-vb-pj1:43.1"
 msgid "Atha kho te bhikkhū taṃ bhikkhuṃ etadavocuṃ—"
 msgstr "Those monks said to that monk,"
@@ -2796,7 +2796,7 @@ msgid "Yo panāti "
 msgstr "A:"
 
 #. </strong>
-#. <a class="sc" id="46"></a><a class="pts-vp-pi" id="pts-vp-pi3.24" href="#Vin.3.24"></a>
+#. <a class="sc" id="86"></a><a class="pts-vp-pi" id="pts-vp-pi3.24" href="#Vin.3.24"></a>
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj1:53.1"
 msgid "yo yādiso yathāyutto yathājacco yathānāmo yathāgotto yathāsīlo yathāvihārī yathāgocaro thero vā navo vā majjhimo vā."
@@ -3762,7 +3762,7 @@ msgid "yo nimittena nimittaṃ aṅgajātena aṅgajātaṃ antamaso tilaphala­
 msgstr "organ with organ, genital with genital, even to the depth of a sesame seed—this is called “has.”"
 
 #. </span>
-#. </p><p><a class="sc" id="65"></a>
+#. </p><p><a class="sc" id="105"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj1:72.1"
 msgid "Antamaso tiracchā­na­gatā­yapīti"
@@ -4247,7 +4247,7 @@ msgctxt "pi-tv-bu-vb-pj1:82.13"
 msgid "na sādiyati, anāpatti."
 msgstr "If he does not agree … there is no offense."
 
-#. </p><hr><p><a class="sc" id="76"></a> 
+#. </p><hr><p><a class="sc" id="116"></a> 
 msgctxt "pi-tv-bu-vb-pj1:83.1"
 msgid "Bhik­khu­pac­catthikā ­manus­sa­paṇḍa­kaṃ …"
 msgstr "Enemy monks bring a sexually nonconformist human …"
@@ -5287,7 +5287,7 @@ msgctxt "pi-tv-bu-vb-pj1:105.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="98"></a> 
+#. </h2><p><a class="sc" id="138"></a> 
 msgctxt "pi-tv-bu-vb-pj1:105.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
