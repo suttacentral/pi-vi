@@ -25,18 +25,12 @@ msgstr "Monks’ rules and their analysis"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-ss1:3.1"
 msgid "Saṃ­ghā­di­sesa­kaṇḍa"
-msgstr ""
+msgstr "Monks’ Suspension"
 
 #. </p><h1>
-#. <span class="add"> 
-msgctxt "pi-tv-bu-vb-ss1:4.1"
-msgid "Saṅghādisesā 1:"
-msgstr "Monks’ Suspension 1:"
-
-#. </span> 
 msgctxt "pi-tv-bu-vb-ss1:4.2"
 msgid "Sukka­vissaṭ­ṭhi­sikkhā­pada"
-msgstr "the training rule on emission of semen"
+msgstr "1. The training rule on emission of semen"
 
 #. </h1></div><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.110"></a><a class="pts-vp-en" id="bd.1.192" href="#bd.1.192"></a><a class="pts-vp-pi" id="vin.3.110" href="#vin.3.110"></a><a class="ms-pa" id="ms-pa774" href="#ms-pa774"></a> 
 msgctxt "pi-tv-bu-vb-ss1:5.1"
@@ -381,7 +375,7 @@ msgstr "making it move from its base—"
 
 msgctxt "pi-tv-bu-vb-ss1:15.3"
 msgid "vuccati vissaṭṭhīti."
-msgstr "this is what is meant by “emission."
+msgstr "this is what is meant by “emission”."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa785" href="#ms-pa785"></a><strong class="term"> 

@@ -26,18 +26,12 @@ msgstr "Monks’ rules and their analysis"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:3.1"
 msgid "Pārājikakaṇḍa"
-msgstr ""
+msgstr "Monks’ Expulsion"
 
 #. </p><h1>
-#. <span class="add"> 
 msgctxt "pi-tv-bu-vb-pj3:4.1"
-msgid "Pārājika 3:"
-msgstr "Monks’ Expulsion 3:"
-
-#. </span> 
-msgctxt "pi-tv-bu-vb-pj3:4.2"
 msgid "Tatiya­pā­rāji­ka­sikkhā­pada"
-msgstr "the third training rule"
+msgstr "3. The third training rule"
 
 #. </h1></div><h2>
 msgctxt "pi-tv-bu-vb-pj3:5.1"
@@ -316,7 +310,7 @@ msgctxt "pi-tv-bu-vb-pj3:14.1"
 msgid "Kathaṃ bhāvito ca, bhikkhave, ānā­pā­nassa­ti­samā­dhi kathaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti?"
 msgstr "And how is stillness by mindfulness of breathing developed and cultivated in this way?"
 
-#. </p><div class="sutta"><p>
+#. </p><div class="parallel"><p>
 #. <a class="pts-vp-en" id="bd.1.122" href="#bd.1.122"></a> 
 msgctxt "pi-tv-bu-vb-pj3:14.2"
 msgid "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati"

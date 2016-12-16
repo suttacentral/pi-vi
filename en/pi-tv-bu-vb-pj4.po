@@ -26,18 +26,12 @@ msgstr "Monks’ rules and their analysis"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:3.1"
 msgid "Pārājikakaṇḍa"
-msgstr ""
+msgstr "Monks’ Expulsion"
 
 #. </p><h1>
-#. <span class="add"> 
-msgctxt "pi-tv-bu-vb-pj4:4.1"
-msgid "Pārājika 4:"
-msgstr "Monks’ Expulsion 4:"
-
-#. </span> 
 msgctxt "pi-tv-bu-vb-pj4:4.2"
 msgid "Catut­tha­pā­rāji­ka­sikkhā­pada"
-msgstr "the fourth training rule"
+msgstr "4. The fourth training rule"
 
 #. </h1></div><h2>
 msgctxt "pi-tv-bu-vb-pj4:5.1"
@@ -408,7 +402,7 @@ msgctxt "pi-tv-bu-vb-pj4:12.15"
 msgid "vigarahitvā dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "After criticizing them and giving a teaching, he addressed the monks:"
 
-#. </p><div class="sutta"><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pj.4.1.3" href="#Bu-Pj.4.1.3"></a><a class="ms-pa" id="ms.542" href="#ms.542"></a> 
+#. </p><div class="parallel"><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pj.4.1.3" href="#Bu-Pj.4.1.3"></a><a class="ms-pa" id="ms.542" href="#ms.542"></a> 
 msgctxt "pi-tv-bu-vb-pj4:13.1"
 msgid "“Pañcime, bhikkhave, mahācorā santo saṃvijjamānā lokasmiṃ."
 msgstr "“Monks, there are these five great gangsters to be found in the world."
@@ -5994,7 +5988,7 @@ msgctxt "pi-tv-bu-vb-pj4:215.1"
 msgid ""
 msgstr "Case details, part 2"
 
-#. </h3><div class="sutta"><p><a class="sc" id="209"></a><a class="pts-cs-empty" id="Bu-Pj.4.9"></a><a class="pts-cs" id="Bu-Pj.4.9.1" href="#Bu-Pj.4.9.1"></a><a class="ms-pa" id="ms.742" href="#ms.742"></a> 
+#. </h3><div class="parallel"><p><a class="sc" id="209"></a><a class="pts-cs-empty" id="Bu-Pj.4.9"></a><a class="pts-cs" id="Bu-Pj.4.9.1" href="#Bu-Pj.4.9.1"></a><a class="ms-pa" id="ms.742" href="#ms.742"></a> 
 msgctxt "pi-tv-bu-vb-pj4:215.2"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
 msgstr "At one time, the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary,"

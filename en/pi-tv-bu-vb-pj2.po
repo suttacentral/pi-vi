@@ -26,18 +26,12 @@ msgstr "Monks’ rules and their analysis"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:3.1"
 msgid "Pārājikakaṇḍa"
-msgstr ""
+msgstr "Monks’ Expulsion"
 
 #. </p><h1>
-#. <span class="add"> 
 msgctxt "pi-tv-bu-vb-pj2:4.1"
-msgid "Pārājika 2:"
-msgstr "Monks’ Expulsion 2:"
-
-#. </span> 
-msgctxt "pi-tv-bu-vb-pj2:4.2"
 msgid "Dutiya­pā­rāji­ka­sikkhā­pada"
-msgstr "the second training rule"
+msgstr "2. The second training rule"
 
 #. </h1></div><h2>
 msgctxt "pi-tv-bu-vb-pj2:5.1"

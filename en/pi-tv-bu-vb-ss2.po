@@ -25,18 +25,12 @@ msgstr "Monks’ rules and their analysis"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-ss2:3.1"
 msgid "Saṃ­ghā­di­sesa­kaṇḍa"
-msgstr ""
+msgstr "Monks’ Suspension"
 
 #. </p><h1>
-#. <span class="add"> 
-msgctxt "pi-tv-bu-vb-ss2:4.1"
-msgid "Saṅghādisesā 2:"
-msgstr "Monks’ Suspension 2:"
-
-#. </span> 
 msgctxt "pi-tv-bu-vb-ss2:4.2"
 msgid "Kāyasaṃ­sagga­sikkhā­pada"
-msgstr "the training rule on physical contact"
+msgstr "2. The training rule on physical contact"
 
 #. </h1></div><h2>
 msgctxt "pi-tv-bu-vb-ss2:5.1"

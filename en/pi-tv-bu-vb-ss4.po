@@ -25,18 +25,12 @@ msgstr "Monks’ rules and their analysis"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-ss4:3.1"
 msgid "Saṃ­ghā­di­sesa­kaṇḍa"
-msgstr ""
+msgstr "Monks’ Suspension"
 
 #. </p><h1>
-#. <span class="add"> 
-msgctxt "pi-tv-bu-vb-ss4:4.1"
-msgid "Saṅghādisesā 4:"
-msgstr "Monks’ Suspension 4:"
-
-#. </span> 
 msgctxt "pi-tv-bu-vb-ss4:4.2"
 msgid "Attakā­ma­pāri­cari­ya­sikkhā­pada"
-msgstr "the training rule on fulfilling one’s own desires"
+msgstr "4. The training rule on fulfilling one’s own desires"
 
 #. </h1></div><h2>
 msgctxt "pi-tv-bu-vb-ss4:5.1"
@@ -582,7 +576,7 @@ msgstr "It is a man …"
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:32.2"
 msgid ""
-msgstr "This section on “It is a man” is to be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-ss2/57-58\">Saṅghādisesā 2, paragraphs 40–41</a>. …"
+msgstr "This section on “It is a man” is to be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-ss2/57-58\">Saṅghādisesa 2, paragraphs 40–41</a>. …"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-ss4:32.3"
@@ -622,7 +616,7 @@ msgstr "If the monk, in the presence of both women, commends the fulfilling of h
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:33.3"
 msgid ""
-msgstr "To be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-ss2/63-74\">Saṅghādisesā 2, paragraphs 45–53</a>. …"
+msgstr "To be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-ss2/63-74\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1209" href="#ms-pa1209"></a> 
@@ -637,7 +631,7 @@ msgstr "If the monk, in the presence of both of them, commends the fulfilling of
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:34.3"
 msgid ""
-msgstr "To be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-ss2/75-95\">Saṅghādisesā 2, paragraphs 54–69</a>. …"
+msgstr "To be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-ss2/75-95\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
 
 #. </span>
 #. </p><h2>
