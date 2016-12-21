@@ -291,7 +291,7 @@ msgstr "and addressed the monks:"
 #. </p><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pj.3.1.3" href="#Bu-Pj.3.1.3"></a><a class="ms-pa" id="ms.384" href="#ms.384"></a> 
 msgctxt "pi-tv-bu-vb-pj3:13.1"
 msgid "“Ayampi kho, bhikkhave, ānā­pā­nassa­ti­samā­dhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca"
-msgstr "“Monks, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, a satisfying state of happiness."
+msgstr "“Monks, when stillness by mindfulness of breathing is developed and cultivated, it is peaceful and sublime, a satisfying state of bliss."
 
 msgctxt "pi-tv-bu-vb-pj3:13.2"
 msgid "pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti."
@@ -374,11 +374,11 @@ msgstr "when breathing out, he trains in experiencing joy."
 
 msgctxt "pi-tv-bu-vb-pj3:16.3"
 msgid "Sukhap­paṭi­saṃ­vedī assasissāmīti sikkhati."
-msgstr "When breathing in, he trains in experiencing happiness;"
+msgstr "When breathing in, he trains in experiencing bliss;"
 
 msgctxt "pi-tv-bu-vb-pj3:16.4"
 msgid "Sukhap­paṭi­saṃ­vedī passasissāmīti sikkhati."
-msgstr "when breathing out, he trains in experiencing happiness."
+msgstr "when breathing out, he trains in experiencing bliss."
 
 msgctxt "pi-tv-bu-vb-pj3:16.5"
 msgid "Citta­saṅ­khā­rap­paṭi­saṃ­vedī assasissāmīti sikkhati."
@@ -465,7 +465,7 @@ msgstr "when breathing out, he trains in contemplating relinquishment."
 #. </p></div><p><a class="sc" id="14"></a><a class="ms-pa" id="ms.389" href="#ms.389"></a> 
 msgctxt "pi-tv-bu-vb-pj3:18.1"
 msgid "Evaṃ bhāvito kho, bhikkhave, ānā­pā­nassa­ti­samā­dhi evaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca"
-msgstr "Monks, when stillness by mindfulness of breathing is developed and cultivated in this way, it is peaceful and sublime, a satisfying state of happiness,"
+msgstr "Monks, when stillness by mindfulness of breathing is developed and cultivated in this way, it is peaceful and sublime, a satisfying state of bliss,"
 
 msgctxt "pi-tv-bu-vb-pj3:18.2"
 msgid "pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī”ti."
@@ -2681,17 +2681,17 @@ msgctxt "pi-tv-bu-vb-pj3:81.1"
 msgid "Saṃvaṇṇanā nisīdanto,"
 msgstr "Praising, sitting down,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:81.2"
 msgid "musalo­duk­kha­lena ca;"
 msgstr "And with pestle, with mortar;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:81.3"
 msgid "Vuḍḍha­pabba­ji­tā­bhisanno,"
 msgstr "Gone forth when old, flowing out,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:81.4"
 msgid "agga­vī­maṃ­sa­nā­visaṃ."
 msgstr "First, experimental poison."
@@ -2701,17 +2701,17 @@ msgctxt "pi-tv-bu-vb-pj3:82.1"
 msgid "Tayo ca vatthukammehi,"
 msgstr "And three with making sites,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:82.2"
 msgid "iṭṭhakāhipare tayo;"
 msgstr "Another three with bricks;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:82.3"
 msgid "Vāsī gopānasī ceva,"
 msgstr "An adz, and a rafter,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:82.4"
 msgid "aṭṭakotaraṇaṃ pati."
 msgstr "A elevated platform, coming down, fell down."
@@ -2721,17 +2721,17 @@ msgctxt "pi-tv-bu-vb-pj3:83.1"
 msgid "Sedaṃ natthuñca sambāho,"
 msgstr "Sweating, and nose treatment, massage,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:83.2"
 msgid "nhāpanab­bhañ­ja­nena ca;"
 msgstr "By bathing, and by smearing;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:83.3"
 msgid "Uṭṭhāpento nipātento,"
 msgstr "Making get up, making lie down,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:83.4"
 msgid "annapānena māraṇaṃ."
 msgstr "Death through food, through drink."
@@ -2741,17 +2741,17 @@ msgctxt "pi-tv-bu-vb-pj3:84.1"
 msgid "Jāragabbho sapattī ca,"
 msgstr "Child by a lover, and co-wives,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:84.2"
 msgid "mātā puttaṃ ubho vadhi;"
 msgstr "Mother, child, he killed both;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:84.3"
 msgid "Ubho na miyyare maddā,"
 msgstr "He killed neither, crushing,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:84.4"
 msgid "tāpaṃ vañjhā vijāyinī."
 msgstr "Heating, barren, fertile."
@@ -2761,17 +2761,17 @@ msgctxt "pi-tv-bu-vb-pj3:85.1"
 msgid "Patodaṃ niggahe yakkho,"
 msgstr "Tickling, in taking hold of, a spirit,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:85.2"
 msgid "vāḷayakkhañca pāhiṇi;"
 msgstr "Wild animals, and spirits, sent;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:85.3"
 msgid "Taṃ maññamāno pahari,"
 msgstr "Thinking it was him, he gave a blow,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:85.4"
 msgid "saggañca nirayaṃ bhaṇe."
 msgstr "In talking about heaven, and about hell."
@@ -2781,17 +2781,17 @@ msgctxt "pi-tv-bu-vb-pj3:86.1"
 msgid "Āḷaviyā tayo rukkhā,"
 msgstr "Three trees at Āḷavī,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:86.2"
 msgid "dāyehi apare tayo;"
 msgstr "Three others with forest groves;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:86.3"
 msgid "Mā kilamesi na tuyhaṃ,"
 msgstr "Do not torture, not as you,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj3:86.4"
 msgid "takkaṃ sovīrakena cāti."
 msgstr "Buttermilk, and salty medicine."

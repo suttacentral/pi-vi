@@ -269,7 +269,7 @@ msgstr "Second sub-story"
 #. </h3><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-ss.1.2" href="#bu-ss.1.2"></a><a class="pts-cs" id="bu-ss.1.2.1" href="#bu-ss.1.2.1"></a><a class="ms-pa" id="ms-pa780" href="#ms-pa780"></a> 
 msgctxt "pi-tv-bu-vb-ss1:11.2"
 msgid "Tena kho pana samayena bhikkhū paṇīta­bhoja­nāni bhuñjitvā muṭṭhassatī asampajānā niddaṃ okkamanti."
-msgstr "At one time, monks ate delicious food, fell asleep without mindfulness and clear comprehension,"
+msgstr "At one time, monks ate delicious food, fell asleep without mindfulness and clear awareness,"
 
 msgctxt "pi-tv-bu-vb-ss1:11.3"
 msgid "Tesaṃ muṭṭhassatīnaṃ asampajānānaṃ niddaṃ okkamantānaṃ supinantena asuci muccati."
@@ -2473,7 +2473,7 @@ msgctxt "pi-tv-bu-vb-ss1:163.1"
 msgid "Piṭṭhicakkassa dasamaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The tenth round of the additional permutation series is finished."
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:163.2"
 msgid "Piṭṭhicakkaṃ niṭṭhitaṃ."
 msgstr "The additional permutation series is finished."
@@ -2572,17 +2572,17 @@ msgctxt "pi-tv-bu-vb-ss1:174.1"
 msgid "Supi­noc­cāra­passāvo,"
 msgstr "Dream, feces, urine,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:174.2"
 msgid "vitak­kuṇho­da­kena ca;"
 msgstr "Thought, and with warm water;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:174.3"
 msgid "Bhesajjaṃ kaṇḍuvaṃ maggo,"
 msgstr "Medicine, scratching, path,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:174.4"
 msgid "vatthi ­jantā­gharupak­kamo."
 msgstr "Foreskin, sauna, massaging."
@@ -2592,17 +2592,17 @@ msgctxt "pi-tv-bu-vb-ss1:175.1"
 msgid "Sāmaṇero ca sutto ca,"
 msgstr "Novice, and asleep,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:175.2"
 msgid "ūru muṭṭhinā pīḷayi;"
 msgstr "Thigh, pressed with the fist;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:175.3"
 msgid "Ākāse thambhaṃ nijjhāyi,"
 msgstr "In the air, stretching, staring,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:175.4"
 msgid "chiddaṃ kaṭṭhena ghaṭṭayi."
 msgstr "Keyhole, rubbed with wood."
@@ -2612,7 +2612,7 @@ msgctxt "pi-tv-bu-vb-ss1:176.1"
 msgid "Soto udañjalaṃ dhāvaṃ,"
 msgstr "Current, wet mud, running,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:176.2"
 msgid "pupphāvaliyaṃ pokkharaṃ;"
 msgstr "Mud play, lotus;"
@@ -2623,7 +2623,7 @@ msgctxt "pi-tv-bu-vb-ss1:176.3"
 msgid "Vālikā kaddamusseko,"
 msgstr "Sand, mud, sprinkling,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss1:176.4"
 msgid "saya­naṅ­guṭṭha­kena cāti."
 msgstr "Bed, and with the thumb."
@@ -2754,7 +2754,7 @@ msgstr "On one occasion, a monk, aiming at emission, bathed in warm water, and s
 #. <a class="pts-vp-pi" id="vin.3.117" href="#vin.3.117"></a> 
 msgctxt "pi-tv-bu-vb-ss1:183.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
-msgstr "He  became remorseful …"
+msgstr "He became remorseful …"
 
 msgctxt "pi-tv-bu-vb-ss1:183.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno saṃghādisesan”ti."
@@ -3583,7 +3583,7 @@ msgstr "On one occasion, a monk, aiming at emission, inserted his penis into mud
 #. <a class="pts-vp-pi" id="vin.3.119" href="#vin.3.119"></a> 
 msgctxt "pi-tv-bu-vb-ss1:220.2"
 msgid "asuci na mucci."
-msgstr "semen was not  emitted."
+msgstr "semen was not emitted."
 
 msgctxt "pi-tv-bu-vb-ss1:220.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"

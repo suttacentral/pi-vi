@@ -3321,17 +3321,17 @@ msgctxt "pi-tv-bu-vb-pj2:97.1"
 msgid "Rajakehi pañca akkhātā,"
 msgstr "Five are told with dyers,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:97.2"
 msgid "caturo attharaṇehi ca;"
 msgstr "And four with blankets;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:97.3"
 msgid "Andhakārena ve pañca,"
 msgstr "Five with darkness,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:97.4"
 msgid "pañca hāraṇakena ca."
 msgstr "And five with a carrier."
@@ -3341,17 +3341,17 @@ msgctxt "pi-tv-bu-vb-pj2:98.1"
 msgid "Niruttiyā pañca akkhātā,"
 msgstr "Five are told with speech,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:98.2"
 msgid "vātehi apare duve;"
 msgstr "Another two with wind;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:98.3"
 msgid "Asambhinne kusāpāto,"
 msgstr "Fresh, the dropping of a grass ticket,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:98.4"
 msgid "jantaggena sahā dasa."
 msgstr "With the sauna it is ten."
@@ -3361,17 +3361,17 @@ msgctxt "pi-tv-bu-vb-pj2:99.1"
 msgid "Vighāsehi pañca akkhātā,"
 msgstr "Five are told with animal kills,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:99.2"
 msgid "pañca ceva amūlakā;"
 msgstr "And five without grounds;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:99.3"
 msgid "Dubbhikkhe kuramaṃsañca,"
 msgstr "During a shortage of food: boiled rice, and meat,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:99.4"
 msgid "pūva­sak­kha­li­modakā."
 msgstr "Cakes, pastries, confectioneries."
@@ -3381,17 +3381,17 @@ msgctxt "pi-tv-bu-vb-pj2:100.1"
 msgid "Cha­parik­khā­ra­thavikā,"
 msgstr "Six on requisites, bag,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:100.2"
 msgid "bhisivaṃsā na nikkhame;"
 msgstr "Cushion, bamboo, on not coming out;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:100.3"
 msgid "Khādanīyañca vissāsaṃ,"
 msgstr "And taking food on trust,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:100.4"
 msgid "sasaññāyapare duve."
 msgstr "Another two on perceiving as one’s own."
@@ -3401,17 +3401,17 @@ msgctxt "pi-tv-bu-vb-pj2:101.1"
 msgid "Satta nāvaharāmāti,"
 msgstr "Seven on “We didn’t take,”"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:101.2"
 msgid "satta ceva avāharuṃ;"
 msgstr "And seven where they did take;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:101.3"
 msgid "Saṃghassa avaharuṃ satta,"
 msgstr "Seven where they took from the Order,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:101.4"
 msgid "pupphehi apare duve."
 msgstr "Another two with flowers."
@@ -3421,17 +3421,17 @@ msgctxt "pi-tv-bu-vb-pj2:102.1"
 msgid "Tayo ca vuttavādino,"
 msgstr "And three on taking messages,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:102.2"
 msgid "maṇi tīṇi atikkame;"
 msgstr "Three on taking jewels past;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:102.3"
 msgid "Sūkarā ca migā macchā,"
 msgstr "And pigs, deer, fish,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:102.4"
 msgid "yānañcāpi pavattayi."
 msgstr "And he set a vehicle in motion."
@@ -3441,7 +3441,7 @@ msgctxt "pi-tv-bu-vb-pj2:103.1"
 msgid "Duve pesī duve dārū,"
 msgstr "Two on a piece, two on wood,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:103.2"
 msgid "paṃsukūlaṃ duve dakā;"
 msgstr "Discarded, two on water;"
@@ -3452,7 +3452,7 @@ msgctxt "pi-tv-bu-vb-pj2:103.3"
 msgid "Anu­pubba­vidhā­nena,"
 msgstr "Step by step, by arrangement,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:103.4"
 msgid "tadañño na paripūrayi."
 msgstr "Another did not amount to it."
@@ -3462,7 +3462,7 @@ msgctxt "pi-tv-bu-vb-pj2:104.1"
 msgid "Sāvatthiyā caturo muṭṭhī,"
 msgstr "Four handfuls at Sāvatthī,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:104.2"
 msgid "dve vighāsā duve tiṇā;"
 msgstr "Two on scraps of meat, two about grass;"
@@ -3472,7 +3472,7 @@ msgctxt "pi-tv-bu-vb-pj2:104.3"
 msgid "Saṃghassa bhājayuṃ satta,"
 msgstr "Seven where they divided the belongings of the Order,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:104.4"
 msgid "satta ceva assāmikā."
 msgstr "And seven on non-owners."
@@ -3482,17 +3482,17 @@ msgctxt "pi-tv-bu-vb-pj2:105.1"
 msgid "Dārudakā mattikā dve tiṇāni,"
 msgstr "Wood, water, clay, two on grass,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:105.2"
 msgid "Saṃghassa satta avahāsi seyyaṃ;"
 msgstr "Seven on taking the Order’s bedding;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:105.3"
 msgid "Sassāmikaṃ na cāpi nīhareyya,"
 msgstr "And one should not take away what has an owner,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:105.4"
 msgid "Hareyya sassāmikaṃ tāvakālikaṃ."
 msgstr "One may borrow what has an owner."
@@ -3502,17 +3502,17 @@ msgctxt "pi-tv-bu-vb-pj2:106.1"
 msgid "Campā rājagahe ceva,"
 msgstr "Campā, and in Rājagaha,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:106.2"
 msgid "vesāliyā ca ajjuko;"
 msgstr "And Ajjuka at Vesālī;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:106.3"
 msgid "Bārāṇasī ca kosambī,"
 msgstr "And Benares, Kosambī,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-pj2:106.4"
 msgid "sāgalā daḷhikena cāti."
 msgstr "And Sāgalā with Dalhika."
@@ -6040,7 +6040,7 @@ msgstr "On one occasion, at Campā, a nun who was a pupil of the nun Thullanand�
 #. <a class="pts-vp-en" id="bd.1.111" href="#bd.1.111"></a> 
 msgctxt "pi-tv-bu-vb-pj2:185.2"
 msgid "“ayyā icchati tekaṭulayāguṃ pātun”ti,"
-msgstr "“The Venerable wants to drink rice-gruel containing the three pungent ingredients.”"
+msgstr "“The Venerable wants to drink rice-porridge containing the three pungent ingredients.”"
 
 msgctxt "pi-tv-bu-vb-pj2:185.3"
 msgid "pacāpetvā haritvā attanā paribhuñji."

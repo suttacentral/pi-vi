@@ -78,7 +78,7 @@ msgstr "he requested and implored, asked and enquired, described, instructed, an
 #. <a class="pts-vp-pi" id="vin.3.128" href="#vin.3.128"></a> 
 msgctxt "pi-tv-bu-vb-ss3:5.10"
 msgid "Yā tā itthiyo chinnikā dhuttikā ahirikāyo tā āyasmatā udāyinā saddhiṃ uhasantipi"
-msgstr "Those  women among them who were wanton and shameless flirted with Udāyī;"
+msgstr "Those women among them who were wanton and shameless flirted with Udāyī;"
 
 msgctxt "pi-tv-bu-vb-ss3:5.11"
 msgid "ullapantipi ujjagghantipi uppaṇḍentipi."
@@ -584,7 +584,7 @@ msgstr "It is a woman, he perceives her as a woman, and he has lust."
 #. <a class="pts-vp-pi" id="vin.3.130" href="#vin.3.130"></a> 
 msgctxt "pi-tv-bu-vb-ss3:30.2"
 msgid "Bhikkhu ca naṃ itthiyā vaccamaggaṃ passāvamaggaṃ ṭhapetvā adhakkhakaṃ ubbha­jāṇu­maṇḍa­laṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati … pe …"
-msgstr "If the monk, referring to any part of the woman below the collar bone but above the knees, apart from the two private orifices, praises, disparages  …"
+msgstr "If the monk, referring to any part of the woman below the collar bone but above the knees, apart from the two private orifices, praises, disparages …"
 
 msgctxt "pi-tv-bu-vb-ss3:30.3"
 msgid "akkosatipi, āpatti thullaccayassa … pe …."
@@ -739,17 +739,17 @@ msgctxt "pi-tv-bu-vb-ss3:41.1"
 msgid "Lohitaṃ kakkasākiṇṇaṃ,"
 msgstr "Red, coarse, thick,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss3:41.2"
 msgid "kharaṃ dīghañca vāpitaṃ;"
 msgstr "Rough, long, sown;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss3:41.3"
 msgid "Kacci saṃsīdati maggo,"
 msgstr "I hope the path has an end,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss3:41.4"
 msgid "saddhā dānena kammunāti."
 msgstr "Faith, with a gift, with work."

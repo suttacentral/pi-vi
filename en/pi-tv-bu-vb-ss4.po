@@ -671,17 +671,17 @@ msgctxt "pi-tv-bu-vb-ss4:37.1"
 msgid "Kathaṃ vañjhā labhe puttaṃ,"
 msgstr "How may a barren woman, can she get a son,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss4:37.2"
 msgid "Piyā ca subhagā siyaṃ;"
 msgstr "And dear to, may I be fortunate;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss4:37.3"
 msgid "Kiṃ dajjaṃ kenupaṭṭheyyaṃ,"
 msgstr "What may I give, with what may I be of service,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss4:37.4"
 msgid "Kathaṃ gaccheyyaṃ suggatinti."
 msgstr "How may I get a good rebirth."

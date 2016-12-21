@@ -1789,17 +1789,17 @@ msgctxt "pi-tv-bu-vb-ss2:124.1"
 msgid "Mātā dhītā bhaginī ca,"
 msgstr "Mother, daughter, and sister,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss2:124.2"
 msgid "jāyā yakkhī ca paṇḍako;"
 msgstr "Wife, and female spirit, a sexual eccentric;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss2:124.3"
 msgid "Suttā matā tiracchānā,"
 msgstr "Asleep, dead, female animal,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss2:124.4"
 msgid "dāru­dhīta­likāya ca."
 msgstr "And with a wooden doll."
@@ -1809,17 +1809,17 @@ msgctxt "pi-tv-bu-vb-ss2:125.1"
 msgid "Sampīḷe saṅkamo maggo,"
 msgstr "About oppression, bridge, road,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss2:125.2"
 msgid "rukkho nāvā ca rajju ca;"
 msgstr "Tree, and boat, and rope;"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss2:125.3"
 msgid "Daṇḍo pattaṃ paṇāmesi,"
 msgstr "A stick, pushed with a bowl,"
 
-#. <br> 
+#. <br>
 msgctxt "pi-tv-bu-vb-ss2:125.4"
 msgid "vande vāyami nacchupeti."
 msgstr "When paying respect, made an effort but did not touch."
