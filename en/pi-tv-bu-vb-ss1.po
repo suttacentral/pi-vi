@@ -2562,12 +2562,12 @@ msgctxt "pi-tv-bu-vb-ss1:173.1"
 msgid "1.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings"
 
-#. </h2><h4>
+#. </h2><h5>
 msgctxt "pi-tv-bu-vb-ss1:173.2"
 msgid ""
 msgstr "Mnemonic list"
 
-#. </h4><div class="uddana"><p><a class="sc" id="169"></a><a class="ms-pa" id="ms-pa942" href="#ms-pa942"></a> 
+#. </h5><div class="uddana"><p><a class="sc" id="169"></a><a class="ms-pa" id="ms-pa942" href="#ms-pa942"></a> 
 msgctxt "pi-tv-bu-vb-ss1:174.1"
 msgid "Supi­noc­cāra­passāvo,"
 msgstr "Dream, feces, urine,"
