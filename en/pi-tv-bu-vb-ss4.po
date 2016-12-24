@@ -37,7 +37,7 @@ msgctxt "pi-tv-bu-vb-ss4:5.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.132"></a><a class="pts-vp-en" id="bd.1.222" href="#bd.1.222"></a><a class="pts-cs-empty" id="bu-ss.4.1" href="#bu-ss.4.1"></a><a class="pts-cs" id="bu-ss.4.1.1" href="#bu-ss.4.1.1"></a><a class="ms-pa" id="ms-pa1180" href="#ms-pa1180"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.132"></a><a class="pts-vp-en" id="bd.1.222"></a><a class="pts-cs-empty" id="bu-ss.4.1"></a><a class="pts-cs" id="bu-ss.4.1.1"></a><a class="ms-pa" id="ms-pa1180"></a> 
 msgctxt "pi-tv-bu-vb-ss4:5.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
 msgstr "At one time, the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -46,7 +46,6 @@ msgctxt "pi-tv-bu-vb-ss4:5.3"
 msgid "Tena kho pana samayena āyasmā udāyī sāvatthiyaṃ kulūpako hoti, bahukāni kulāni upasaṅkamati."
 msgstr "At that time, Venerable Udāyī was associating with and visiting a number of families in Sāvatthī."
 
-#. <a class="pts-vp-pi" id="vin.3.132" href="#vin.3.132"></a> 
 msgctxt "pi-tv-bu-vb-ss4:5.4"
 msgid "Tena kho pana samayena aññatarā itthī matapatikā abhirūpā hoti dassanīyā pāsādikā."
 msgstr ""
@@ -83,7 +82,7 @@ msgctxt "pi-tv-bu-vb-ss4:5.12"
 msgid "Paṭibalā mayaṃ ayyassa dātuṃ yadidaṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­ran”ti."
 msgstr "I’m able to give robes, almsfood, lodging requisites, and medicines.”"
 
-#. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1181" href="#ms-pa1181"></a> 
+#. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1181"></a> 
 msgctxt "pi-tv-bu-vb-ss4:6.1"
 msgid "“Na kho te, bhagini, amhākaṃ dullabhā yadidaṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khārā."
 msgstr "“It’s not hard for us, Sister, to get those requisites."
@@ -112,7 +111,7 @@ msgctxt "pi-tv-bu-vb-ss4:6.6"
 msgid "“Attho, bhaginī”ti."
 msgstr "“It is, Sister.”"
 
-#. </p><p><a class="pts-vp-en" id="bd.1.223" href="#bd.1.223"></a> 
+#. </p><p><a class="pts-vp-en" id="bd.1.223"></a> 
 msgctxt "pi-tv-bu-vb-ss4:6.7"
 msgid "“Ehi, bhante”ti,"
 msgstr "“Come, Venerable,”"
@@ -133,7 +132,7 @@ msgctxt "pi-tv-bu-vb-ss4:6.11"
 msgid "niṭṭhubhitvā pakkāmi."
 msgstr "and he departed."
 
-#. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms-pa1182" href="#ms-pa1182"></a> 
+#. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms-pa1182"></a> 
 msgctxt "pi-tv-bu-vb-ss4:7.1"
 msgid "Atha kho sā itthī ujjhāyati khiyyati vipāceti—"
 msgstr "That woman then complained and criticized him,"
@@ -178,7 +177,7 @@ msgctxt "pi-tv-bu-vb-ss4:7.11"
 msgid "kassāhaṃ kena hāyāmī”ti?"
 msgstr "In what way am I inferior to whom?”"
 
-#. </p><p><a class="sc" id="4"></a><a class="ms-pa" id="ms-pa1183" href="#ms-pa1183"></a><a class="pts-cs" id="bu-ss.4.1.2" href="#bu-ss.4.1.2"></a><a class="ms-pa" id="ms-pa1184" href="#ms-pa1184"></a> 
+#. </p><p><a class="sc" id="4"></a><a class="ms-pa" id="ms-pa1183"></a><a class="pts-cs" id="bu-ss.4.1.2"></a><a class="ms-pa" id="ms-pa1184"></a> 
 msgctxt "pi-tv-bu-vb-ss4:8.1"
 msgid "Aññāpi itthiyo ujjhāyanti khiyyanti vipācenti—"
 msgstr "Other women, too, criticized him"
@@ -204,7 +203,7 @@ msgctxt "pi-tv-bu-vb-ss4:9.2"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-#. <a class="pts-vp-en" id="bd.1.224" href="#bd.1.224"></a> 
+#. <a class="pts-vp-en" id="bd.1.224"></a> 
 msgctxt "pi-tv-bu-vb-ss4:9.3"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized him,"
@@ -213,12 +212,11 @@ msgctxt "pi-tv-bu-vb-ss4:9.4"
 msgid "“kathañhi nāma āyasmā udāyī mātugāmassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsissatī”ti."
 msgstr "“How can Venerable Udāyī commend the fulfilling of his own desires in the presence of a woman?”"
 
-#. </p><p><a class="sc" id="6"></a><a class="pts-vp-pi" id="pts-vp-pi3.133"></a><a class="ms-pa" id="ms-pa1185" href="#ms-pa1185"></a> 
+#. </p><p><a class="sc" id="6"></a><a class="pts-vp-pi" id="pts-vp-pi3.133"></a><a class="ms-pa" id="ms-pa1185"></a> 
 msgctxt "pi-tv-bu-vb-ss4:10.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
 msgstr "Those monks rebuked Udāyī in many ways and then informed the Master."
 
-#. <a class="pts-vp-pi" id="vin.3.133" href="#vin.3.133"></a> 
 msgctxt "pi-tv-bu-vb-ss4:10.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ udāyiṃ paṭipucchi—"
 msgstr "The Master had the Order of monks assembled and questioned Udāyī,"
@@ -266,13 +264,13 @@ msgctxt "pi-tv-bu-vb-ss4:11.1"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="7"></a><a class="ms-pa" id="ms-pa1186" href="#ms-pa1186"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="ms-pa" id="ms-pa1186"></a>
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-ss4:11.2"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāseyya—"
 msgstr "‘If a monk, lustful and with a distorted mind, in the presence of a woman commends the fulfilling of his own desires:"
 
-#. <a class="pts-vp-en" id="bd.1.225" href="#bd.1.225"></a> 
+#. <a class="pts-vp-en" id="bd.1.225"></a> 
 msgctxt "pi-tv-bu-vb-ss4:11.3"
 msgid "‘etadaggaṃ, bhagini, pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyāti methunu­pasaṃ­hi­tena’, saṃghādiseso”ti."
 msgstr "“Sister, she provides the highest service who attends in this way to one like me, who is virtuous, celibate, and of good character,” and if it is a reference to sexual intercourse, he commits an offense entailing suspension.’”"
@@ -287,7 +285,7 @@ msgctxt "pi-tv-bu-vb-ss4:12.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-ss.4.2" href="#bu-ss.4.2"></a><a class="ms-pa" id="ms-pa1187" href="#ms-pa1187"></a>
+#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-ss.4.2"></a><a class="ms-pa" id="ms-pa1187"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:12.2"
 msgid "Yo panāti"
@@ -314,7 +312,7 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span>
-#. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1188" href="#ms-pa1188"></a>
+#. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1188"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:13.1"
 msgid "Otiṇṇo nāma"
@@ -326,7 +324,7 @@ msgid "sāratto apekkhavā paṭi­baddha­citto."
 msgstr "having lust, longing for, in love with."
 
 #. </span>
-#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1189" href="#ms-pa1189"></a>
+#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1189"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:14.1"
 msgid "Vipariṇatanti"
@@ -342,7 +340,7 @@ msgid "Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti."
 msgstr "But in this case “distorted” refers to a mind with desire."
 
 #. </span>
-#. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa1190" href="#ms-pa1190"></a>
+#. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa1190"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:15.1"
 msgid "Mātugāmo nāma"
@@ -358,7 +356,7 @@ msgid "Viññū paṭibalā subhā­sita­dub­bhāsi­taṃ duṭṭhul­lā­d
 msgstr "She understands and is capable of discerning bad speech and good speech, what is lewd and what is not lewd."
 
 #. </span>
-#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1191" href="#ms-pa1191"></a>
+#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1191"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:16.1"
 msgid "Mātugāmassa santiketi"
@@ -370,7 +368,7 @@ msgid "mātugāmassa sāmantā, mātugāmassa avidūre."
 msgstr "near a woman, close to a woman."
 
 #. </span>
-#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1192" href="#ms-pa1192"></a>
+#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1192"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:17.1"
 msgid "Attakāmanti"
@@ -382,7 +380,7 @@ msgid "attano kāmaṃ attano hetuṃ attano adhippāyaṃ attano pāricariyaṃ
 msgstr "his own sense desires, for the sake of himself, aiming at himself, service to himself."
 
 #. </span>
-#. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1193" href="#ms-pa1193"></a>
+#. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1193"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:18.1"
 msgid "Etadagganti"
@@ -394,7 +392,7 @@ msgid "etaṃ aggaṃ etaṃ seṭṭhaṃ etaṃ mokkhaṃ etaṃ uttamaṃ eta
 msgstr "this is the highest, this is the best, this is the foremost, this is the utmost, this is the most excellent."
 
 #. </span>
-#. </p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1194" href="#ms-pa1194"></a>
+#. </p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1194"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:19.1"
 msgid "Yāti"
@@ -406,7 +404,7 @@ msgid "khattiyī vā brāhmaṇī vā vessī vā suddī vā."
 msgstr "a female aristocrat, a female brahmin, a female merchant, or a female worker."
 
 #. </span>
-#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1195" href="#ms-pa1195"></a>
+#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1195"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:20.1"
 msgid "Mādisanti"
@@ -418,7 +416,7 @@ msgid "khattiyaṃ vā brāhmaṇaṃ vā vessaṃ vā suddaṃ vā."
 msgstr "a male aristocrat, a male brahmin, a male merchant, or a male worker."
 
 #. </span>
-#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1196" href="#ms-pa1196"></a>
+#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1196"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:21.1"
 msgid "Sīlavantanti"
@@ -430,7 +428,7 @@ msgid "pāṇātipātā paṭivirataṃ, adinnādānā paṭivirataṃ, musāvā
 msgstr "one who refrains from killing living beings, who refrains from stealing, who refrains from lying."
 
 #. </span>
-#. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1197" href="#ms-pa1197"></a>
+#. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1197"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:22.1"
 msgid "Brahmacārinti"
@@ -442,7 +440,7 @@ msgid "methunadhammā paṭivirataṃ."
 msgstr "one who refrains from sexual intercourse."
 
 #. </span>
-#. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1198" href="#ms-pa1198"></a>
+#. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1198"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:23.1"
 msgid "Kalyāṇadhammo nāma"
@@ -454,7 +452,7 @@ msgid "tena ca sīlena tena ca brahmacariyena kalyāṇadhammo hoti."
 msgstr "he is one of good character because of that virtue and because of being celibate."
 
 #. </span>
-#. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1199" href="#ms-pa1199"></a><a class="pts-vp-en" id="bd.1.226" href="#bd.1.226"></a>
+#. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1199"></a><a class="pts-vp-en" id="bd.1.226"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:24.1"
 msgid "Etena dhammenāti"
@@ -466,7 +464,7 @@ msgid "methuna­dham­mena."
 msgstr "with sexual intercourse."
 
 #. </span>
-#. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1200" href="#ms-pa1200"></a>
+#. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1200"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:25.1"
 msgid "Paricareyyāti"
@@ -478,7 +476,7 @@ msgid "abhirameyya."
 msgstr "gives pleasure to."
 
 #. </span>
-#. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1201" href="#ms-pa1201"></a>
+#. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1201"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:26.1"
 msgid "Methunu­pasaṃ­hi­tenāti"
@@ -490,7 +488,7 @@ msgid "methuna­dhammap­paṭi­saṃ­yuttena."
 msgstr "if it is a reference to the sexual act."
 
 #. </span>
-#. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1202" href="#ms-pa1202"></a>
+#. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1202"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:27.1"
 msgid "Saṃghādisesoti"
@@ -502,13 +500,12 @@ msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
 
 #. </span>
-#. <a class="pts-vp-pi" id="vin.3.134" href="#vin.3.134"></a>
 #. </p><h2>
 msgctxt "pi-tv-bu-vb-ss4:28.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="24"></a><a class="pts-vp-pi" id="pts-vp-pi3.134"></a><a class="pts-cs-empty" id="bu-ss.4.3" href="#bu-ss.4.3"></a><a class="pts-cs" id="bu-ss.4.3.1" href="#bu-ss.4.3.1"></a><a class="ms-pa" id="ms-pa1203" href="#ms-pa1203"></a> 
+#. </h2><p><a class="sc" id="24"></a><a class="pts-vp-pi" id="pts-vp-pi3.134"></a><a class="pts-cs-empty" id="bu-ss.4.3"></a><a class="pts-cs" id="bu-ss.4.3.1"></a><a class="ms-pa" id="ms-pa1203"></a> 
 msgctxt "pi-tv-bu-vb-ss4:28.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
@@ -517,7 +514,7 @@ msgctxt "pi-tv-bu-vb-ss4:28.3"
 msgid "Bhikkhu ca naṃ itthiyā santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If the monk, in the woman’s presence, commends the fulfilling of his own desires, he commits an offense entailing suspension."
 
-#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1204" href="#ms-pa1204"></a> 
+#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1204"></a> 
 msgctxt "pi-tv-bu-vb-ss4:29.1"
 msgid "Itthī ca hoti vematiko … pe …"
 msgstr "It is a woman, but he is unsure of it …"
@@ -538,7 +535,7 @@ msgctxt "pi-tv-bu-vb-ss4:29.5"
 msgid "Bhikkhu ca naṃ itthiyā santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti thullaccayassa."
 msgstr "If the monk, in the woman’s presence, commends the fulfilling of his own desires, he commits a serious offense."
 
-#. </p><hr><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1205" href="#ms-pa1205"></a> 
+#. </p><hr><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1205"></a> 
 msgctxt "pi-tv-bu-vb-ss4:30.1"
 msgid "Paṇḍako ca hoti paṇḍakasaññī sāratto ca."
 msgstr "It is a sexual eccentric, he perceives him as a sexual eccentric, and he has lust."
@@ -547,7 +544,7 @@ msgctxt "pi-tv-bu-vb-ss4:30.2"
 msgid "Bhikkhu ca naṃ paṇḍakassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti thullaccayassa."
 msgstr "If the monk, in the sexual eccentric’s presence, commends the fulfilling of his own desires, he commits a serious offense."
 
-#. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1206" href="#ms-pa1206"></a> 
+#. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1206"></a> 
 msgctxt "pi-tv-bu-vb-ss4:31.1"
 msgid "Paṇḍako ca hoti vematiko … pe …"
 msgstr "It is a sexual eccentric, but he is unsure of it …"
@@ -568,7 +565,7 @@ msgctxt "pi-tv-bu-vb-ss4:31.5"
 msgid "Bhikkhu ca naṃ paṇḍakassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti dukkaṭassa."
 msgstr "If the monk, in the sexual eccentric’s presence, commends the fulfilling of his own desires, he commits an offense of wrong conduct."
 
-#. </p><hr><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1207" href="#ms-pa1207"></a> 
+#. </p><hr><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1207"></a> 
 msgctxt "pi-tv-bu-vb-ss4:32.1"
 msgid "Puriso ca hoti … pe …"
 msgstr "It is a man …"
@@ -604,7 +601,7 @@ msgctxt "pi-tv-bu-vb-ss4:32.8"
 msgid "Bhikkhu ca naṃ tiracchā­na­gatassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti dukkaṭassa."
 msgstr "If the monk, in the animal’s presence, commends the fulfilling of his own desires, he commits an offense of wrong conduct."
 
-#. </p><hr><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1208" href="#ms-pa1208"></a> 
+#. </p><hr><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1208"></a> 
 msgctxt "pi-tv-bu-vb-ss4:33.1"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
@@ -619,7 +616,7 @@ msgid ""
 msgstr "To be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-ss2/63-74\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
 
 #. </span>
-#. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1209" href="#ms-pa1209"></a> 
+#. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1209"></a> 
 msgctxt "pi-tv-bu-vb-ss4:34.1"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual eccentric, he perceives both as women, and he has lust."
@@ -639,7 +636,7 @@ msgctxt "pi-tv-bu-vb-ss4:35.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1210" href="#ms-pa1210"></a><a class="pts-cs" id="bu-ss.4.3.2" href="#bu-ss.4.3.2"></a> 
+#. </h2><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1210"></a><a class="pts-cs" id="bu-ss.4.3.2"></a> 
 msgctxt "pi-tv-bu-vb-ss4:35.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
@@ -666,7 +663,7 @@ msgctxt "pi-tv-bu-vb-ss4:36.2"
 msgid ""
 msgstr "Mnemonic list"
 
-#. </h5><p><a class="sc" id="32"></a><a class="ms-pa" href="#ms-pa1211" id="ms-pa1211"></a> 
+#. </h5><p><a class="sc" id="32"></a><a class="ms-pa"></a> 
 msgctxt "pi-tv-bu-vb-ss4:37.1"
 msgid "Kathaṃ vañjhā labhe puttaṃ,"
 msgstr "How may a barren woman, can she get a son,"
@@ -691,7 +688,7 @@ msgctxt "pi-tv-bu-vb-ss4:38.1"
 msgid "4.2. Vinītavatthu"
 msgstr "Case details"
 
-#. </h3><p><a class="sc" id="33"></a><a class="pts-cs-empty" id="bu-ss.4.4" href="#bu-ss.4.4"></a><a class="pts-cs" id="bu-ss.4.4.1" href="#bu-ss.4.4.1"></a><a class="ms-pa" id="ms-pa1212" href="#ms-pa1212"></a> 
+#. </h3><p><a class="sc" id="33"></a><a class="pts-cs-empty" id="bu-ss.4.4"></a><a class="pts-cs" id="bu-ss.4.4.1"></a><a class="ms-pa" id="ms-pa1212"></a> 
 msgctxt "pi-tv-bu-vb-ss4:39.1"
 msgid "Tena kho pana samayena aññatarā vañjhā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a barren woman said to a monk who was supported by her family,"
@@ -700,7 +697,7 @@ msgctxt "pi-tv-bu-vb-ss4:39.2"
 msgid "“kathāhaṃ, bhante, vijāyeyyan”ti?"
 msgstr "“Venerable, how can I become pregnant?”"
 
-#. </p><p><a class="pts-vp-en" id="bd.1.227" href="#bd.1.227"></a> 
+#. </p><p><a class="pts-vp-en" id="bd.1.227"></a> 
 msgctxt "pi-tv-bu-vb-ss4:39.3"
 msgid "“Tena hi, bhagini, aggadānaṃ dehī”ti."
 msgstr ""
@@ -727,7 +724,7 @@ msgctxt "pi-tv-bu-vb-ss4:39.8"
 msgid "(1)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="34"></a><a class="pts-cs" id="bu-ss.4.4.2" href="#bu-ss.4.4.2"></a><a class="ms-pa" id="ms-pa1213" href="#ms-pa1213"></a> 
+#. </p><hr><p><a class="sc" id="34"></a><a class="pts-cs" id="bu-ss.4.4.2"></a><a class="ms-pa" id="ms-pa1213"></a> 
 msgctxt "pi-tv-bu-vb-ss4:40.1"
 msgid "Tena kho pana samayena aññatarā vijāyinī itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a fertile woman said to a monk who was supported by her family,"
@@ -763,7 +760,7 @@ msgctxt "pi-tv-bu-vb-ss4:40.8"
 msgid "(2)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="35"></a><a class="pts-cs" id="bu-ss.4.4.3" href="#bu-ss.4.4.3"></a><a class="ms-pa" id="ms-pa1214" href="#ms-pa1214"></a> 
+#. </p><hr><p><a class="sc" id="35"></a><a class="pts-cs" id="bu-ss.4.4.3"></a><a class="ms-pa" id="ms-pa1214"></a> 
 msgctxt "pi-tv-bu-vb-ss4:41.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a woman said to a monk who was supported by her family,"
@@ -799,7 +796,7 @@ msgctxt "pi-tv-bu-vb-ss4:41.8"
 msgid "(3)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa1215" href="#ms-pa1215"></a> 
+#. </p><hr><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa1215"></a> 
 msgctxt "pi-tv-bu-vb-ss4:42.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a woman said to a monk who was supported by her family,"
@@ -835,7 +832,7 @@ msgctxt "pi-tv-bu-vb-ss4:42.8"
 msgid "(4)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-ss.4.4.4" href="#bu-ss.4.4.4"></a><a class="ms-pa" id="ms-pa1216" href="#ms-pa1216"></a> 
+#. </p><hr><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-ss.4.4.4"></a><a class="ms-pa" id="ms-pa1216"></a> 
 msgctxt "pi-tv-bu-vb-ss4:43.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a woman said to a monk who was supported by her family,"
@@ -871,7 +868,7 @@ msgctxt "pi-tv-bu-vb-ss4:43.8"
 msgid "(5)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="38"></a><a class="pts-cs" id="bu-ss.4.4.5" href="#bu-ss.4.4.5"></a><a class="ms-pa" id="ms-pa1217" href="#ms-pa1217"></a> 
+#. </p><hr><p><a class="sc" id="38"></a><a class="pts-cs" id="bu-ss.4.4.5"></a><a class="ms-pa" id="ms-pa1217"></a> 
 msgctxt "pi-tv-bu-vb-ss4:44.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a woman said to a monk who was supported by her family,"
@@ -907,7 +904,7 @@ msgctxt "pi-tv-bu-vb-ss4:44.8"
 msgid "(6)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="39"></a><a class="pts-cs" id="bu-ss.4.4.6" href="#bu-ss.4.4.6"></a><a class="ms-pa" id="ms-pa1218" href="#ms-pa1218"></a><a class="pts-vp-en" id="bd.1.228" href="#bd.1.228"></a> 
+#. </p><hr><p><a class="sc" id="39"></a><a class="pts-cs" id="bu-ss.4.4.6"></a><a class="ms-pa" id="ms-pa1218"></a><a class="pts-vp-en" id="bd.1.228"></a> 
 msgctxt "pi-tv-bu-vb-ss4:45.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, a woman said to a monk who was supported by her family,"
@@ -943,7 +940,7 @@ msgctxt "pi-tv-bu-vb-ss4:45.8"
 msgid "(7)"
 msgstr ""
 
-#. </p><p class="endsutta"><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1219" href="#ms-pa1219"></a> 
+#. </p><p class="endsutta"><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1219"></a> 
 msgctxt "pi-tv-bu-vb-ss4:46.1"
 msgid "Attakā­ma­pāri­cari­ya­sikkhā­padaṃ niṭṭhitaṃ catutthaṃ."
 msgstr "The fourth rule, the training rule on fulfilling one’s own desires, is finished."
