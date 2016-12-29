@@ -584,12 +584,17 @@ msgctxt "pi-tv-bu-vb-ss2:34.2"
 msgid ""
 msgstr "Permutations part 1"
 
-#. </h3><p><a class="sc" id="30"></a><a class="pts-cs-empty" id="bu-ss.2.3"></a><a class="pts-cs" id="bu-ss.2.3.1"></a><a class="ms-pa" id="ms-pa1022"></a> 
+#. </h3><h5>
 msgctxt "pi-tv-bu-vb-ss2:34.3"
+msgid ""
+msgstr "Making direct contact with a single woman, etc.: body to body"
+
+#. </h5><p><a class="sc" id="30"></a><a class="pts-cs-empty" id="bu-ss.2.3"></a><a class="pts-cs" id="bu-ss.2.3.1"></a><a class="ms-pa" id="ms-pa1022"></a> 
+msgctxt "pi-tv-bu-vb-ss2:34.4"
 msgid "Itthī ca hoti itthisaññī sāratto ca bhikkhu ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:34.4"
+msgctxt "pi-tv-bu-vb-ss2:34.5"
 msgid "Naṃ itthiyā kāyena kāyaṃ āmasati parāmasati omasati ummasati olaṅgheti ullaṅgheti ākaḍḍhati patikaḍḍhati abhiniggaṇhāti abhinippīḷeti gaṇhāti chupati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If the monk makes physical contact with the woman, body to body, if he touches her, strokes her downwards, strokes her upwards, pulls her down, raises her up, pulls her, pushes her, squeezes her, presses her, takes hold of her, contacts her, he commits an offense entailing suspension."
 
@@ -796,16 +801,21 @@ msgctxt "pi-tv-bu-vb-ss2:48.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
 
-#. </p><p><a class="sc" id="45"></a><a class="pts-cs" id="bu-ss.2.3.2"></a><a class="ms-pa" id="ms-pa1037"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:49.1"
+msgid ""
+msgstr "Making direct contact with two beings of the same kind: body to body"
+
+#. </h5><p><a class="sc" id="45"></a><a class="pts-cs" id="bu-ss.2.3.2"></a><a class="ms-pa" id="ms-pa1037"></a> 
+msgctxt "pi-tv-bu-vb-ss2:49.2"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:49.2"
+msgctxt "pi-tv-bu-vb-ss2:49.3"
 msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ kāyena kāyaṃ āmasati parāmasati … pe …"
 msgstr "If the monk makes physical contact with the two women, body to body, if he touches them …"
 
-msgctxt "pi-tv-bu-vb-ss2:49.3"
+msgctxt "pi-tv-bu-vb-ss2:49.4"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ saṃ­ghādi­sesānaṃ."
 msgstr "takes hold of them, contacts them, he commits two offenses entailing suspension."
 
@@ -957,17 +967,22 @@ msgctxt "pi-tv-bu-vb-ss2:57.6"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct."
 
-#. </p><p><a class="sc" id="54"></a><a class="pts-vp-pi" id="pts-vp-pi3.123"></a><a class="pts-cs" id="bu-ss.2.3.3"></a><a class="ms-pa" id="ms-pa1046"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:58.1"
+msgid ""
+msgstr "Making direct contact with two beings of different kinds: body to body"
+
+#. </h5><p><a class="sc" id="54"></a><a class="pts-vp-pi" id="pts-vp-pi3.123"></a><a class="pts-cs" id="bu-ss.2.3.3"></a><a class="ms-pa" id="ms-pa1046"></a> 
+msgctxt "pi-tv-bu-vb-ss2:58.2"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual eccentric, but he perceives both as women, and he has lust."
 
 #. <a class="pts-vp-en" id="bd.1.206"></a> 
-msgctxt "pi-tv-bu-vb-ss2:58.2"
+msgctxt "pi-tv-bu-vb-ss2:58.3"
 msgid "Bhikkhu ca naṃ ubhinnaṃ kāyena kāyaṃ āmasati parāmasati … pe …"
 msgstr "If the monk makes physical contact with both, body to body, if he touches them …"
 
-msgctxt "pi-tv-bu-vb-ss2:58.3"
+msgctxt "pi-tv-bu-vb-ss2:58.4"
 msgid "gaṇhāti chupati, āpatti saṃghādisesena dukkaṭassa."
 msgstr "takes hold of them, contacts them, he commits one offense entailing suspension and one offense of wrong conduct."
 
@@ -1218,16 +1233,21 @@ msgctxt "pi-tv-bu-vb-ss2:73.1"
 msgid "Dumūlakaṃ niṭṭhitaṃ."
 msgstr "The section on two root items is finished."
 
-#. </p><p><a class="sc" id="70"></a><a class="pts-cs" id="bu-ss.2.3.4"></a><a class="ms-pa" id="ms-pa1062"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:74.1"
+msgid ""
+msgstr "Making indirect contact: body to what is connected to the body"
+
+#. </h5><p><a class="sc" id="70"></a><a class="pts-cs" id="bu-ss.2.3.4"></a><a class="ms-pa" id="ms-pa1062"></a> 
+msgctxt "pi-tv-bu-vb-ss2:74.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:74.2"
+msgctxt "pi-tv-bu-vb-ss2:74.3"
 msgid "Bhikkhu ca naṃ itthiyā kāyena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the monk, with his own body, makes physical contact with something connected to her body, if he touches it …"
 
-msgctxt "pi-tv-bu-vb-ss2:74.3"
+msgctxt "pi-tv-bu-vb-ss2:74.4"
 msgid "gaṇhāti chupati, āpatti thullaccayassa … pe …."
 msgstr "takes hold of it, contacts it, he commits a serious offense. …"
 
@@ -1296,16 +1316,21 @@ msgctxt "pi-tv-bu-vb-ss2:79.3"
 msgid "gaṇhāti chupati, āpatti thullaccayena dukkaṭassa … pe …."
 msgstr "takes hold of them, contacts them, he commits one serious offense and one offense of wrong conduct. …"
 
-#. </p><p><a class="sc" id="76"></a><a class="ms-pa" id="ms-pa1068"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:80.1"
+msgid ""
+msgstr "Making indirect contact: what is connected to the body to what is connected to the body"
+
+#. </h5><p><a class="sc" id="76"></a><a class="ms-pa" id="ms-pa1068"></a> 
+msgctxt "pi-tv-bu-vb-ss2:80.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:80.2"
+msgctxt "pi-tv-bu-vb-ss2:80.3"
 msgid "Bhikkhu ca naṃ itthiyā kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the monk, with something connected to his own body, makes physical contact with something connected to her body, if he touches it …"
 
-msgctxt "pi-tv-bu-vb-ss2:80.3"
+msgctxt "pi-tv-bu-vb-ss2:80.4"
 msgid "gaṇhāti chupati, āpatti dukkaṭassa …"
 msgstr "takes hold of it, contacts it, he commits an offense of wrong conduct. … pe …."
 
@@ -1335,12 +1360,18 @@ msgctxt "pi-tv-bu-vb-ss2:82.3"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct. …"
 
-#. </p><p><a class="sc" id="79"></a><a class="ms-pa" id="ms-pa1071"></a> 
+#. </p><h5>
+#. <span class="note" hidden>By throwing, dropping, etc.</span>
 msgctxt "pi-tv-bu-vb-ss2:83.1"
+msgid ""
+msgstr "Making indirect contact: contact by releasing"
+
+#. </h5><p><a class="sc" id="79"></a><a class="ms-pa" id="ms-pa1071"></a> 
+msgctxt "pi-tv-bu-vb-ss2:83.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:83.2"
+msgctxt "pi-tv-bu-vb-ss2:83.3"
 msgid "Bhikkhu ca naṃ itthiyā nissaggiyena kāyaṃ āmasati āpatti dukkaṭassa … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with her body, he commits an offense of wrong conduct. …"
 
@@ -1420,13 +1451,18 @@ msgctxt "pi-tv-bu-vb-ss2:92.1"
 msgid "Bhikkhupeyyālo niṭṭhito."
 msgstr "The successive series on a monk is finished."
 
-#. </p><p><a class="sc" id="89"></a><a class="pts-cs" id="bu-ss.2.3.5"></a><a class="ms-pa" id="ms-pa1081"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:93.1"
+msgid ""
+msgstr "Others making direct contact with a monk: body to body"
+
+#. </h5><p><a class="sc" id="89"></a><a class="pts-cs" id="bu-ss.2.3.5"></a><a class="ms-pa" id="ms-pa1081"></a> 
+msgctxt "pi-tv-bu-vb-ss2:93.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
 #. <a class="pts-vp-en" id="bd.1.209"></a> 
-msgctxt "pi-tv-bu-vb-ss2:93.2"
+msgctxt "pi-tv-bu-vb-ss2:93.3"
 msgid "Itthī ca naṃ bhikkhussa kāyena kāyaṃ āmasati parāmasati omasati ummasati olaṅgheti ullaṅgheti ākaḍḍhati patikaḍḍhati abhiniggaṇhāti abhinippīḷeti gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti saṃ­ghā­di­sesassa … pe …."
 msgstr "If the woman makes physical contact with the monk, body to body, if she touches him, strokes him downwards, strokes him upwards, pulls him down, raises him up, pulls him, pushes him, squeezes him, presses him, takes hold of him, contacts him, and he, aiming at association, makes an effort with the body and experiences contact, he commits an offense entailing suspension. …"
 
@@ -1452,16 +1488,21 @@ msgctxt "pi-tv-bu-vb-ss2:95.3"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti saṃghādisesena dukkaṭassa … pe …."
 msgstr "take hold of him, contact him, and he, aiming at association, makes an effort with the body and experiences contact, he commits one offense entailing suspension and one offense of wrong conduct. …"
 
-#. </p><p><a class="sc" id="92"></a><a class="ms-pa" id="ms-pa1084"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:96.1"
+msgid ""
+msgstr "Others making indirect contact with a monk: body to what is connected to the body"
+
+#. </h5><p><a class="sc" id="92"></a><a class="ms-pa" id="ms-pa1084"></a> 
+msgctxt "pi-tv-bu-vb-ss2:96.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:96.2"
+msgctxt "pi-tv-bu-vb-ss2:96.3"
 msgid "Itthī ca naṃ bhikkhussa kāyena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the woman, with her own body, makes physical contact with something connected to his body, if she touches it …"
 
-msgctxt "pi-tv-bu-vb-ss2:96.3"
+msgctxt "pi-tv-bu-vb-ss2:96.4"
 msgid "gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayassa … pe …."
 msgstr "takes hold of it, contacts it, and he, aiming at association, makes an effort with the body and experiences contact, he commits a serious offense. …"
 
@@ -1530,16 +1571,21 @@ msgctxt "pi-tv-bu-vb-ss2:101.3"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti thullaccayena dukkaṭassa … pe …."
 msgstr "take hold of him, contact him, and he, aiming at association, makes an effort with the body and experiences contact, he commits one serious offense and one offense of wrong conduct. …"
 
-#. </p><p><a class="sc" id="98"></a><a class="ms-pa" id="ms-pa1090"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:102.1"
+msgid ""
+msgstr "Others making indirect contact with a monk: what is connected to the body to what is connected to the body"
+
+#. </h5><p><a class="sc" id="98"></a><a class="ms-pa" id="ms-pa1090"></a> 
+msgctxt "pi-tv-bu-vb-ss2:102.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:102.2"
+msgctxt "pi-tv-bu-vb-ss2:102.3"
 msgid "Itthī ca naṃ bhikkhussa kāyapaṭi­bad­dhena kāyapaṭi­baddhaṃ āmasati parāmasati … pe …"
 msgstr "If the woman, with something connected to her own body, makes physical contact with something connected to his body, if she touches it …"
 
-msgctxt "pi-tv-bu-vb-ss2:102.3"
+msgctxt "pi-tv-bu-vb-ss2:102.4"
 msgid "gaṇhāti chupati, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa … pe …."
 msgstr "takes hold of it, contacts it, and he, aiming at association, makes an effort with the body and experiences contact, he commits an offense of wrong conduct. …"
 
@@ -1569,16 +1615,21 @@ msgctxt "pi-tv-bu-vb-ss2:104.3"
 msgid "gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "take hold of it, contact it, and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses of wrong conduct. …"
 
-#. </p><p><a class="sc" id="101"></a><a class="ms-pa" id="ms-pa1093"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss2:105.1"
+msgid ""
+msgstr "Others making indirect contact with a monk: contact by releasing"
+
+#. </h5><p><a class="sc" id="101"></a><a class="ms-pa" id="ms-pa1093"></a> 
+msgctxt "pi-tv-bu-vb-ss2:105.2"
 msgid "Itthī ca hoti itthisaññī sāratto ca."
 msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
-msgctxt "pi-tv-bu-vb-ss2:105.2"
+msgctxt "pi-tv-bu-vb-ss2:105.3"
 msgid "Itthī ca naṃ bhikkhussa nissaggiyena kāyaṃ āmasati."
 msgstr "If the woman, with something released by her, makes physical contact with his body,"
 
-msgctxt "pi-tv-bu-vb-ss2:105.3"
+msgctxt "pi-tv-bu-vb-ss2:105.4"
 msgid "Sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dukkaṭassa … pe …."
 msgstr "and he, aiming at association, makes an effort with the body and experiences contact, he commits an offense of wrong conduct. …"
 

@@ -873,8 +873,13 @@ msgctxt "pi-tv-bu-vb-ss1:47.1"
 msgid ""
 msgstr "Exposition part 2"
 
-#. </h4><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa816"></a> 
+#. </h4><h5>
 msgctxt "pi-tv-bu-vb-ss1:47.2"
+msgid ""
+msgstr "A single purpose"
+
+#. </h5><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa816"></a> 
+msgctxt "pi-tv-bu-vb-ss1:47.3"
 msgid "Ārogyatthāya ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of health, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
@@ -915,8 +920,13 @@ msgctxt "pi-tv-bu-vb-ss1:48.9"
 msgid "davatthāya ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of fun, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa818"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:49.1"
+msgid ""
+msgstr "One kind of semen"
+
+#. </h5><p><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa818"></a> 
+msgctxt "pi-tv-bu-vb-ss1:49.2"
 msgid "Nīlaṃ ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends blue, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
@@ -962,8 +972,13 @@ msgctxt "pi-tv-bu-vb-ss1:51.1"
 msgid "Suddhikaṃ niṭṭhitaṃ."
 msgstr "The basic series is finished."
 
-#. </p><p><a class="sc" id="48"></a><a class="pts-vp-pi" id="pts-vp-pi3.114"></a><a class="pts-cs" id="bu-ss.1.3.4"></a><a class="ms-pa" id="ms-pa821"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:52.1"
+msgid ""
+msgstr "Two purposes"
+
+#. </h5><p><a class="sc" id="48"></a><a class="pts-vp-pi" id="pts-vp-pi3.114"></a><a class="pts-cs" id="bu-ss.1.3.4"></a><a class="ms-pa" id="ms-pa821"></a> 
+msgctxt "pi-tv-bu-vb-ss1:52.2"
 msgid "Ārogyatthañca sukhatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of health and for the sake of pleasure, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
@@ -1352,12 +1367,17 @@ msgctxt "pi-tv-bu-vb-ss1:73.1"
 msgid "Ekamūlakassa baddhacakkaṃ niṭṭhitaṃ."
 msgstr "The linked permutation series for one root item is finished."
 
-#. </p><p><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa843"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:74.1"
+msgid ""
+msgstr "Three purposes"
+
+#. </h5><p><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa843"></a> 
+msgctxt "pi-tv-bu-vb-ss1:74.2"
 msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
 msgstr "If, for the sake of health and for the sake of pleasure and for the sake of medicine, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension. …"
 
-msgctxt "pi-tv-bu-vb-ss1:74.2"
+msgctxt "pi-tv-bu-vb-ss1:74.3"
 msgid "ārogyatthañca sukhatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of health and for the sake of pleasure and for the sake of fun, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
@@ -1398,13 +1418,23 @@ msgctxt "pi-tv-bu-vb-ss1:79.1"
 msgid "Dumūlakaṃ niṭṭhitaṃ."
 msgstr "The section on two root items is finished."
 
-#. </p><p><a class="sc" id="76"></a><a class="ms-pa" id="ms-pa849"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:80.1"
+msgid ""
+msgstr "Four to nine purposes"
+
+#. </h5><p><a class="sc" id="76"></a><a class="ms-pa" id="ms-pa849"></a> 
+msgctxt "pi-tv-bu-vb-ss1:80.2"
 msgid "Timūlakampi catumūlakampi pañcamūlakampi chamūlakampi sattamūlakampi aṭṭhamūlakampi navamūlakampi evameva vitthāretabbaṃ."
 msgstr "Three root items, four root items, five root items, six root items, seven root items, eight root items, and nine root items are to be expanded in the same way."
 
-#. </p><p class="endsutta"><a class="sc" id="77"></a><a class="ms-pa" id="ms-pa850"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:81.1"
+msgid ""
+msgstr "Ten purposes"
+
+#. </h5><p><a class="sc" id="77"></a><a class="ms-pa" id="ms-pa850"></a> 
+msgctxt "pi-tv-bu-vb-ss1:81.2"
 msgid "Idaṃ sabbamūlakaṃ."
 msgstr "This is the section on all root items:"
 
@@ -1418,8 +1448,13 @@ msgctxt "pi-tv-bu-vb-ss1:83.1"
 msgid "Sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items is finished."
 
-#. </p><p><a class="sc" id="80"></a><a class="pts-cs" id="bu-ss.1.3.6"></a><a class="ms-pa" id="ms-pa853"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:84.1"
+msgid ""
+msgstr "Two kinds of semen"
+
+#. </h5><p><a class="sc" id="80"></a><a class="pts-cs" id="bu-ss.1.3.6"></a><a class="ms-pa" id="ms-pa853"></a> 
+msgctxt "pi-tv-bu-vb-ss1:84.2"
 msgid "Nīlañca pītakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends blue and yellow, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
@@ -1815,12 +1850,17 @@ msgctxt "pi-tv-bu-vb-ss1:108.1"
 msgid "Ekamūlakassa baddhacakkaṃ niṭṭhitaṃ."
 msgstr "The linked permutation series for one root item is finished."
 
-#. </p><p><a class="sc" id="105"></a><a class="ms-pa" id="ms-pa878"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:109.1"
+msgid ""
+msgstr "Three kinds of semen"
+
+#. </h5><p><a class="sc" id="105"></a><a class="ms-pa" id="ms-pa878"></a> 
+msgctxt "pi-tv-bu-vb-ss1:109.2"
 msgid "Nīlañca pītakañca lohitakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
 msgstr "If he intends blue and yellow and red, and he makes an effort, and semen is emitted, he commits an offense entailing suspension. …"
 
-msgctxt "pi-tv-bu-vb-ss1:109.2"
+msgctxt "pi-tv-bu-vb-ss1:109.3"
 msgid "nīlañca pītakañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends blue and yellow and the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
@@ -1861,13 +1901,23 @@ msgctxt "pi-tv-bu-vb-ss1:114.1"
 msgid "Dumūlakaṃ niṭṭhitaṃ."
 msgstr "The section on two root items is finished."
 
-#. </p><p><a class="sc" id="111"></a><a class="ms-pa" id="ms-pa884"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:115.1"
+msgid ""
+msgstr "Four to nine kinds of semen"
+
+#. </h5><p><a class="sc" id="111"></a><a class="ms-pa" id="ms-pa884"></a> 
+msgctxt "pi-tv-bu-vb-ss1:115.2"
 msgid "Timūlakampi catumūlakampi pañcamūlakampi chamūlakampi sattamūlakampi aṭṭhamūlakampi navamūlakampi evameva vitthāretabbaṃ."
 msgstr "The sections based on three root items, four root items, five root items, six root items, seven root items, eight root items, and nine root items are to be expanded in the same way."
 
-#. </p><p class="endsutta"><a class="sc" id="112"></a><a class="ms-pa" id="ms-pa885"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:116.1"
+msgid ""
+msgstr "Ten kinds of semen"
+
+#. </h5><p><a class="sc" id="112"></a><a class="ms-pa" id="ms-pa885"></a> 
+msgctxt "pi-tv-bu-vb-ss1:116.2"
 msgid "Idaṃ sabbamūlakaṃ."
 msgstr "This is the section on all root items:"
 
@@ -1881,8 +1931,13 @@ msgctxt "pi-tv-bu-vb-ss1:118.1"
 msgid "Sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items is finished."
 
-#. </p><p><a class="sc" id="115"></a><a class="pts-cs" id="bu-ss.1.3.7"></a><a class="ms-pa" id="ms-pa888"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:119.1"
+msgid ""
+msgstr "Purposes combined with kinds of semen"
+
+#. </h5><p><a class="sc" id="115"></a><a class="pts-cs" id="bu-ss.1.3.7"></a><a class="ms-pa" id="ms-pa888"></a> 
+msgctxt "pi-tv-bu-vb-ss1:119.2"
 msgid "Ārogyatthañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends for the sake of health and blue, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
@@ -1911,8 +1966,13 @@ msgctxt "pi-tv-bu-vb-ss1:124.1"
 msgid "Missakacakkaṃ niṭṭhitaṃ."
 msgstr "The mixed permutation series is finished."
 
-#. </p><p><a class="sc" id="121"></a><a class="pts-cs" id="bu-ss.1.3.8"></a><a class="ms-pa" id="ms-pa894"></a> 
+#. </p><h5>
 msgctxt "pi-tv-bu-vb-ss1:125.1"
+msgid ""
+msgstr "Intending one kind of semen, emitting another kind"
+
+#. </h5><p><a class="sc" id="121"></a><a class="pts-cs" id="bu-ss.1.3.8"></a><a class="ms-pa" id="ms-pa894"></a> 
+msgctxt "pi-tv-bu-vb-ss1:125.2"
 msgid "Nīlaṃ mocessāmīti ceteti upakkamati pītakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends, “I’ll emit blue,” and he makes an effort, and yellow is emitted, he commits an offense entailing suspension."
 
