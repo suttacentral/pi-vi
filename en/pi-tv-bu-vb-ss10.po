@@ -374,7 +374,7 @@ msgstr "‘If a monk pursues schism in a united monastic Order or persists in ta
 
 msgctxt "pi-tv-bu-vb-ss10:11.3"
 msgid "‘māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
-msgstr "“Venerable, donʼt pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
+msgstr "“Venerable, don’t pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
 
 #. <a class="pts-vp-en" id="bd.1.300"></a> 
 msgctxt "pi-tv-bu-vb-ss10:11.4"
@@ -544,7 +544,7 @@ msgstr "They should say,"
 #. <span class="kamma"> 
 msgctxt "pi-tv-bu-vb-ss10:21.3"
 msgid "“māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
-msgstr "“Venerable, donʼt pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
+msgstr "“Venerable, don’t pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
 
 msgctxt "pi-tv-bu-vb-ss10:21.4"
 msgid "Sametāyasmā saṃghena."
@@ -585,7 +585,7 @@ msgstr "That monk, even if he has to be dragged into the middle of the Order, sh
 #. <span class="kamma"> 
 msgctxt "pi-tv-bu-vb-ss10:21.12"
 msgid "“māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
-msgstr "“Venerable, donʼt pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
+msgstr "“Venerable, don’t pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
 
 msgctxt "pi-tv-bu-vb-ss10:21.13"
 msgid "Sametāyasmā saṃghena."
@@ -825,7 +825,7 @@ msgstr "The tenth rule, the training rule on schism in the monastic Order, is fi
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
-#. <p>A digital edition of I.B. Hornerʼs translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
 #. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
 #. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
 #. <p><strong>You are free to:</strong></p>

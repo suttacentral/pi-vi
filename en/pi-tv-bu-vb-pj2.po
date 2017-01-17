@@ -112,7 +112,7 @@ msgstr "“Three times this has happened."
 
 msgctxt "pi-tv-bu-vb-pj2:6.3"
 msgid "Ahaṃ kho pana susikkhito anavayo sake ācariyake kumbha­kā­ra­kamme pari­yodāta­sippo."
-msgstr "But Iʼm well-trained and experienced in my own craft of pottery."
+msgstr "But I’m well-trained and experienced in my own craft of pottery."
 
 msgctxt "pi-tv-bu-vb-pj2:6.4"
 msgid "Yannūnāhaṃ sāmaṃ cikkhallaṃ madditvā sab­bamat­tikā­mayaṃ kuṭikaṃ kareyyan”ti."
@@ -146,7 +146,7 @@ msgstr "He said to the monks,"
 
 msgctxt "pi-tv-bu-vb-pj2:8.3"
 msgid "“kiṃ etaṃ, bhikkhave, abhirūpaṃ dassanīyaṃ pāsādikaṃ lohitikaṃ, seyyathāpi indagopako”ti?"
-msgstr "“Monks, whatʼs this beautiful and charming thing, which is red like a scarlet rain-mite?”"
+msgstr "“Monks, what’s this beautiful and charming thing, which is red like a scarlet rain-mite?”"
 
 msgctxt "pi-tv-bu-vb-pj2:8.4"
 msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
@@ -159,7 +159,7 @@ msgstr "and the Buddha criticized Dhaniya:"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:8.6"
 msgid "“ananucchavikaṃ, bhikkhave, tassa moghapurisassa ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
-msgstr "“Itʼs not suitable, monks, for that foolish man, itʼs not proper, itʼs not worthy of an ascetic, itʼs not allowable, itʼs not to be done."
+msgstr "“It’s not suitable, monks, for that foolish man, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it’s not to be done."
 
 msgctxt "pi-tv-bu-vb-pj2:8.7"
 msgid "Kathañhi nāma so, bhikkhave, moghapuriso sab­bamat­tikā­mayaṃ kuṭikaṃ karissati."
@@ -176,7 +176,7 @@ msgstr "Go, monks, and demolish this hut."
 
 msgctxt "pi-tv-bu-vb-pj2:8.10"
 msgid "Mā pacchimā janatā pāṇesu pātabyataṃ āpajji."
-msgstr "Donʼt let future generations take up the destruction of living beings."
+msgstr "Don’t let future generations take up the destruction of living beings."
 
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj2:8.11"
@@ -247,7 +247,7 @@ msgstr "But the caretaker of the wood-store is a friend of mine."
 
 msgctxt "pi-tv-bu-vb-pj2:9.7"
 msgid "Yannūnāhaṃ dārugahe gaṇakaṃ dārūni yācitvā dārukuṭikaṃ kareyyan”ti."
-msgstr "Why donʼt I ask him for wood and make a hut out of that?”"
+msgstr "Why don’t I ask him for wood and make a hut out of that?”"
 
 #. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms.196"></a> 
 msgctxt "pi-tv-bu-vb-pj2:10.1"
@@ -277,12 +277,12 @@ msgstr "I want to make a wooden hut.”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:10.7"
 msgid "“Natthi, bhante, tādisāni dārūni yānāhaṃ ayyassa dadeyyaṃ."
-msgstr "“Thereʼs no such wood, Venerable, that I could give you."
+msgstr "“There’s no such wood, Venerable, that I could give you."
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.43"></a> 
 msgctxt "pi-tv-bu-vb-pj2:10.8"
 msgid "Atthi, bhante, devagahadārūni nagara­paṭi­saṅ­khā­ri­kāni āpadatthāya nikkhittāni."
-msgstr "This wood is held by the King, and itʼs meant for the repair of the town and put aside in case of emergencies."
+msgstr "This wood is held by the King, and it’s meant for the repair of the town and put aside in case of emergencies."
 
 msgctxt "pi-tv-bu-vb-pj2:10.9"
 msgid "Sace tāni dārūni rājā dāpeti harāpetha, bhante”ti."
@@ -291,7 +291,7 @@ msgstr "You can only take it if the King gives it away.”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:10.10"
 msgid "“Dinnāni, āvuso, raññā”ti."
-msgstr "“Itʼs been given by the King.”"
+msgstr "“It’s been given by the King.”"
 
 #. </p><p><a class="sc" id="7"></a><a class="ms-pa" id="ms.197"></a> 
 msgctxt "pi-tv-bu-vb-pj2:11.1"
@@ -312,7 +312,7 @@ msgstr "Even the King has faith in them."
 
 msgctxt "pi-tv-bu-vb-pj2:11.5"
 msgid "Nārahati adinnaṃ dinnanti vattun”ti."
-msgstr "These venerables wouldnʼt say something is given if it were not.”"
+msgstr "These venerables wouldn’t say something is given if it were not.”"
 
 #. <a class="pts-vp-en" id="bd.1.68"></a> 
 msgctxt "pi-tv-bu-vb-pj2:11.6"
@@ -346,11 +346,11 @@ msgstr "and said to him:"
 
 msgctxt "pi-tv-bu-vb-pj2:12.3"
 msgid "“yāni tāni, bhaṇe,"
-msgstr "“Whatʼs going on?"
+msgstr "“What’s going on?"
 
 msgctxt "pi-tv-bu-vb-pj2:12.4"
 msgid "devagahadārūni nagara­paṭi­saṅ­khā­ri­kāni āpadatthāya nikkhittāni kahaṃ tāni dārūnī”ti?"
-msgstr "Whereʼs the wood held by the King thatʼs meant for the repair of the town and put aside in case of emergencies?”"
+msgstr "Where’s the wood held by the King that’s meant for the repair of the town and put aside in case of emergencies?”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:12.5"
@@ -419,7 +419,7 @@ msgstr "“Because of that business with the wood, Venerable.”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:14.5"
 msgid "“Gacchāvuso, ahampi āgacchāmī”ti."
-msgstr "“Go, and Iʼll come too.”"
+msgstr "“Go, and I’ll come too.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:14.6"
@@ -532,7 +532,7 @@ msgstr "But they don’t have the qualities of an ascetic or a brahmin;"
 
 msgctxt "pi-tv-bu-vb-pj2:16.5"
 msgid "Naṭṭhaṃ imesaṃ sāmaññaṃ, naṭṭhaṃ imesaṃ brahmaññaṃ."
-msgstr "theyʼve lost the plot."
+msgstr "they’ve lost the plot."
 
 msgctxt "pi-tv-bu-vb-pj2:16.6"
 msgid "Kuto imesaṃ sāmaññaṃ, kuto imesaṃ brahmaññaṃ."
@@ -557,7 +557,7 @@ msgstr "The monks of few desires who had a sense of conscience, who were content
 
 msgctxt "pi-tv-bu-vb-pj2:17.3"
 msgid "“kathañhi nāma āyasmā dhaniyo kumbha­kā­ra­putto rañño dārūni adinnaṃ ādiyissatī”ti."
-msgstr "“How can he take wood belonging to the King that hasnʼt been given to him?”"
+msgstr "“How can he take wood belonging to the King that hasn’t been given to him?”"
 
 #. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms.204"></a> 
 msgctxt "pi-tv-bu-vb-pj2:18.1"
@@ -570,12 +570,12 @@ msgstr "The Master then convened the Order of monks and questioned Venerable Dha
 
 msgctxt "pi-tv-bu-vb-pj2:18.3"
 msgid "“saccaṃ kira tvaṃ, dhaniya, rañño dārūni adinnaṃ ādiyī”ti?"
-msgstr "“Is it true, Dhaniya, that youʼve taken wood belonging to the King that wasnʼt given to you?”"
+msgstr "“Is it true, Dhaniya, that you’ve taken wood belonging to the King that wasn’t given to you?”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:18.4"
 msgid "“Saccaṃ, bhagavā”ti."
-msgstr "“Itʼs true, Master.”"
+msgstr "“It’s true, Master.”"
 
 #. </p><p>
 #. <a class="pts-vp-en" id="bd.1.71"></a> 
@@ -585,12 +585,12 @@ msgstr "The Buddha rebuked him:"
 
 msgctxt "pi-tv-bu-vb-pj2:18.6"
 msgid "“ananucchavikaṃ, moghapurisa, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
-msgstr "“Foolish man, itʼs not suitable, itʼs not proper, itʼs not worthy of an ascetic, itʼs not allowable, itʼs not to be done."
+msgstr "“Foolish man, it’s not suitable, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it’s not to be done."
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.45"></a> 
 msgctxt "pi-tv-bu-vb-pj2:18.7"
 msgid "Kathañhi nāma tvaṃ, moghapurisa, rañño dārūni adinnaṃ ādiyissasi."
-msgstr "How can you take wood belonging to the King that hasnʼt been given to you?"
+msgstr "How can you take wood belonging to the King that hasn’t been given to you?"
 
 msgctxt "pi-tv-bu-vb-pj2:18.8"
 msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya pasannānaṃ vā bhiyyobhāvāya;"
@@ -649,7 +649,7 @@ msgstr "the sort of theft for which kings, having caught a thief, would beat, im
 
 msgctxt "pi-tv-bu-vb-pj2:20.4"
 msgid "‘corosi bālosi mūḷhosi thenosī’ti,"
-msgstr "“Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thief”—"
+msgstr "“You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief”—"
 
 msgctxt "pi-tv-bu-vb-pj2:20.5"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
@@ -687,7 +687,7 @@ msgstr "“You have great merit,"
 #. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pi">cīvara</i> at <i lang="pi">nissaggiya pācittiya</i> 1 <span class="ref">MS.1.1872</span>, it also refers to pieces of robe-cloth. This means that I vary my translation depending on the context. Sometimes, such as here, the meaning seems to encompass both robes and robe-cloth, and I then render it as robe(-cloth).</span> 
 msgctxt "pi-tv-bu-vb-pj2:22.6"
 msgid "Bahuṃ tumhākaṃ cīvaraṃ uppannan”ti."
-msgstr "since youʼve obtained so much robe(-cloth).”"
+msgstr "since you’ve obtained so much robe(-cloth).”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:22.7"
@@ -724,7 +724,7 @@ msgstr "“But that’s just the same."
 #. <a class="pts-vp-en" id="bd.1.73"></a> 
 msgctxt "pi-tv-bu-vb-pj2:22.14"
 msgid "Ananucchavikaṃ, āvuso, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
-msgstr "Itʼs not suitable, itʼs not proper, itʼs not worthy of an ascetic, itʼs not allowable, itʼs not to be done."
+msgstr "It’s not suitable, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it’s not to be done."
 
 msgctxt "pi-tv-bu-vb-pj2:22.15"
 msgid "Kathañhi nāma tumhe, āvuso, rajaka­bhaṇḍi­kaṃ avaharissatha."
@@ -756,7 +756,7 @@ msgstr "“Is it true, monks, that you went to the dyers’ spread of cloth and 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:23.3"
 msgid "“Saccaṃ, bhagavā”ti."
-msgstr "“Itʼs true, Master.”"
+msgstr "“It’s true, Master.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:23.4"
@@ -765,7 +765,7 @@ msgstr "The Buddha rebuked them:"
 
 msgctxt "pi-tv-bu-vb-pj2:23.5"
 msgid "“ananucchavikaṃ, moghapurisā, ananulomikaṃ appaṭirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
-msgstr "“Itʼs not suitable, foolish men, itʼs not proper, itʼs not worthy of an ascetic, itʼs not allowable, itʼs not to be done."
+msgstr "“It’s not suitable, foolish men, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it’s not to be done."
 
 msgctxt "pi-tv-bu-vb-pj2:23.6"
 msgid "Kathañhi nāma tumhe, moghapurisā, rajaka­bhaṇḍi­kaṃ avaharissatha."
@@ -812,11 +812,11 @@ msgstr "the sort of theft for which kings, having caught a thief, would beat, im
 
 msgctxt "pi-tv-bu-vb-pj2:24.4"
 msgid "‘corosi bālosi mūḷhosi thenosī’ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "“Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thief”—"
+msgstr "“You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief”—"
 
 msgctxt "pi-tv-bu-vb-pj2:24.5"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "he too is expelled and not in communion.ʼ”"
+msgstr "he too is expelled and not in communion.’”"
 
 #. </strong> 
 msgctxt "pi-tv-bu-vb-pj2:24.6"
@@ -1039,7 +1039,7 @@ msgstr "would banish from a village, from a town, from a city, from a country, o
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj2:38.1"
 msgid "Corosi bālosi mūḷhosi thenosīti"
-msgstr "Youʼre a bandit, youʼre a fool, youʼve gone astray, youʼre a thief:"
+msgstr "You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief:"
 
 #. </strong>
 #. <span class="note" hidden>Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang="pi">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang="pi">yathārūpaṃ</i>, “the sort,” and secondly, <i lang="pi">ādiyamāno</i>, which is defined in exactly the same way as <i lang="pi">ādiyeyya</i>, “takes.”</span>
@@ -2301,7 +2301,7 @@ msgstr "goods deposited with a monk."
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:63.3"
 msgid "Dehi me bhaṇḍanti vuccamāno nāhaṃ gaṇhāmīti bhaṇati, āpatti dukkaṭassa."
-msgstr "If he is told, “Give me my goods,” and he says, “Iʼm not getting them,” he commits an offense of wrong conduct."
+msgstr "If he is told, “Give me my goods,” and he says, “I’m not getting them,” he commits an offense of wrong conduct."
 
 #. <span class="note" hidden>The Pali text just says that he evokes doubt in the mind of the owner, <i lang="pi">sāmikassa vimatiṃ uppādeti</i>. That the doubt refers to the possibility of getting the goods back is supplied from the commentary, see <span class="ref">Sp.2.350.1</span>: <i lang="pi">‘Dassati nu kho me no’ti sāmiko vimatiṃ uppādeti</i>.</span> 
 msgctxt "pi-tv-bu-vb-pj2:63.4"
@@ -2820,7 +2820,7 @@ msgstr "If the second monk goes there, but returns, saying,"
 
 msgctxt "pi-tv-bu-vb-pj2:81.5"
 msgid "“nāhaṃ sakkomi taṃ bhaṇḍaṃ avaharitun”ti."
-msgstr "“Iʼm not able to steal those goods,”"
+msgstr "“I’m not able to steal those goods,”"
 
 msgctxt "pi-tv-bu-vb-pj2:81.6"
 msgid "So puna āṇāpeti—"
@@ -2828,7 +2828,7 @@ msgstr "and if he tells him again,"
 
 msgctxt "pi-tv-bu-vb-pj2:81.7"
 msgid "“yadā sakkosi tadā taṃ bhaṇḍaṃ avaharā”ti,"
-msgstr "“When youʼre able, then steal those goods,”"
+msgstr "“When you’re able, then steal those goods,”"
 
 msgctxt "pi-tv-bu-vb-pj2:81.8"
 msgid "āpatti dukkaṭassa."
@@ -2861,7 +2861,7 @@ msgstr "If, after telling him, he regrets it, but does not say to him,"
 
 msgctxt "pi-tv-bu-vb-pj2:82.5"
 msgid "“mā avaharī”ti."
-msgstr "“Donʼt steal,”"
+msgstr "“Don’t steal,”"
 
 msgctxt "pi-tv-bu-vb-pj2:82.6"
 msgid "So taṃ bhaṇḍaṃ avaharati,"
@@ -2890,11 +2890,11 @@ msgstr "If, after telling him, he regrets it and says,"
 
 msgctxt "pi-tv-bu-vb-pj2:83.5"
 msgid "“mā avaharī”ti."
-msgstr "“Donʼt steal,”"
+msgstr "“Don’t steal,”"
 
 msgctxt "pi-tv-bu-vb-pj2:83.6"
 msgid "So “āṇatto ahaṃ tayā”ti, taṃ bhaṇḍaṃ avaharati,"
-msgstr "but the second monk says, “Iʼve been told by you to do so,” and he then steals those goods,"
+msgstr "but the second monk says, “I’ve been told by you to do so,” and he then steals those goods,"
 
 msgctxt "pi-tv-bu-vb-pj2:83.7"
 msgid "mūlaṭṭhassa anāpatti."
@@ -2923,7 +2923,7 @@ msgstr "If, after telling him, he regrets it and says to him,"
 
 msgctxt "pi-tv-bu-vb-pj2:84.5"
 msgid "“mā avaharī”ti."
-msgstr "“Donʼt steal,”"
+msgstr "“Don’t steal,”"
 
 msgctxt "pi-tv-bu-vb-pj2:84.6"
 msgid "So “sādhū”ti?"
@@ -5044,12 +5044,12 @@ msgstr "“What was your intention, monk?”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:151.6"
 msgid "“Nāhaṃ, bhagavā, jānāmī”ti."
-msgstr "“I didnʼt know, Master.”"
+msgstr "“I didn’t know, Master.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:151.7"
 msgid "“Anāpatti, bhikkhu, ajānantassā”ti."
-msgstr "“There’s no offense for one who doesnʼt know.”"
+msgstr "“There’s no offense for one who doesn’t know.”"
 
 msgctxt "pi-tv-bu-vb-pj2:151.8"
 msgid "(89)"
@@ -5074,7 +5074,7 @@ msgstr "“Give me my bag, Venerable,"
 
 msgctxt "pi-tv-bu-vb-pj2:152.5"
 msgid "nāhaṃ akallako”ti."
-msgstr " Iʼm not sick.”"
+msgstr " I’m not sick.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:152.6"
@@ -6385,7 +6385,7 @@ msgstr "The second offense entailing expulsion is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
-#. <p>A digital edition of I.B. Hornerʼs translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
 #. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
 #. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
 #. <p><strong>You are free to:</strong></p>

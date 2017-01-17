@@ -140,7 +140,7 @@ msgstr "and they may say,"
 
 msgctxt "pi-tv-bu-vb-ss11:7.4"
 msgid "‘māyasmanto etaṃ bhikkhuṃ kiñci avacuttha."
-msgstr "“Venerables, donʼt correct this monk."
+msgstr "“Venerables, don’t correct this monk."
 
 msgctxt "pi-tv-bu-vb-ss11:7.5"
 msgid "Dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu."
@@ -160,7 +160,7 @@ msgstr "The monks should say to those monks,"
 
 msgctxt "pi-tv-bu-vb-ss11:7.9"
 msgid "‘māyasmanto evaṃ avacuttha,"
-msgstr "“Venerables, donʼt say that."
+msgstr "“Venerables, don’t say that."
 
 msgctxt "pi-tv-bu-vb-ss11:7.10"
 msgid "na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī,"
@@ -168,7 +168,7 @@ msgstr "This monk does not speak in accordance with the Teaching or the training
 
 msgctxt "pi-tv-bu-vb-ss11:7.11"
 msgid "­mā­yasman­tānampi saṃghabhedo ruccittha,"
-msgstr "Donʼt consent to schism in the monastic Order."
+msgstr "Don’t consent to schism in the monastic Order."
 
 msgctxt "pi-tv-bu-vb-ss11:7.12"
 msgid "­same­tā­yasman­tānaṃ saṃghena,"
@@ -265,7 +265,7 @@ msgstr "They may say,"
 
 msgctxt "pi-tv-bu-vb-ss11:12.4"
 msgid "“māyasmanto etaṃ bhikkhuṃ kiñci avacuttha,"
-msgstr "“Venerables, donʼt correct this monk."
+msgstr "“Venerables, don’t correct this monk."
 
 msgctxt "pi-tv-bu-vb-ss11:12.5"
 msgid "dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu,"
@@ -316,7 +316,7 @@ msgstr "They should say,"
 #. <span class="kamma"> 
 msgctxt "pi-tv-bu-vb-ss11:15.3"
 msgid "“māyasmanto evaṃ avacuttha."
-msgstr "“Venerables, donʼt say that."
+msgstr "“Venerables, don’t say that."
 
 msgctxt "pi-tv-bu-vb-ss11:15.4"
 msgid "Na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī."
@@ -324,7 +324,7 @@ msgstr "This monk does not speak in accordance with the Teaching or the training
 
 msgctxt "pi-tv-bu-vb-ss11:15.5"
 msgid "­Mā­yasman­tānampi saṃghabhedo ruccittha."
-msgstr "Donʼt consent to schism in the monastic Order."
+msgstr "Don’t consent to schism in the monastic Order."
 
 msgctxt "pi-tv-bu-vb-ss11:15.6"
 msgid "Same­tā­yasman­tānaṃ saṃghena."
@@ -365,7 +365,7 @@ msgstr "Those monks, even if they have to be dragged into the middle of the Orde
 #. <span class="kamma"> 
 msgctxt "pi-tv-bu-vb-ss11:15.14"
 msgid "“māyasmanto evaṃ avacuttha."
-msgstr "“Venerables, donʼt say that."
+msgstr "“Venerables, don’t say that."
 
 msgctxt "pi-tv-bu-vb-ss11:15.15"
 msgid "Na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī."
@@ -373,7 +373,7 @@ msgstr "This monk does not speak in accordance with the Teaching or the training
 
 msgctxt "pi-tv-bu-vb-ss11:15.16"
 msgid "­Mā­yasman­tānampi saṃghabhedo ruccittha."
-msgstr "Donʼt consent to schism in the monastic Order."
+msgstr "Don’t consent to schism in the monastic Order."
 
 msgctxt "pi-tv-bu-vb-ss11:15.17"
 msgid "Same­tā­yasman­tānaṃ saṃghena."
@@ -618,7 +618,7 @@ msgstr "The eleventh rule, the training rule on supporting a schism, is finished
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
-#. <p>A digital edition of I.B. Hornerʼs translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
 #. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
 #. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
 #. <p><strong>You are free to:</strong></p>

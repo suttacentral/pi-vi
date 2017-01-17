@@ -203,7 +203,7 @@ msgstr "How can you emit semen with your hand?"
 
 msgctxt "pi-tv-bu-vb-ss1:8.8"
 msgid "Nanu mayā, moghapurisa, aneka­pariyā­yena virāgāya dhammo desito no sarāgāya,"
-msgstr "Havenʼt I given many teachings for the sake of dispassion, not for the sake of passion;"
+msgstr "Haven’t I given many teachings for the sake of dispassion, not for the sake of passion;"
 
 msgctxt "pi-tv-bu-vb-ss1:8.9"
 msgid "visaññogāya dhammo desito no saññogāya,"
@@ -219,7 +219,7 @@ msgstr "When I’ve taught in this way, how can you be intent on passion, bondag
 
 msgctxt "pi-tv-bu-vb-ss1:8.12"
 msgid "Nanu mayā, moghapurisa, aneka­pariyā­yena rāgavirāgāya dhammo desito, mada­nim­madanāya pipāsavinayāya ālaya­samug­ghātāya vaṭ­ṭupac­che­dāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammo desito?"
-msgstr "Havenʼt I given many teachings for the fading away of lust, for the clearing away of intoxication, for the removal of thirst, for the uprooting of attachment, for the cutting off of the round of birth and death, for the ending of craving, for fading away, for cessation, for extinguishment?"
+msgstr "Haven’t I given many teachings for the fading away of lust, for the clearing away of intoxication, for the removal of thirst, for the uprooting of attachment, for the cutting off of the round of birth and death, for the ending of craving, for fading away, for cessation, for extinguishment?"
 
 #. <a class="pts-vp-en" id="bd.1.195"></a> 
 msgctxt "pi-tv-bu-vb-ss1:8.13"
@@ -3766,7 +3766,7 @@ msgstr "The first rule, the training rule on emission of semen, is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
-#. <p>A digital edition of I.B. Hornerʼs translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
 #. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
 #. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
 #. <p><strong>You are free to:</strong></p>

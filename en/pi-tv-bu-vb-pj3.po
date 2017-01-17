@@ -149,7 +149,7 @@ msgstr "“This is truly bad for me;"
 #. <a class="pts-vp-pi" id="pts-vp-pi3.69"></a>"
 msgctxt "pi-tv-bu-vb-pj3:8.4"
 msgid "Bahuṃ vata mayā apuññaṃ pasutaṃ, yohaṃ bhikkhū sīlavante kalyāṇadhamme jīvitā voropesin”ti."
-msgstr "Iʼve made much demerit by killing virtuous monks.”"
+msgstr "I’ve made much demerit by killing virtuous monks.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:8.5"
@@ -158,11 +158,11 @@ msgstr "Then, walking across the water, a god from the realm of the lord of deat
 
 msgctxt "pi-tv-bu-vb-pj3:8.6"
 msgid "“sādhu sādhu, sappurisa, lābhā te, sappurisa, suladdhaṃ te, sappurisa."
-msgstr "“Well done, superior man, youʼre truly fortunate."
+msgstr "“Well done, superior man, you’re truly fortunate."
 
 msgctxt "pi-tv-bu-vb-pj3:8.7"
 msgid "Bahuṃ tayā, sappurisa, puññaṃ pasutaṃ, yaṃ tvaṃ atiṇṇe tāresī”ti."
-msgstr "Youʼve made much merit, because youʼve brought across those who hadnʼt yet crossed.”"
+msgstr "You’ve made much merit, because you’ve brought across those who hadn’t yet crossed.”"
 
 #. </p><p><a class="sc" id="5"></a><a class="pts-vp-en" id="bd.1.119"></a><a class="ms-pa" id="ms.380"></a> 
 msgctxt "pi-tv-bu-vb-pj3:9.1"
@@ -171,11 +171,11 @@ msgstr "And Migalaṇḍika thought,"
 
 msgctxt "pi-tv-bu-vb-pj3:9.2"
 msgid "tiṇhaṃ asiṃ ādāya vihārena vihāraṃ pariveṇena pariveṇaṃ upasaṅkamitvā evaṃ vadeti—"
-msgstr "“So it seems that Iʼm fortunate and that Iʼve made much merit.”"
+msgstr "“So it seems that I’m fortunate and that I’ve made much merit.”"
 
 msgctxt "pi-tv-bu-vb-pj3:9.3"
 msgid "tiṇhaṃ asiṃ ādāya vihārena vihāraṃ pariveṇena pariveṇaṃ upasaṅkamitvā evaṃ vadeti—"
-msgstr "He then went from dwelling to dwelling, from precincts to precincts, and said, “Who hasnʼt crossed yet?"
+msgstr "He then went from dwelling to dwelling, from precincts to precincts, and said, “Who hasn’t crossed yet?"
 
 msgctxt "pi-tv-bu-vb-pj3:9.4"
 msgid "“ko atiṇṇo, kaṃ tāremī”ti?"
@@ -487,7 +487,7 @@ msgstr "‘Please kill us; this bowl and robe will be yours’?”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:19.4"
 msgid "“Saccaṃ, bhagavā”ti."
-msgstr "“Itʼs true, Master.”"
+msgstr "“It’s true, Master.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:19.5"
@@ -496,7 +496,7 @@ msgstr "The Buddha criticized them:"
 
 msgctxt "pi-tv-bu-vb-pj3:19.6"
 msgid "“ananucchavikaṃ, bhikkhave, tesaṃ bhikkhūnaṃ ananulomikaṃ appaṭirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
-msgstr "“Monks, itʼs not suitable for these monks, itʼs not proper, itʼs not worthy of an ascetic, itʼs not allowable, it should not be done."
+msgstr "“Monks, it’s not suitable for these monks, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it should not be done."
 
 msgctxt "pi-tv-bu-vb-pj3:19.7"
 msgid "Kathañhi nāma te, bhikkhave, bhikkhū attanāpi attānaṃ jīvitā voropessanti, aññamaññampi jīvitā voropessanti, migalaṇḍikampi samaṇakuttakaṃ upasaṅkamitvā evaṃ vakkhanti—"
@@ -523,7 +523,7 @@ msgstr "Preliminary ruling"
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj3:20.2"
 msgid "“Yo pana bhikkhu sañcicca manus­savig­gahaṃ jīvitā voropeyya satthahārakaṃ vāssa pariyeseyya, ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "‘If a monk intentionally kills a human being or seeks an instrument of death for him, he too is expelled and not in communion.ʼ”"
+msgstr "‘If a monk intentionally kills a human being or seeks an instrument of death for him, he too is expelled and not in communion.’”"
 
 #. </strong>
 #. </p><p class="endsection"><a class="sc" id="17"></a><a class="ms-pa" id="ms.392"></a> 
@@ -560,7 +560,7 @@ msgstr "“If this lay follower lives, we won’t get this woman."
 
 msgctxt "pi-tv-bu-vb-pj3:22.7"
 msgid "Handa mayaṃ, āvuso, tassa upāsakassa maraṇavaṇṇaṃ saṃvaṇṇemā”ti."
-msgstr "Come, letʼs praise death to him.”"
+msgstr "Come, let’s praise death to him.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:22.8"
@@ -573,12 +573,12 @@ msgstr "and said,"
 
 msgctxt "pi-tv-bu-vb-pj3:22.10"
 msgid "“tvaṃ khosi, upāsaka, katakalyāṇo katakusalo"
-msgstr "“Youʼve done whatʼs good and wholesome;"
+msgstr "“You’ve done what’s good and wholesome;"
 
 #. <a class="pts-vp-en" id="bd.1.124"></a> 
 msgctxt "pi-tv-bu-vb-pj3:22.11"
 msgid "katabhīruttāṇo"
-msgstr "youʼve made a shelter against fear."
+msgstr "you’ve made a shelter against fear."
 
 msgctxt "pi-tv-bu-vb-pj3:22.12"
 msgid "akatapāpo akataluddo akatakibbiso."
@@ -598,11 +598,11 @@ msgstr "Death is better for you than life."
 
 msgctxt "pi-tv-bu-vb-pj3:22.16"
 msgid "Ito tvaṃ kālaṅkato kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissasi."
-msgstr "When you have passed away, youʼll be reborn in a happy place, in heaven."
+msgstr "When you have passed away, you’ll be reborn in a happy place, in heaven."
 
 msgctxt "pi-tv-bu-vb-pj3:22.17"
 msgid "Tattha dibbehi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāressasī”ti."
-msgstr "There youʼll be able to enjoy the five kinds of heavenly sense pleasure.”"
+msgstr "There you’ll be able to enjoy the five kinds of heavenly sense pleasure.”"
 
 #. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms.394"></a> 
 msgctxt "pi-tv-bu-vb-pj3:23.1"
@@ -615,7 +615,7 @@ msgstr "“The Venerables have spoken the truth,"
 
 msgctxt "pi-tv-bu-vb-pj3:23.3"
 msgid "Ahañhi katakalyāṇo katakusalo katabhīruttāṇo akatapāpo akataluddo akatakibbiso."
-msgstr "for Iʼve done whatʼs good and avoided whatʼs bad,"
+msgstr "for I’ve done what’s good and avoided what’s bad,"
 
 msgctxt "pi-tv-bu-vb-pj3:23.4"
 msgid "Kataṃ mayā kalyāṇaṃ, akataṃ mayā pāpaṃ."
@@ -631,7 +631,7 @@ msgstr ""
 
 msgctxt "pi-tv-bu-vb-pj3:23.7"
 msgid "Ito ahaṃ kālaṅkato kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmi."
-msgstr "and after death Iʼll be reborn in a happy place.”"
+msgstr "and after death I’ll be reborn in a happy place.”"
 
 msgctxt "pi-tv-bu-vb-pj3:23.8"
 msgid "Tattha dibbehi pañcahi kāmaguṇehi samappito samaṅgībhūto paricāressāmī”ti,"
@@ -670,7 +670,7 @@ msgstr "But they don’t have the qualities of an ascetic or a brahmin;"
 
 msgctxt "pi-tv-bu-vb-pj3:23.16"
 msgid "naṭṭhaṃ imesaṃ sāmaññaṃ naṭṭhaṃ imesaṃ brahmaññaṃ, kuto imesaṃ sāmaññaṃ kuto imesaṃ brahmaññaṃ, apagatā ime sāmaññā apagatā ime brahmaññā."
-msgstr "theyʼve lost the plot."
+msgstr "they’ve lost the plot."
 
 msgctxt "pi-tv-bu-vb-pj3:23.17"
 msgid "Ime me sāmikassa maraṇavaṇṇaṃ saṃvaṇṇesuṃ."
@@ -735,7 +735,7 @@ msgstr "“Is it true, monks, that you praised death to that lay follower?”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:25.3"
 msgid "“Saccaṃ, bhagavā”ti."
-msgstr "“Itʼs true, Master.”"
+msgstr "“It’s true, Master.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:25.4"
@@ -744,7 +744,7 @@ msgstr "The Buddha rebuked them:"
 
 msgctxt "pi-tv-bu-vb-pj3:25.5"
 msgid "“ananucchavikaṃ, moghapurisā, ananulomikaṃ appaṭirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
-msgstr "“Foolish men, itʼs not suitable, itʼs not proper, itʼs not worthy of an ascetic, itʼs not allowable, it should not be done."
+msgstr "“Foolish men, it’s not suitable, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it should not be done."
 
 msgctxt "pi-tv-bu-vb-pj3:25.6"
 msgid "Kathañhi nāma tumhe, moghapurisā, upāsakassa maraṇavaṇṇaṃ saṃvaṇṇissatha."
@@ -772,7 +772,7 @@ msgstr "‘If a monk intentionally kills a human being or seeks an instrument of
 
 msgctxt "pi-tv-bu-vb-pj3:26.3"
 msgid "‘ambho purisa, kiṃ tuyhiminā pāpakena dujjīvitena,"
-msgstr "“Good man, whatʼs the point of this wretched and difficult life?"
+msgstr "“Good man, what’s the point of this wretched and difficult life?"
 
 msgctxt "pi-tv-bu-vb-pj3:26.4"
 msgid "mataṃ te jīvitā seyyo’ti,"
@@ -920,7 +920,7 @@ msgstr "this is a form of address."
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj3:35.1"
 msgid "Kiṃ tuyhiminā pāpakena dujjīvitenāti"
-msgstr "Whatʼs the point of this wretched and difficult life:"
+msgstr "What’s the point of this wretched and difficult life:"
 
 #. </strong>
 #. <span class="gloss"><strong class="term"> 
@@ -1411,7 +1411,7 @@ msgstr "He goes, but returns,"
 
 msgctxt "pi-tv-bu-vb-pj3:54.6"
 msgid "“nāhaṃ sakkomi taṃ jīvitā voropetun”ti."
-msgstr "saying, “I wasnʼt able to kill them.”"
+msgstr "saying, “I wasn’t able to kill them.”"
 
 msgctxt "pi-tv-bu-vb-pj3:54.7"
 msgid "So puna āṇāpeti—"
@@ -1419,7 +1419,7 @@ msgstr "If the first monk tells him again,"
 
 msgctxt "pi-tv-bu-vb-pj3:54.8"
 msgid "“yadā sakkosi tadā taṃ jīvitā voropehī”ti,"
-msgstr "“When youʼre able, then kill them,”"
+msgstr "“When you’re able, then kill them,”"
 
 msgctxt "pi-tv-bu-vb-pj3:54.9"
 msgid "āpatti dukkaṭassa."
@@ -1452,7 +1452,7 @@ msgstr "He then becomes remorseful, but does not say,"
 
 msgctxt "pi-tv-bu-vb-pj3:55.5"
 msgid "“mā ghātehī”ti."
-msgstr "“Donʼt kill them.”"
+msgstr "“Don’t kill them.”"
 
 msgctxt "pi-tv-bu-vb-pj3:55.6"
 msgid "So taṃ jīvitā voropeti,"
@@ -1481,11 +1481,11 @@ msgstr "He then becomes remorseful and says,"
 
 msgctxt "pi-tv-bu-vb-pj3:56.5"
 msgid "“mā ghātehī”ti."
-msgstr "“Donʼt kill them.”"
+msgstr "“Don’t kill them.”"
 
 msgctxt "pi-tv-bu-vb-pj3:56.6"
 msgid "So—“āṇatto ahaṃ tayā”ti"
-msgstr "If the second monk replies, “Iʼve been told by you to do so,”"
+msgstr "If the second monk replies, “I’ve been told by you to do so,”"
 
 msgctxt "pi-tv-bu-vb-pj3:56.7"
 msgid "taṃ jīvitā voropeti,"
@@ -1518,7 +1518,7 @@ msgstr "He then becomes remorseful and says,"
 
 msgctxt "pi-tv-bu-vb-pj3:57.5"
 msgid "“mā ghātehī”ti."
-msgstr "“Donʼt kill them.”"
+msgstr "“Don’t kill them.”"
 
 msgctxt "pi-tv-bu-vb-pj3:57.6"
 msgid "So sādhūti oramati,"
@@ -1956,7 +1956,7 @@ msgstr "if a monk places a dagger in a piece of furniture, smears the furniture 
 
 msgctxt "pi-tv-bu-vb-pj3:65.3"
 msgid "“papatitvā marissatī”ti,"
-msgstr "“Falling down, theyʼll die,”"
+msgstr "“Falling down, they’ll die,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:65.4"
@@ -1994,7 +1994,7 @@ msgstr "if a monk places a knife, a dagger, an arrow, a club, a stone, a sword, 
 
 msgctxt "pi-tv-bu-vb-pj3:66.3"
 msgid "“iminā marissatī”ti,"
-msgstr "“Using this, theyʼll die,”"
+msgstr "“Using this, they’ll die,”"
 
 msgctxt "pi-tv-bu-vb-pj3:66.4"
 msgid "āpatti dukkaṭassa."
@@ -2035,7 +2035,7 @@ msgstr "if a monk gives a person ghee, butter, oil, honey, or sugar, thinking, "
 
 msgctxt "pi-tv-bu-vb-pj3:67.3"
 msgid "“imaṃ sāyitvā marissatī”ti,"
-msgstr "“After tasting this, theyʼll die,”"
+msgstr "“After tasting this, they’ll die,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:67.4"
@@ -2076,7 +2076,7 @@ msgstr "if a monk arranges a dreadful and terrifying sight, thinking,"
 
 msgctxt "pi-tv-bu-vb-pj3:68.3"
 msgid "“imaṃ passitvā uttasitvā marissatī”ti,"
-msgstr "“Seeing this and becoming terrified, theyʼll die,”"
+msgstr "“Seeing this and becoming terrified, they’ll die,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:68.4"
@@ -2106,7 +2106,7 @@ msgstr "If a monk arranges a lovely sight, thinking,"
 #. <a class="pts-vp-en" id="bd.1.134"></a> 
 msgctxt "pi-tv-bu-vb-pj3:68.10"
 msgid "“imaṃ passitvā alābhakena sussitvā marissatī”ti,"
-msgstr "“Seeing this and then not being able to obtain it, theyʼll wither and die,”"
+msgstr "“Seeing this and then not being able to obtain it, they’ll wither and die,”"
 
 msgctxt "pi-tv-bu-vb-pj3:68.11"
 msgid "āpatti dukkaṭassa."
@@ -2142,7 +2142,7 @@ msgstr "if a monk arranges a dreadful and terrifying sound, thinking, "
 
 msgctxt "pi-tv-bu-vb-pj3:69.3"
 msgid "“imaṃ sutvā uttasitvā marissatī”ti,"
-msgstr "“Hearing this and becoming terrified, theyʼll die,”"
+msgstr "“Hearing this and becoming terrified, they’ll die,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:69.4"
@@ -2171,7 +2171,7 @@ msgstr "If a monk arranges a lovely and heart-stirring sound, thinking,"
 
 msgctxt "pi-tv-bu-vb-pj3:69.10"
 msgid "“imaṃ sutvā alābhakena sussitvā marissatī”ti,"
-msgstr "“Hearing this and then not being able to obtain it, theyʼll wither and die,”"
+msgstr "“Hearing this and then not being able to obtain it, they’ll wither and die,”"
 
 msgctxt "pi-tv-bu-vb-pj3:69.11"
 msgid "āpatti dukkaṭassa."
@@ -2207,7 +2207,7 @@ msgstr "if a monk arranges a disgusting and repulsive smell, thinking, "
 
 msgctxt "pi-tv-bu-vb-pj3:70.3"
 msgid "“imaṃ ghāyitvā jegucchatā pāṭikulyatā marissatī”ti,"
-msgstr "“Smelling this, theyʼll die from disgust and aversion,”"
+msgstr "“Smelling this, they’ll die from disgust and aversion,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:70.4"
@@ -2236,7 +2236,7 @@ msgstr "If a monk arranges a lovely smell, thinking, "
 
 msgctxt "pi-tv-bu-vb-pj3:70.10"
 msgid "“imaṃ ghāyitvā alābhakena sussitvā marissatī”ti,"
-msgstr "“Smelling this and then not being able to obtain it, theyʼll wither and die,”"
+msgstr "“Smelling this and then not being able to obtain it, they’ll wither and die,”"
 
 msgctxt "pi-tv-bu-vb-pj3:70.11"
 msgid "āpatti dukkaṭassa."
@@ -2272,7 +2272,7 @@ msgstr "if a monk arranges a disgusting and repulsive taste, thinking, "
 
 msgctxt "pi-tv-bu-vb-pj3:71.3"
 msgid "“imaṃ sāyitvā jegucchatā pāṭikulyatā marissatī”ti,"
-msgstr "“Tasting this, theyʼll die from disgust and aversion,”"
+msgstr "“Tasting this, they’ll die from disgust and aversion,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:71.4"
@@ -2301,7 +2301,7 @@ msgstr "If a monk arranges a delicious taste, thinking, "
 
 msgctxt "pi-tv-bu-vb-pj3:71.10"
 msgid "“imaṃ sāyitvā alābhakena sussitvā marissatī”ti,"
-msgstr "“Tasting this and then not being able to obtain it, theyʼll wither and die,”"
+msgstr "“Tasting this and then not being able to obtain it, they’ll wither and die,”"
 
 msgctxt "pi-tv-bu-vb-pj3:71.11"
 msgid "āpatti dukkaṭassa."
@@ -2338,7 +2338,7 @@ msgstr "if a monk arranges a painful and harsh physical contact, thinking,"
 
 msgctxt "pi-tv-bu-vb-pj3:72.3"
 msgid "“iminā phuṭṭho marissatī”ti,"
-msgstr "“Touched by this, theyʼll die,”"
+msgstr "“Touched by this, they’ll die,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:72.4"
@@ -2367,7 +2367,7 @@ msgstr "If a monk arranges a pleasant and soft physical contact, thinking,"
 
 msgctxt "pi-tv-bu-vb-pj3:72.10"
 msgid "“iminā phuṭṭho alābhakena sussitvā marissatī”ti,"
-msgstr "“Touched by this and then not being able to obtain it, theyʼll wither and die,”"
+msgstr "“Touched by this and then not being able to obtain it, they’ll wither and die,”"
 
 msgctxt "pi-tv-bu-vb-pj3:72.11"
 msgid "āpatti dukkaṭassa."
@@ -2403,7 +2403,7 @@ msgstr "if a monk talks about hell to someone bound for hell, thinking, "
 
 msgctxt "pi-tv-bu-vb-pj3:73.3"
 msgid "“imaṃ sutvā uttasitvā marissatī”ti,"
-msgstr "“Hearing this and becoming terrified, theyʼll die,”"
+msgstr "“Hearing this and becoming terrified, they’ll die,”"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj3:73.4"
@@ -2432,7 +2432,7 @@ msgstr "If a monk talks about heaven to someone of good behavior, thinking,"
 
 msgctxt "pi-tv-bu-vb-pj3:73.10"
 msgid "“imaṃ sutvā adhimutto marissatī”ti,"
-msgstr "“Hearing this and being keen on it, theyʼll die,”"
+msgstr "“Hearing this and being keen on it, they’ll die,”"
 
 msgctxt "pi-tv-bu-vb-pj3:73.11"
 msgid "āpatti dukkaṭassa."
@@ -3178,12 +3178,12 @@ msgstr "“What was your intention, monk?”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:98.7"
 msgid "“Nāhaṃ, bhagavā, jānāmī”ti."
-msgstr "“I didnʼt know, Master.”"
+msgstr "“I didn’t know, Master.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj3:98.8"
 msgid "“Anāpatti, bhikkhu, ajānantassā”ti."
-msgstr "“There’s no offense for one who doesnʼt know."
+msgstr "“There’s no offense for one who doesn’t know."
 
 msgctxt "pi-tv-bu-vb-pj3:98.9"
 msgid "(11)"
@@ -5111,7 +5111,7 @@ msgstr "On one occasion, a monk went to a place of execution and said to the exe
 
 msgctxt "pi-tv-bu-vb-pj3:160.2"
 msgid "“āvuso, māyimaṃ kilamesi."
-msgstr "“Donʼt torture him."
+msgstr "“Don’t torture him."
 
 msgctxt "pi-tv-bu-vb-pj3:160.3"
 msgid "Ekena pahārena jīvitā voropehī”ti."
@@ -5144,7 +5144,7 @@ msgstr "On one occasion, a monk went to a place of execution and said to the exe
 
 msgctxt "pi-tv-bu-vb-pj3:161.2"
 msgid "“āvuso, māyimaṃ kilamesi."
-msgstr "“Donʼt torture him."
+msgstr "“Don’t torture him."
 
 msgctxt "pi-tv-bu-vb-pj3:161.3"
 msgid "Ekena pahārena jīvitā voropehī”ti."
@@ -5152,7 +5152,7 @@ msgstr "Kill him with a single blow.”"
 
 msgctxt "pi-tv-bu-vb-pj3:161.4"
 msgid "So—“nāhaṃ tuyhaṃ vacanaṃ karissāmī”ti"
-msgstr "“I wonʼt do as you ask,” he said,"
+msgstr "“I won’t do as you ask,” he said,"
 
 msgctxt "pi-tv-bu-vb-pj3:161.5"
 msgid "taṃ jīvitā voropesi."
@@ -5282,7 +5282,7 @@ msgstr "The third offense entailing expulsion is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
-#. <p>A digital edition of I.B. Hornerʼs translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
 #. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
 #. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
 #. <p><strong>You are free to:</strong></p>

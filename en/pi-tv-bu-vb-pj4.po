@@ -300,7 +300,7 @@ msgstr "and so the Master said to them,"
 
 msgctxt "pi-tv-bu-vb-pj4:11.5"
 msgid "“kacci, bhikkhave, khamanīyaṃ kacci yāpanīyaṃ"
-msgstr "“I hope youʼre keeping well, monks, I hope youʼre comfortable;"
+msgstr "“I hope you’re keeping well, monks, I hope you’re comfortable;"
 
 msgctxt "pi-tv-bu-vb-pj4:11.6"
 msgid "kacci samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasittha,"
@@ -313,7 +313,7 @@ msgstr "and that you had no trouble getting almsfood?”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:11.8"
 msgid "“Khamanīyaṃ, bhagavā, yāpanīyaṃ, bhagavā."
-msgstr "“Weʼre keeping well, Master, weʼre comfortable;"
+msgstr "“We’re keeping well, Master, we’re comfortable;"
 
 msgctxt "pi-tv-bu-vb-pj4:11.9"
 msgid "Samaggā ca mayaṃ, bhante, sammodamānā avivadamānā phāsukaṃ vassaṃ vasimhā,"
@@ -368,7 +368,7 @@ msgstr "The Buddha rebuked them:"
 #. <a class="pts-vp-en" id="bd.1.155"></a> 
 msgctxt "pi-tv-bu-vb-pj4:12.7"
 msgid "“ananucchavikaṃ, moghapurisā, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
-msgstr "“It’s unsuitable, foolish men, itʼs not proper, itʼs not fitting for an ascetic, itʼs not allowable, itʼs not to be done."
+msgstr "“It’s unsuitable, foolish men, it’s not proper, it’s not fitting for an ascetic, it’s not allowable, it’s not to be done."
 
 msgctxt "pi-tv-bu-vb-pj4:12.8"
 msgid "Kathañhi nāma tumhe, moghapurisā, udarassa kāraṇā gihīnaṃ aññamaññassa uttari­manus­sa­dhammassa vaṇṇaṃ bhāsissatha."
@@ -733,7 +733,7 @@ msgstr "unless it is due to overestimation,"
 
 msgctxt "pi-tv-bu-vb-pj4:26.9"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "he too is expelled and not in communion.ʼ”"
+msgstr "he too is expelled and not in communion.’”"
 
 #. </strong> 
 msgctxt "pi-tv-bu-vb-pj4:26.10"
@@ -2548,7 +2548,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsutta"><a class="sc" id="99"></a><a class="ms-pa" id="ms.632"></a>
-#. <span class="note" hidden>For an explanation of the term ʻbasic,ʼ <i lang="pi">suddhika</i>, see <span class="ref">Sp.2.497.6</span>.</span> 
+#. <span class="note" hidden>For an explanation of the term ʻbasic,’ <i lang="pi">suddhika</i>, see <span class="ref">Sp.2.497.6</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj4:103.1"
 msgid "Suddhikaṃ niṭṭhitaṃ."
 msgstr "The basic series is finished."
@@ -3015,7 +3015,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsutta"><a class="sc" id="114"></a><a class="ms-pa" id="ms.647"></a>
-#. <span class="note" hidden>For an explanation of the term ʻunconnected,ʼ <i lang="pi">khaṇḍa</i>, see <span class="ref">Sp.2.497.10</span>.</span> 
+#. <span class="note" hidden>For an explanation of the term ʻunconnected,’ <i lang="pi">khaṇḍa</i>, see <span class="ref">Sp.2.497.10</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj4:118.1"
 msgid "Khaṇḍacakkaṃ niṭṭhitaṃ."
 msgstr "The unconnected permutation series is finished."
@@ -3250,7 +3250,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsutta"><a class="sc" id="120"></a><a class="ms-pa" id="ms.653"></a>
-#. <span class="note" hidden>For an explanation of the term ʻlinked,ʼ <i lang="pi">baddha</i>, see <span class="ref">Sp.2.497.14</span>.</span> 
+#. <span class="note" hidden>For an explanation of the term ʻlinked,’ <i lang="pi">baddha</i>, see <span class="ref">Sp.2.497.14</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj4:124.1"
 msgid "Baddhacakkaṃ."
 msgstr "The linked permutation series."
@@ -4209,7 +4209,7 @@ msgstr "The successive permutation series with a speech extension is finished."
 #. <br>
 msgctxt "pi-tv-bu-vb-pj4:163.3"
 msgid "Vatthu­kā­ma­vāraka­thā niṭṭhitā."
-msgstr "The exposition of the section on ʻmeaning to sayʼ is finished."
+msgstr "The exposition of the section on ʻmeaning to say’ is finished."
 
 #. </p><h5>
 msgctxt "pi-tv-bu-vb-pj4:164.1"
@@ -5380,7 +5380,7 @@ msgstr "“Venerable, do you have any super-human quality?”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:197.4"
 msgid "“Nāvuso, dukkaraṃ aññaṃ byākātun”ti."
-msgstr "“Itʼs not difficult to declare final knowledge.”"
+msgstr "“It’s not difficult to declare final knowledge.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:197.5"
@@ -5393,7 +5393,7 @@ msgstr "“Those who are true disciples of the Master may say that,"
 
 msgctxt "pi-tv-bu-vb-pj4:197.7"
 msgid "Ahañcamhi na bhagavato sāvako."
-msgstr "but Iʼm not such a disciple."
+msgstr "but I’m not such a disciple."
 
 msgctxt "pi-tv-bu-vb-pj4:197.8"
 msgid "Kacci nu kho ahaṃ pārājikaṃ āpattiṃ āpanno”ti?"
@@ -5464,12 +5464,12 @@ msgstr "The monks said to him,"
 
 msgctxt "pi-tv-bu-vb-pj4:199.3"
 msgid "“mā kho, āvuso, bhāyī”ti."
-msgstr "“Donʼt be afraid.”"
+msgstr "“Don’t be afraid.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:199.4"
 msgid "“Nāhaṃ, āvuso, maccuno bhāyāmī”ti."
-msgstr "“Iʼm not afraid of death.”"
+msgstr "“I’m not afraid of death.”"
 
 msgctxt "pi-tv-bu-vb-pj4:199.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5495,13 +5495,13 @@ msgstr "The monks said to him,"
 
 msgctxt "pi-tv-bu-vb-pj4:200.3"
 msgid "“mā kho, āvuso, bhāyī”ti."
-msgstr "“Donʼt be afraid.”"
+msgstr "“Don’t be afraid.”"
 
 #. </p><p>
 #. <a class="pts-vp-en" id="bd.1.177"></a> 
 msgctxt "pi-tv-bu-vb-pj4:200.4"
 msgid "“Yo nūnāvuso, vippaṭisārī assa so bhāyeyyā”ti."
-msgstr "“One whoʼs remorseful might be afraid.”"
+msgstr "“One who’s remorseful might be afraid.”"
 
 msgctxt "pi-tv-bu-vb-pj4:200.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5563,7 +5563,7 @@ msgstr "“Venerable, do you have any super-human quality?”"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:202.4"
 msgid "“Ārādhanīyo kho, āvuso, dhammo ārad­dha­vīri­yenā”ti."
-msgstr "“A super-human quality is to be reached by one whoʼs energetic.”"
+msgstr "“A super-human quality is to be reached by one who’s energetic.”"
 
 msgctxt "pi-tv-bu-vb-pj4:202.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5620,12 +5620,12 @@ msgstr "The monks said to him,"
 
 msgctxt "pi-tv-bu-vb-pj4:204.3"
 msgid "“kaccāvuso, khamanīyaṃ, kacci yāpanīyan”ti?"
-msgstr "“We hope youʼre bearing up, we hope youʼre comfortable?”"
+msgstr "“We hope you’re bearing up, we hope you’re comfortable?”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:204.4"
 msgid "“Nāvuso, sakkā yena vā tena vā adhivāsetun”ti."
-msgstr "“Itʼs not possible for just anyone to endure this.”"
+msgstr "“It’s not possible for just anyone to endure this.”"
 
 msgctxt "pi-tv-bu-vb-pj4:204.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5652,12 +5652,12 @@ msgstr "The monks said to him,"
 
 msgctxt "pi-tv-bu-vb-pj4:205.3"
 msgid "“kaccāvuso, khamanīyaṃ, kacci yāpanīyan”ti?"
-msgstr "“We hope youʼre bearing up, we hope youʼre comfortable?”"
+msgstr "“We hope you’re bearing up, we hope you’re comfortable?”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:205.4"
 msgid "“Nāvuso, sakkā puthujjanena adhivāsetun”ti."
-msgstr "“Itʼs not possible for an ordinary person to endure this.”"
+msgstr "“It’s not possible for an ordinary person to endure this.”"
 
 msgctxt "pi-tv-bu-vb-pj4:205.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5702,7 +5702,7 @@ msgstr "They became remorseful and said,"
 
 msgctxt "pi-tv-bu-vb-pj4:206.4"
 msgid "“mayañcamha na arahanto."
-msgstr "“Weʼre not perfected ones,"
+msgstr "“We’re not perfected ones,"
 
 msgctxt "pi-tv-bu-vb-pj4:206.5"
 msgid "Ayañca brāhmaṇo amhe arahantavādena samudācarati."
@@ -5753,7 +5753,7 @@ msgstr "They became remorseful and said,"
 
 msgctxt "pi-tv-bu-vb-pj4:207.7"
 msgid "“mayañcamha na arahanto."
-msgstr "“Weʼre not perfected ones,"
+msgstr "“We’re not perfected ones,"
 
 msgctxt "pi-tv-bu-vb-pj4:207.8"
 msgid "Ayañca brāhmaṇo amhe arahantavādena samudācarati."
@@ -5919,7 +5919,7 @@ msgstr "thinking, “Those who are true disciple of the Master may say that,"
 
 msgctxt "pi-tv-bu-vb-pj4:213.6"
 msgid "Ahañcamhi na bhagavato sāvako."
-msgstr "but Iʼm not such a disciple."
+msgstr "but I’m not such a disciple."
 
 msgctxt "pi-tv-bu-vb-pj4:213.7"
 msgid "Kacci nu kho ahaṃ pārājikaṃ āpattiṃ āpanno”ti?"
@@ -6816,7 +6816,7 @@ msgstr "They informed the Master."
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj4:239.7"
 msgid "“Attheso, bhikkhave, samādhi so ca kho aparisuddho."
-msgstr "“Monks, there is such a stillness, but itʼs not wholly purified."
+msgstr "“Monks, there is such a stillness, but it’s not wholly purified."
 
 msgctxt "pi-tv-bu-vb-pj4:239.8"
 msgid "Saccaṃ, bhikkhave, moggallāno āha."
@@ -6968,7 +6968,7 @@ msgstr "The chapter on offenses entailing expulsion is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
-#. <p>A digital edition of I.B. Hornerʼs translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
 #. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
 #. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
 #. <p><strong>You are free to:</strong></p>
