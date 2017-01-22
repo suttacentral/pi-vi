@@ -245,7 +245,7 @@ msgstr "aiming to make him leave the monastic life,"
 
 msgctxt "pi-tv-bu-vb-ss9:9.4"
 msgid "Tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā añña­bhāgi­yañ­ceva taṃ adhikaraṇaṃ hoti koci deso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṃghādiseso”ti."
-msgstr "and then after some time, whether he is questioned or not, it is clear that the legal issue is unrelated and used as a pretext, and he admits to his anger, he commits an offense entailing suspension.’”"
+msgstr "and then after some time, whether he is questioned or not, it is clear that the legal issue is unrelated and used as a pretext, and he admits to his ill-will, he commits an offense entailing suspension.’”"
 
 #. </strong> 
 msgctxt "pi-tv-bu-vb-ss9:9.5"
@@ -277,7 +277,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss9:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-ss9:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -305,7 +305,7 @@ msgstr "Angry:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss9:12.2"
 msgid "kupito anattamano anabhiraddho āhatacitto khilajāto."
-msgstr "upset, dissatisfied, discontent, having ill-will, hostile."
+msgstr "upset, dissatisfied, discontent, having hatred, hostile."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1634"></a>
@@ -317,7 +317,7 @@ msgstr "Displeased:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss9:13.2"
 msgid "tena ca kopena, tena ca dosena, tāya ca anattamanatāya, tāya ca anabhiraddhiyā appatīto hoti."
-msgstr "because of that upset, that anger, that dissatisfaction, and that discontent, he is displeased."
+msgstr "because of that upset, that ill-will, that dissatisfaction, and that discontent, he is displeased."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="pts-cs" id="bu-ss.9.2.2"></a><a class="ms-pa" id="ms-pa1635"></a>
@@ -929,7 +929,7 @@ msgstr "he has used a certain pretext among those listed above."
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss9:39.1"
 msgid "Bhikkhu ca dosaṃ patiṭṭhātīti"
-msgstr "And he admits to his anger:"
+msgstr "And he admits to his ill-will:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss9:39.2"

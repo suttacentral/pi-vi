@@ -568,7 +568,7 @@ msgstr "After the Order had performed the formal procedure, those monks did not 
 
 msgctxt "pi-tv-bu-vb-ss13:15.3"
 msgid "akkosanti paribhāsanti chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpenti,"
-msgstr "Instead they abused and reviled them, and they defamed them as acting from desire, anger, confusion, and fear."
+msgstr "Instead they abused and reviled them, and they defamed them as acting from desire, ill-will, confusion, and fear."
 
 msgctxt "pi-tv-bu-vb-ss13:15.4"
 msgid "pakkamantipi, vibbhamantipi."
@@ -654,7 +654,7 @@ msgstr "If he replies,"
 
 msgctxt "pi-tv-bu-vb-ss13:17.10"
 msgid "‘chandagāmino ca bhikkhū dosagāmino ca bhikkhū mohagāmino ca bhikkhū bhayagāmino ca bhikkhū"
-msgstr "“You’re acting out of desire, anger, confusion, and fear;"
+msgstr "“You’re acting out of desire, ill-will, confusion, and fear;"
 
 msgctxt "pi-tv-bu-vb-ss13:17.11"
 msgid "tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī’ti,"
@@ -674,7 +674,7 @@ msgstr "The monks are not acting out of desire,"
 
 msgctxt "pi-tv-bu-vb-ss13:17.15"
 msgid "Na ca bhikkhū dosagāmino."
-msgstr "anger,"
+msgstr "ill-will,"
 
 msgctxt "pi-tv-bu-vb-ss13:17.16"
 msgid "Na ca bhikkhū mohagāmino."
@@ -911,7 +911,7 @@ msgstr "If he replies,"
 
 msgctxt "pi-tv-bu-vb-ss13:28.2"
 msgid "“chandagāmino ca bhikkhū, dosagāmino ca bhikkhū, mohagāmino ca bhikkhū, bhayagāmino ca bhikkhū."
-msgstr "“You’re acting out of desire, anger, confusion, and fear;"
+msgstr "“You’re acting out of desire, ill-will, confusion, and fear;"
 
 msgctxt "pi-tv-bu-vb-ss13:28.3"
 msgid "Tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti."
@@ -956,7 +956,7 @@ msgstr "“Venerable, don’t say that."
 
 msgctxt "pi-tv-bu-vb-ss13:31.4"
 msgid "Na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino."
-msgstr "The monks are not acting out of desire, anger, confusion, and fear."
+msgstr "The monks are not acting out of desire, ill-will, confusion, and fear."
 
 msgctxt "pi-tv-bu-vb-ss13:31.5"
 msgid "Āyasmā kho kuladūsako pāpasamācāro."
@@ -1015,7 +1015,7 @@ msgstr "“Venerable, don’t say that."
 
 msgctxt "pi-tv-bu-vb-ss13:32.6"
 msgid "Na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino."
-msgstr "The monks are not acting out of desire, anger, confusion, and fear."
+msgstr "The monks are not acting out of desire, ill-will, confusion, and fear."
 
 msgctxt "pi-tv-bu-vb-ss13:32.7"
 msgid "Āyasmā kho kuladūsako pāpasamācāro."
@@ -1077,7 +1077,7 @@ msgstr "‘Venerables, let the Order listen to me."
 #. <a class="pts-vp-en" id="bd.1.327"></a> 
 msgctxt "pi-tv-bu-vb-ss13:34.2"
 msgid "Ayaṃ itthannāmo bhikkhu saṃghena pab­bājanī­ya­kamma­kato bhikkhū chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpeti."
-msgstr "This monk so-and-so, who has had a formal procedure of banishment done against him, is defaming the monks as acting out of desire, anger, confusion, and fear."
+msgstr "This monk so-and-so, who has had a formal procedure of banishment done against him, is defaming the monks as acting out of desire, ill-will, confusion, and fear."
 
 msgctxt "pi-tv-bu-vb-ss13:34.3"
 msgid "So taṃ vatthuṃ na paṭinissajjati."
@@ -1098,7 +1098,7 @@ msgstr "Venerables, let the Order listen to me."
 
 msgctxt "pi-tv-bu-vb-ss13:35.2"
 msgid "Ayaṃ itthannāmo bhikkhu saṃghena pab­bājanī­ya­kamma­kato bhikkhū chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpeti."
-msgstr "This monk so-and-so, who has had a formal procedure of banishment done against him, is defaming the monks as acting out of desire, anger, confusion, and fear."
+msgstr "This monk so-and-so, who has had a formal procedure of banishment done against him, is defaming the monks as acting out of desire, ill-will, confusion, and fear."
 
 msgctxt "pi-tv-bu-vb-ss13:35.3"
 msgid "So taṃ vatthuṃ na paṭinissajjati."

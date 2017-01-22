@@ -626,7 +626,7 @@ msgstr "At that time in Rājagaha a <i lang=\"pi\">pāda</i> coin was worth five
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj2:19.6"
 msgid "Atha kho bhagavā āyasmantaṃ dhaniyaṃ kumbha­kā­ra­puttaṃ aneka­pariyā­yena vigarahitvā dubbharatāya … pe …"
-msgstr "The Master, after criticizing Venerable Dhaniya in many ways for being difficult to support … “…"
+msgstr "After criticizing Venerable Dhaniya in many ways for being difficult to support … “…"
 
 msgctxt "pi-tv-bu-vb-pj2:19.7"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
@@ -849,7 +849,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj2:25.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-pj2:25.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -1159,7 +1159,7 @@ msgstr "Summary"
 #. </h4><p><a class="sc" id="40"></a><a class="pts-cs-empty" id="Bu-Pj.2.4"></a><a class="pts-cs" id="Bu-Pj.2.4.1"></a><a class="ms-pa" id="ms.230"></a><a class="pts-vp-en" id="bd.1.76"></a> 
 msgctxt "pi-tv-bu-vb-pj2:44.4"
 msgid "Bhūmaṭṭhaṃ thalaṭṭhaṃ ākāsaṭṭhaṃ vehāsaṭṭhaṃ udakaṭṭhaṃ nāvaṭṭhaṃ yānaṭṭhaṃ bhāraṭṭhaṃ ārāmaṭṭhaṃ vihāraṭṭhaṃ khettaṭṭhaṃ vatthuṭṭhaṃ gāmaṭṭhaṃ araññaṭṭhaṃ udakaṃ dantapoṇaṃ vanappati haraṇakaṃ upanidhi suṅkaghātaṃ pāṇo apadaṃ dvipadaṃ catuppadaṃ bahuppadaṃ ocarako oṇirakkho saṃvidāvahāro saṅketakammaṃ nimitta­kammanti."
-msgstr "Being in the earth, being on the ground, being in the air, being above ground, being in water, being in a boat, being in a vehicle, carried as a burden, being in a park, being in a monastic dwelling, being in a field, being on a plot of land, being in a village, being in the wilderness, water, toothbrush, forest tree, that which is carried, that which is deposited, customs station, a living being, footless, two-footed, four-footed, many-footed, a spy, a keeper of entrusted property, a mutually agreed theft, an arranged action, the making of a sign."
+msgstr "Being in the earth, being on the ground, being inthe air, being above ground, being in water, being in a boat, being in a vehicle, carried as a burden, being in a park, being in a monastic dwelling, being in a field, being on a plot of land, being in a village, being in the wilderness, water, toothbrush, forest tree, that which is carried, that which is deposited, customs station, a living being, footless, two-footed, four-footed, many-footed, a spy, a keeper of entrusted property, a mutually agreed theft, an arranged action, the making of a sign."
 
 #. </p><h4>
 msgctxt "pi-tv-bu-vb-pj2:45.1"
@@ -3379,7 +3379,7 @@ msgstr "Cakes, pastries, confectioneries."
 #. </p><p><a class="sc" id="95"></a><a class="ms-pa" id="ms.285"></a> 
 msgctxt "pi-tv-bu-vb-pj2:100.1"
 msgid "Cha­parik­khā­ra­thavikā,"
-msgstr "Six on requisites, bag,"
+msgstr "Six on articles, bag,"
 
 #. <br>
 msgctxt "pi-tv-bu-vb-pj2:100.2"
@@ -3525,7 +3525,7 @@ msgstr "Case details"
 #. </h3><p><a class="sc" id="102"></a><a class="pts-cs-empty" id="Bu-Pj.2.7"></a><a class="pts-cs" id="Bu-Pj.2.7.1"></a><a class="ms-pa" id="ms.292"></a> 
 msgctxt "pi-tv-bu-vb-pj2:108.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū raja­kattha­ra­ṇaṃ gantvā rajaka­bhaṇḍi­kaṃ avahariṃsu."
-msgstr "On one occasion, monks from the group of six went to the dyers’ spread of cloth and took the dyers’ goods."
+msgstr "On one occasion monks from the group of six went to the dyers’ spread of cloth and took the dyers’ goods."
 
 msgctxt "pi-tv-bu-vb-pj2:108.2"
 msgid "Tesaṃ kukkuccaṃ ahosi—"
@@ -3554,7 +3554,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="103"></a><a class="pts-cs" id="Bu-Pj.2.7.2"></a><a class="ms-pa" id="ms.293"></a> 
 msgctxt "pi-tv-bu-vb-pj2:109.1"
 msgid "Tena kho pana samayena aññataro bhikkhu raja­kattha­ra­ṇaṃ gantvā mahagghaṃ dussaṃ passitvā theyyacittaṃ uppādesi."
-msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valuable garment, and had the intention to steal it."
+msgstr "On one occasion a monk went to the dyers’ spread of cloth, saw a valuable garment, and had the intention to steal it."
 
 msgctxt "pi-tv-bu-vb-pj2:109.2"
 msgid "Tassa kukkuccaṃ ahosi—"
@@ -3583,7 +3583,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="104"></a><a class="ms-pa" id="ms.294"></a> 
 msgctxt "pi-tv-bu-vb-pj2:110.1"
 msgid "Tena kho pana samayena aññataro bhikkhu raja­kattha­ra­ṇaṃ gantvā mahagghaṃ dussaṃ passitvā theyyacitto āmasi."
-msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he touched it."
+msgstr "On one occasion a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he touched it."
 
 msgctxt "pi-tv-bu-vb-pj2:110.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -3604,7 +3604,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="105"></a><a class="ms-pa" id="ms.295"></a> 
 msgctxt "pi-tv-bu-vb-pj2:111.1"
 msgid "Tena kho pana samayena aññataro bhikkhu raja­kattha­ra­ṇaṃ gantvā mahagghaṃ dussaṃ passitvā theyyacitto phandāpesi."
-msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he made it quiver."
+msgstr "On one occasion a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he made it quiver."
 
 msgctxt "pi-tv-bu-vb-pj2:111.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -3625,7 +3625,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="106"></a><a class="ms-pa" id="ms.296"></a> 
 msgctxt "pi-tv-bu-vb-pj2:112.1"
 msgid "Tena kho pana samayena aññataro bhikkhu raja­kattha­ra­ṇaṃ gantvā mahagghaṃ dussaṃ passitvā theyyacitto ṭhānā cāvesi."
-msgstr "On one occasion, a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he moved it from its base."
+msgstr "On one occasion a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he moved it from its base."
 
 msgctxt "pi-tv-bu-vb-pj2:112.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -3642,7 +3642,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="107"></a><a class="pts-cs" id="Bu-Pj.2.7.3"></a><a class="ms-pa" id="ms.297"></a><a class="pts-vp-en" id="bd.1.95"></a> 
 msgctxt "pi-tv-bu-vb-pj2:113.1"
 msgid "Tena kho pana samayena aññataro piṇḍacāriko bhikkhu mahagghaṃ utta­rattha­ra­ṇaṃ passitvā theyyacittaṃ uppādesi … pe …"
-msgstr "On one occasion, a monk who was an alms-collector saw a valuable blanket and had the intention to steal it. … “There’s no offense for the arising of a thought.” …"
+msgstr "On one occasion a monk who was an alms-collector saw a valuable blanket and had the intention to steal it. … “There’s no offense for the arising of a thought.” …"
 
 msgctxt "pi-tv-bu-vb-pj2:113.2"
 msgid "theyyacitto āmasi … pe …"
@@ -3671,7 +3671,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="108"></a><a class="pts-cs" id="Bu-Pj.2.7.4"></a><a class="ms-pa" id="ms.298"></a> 
 msgctxt "pi-tv-bu-vb-pj2:114.1"
 msgid "Tena kho pana samayena aññataro bhikkhu divā bhaṇḍaṃ passitvā nimittaṃ akāsi—"
-msgstr "On one occasion, a monk saw some goods during the day, and he took note of them with the thought,"
+msgstr "On one occasion a monk saw some goods during the day, and he took note of them with the thought,"
 
 msgctxt "pi-tv-bu-vb-pj2:114.2"
 msgid "“rattiṃ avaharissāmī”ti."
@@ -3708,7 +3708,7 @@ msgstr ""
 #. </p><p><a class="sc" id="109"></a><a class="pts-vp-pi" id="pts-vp-pi3.57"></a> <a class="ms-pa" id="ms.299"></a> 
 msgctxt "pi-tv-bu-vb-pj2:115.1"
 msgid "Tena kho pana samayena aññataro bhikkhu divā bhaṇḍaṃ passitvā nimittaṃ akāsi—"
-msgstr "On one occasion, a monk saw some goods during the day, and he took note of them with the thought,"
+msgstr "On one occasion a monk saw some goods during the day, and he took note of them with the thought,"
 
 msgctxt "pi-tv-bu-vb-pj2:115.2"
 msgid "“rattiṃ avaharissāmī”ti."
@@ -3737,7 +3737,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="110"></a><a class="pts-cs" id="Bu-Pj.2.7.5"></a><a class="ms-pa" id="ms.300"></a> 
 msgctxt "pi-tv-bu-vb-pj2:116.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññassa bhaṇḍaṃ haranto sīse bhāraṃ theyyacitto āmasi … pe …"
-msgstr "On one occasion, a monk who was carrying the goods of another on his head touched the burden, intending to steal it. … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.” …"
+msgstr "On one occasion a monk who was carrying the goods of another on his head touched the burden, intending to steal it. … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct.” …"
 
 msgctxt "pi-tv-bu-vb-pj2:116.2"
 msgid "theyyacitto phandāpesi … pe …"
@@ -3797,7 +3797,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="111"></a><a class="pts-cs" id="Bu-Pj.2.7.6"></a><a class="ms-pa" id="ms.301"></a> 
 msgctxt "pi-tv-bu-vb-pj2:117.1"
 msgid "Tena kho pana samayena aññataro bhikkhu ajjhokāse cīvaraṃ pattharitvā vihāraṃ pāvisi."
-msgstr "On one occasion, a monk spread out his robe out in the open and entered his dwelling."
+msgstr "On one occasion a monk spread out his robe out in the open and entered his dwelling."
 
 #. <a class="pts-vp-en" id="bd.1.96"></a> 
 msgctxt "pi-tv-bu-vb-pj2:117.2"
@@ -3857,7 +3857,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="112"></a><a class="ms-pa" id="ms.302"></a> 
 msgctxt "pi-tv-bu-vb-pj2:118.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pīṭhe cīvaraṃ nikkhipitvā."
-msgstr "On one occasion, a monk put down his robe on a bench …"
+msgstr "On one occasion a monk put down his robe on a bench …"
 
 msgctxt "pi-tv-bu-vb-pj2:118.2"
 msgid "Pīṭhe nisīdanaṃ nikkhipitvā …"
@@ -3911,7 +3911,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="113"></a><a class="ms-pa" id="ms.303"></a><span class="bhikkhuni"> 
 msgctxt "pi-tv-bu-vb-pj2:119.1"
 msgid "Tena kho pana samayena aññatarā bhikkhunī vatiyā cīvaraṃ pattharitvā vihāraṃ pāvisi."
-msgstr "On one occasion, a nun spread out her robe on a fence and entered her dwelling."
+msgstr "On one occasion a nun spread out her robe on a fence and entered her dwelling."
 
 msgctxt "pi-tv-bu-vb-pj2:119.2"
 msgid "Aññatarā bhikkhunī—"
@@ -3969,7 +3969,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="114"></a><a class="pts-cs" id="Bu-Pj.2.7.7"></a><a class="pts-vp-pi" id="pts-vp-pi3.58"></a> <a class="ms-pa" id="ms.304"></a> 
 msgctxt "pi-tv-bu-vb-pj2:120.1"
 msgid "Tena kho pana samayena aññataro bhikkhu vāta­maṇḍa­li­kāya ukkhittaṃ sāṭakaṃ passitvā sāmikānaṃ dassāmīti, aggahesi."
-msgstr "On one occasion, a monk saw a robe blown up by a whirlwind."
+msgstr "On one occasion a monk saw a robe blown up by a whirlwind."
 
 msgctxt "pi-tv-bu-vb-pj2:120.2"
 msgid "Sāmikā taṃ bhikkhuṃ codesuṃ—"
@@ -4005,7 +4005,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="115"></a><a class="ms-pa" id="ms.305"></a> 
 msgctxt "pi-tv-bu-vb-pj2:121.1"
 msgid "Tena kho pana samayena aññataro bhikkhu vāta­maṇḍa­li­kāya ukkhittaṃ veṭhanaṃ passitvā—"
-msgstr "On one occasion, a monk took hold of a turban that had been blown up by a whirlwind,"
+msgstr "On one occasion a monk took hold of a turban that had been blown up by a whirlwind,"
 
 msgctxt "pi-tv-bu-vb-pj2:121.2"
 msgid "“pure sāmikā passantī”ti theyyacitto aggahesi."
@@ -4034,7 +4034,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="116"></a><a class="pts-cs" id="Bu-Pj.2.7.8"></a><a class="ms-pa" id="ms.306"></a> 
 msgctxt "pi-tv-bu-vb-pj2:122.1"
 msgid "Tena kho pana samayena aññataro bhikkhu susānaṃ gantvā abhinne sarīre paṃsukūlaṃ aggahesi."
-msgstr "On one occasion, a monk went to a charnel ground and took the rags from a fresh corpse."
+msgstr "On one occasion a monk went to a charnel ground and took the rags from a fresh corpse."
 
 msgctxt "pi-tv-bu-vb-pj2:122.2"
 msgid "Tasmiñca sarīre peto adhivattho hoti."
@@ -4089,7 +4089,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="117"></a><a class="pts-cs" id="Bu-Pj.2.7.9"></a><a class="ms-pa" id="ms.307"></a> 
 msgctxt "pi-tv-bu-vb-pj2:123.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa cīvare bhājīyamāne"
-msgstr "On one occasion, robe(-cloth) belonging to the Order was being distributed."
+msgstr "On one occasion robe(-cloth) belonging to the Order was being distributed."
 
 msgctxt "pi-tv-bu-vb-pj2:123.2"
 msgid "theyyacitto kusaṃ saṅkāmetvā cīvaraṃ aggahesi."
@@ -4110,7 +4110,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="118"></a><a class="pts-cs" id="Bu-Pj.2.7.10"></a><a class="ms-pa" id="ms.308"></a> 
 msgctxt "pi-tv-bu-vb-pj2:124.1"
 msgid "Tena kho pana samayena āyasmā ānando jantāghare aññatarassa bhikkhuno antaravāsakaṃ attano maññamāno nivāsesi."
-msgstr "On one occasion, when Venerable Ānanda was in a sauna, he thought that the inner robe of another monk was his own, and he put it on."
+msgstr "On one occasion when Venerable Ānanda was in a sauna, he thought that the inner robe of another monk was his own, and he put it on."
 
 #. <a class="pts-vp-en" id="bd.1.98"></a> 
 msgctxt "pi-tv-bu-vb-pj2:124.2"
@@ -4142,7 +4142,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="119"></a><a class="pts-cs" id="Bu-Pj.2.7.11"></a><a class="ms-pa" id="ms.309"></a> 
 msgctxt "pi-tv-bu-vb-pj2:125.1"
 msgid "Tena kho pana samayena sambahulā bhikkhū gijjhakūṭā pabbatā orohantā sīhavighāsaṃ passitvā"
-msgstr "On one occasion, a number of monks were descending from Mount Vulture Peak when they saw the remains of a lion’s kill."
+msgstr "On one occasion a number of monks were descending from Mount Vulture Peak when they saw the remains of a lion’s kill."
 
 msgctxt "pi-tv-bu-vb-pj2:125.2"
 msgid "pacāpetvā paribhuñjiṃsu."
@@ -4163,7 +4163,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="120"></a><a class="ms-pa" id="ms.310"></a> 
 msgctxt "pi-tv-bu-vb-pj2:126.1"
 msgid "Tena kho pana samayena sambahulā bhikkhū gijjhakūṭā pabbatā orohantā byag­gha­vighā­saṃ passitvā …"
-msgstr "On one occasion, a number of monks were descending from Mount Vulture Peak when they saw the remains of a tiger’s kill …"
+msgstr "On one occasion a number of monks were descending from Mount Vulture Peak when they saw the remains of a tiger’s kill …"
 
 msgctxt "pi-tv-bu-vb-pj2:126.2"
 msgid "dīpivighāsaṃ passitvā …"
@@ -4196,7 +4196,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="121"></a><a class="pts-cs" id="Bu-Pj.2.7.12"></a><a class="pts-vp-pi" id="pts-vp-pi3.59"></a> <a class="ms-pa" id="ms.311"></a> 
 msgctxt "pi-tv-bu-vb-pj2:127.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa odane bhājīyamāne—"
-msgstr "On one occasion, when rice belonging to the Order was being distributed,"
+msgstr "On one occasion when rice belonging to the Order was being distributed,"
 
 msgctxt "pi-tv-bu-vb-pj2:127.2"
 msgid "“aparassa bhāgaṃ dehī”ti amūlakaṃ aggahesi."
@@ -4221,7 +4221,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="122"></a><a class="ms-pa" id="ms.312"></a> 
 msgctxt "pi-tv-bu-vb-pj2:128.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa khādanīye bhājīyamāne …"
-msgstr "On one occasion, when food belonging to the Order was being distributed …"
+msgstr "On one occasion when food belonging to the Order was being distributed …"
 
 msgctxt "pi-tv-bu-vb-pj2:128.2"
 msgid "saṃghassa pūve bhājīyamāne …"
@@ -4259,7 +4259,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="123"></a><a class="pts-cs" id="Bu-Pj.2.7.13"></a><a class="ms-pa" id="ms.313"></a> 
 msgctxt "pi-tv-bu-vb-pj2:129.1"
 msgid "Tena kho pana samayena aññataro bhikkhu dubbhikkhe odanīyagharaṃ pavisitvā pattapūraṃ odanaṃ theyyacitto avahari."
-msgstr "On one occasion, during a shortage of food, a monk, intending to steal, entered a rice kitchen and took a bowlful of rice."
+msgstr "On one occasion during a shortage of food, a monk, intending to steal, entered a rice kitchen and took a bowlful of rice."
 
 msgctxt "pi-tv-bu-vb-pj2:129.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4276,7 +4276,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="124"></a><a class="ms-pa" id="ms.314"></a> 
 msgctxt "pi-tv-bu-vb-pj2:130.1"
 msgid "Tena kho pana samayena aññataro bhikkhu dubbhikkhe sūnagharaṃ pavisitvā pattapūraṃ maṃsaṃ theyyacitto avahari."
-msgstr "On one occasion, during a shortage of food, a monk, intending to steal, entered a slaughterhouse and took a bowlful of meat."
+msgstr "On one occasion during a shortage of food, a monk, intending to steal, entered a slaughterhouse and took a bowlful of meat."
 
 msgctxt "pi-tv-bu-vb-pj2:130.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4293,7 +4293,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="125"></a><a class="ms-pa" id="ms.315"></a> 
 msgctxt "pi-tv-bu-vb-pj2:131.1"
 msgid "Tena kho pana samayena aññataro bhikkhu dubbhikkhe pūvagharaṃ pavisitvā pattapūraṃ pūvaṃ theyyacitto avahari … pe …"
-msgstr "On one occasion, during a shortage of food, a monk, intending to steal, entered a bakery and took a bowlful of cakes …"
+msgstr "On one occasion during a shortage of food, a monk, intending to steal, entered a bakery and took a bowlful of cakes …"
 
 msgctxt "pi-tv-bu-vb-pj2:131.2"
 msgid "pattapūrā sakkhaliyo theyyacitto avahari … pe …"
@@ -4318,7 +4318,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="126"></a><a class="pts-cs" id="Bu-Pj.2.7.14"></a><a class="ms-pa" id="ms.316"></a> 
 msgctxt "pi-tv-bu-vb-pj2:132.1"
 msgid "Tena kho pana samayena aññataro bhikkhu divā parikkhāraṃ passitvā nimittaṃ akāsi—"
-msgstr "On one occasion, a monk saw a requisite during the day, and he took note of it with the thought,"
+msgstr "On one occasion a monk saw an article during the day, and he took note of it with the thought,"
 
 msgctxt "pi-tv-bu-vb-pj2:132.2"
 msgid "“rattiṃ avaharissāmī”ti."
@@ -4355,7 +4355,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="127"></a><a class="ms-pa" id="ms.317"></a> 
 msgctxt "pi-tv-bu-vb-pj2:133.1"
 msgid "Tena kho pana samayena aññataro bhikkhu divā parikkhāraṃ passitvā nimittaṃ akāsi—"
-msgstr "On one occasion, a monk saw a requisite during the day, and he took note of it with the thought,"
+msgstr "On one occasion a monk saw an article during the day, and he took note of it with the thought,"
 
 msgctxt "pi-tv-bu-vb-pj2:133.2"
 msgid "“rattiṃ avaharissāmī”ti."
@@ -4363,7 +4363,7 @@ msgstr "“I’ll steal it at night.”"
 
 msgctxt "pi-tv-bu-vb-pj2:133.3"
 msgid "So taṃ maññamāno attano parikkhāraṃ avahari."
-msgstr "But he took his own requisite, thinking it was what he had seen."
+msgstr "But he took his own article, thinking it was what he had seen."
 
 msgctxt "pi-tv-bu-vb-pj2:133.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4384,7 +4384,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="128"></a><a class="pts-cs" id="Bu-Pj.2.7.15"></a><a class="ms-pa" id="ms.318"></a> 
 msgctxt "pi-tv-bu-vb-pj2:134.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pīṭhe thavikaṃ passitvā—"
-msgstr "On one occasion, a monk saw a bag on a bench."
+msgstr "On one occasion a monk saw a bag on a bench."
 
 #. <a class="pts-vp-en" id="bd.1.100"></a> 
 msgctxt "pi-tv-bu-vb-pj2:134.2"
@@ -4410,7 +4410,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="129"></a><a class="pts-cs" id="Bu-Pj.2.7.16"></a><a class="ms-pa" id="ms.319"></a> 
 msgctxt "pi-tv-bu-vb-pj2:135.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa bhisiṃ theyyacitto avahari."
-msgstr "On one occasion, a monk, intending to steal it, took a cushion belonging to the Order."
+msgstr "On one occasion a monk, intending to steal it, took a cushion belonging to the Order."
 
 msgctxt "pi-tv-bu-vb-pj2:135.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4427,7 +4427,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="130"></a><a class="pts-cs" id="Bu-Pj.2.7.17"></a><a class="ms-pa" id="ms.320"></a><a class="pts-vp-pi" id="pts-vp-pi3.60"></a> 
 msgctxt "pi-tv-bu-vb-pj2:136.1"
 msgid "Tena kho pana samayena aññataro bhikkhu cīvaravaṃse cīvaraṃ theyyacitto avahari."
-msgstr "On one occasion, a monk, intending to steal it, took a robe from a bamboo robe-rack."
+msgstr "On one occasion a monk, intending to steal it, took a robe from a bamboo robe-rack."
 
 msgctxt "pi-tv-bu-vb-pj2:136.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4444,7 +4444,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="131"></a><a class="pts-cs" id="Bu-Pj.2.7.18"></a><a class="ms-pa" id="ms.321"></a> 
 msgctxt "pi-tv-bu-vb-pj2:137.1"
 msgid "Tena kho pana samayena aññataro bhikkhu vihāre cīvaraṃ avaharitvā—"
-msgstr "On one occasion, a monk stole a robe in a dwelling."
+msgstr "On one occasion a monk stole a robe in a dwelling."
 
 msgctxt "pi-tv-bu-vb-pj2:137.2"
 msgid "“ito nikkhamanto pārājiko bhavissāmī”ti"
@@ -4517,7 +4517,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="133"></a><a class="pts-cs" id="Bu-Pj.2.7.20"></a><a class="ms-pa" id="ms.323"></a> 
 msgctxt "pi-tv-bu-vb-pj2:139.1"
 msgid "Tena kho pana samayena sambahulā bhikkhū cīvarakammaṃ karonti."
-msgstr "On one occasion, a number of monks were making robes."
+msgstr "On one occasion a number of monks were making robes."
 
 msgctxt "pi-tv-bu-vb-pj2:139.2"
 msgid "Saṃghassa khādanīye bhājīyamāne sabbesaṃ paṭivisā āharitvā upanikkhittā honti."
@@ -4562,7 +4562,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="134"></a><a class="ms-pa" id="ms.324"></a> 
 msgctxt "pi-tv-bu-vb-pj2:140.1"
 msgid "Tena kho pana samayena sambahulā bhikkhū cīvarakammaṃ karonti."
-msgstr "On one occasion, a number of monks were making robes."
+msgstr "On one occasion a number of monks were making robes."
 
 msgctxt "pi-tv-bu-vb-pj2:140.2"
 msgid "Saṃghassa khādanīye bhājīyamāne aññatarassa bhikkhuno pattena aññatarassa bhikkhuno paṭiviso āharitvā upanikkhitto hoti."
@@ -4595,7 +4595,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="135"></a><a class="pts-cs" id="Bu-Pj.2.7.21"></a><a class="ms-pa" id="ms.325"></a> 
 msgctxt "pi-tv-bu-vb-pj2:141.1"
 msgid "Tena kho pana samayena ambacorakā ambaṃ pātetvā bhaṇḍikaṃ ādāya agamaṃsu."
-msgstr "On one occasion, mango thieves cut down some mangoes, collected them in a bundle, and left."
+msgstr "On one occasion mango thieves cut down some mangoes, collected them in a bundle, and left."
 
 msgctxt "pi-tv-bu-vb-pj2:141.2"
 msgid "Sāmikā te corake anubandhiṃsu."
@@ -4647,7 +4647,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="136"></a><a class="ms-pa" id="ms.326"></a> 
 msgctxt "pi-tv-bu-vb-pj2:142.1"
 msgid "Tena kho pana samayena jambucorakā …"
-msgstr "On one occasion, black plum thieves …"
+msgstr "On one occasion black plum thieves …"
 
 msgctxt "pi-tv-bu-vb-pj2:142.2"
 msgid "labujacorakā …"
@@ -4705,7 +4705,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="137"></a><a class="pts-cs" id="Bu-Pj.2.7.22"></a><a class="ms-pa" id="ms.327"></a><a class="pts-vp-en" id="bd.1.102"></a> 
 msgctxt "pi-tv-bu-vb-pj2:143.1"
 msgid "Tena kho pana samayena ambacorakā ambaṃ pātetvā bhaṇḍikaṃ ādāya agamaṃsu."
-msgstr "On one occasion, mango thieves cut down some mangoes, collected them in a bundle, and left."
+msgstr "On one occasion mango thieves cut down some mangoes, collected them in a bundle, and left."
 
 msgctxt "pi-tv-bu-vb-pj2:143.2"
 msgid "Sāmikā te corake anubandhiṃsu."
@@ -4742,7 +4742,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="138"></a><a class="ms-pa" id="ms.328"></a> 
 msgctxt "pi-tv-bu-vb-pj2:144.1"
 msgid "Tena kho pana samayena jambucorakā …"
-msgstr "On one occasion, black plum thieves …"
+msgstr "On one occasion black plum thieves …"
 
 msgctxt "pi-tv-bu-vb-pj2:144.2"
 msgid "labujacorakā …"
@@ -4799,7 +4799,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="139"></a><a class="pts-cs" id="Bu-Pj.2.7.23"></a><a class="ms-pa" id="ms.329"></a> 
 msgctxt "pi-tv-bu-vb-pj2:145.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa ambaṃ theyyacitto avahari …"
-msgstr "On one occasion, a monk, intending to steal it, took a mango belonging to the Order …"
+msgstr "On one occasion a monk, intending to steal it, took a mango belonging to the Order …"
 
 msgctxt "pi-tv-bu-vb-pj2:145.2"
 msgid "saṃghassa jambuṃ …"
@@ -4840,7 +4840,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="140"></a><a class="pts-cs" id="Bu-Pj.2.7.24"></a><a class="ms-pa" id="ms.330"></a> 
 msgctxt "pi-tv-bu-vb-pj2:146.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pupphārāmaṃ gantvā ocitaṃ pupphaṃ pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a flower-garden, and intending to steal it, he took a flower worth five <i lang=\"pi\">māsaka</i> coins that had already been plucked."
+msgstr "On one occasion a monk went to a flower-garden, and intending to steal it, he took a flower worth five <i lang=\"pi\">māsaka</i> coins that had already been plucked."
 
 msgctxt "pi-tv-bu-vb-pj2:146.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4857,7 +4857,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="141"></a><a class="ms-pa" id="ms.331"></a> 
 msgctxt "pi-tv-bu-vb-pj2:147.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pupphārāmaṃ gantvā pupphaṃ ocinitvā pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a flower-garden, and intending to steal it, he picked a flower worth five <i lang=\"pi\">māsaka</i> coins and took it away."
+msgstr "On one occasion a monk went to a flower-garden, and intending to steal it, he picked a flower worth five <i lang=\"pi\">māsaka</i> coins and took it away."
 
 msgctxt "pi-tv-bu-vb-pj2:147.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4919,7 +4919,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="143"></a><a class="ms-pa" id="ms.333"></a> 
 msgctxt "pi-tv-bu-vb-pj2:149.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gāmakaṃ gacchati."
-msgstr "On one occasion, a certain monk was going to the village."
+msgstr "On one occasion a certain monk was going to the village."
 
 msgctxt "pi-tv-bu-vb-pj2:149.2"
 msgid "Aññataro bhikkhu taṃ bhikkhuṃ etadavoca—"
@@ -5142,7 +5142,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="148"></a><a class="pts-cs" id="Bu-Pj.2.7.27"></a><a class="ms-pa" id="ms.338"></a> 
 msgctxt "pi-tv-bu-vb-pj2:154.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pāse bandhaṃ sūkaraṃ kāruññena muñci."
-msgstr "On one occasion, a monk, feeling compassion, released a pig trapped in a snare."
+msgstr "On one occasion a monk, feeling compassion, released a pig trapped in a snare."
 
 msgctxt "pi-tv-bu-vb-pj2:154.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5169,7 +5169,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="149"></a><a class="ms-pa" id="ms.339"></a> 
 msgctxt "pi-tv-bu-vb-pj2:155.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pāse bandhaṃ sūkaraṃ—"
-msgstr "On one occasion, a monk released a pig trapped in a snare,"
+msgstr "On one occasion a monk released a pig trapped in a snare,"
 
 msgctxt "pi-tv-bu-vb-pj2:155.2"
 msgid "“pure sāmikā passantī”ti, theyyacitto muñci."
@@ -5190,7 +5190,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="150"></a><a class="ms-pa" id="ms.340"></a> 
 msgctxt "pi-tv-bu-vb-pj2:156.1"
 msgid "Tena kho pana samayena aññataro bhikkhu pāse bandhaṃ migaṃ kāruññena muñci …"
-msgstr "On one occasion, a monk, feeling compassion, released a deer trapped in a snare. … “There’s no offense for one who is motivated by compassion.”"
+msgstr "On one occasion a monk, feeling compassion, released a deer trapped in a snare. … “There’s no offense for one who is motivated by compassion.”"
 
 msgctxt "pi-tv-bu-vb-pj2:156.2"
 msgid "pāse bandhaṃ migaṃ—"
@@ -5228,7 +5228,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="151"></a><a class="pts-cs" id="Bu-Pj.2.7.28"></a><a class="ms-pa" id="ms.341"></a> 
 msgctxt "pi-tv-bu-vb-pj2:157.1"
 msgid "Tena kho pana samayena aññataro bhikkhu yāne bhaṇḍaṃ passitvā—"
-msgstr "On one occasion, a monk saw some goods in a vehicle."
+msgstr "On one occasion a monk saw some goods in a vehicle."
 
 msgctxt "pi-tv-bu-vb-pj2:157.2"
 msgid "“ito gaṇhanto pārājiko bhavissāmī”ti,"
@@ -5253,7 +5253,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="152"></a><a class="pts-cs" id="Bu-Pj.2.7.29"></a><a class="ms-pa" id="ms.342"></a> 
 msgctxt "pi-tv-bu-vb-pj2:158.1"
 msgid "Tena kho pana samayena aññataro bhikkhu kulalena ukkhittaṃ maṃsapesiṃ—"
-msgstr "On one occasion, a monk seized a piece of flesh taken up by a hawk,"
+msgstr "On one occasion a monk seized a piece of flesh taken up by a hawk,"
 
 msgctxt "pi-tv-bu-vb-pj2:158.2"
 msgid "“sāmikānaṃ dassāmī”ti aggahesi."
@@ -5282,7 +5282,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="153"></a><a class="pts-vp-en" id="bd.1.106"></a><a class="ms-pa" id="ms.343"></a> 
 msgctxt "pi-tv-bu-vb-pj2:159.1"
 msgid "Tena kho pana samayena aññataro bhikkhu kulalena ukkhittaṃ maṃsapesiṃ—"
-msgstr "On one occasion, a monk seized a piece of flesh taken up by a hawk,"
+msgstr "On one occasion a monk seized a piece of flesh taken up by a hawk,"
 
 msgctxt "pi-tv-bu-vb-pj2:159.2"
 msgid "“pure sāmikā passantī”ti, theyyacitto aggahesi."
@@ -5376,7 +5376,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="156"></a><a class="pts-cs" id="Bu-Pj.2.7.31"></a><a class="ms-pa" id="ms.346"></a> 
 msgctxt "pi-tv-bu-vb-pj2:162.1"
 msgid "Tena kho pana samayena aññataro gopālako rukkhe sāṭakaṃ ālaggetvā uccāraṃ agamāsi."
-msgstr "On one occasion, a cowherd hung his robe on a tree and went to relieve himself."
+msgstr "On one occasion a cowherd hung his robe on a tree and went to relieve himself."
 
 msgctxt "pi-tv-bu-vb-pj2:162.2"
 msgid "Aññataro bhikkhu paṃsukūlasaññī aggahesi."
@@ -5465,7 +5465,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="159"></a><a class="pts-cs" id="Bu-Pj.2.7.33"></a><a class="ms-pa" id="ms.349"></a> 
 msgctxt "pi-tv-bu-vb-pj2:165.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sappikumbhiṃ passitvā thokaṃ thokaṃ paribhuñji."
-msgstr "On one occasion, a monk saw a pot of ghee and ate it little by little."
+msgstr "On one occasion a monk saw a pot of ghee and ate it little by little."
 
 msgctxt "pi-tv-bu-vb-pj2:165.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5552,7 +5552,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="162"></a><a class="pts-cs" id="Bu-Pj.2.7.35"></a><a class="ms-pa" id="ms.352"></a> 
 msgctxt "pi-tv-bu-vb-pj2:168.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sāvatthiyaṃ dubbhikkhe āpaṇikassa taṇḍulamuṭṭhiṃ theyyacitto avahari."
-msgstr "On one occasion, when Sāvatthī was short of food, a monk, intending to steal, took a handful of rice belonging to a shopkeeper."
+msgstr "On one occasion when Sāvatthī was short of food, a monk, intending to steal, took a handful of rice belonging to a shopkeeper."
 
 msgctxt "pi-tv-bu-vb-pj2:168.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5569,7 +5569,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="163"></a><a class="ms-pa" id="ms.353"></a> 
 msgctxt "pi-tv-bu-vb-pj2:169.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sāvatthiyaṃ dubbhikkhe āpaṇikassa muggamuṭṭhiṃ …"
-msgstr "On one occasion, when Sāvatthī was short of food, a monk, intending to steal, took a handful of green gram …"
+msgstr "On one occasion when Sāvatthī was short of food, a monk, intending to steal, took a handful of green gram …"
 
 msgctxt "pi-tv-bu-vb-pj2:169.2"
 msgid "māsamuṭṭhiṃ …"
@@ -5652,7 +5652,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="166"></a><a class="pts-cs" id="Bu-Pj.2.7.37"></a><a class="ms-pa" id="ms.356"></a> 
 msgctxt "pi-tv-bu-vb-pj2:172.1"
 msgid "Tena kho pana samayena aññataro bhikkhu tiṇakkhettaṃ gantvā lūtaṃ tiṇaṃ pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he took some cut grass worth five <i lang=\"pi\">māsaka</i> coins."
+msgstr "On one occasion a monk went to a meadow, and intending to steal it, he took some cut grass worth five <i lang=\"pi\">māsaka</i> coins."
 
 msgctxt "pi-tv-bu-vb-pj2:172.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5669,7 +5669,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="167"></a><a class="ms-pa" id="ms.357"></a> 
 msgctxt "pi-tv-bu-vb-pj2:173.1"
 msgid "Tena kho pana samayena aññataro bhikkhu tiṇakkhettaṃ gantvā tiṇaṃ lāyitvā pañca­mā­saggha­nakaṃ theyyacitto avahari."
-msgstr "On one occasion, a monk went to a meadow, and intending to steal it, he cut grass worth five <i lang=\"pi\">māsaka</i> coins and took it away."
+msgstr "On one occasion a monk went to a meadow, and intending to steal it, he cut grass worth five <i lang=\"pi\">māsaka</i> coins and took it away."
 
 msgctxt "pi-tv-bu-vb-pj2:173.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5686,7 +5686,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="168"></a><a class="pts-cs" id="Bu-Pj.2.7.38"></a><a class="pts-vp-pi" id="pts-vp-pi3.65"></a> <a class="ms-pa" id="ms.358"></a> 
 msgctxt "pi-tv-bu-vb-pj2:174.1"
 msgid "Tena kho pana samayena āgantukā bhikkhū saṃghassa ambaṃ bhājāpetvā paribhuñjiṃsu."
-msgstr "On one occasion, some visiting monks divided up the mangoes belonging to the Order and ate them."
+msgstr "On one occasion some visiting monks divided up the mangoes belonging to the Order and ate them."
 
 msgctxt "pi-tv-bu-vb-pj2:174.2"
 msgid "Āvāsikā bhikkhū te bhikkhū codesuṃ—"
@@ -5726,7 +5726,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="169"></a><a class="ms-pa" id="ms.359"></a> 
 msgctxt "pi-tv-bu-vb-pj2:175.1"
 msgid "Tena kho pana samayena āgantukā bhikkhū saṃghassa jambuṃ …"
-msgstr "On one occasion, some visiting monks divided up the black plums belonging to the Order …"
+msgstr "On one occasion some visiting monks divided up the black plums belonging to the Order …"
 
 msgctxt "pi-tv-bu-vb-pj2:175.2"
 msgid "saṃghassa labujaṃ …"
@@ -5771,7 +5771,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="170"></a><a class="pts-cs" id="Bu-Pj.2.7.39"></a><a class="ms-pa" id="ms.360"></a><a class="pts-vp-en" id="bd.1.109"></a> 
 msgctxt "pi-tv-bu-vb-pj2:176.1"
 msgid "Tena kho pana samayena ambapālakā bhikkhūnaṃ ambaphalaṃ denti."
-msgstr "On one occasion, the keepers of a mango-grove gave a mango to some monks."
+msgstr "On one occasion the keepers of a mango-grove gave a mango to some monks."
 
 msgctxt "pi-tv-bu-vb-pj2:176.2"
 msgid "Bhikkhū—“gopetuṃ ime issarā, nayime dātun”ti,"
@@ -5796,7 +5796,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="171"></a><a class="ms-pa" id="ms.361"></a> 
 msgctxt "pi-tv-bu-vb-pj2:177.1"
 msgid "Tena kho pana samayena jambupālakā …"
-msgstr "On one occasion, the keepers of a black plum grove …"
+msgstr "On one occasion the keepers of a black plum grove …"
 
 msgctxt "pi-tv-bu-vb-pj2:177.2"
 msgid "labujapālakā …"
@@ -5841,7 +5841,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="172"></a><a class="pts-cs" id="Bu-Pj.2.7.40"></a><a class="ms-pa" id="ms.362"></a> 
 msgctxt "pi-tv-bu-vb-pj2:178.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa dāruṃ tāvakālikaṃ haritvā attano vihārassa kuṭṭaṃ upatthambhesi."
-msgstr "On one occasion, a monk borrowed a piece of wood belonging to the Order and used it to support the wall of his own dwelling."
+msgstr "On one occasion a monk borrowed a piece of wood belonging to the Order and used it to support the wall of his own dwelling."
 
 msgctxt "pi-tv-bu-vb-pj2:178.2"
 msgid "Bhikkhū taṃ bhikkhuṃ codesuṃ—"
@@ -5880,7 +5880,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="173"></a><a class="pts-cs" id="Bu-Pj.2.7.41"></a><a class="ms-pa" id="ms.363"></a> 
 msgctxt "pi-tv-bu-vb-pj2:179.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa udakaṃ theyyacitto avahari …"
-msgstr "On one occasion, a monk, intending to steal it, took water belonging to the Order …"
+msgstr "On one occasion a monk, intending to steal it, took water belonging to the Order …"
 
 msgctxt "pi-tv-bu-vb-pj2:179.2"
 msgid "saṃghassa mattikaṃ theyyacitto avahari …"
@@ -5905,7 +5905,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="174"></a><a class="ms-pa" id="ms.364"></a> 
 msgctxt "pi-tv-bu-vb-pj2:180.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa puñjakitaṃ tiṇaṃ theyyacitto jhāpesi."
-msgstr "On one occasion, a monk who had the intention to steal set fire to a pile of grass belonging to the Order."
+msgstr "On one occasion a monk who had the intention to steal set fire to a pile of grass belonging to the Order."
 
 msgctxt "pi-tv-bu-vb-pj2:180.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5926,7 +5926,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="175"></a><a class="pts-cs" id="Bu-Pj.2.7.42"></a><a class="ms-pa" id="ms.365"></a> 
 msgctxt "pi-tv-bu-vb-pj2:181.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa mañcaṃ theyyacitto avahari …"
-msgstr "On one occasion, a monk, intending to steal it, took a bed belonging to the Order. …"
+msgstr "On one occasion a monk, intending to steal it, took a bed belonging to the Order. …"
 
 msgctxt "pi-tv-bu-vb-pj2:181.2"
 msgid "tassa kukkuccaṃ ahosi … pe …"
@@ -5943,7 +5943,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="176"></a><a class="ms-pa" id="ms.366"></a> 
 msgctxt "pi-tv-bu-vb-pj2:182.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa pīṭhaṃ …"
-msgstr "On one occasion, a monk, intending to steal it, took a bench belonging to the Order …"
+msgstr "On one occasion a monk, intending to steal it, took a bench belonging to the Order …"
 
 msgctxt "pi-tv-bu-vb-pj2:182.2"
 msgid "saṃghassa bhisiṃ …"
@@ -5981,7 +5981,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="177"></a><a class="pts-cs" id="Bu-Pj.2.7.43"></a><a class="ms-pa" id="ms.367"></a><a class="pts-vp-pi" id="pts-vp-pi3.66"></a> 
 msgctxt "pi-tv-bu-vb-pj2:183.1"
 msgid "Tena kho pana samayena bhikkhū aññatarassa upāsakassa vihāra­pari­bhogaṃ senāsanaṃ aññatra paribhuñjanti."
-msgstr "On one occasion, the furnishings and lodging requisites belonging to a certain lay follower were used elsewhere by some monks."
+msgstr "On one occasion the furniture and dwelling equipment belonging to a certain lay follower were used elsewhere by some monks."
 
 msgctxt "pi-tv-bu-vb-pj2:183.2"
 msgid "Atha kho so upāsako ujjhāyati khiyyati vipāceti—"
@@ -5989,7 +5989,7 @@ msgstr "That lay follower complained and criticized them:"
 
 msgctxt "pi-tv-bu-vb-pj2:183.3"
 msgid "“kathañhi nāma bhadantā aññatra paribhogaṃ aññatra pari­bhuñjis­santī”ti."
-msgstr "“How can those venerables use elsewhere requisites belonging somewhere else?”"
+msgstr "“How can those venerables use elsewhere furniture belonging somewhere else?”"
 
 msgctxt "pi-tv-bu-vb-pj2:183.4"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
@@ -5998,7 +5998,7 @@ msgstr "They informed the Master."
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-pj2:183.5"
 msgid "“Na, bhikkhave, aññatra paribhogo aññatra pari­bhuñji­tabbo."
-msgstr "“You should not use elsewhere requisites belonging somewhere else."
+msgstr "“You should not use elsewhere furniture belonging somewhere else."
 
 msgctxt "pi-tv-bu-vb-pj2:183.6"
 msgid "Yo paribhuñjeyya, āpatti dukkaṭassā”ti."
@@ -6012,7 +6012,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="178"></a><a class="pts-cs" id="Bu-Pj.2.7.44"></a><a class="ms-pa" id="ms.368"></a> 
 msgctxt "pi-tv-bu-vb-pj2:184.1"
 msgid "Tena kho pana samayena bhikkhū uposathaggampi sannisajjampi harituṃ kukkuccāyantā chamāyaṃ nisīdanti."
-msgstr "At that time, being afraid of wrongdoing, the monks did not take requisites to the observance hall or to meetings, and they sat down on the bare ground."
+msgstr "At that time, being afraid of wrongdoing, the monks did not take any equipment to the observance hall or to meetings, and they sat down on the bare ground."
 
 msgctxt "pi-tv-bu-vb-pj2:184.2"
 msgid "Gattānipi cīvarānipi paṃsukitāni honti."
@@ -6035,7 +6035,7 @@ msgstr ""
 #. </p><hr><div class="bhikkhuni"><p><a class="sc" id="179"></a><a class="pts-cs" id="Bu-Pj.2.7.45"></a><a class="ms-pa" id="ms.369"></a> 
 msgctxt "pi-tv-bu-vb-pj2:185.1"
 msgid "Tena kho pana samayena campāyaṃ thullanandāya bhikkhuniyā antevāsinī bhikkhunī thullanandāya bhikkhuniyā upaṭṭhākakulaṃ gantvā—"
-msgstr "On one occasion, at Campā, a nun who was a pupil of the nun Thullanandā went to a family who supported Thullanandā and said,"
+msgstr "On one occasion at Campā, a nun who was a pupil of the nun Thullanandā went to a family who supported Thullanandā and said,"
 
 #. <a class="pts-vp-en" id="bd.1.111"></a> 
 msgctxt "pi-tv-bu-vb-pj2:185.2"
@@ -6085,7 +6085,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="180"></a><a class="ms-pa" id="ms.370"></a> 
 msgctxt "pi-tv-bu-vb-pj2:186.1"
 msgid "Tena kho pana samayena rājagahe thullanandāya bhikkhuniyā antevāsinī bhikkhunī thullanandāya bhikkhuniyā upaṭṭhākakulaṃ gantvā—"
-msgstr "On one occasion, in Rājagaha, a nun who was a pupil of the nun Thullanandā went to a family who supported Thullanandā and said,"
+msgstr "On one occasion in Rājagaha, a nun who was a pupil of the nun Thullanandā went to a family who supported Thullanandā and said,"
 
 msgctxt "pi-tv-bu-vb-pj2:186.2"
 msgid "“ayyā icchati madhugoḷakaṃ khāditun”ti,"
@@ -6122,7 +6122,7 @@ msgstr ""
 #. </p></div><hr><p><a class="sc" id="181"></a><a class="pts-cs" id="Bu-Pj.2.7.46"></a><a class="ms-pa" id="ms.371"></a> 
 msgctxt "pi-tv-bu-vb-pj2:187.1"
 msgid "Tena kho pana samayena vesāliyaṃ āyasmato ajjukassa upaṭṭhākassa gahapatino dve dārakā honti—"
-msgstr "At one time, in Vesāli, a householder who was a supporter of Venerable Ajjuka had two children living with him,"
+msgstr "At one time in Vesāli, a householder who was a supporter of Venerable Ajjuka had two children living with him,"
 
 msgctxt "pi-tv-bu-vb-pj2:187.2"
 msgid "putto ca bhāgineyyo ca."

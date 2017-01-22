@@ -129,7 +129,7 @@ msgstr "At this time, there was a certain former courtesan who had a beautiful d
 
 msgctxt "pi-tv-bu-vb-ss5:6.2"
 msgid "Tirogāmakā ājīvakasāvakā āgantvā taṃ gaṇakiṃ etadavocuṃ—"
-msgstr "On one occasion, some lay followers of the Ājīvaka sect came from another village and said to that courtesan,"
+msgstr "On one occasion some lay followers of the Ājīvaka sect came from another village and said to that courtesan,"
 
 msgctxt "pi-tv-bu-vb-ss5:6.3"
 msgid "“dehāyye, imaṃ kumārikaṃ amhākaṃ kumārakassā”ti."
@@ -827,7 +827,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss5:28.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1244"></a>
@@ -3644,7 +3644,7 @@ msgstr "Asleep, and dead, gone out,"
 #. <br>
 msgctxt "pi-tv-bu-vb-ss5:197.2"
 msgid "anitthī itthipaṇḍakā;"
-msgstr "Not a woman, a sexually eccentric female;"
+msgstr "Not a woman, a sexually non-conformist female;"
 
 #. <br>
 msgctxt "pi-tv-bu-vb-ss5:197.3"
@@ -3744,7 +3744,7 @@ msgstr "“That’s not a woman, Venerable.” …"
 
 msgctxt "pi-tv-bu-vb-ss5:200.8"
 msgid "“itthipaṇḍakā, bhante”ti."
-msgstr "“That’s a sexually eccentric female, Venerable.”"
+msgstr "“That’s a sexually non-conformist female, Venerable.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-ss5:200.9"

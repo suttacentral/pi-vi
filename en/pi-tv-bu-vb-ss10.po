@@ -427,7 +427,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss10:12.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-ss10:12.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."

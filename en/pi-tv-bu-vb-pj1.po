@@ -203,7 +203,7 @@ msgstr "“There is a way one could rightly say about me that the ascetic Gotama
 
 msgctxt "pi-tv-bu-vb-intro:13.3"
 msgid "Ahañhi, brāhmaṇa, ucchedaṃ vadāmi rāgassa dosassa mohassa."
-msgstr "For I speak of the annihilation of sense desire, anger, and confusion;"
+msgstr "For I speak of the annihilation of sensual desire, ill-will, and confusion;"
 
 msgctxt "pi-tv-bu-vb-intro:13.4"
 msgid "Anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ ucchedaṃ vadāmi."
@@ -249,7 +249,7 @@ msgstr "“There is a way one could rightly say about me that I am an eradicator
 
 msgctxt "pi-tv-bu-vb-intro:15.3"
 msgid "Ahañhi, brāhmaṇa, vinayāya dhammaṃ desemi rāgassa dosassa mohassa."
-msgstr "For I teach for the sake of eradication of sense desire, anger, and confusion,"
+msgstr "For I teach for the sake of eradication of sensual desire, ill-will, and confusion,"
 
 msgctxt "pi-tv-bu-vb-intro:15.4"
 msgid "Anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ vinayāya dhammaṃ desemi."
@@ -476,7 +476,7 @@ msgstr "I knew according to reality: ʻThese are the corruptions;’ ʻThis is t
 
 msgctxt "pi-tv-bu-vb-intro:22.4"
 msgid "Tassa me evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccittha bhavāsavāpi cittaṃ vimuccittha avijjāsavāpi cittaṃ vimuccittha."
-msgstr "When I knew and saw this, my mind was freed from the corruption of sense desire, from the corruption of existence, from the corruption of views, and from the corruption of ignorance."
+msgstr "When I knew and saw this, my mind was freed from the corruption of sensual pleasure, from the corruption of existence, from the corruption of views, and from the corruption of ignorance."
 
 msgctxt "pi-tv-bu-vb-intro:22.5"
 msgid "Vimuttasmiṃ vimuttamiti ñāṇaṃ ahosi."
@@ -814,7 +814,7 @@ msgstr "But, Sāriputta, those Masters were untiring in exhorting their disciple
 
 msgctxt "pi-tv-bu-vb-intro:32.2"
 msgid "Bhūtapubbaṃ, sāriputta, vessabhū bhagavā arahaṃ sammāsambuddho aññatarasmiṃ bhiṃsanake vanasaṇḍe sahassaṃ bhikkhusaṃghaṃ cetasā ceto paricca ovadati anusāsati—"
-msgstr "At one time, while staying in a certain frightening forest grove, Master Vessabhū, the Perfected and the fully Awakened One, exhorted and admonished an Order of a thousand monks, reading their minds and saying,"
+msgstr "At one time, while staying in a certain frightening forest grove, Master Vessabhū, the Perfected and the fully Awakened One, instructed an Order of a thousand monks, reading their minds and saying,"
 
 msgctxt "pi-tv-bu-vb-intro:32.3"
 msgid "‘evaṃ vitakketha, mā evaṃ vitakkayittha;"
@@ -834,12 +834,12 @@ msgstr "having attained this, abide in it.’"
 
 msgctxt "pi-tv-bu-vb-intro:32.7"
 msgid "Atha kho, sāriputta, tassa bhikkhusahassassa vessabhunā bhagavatā arahatā sammāsambuddhena evaṃ ovadiyamānānaṃ evaṃ anusāsiyamānānaṃ anupādāya āsavehi cittāni vimucciṃsu."
-msgstr "When those thousand monks had been exhorted and admonished by Master Vessabhū, their minds were freed from the corruptions without grasping."
+msgstr "When those thousand monks had been instructed by Master Vessabhū, their minds were freed from the corruptions without grasping."
 
 #. <a class="pts-vp-en" id="bd.1.17"></a> 
 msgctxt "pi-tv-bu-vb-intro:32.8"
 msgid "Tatra sudaṃ, sāriputta, bhiṃsanakassa vanasaṇḍassa bhiṃsanakatasmiṃ hoti—yo koci avītarāgo taṃ vanasaṇḍaṃ pavisati, yebhuyyena lomāni haṃsanti."
-msgstr "But when anyone not devoid of desire entered that frightening forest grove, usually their hair would stand on end."
+msgstr "But when anyone with sensual desire entered that frightening forest grove, usually their hair would stand on end."
 
 msgctxt "pi-tv-bu-vb-intro:32.9"
 msgid "Ayaṃ kho, sāriputta, hetu ayaṃ paccayo yena bhagavato ca vipassissa bhagavato ca sikhissa bhagavato ca vessabhussa brahmacariyaṃ na ciraṭṭhitikaṃ ahosī”ti."
@@ -1591,11 +1591,11 @@ msgstr "that he had arrived in Vesālī,"
 
 msgctxt "pi-tv-bu-vb-pj1:18.6"
 msgid "Te āyasmato sudinnassa saṭṭhimatte thālipāke bhattābhihāraṃ abhihariṃsu."
-msgstr "and they brought him sixty offerings of barley."
+msgstr "and they presented him with an offering of sixty servings of food."
 
 msgctxt "pi-tv-bu-vb-pj1:18.7"
 msgid "Atha kho āyasmā sudinno te saṭṭhimatte thālipāke bhikkhūnaṃ vissajjetvā pubbaṇ­ha­samayaṃ nivāsetvā patta­cīvara­mādāya kalandagāmaṃ piṇḍāya pāvisi."
-msgstr "Sudinna gave the offerings of barley to the monks, and taking his bowl and robe, he entered the village of Kalandaka for almsfood."
+msgstr "Sudinna gave the sixty servings of food to the monks, and taking his bowl and robe, he entered the village of Kalandaka for almsfood."
 
 msgctxt "pi-tv-bu-vb-pj1:18.8"
 msgid "Kalandagāme sapadānaṃ piṇḍāya caramāno yena sakapitu nivesanaṃ tenupasaṅkami."
@@ -2265,7 +2265,7 @@ msgstr "When the Master has taught in this way, how can you be intent upon passi
 
 msgctxt "pi-tv-bu-vb-pj1:33.7"
 msgid "Nanu, āvuso, bhagavatā aneka­pariyā­yena rāgavirāgāya dhammo desito,"
-msgstr "Hasn’t the Master given many teachings for the fading away of lust,"
+msgstr "Hasn’t the Master given many teachings for the fading away of sensual desire,"
 
 msgctxt "pi-tv-bu-vb-pj1:33.8"
 msgid "mada­nim­madanāya pipāsavinayāya ālaya­samug­ghātāya vaṭ­ṭupac­che­dāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammo desito."
@@ -2349,7 +2349,7 @@ msgstr "When I have taught in this way, how can you be intent upon passion, bond
 
 msgctxt "pi-tv-bu-vb-pj1:35.8"
 msgid "Nanu mayā, moghapurisa, aneka­pariyā­yena rāgavirāgāya dhammo desito."
-msgstr "Haven’t I given many teachings for the fading away of lust,"
+msgstr "Haven’t I given many teachings for the fading away of sensual desire,"
 
 msgctxt "pi-tv-bu-vb-pj1:35.9"
 msgid "Mada­nim­madanāya pipāsavinayāya ālaya­samug­ghātāya vaṭ­ṭupac­che­dāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammo desito."
@@ -2712,7 +2712,7 @@ msgstr "They then approached Venerable Ānanda and said:"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-pj1:49.5"
 msgid "“na mayaṃ, bhante ānanda, buddhagarahino na dhammagarahino na saṃghagarahino;"
-msgstr "“Venerable Ānanda, we don’t blame the Buddha, the Teaching, or the Order of monks;"
+msgstr "“Venerable Ānanda, we don’t blame the Buddha, the Teaching, or the Order;"
 
 #. <a class="pts-vp-en" id="bd.1.41"></a> 
 msgctxt "pi-tv-bu-vb-pj1:49.6"
@@ -2861,11 +2861,11 @@ msgstr "a fully trained monk;"
 
 msgctxt "pi-tv-bu-vb-pj1:54.13"
 msgid "samaggena saṃghena ñatti­catut­thena kammena akuppena ṭhānārahena upasampannoti bhikkhu."
-msgstr "a monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand."
+msgstr "a monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand."
 
 msgctxt "pi-tv-bu-vb-pj1:54.14"
 msgid "Tatra yvāyaṃ bhikkhu samaggena saṃghena ñatti­catut­thena kammena akuppena ṭhānārahena upasampanno,"
-msgstr "The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements, which is unchallengeable and fit to stand—"
+msgstr "The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements, which is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-pj1:54.15"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -3635,7 +3635,7 @@ msgstr "In this way too, monks, there’s a revealing of weakness together with 
 #. </p><p><a class="sc" id="101"></a><a class="ms-pa" id="ms.101"></a> 
 msgctxt "pi-tv-bu-vb-pj1:68.1"
 msgid "Yāni vā panaññānipi atthi buddha­ve­vaca­nāni vā dhamma­ve­vaca­nāni vā saṃgha­ve­vaca­nāni vā sikkhā­ve­vaca­nāni vā vinaya­ve­vaca­nāni vā pāti­mokkha­ve­vaca­nāni vā uddesa­ve­vaca­nāni vā upaj­jhā­ya­ve­vaca­nāni vā ācari­ya­ve­vaca­nāni vā sad­dhi­vihā­ri­ka­ve­vaca­nāni vā antevā­si­ka­ve­vaca­nāni vā samā­nu­paj­jhā­ya­ka­ve­vaca­nāni vā samā­nā­cari­ya­ka­ve­vaca­nāni vā sab­rahma­cāri­ve­vaca­nāni vā gihivevacanāni vā upāsa­ka­ve­vaca­nāni vā ārāmi­ka­ve­vaca­nāni vā sāma­ṇera­ve­vaca­nāni vā ­titthi­ya­ve­vaca­nāni vā ­titthi­ya­sāvaka­ve­vaca­nāni vā assama­ṇa­ve­vaca­nāni vā asakya­put­ti­ya­ve­vaca­nāni vā,"
-msgstr "Or whatever other synonyms there are for the Buddha, for the Teaching, for the Order of monks, for the practice, for the training, for the monastic code, for the recital, for a preceptor, for a teacher, for a student, for a pupil, for a common preceptor, for a common teacher, for a fellow monk, for a householder, for a lay follower, for a monastery attendant, for a novice monk, for an ascetic of another sect, for a follower of another sect, for not being an ascetic, or for not being a son of the Sakyan—"
+msgstr "Or whatever other synonyms there are for the Buddha, for the Teaching, for the Order, for the practice, for the training, for the monastic code, for the recital, for a preceptor, for a teacher, for a student, for a pupil, for a common preceptor, for a common teacher, for a fellow monk, for a householder, for a lay follower, for a monastery attendant, for a novice monk, for an ascetic of another sect, for a follower of another sect, for not being an ascetic, or for not being a son of the Sakyan—"
 
 msgctxt "pi-tv-bu-vb-pj1:68.2"
 msgid "tehi ākārehi tehi liṅgehi tehi nimittehi vadati viññāpeti."
@@ -6336,7 +6336,7 @@ msgstr "“Monks, an erection occurs for five reasons:"
 
 msgctxt "pi-tv-bu-vb-pj1:144.6"
 msgid "rāgena, vaccena, passāvena, vātena, uccāliṅ­ga­pāṇaka­daṭ­ṭhena."
-msgstr "because of lust, because of excrement, because of urine, because of wind, because of being stung by caterpillars."
+msgstr "because of sensual desire, because of excrement, because of urine, because of wind, because of being stung by caterpillars."
 
 msgctxt "pi-tv-bu-vb-pj1:144.7"
 msgid "Imehi kho, bhikkhave, pañcahākārehi aṅgajātaṃ kammaniyaṃ hoti."
@@ -6344,7 +6344,7 @@ msgstr ""
 
 msgctxt "pi-tv-bu-vb-pj1:144.8"
 msgid "Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ tassa bhikkhuno rāgena aṅgajātaṃ kammaniyaṃ assa."
-msgstr "It’s impossible that that monk had an erection because of lust."
+msgstr "It’s impossible that that monk had an erection because of sensual desire."
 
 msgctxt "pi-tv-bu-vb-pj1:144.9"
 msgid "Arahaṃ so, bhikkhave, bhikkhu."
@@ -6571,7 +6571,7 @@ msgstr "“Monks, an erection occurs for five reasons:"
 
 msgctxt "pi-tv-bu-vb-pj1:150.9"
 msgid "rāgena, vaccena, passāvena, vātena, uccāliṅ­ga­pāṇaka­daṭ­ṭhena."
-msgstr "because of lust, because of excrement, because of urine, because of wind, because of being stung by caterpillars."
+msgstr "because of sensual desire, because of excrement, because of urine, because of wind, because of being stung by caterpillars."
 
 msgctxt "pi-tv-bu-vb-pj1:150.10"
 msgid "Imehi kho, bhikkhave, pañcahākārehi aṅgajātaṃ kammaniyaṃ hoti."
@@ -6579,7 +6579,7 @@ msgstr ""
 
 msgctxt "pi-tv-bu-vb-pj1:150.11"
 msgid "Aṭṭhānametaṃ, bhikkhave, anavakāso, yaṃ tassa bhikkhuno rāgena aṅgajātaṃ kammaniyaṃ assa."
-msgstr "It’s impossible that that monk had an erection because of lust."
+msgstr "It’s impossible that that monk had an erection because of sensual desire."
 
 msgctxt "pi-tv-bu-vb-pj1:150.12"
 msgid "Arahaṃ so, bhikkhave, bhikkhu."

@@ -80,7 +80,7 @@ msgstr "“Venerable, please say what you need."
 
 msgctxt "pi-tv-bu-vb-ss4:5.12"
 msgid "Paṭibalā mayaṃ ayyassa dātuṃ yadidaṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­ran”ti."
-msgstr "I’m able to give robes, almsfood, lodging requisites, and medicines.”"
+msgstr "I’m able to give robes, almsfood, dwelling equipment, and medicines.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1181"></a> 
 msgctxt "pi-tv-bu-vb-ss4:6.1"
@@ -268,12 +268,12 @@ msgstr "Final ruling"
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-ss4:11.2"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāseyya—"
-msgstr "‘If a monk, lustful and with a distorted mind, in the presence of a woman commends the fulfilling of his own desires:"
+msgstr "‘If a lustful monk encourages a woman to satisfy his own needs:"
 
 #. <a class="pts-vp-en" id="bd.1.225"></a> 
 msgctxt "pi-tv-bu-vb-ss4:11.3"
 msgid "‘etadaggaṃ, bhagini, pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyāti methunu­pasaṃ­hi­tena’, saṃghādiseso”ti."
-msgstr "“Sister, she provides the highest service who attends in this way to one like me, who is virtuous, celibate, and of good character,” and if it is a reference to sexual intercourse, he commits an offense entailing suspension.’”"
+msgstr "“Sister, she provides the highest service who in this way satisfies one like me, who is virtuous, celibate, and of good character,” and if it is a reference to sexual intercourse, he commits an offense entailing suspension.’”"
 
 #. </strong> 
 msgctxt "pi-tv-bu-vb-ss4:11.4"
@@ -305,7 +305,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss4:12.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-ss4:12.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -318,7 +318,7 @@ msgctxt "pi-tv-bu-vb-ss4:13.1"
 msgid "Otiṇṇo nāma"
 msgstr "Lustful:"
 
-#. </strong><span class="gloss"> 
+#. </strong><span class="note" hidden>I have rendered <i lang="pi">otiṇṇo vipariṇatena cittena</i> with the single word “lustful.” This means that the definition for <i lang="pi">vipariṇataṃ</i> is missing from my translation. Here is the Pali, followed by a translation: <i lang="pi">Vipariṇatanti rattampi cittaṃ vipariṇataṃ. Duṭṭhampi cittaṃ vipariṇataṃ. Mūḷhampi cittaṃ vipariṇataṃ. Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti</i>; “distorted: a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted. But in this case ‘distorted’ refers to a mind with desire.”</span><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss4:13.2"
 msgid "sāratto apekkhavā paṭi­baddha­citto."
 msgstr "having lust, longing for, in love with."
@@ -328,16 +328,16 @@ msgstr "having lust, longing for, in love with."
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:14.1"
 msgid "Vipariṇatanti"
-msgstr "Distorted:"
+msgstr ""
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss4:14.2"
 msgid "rattampi cittaṃ vipariṇataṃ, duṭṭhampi cittaṃ vipariṇataṃ, mūḷhampi cittaṃ vipariṇataṃ."
-msgstr "a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted."
+msgstr ""
 
 msgctxt "pi-tv-bu-vb-ss4:14.3"
 msgid "Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti."
-msgstr "But in this case “distorted” refers to a mind with desire."
+msgstr ""
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa1190"></a>
@@ -357,27 +357,28 @@ msgstr "She understands and is capable of discerning bad speech and good speech,
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1191"></a>
+#. <span class="note" hidden>I have rendered <i lang="pi">mātugāmassa santike</i>, “in the presence of a woman,” simply as “woman.” Since woman has already been defined above, this definition falls away in my translation. Here is the Pali of the missing part, followed by a translation: <i lang="pi">Mātugāmassa santiketi mātugāmassa sāmantā, mātugāmassa avidūre.</i>; “in the presence of a woman: near a woman, close to a woman.”</span>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:16.1"
 msgid "Mātugāmassa santiketi"
-msgstr "In the presence of a woman:"
+msgstr ""
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss4:16.2"
 msgid "mātugāmassa sāmantā, mātugāmassa avidūre."
-msgstr "near a woman, close to a woman."
+msgstr ""
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1192"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:17.1"
 msgid "Attakāmanti"
-msgstr "His own desires:"
+msgstr "His own needs:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss4:17.2"
 msgid "attano kāmaṃ attano hetuṃ attano adhippāyaṃ attano pāricariyaṃ."
-msgstr "his own sense desires, for the sake of himself, aiming at himself, service to himself."
+msgstr "his own sense desires, for the sake of himself, aiming at himself, satisfying himself."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1193"></a>
@@ -468,7 +469,7 @@ msgstr "with sexual intercourse."
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss4:25.1"
 msgid "Paricareyyāti"
-msgstr "Attends […] to:"
+msgstr "Satisfies:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss4:25.2"
@@ -512,7 +513,7 @@ msgstr "It is a woman, he perceives her as a woman, and he has lust."
 
 msgctxt "pi-tv-bu-vb-ss4:28.3"
 msgid "Bhikkhu ca naṃ itthiyā santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti saṃ­ghā­di­sesassa."
-msgstr "If the monk, in the woman’s presence, commends the fulfilling of his own desires, he commits an offense entailing suspension."
+msgstr "If the monk encourages the woman to satisfy his own needs, he commits an offense entailing suspension."
 
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1204"></a> 
 msgctxt "pi-tv-bu-vb-ss4:29.1"
@@ -521,7 +522,7 @@ msgstr "It is a woman, but he is unsure of it …"
 
 msgctxt "pi-tv-bu-vb-ss4:29.2"
 msgid "paṇḍakasaññī …"
-msgstr "It is a woman, but he perceives her as a sexual eccentric …"
+msgstr "It is a woman, but he perceives her as a sexual non-conformist …"
 
 msgctxt "pi-tv-bu-vb-ss4:29.3"
 msgid "purisasaññī …"
@@ -533,37 +534,37 @@ msgstr "It is a woman, but he perceives her as an animal, and he has lust."
 
 msgctxt "pi-tv-bu-vb-ss4:29.5"
 msgid "Bhikkhu ca naṃ itthiyā santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti thullaccayassa."
-msgstr "If the monk, in the woman’s presence, commends the fulfilling of his own desires, he commits a serious offense."
+msgstr "If the monk encourages the woman to satisfy his own needs, he commits a serious offense."
 
 #. </p><hr><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1205"></a> 
 msgctxt "pi-tv-bu-vb-ss4:30.1"
 msgid "Paṇḍako ca hoti paṇḍakasaññī sāratto ca."
-msgstr "It is a sexual eccentric, he perceives him as a sexual eccentric, and he has lust."
+msgstr "It is a sexual non-conformist, he perceives him as a sexual non-conformist, and he has lust."
 
 msgctxt "pi-tv-bu-vb-ss4:30.2"
 msgid "Bhikkhu ca naṃ paṇḍakassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti thullaccayassa."
-msgstr "If the monk, in the sexual eccentric’s presence, commends the fulfilling of his own desires, he commits a serious offense."
+msgstr "If the monk encourages the sexual non-conformist to satisfy his own needs, he commits a serious offense."
 
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1206"></a> 
 msgctxt "pi-tv-bu-vb-ss4:31.1"
 msgid "Paṇḍako ca hoti vematiko … pe …"
-msgstr "It is a sexual eccentric, but he is unsure of it …"
+msgstr "It is a sexual non-conformist, but he is unsure of it …"
 
 msgctxt "pi-tv-bu-vb-ss4:31.2"
 msgid "purisasaññī …"
-msgstr "It is a sexual eccentric, but he perceives him as a man …"
+msgstr "It is a sexual non-conformist, but he perceives him as a man …"
 
 msgctxt "pi-tv-bu-vb-ss4:31.3"
 msgid "tiracchā­na­gata­saññī …"
-msgstr "It is a sexual eccentric, but he perceives him as an animal …"
+msgstr "It is a sexual non-conformist, but he perceives him as an animal …"
 
 msgctxt "pi-tv-bu-vb-ss4:31.4"
 msgid "itthisaññī sāratto ca."
-msgstr "It is a sexual eccentric, but he perceives him as a woman, and he has lust."
+msgstr "It is a sexual non-conformist, but he perceives him as a woman, and he has lust."
 
 msgctxt "pi-tv-bu-vb-ss4:31.5"
 msgid "Bhikkhu ca naṃ paṇḍakassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti dukkaṭassa."
-msgstr "If the monk, in the sexual eccentric’s presence, commends the fulfilling of his own desires, he commits an offense of wrong conduct."
+msgstr "If the monk encourages the sexual non-conformist to satisfy his own needs, he commits an offense of wrong conduct."
 
 #. </p><hr><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1207"></a> 
 msgctxt "pi-tv-bu-vb-ss4:32.1"
@@ -591,7 +592,7 @@ msgstr "It is an animal, but he perceives it as a woman …"
 
 msgctxt "pi-tv-bu-vb-ss4:32.6"
 msgid "paṇḍakasaññī …"
-msgstr "It is an animal, but he perceives it as a sexual eccentric …"
+msgstr "It is an animal, but he perceives it as a sexual non-conformist …"
 
 msgctxt "pi-tv-bu-vb-ss4:32.7"
 msgid "purisasaññī sāratto ca."
@@ -599,7 +600,7 @@ msgstr "It is an animal, but he perceives it as a man, and he has lust."
 
 msgctxt "pi-tv-bu-vb-ss4:32.8"
 msgid "Bhikkhu ca naṃ tiracchā­na­gatassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti dukkaṭassa."
-msgstr "If the monk, in the animal’s presence, commends the fulfilling of his own desires, he commits an offense of wrong conduct."
+msgstr "If the monk encourages the animal to satisfy his own needs, he commits an offense of wrong conduct."
 
 #. </p><hr><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1208"></a> 
 msgctxt "pi-tv-bu-vb-ss4:33.1"
@@ -608,7 +609,7 @@ msgstr "It is two women, he perceives them both as women, and he has lust."
 
 msgctxt "pi-tv-bu-vb-ss4:33.2"
 msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti dvinnaṃ saṃ­ghādi­sesānaṃ … pe …."
-msgstr "If the monk, in the presence of both women, commends the fulfilling of his own desires, he commits two offenses entailing suspension. …"
+msgstr "If the monk encourages both women to satisfy his own needs, he commits two offenses entailing suspension. …"
 
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:33.3"
@@ -619,11 +620,11 @@ msgstr "To be expanded as in <a href=\"https://suttacentral.net/en/pi-tv-bu-vb-s
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1209"></a> 
 msgctxt "pi-tv-bu-vb-ss4:34.1"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
-msgstr "It is a woman and a sexual eccentric, he perceives both as women, and he has lust."
+msgstr "It is a woman and a sexual non-conformist, he perceives both as women, and he has lust."
 
 msgctxt "pi-tv-bu-vb-ss4:34.2"
 msgid "Bhikkhu ca naṃ ubhinnaṃ santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti saṃghādisesena dukkaṭassa … pe …."
-msgstr "If the monk, in the presence of both of them, commends the fulfilling of his own desires, he commits one offense entailing suspension and one offense of wrong conduct. …"
+msgstr "If the monk encourages both of them to satisfy his own needs, he commits one offense entailing suspension and one offense of wrong conduct. …"
 
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:34.3"
@@ -643,7 +644,7 @@ msgstr "There is no offense:"
 
 msgctxt "pi-tv-bu-vb-ss4:35.3"
 msgid "“cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rena upaṭṭhahā”ti bhaṇati,"
-msgstr "if he says, “Attend on us with robes, almsfood, lodging requisites, and medicines;”"
+msgstr "if he says, “Attend on us with robes, almsfood, dwelling equipment, and medicines;”"
 
 msgctxt "pi-tv-bu-vb-ss4:35.4"
 msgid "ummattakassa"
@@ -663,7 +664,7 @@ msgctxt "pi-tv-bu-vb-ss4:36.2"
 msgid ""
 msgstr "Mnemonic list"
 
-#. </h5><p><a class="sc" id="32"></a><a class="ms-pa"></a> 
+#. </h5><p><a class="sc" id="32"></a><a class="ms-pa" id="ms-pa1211"></a> 
 msgctxt "pi-tv-bu-vb-ss4:37.1"
 msgid "Kathaṃ vañjhā labhe puttaṃ,"
 msgstr "How may a barren woman, can she get a son,"
@@ -691,7 +692,7 @@ msgstr "Case details"
 #. </h3><p><a class="sc" id="33"></a><a class="pts-cs-empty" id="bu-ss.4.4"></a><a class="pts-cs" id="bu-ss.4.4.1"></a><a class="ms-pa" id="ms-pa1212"></a> 
 msgctxt "pi-tv-bu-vb-ss4:39.1"
 msgid "Tena kho pana samayena aññatarā vañjhā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
-msgstr "On one occasion, a barren woman said to a monk who was supported by her family,"
+msgstr "On one occasion a barren woman said to a monk who was supported by her family,"
 
 msgctxt "pi-tv-bu-vb-ss4:39.2"
 msgid "“kathāhaṃ, bhante, vijāyeyyan”ti?"
@@ -727,7 +728,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="34"></a><a class="pts-cs" id="bu-ss.4.4.2"></a><a class="ms-pa" id="ms-pa1213"></a> 
 msgctxt "pi-tv-bu-vb-ss4:40.1"
 msgid "Tena kho pana samayena aññatarā vijāyinī itthī kulūpakaṃ bhikkhuṃ etadavoca—"
-msgstr "On one occasion, a fertile woman said to a monk who was supported by her family,"
+msgstr "On one occasion a fertile woman said to a monk who was supported by her family,"
 
 msgctxt "pi-tv-bu-vb-ss4:40.2"
 msgid "“kathāhaṃ, bhante, puttaṃ labheyyan”ti?"
@@ -763,7 +764,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="35"></a><a class="pts-cs" id="bu-ss.4.4.3"></a><a class="ms-pa" id="ms-pa1214"></a> 
 msgctxt "pi-tv-bu-vb-ss4:41.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
-msgstr "On one occasion, a woman said to a monk who was supported by her family,"
+msgstr "On one occasion a woman said to a monk who was supported by her family,"
 
 msgctxt "pi-tv-bu-vb-ss4:41.2"
 msgid "“kathāhaṃ, bhante, sāmikassa piyā assan”ti?"
@@ -799,7 +800,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa1215"></a> 
 msgctxt "pi-tv-bu-vb-ss4:42.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
-msgstr "On one occasion, a woman said to a monk who was supported by her family,"
+msgstr "On one occasion a woman said to a monk who was supported by her family,"
 
 msgctxt "pi-tv-bu-vb-ss4:42.2"
 msgid "“kathāhaṃ, bhante, subhagā assan”ti?"
@@ -835,7 +836,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-ss.4.4.4"></a><a class="ms-pa" id="ms-pa1216"></a> 
 msgctxt "pi-tv-bu-vb-ss4:43.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
-msgstr "On one occasion, a woman said to a monk who was supported by her family,"
+msgstr "On one occasion a woman said to a monk who was supported by her family,"
 
 msgctxt "pi-tv-bu-vb-ss4:43.2"
 msgid "“kyāhaṃ, bhante, ayyassa dajjāmī”ti?"
@@ -871,7 +872,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="38"></a><a class="pts-cs" id="bu-ss.4.4.5"></a><a class="ms-pa" id="ms-pa1217"></a> 
 msgctxt "pi-tv-bu-vb-ss4:44.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
-msgstr "On one occasion, a woman said to a monk who was supported by her family,"
+msgstr "On one occasion a woman said to a monk who was supported by her family,"
 
 msgctxt "pi-tv-bu-vb-ss4:44.2"
 msgid "“kenāhaṃ, bhante, ayyaṃ upaṭṭhemī”ti?"
@@ -907,7 +908,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="39"></a><a class="pts-cs" id="bu-ss.4.4.6"></a><a class="ms-pa" id="ms-pa1218"></a><a class="pts-vp-en" id="bd.1.228"></a> 
 msgctxt "pi-tv-bu-vb-ss4:45.1"
 msgid "Tena kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca—"
-msgstr "On one occasion, a woman said to a monk who was supported by her family,"
+msgstr "On one occasion a woman said to a monk who was supported by her family,"
 
 msgctxt "pi-tv-bu-vb-ss4:45.2"
 msgid "“kathāhaṃ, bhante, sugatiṃ gaccheyyan”ti?"

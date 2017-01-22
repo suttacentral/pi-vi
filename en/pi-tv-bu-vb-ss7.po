@@ -219,7 +219,7 @@ msgstr "He must get monks to approve a site:"
 #. </p><div class="gloss"><p>
 msgctxt "pi-tv-bu-vb-ss7:14.2"
 msgid "tena vihārakārakena bhikkhunā vihāravatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "The monk who is building a dwelling should clear a site, then approach the Order of monks, put his robe over one shoulder, bow down at the feet of the senior monks, squat on his heels with his palms together, and say,"
+msgstr "The monk who is building a dwelling should clear a site, then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
 
 #. <span class="kamma"> 
 msgctxt "pi-tv-bu-vb-ss7:14.3"
@@ -350,7 +350,7 @@ msgstr "‘No harm will be done and it has a space on all sides.’"
 
 msgctxt "pi-tv-bu-vb-ss7:18.7"
 msgid "Tena vihārakārakena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "The monk who is building the dwelling should then approach the Order, put his robe over one shoulder, bow down at the feet of the senior monks, squat on his heels with his palms together, and say,"
+msgstr "The monk who is building the dwelling should then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
 
 #. <span class="kamma"> 
 msgctxt "pi-tv-bu-vb-ss7:18.8"

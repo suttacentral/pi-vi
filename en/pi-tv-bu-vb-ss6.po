@@ -879,7 +879,7 @@ msgstr "The monk who wishes to build a hut should clear a site."
 
 msgctxt "pi-tv-bu-vb-ss6:33.3"
 msgid "saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "He should then approach the Order of monks, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
+msgstr "He should then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
 
 #. <span class="kamma"> 
 msgctxt "pi-tv-bu-vb-ss6:33.4"

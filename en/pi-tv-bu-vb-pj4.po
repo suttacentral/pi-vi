@@ -494,11 +494,12 @@ msgstr ""
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms.545"></a> 
 msgctxt "pi-tv-bu-vb-pj4:16.1"
 msgid "Puna caparaṃ, bhikkhave, idhekacco pāpabhikkhu yāni tāni saṃghassa garubhaṇḍāni garu­parik­khā­rāni, seyyathidaṃ—"
-msgstr "Again, a bad monk takes valuable goods and requisites belonging to the monastic Order—"
+msgstr "Again, a bad monk takes valuable goods and equipment belonging to the monastic Order—"
 
+#. <span class="note" hidden>I have rendered <i lang="pi">muñja</i>-reed and <i lang="pi">pabbaja</i>-reed with the single word “reed.” I am not aware that these two types of reed can be distinguished in English.</span>
 msgctxt "pi-tv-bu-vb-pj4:16.2"
 msgid "ārāmo ārāmavatthu vihāro vihāravatthu mañco pīṭhaṃ bhisi bibbohanaṃ lohakumbhī lohabhāṇakaṃ lohavārako lohakaṭāhaṃ vāsi parasu kuṭhārī kudālo nikhādanaṃ valli veḷu muñjaṃ pabbajaṃ tiṇaṃ mattikā dārubhaṇḍaṃ mattikābhaṇḍaṃ,"
-msgstr "a monastery, the land of a monastery, a dwelling, the land of a dwelling, a bed, a bench, a cushion, a pillow, a metal vessel, a metal jar, a metal pot, a metal receptacle, an adz, a hatchet, an ax, a spade, a chisel, a creeper, bamboo, <i lang=\"pi\">muñja</i>-reed, <i lang=\"pi\">pabbaja</i>-reed, grass, clay, wooden articles, earthenware articles—"
+msgstr "a monastery, the land of a monastery, a dwelling, the land of a dwelling, a bed, a bench, a cushion, a pillow, a metal vessel, a metal jar, a metal pot, a metal receptacle, an adz, a hatchet, an ax, a spade, a chisel, a creeper, bamboo, reed, grass, clay, wooden articles, earthenware articles—"
 
 msgctxt "pi-tv-bu-vb-pj4:16.3"
 msgid "tehi gihiṃ saṅgaṇhāti upalāpeti."
@@ -596,7 +597,7 @@ msgstr "to eat the country’s alms."
 #. </p></blockquote></div><p><a class="sc" id="17"></a><a class="ms-pa" id="ms.550"></a> 
 msgctxt "pi-tv-bu-vb-pj4:21.1"
 msgid "Atha kho bhagavā vaggu­mudā­tīriye bhikkhū aneka­pariyā­yena vigarahitvā dubbharatāya dupposatāya … pe …"
-msgstr "Then the Master, after criticizing the monks from the banks of the Vaggumudā in various ways for being difficult to maintain, difficult to support …"
+msgstr "After criticizing the monks from the banks of the Vaggumudā in various ways for being difficult to maintain, difficult to support …"
 
 msgctxt "pi-tv-bu-vb-pj4:21.2"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
@@ -656,7 +657,7 @@ msgstr "At one time a number of monks, thinking they had seen what they had not,
 
 msgctxt "pi-tv-bu-vb-pj4:24.3"
 msgid "Tesaṃ aparena samayena rāgāyapi cittaṃ namati dosāyapi cittaṃ namati mohāyapi cittaṃ namati."
-msgstr "After some time, their minds inclined to sense desire, anger, and confusion."
+msgstr "After some time, their minds inclined to sensual desire, ill-will, and confusion."
 
 msgctxt "pi-tv-bu-vb-pj4:24.4"
 msgid "Tesaṃ kukkuccaṃ ahosi—"
@@ -765,7 +766,7 @@ msgstr "Monk:"
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:27.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-pj4:27.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -1311,11 +1312,11 @@ msgstr "Abandoning the defilements:"
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:53.2"
 msgid "rāgassa pahānaṃ"
-msgstr "the abandoning of sense desire,"
+msgstr "the abandoning of sensual desire,"
 
 msgctxt "pi-tv-bu-vb-pj4:53.3"
 msgid "dosassa pahānaṃ"
-msgstr "the abandoning of anger,"
+msgstr "the abandoning of ill-will,"
 
 msgctxt "pi-tv-bu-vb-pj4:53.4"
 msgid "mohassa pahānaṃ."
@@ -1332,11 +1333,11 @@ msgstr "A mind without hindrances:"
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:54.2"
 msgid "rāgā cittaṃ vinīvaraṇatā,"
-msgstr "a mind without sense desire,"
+msgstr "a mind without sensual desire,"
 
 msgctxt "pi-tv-bu-vb-pj4:54.3"
 msgid "dosā cittaṃ vinīvaraṇatā,"
-msgstr "a mind without anger,"
+msgstr "a mind without ill-will,"
 
 msgctxt "pi-tv-bu-vb-pj4:54.4"
 msgid "mohā cittaṃ vinīvaraṇatā."
@@ -2492,12 +2493,12 @@ msgstr "I’ve realized perfection,” he commits an offense entailing expulsion
 #. </p><hr><p><a class="sc" id="93"></a><a class="pts-vp-pi" id="pts-vp-pi3.95"></a> <a class="ms-pa" id="ms.626"></a> 
 msgctxt "pi-tv-bu-vb-pj4:97.1"
 msgid "Tīhākārehi rāgo me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭitoti sampajānamusā bhaṇantassa āpatti pārājikassa."
-msgstr "If he lies in full awareness, saying, “I’ve given up sense desire/I’ve renounced sense desire/I’ve let go of sense desire/I’ve abandoned sense desire/I’ve relinquished sense desire/I’ve forsaken sense desire/I’ve thrown aside sense desire,” he commits an offense entailing expulsion when three conditions are fulfilled."
+msgstr "If he lies in full awareness, saying, “I’ve given up sensual desire/I’ve renounced sensual desire/I’ve let go of sensual desire/I’ve abandoned sensual desire/I’ve relinquished sensual desire/I’ve forsaken sensual desire/I’ve thrown aside sensual desire,” he commits an offense entailing expulsion when three conditions are fulfilled."
 
 #. </p><p><a class="sc" id="94"></a><a class="ms-pa" id="ms.627"></a> 
 msgctxt "pi-tv-bu-vb-pj4:98.1"
 msgid "Tīhākārehi doso me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭitoti sampajānamusā bhaṇantassa āpatti pārājikassa."
-msgstr "If he lies in full awareness, saying, “I’ve given up anger/I’ve renounced anger/I’ve let go of anger/I’ve abandoned anger/I’ve relinquished anger/I’ve forsaken anger/I’ve thrown aside anger,” he commits an offense entailing expulsion when three conditions are fulfilled."
+msgstr "If he lies in full awareness, saying, “I’ve given up ill-will/I’ve renounced ill-will/I’ve let go of ill-will/I’ve abandoned ill-will/I’ve relinquished ill-will/I’ve forsaken ill-will/I’ve thrown aside ill-will,” he commits an offense entailing expulsion when three conditions are fulfilled."
 
 #. </p><p><a class="sc" id="95"></a><a class="ms-pa" id="ms.628"></a> 
 msgctxt "pi-tv-bu-vb-pj4:99.1"
@@ -2507,12 +2508,12 @@ msgstr "If he lies in full awareness, saying, “I’ve given up confusion/I’v
 #. </p><hr><p><a class="sc" id="96"></a><a class="ms-pa" id="ms.629"></a> 
 msgctxt "pi-tv-bu-vb-pj4:100.1"
 msgid "Tīhākārehi rāgā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa."
-msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of sense desire,” he commits an offense entailing expulsion when three conditions are fulfilled."
+msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of sensual desire,” he commits an offense entailing expulsion when three conditions are fulfilled."
 
 #. </p><p><a class="sc" id="97"></a><a class="ms-pa" id="ms.630"></a> 
 msgctxt "pi-tv-bu-vb-pj4:101.1"
 msgid "Tīhākārehi dosā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa."
-msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of anger,” he commits an offense entailing expulsion when three conditions are fulfilled."
+msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of ill-will,” he commits an offense entailing expulsion when three conditions are fulfilled."
 
 #. </p><p><a class="sc" id="98"></a><a class="ms-pa" id="ms.631"></a> 
 msgctxt "pi-tv-bu-vb-pj4:102.1"
@@ -2922,7 +2923,7 @@ msgstr "I’ve realized the first absorption and perfection,” he commits an of
 #. </p><hr><p><a class="sc" id="112"></a><a class="ms-pa" id="ms.645"></a> 
 msgctxt "pi-tv-bu-vb-pj4:116.1"
 msgid "Tīhākārehi paṭhamañca jhānaṃ samāpajjiṃ …"
-msgstr "If he lies in full awareness, saying, “I attained the first absorption and I’ve given up sense desire …"
+msgstr "If he lies in full awareness, saying, “I attained the first absorption and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:116.2"
 msgid "samāpajjāmi …"
@@ -2942,11 +2943,11 @@ msgstr "I master …"
 
 msgctxt "pi-tv-bu-vb-pj4:116.6"
 msgid "paṭhamañca jhānaṃ sacchikataṃ mayā, rāgo ca me catto …"
-msgstr "I’ve realized the first absorption and I’ve given up sense desire …"
+msgstr "I’ve realized the first absorption and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:116.7"
 msgid "doso ca me catto …"
-msgstr "and I’ve given up anger …"
+msgstr "and I’ve given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:116.8"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭitoti sampajānamusā bhaṇantassa āpatti pārājikassa."
@@ -2955,7 +2956,7 @@ msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinq
 #. </p><p><a class="sc" id="113"></a><a class="ms-pa" id="ms.646"></a> 
 msgctxt "pi-tv-bu-vb-pj4:117.1"
 msgid "Tīhākārehi … pe … sattahākārehi paṭhamañca jhānaṃ samāpajjiṃ …"
-msgstr "If he lies in full awareness, saying, “I attained the first absorption and my mind is free from the hindrance of sense desire …"
+msgstr "If he lies in full awareness, saying, “I attained the first absorption and my mind is free from the hindrance of sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:117.2"
 msgid "samāpajjāmi …"
@@ -2976,11 +2977,11 @@ msgstr "I master …"
 
 msgctxt "pi-tv-bu-vb-pj4:117.6"
 msgid "paṭhamañca jhānaṃ sacchikataṃ mayā, rāgā ca me cittaṃ vinīvaraṇaṃ …"
-msgstr "I’ve realized the first absorption and my mind is free from the hindrance of sense desire …"
+msgstr "I’ve realized the first absorption and my mind is free from the hindrance of sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:117.7"
 msgid "dosā ca me cittaṃ vinīvaraṇaṃ …"
-msgstr "and my mind is free from the hindrance of anger …"
+msgstr "and my mind is free from the hindrance of ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:117.8"
 msgid "mohā ca me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa—"
@@ -3178,7 +3179,7 @@ msgstr "I’ve realized the second absorption and perfection,” he commits an o
 #. </p><p><a class="sc" id="118"></a><a class="ms-pa" id="ms.651"></a> 
 msgctxt "pi-tv-bu-vb-pj4:122.1"
 msgid "Tīhākārehi dutiyañca jhānaṃ samāpajjiṃ …"
-msgstr "If he lies in full awareness, saying, “I attained the second absorption and I’ve given up sense desire …"
+msgstr "If he lies in full awareness, saying, “I attained the second absorption and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:122.2"
 msgid "samāpajjāmi …"
@@ -3198,11 +3199,11 @@ msgstr "I master …"
 
 msgctxt "pi-tv-bu-vb-pj4:122.6"
 msgid "dutiyañca jhānaṃ sacchikataṃ mayā, rāgo ca me catto …"
-msgstr "I’ve realized the second absorption and I’ve given up sense desire …"
+msgstr "I’ve realized the second absorption and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:122.7"
 msgid "doso ca me catto …"
-msgstr "and I’ve given up anger …"
+msgstr "and I’ve given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:122.8"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito."
@@ -3210,11 +3211,11 @@ msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinq
 
 msgctxt "pi-tv-bu-vb-pj4:122.9"
 msgid "Rāgā ca me cittaṃ vinīvaraṇaṃ …"
-msgstr "and my mind is free from the hindrance of sense desire …"
+msgstr "and my mind is free from the hindrance of sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:122.10"
 msgid "dosā ca me cittaṃ vinīvaraṇaṃ …"
-msgstr "and my mind is free from the hindrance of anger …"
+msgstr "and my mind is free from the hindrance of ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:122.11"
 msgid "mohā ca me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa."
@@ -3297,7 +3298,7 @@ msgstr "I’ve realized the third absorption and perfection,” he commits an of
 #. </p><p><a class="sc" id="124"></a><a class="ms-pa" id="ms.657"></a> 
 msgctxt "pi-tv-bu-vb-pj4:128.1"
 msgid "Tīhākārehi tatiyañca jhānaṃ samāpajjiṃ …"
-msgstr "If he lies in full awareness, saying, “I attained the third absorption and I’ve given up sense desire …"
+msgstr "If he lies in full awareness, saying, “I attained the third absorption and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:128.2"
 msgid "samāpajjāmi …"
@@ -3317,11 +3318,11 @@ msgstr "I master …"
 
 msgctxt "pi-tv-bu-vb-pj4:128.6"
 msgid "tatiyañca jhānaṃ sacchikataṃ mayā, rāgo ca me catto …"
-msgstr "I’ve realized the third absorption and I’ve given up sense desire …"
+msgstr "I’ve realized the third absorption and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:128.7"
 msgid "doso ca me catto …"
-msgstr "and I’ve given up anger …"
+msgstr "and I’ve given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:128.8"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito."
@@ -3329,11 +3330,11 @@ msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinq
 
 msgctxt "pi-tv-bu-vb-pj4:128.9"
 msgid "Rāgā ca me cittaṃ vinīvaraṇaṃ …"
-msgstr "and my mind is free from the hindrance of sense desire …"
+msgstr "and my mind is free from the hindrance of sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:128.10"
 msgid "dosā ca me cittaṃ vinīvaraṇaṃ …"
-msgstr "and my mind is free from the hindrance of anger …"
+msgstr "and my mind is free from the hindrance of ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:128.11"
 msgid "mohā ca me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa."
@@ -3681,11 +3682,11 @@ msgstr "my mind is free from the hindrance of confusion and I’ve realized perf
 #. </p><hr><p><a class="sc" id="136"></a><a class="ms-pa" id="ms.669"></a> 
 msgctxt "pi-tv-bu-vb-pj4:140.1"
 msgid "Tīhākārehi mohā ca me cittaṃ vinīvaraṇaṃ, rāgo ca me catto …"
-msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of confusion and I’ve given up sense desire …"
+msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of confusion and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:140.2"
 msgid "doso ca me catto …"
-msgstr "and I’ve given up anger …"
+msgstr "and I’ve given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:140.3"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭitoti sampajānamusā bhaṇantassa āpatti pārājikassa."
@@ -3694,11 +3695,11 @@ msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinq
 #. </p><p><a class="sc" id="137"></a><a class="ms-pa" id="ms.670"></a> 
 msgctxt "pi-tv-bu-vb-pj4:141.1"
 msgid "Tīhākārehi … pe … sattahākārehi mohā ca me cittaṃ vinīvaraṇaṃ rāgā ca me cittaṃ vinīvaraṇaṃ …"
-msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of confusion and my mind is free from the hindrance of sense desire …"
+msgstr "If he lies in full awareness, saying, “My mind is free from the hindrance of confusion and my mind is free from the hindrance of sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:141.2"
 msgid "dosā ca me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa—"
-msgstr "and my mind is free from the hindrance of anger,” he commits an offense entailing expulsion when three conditions are fulfilled … when seven conditions are fulfilled:"
+msgstr "and my mind is free from the hindrance of ill-will,” he commits an offense entailing expulsion when three conditions are fulfilled … when seven conditions are fulfilled:"
 
 msgctxt "pi-tv-bu-vb-pj4:141.3"
 msgid "pubbevassa hoti musā bhaṇissanti,"
@@ -3773,11 +3774,11 @@ msgstr "I’ve attained … etc. …"
 
 msgctxt "pi-tv-bu-vb-pj4:145.5"
 msgid "rāgo ca me catto, doso ca me catto, moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito."
-msgstr "and I’ve given up sense desire/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and I’ve given up anger/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside"
+msgstr "and I’ve given up sensual desire/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and I’ve given up ill-will/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside"
 
 msgctxt "pi-tv-bu-vb-pj4:145.6"
 msgid "Rāgā ca me cittaṃ vinīvaraṇaṃ, dosā ca me cittaṃ vinīvaraṇaṃ, mohā ca me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa āpatti pārājikassa—"
-msgstr "and my mind is free from the hindrance of sense desire and my mind is free from the hindrance of anger and my mind is free from the hindrance of confusion,” he commits an offense entailing expulsion when three conditions are fulfilled … when seven conditions are fulfilled:"
+msgstr "and my mind is free from the hindrance of sensual desire and my mind is free from the hindrance of ill-will and my mind is free from the hindrance of confusion,” he commits an offense entailing expulsion when three conditions are fulfilled … when seven conditions are fulfilled:"
 
 msgctxt "pi-tv-bu-vb-pj4:145.7"
 msgid "pubbevassa hoti musā bhaṇissanti,"
@@ -3938,11 +3939,11 @@ msgstr "perfection …"
 
 msgctxt "pi-tv-bu-vb-pj4:150.22"
 msgid "rāgo me catto …"
-msgstr "I’ve given up sense desire …"
+msgstr "I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:150.23"
 msgid "doso me catto …"
-msgstr "I’ve given up anger …"
+msgstr "I’ve given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:150.24"
 msgid "moho me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito."
@@ -3950,11 +3951,11 @@ msgstr "I’ve given up confusion/renounced it/let it go/abandoned it/relinquish
 
 msgctxt "pi-tv-bu-vb-pj4:150.25"
 msgid "Rāgā me cittaṃ vinīvaraṇaṃ …"
-msgstr "My mind is free from the hindrance of sense desire …"
+msgstr "My mind is free from the hindrance of sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:150.26"
 msgid "dosā me cittaṃ vinīvaraṇaṃ …"
-msgstr "My mind is free from the hindrance of anger …"
+msgstr "My mind is free from the hindrance of ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:150.27"
 msgid "mohā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
@@ -4065,7 +4066,7 @@ msgstr "if the listener does not understand, he commits a serious offense when t
 #. </p><p><a class="sc" id="153"></a><a class="ms-pa" id="ms.686"></a> 
 msgctxt "pi-tv-bu-vb-pj4:157.1"
 msgid "Tīhākārehi … pe … sattahākārehi mohā me cittaṃ vinīvaraṇanti vattukāmo dosā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
-msgstr "If he lies in full awareness, meaning to say, “My mind is free from the hindrance of confusion,” while actually saying, “My mind is free from the hindrance of anger,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
+msgstr "If he lies in full awareness, meaning to say, “My mind is free from the hindrance of confusion,” while actually saying, “My mind is free from the hindrance of ill-will,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
 msgctxt "pi-tv-bu-vb-pj4:157.2"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa … pe …"
@@ -4107,15 +4108,15 @@ msgstr "If he lies in full awareness, meaning to say, “I attained the first ab
 
 msgctxt "pi-tv-bu-vb-pj4:159.2"
 msgid "rāgo ca me catto …"
-msgstr "and I’ve given up sense desire …"
+msgstr "and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:159.3"
 msgid "doso ca me catto …"
-msgstr "and I’ve given up anger …"
+msgstr "and I’ve given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:159.4"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito, rāgā ca me cittaṃ vinīvaraṇaṃ dosā ca me cittaṃ vinīvaraṇanti vattukāmo mohā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
-msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and my mind is free from the hindrance of sense desire and my mind is free from the hindrance of anger,” while actually saying, “My mind is free from the hindrance of confusion,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
+msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and my mind is free from the hindrance of sensual desire and my mind is free from the hindrance of ill-will,” while actually saying, “My mind is free from the hindrance of confusion,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
 msgctxt "pi-tv-bu-vb-pj4:159.5"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa."
@@ -4128,15 +4129,15 @@ msgstr "If he lies in full awareness, meaning to say, “I attained the second a
 
 msgctxt "pi-tv-bu-vb-pj4:160.2"
 msgid "rāgo ca me catto …"
-msgstr "and I’ve given up sense desire …"
+msgstr "and I’ve given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:160.3"
 msgid "doso ca me catto …"
-msgstr "and I’ve given up anger …"
+msgstr "and I’ve given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:160.4"
 msgid "moho ca me catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭito, rāgā ca me cittaṃ vinīvaraṇaṃ dosā ca me cittaṃ vinīvaraṇaṃ mohā ca me cittaṃ vinīvaraṇanti vattukāmo paṭhamaṃ jhānaṃ samāpajjinti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
-msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and my mind is free from the hindrance of sense desire and my mind is free from the hindrance of anger and my mind is free from the hindrance of confusion,” while actually saying, “I attained the first absorption,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
+msgstr "and I’ve given up confusion/renounced it/let it go/abandoned it/relinquished it/forsaken it/thrown it aside and my mind is free from the hindrance of sensual desire and my mind is free from the hindrance of ill-will and my mind is free from the hindrance of confusion,” while actually saying, “I attained the first absorption,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
 msgctxt "pi-tv-bu-vb-pj4:160.5"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa."
@@ -4162,7 +4163,7 @@ msgstr "If he lies in full awareness, meaning to say, “My mind is free from th
 
 msgctxt "pi-tv-bu-vb-pj4:162.2"
 msgid "rāgā ca me cittaṃ vinīvaraṇanti vattukāmo dosā me cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti pārājikassa;"
-msgstr "and my mind is free from the hindrance of sense desire,” while actually saying, “My mind is free from the hindrance of anger,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
+msgstr "and my mind is free from the hindrance of sensual desire,” while actually saying, “My mind is free from the hindrance of ill-will,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
 msgctxt "pi-tv-bu-vb-pj4:162.3"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa—"
@@ -4438,11 +4439,11 @@ msgstr "if the listener does not understand, he commits an offense of wrong cond
 #. </p><p><a class="sc" id="163"></a><a class="ms-pa" id="ms.696"></a> 
 msgctxt "pi-tv-bu-vb-pj4:167.1"
 msgid "Tīhākārehi yo te vihāre vasi, tassa bhikkhuno rāgo catto …"
-msgstr "If he lies in full awareness, saying, “The monk who stayed in your dwelling has given up sense desire …"
+msgstr "If he lies in full awareness, saying, “The monk who stayed in your dwelling has given up sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:167.2"
 msgid "doso catto …"
-msgstr "has given up anger …"
+msgstr "has given up ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:167.3"
 msgid "moho catto vanto mutto pahīno paṭinissaṭṭho ukkheṭito samukkheṭitoti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti thullaccayassa;"
@@ -4455,11 +4456,11 @@ msgstr "if the listener does not understand, he commits an offense of wrong cond
 #. </p><p><a class="sc" id="164"></a><a class="ms-pa" id="ms.697"></a> 
 msgctxt "pi-tv-bu-vb-pj4:168.1"
 msgid "Tīhākārehi … pe … sattahākārehi yo te vihāre vasi, tassa bhikkhuno rāgā cittaṃ vinīvaraṇaṃ …"
-msgstr "If he lies in full awareness, saying, “The monk who stayed in your dwelling has a mind free from the hindrance of sense desire …"
+msgstr "If he lies in full awareness, saying, “The monk who stayed in your dwelling has a mind free from the hindrance of sensual desire …"
 
 msgctxt "pi-tv-bu-vb-pj4:168.2"
 msgid "dosā cittaṃ vinīvaraṇaṃ …"
-msgstr "a mind free from the hindrance of anger …"
+msgstr "a mind free from the hindrance of ill-will …"
 
 msgctxt "pi-tv-bu-vb-pj4:168.3"
 msgid "mohā cittaṃ vinīvaraṇanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti thullaccayassa;"
@@ -4587,7 +4588,7 @@ msgstr "who made use of your almsfood …"
 
 msgctxt "pi-tv-bu-vb-pj4:171.3"
 msgid "yo te senāsanaṃ paribhuñji …"
-msgstr "who made use of your lodging requisites …"
+msgstr "who made use of your dwelling equipment …"
 
 #. <a class="pts-vp-en" id="bd.1.171"></a> 
 msgctxt "pi-tv-bu-vb-pj4:171.4"
@@ -4641,7 +4642,7 @@ msgstr "who has made use of your almsfood …"
 
 msgctxt "pi-tv-bu-vb-pj4:172.4"
 msgid "yena te senāsanaṃ paribhuttaṃ …"
-msgstr "who has made use of your lodging requisites …"
+msgstr "who has made use of your dwelling equipment …"
 
 msgctxt "pi-tv-bu-vb-pj4:172.5"
 msgid "yena te gilā­nappac­caya­bhesaj­ja­parik­khāro paribhutto …"
@@ -4695,7 +4696,7 @@ msgstr "to whom you gave almsfood …"
 
 msgctxt "pi-tv-bu-vb-pj4:173.4"
 msgid "senāsanaṃ adāsi …"
-msgstr "to whom you gave lodging requisites …"
+msgstr "to whom you gave dwelling equipment …"
 
 msgctxt "pi-tv-bu-vb-pj4:173.5"
 msgid "gilā­nappac­caya­bhesaj­ja­parik­khā­raṃ adāsi"
@@ -5332,7 +5333,7 @@ msgstr "At one time a monk said to a lay follower,"
 
 msgctxt "pi-tv-bu-vb-pj4:196.2"
 msgid "“yaṃ tvaṃ, āvuso, upaṭṭhesi cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rena so bhikkhu arahā”ti."
-msgstr "“The one you attend on with robes, almsfood, lodging requisites, and medicines, he is a perfected one.”"
+msgstr "“The one you attend on with robes, almsfood, dwelling equipment, and medicines, he is a perfected one.”"
 
 msgctxt "pi-tv-bu-vb-pj4:196.3"
 msgid "So ca taṃ upaṭṭheti cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rena."

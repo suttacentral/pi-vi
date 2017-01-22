@@ -59,7 +59,7 @@ msgstr "While he was in seclusion he reflected on this, and he thought,"
 
 msgctxt "pi-tv-bu-vb-ss8:5.6"
 msgid "“mayā kho jātiyā sattavassena arahattaṃ sacchikataṃ."
-msgstr "“How may I be of service to the Order of monks?"
+msgstr "“How may I be of service to the Order?"
 
 msgctxt "pi-tv-bu-vb-ss8:5.7"
 msgid "Yaṃ kiñci sāvakena pattabbaṃ sabbaṃ mayā anuppattaṃ."
@@ -97,7 +97,7 @@ msgstr "and said,"
 
 msgctxt "pi-tv-bu-vb-ss8:6.6"
 msgid "“idha mayhaṃ, bhante, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi mayā kho jātiyā sattavassena arahattaṃ sacchikataṃ, yaṃ kiñci sāvakena pattabbaṃ, sabbaṃ mayā anupattaṃ, natthi ca me kiñci uttari karaṇīyaṃ, katassa vā paticayo, kiṃ nu kho ahaṃ saṃghassa veyyāvaccaṃ kareyyanti."
-msgstr "“Venerable Sir, while I was in seclusion I reflected that I’ve attained all that can be attained by a disciple, and I was wondering how I might be of service to the Order of monks."
+msgstr "“Venerable Sir, while I was in seclusion I reflected that I’ve attained all that can be attained by a disciple, and I was wondering how I might be of service to the Order."
 
 msgctxt "pi-tv-bu-vb-ss8:6.7"
 msgid "Tassa mayhaṃ, bhante, etadahosi—"
@@ -846,7 +846,7 @@ msgstr "‘If a monk who is angry and displeased groundlessly accuses another mo
 
 msgctxt "pi-tv-bu-vb-ss8:22.3"
 msgid "‘appeva nāma naṃ imamhā brahmacariyā cāveyyan’ti, tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā amūlakañceva taṃ adhikaraṇaṃ hoti bhikkhu ca dosaṃ patiṭṭhāti, saṃghādiseso”ti."
-msgstr "aiming to make him leave the monastic life, and then after some time, whether he is questioned or not, it is clear that the legal issue is groundless, and he admits to his anger, he commits an offense entailing suspension.’”"
+msgstr "aiming to make him leave the monastic life, and then after some time, whether he is questioned or not, it is clear that the legal issue is groundless, and he admits to his ill-will, he commits an offense entailing suspension.’”"
 
 #. </strong> 
 msgctxt "pi-tv-bu-vb-ss8:22.4"
@@ -878,7 +878,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss8:23.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-ss8:23.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -906,7 +906,7 @@ msgstr "Angry:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss8:25.2"
 msgid "kupito anattamano anabhiraddho āhatacitto khilajāto."
-msgstr "upset, dissatisfied, discontent, having ill-will, hostile."
+msgstr "upset, dissatisfied, discontent, having hatred, hostile."
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1577"></a>
@@ -918,7 +918,7 @@ msgstr "Displeased:"
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss8:26.2"
 msgid "tena ca kopena tena ca dosena tāya ca anattamanatāya tāya ca anabhiraddhiyā appatīto hoti."
-msgstr "because of that upset, that anger, that dissatisfaction, and that discontent, he is displeased."
+msgstr "because of that upset, that ill-will, that dissatisfaction, and that discontent, he is displeased."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="pts-vp-en" id="bd.1.282"></a><a class="ms-pa" id="ms-pa1578"></a>
@@ -1025,7 +1025,7 @@ msgstr "legal issues due to disputes, legal issues due to accusations, legal iss
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss8:35.1"
 msgid "Bhikkhu ca dosaṃ patiṭṭhātīti"
-msgstr "And he admits to his anger:"
+msgstr "And he admits to his ill-will:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss8:35.2"
@@ -1908,7 +1908,7 @@ msgstr "if he is the first offender."
 #. </p><p class="endsutta"><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa1625"></a> 
 msgctxt "pi-tv-bu-vb-ss8:74.1"
 msgid "Amūla­ka­sikkhā­padaṃ niṭṭhitaṃ aṭṭhamaṃ."
-msgstr "The eighth rule, the training rule on anger, is finished."
+msgstr "The eighth rule, the training rule on groundless, is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
