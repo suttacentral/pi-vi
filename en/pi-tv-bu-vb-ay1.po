@@ -30,7 +30,7 @@ msgstr "Monks’ Undetermined"
 #. </p><h1>
 msgctxt "pi-tv-bu-vb-ay1:4.1"
 msgid "1. Paṭhamaaniyatasikkhāpada"
-msgstr "1: The first training rule"
+msgstr "1. The first training rule"
 
 #. </h1></div><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.187"></a><a class="pts-vp-en" id="bd.1.330"></a><a class="ms-pa" id="ms-pa1802"></a> 
 msgctxt "pi-tv-bu-vb-ay1:5.1"

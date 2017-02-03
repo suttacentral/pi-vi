@@ -2711,3 +2711,6 @@ msgstr "The sixth rule, the training rule on building huts, is finished."
 #. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
 #. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
 #. </div></body></html>
+msgctxt "pi-tv-bu-vb-ss6:99.2"
+msgid ""
+msgstr ""

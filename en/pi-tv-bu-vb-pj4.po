@@ -640,7 +640,7 @@ msgid "ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and not in communion.’”"
 
 #. </strong>
-#. </p><p class="endsutta"><a class="sc" id="19"></a><a class="ms-pa" id="ms.552"></a> 
+#. </p><p class="endsection"><a class="sc" id="19"></a><a class="ms-pa" id="ms.552"></a> 
 msgctxt "pi-tv-bu-vb-pj4:23.1"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -6981,3 +6981,6 @@ msgstr "The chapter on offenses entailing expulsion is finished."
 #. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
 #. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
 #. </div></body></html>
+msgctxt "pi-tv-bu-vb-pj4:246.2"
+msgid ""
+msgstr ""

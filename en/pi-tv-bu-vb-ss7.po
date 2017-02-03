@@ -881,7 +881,7 @@ msgstr "he must either go there himself or send a message, and he must tell them
 
 msgctxt "pi-tv-bu-vb-ss7:38.8"
 msgid "“anārambho ca hotu saparikkamano cā”ti … pe …"
-msgstr "to build one where no harm will be done, and which has a space on all sides. … <span class=\"add\">This paragraph is to be expanded as in <a href="https://suttacentral.net/en/pi-tv-bu-vb-ss6/91-105">Saṅghādisesa 6, paragraphs 64–75</a>.</span> …"
+msgstr "to build one where no harm will be done, and which has a space on all sides. … <span class=\"add\">This paragraph is to be expanded as in <a href="/en/pi-tv-bu-vb-ss6/91-105">Saṅghādisesa 6, paragraphs 64–75</a>.</span> …"
 
 #. <span class="note" hidden>The last two sets of ellipses points are not found in MS. I have added them for clarification.</span> 
 msgctxt "pi-tv-bu-vb-ss7:38.9"
@@ -1113,3 +1113,6 @@ msgstr "The seventh rule, the training rule on building dwellings, is finished."
 #. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
 #. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
 #. </div></body></html>
+msgctxt "pi-tv-bu-vb-ss7:48.2"
+msgid ""
+msgstr ""
