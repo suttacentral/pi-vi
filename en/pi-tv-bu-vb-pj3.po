@@ -2661,7 +2661,7 @@ msgctxt "pi-tv-bu-vb-pj3:78.7"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="75"></a><a class="ms-pa" id="ms.450"></a> 
+#. </p><p class="endsection"><a class="sc" id="75"></a><a class="ms-pa" id="ms.450"></a> 
 msgctxt "pi-tv-bu-vb-pj3:79.1"
 msgid "Manus­savig­gaha­pā­rāji­kamhi paṭha­ma­bhā­ṇavāro niṭṭhito."
 msgstr "The first section on expulsion in relation to human beings is finished."

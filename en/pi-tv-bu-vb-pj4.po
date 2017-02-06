@@ -2548,7 +2548,7 @@ msgctxt "pi-tv-bu-vb-pj4:102.8"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="99"></a><a class="ms-pa" id="ms.632"></a>
+#. </p><p class="endsection"><a class="sc" id="99"></a><a class="ms-pa" id="ms.632"></a>
 #. <span class="note" hidden>For an explanation of the term ʻbasic,’ <i lang="pi">suddhika</i>, see <span class="ref">Sp.2.497.6</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj4:103.1"
 msgid "Suddhikaṃ niṭṭhitaṃ."
@@ -3015,7 +3015,7 @@ msgctxt "pi-tv-bu-vb-pj4:117.15"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="114"></a><a class="ms-pa" id="ms.647"></a>
+#. </p><p class="endsection"><a class="sc" id="114"></a><a class="ms-pa" id="ms.647"></a>
 #. <span class="note" hidden>For an explanation of the term ʻunconnected,’ <i lang="pi">khaṇḍa</i>, see <span class="ref">Sp.2.497.10</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj4:118.1"
 msgid "Khaṇḍacakkaṃ niṭṭhitaṃ."
@@ -3250,7 +3250,7 @@ msgctxt "pi-tv-bu-vb-pj4:123.7"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="120"></a><a class="ms-pa" id="ms.653"></a>
+#. </p><p class="endsection"><a class="sc" id="120"></a><a class="ms-pa" id="ms.653"></a>
 #. <span class="note" hidden>For an explanation of the term ʻlinked,’ <i lang="pi">baddha</i>, see <span class="ref">Sp.2.497.14</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj4:124.1"
 msgid "Baddhacakkaṃ."
@@ -3729,7 +3729,7 @@ msgctxt "pi-tv-bu-vb-pj4:141.9"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="138"></a><a class="ms-pa" id="ms.671"></a>
+#. </p><p class="endsection"><a class="sc" id="138"></a><a class="ms-pa" id="ms.671"></a>
 #. <span class="note" hidden>Although two attainments are given in each case of the above permutation series, it seems that only the one which remains unchanged within each sub-section is considered the root item.</span> 
 msgctxt "pi-tv-bu-vb-pj4:142.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
@@ -3808,7 +3808,7 @@ msgctxt "pi-tv-bu-vb-pj4:145.13"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="142"></a><a class="ms-pa" id="ms.675"></a> 
+#. </p><p class="endsection"><a class="sc" id="142"></a><a class="ms-pa" id="ms.675"></a> 
 msgctxt "pi-tv-bu-vb-pj4:146.1"
 msgid "Sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items is finished."
@@ -3993,7 +3993,7 @@ msgctxt "pi-tv-bu-vb-pj4:150.35"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="147"></a><a class="ms-pa" id="ms.680"></a>
+#. </p><p class="endsection"><a class="sc" id="147"></a><a class="ms-pa" id="ms.680"></a>
 #. <span class="note" hidden>The Pali text reads <i lang="pi">vatthu</i>,“basis,ˮ rather than <i lang="pi">vattu</i>, “speech.ˮ However, I have chosen to follow the alternative reading of <i lang="pi">vattu</i>—found in the PTS edition and in the commentary (<span class="ref">Sp.2.500.23</span>)—since this seems more reasonable to me given the context.</span> 
 msgctxt "pi-tv-bu-vb-pj4:151.1"
 msgid "Vatthu­vi­sārakassa ekamūlakassa khaṇḍacakkaṃ niṭṭhitaṃ."
@@ -4039,7 +4039,7 @@ msgctxt "pi-tv-bu-vb-pj4:154.3"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="151"></a><a class="ms-pa" id="ms.684"></a> 
+#. </p><p class="endsection"><a class="sc" id="151"></a><a class="ms-pa" id="ms.684"></a> 
 msgctxt "pi-tv-bu-vb-pj4:155.1"
 msgid "Vatthu­vi­sārakassa ekamūlakassa baddhacakkaṃ."
 msgstr "The linked permutation series on one root item with a speech extension."
@@ -4076,7 +4076,7 @@ msgctxt "pi-tv-bu-vb-pj4:157.3"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="154"></a><a class="ms-pa" id="ms.687"></a> 
+#. </p><p class="endsection"><a class="sc" id="154"></a><a class="ms-pa" id="ms.687"></a> 
 msgctxt "pi-tv-bu-vb-pj4:157.4"
 msgid "Vatthu­vi­sārakassa ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item with a speech extension is finished."
@@ -4197,7 +4197,7 @@ msgctxt "pi-tv-bu-vb-pj4:162.10"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="159"></a><a class="ms-pa" id="ms.692"></a> 
+#. </p><p class="endsection"><a class="sc" id="159"></a><a class="ms-pa" id="ms.692"></a> 
 msgctxt "pi-tv-bu-vb-pj4:163.1"
 msgid "Vatthu­vi­sārakassa sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items with a speech extension is finished."
@@ -4759,7 +4759,7 @@ msgctxt "pi-tv-bu-vb-pj4:173.19"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
-#. </p><p class="endsutta"><a class="sc" id="170"></a><a class="ms-pa" id="ms.703"></a> 
+#. </p><p class="endsection"><a class="sc" id="170"></a><a class="ms-pa" id="ms.703"></a> 
 msgctxt "pi-tv-bu-vb-pj4:174.1"
 msgid "Peyyā­la­panna­rasa­kaṃ niṭṭhitaṃ."
 msgstr "The successive fifteen are finished."
@@ -6932,7 +6932,7 @@ msgctxt "pi-tv-bu-vb-pj4:242.11"
 msgid "evametaṃ dhārayāmīti."
 msgstr "I will remember it thus.”"
 
-#. </p><p class="endsutta"><a class="sc" id="237"></a><a class="ms-pa" id="ms.770"></a> 
+#. </p><p class="endsection"><a class="sc" id="237"></a><a class="ms-pa" id="ms.770"></a> 
 msgctxt "pi-tv-bu-vb-pj4:243.1"
 msgid "Pārājikaṃ niṭṭhitaṃ."
 msgstr "The rules entailing expulsion are finished."

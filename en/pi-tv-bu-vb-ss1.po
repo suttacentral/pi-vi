@@ -967,7 +967,7 @@ msgctxt "pi-tv-bu-vb-ss1:50.9"
 msgid "sappivaṇṇaṃ ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa820"></a> 
+#. </p><p class="endsection"><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa820"></a> 
 msgctxt "pi-tv-bu-vb-ss1:51.1"
 msgid "Suddhikaṃ niṭṭhitaṃ."
 msgstr "The basic series is finished."
@@ -1015,7 +1015,7 @@ msgctxt "pi-tv-bu-vb-ss1:53.8"
 msgid "ārogyatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of health and for the sake of fun, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="50"></a><a class="ms-pa" id="ms-pa823"></a> 
+#. </p><p class="endsection"><a class="sc" id="50"></a><a class="ms-pa" id="ms-pa823"></a> 
 msgctxt "pi-tv-bu-vb-ss1:54.1"
 msgid "Ekamūlakassa khaṇḍacakkaṃ niṭṭhitaṃ."
 msgstr "The unconnected permutation series for one root item is finished."
@@ -1362,7 +1362,7 @@ msgctxt "pi-tv-bu-vb-ss1:72.9"
 msgid "davatthañca vīmaṃsatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of fun and for the sake of investigating, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="69"></a><a class="ms-pa" id="ms-pa842"></a> 
+#. </p><p class="endsection"><a class="sc" id="69"></a><a class="ms-pa" id="ms-pa842"></a> 
 msgctxt "pi-tv-bu-vb-ss1:73.1"
 msgid "Ekamūlakassa baddhacakkaṃ niṭṭhitaṃ."
 msgstr "The linked permutation series for one root item is finished."
@@ -1381,7 +1381,7 @@ msgctxt "pi-tv-bu-vb-ss1:74.3"
 msgid "ārogyatthañca sukhatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of health and for the sake of pleasure and for the sake of fun, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="71"></a><a class="ms-pa" id="ms-pa844"></a> 
+#. </p><p class="endsection"><a class="sc" id="71"></a><a class="ms-pa" id="ms-pa844"></a> 
 msgctxt "pi-tv-bu-vb-ss1:75.1"
 msgid "Dumūlakassa khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series for two root items."
@@ -1399,7 +1399,7 @@ msgctxt "pi-tv-bu-vb-ss1:76.3"
 msgid "sukhatthañca ­bhesaj­jat­thañca ārogyatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of pleasure and for the sake of medicine and for the sake of health, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="73"></a><a class="ms-pa" id="ms-pa846"></a> 
+#. </p><p class="endsection"><a class="sc" id="73"></a><a class="ms-pa" id="ms-pa846"></a> 
 msgctxt "pi-tv-bu-vb-ss1:77.1"
 msgid "Dumūlakassa baddhacakkaṃ, saṃkhittaṃ."
 msgstr "The linked permutation series for two root items, in brief."
@@ -1413,7 +1413,7 @@ msgctxt "pi-tv-bu-vb-ss1:78.2"
 msgid "vīmaṃsatthañca davatthañca bījatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of investigating and for the sake of fun and for the sake of seed, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="75"></a><a class="ms-pa" id="ms-pa848"></a> 
+#. </p><p class="endsection"><a class="sc" id="75"></a><a class="ms-pa" id="ms-pa848"></a> 
 msgctxt "pi-tv-bu-vb-ss1:79.1"
 msgid "Dumūlakaṃ niṭṭhitaṃ."
 msgstr "The section on two root items is finished."
@@ -1443,7 +1443,7 @@ msgctxt "pi-tv-bu-vb-ss1:82.1"
 msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca dānatthañca puññatthañca yaññatthañca saggatthañca bījatthañca vīmaṃsatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of health and for the sake of pleasure and for the sake of medicine and for the sake of a gift and for the sake of merit and for the sake of sacrifice and for the sake of heaven and for the sake of seed and for the sake of investigating and for the sake of fun, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="79"></a><a class="ms-pa" id="ms-pa852"></a> 
+#. </p><p class="endsection"><a class="sc" id="79"></a><a class="ms-pa" id="ms-pa852"></a> 
 msgctxt "pi-tv-bu-vb-ss1:83.1"
 msgid "Sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items is finished."
@@ -1491,7 +1491,7 @@ msgctxt "pi-tv-bu-vb-ss1:85.8"
 msgid "nīlañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends blue and the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="82"></a><a class="ms-pa" id="ms-pa855"></a> 
+#. </p><p class="endsection"><a class="sc" id="82"></a><a class="ms-pa" id="ms-pa855"></a> 
 msgctxt "pi-tv-bu-vb-ss1:86.1"
 msgid "Ekamūlakassa khaṇḍacakkaṃ niṭṭhitaṃ."
 msgstr "The unconnected permutation series for one root item is finished."
@@ -1535,7 +1535,7 @@ msgctxt "pi-tv-bu-vb-ss1:89.1"
 msgid "Pītakañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends yellow and blue, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="86"></a><a class="ms-pa" id="ms-pa859"></a> 
+#. </p><p class="endsection"><a class="sc" id="86"></a><a class="ms-pa" id="ms-pa859"></a> 
 msgctxt "pi-tv-bu-vb-ss1:90.1"
 msgid "Ekamūlakassa baddhacakkaṃ."
 msgstr "The linked permutation series for one root item."
@@ -1845,7 +1845,7 @@ msgctxt "pi-tv-bu-vb-ss1:107.8"
 msgid "sappivaṇṇañca dadhivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of ghee and the color of curd, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="104"></a><a class="ms-pa" id="ms-pa877"></a> 
+#. </p><p class="endsection"><a class="sc" id="104"></a><a class="ms-pa" id="ms-pa877"></a> 
 msgctxt "pi-tv-bu-vb-ss1:108.1"
 msgid "Ekamūlakassa baddhacakkaṃ niṭṭhitaṃ."
 msgstr "The linked permutation series for one root item is finished."
@@ -1864,7 +1864,7 @@ msgctxt "pi-tv-bu-vb-ss1:109.3"
 msgid "nīlañca pītakañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends blue and yellow and the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="106"></a><a class="ms-pa" id="ms-pa879"></a> 
+#. </p><p class="endsection"><a class="sc" id="106"></a><a class="ms-pa" id="ms-pa879"></a> 
 msgctxt "pi-tv-bu-vb-ss1:110.1"
 msgid "Dumūlakassa khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series for two root items."
@@ -1882,7 +1882,7 @@ msgctxt "pi-tv-bu-vb-ss1:111.3"
 msgid "pītakañca lohitakañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends yellow and red and blue, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="108"></a><a class="ms-pa" id="ms-pa881"></a> 
+#. </p><p class="endsection"><a class="sc" id="108"></a><a class="ms-pa" id="ms-pa881"></a> 
 msgctxt "pi-tv-bu-vb-ss1:112.1"
 msgid "Dumūlakassa baddhacakkaṃ, saṃkhittaṃ."
 msgstr "The linked permutation series for two root items, in brief."
@@ -1896,7 +1896,7 @@ msgctxt "pi-tv-bu-vb-ss1:113.2"
 msgid "dadhivaṇṇañca sappivaṇṇañca khīravaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends the color of curd and the color of ghee and the color of milk, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="110"></a><a class="ms-pa" id="ms-pa883"></a> 
+#. </p><p class="endsection"><a class="sc" id="110"></a><a class="ms-pa" id="ms-pa883"></a> 
 msgctxt "pi-tv-bu-vb-ss1:114.1"
 msgid "Dumūlakaṃ niṭṭhitaṃ."
 msgstr "The section on two root items is finished."
@@ -1926,7 +1926,7 @@ msgctxt "pi-tv-bu-vb-ss1:117.1"
 msgid "Nīlañca pītakañca lohitakañca odātañca takkavaṇṇañca dakavaṇṇañca telavaṇṇañca khīravaṇṇañca dadhivaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends blue and yellow and red and white and the color of buttermilk and the color of water and the color of oil and the color of milk and the color of curd and the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="114"></a><a class="ms-pa" id="ms-pa887"></a> 
+#. </p><p class="endsection"><a class="sc" id="114"></a><a class="ms-pa" id="ms-pa887"></a> 
 msgctxt "pi-tv-bu-vb-ss1:118.1"
 msgid "Sabbamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on all root items is finished."
@@ -1951,7 +1951,7 @@ msgctxt "pi-tv-bu-vb-ss1:121.1"
 msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca nīlañca pītakañca lohitakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends for the sake of health and for the sake of pleasure and for the sake of medicine and blue and yellow and red, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="118"></a><a class="ms-pa" id="ms-pa891"></a> 
+#. </p><p class="endsection"><a class="sc" id="118"></a><a class="ms-pa" id="ms-pa891"></a> 
 msgctxt "pi-tv-bu-vb-ss1:122.1"
 msgid "(Ubhato­vaḍḍha­kaṃ evameva vaḍḍhetabbaṃ.)"
 msgstr "(In this way both are to be expanded.)"
@@ -1961,7 +1961,7 @@ msgctxt "pi-tv-bu-vb-ss1:123.1"
 msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca dānatthañca puññatthañca yaññatthañca saggatthañca bījatthañca vīmaṃsatthañca davatthañca nīlañca pītakañca lohitakañca odātañca takkavaṇṇañca dakavaṇṇañca telavaṇṇañca khīravaṇṇañca dadhivaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends for the sake of health and for the sake of pleasure and for the sake of medicine and for the sake of a gift and for the sake of merit and for the sake of sacrifice and for the sake of heaven and for the sake of seed and for the sake of investigating and for the sake of fun and blue and yellow and red and white and the color of buttermilk and the color of water and the color of oil and the color of milk and the color of curd and the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="120"></a><a class="ms-pa" id="ms-pa893"></a> 
+#. </p><p class="endsection"><a class="sc" id="120"></a><a class="ms-pa" id="ms-pa893"></a> 
 msgctxt "pi-tv-bu-vb-ss1:124.1"
 msgid "Missakacakkaṃ niṭṭhitaṃ."
 msgstr "The mixed permutation series is finished."
@@ -2009,7 +2009,7 @@ msgctxt "pi-tv-bu-vb-ss1:126.8"
 msgid "sappivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of ghee is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="123"></a><a class="ms-pa" id="ms-pa896"></a> 
+#. </p><p class="endsection"><a class="sc" id="123"></a><a class="ms-pa" id="ms-pa896"></a> 
 msgctxt "pi-tv-bu-vb-ss1:127.1"
 msgid "Khaṇḍacakkaṃ niṭṭhitaṃ."
 msgstr "The unconnected permutation series is finished."
@@ -2052,7 +2052,7 @@ msgctxt "pi-tv-bu-vb-ss1:129.8"
 msgid "nīlaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "blue is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="126"></a><a class="ms-pa" id="ms-pa899"></a> 
+#. </p><p class="endsection"><a class="sc" id="126"></a><a class="ms-pa" id="ms-pa899"></a> 
 msgctxt "pi-tv-bu-vb-ss1:130.1"
 msgid "Baddha­cakka­mūlaṃ saṃkhittaṃ."
 msgstr "The basis of the linked permutation series, in brief."
@@ -2095,7 +2095,7 @@ msgctxt "pi-tv-bu-vb-ss1:132.8"
 msgid "dadhivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of curd is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="129"></a><a class="ms-pa" id="ms-pa902"></a> 
+#. </p><p class="endsection"><a class="sc" id="129"></a><a class="ms-pa" id="ms-pa902"></a> 
 msgctxt "pi-tv-bu-vb-ss1:133.1"
 msgid "Kucchicakkaṃ niṭṭhitaṃ."
 msgstr "The core permutation series is finished."
@@ -2138,7 +2138,7 @@ msgctxt "pi-tv-bu-vb-ss1:135.8"
 msgid "sappivaṇṇaṃ mocessāmīti ceteti upakkamati nīlaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of ghee,” and he makes an effort, and blue is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="132"></a><a class="ms-pa" id="ms-pa905"></a> 
+#. </p><p class="endsection"><a class="sc" id="132"></a><a class="ms-pa" id="ms-pa905"></a> 
 msgctxt "pi-tv-bu-vb-ss1:136.1"
 msgid "Piṭṭhicakkassa paṭhamaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The first round of the additional permutation series is finished."
@@ -2181,7 +2181,7 @@ msgctxt "pi-tv-bu-vb-ss1:138.8"
 msgid "nīlaṃ mocessāmīti ceteti upakkamati pītakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "blue,” and he makes an effort, and yellow is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="135"></a><a class="ms-pa" id="ms-pa908"></a> 
+#. </p><p class="endsection"><a class="sc" id="135"></a><a class="ms-pa" id="ms-pa908"></a> 
 msgctxt "pi-tv-bu-vb-ss1:139.1"
 msgid "Piṭṭhicakkassa dutiyaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The second round of the additional permutation series is finished."
@@ -2224,7 +2224,7 @@ msgctxt "pi-tv-bu-vb-ss1:141.8"
 msgid "pītakaṃ mocessāmīti ceteti upakkamati lohitakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "yellow,” and he makes an effort, and red is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="138"></a><a class="ms-pa" id="ms-pa911"></a> 
+#. </p><p class="endsection"><a class="sc" id="138"></a><a class="ms-pa" id="ms-pa911"></a> 
 msgctxt "pi-tv-bu-vb-ss1:142.1"
 msgid "Piṭṭhicakkassa tatiyaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The third round of the additional permutation series is finished."
@@ -2267,7 +2267,7 @@ msgctxt "pi-tv-bu-vb-ss1:144.8"
 msgid "lohitakaṃ mocessāmīti ceteti upakkamati odātaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "red,” and he makes an effort, and white is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="141"></a><a class="ms-pa" id="ms-pa914"></a> 
+#. </p><p class="endsection"><a class="sc" id="141"></a><a class="ms-pa" id="ms-pa914"></a> 
 msgctxt "pi-tv-bu-vb-ss1:145.1"
 msgid "Piṭṭhicakkassa catutthaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The fourth round of the additional permutation series is finished."
@@ -2310,7 +2310,7 @@ msgctxt "pi-tv-bu-vb-ss1:147.8"
 msgid "odātaṃ mocessāmīti ceteti upakkamati takkavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "white,” and he makes an effort, and the color of buttermilk is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="144"></a><a class="ms-pa" id="ms-pa917"></a> 
+#. </p><p class="endsection"><a class="sc" id="144"></a><a class="ms-pa" id="ms-pa917"></a> 
 msgctxt "pi-tv-bu-vb-ss1:148.1"
 msgid "Piṭṭhicakkassa pañcamaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The fifth round of the additional permutation series is finished."
@@ -2353,7 +2353,7 @@ msgctxt "pi-tv-bu-vb-ss1:150.8"
 msgid "takkavaṇṇaṃ mocessāmīti ceteti upakkamati dakavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of buttermilk,” and he makes an effort, and the color of water is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="147"></a><a class="ms-pa" id="ms-pa920"></a> 
+#. </p><p class="endsection"><a class="sc" id="147"></a><a class="ms-pa" id="ms-pa920"></a> 
 msgctxt "pi-tv-bu-vb-ss1:151.1"
 msgid "Piṭṭhicakkassa chaṭṭhaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The sixth round of the additional permutation series is finished."
@@ -2396,7 +2396,7 @@ msgctxt "pi-tv-bu-vb-ss1:153.8"
 msgid "dakavaṇṇaṃ mocessāmīti ceteti upakkamati telavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of water,” and he makes an effort, and the color of oil is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="150"></a><a class="ms-pa" id="ms-pa923"></a> 
+#. </p><p class="endsection"><a class="sc" id="150"></a><a class="ms-pa" id="ms-pa923"></a> 
 msgctxt "pi-tv-bu-vb-ss1:154.1"
 msgid "Piṭṭhicakkassa sattamaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The seventh round of the additional permutation series is finished."
@@ -2439,7 +2439,7 @@ msgctxt "pi-tv-bu-vb-ss1:156.8"
 msgid "telavaṇṇaṃ mocessāmīti ceteti upakkamati khīravaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of oil,” and he makes an effort, and the color of milk is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="153"></a><a class="ms-pa" id="ms-pa926"></a> 
+#. </p><p class="endsection"><a class="sc" id="153"></a><a class="ms-pa" id="ms-pa926"></a> 
 msgctxt "pi-tv-bu-vb-ss1:157.1"
 msgid "Piṭṭhicakkassa aṭṭhamaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The eighth round of the additional permutation series is finished."
@@ -2482,7 +2482,7 @@ msgctxt "pi-tv-bu-vb-ss1:159.8"
 msgid "khīravaṇṇaṃ mocessāmīti ceteti upakkamati dadhivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of milk,” and he makes an effort, and the color of curd is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="156"></a><a class="ms-pa" id="ms-pa929"></a> 
+#. </p><p class="endsection"><a class="sc" id="156"></a><a class="ms-pa" id="ms-pa929"></a> 
 msgctxt "pi-tv-bu-vb-ss1:160.1"
 msgid "Piṭṭhicakkassa navamaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The ninth round of the additional permutation series is finished."
@@ -2525,7 +2525,7 @@ msgctxt "pi-tv-bu-vb-ss1:162.8"
 msgid "dadhivaṇṇaṃ mocessāmīti ceteti upakkamati sappivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "the color of curd,” and he makes an effort, and the color of ghee is emitted, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="159"></a><a class="ms-pa" id="ms-pa932"></a> 
+#. </p><p class="endsection"><a class="sc" id="159"></a><a class="ms-pa" id="ms-pa932"></a> 
 msgctxt "pi-tv-bu-vb-ss1:163.1"
 msgid "Piṭṭhicakkassa dasamaṃ gamanaṃ niṭṭhitaṃ."
 msgstr "The tenth round of the additional permutation series is finished."
@@ -3759,7 +3759,7 @@ msgctxt "pi-tv-bu-vb-ss1:224.9"
 msgid "(69–‍70)"
 msgstr ""
 
-#. </p><p class="endsutta"><a class="sc" id="219"></a><a class="ms-pa" id="ms-pa992"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="219"></a><a class="ms-pa" id="ms-pa992"></a> 
 msgctxt "pi-tv-bu-vb-ss1:225.1"
 msgid "Sukka­vissaṭ­ṭhi­sikkhā­padaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on emission of semen, is finished."

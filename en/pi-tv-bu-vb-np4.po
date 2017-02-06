@@ -471,7 +471,7 @@ msgctxt "pi-tv-bu-vb-np4:19.10"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="15"></a><a class="wt-pa" id="1955"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="15"></a><a class="wt-pa" id="1955"></a> 
 msgctxt "pi-tv-bu-vb-np4:20.1"
 msgid "Purāṇacīvarasikkhāpadaṃ niṭṭhitaṃ catutthaṃ."
 msgstr "The fourth rule, the training rule on used robes, is finished."

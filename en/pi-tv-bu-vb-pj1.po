@@ -2460,7 +2460,7 @@ msgctxt "pi-tv-bu-vb-pj1:38.1"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
-#. </p><p class="endsutta"><a class="sc" id="74"></a><a class="ms-pa" id="ms.74"></a> 
+#. </p><p class="endsection"><a class="sc" id="74"></a><a class="ms-pa" id="ms.74"></a> 
 msgctxt "pi-tv-bu-vb-pj1:39.1"
 msgid "Sudinna­bhā­ṇavāro niṭṭhito."
 msgstr "The section for recitation on Sudinna is finished."
@@ -2682,7 +2682,7 @@ msgctxt "pi-tv-bu-vb-pj1:46.1"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
-#. </p><p class="endsutta"><a class="sc" id="81"></a><a class="ms-pa" id="ms.81"></a> 
+#. </p><p class="endsection"><a class="sc" id="81"></a><a class="ms-pa" id="ms.81"></a> 
 msgctxt "pi-tv-bu-vb-pj1:47.1"
 msgid "Makkaṭīvatthu niṭṭhitaṃ."
 msgstr "The story of the female monkey is finished."
@@ -5316,7 +5316,7 @@ msgctxt "pi-tv-bu-vb-pj1:105.8"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="139"></a><a class="ms-pa" id="ms.139"></a> 
+#. </p><p class="endsection"><a class="sc" id="139"></a><a class="ms-pa" id="ms.139"></a> 
 msgctxt "pi-tv-bu-vb-pj1:106.1"
 msgid "San­tha­ta­bhā­ṇavāro niṭṭhito."
 msgstr "The section for recitation on covering is finished."

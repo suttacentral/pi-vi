@@ -3301,7 +3301,7 @@ msgctxt "pi-tv-bu-vb-pj2:94.12"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="91"></a><a class="ms-pa" id="ms.281"></a> 
+#. </p><p class="endsection"><a class="sc" id="91"></a><a class="ms-pa" id="ms.281"></a> 
 msgctxt "pi-tv-bu-vb-pj2:95.1"
 msgid "Adinnādānamhi paṭha­ma­bhā­ṇavāro niṭṭhito."
 msgstr "The first section on stealing is finished."

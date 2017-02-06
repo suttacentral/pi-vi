@@ -542,7 +542,7 @@ msgctxt "pi-tv-bu-vb-np1:26.4"
 msgid "Yo na dadeyya, āpatti dukkaṭassā”ti."
 msgstr "If a monk does not give it back, he commits an offense of wrong conduct.”"
 
-#. </strong></p><p class="endsutta"><a class="sc" id="22"></a><a class="wt-pa" id="1882"></a> 
+#. </strong></p><hr><p class="endsutta"><a class="sc" id="22"></a><a class="wt-pa" id="1882"></a> 
 msgctxt "pi-tv-bu-vb-np1:27.1"
 msgid "Kathinasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on the robe-making season, is finished."

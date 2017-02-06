@@ -756,7 +756,7 @@ msgctxt "pi-tv-bu-vb-ay1:30.4"
 msgid "Gamanaṃ na paṭijānāti, nisajjaṃ na paṭijānāti, āpattiṃ na paṭijānāti, na kāretabboti."
 msgstr "If he does not admit to going, nor does he admit to sitting, nor does he admit to an offense, he is not to be dealt with."
 
-#. </p><p class="endsutta"><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1828"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1828"></a> 
 msgctxt "pi-tv-bu-vb-ay1:31.1"
 msgid "Paṭhamo aniyato niṭṭhito."
 msgstr "The first undetermined rule is finished."
