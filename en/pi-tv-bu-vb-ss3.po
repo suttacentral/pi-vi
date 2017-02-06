@@ -1136,7 +1136,7 @@ msgctxt "pi-tv-bu-vb-ss3:52.10"
 msgid "(10–‍12)"
 msgstr ""
 
-#. </p><p class="endsutta"><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa1179"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa1179"></a> 
 msgctxt "pi-tv-bu-vb-ss3:53.1"
 msgid "Duṭṭhul­la­vācā­sikkhā­padaṃ niṭṭhitaṃ tatiyaṃ."
 msgstr "The third rule, the training rule on lewd speech, is finished."

@@ -1276,7 +1276,7 @@ msgctxt "pi-tv-bu-vb-ss5:59.12"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="56"></a><a class="ms-pa" id="ms-pa1275"></a> 
+#. </p><p class="endsection"><a class="sc" id="56"></a><a class="ms-pa" id="ms-pa1275"></a> 
 msgctxt "pi-tv-bu-vb-ss5:60.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -1348,7 +1348,7 @@ msgctxt "pi-tv-bu-vb-ss5:62.11"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="59"></a><a class="ms-pa" id="ms-pa1278"></a> 
+#. </p><p class="endsection"><a class="sc" id="59"></a><a class="ms-pa" id="ms-pa1278"></a> 
 msgctxt "pi-tv-bu-vb-ss5:63.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -1428,7 +1428,7 @@ msgctxt "pi-tv-bu-vb-ss5:66.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="63"></a><a class="ms-pa" id="ms-pa1282"></a> 
+#. </p><p class="endsection"><a class="sc" id="63"></a><a class="ms-pa" id="ms-pa1282"></a> 
 msgctxt "pi-tv-bu-vb-ss5:67.1"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -1495,7 +1495,7 @@ msgctxt "pi-tv-bu-vb-ss5:69.11"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="66"></a><a class="ms-pa" id="ms-pa1285"></a> 
+#. </p><p class="endsection"><a class="sc" id="66"></a><a class="ms-pa" id="ms-pa1285"></a> 
 msgctxt "pi-tv-bu-vb-ss5:70.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -1537,7 +1537,7 @@ msgctxt "pi-tv-bu-vb-ss5:73.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa1289"></a> 
+#. </p><p class="endsection"><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa1289"></a> 
 msgctxt "pi-tv-bu-vb-ss5:74.1"
 msgid "Dhanak­kītā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on bought wives is finished."
@@ -1650,7 +1650,7 @@ msgctxt "pi-tv-bu-vb-ss5:76.13"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="73"></a><a class="ms-pa" id="ms-pa1292"></a> 
+#. </p><p class="endsection"><a class="sc" id="73"></a><a class="ms-pa" id="ms-pa1292"></a> 
 msgctxt "pi-tv-bu-vb-ss5:77.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -1698,7 +1698,7 @@ msgctxt "pi-tv-bu-vb-ss5:79.5"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="76"></a><a class="ms-pa" id="ms-pa1295"></a> 
+#. </p><p class="endsection"><a class="sc" id="76"></a><a class="ms-pa" id="ms-pa1295"></a> 
 msgctxt "pi-tv-bu-vb-ss5:80.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -1758,7 +1758,7 @@ msgctxt "pi-tv-bu-vb-ss5:83.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="80"></a><a class="ms-pa" id="ms-pa1299"></a> 
+#. </p><p class="endsection"><a class="sc" id="80"></a><a class="ms-pa" id="ms-pa1299"></a> 
 msgctxt "pi-tv-bu-vb-ss5:84.1"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -1801,7 +1801,7 @@ msgctxt "pi-tv-bu-vb-ss5:86.5"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="83"></a><a class="ms-pa" id="ms-pa1302"></a> 
+#. </p><p class="endsection"><a class="sc" id="83"></a><a class="ms-pa" id="ms-pa1302"></a> 
 msgctxt "pi-tv-bu-vb-ss5:87.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -1843,7 +1843,7 @@ msgctxt "pi-tv-bu-vb-ss5:90.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="87"></a><a class="ms-pa" id="ms-pa1306"></a> 
+#. </p><p class="endsection"><a class="sc" id="87"></a><a class="ms-pa" id="ms-pa1306"></a> 
 msgctxt "pi-tv-bu-vb-ss5:91.1"
 msgid "Muhut­ti­kā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on momentary wives is finished."
@@ -1919,7 +1919,7 @@ msgctxt "pi-tv-bu-vb-ss5:93.12"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="90"></a><a class="ms-pa" id="ms-pa1309"></a> 
+#. </p><p class="endsection"><a class="sc" id="90"></a><a class="ms-pa" id="ms-pa1309"></a> 
 msgctxt "pi-tv-bu-vb-ss5:94.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -1991,7 +1991,7 @@ msgctxt "pi-tv-bu-vb-ss5:96.11"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="93"></a><a class="ms-pa" id="ms-pa1312"></a> 
+#. </p><p class="endsection"><a class="sc" id="93"></a><a class="ms-pa" id="ms-pa1312"></a> 
 msgctxt "pi-tv-bu-vb-ss5:97.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -2021,7 +2021,7 @@ msgctxt "pi-tv-bu-vb-ss5:98.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="95"></a><a class="ms-pa" id="ms-pa1314"></a> 
+#. </p><p class="endsection"><a class="sc" id="95"></a><a class="ms-pa" id="ms-pa1314"></a> 
 msgctxt "pi-tv-bu-vb-ss5:99.1"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -2051,7 +2051,7 @@ msgctxt "pi-tv-bu-vb-ss5:100.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="97"></a><a class="ms-pa" id="ms-pa1316"></a> 
+#. </p><p class="endsection"><a class="sc" id="97"></a><a class="ms-pa" id="ms-pa1316"></a> 
 msgctxt "pi-tv-bu-vb-ss5:101.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -2093,7 +2093,7 @@ msgctxt "pi-tv-bu-vb-ss5:104.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="101"></a><a class="ms-pa" id="ms-pa1320"></a> 
+#. </p><p class="endsection"><a class="sc" id="101"></a><a class="ms-pa" id="ms-pa1320"></a> 
 msgctxt "pi-tv-bu-vb-ss5:105.1"
 msgid "Mātu­rak­khi­tā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on the one guarded by her mother is finished."
@@ -2206,7 +2206,7 @@ msgctxt "pi-tv-bu-vb-ss5:107.13"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="104"></a><a class="ms-pa" id="ms-pa1323"></a> 
+#. </p><p class="endsection"><a class="sc" id="104"></a><a class="ms-pa" id="ms-pa1323"></a> 
 msgctxt "pi-tv-bu-vb-ss5:108.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -2254,7 +2254,7 @@ msgctxt "pi-tv-bu-vb-ss5:110.5"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="107"></a><a class="ms-pa" id="ms-pa1326"></a> 
+#. </p><p class="endsection"><a class="sc" id="107"></a><a class="ms-pa" id="ms-pa1326"></a> 
 msgctxt "pi-tv-bu-vb-ss5:111.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -2284,7 +2284,7 @@ msgctxt "pi-tv-bu-vb-ss5:112.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="109"></a><a class="ms-pa" id="ms-pa1328"></a> 
+#. </p><p class="endsection"><a class="sc" id="109"></a><a class="ms-pa" id="ms-pa1328"></a> 
 msgctxt "pi-tv-bu-vb-ss5:113.1"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -2314,7 +2314,7 @@ msgctxt "pi-tv-bu-vb-ss5:114.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="111"></a><a class="ms-pa" id="ms-pa1330"></a> 
+#. </p><p class="endsection"><a class="sc" id="111"></a><a class="ms-pa" id="ms-pa1330"></a> 
 msgctxt "pi-tv-bu-vb-ss5:115.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -2356,7 +2356,7 @@ msgctxt "pi-tv-bu-vb-ss5:118.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="115"></a><a class="ms-pa" id="ms-pa1334"></a> 
+#. </p><p class="endsection"><a class="sc" id="115"></a><a class="ms-pa" id="ms-pa1334"></a> 
 msgctxt "pi-tv-bu-vb-ss5:119.1"
 msgid "Sapari­daṇḍā­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series for the one protected by the threat of punishment is finished."
@@ -2417,7 +2417,7 @@ msgctxt "pi-tv-bu-vb-ss5:122.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="119"></a><a class="ms-pa" id="ms-pa1338"></a> 
+#. </p><p class="endsection"><a class="sc" id="119"></a><a class="ms-pa" id="ms-pa1338"></a> 
 msgctxt "pi-tv-bu-vb-ss5:123.1"
 msgid "Evaṃ ubhato­vaḍḍha­kaṃ kātabbaṃ."
 msgstr "In this way the increase of both items is to be done."
@@ -2439,7 +2439,7 @@ msgctxt "pi-tv-bu-vb-ss5:124.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="121"></a><a class="ms-pa" id="ms-pa1340"></a> 
+#. </p><p class="endsection"><a class="sc" id="121"></a><a class="ms-pa" id="ms-pa1340"></a> 
 msgctxt "pi-tv-bu-vb-ss5:125.1"
 msgid "Ubhato­vaḍḍha­kaṃ niṭṭhitaṃ."
 msgstr "The increase of both items is finished."
@@ -2482,7 +2482,7 @@ msgctxt "pi-tv-bu-vb-ss5:126.9"
 msgid "purisassa sahadhammikā bhikkhuṃ pahiṇanti … pe …."
 msgstr "a man’s fellow believers send a monk …"
 
-#. </p><p class="endsutta"><a class="sc" id="123"></a><a class="ms-pa" id="ms-pa1342"></a> 
+#. </p><p class="endsection"><a class="sc" id="123"></a><a class="ms-pa" id="ms-pa1342"></a> 
 msgctxt "pi-tv-bu-vb-ss5:127.1"
 msgid "Purisassa peyyālo vitthāretabbo."
 msgstr "To be expanded as the successive series on a man."
@@ -2563,7 +2563,7 @@ msgctxt "pi-tv-bu-vb-ss5:130.12"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="127"></a><a class="ms-pa" id="ms-pa1346"></a> 
+#. </p><p class="endsection"><a class="sc" id="127"></a><a class="ms-pa" id="ms-pa1346"></a> 
 msgctxt "pi-tv-bu-vb-ss5:131.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -2598,7 +2598,7 @@ msgctxt "pi-tv-bu-vb-ss5:132.7"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="129"></a><a class="ms-pa" id="ms-pa1348"></a> 
+#. </p><p class="endsection"><a class="sc" id="129"></a><a class="ms-pa" id="ms-pa1348"></a> 
 msgctxt "pi-tv-bu-vb-ss5:133.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -2628,7 +2628,7 @@ msgctxt "pi-tv-bu-vb-ss5:134.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="131"></a><a class="ms-pa" id="ms-pa1350"></a> 
+#. </p><p class="endsection"><a class="sc" id="131"></a><a class="ms-pa" id="ms-pa1350"></a> 
 msgctxt "pi-tv-bu-vb-ss5:135.1"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -2658,7 +2658,7 @@ msgctxt "pi-tv-bu-vb-ss5:136.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="133"></a><a class="ms-pa" id="ms-pa1352"></a> 
+#. </p><p class="endsection"><a class="sc" id="133"></a><a class="ms-pa" id="ms-pa1352"></a> 
 msgctxt "pi-tv-bu-vb-ss5:137.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -2700,7 +2700,7 @@ msgctxt "pi-tv-bu-vb-ss5:140.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="137"></a><a class="ms-pa" id="ms-pa1356"></a> 
+#. </p><p class="endsection"><a class="sc" id="137"></a><a class="ms-pa" id="ms-pa1356"></a> 
 msgctxt "pi-tv-bu-vb-ss5:141.1"
 msgid "Mātucakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on the mother is finished."
@@ -2813,7 +2813,7 @@ msgctxt "pi-tv-bu-vb-ss5:143.13"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="140"></a><a class="ms-pa" id="ms-pa1359"></a> 
+#. </p><p class="endsection"><a class="sc" id="140"></a><a class="ms-pa" id="ms-pa1359"></a> 
 msgctxt "pi-tv-bu-vb-ss5:144.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -2848,7 +2848,7 @@ msgctxt "pi-tv-bu-vb-ss5:145.7"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="142"></a><a class="ms-pa" id="ms-pa1361"></a> 
+#. </p><p class="endsection"><a class="sc" id="142"></a><a class="ms-pa" id="ms-pa1361"></a> 
 msgctxt "pi-tv-bu-vb-ss5:146.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -2878,7 +2878,7 @@ msgctxt "pi-tv-bu-vb-ss5:147.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="144"></a><a class="ms-pa" id="ms-pa1363"></a> 
+#. </p><p class="endsection"><a class="sc" id="144"></a><a class="ms-pa" id="ms-pa1363"></a> 
 msgctxt "pi-tv-bu-vb-ss5:148.1"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -2908,7 +2908,7 @@ msgctxt "pi-tv-bu-vb-ss5:149.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="146"></a><a class="ms-pa" id="ms-pa1365"></a> 
+#. </p><p class="endsection"><a class="sc" id="146"></a><a class="ms-pa" id="ms-pa1365"></a> 
 msgctxt "pi-tv-bu-vb-ss5:150.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -2950,7 +2950,7 @@ msgctxt "pi-tv-bu-vb-ss5:153.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="150"></a><a class="ms-pa" id="ms-pa1369"></a> 
+#. </p><p class="endsection"><a class="sc" id="150"></a><a class="ms-pa" id="ms-pa1369"></a> 
 msgctxt "pi-tv-bu-vb-ss5:154.1"
 msgid "Daṇḍa­ṭhapi­ta­cakkaṃ niṭṭhitaṃ."
 msgstr "The permutation series on the one who punishes is finished."
@@ -3026,7 +3026,7 @@ msgctxt "pi-tv-bu-vb-ss5:156.12"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="153"></a><a class="ms-pa" id="ms-pa1372"></a> 
+#. </p><p class="endsection"><a class="sc" id="153"></a><a class="ms-pa" id="ms-pa1372"></a> 
 msgctxt "pi-tv-bu-vb-ss5:157.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -3078,7 +3078,7 @@ msgctxt "pi-tv-bu-vb-ss5:159.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="156"></a><a class="ms-pa" id="ms-pa1375"></a> 
+#. </p><p class="endsection"><a class="sc" id="156"></a><a class="ms-pa" id="ms-pa1375"></a> 
 msgctxt "pi-tv-bu-vb-ss5:160.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -3108,7 +3108,7 @@ msgctxt "pi-tv-bu-vb-ss5:161.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="158"></a><a class="ms-pa" id="ms-pa1377"></a> 
+#. </p><p class="endsection"><a class="sc" id="158"></a><a class="ms-pa" id="ms-pa1377"></a> 
 msgctxt "pi-tv-bu-vb-ss5:162.1"
 msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -3138,7 +3138,7 @@ msgctxt "pi-tv-bu-vb-ss5:163.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="160"></a><a class="ms-pa" id="ms-pa1379"></a> 
+#. </p><p class="endsection"><a class="sc" id="160"></a><a class="ms-pa" id="ms-pa1379"></a> 
 msgctxt "pi-tv-bu-vb-ss5:164.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -3180,7 +3180,7 @@ msgctxt "pi-tv-bu-vb-ss5:167.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="164"></a><a class="ms-pa" id="ms-pa1383"></a> 
+#. </p><p class="endsection"><a class="sc" id="164"></a><a class="ms-pa" id="ms-pa1383"></a> 
 msgctxt "pi-tv-bu-vb-ss5:168.1"
 msgid "Aparaṃ mātu­rak­khi­tā­cakkaṃ niṭṭhitaṃ."
 msgstr "The further permutation series on the one guarded by her mother is finished."
@@ -3293,7 +3293,7 @@ msgctxt "pi-tv-bu-vb-ss5:170.13"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="167"></a><a class="ms-pa" id="ms-pa1386"></a> 
+#. </p><p class="endsection"><a class="sc" id="167"></a><a class="ms-pa" id="ms-pa1386"></a> 
 msgctxt "pi-tv-bu-vb-ss5:171.1"
 msgid "Nikkhepapadāni."
 msgstr "The setting out of the steps."
@@ -3324,7 +3324,7 @@ msgctxt "pi-tv-bu-vb-ss5:172.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="169"></a><a class="ms-pa" id="ms-pa1388"></a> 
+#. </p><p class="endsection"><a class="sc" id="169"></a><a class="ms-pa" id="ms-pa1388"></a> 
 msgctxt "pi-tv-bu-vb-ss5:173.1"
 msgid "Khaṇḍacakkaṃ."
 msgstr "The unconnected permutation series."
@@ -3354,7 +3354,7 @@ msgctxt "pi-tv-bu-vb-ss5:174.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="171"></a><a class="ms-pa" id="ms-pa1390"></a> 
+#. </p><p class="endsection"><a class="sc" id="171"></a><a class="ms-pa" id="ms-pa1390"></a> 
 msgctxt "pi-tv-bu-vb-ss5:175.1"
 msgid "Baddhacakkaṃ, mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
@@ -3384,7 +3384,7 @@ msgctxt "pi-tv-bu-vb-ss5:176.6"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="173"></a><a class="ms-pa" id="ms-pa1392"></a> 
+#. </p><p class="endsection"><a class="sc" id="173"></a><a class="ms-pa" id="ms-pa1392"></a> 
 msgctxt "pi-tv-bu-vb-ss5:177.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -3426,7 +3426,7 @@ msgctxt "pi-tv-bu-vb-ss5:180.4"
 msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
-#. </p><p class="endsutta"><a class="sc" id="177"></a><a class="ms-pa" id="ms-pa1396"></a> 
+#. </p><p class="endsection"><a class="sc" id="177"></a><a class="ms-pa" id="ms-pa1396"></a> 
 msgctxt "pi-tv-bu-vb-ss5:181.1"
 msgid "Aparaṃ sapari­daṇḍā­cakkaṃ niṭṭhitaṃ."
 msgstr "The further permutation series on the one protected by the threat of punishment is finished."
@@ -3815,7 +3815,7 @@ msgctxt "pi-tv-bu-vb-ss5:202.5"
 msgid "(7)"
 msgstr ""
 
-#. </p><p class="endsutta"><a class="sc" id="197"></a><a class="ms-pa" id="ms-pa1416"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="197"></a><a class="ms-pa" id="ms-pa1416"></a> 
 msgctxt "pi-tv-bu-vb-ss5:203.1"
 msgid "Sañ­carit­ta­sikkhā­padaṃ niṭṭhitaṃ pañcamaṃ."
 msgstr "The fifth rule, the training rule on mediation, is finished."

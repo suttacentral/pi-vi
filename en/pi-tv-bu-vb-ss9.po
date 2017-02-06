@@ -1103,7 +1103,7 @@ msgctxt "pi-tv-bu-vb-ss9:44.13"
 msgid "evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
 msgstr "thus using an unrelated offense as a pretext, he commits an offense entailing suspension for each statement."
 
-#. </p><p class="endsutta"><a class="sc" id="41"></a><a class="ms-pa" id="ms-pa1666"></a> 
+#. </p><p class="endsection"><a class="sc" id="41"></a><a class="ms-pa" id="ms-pa1666"></a> 
 msgctxt "pi-tv-bu-vb-ss9:45.1"
 msgid "Ekekaṃ mūlaṃ kātuna cakkaṃ bandhitabbaṃ."
 msgstr "The permutation series is to be linked by doing the items one by one."
@@ -1275,7 +1275,7 @@ msgctxt "pi-tv-bu-vb-ss9:50.5"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa1672"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa1672"></a> 
 msgctxt "pi-tv-bu-vb-ss9:51.1"
 msgid "(Aññabhāgiya) Kiñci­lesa­sikkhā­padaṃ niṭṭhitaṃ navamaṃ."
 msgstr "The ninth rule, the training rule on a (unrelated) pretext, is finished."

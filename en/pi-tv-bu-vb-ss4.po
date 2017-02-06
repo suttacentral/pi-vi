@@ -941,7 +941,7 @@ msgctxt "pi-tv-bu-vb-ss4:45.8"
 msgid "(7)"
 msgstr ""
 
-#. </p><p class="endsutta"><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1219"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1219"></a> 
 msgctxt "pi-tv-bu-vb-ss4:46.1"
 msgid "Attakā­ma­pāri­cari­ya­sikkhā­padaṃ niṭṭhitaṃ catutthaṃ."
 msgstr "The fourth rule, the training rule on fulfilling one’s own desires, is finished."

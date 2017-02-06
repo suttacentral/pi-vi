@@ -796,7 +796,7 @@ msgctxt "pi-tv-bu-vb-ss2:47.7"
 msgid "gaṇhāti chupati, āpatti dukkaṭassa."
 msgstr "takes hold of it, contacts it, he commits an offense of wrong conduct."
 
-#. </p><p class="endsutta"><a class="sc" id="44"></a><a class="ms-pa" id="ms-pa1036"></a> 
+#. </p><p class="endsection"><a class="sc" id="44"></a><a class="ms-pa" id="ms-pa1036"></a> 
 msgctxt "pi-tv-bu-vb-ss2:48.1"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
 msgstr "The section on one root item is finished."
@@ -1228,7 +1228,7 @@ msgctxt "pi-tv-bu-vb-ss2:72.6"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct."
 
-#. </p><p class="endsutta"><a class="sc" id="69"></a><a class="ms-pa" id="ms-pa1061"></a> 
+#. </p><p class="endsection"><a class="sc" id="69"></a><a class="ms-pa" id="ms-pa1061"></a> 
 msgctxt "pi-tv-bu-vb-ss2:73.1"
 msgid "Dumūlakaṃ niṭṭhitaṃ."
 msgstr "The section on two root items is finished."
@@ -1446,7 +1446,8 @@ msgstr "It is a woman and a sexual non-conformist, but he perceives both as wome
 msgctxt "pi-tv-bu-vb-ss2:91.2"
 msgid "Bhikkhu ca naṃ ubhinnaṃ nissaggiyena nissaggiyaṃ āmasati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "If the monk, with something released by him, makes physical contact with something released by both of them, he commits two offenses of wrong conduct. …"
-#. </p><p class="endsutta"><a class="sc" id="88"></a><a class="ms-pa" id="ms-pa1080"></a> 
+
+#. </p><p class="endsection"><a class="sc" id="88"></a><a class="ms-pa" id="ms-pa1080"></a> 
 msgctxt "pi-tv-bu-vb-ss2:92.1"
 msgid "Bhikkhupeyyālo niṭṭhito."
 msgstr "The successive series on a monk is finished."
@@ -2285,7 +2286,7 @@ msgctxt "pi-tv-bu-vb-ss2:145.5"
 msgid "(20)"
 msgstr ""
 
-#. </p><p class="endsutta"><a class="sc" id="140"></a><a class="ms-pa" id="ms-pa1132"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="140"></a><a class="ms-pa" id="ms-pa1132"></a> 
 msgctxt "pi-tv-bu-vb-ss2:146.1"
 msgid "­Kāyasaṃ­sagga­sikkhā­padaṃ niṭṭhitaṃ dutiyaṃ."
 msgstr "The second rule, the training rule on physical contact, is finished."

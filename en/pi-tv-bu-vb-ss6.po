@@ -2692,7 +2692,7 @@ msgctxt "pi-tv-bu-vb-ss6:98.9"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="95"></a><a class="ms-pa" id="ms-pa1511"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="95"></a><a class="ms-pa" id="ms-pa1511"></a> 
 msgctxt "pi-tv-bu-vb-ss6:99.1"
 msgid "Kuṭikā­ra­sikkhā­padaṃ niṭṭhitaṃ chaṭṭhaṃ."
 msgstr "The sixth rule, the training rule on building huts, is finished."

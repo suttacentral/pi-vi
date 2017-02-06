@@ -611,7 +611,7 @@ msgctxt "pi-tv-bu-vb-ss11:28.8"
 msgid "ādi­kammi­kā­nanti."
 msgstr "if they are the first offenders."
 
-#. </p><p class="endsutta"><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1728"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1728"></a> 
 msgctxt "pi-tv-bu-vb-ss11:29.1"
 msgid "Bhedā­nu­vatta­ka­sikkhā­padaṃ niṭṭhitaṃ ekādasamaṃ."
 msgstr "The eleventh rule, the training rule on supporting a schism, is finished."

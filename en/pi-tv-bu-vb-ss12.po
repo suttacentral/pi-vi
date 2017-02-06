@@ -575,7 +575,7 @@ msgctxt "pi-tv-bu-vb-ss12:27.6"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1752"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1752"></a> 
 msgctxt "pi-tv-bu-vb-ss12:28.1"
 msgid "Dubba­ca­sikkhā­padaṃ niṭṭhitaṃ dvādasamaṃ."
 msgstr "The twelfth rule, training rule on being difficult to correct, is finished."

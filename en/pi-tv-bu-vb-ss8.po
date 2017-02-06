@@ -1905,7 +1905,7 @@ msgctxt "pi-tv-bu-vb-ss8:73.6"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa1625"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa1625"></a> 
 msgctxt "pi-tv-bu-vb-ss8:74.1"
 msgid "Amūla­ka­sikkhā­padaṃ niṭṭhitaṃ aṭṭhamaṃ."
 msgstr "The eighth rule, the training rule on groundless, is finished."

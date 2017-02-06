@@ -818,7 +818,7 @@ msgctxt "pi-tv-bu-vb-ss10:34.8"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1703"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1703"></a> 
 msgctxt "pi-tv-bu-vb-ss10:35.1"
 msgid "Saṃ­gha­bhe­da­sikkhā­padaṃ niṭṭhitaṃ dasamaṃ."
 msgstr "The tenth rule, the training rule on schism in the monastic Order, is finished."

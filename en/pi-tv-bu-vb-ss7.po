@@ -1094,7 +1094,7 @@ msgctxt "pi-tv-bu-vb-ss7:47.7"
 msgid "ādi­kammi­kas­sāti."
 msgstr "if he is the first offender."
 
-#. </p><p class="endsutta"><a class="sc" id="44"></a><a class="ms-pa" id="ms-pa1555"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="44"></a><a class="ms-pa" id="ms-pa1555"></a> 
 msgctxt "pi-tv-bu-vb-ss7:48.1"
 msgid "Vihāra­kāra­sikkhā­padaṃ niṭṭhitaṃ sattamaṃ."
 msgstr "The seventh rule, the training rule on building dwellings, is finished."

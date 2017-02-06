@@ -1315,7 +1315,7 @@ msgctxt "pi-tv-bu-vb-ss13:48.15"
 msgid "evametaṃ dhārayāmī”ti."
 msgstr "I will remember it thus.”"
 
-#. </p><p class="endsutta"><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa1797"></a> 
+#. </p><hr><p class="endsutta"><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa1797"></a> 
 msgctxt "pi-tv-bu-vb-ss13:49.1"
 msgid "Terasakaṃ niṭṭhitaṃ."
 msgstr "The group of thirteen is finished."
