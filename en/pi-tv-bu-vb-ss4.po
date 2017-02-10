@@ -574,7 +574,7 @@ msgstr "It is a man …"
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:32.2"
 msgid ""
-msgstr "This section on “It is a man” is to be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2/57-58\">Saṅghādisesa 2, paragraphs 40–41</a>. …"
+msgstr "This section on “It is a man” is to be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2#40\">Saṅghādisesa 2, paragraphs 40–41</a>. …"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-ss4:32.3"
@@ -614,7 +614,7 @@ msgstr "If the monk encourages both women to satisfy his own needs, he commits t
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:33.3"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2/63-74\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
+msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2#45\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1209"></a> 
@@ -629,7 +629,7 @@ msgstr "If the monk encourages both of them to satisfy his own needs, he commits
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss4:34.3"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2/75-95\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
+msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2#54\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
 
 #. </span>
 #. </p><h2>

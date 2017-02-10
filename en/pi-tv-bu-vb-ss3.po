@@ -534,7 +534,7 @@ msgstr "If the monk, referring to one of the two private orifices of the woman, 
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss3:27.4"
 msgid "pe …."
-msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2/45-62\">Saṅghādisesa 2, paragraphs 30–44</a>. …"
+msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2#30\">Saṅghādisesa 2, paragraphs 30–44</a>. …"
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1156"></a> 
@@ -553,7 +553,7 @@ msgstr "abuses, he commits two offenses entailing suspension. …"
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss3:28.4"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2/63-74\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
+msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2#45\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1157"></a> 
@@ -572,7 +572,7 @@ msgstr "abuses, he commits one offense entailing suspension and one offense of w
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-ss3:29.4"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2/75-95\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
+msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-ss2#54\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
 
 #. </span>
 #. </p><hr><p><a class="sc" id="26"></a><a class="pts-cs" id="bu-ss.3.3.3"></a><a class="ms-pa" id="ms-pa1158"></a><a class="pts-vp-pi" id="pts-vp-pi3.130"></a> 

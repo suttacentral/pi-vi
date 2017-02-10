@@ -450,7 +450,7 @@ msgstr "“And, monks, it should be relinquished in this way. …"
 #. <span class="add"> 
 msgctxt "pi-tv-bu-vb-np8:27.7"
 msgid "pe …"
-msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-np1/23-29\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
+msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-np8:27.8"
