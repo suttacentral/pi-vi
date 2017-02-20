@@ -33,43 +33,45 @@ msgid "Duṭṭha­dosa­sikkhā­pada"
 msgstr "8. The training rule on anger"
 
 #. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-ss8:5.1"
+msgid ""
 msgstr "Origin story"
 
 #. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.158"></a><a class="pts-vp-en" id="bd.1.271"></a><a class="pts-cs-empty" id="bu-ss.8.1"></a><a class="pts-cs" id="bu-ss.8.1.1"></a><a class="ms-pa" id="ms-pa1556"></a> 
-msgctxt "pi-tv-bu-vb-ss8:5.1"
+msgctxt "pi-tv-bu-vb-ss8:5.2"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
 
-msgctxt "pi-tv-bu-vb-ss8:5.2"
+msgctxt "pi-tv-bu-vb-ss8:5.3"
 msgid "Tena kho pana samayena āyasmatā dabbena mallaputtena jātiyā sattavassena arahattaṃ sacchikataṃ hoti."
 msgstr "At that time Venerable Dabba the Mallian had realized perfection at the age of seven."
 
-msgctxt "pi-tv-bu-vb-ss8:5.3"
+msgctxt "pi-tv-bu-vb-ss8:5.4"
 msgid "Yaṃ kiñci sāvakena pattabbaṃ sabbaṃ tena anuppattaṃ hoti."
 msgstr "He had realized all there is to be realized by a disciple"
 
-msgctxt "pi-tv-bu-vb-ss8:5.4"
+msgctxt "pi-tv-bu-vb-ss8:5.5"
 msgid "Natthi cassa kiñci uttari karaṇīyaṃ, katassa vā paticayo."
 msgstr "and had nothing further to do."
 
 #. <a class="pts-vp-en" id="bd.1.272"></a> 
-msgctxt "pi-tv-bu-vb-ss8:5.5"
+msgctxt "pi-tv-bu-vb-ss8:5.6"
 msgid "Atha kho āyasmato dabbassa mallaputtassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi—"
 msgstr "While he was in seclusion he reflected on this, and he thought,"
 
-msgctxt "pi-tv-bu-vb-ss8:5.6"
+msgctxt "pi-tv-bu-vb-ss8:5.7"
 msgid "“mayā kho jātiyā sattavassena arahattaṃ sacchikataṃ."
 msgstr "“How may I be of service to the Order?"
 
-msgctxt "pi-tv-bu-vb-ss8:5.7"
+msgctxt "pi-tv-bu-vb-ss8:5.8"
 msgid "Yaṃ kiñci sāvakena pattabbaṃ sabbaṃ mayā anuppattaṃ."
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-ss8:5.8"
+msgctxt "pi-tv-bu-vb-ss8:5.9"
 msgid "Natthi ca me kiñci uttari karaṇīyaṃ, katassa vā paticayo."
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-ss8:5.9"
+msgctxt "pi-tv-bu-vb-ss8:5.10"
 msgid "Kiṃ nu kho ahaṃ saṃghassa veyyāvaccaṃ kareyyan”ti?"
 msgstr ""
 

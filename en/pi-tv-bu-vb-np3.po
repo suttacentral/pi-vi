@@ -30,6 +30,10 @@ msgstr "The chapter on relinquishment"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-np3:4.1"
 msgid "Cīvaravagga"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-np3:4.2"
+msgid ""
 msgstr "Monks’ Relinquishment"
 
 #. </p><h1>

@@ -30,6 +30,10 @@ msgstr "The chapter on relinquishment"
 #. </p><p>
 msgctxt "pi-tv-bu-vb-np4:4.1"
 msgid "Cīvaravagga"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-np4:4.2"
+msgid ""
 msgstr "Monks’ Relinquishment"
 
 #. </p><h1>
@@ -203,7 +207,7 @@ msgstr "Final ruling"
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-np4:9.2"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyan”ti."
-msgstr "‘If a monk gets an unrelated nun to wash, dye, or beat a used robe, he commits and offense entailing relinquishment and confession.’”"
+msgstr "‘If a monk gets an unrelated nun to wash, dye, or beat a used robe, he commits an offense entailing relinquishment and confession.’”"
 
 #. </strong> 
 msgctxt "pi-tv-bu-vb-np4:9.3"
@@ -288,7 +292,7 @@ msgstr "If he tells her to dye it, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np4:14.4"
 msgid "Rattaṃ nissaggiyaṃ hoti."
-msgstr "When it has been died, it becomes subject to relinquishment."
+msgstr "When it has been dyed, it becomes subject to relinquishment."
 
 msgctxt "pi-tv-bu-vb-np4:14.5"
 msgid "Ākoṭehīti āṇāpeti, āpatti dukkaṭassa."
