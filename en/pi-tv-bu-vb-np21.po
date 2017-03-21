@@ -340,33 +340,29 @@ msgctxt "pi-tv-bu-vb-np21:17.4"
 msgid "Evañca pana, bhikkhave, nissajjitabbo."
 msgstr "“And, monks, it should be relinquished in this way."
 
-msgctxt "pi-tv-bu-vb-np21:17.5"
-msgid "Tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā"
-msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks."
-
 #. <a class="pts-vp-en" id="bd.2.116"></a> 
-msgctxt "pi-tv-bu-vb-np21:17.6"
-msgid "ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "He should then squat on his heels, put the palms of his hands together, and say,"
+msgctxt "pi-tv-bu-vb-np21:17.5"
+msgid "Tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
-msgctxt "pi-tv-bu-vb-np21:17.7"
+msgctxt "pi-tv-bu-vb-np21:17.6"
 msgid "“ayaṃ me, bhante, patto dasāhātikkanto nissaggiyo."
 msgstr "‘Venerables, this bowl that I have kept over ten days is to be relinquished."
 
-msgctxt "pi-tv-bu-vb-np21:17.8"
+msgctxt "pi-tv-bu-vb-np21:17.7"
 msgid "Imāhaṃ saṃghassa nissajjāmī”ti."
 msgstr "I relinquish it to the Order.’"
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-np21:17.9"
+msgctxt "pi-tv-bu-vb-np21:17.8"
 msgid "Nissajjitvā āpatti desetabbā."
 msgstr "After relinquishing it, he should acknowledge the offense."
 
-msgctxt "pi-tv-bu-vb-np21:17.10"
+msgctxt "pi-tv-bu-vb-np21:17.9"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā,"
 msgstr "The acknowledgment should be received by a competent and capable monk."
 
-msgctxt "pi-tv-bu-vb-np21:17.11"
+msgctxt "pi-tv-bu-vb-np21:17.10"
 msgid "nissaṭṭhapatto dātabbo—"
 msgstr "The relinquished bowl is then to be given back:"
 
@@ -385,31 +381,27 @@ msgstr "If it seems appropriate to the Order, the Order should give this bowl ba
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2265"></a><span class="kamma"> 
 msgctxt "pi-tv-bu-vb-np21:19.1"
-msgid "Tena bhikkhunā sambahule bhikkhū upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā"
-msgstr "After approaching several monks, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks."
+msgid "Tena bhikkhunā sambahule bhikkhū upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā tukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassu vacanīyā—"
+msgstr "After approaching several monks, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
 msgctxt "pi-tv-bu-vb-np21:19.2"
-msgid "Tukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassu vacanīyā—"
-msgstr "He should then squat on his heels, put the palms of his hands together, and say,"
-
-msgctxt "pi-tv-bu-vb-np21:19.3"
 msgid "“ayaṃ me, bhante, patto dasāhātikkanto nissaggiyo."
 msgstr "‘Venerables, this bowl that I have kept over ten days is to be relinquished."
 
-msgctxt "pi-tv-bu-vb-np21:19.4"
+msgctxt "pi-tv-bu-vb-np21:19.3"
 msgid "Imāhaṃ āyasmantānaṃ nissajjāmī”ti."
 msgstr "I relinquish it to the venerables.’"
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-np21:19.5"
+msgctxt "pi-tv-bu-vb-np21:19.4"
 msgid "Nissajjitvā āpatti desetabbā."
 msgstr "After relinquishing it, he should acknowledge the offense."
 
-msgctxt "pi-tv-bu-vb-np21:19.6"
+msgctxt "pi-tv-bu-vb-np21:19.5"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā,"
 msgstr "The acknowledgment should be received by a competent and capable monk."
 
-msgctxt "pi-tv-bu-vb-np21:19.7"
+msgctxt "pi-tv-bu-vb-np21:19.6"
 msgid "nissaṭṭhapatto dātabbo—"
 msgstr "The relinquished bowl is then to be given back:"
 

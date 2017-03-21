@@ -361,18 +361,14 @@ msgstr "There is no offense:"
 
 #. <a class="pts-vp-en" id="bd.2.163"></a> 
 msgctxt "pi-tv-bu-vb-np30:17.3"
-msgid "kattha demāti pucchiyamāno"
-msgstr "if being asked, “Where may we give?”"
+msgid "kattha demāti pucchiyamāno yattha tumhākaṃ deyyadhammo paribhogaṃ vā labheyya paṭisaṅkhāraṃ vā labheyya ciraṭṭhitiko vā assa yattha vā pana tumhākaṃ cittaṃ pasīdati tattha dethāti bhaṇati,"
+msgstr "if being asked, “Where may we give?” he says, “Give where your gift goes towards equipment/where it goes towards repairs/where it will last for a long time/where you feel inspired;”"
 
 msgctxt "pi-tv-bu-vb-np30:17.4"
-msgid "yattha tumhākaṃ deyyadhammo paribhogaṃ vā labheyya paṭisaṅkhāraṃ vā labheyya ciraṭṭhitiko vā assa yattha vā pana tumhākaṃ cittaṃ pasīdati tattha dethāti bhaṇati,"
-msgstr "he says, “Give where your gift goes towards equipment/where it goes towards repairs/where it will last for a long time/where you feel inspired;”"
-
-msgctxt "pi-tv-bu-vb-np30:17.5"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pi-tv-bu-vb-np30:17.6"
+msgctxt "pi-tv-bu-vb-np30:17.5"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 

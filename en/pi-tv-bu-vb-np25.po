@@ -300,22 +300,18 @@ msgstr "To be expanded as in <a href=\"/en/pi-tv-bu-vb-np1#13\">Relinquishment 1
 
 #. </span><a class="pts-vp-en" id="bd.2.141"></a> 
 msgctxt "pi-tv-bu-vb-np25:15.7"
-msgid "“idaṃ me, bhante, cīvaraṃ bhikkhussa sāmaṃ datvā acchinnaṃ nissaggiyaṃ"
-msgstr "‘Venerables, this robe(-cloth) which I took back after giving it to a monk is to be relinquished."
+msgid "“idaṃ me, bhante, cīvaraṃ bhikkhussa sāmaṃ datvā acchinnaṃ nissaggiyaṃ imāhaṃ saṃghassa nissajjāmī”ti … pe …"
+msgstr "‘Venerables, this robe(-cloth) which I took back after giving it to a monk is to be relinquished. I relinquish it to the Order.’ …"
 
 msgctxt "pi-tv-bu-vb-np25:15.8"
-msgid "imāhaṃ saṃghassa nissajjāmī”ti … pe …"
-msgstr "I relinquish it to the Order.’ …"
-
-msgctxt "pi-tv-bu-vb-np25:15.9"
 msgid "dadeyyāti … pe …"
 msgstr "the Order should give …"
 
-msgctxt "pi-tv-bu-vb-np25:15.10"
+msgctxt "pi-tv-bu-vb-np25:15.9"
 msgid "dadeyyunti … pe …"
 msgstr "you should give …"
 
-msgctxt "pi-tv-bu-vb-np25:15.11"
+msgctxt "pi-tv-bu-vb-np25:15.10"
 msgid "āyasmato dammīti."
 msgstr "‘I give this robe(-cloth) back to you.’”"
 

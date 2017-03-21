@@ -319,107 +319,103 @@ msgid "Evañca pana, bhikkhave, nissajjitabbaṃ—"
 msgstr "“And, monks, it should be relinquished in this way."
 
 msgctxt "pi-tv-bu-vb-np18:16.5"
-msgid "tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā"
-msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks."
+msgid "tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
 msgctxt "pi-tv-bu-vb-np18:16.6"
-msgid "ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "He should then squat on his heels, put the palms of his hands together, and say,"
-
-msgctxt "pi-tv-bu-vb-np18:16.7"
 msgid "“ahaṃ, bhante, rūpiyaṃ paṭiggahesiṃ."
 msgstr "‘Venerables, I have received money."
 
-msgctxt "pi-tv-bu-vb-np18:16.8"
+msgctxt "pi-tv-bu-vb-np18:16.7"
 msgid "Idaṃ me nissaggiyaṃ."
 msgstr "It is to be relinquished."
 
-msgctxt "pi-tv-bu-vb-np18:16.9"
+msgctxt "pi-tv-bu-vb-np18:16.8"
 msgid "Imāhaṃ saṃghassa nissajjāmī”ti."
 msgstr "I relinquish it to the Order.’"
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-np18:16.10"
+msgctxt "pi-tv-bu-vb-np18:16.9"
 msgid "Nissajjitvā āpatti desetabbā."
 msgstr "” After relinquishing it, he is to acknowledge the offense."
 
-msgctxt "pi-tv-bu-vb-np18:16.11"
+msgctxt "pi-tv-bu-vb-np18:16.10"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
 msgstr "The acknowledgment should be received by a competent and capable monk."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np18:16.12"
+msgctxt "pi-tv-bu-vb-np18:16.11"
 msgid "Sace tattha āgacchati ārāmiko vā upāsako vā so vattabbo—"
 msgstr "If a monastery attendant or a lay follower is available, you should tell him,"
 
-msgctxt "pi-tv-bu-vb-np18:16.13"
+msgctxt "pi-tv-bu-vb-np18:16.12"
 msgid "“āvuso, imaṃ jānāhī”ti."
 msgstr "“Look into this.”"
 
-msgctxt "pi-tv-bu-vb-np18:16.14"
+msgctxt "pi-tv-bu-vb-np18:16.13"
 msgid "Sace so bhaṇati—"
 msgstr "If he says,"
 
-msgctxt "pi-tv-bu-vb-np18:16.15"
+msgctxt "pi-tv-bu-vb-np18:16.14"
 msgid "“iminā kiṃ āhariyyatū”ti,"
 msgstr "“What can I get you with this?”,"
 
-msgctxt "pi-tv-bu-vb-np18:16.16"
+msgctxt "pi-tv-bu-vb-np18:16.15"
 msgid "na vattabbo—"
 msgstr "you should not say,"
 
-msgctxt "pi-tv-bu-vb-np18:16.17"
+msgctxt "pi-tv-bu-vb-np18:16.16"
 msgid "“imaṃ vā imaṃ vā āharā”ti."
 msgstr "“Get this or that;”"
 
-msgctxt "pi-tv-bu-vb-np18:16.18"
+msgctxt "pi-tv-bu-vb-np18:16.17"
 msgid "Kappiyaṃ ācikkhitabbaṃ—"
 msgstr "you should point out what is allowable:"
 
-msgctxt "pi-tv-bu-vb-np18:16.19"
+msgctxt "pi-tv-bu-vb-np18:16.18"
 msgid "sappi vā telaṃ vā madhu vā phāṇitaṃ vā."
 msgstr "ghee, oil, honey, or sugar."
 
-msgctxt "pi-tv-bu-vb-np18:16.20"
+msgctxt "pi-tv-bu-vb-np18:16.19"
 msgid "Sace so tena parivattetvā kappiyaṃ āharati rūpiyappaṭiggāhakaṃ ṭhapetvā sabbeheva paribhuñjitabbaṃ."
 msgstr "If he makes a purchase and brings back what is allowable, everyone may enjoy it except the one who received the money."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np18:16.21"
+msgctxt "pi-tv-bu-vb-np18:16.20"
 msgid "Evañcetaṃ labhetha, iccetaṃ kusalaṃ;"
 msgstr "If this is what happens, that is good."
 
 #. <a class="pts-vp-en" id="bd.2.104"></a> 
-msgctxt "pi-tv-bu-vb-np18:16.22"
+msgctxt "pi-tv-bu-vb-np18:16.21"
 msgid "no ce labhetha, so vattabbo—"
 msgstr "If not, you should tell him,"
 
-msgctxt "pi-tv-bu-vb-np18:16.23"
+msgctxt "pi-tv-bu-vb-np18:16.22"
 msgid "“āvuso, imaṃ chaḍḍehī”ti."
 msgstr "“Discard this.”"
 
-msgctxt "pi-tv-bu-vb-np18:16.24"
+msgctxt "pi-tv-bu-vb-np18:16.23"
 msgid "Sace so chaḍḍeti, iccetaṃ kusalaṃ;"
 msgstr "If he discards it, that is good."
 
-msgctxt "pi-tv-bu-vb-np18:16.25"
+msgctxt "pi-tv-bu-vb-np18:16.24"
 msgid "no ce chaḍḍeti, pañcahaṅgehi samannāgato bhikkhu rūpiyachaḍḍako sammannitabbo—"
 msgstr "If he does not, a monk who has five qualities should be appointed as the money-discarder:"
 
-msgctxt "pi-tv-bu-vb-np18:16.26"
+msgctxt "pi-tv-bu-vb-np18:16.25"
 msgid "yo na chandāgatiṃ gaccheyya, na dosāgatiṃ gaccheyya, na mohāgatiṃ gaccheyya, na bhayāgatiṃ gaccheyya, chaḍḍitāchaḍḍitañca jāneyya."
 msgstr "one who is not swayed by desire, ill will, confusion, or fear, and who knows the meaning of discarding and not discarding."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np18:16.27"
+msgctxt "pi-tv-bu-vb-np18:16.26"
 msgid "“Evañca pana, bhikkhave, sammannitabbo."
 msgstr "“And, monks, this is how he should be appointed."
 
-msgctxt "pi-tv-bu-vb-np18:16.28"
+msgctxt "pi-tv-bu-vb-np18:16.27"
 msgid "Paṭhamaṃ bhikkhu yācitabbo."
 msgstr "First the monk should be asked"
 
-msgctxt "pi-tv-bu-vb-np18:16.29"
+msgctxt "pi-tv-bu-vb-np18:16.28"
 msgid "Yācitvā byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "and then a competent and capable monk should inform the Order:"
 

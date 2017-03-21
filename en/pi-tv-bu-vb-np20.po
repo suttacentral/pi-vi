@@ -129,60 +129,48 @@ msgstr "That robe of yours was better.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2239"></a> 
 msgctxt "pi-tv-bu-vb-np20:7.1"
-msgid "Atha kho so paribbājako—"
+msgid "Atha kho so paribbājako—“saccaṃ kho paribbājakā āhaṃsu—‘katihipi myāyaṃ saṅghāṭi bhavissati. Soyeva me paṭo varo’”ti"
 msgstr "The wanderer realized they were right,"
 
 msgctxt "pi-tv-bu-vb-np20:7.2"
-msgid "“saccaṃ kho paribbājakā āhaṃsu—‘"
-msgstr ""
-
-msgctxt "pi-tv-bu-vb-np20:7.3"
-msgid "katihipi myāyaṃ saṅghāṭi bhavissati."
-msgstr ""
-
-msgctxt "pi-tv-bu-vb-np20:7.4"
-msgid "Soyeva me paṭo varo’”ti"
-msgstr ""
-
-msgctxt "pi-tv-bu-vb-np20:7.5"
 msgid "yenāyasmā upanando sakyaputto tenupasaṅkami;"
 msgstr "and so he returned to Upananda"
 
-msgctxt "pi-tv-bu-vb-np20:7.6"
+msgctxt "pi-tv-bu-vb-np20:7.3"
 msgid "upasaṅkamitvā āyasmantaṃ upanandaṃ sakyaputtaṃ etadavoca—"
 msgstr "and said,"
 
-msgctxt "pi-tv-bu-vb-np20:7.7"
+msgctxt "pi-tv-bu-vb-np20:7.4"
 msgid "“handa te, āvuso, saṅghāṭi;"
 msgstr "“Here’s your outer robe;"
 
-msgctxt "pi-tv-bu-vb-np20:7.8"
+msgctxt "pi-tv-bu-vb-np20:7.5"
 msgid "dehi me paṭan”ti."
 msgstr "give me back my robe.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np20:7.9"
+msgctxt "pi-tv-bu-vb-np20:7.6"
 msgid "“Nanu tvaṃ, āvuso, mayā vutto—"
 msgstr "“But didn’t I ask you"
 
-msgctxt "pi-tv-bu-vb-np20:7.10"
+msgctxt "pi-tv-bu-vb-np20:7.7"
 msgid "‘jānāhi, āvuso’ti."
 msgstr "if you knew what you were doing?"
 
-msgctxt "pi-tv-bu-vb-np20:7.11"
+msgctxt "pi-tv-bu-vb-np20:7.8"
 msgid "Nāhaṃ dassāmī”ti."
 msgstr "I won’t give it back.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np20:7.12"
+msgctxt "pi-tv-bu-vb-np20:7.9"
 msgid "Atha kho so paribbājako ujjhāyati khiyyati vipāceti—"
 msgstr "Then that wanderer grumbled and complained,"
 
-msgctxt "pi-tv-bu-vb-np20:7.13"
+msgctxt "pi-tv-bu-vb-np20:7.10"
 msgid "“gihīpi naṃ gihissa vippaṭisārissa denti,"
 msgstr "“Even householders give things back to a householder who has regrets."
 
-msgctxt "pi-tv-bu-vb-np20:7.14"
+msgctxt "pi-tv-bu-vb-np20:7.11"
 msgid "kiṃ pana pabbajito pabbajitassa na dassatī”ti."
 msgstr "How then can an ascetic not give back to another ascetic?”"
 

@@ -157,47 +157,39 @@ msgstr "“Well then, I’ll provide you with a monastery worker.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-np23:7.12"
-msgid "Atha kho rājā māgadho seniyo bimbisāro āyasmato pilindavacchassa ārāmikaṃ paṭissuṇitvā vissaritvā"
-msgstr "But after promising a monastery worker to Pilindavaccha, he forgot about it."
+msgid "Atha kho rājā māgadho seniyo bimbisāro āyasmato pilindavacchassa ārāmikaṃ paṭissuṇitvā vissaritvā cirena satiṃ paṭilabhitvā aññataraṃ sabbatthakaṃ mahāmattaṃ āmantesi—"
+msgstr "But after promising a monastery worker to Pilindavaccha, he forgot about it. He only remembered after a long time. He then addressed the minister in charge of all practical affairs,"
 
 msgctxt "pi-tv-bu-vb-np23:7.13"
-msgid "cirena satiṃ paṭilabhitvā"
-msgstr "He only remembered after a long time."
-
-msgctxt "pi-tv-bu-vb-np23:7.14"
-msgid "aññataraṃ sabbatthakaṃ mahāmattaṃ āmantesi—"
-msgstr "He then addressed the minister in charge of all practical affairs,"
-
-msgctxt "pi-tv-bu-vb-np23:7.15"
 msgid "“yo mayā, bhaṇe, ayyassa ārāmiko paṭissuto, dinno so ārāmiko”ti?"
 msgstr "“Listen, has the monastery worker I promised been provided?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np23:7.16"
+msgctxt "pi-tv-bu-vb-np23:7.14"
 msgid "“Na kho, deva, ayyassa ārāmiko dinno”ti."
 msgstr "“No, sir, he hasn’t.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np23:7.17"
+msgctxt "pi-tv-bu-vb-np23:7.15"
 msgid "“Kīvaciraṃ nu kho, bhaṇe, ito hi taṃ hotī”ti?"
 msgstr "“How long is it since we made that promise?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np23:7.18"
+msgctxt "pi-tv-bu-vb-np23:7.16"
 msgid "Atha kho so mahāmatto rattiyo gaṇetvā rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ etadavoca—"
 msgstr "The minister counted the days and said,"
 
-msgctxt "pi-tv-bu-vb-np23:7.19"
+msgctxt "pi-tv-bu-vb-np23:7.17"
 msgid "“pañca, deva, rattisatānī”ti."
 msgstr "“It’s five hundred days, sir.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np23:7.20"
+msgctxt "pi-tv-bu-vb-np23:7.18"
 msgid "“Tena hi, bhaṇe, ayyassa pañca ārāmikasatāni dehī”ti."
 msgstr "“Well then, provide him with five hundred monastery workers.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np23:7.21"
+msgctxt "pi-tv-bu-vb-np23:7.19"
 msgid "“Evaṃ, devā”ti"
 msgstr "“Yes, sir.”"
 

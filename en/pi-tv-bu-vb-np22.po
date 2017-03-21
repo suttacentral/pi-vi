@@ -159,26 +159,18 @@ msgid "Tena kho pana samayena aññatarassa bhikkhuno patto bhinno hoti."
 msgstr "Soon afterwards the bowl of a certain monk broke."
 
 msgctxt "pi-tv-bu-vb-np22:9.2"
-msgid "Atha kho so bhikkhu—"
-msgstr "Knowing that"
+msgid "Atha kho so bhikkhu—“bhagavatā paṭikkhittaṃ pattaṃ viññāpetun”ti kukkuccāyanto na viññāpeti."
+msgstr "Knowing that the Buddha had prohibited asking for a bowl and being afraid of wrongdoing, he did not ask for a new one."
 
 msgctxt "pi-tv-bu-vb-np22:9.3"
-msgid "“bhagavatā paṭikkhittaṃ pattaṃ viññāpetun”ti"
-msgstr "the Buddha had prohibited asking for a bowl"
-
-msgctxt "pi-tv-bu-vb-np22:9.4"
-msgid "kukkuccāyanto na viññāpeti."
-msgstr "and being afraid of wrongdoing, he did not ask for a new one."
-
-msgctxt "pi-tv-bu-vb-np22:9.5"
 msgid "Hatthesu piṇḍāya carati."
 msgstr "As a consequence he collected almsfood with his hands."
 
-msgctxt "pi-tv-bu-vb-np22:9.6"
+msgctxt "pi-tv-bu-vb-np22:9.4"
 msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
 msgstr "People grumbled and complained,"
 
-msgctxt "pi-tv-bu-vb-np22:9.7"
+msgctxt "pi-tv-bu-vb-np22:9.5"
 msgid "“kathañhi nāma samaṇā sakyaputtiyā hatthesu piṇḍāya carissanti, seyyathāpi titthiyā”ti."
 msgstr "“How can the Sakyan ascetics collect almsfood with their hands, just like ascetics of other sects?”"
 
@@ -202,30 +194,26 @@ msgstr "“Monks, I allow you to ask for a new bowl if your bowl has been lost o
 
 #. </strong></p><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.22.1.3"></a><a class="wt-pa" id="2278"></a><a class="pts-vp-en" id="bd.2.120"></a> 
 msgctxt "pi-tv-bu-vb-np22:11.1"
-msgid "Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā anuññātaṃ naṭṭhapattassa vā bhinnapattassa vā pattaṃ viññāpetun”ti"
-msgstr "When they knew about the Master’s allowance, monks from the group of six"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā anuññātaṃ naṭṭhapattassa vā bhinnapattassa vā pattaṃ viññāpetun”ti appamattakenapi bhinnena appamattakenapi khaṇḍena vilikhitamattenapi bahū patte viññāpenti."
+msgstr "When they knew about the Master’s allowance, monks from the group of six asked for many bowls even when their existing bowls only had a minor chip or scratch."
 
 msgctxt "pi-tv-bu-vb-np22:11.2"
-msgid "appamattakenapi bhinnena appamattakenapi khaṇḍena vilikhitamattenapi bahū patte viññāpenti."
-msgstr "asked for many bowls even when their existing bowls only had a minor chip or scratch."
-
-msgctxt "pi-tv-bu-vb-np22:11.3"
 msgid "Atha kho so kumbhakāro bhikkhūnaṃ tatheva bahū patte karonto na sakkoti aññaṃ vikkāyikaṃ bhaṇḍaṃ kātuṃ,"
 msgstr "Then that potter was once again so busy making bowls for the monks that he was unable to make other goods for sale."
 
-msgctxt "pi-tv-bu-vb-np22:11.4"
+msgctxt "pi-tv-bu-vb-np22:11.3"
 msgid "attanāpi na yāpeti, puttadārāpissa kilamanti."
 msgstr "He could not make a living for himself, and his wife and children suffered."
 
-msgctxt "pi-tv-bu-vb-np22:11.5"
+msgctxt "pi-tv-bu-vb-np22:11.4"
 msgid "Manussā tatheva ujjhāyanti khiyyanti vipācenti—"
 msgstr "And people grumbled and complained as before."
 
-msgctxt "pi-tv-bu-vb-np22:11.6"
+msgctxt "pi-tv-bu-vb-np22:11.5"
 msgid "“kathañhi nāma samaṇā sakyaputtiyā na mattaṃ jānitvā bahū patte viññāpessanti."
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-np22:11.7"
+msgctxt "pi-tv-bu-vb-np22:11.6"
 msgid "Ayaṃ imesaṃ bahū patte karonto na sakkoti aññaṃ vikkāyikaṃ bhaṇḍaṃ kātuṃ, attanāpi na yāpeti, puttadārāpissa kilamantī”ti."
 msgstr ""
 
@@ -294,11 +282,11 @@ msgstr "That monk should relinquish that bowl to an assembly of monks."
 
 #. <a class="pts-vp-en" id="bd.2.121"></a> 
 msgctxt "pi-tv-bu-vb-np22:14.4"
-msgid "Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo—‘"
+msgid "Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo—"
 msgstr "He should then be given the last bowl belonging to that assembly:"
 
 msgctxt "pi-tv-bu-vb-np22:14.5"
-msgid "ayaṃ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti."
+msgid "‘ayaṃ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti."
 msgstr "‘Monk, this bowl is yours; keep it until it breaks.’"
 
 msgctxt "pi-tv-bu-vb-np22:14.6"
@@ -433,12 +421,8 @@ msgid "Evañca pana, bhikkhave, nissajjitabbo."
 msgstr "“And, monks, it should be relinquished in this way."
 
 msgctxt "pi-tv-bu-vb-np22:17.12"
-msgid "Tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā"
-msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks."
-
-msgctxt "pi-tv-bu-vb-np22:17.13"
-msgid "ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "He should then squat on his heels, put the palms of his hands together, and say,"
+msgid "Tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
 msgctxt "pi-tv-bu-vb-np22:17.14"
 msgid "“ayaṃ me, bhante, patto ūnapañcabandhanena pattena cetāpito nissaggiyo."
@@ -562,12 +546,8 @@ msgid "Yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātab
 msgstr "He is then to be given the last bowl belonging to that assembly of monks:"
 
 msgctxt "pi-tv-bu-vb-np22:21.10"
-msgid "“ayaṃ te, bhikkhu, patto"
-msgstr "‘Monk, this bowl is yours;"
-
-msgctxt "pi-tv-bu-vb-np22:21.11"
-msgid "yāva bhedanāya dhāretabbo”ti."
-msgstr "keep it until it breaks’:"
+msgid "“ayaṃ te, bhikkhu, patto yāva bhedanāya dhāretabbo”ti."
+msgstr "‘Monk, this bowl is yours; keep it until it breaks’:"
 
 #. </strong></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2289"></a><a class="pts-vp-en" id="bd.2.124"></a><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:22.1"
