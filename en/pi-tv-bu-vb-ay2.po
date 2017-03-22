@@ -38,63 +38,47 @@ msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapi�
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 msgctxt "pi-tv-bu-vb-ay2:5.2"
-msgid "Tena kho pana samayena āyasmā udāyī—"
-msgstr "At this time Venerable Udāyī knew"
-
-msgctxt "pi-tv-bu-vb-ay2:5.3"
-msgid "“bhagavatā paṭikkhittaṃ mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappetun”ti"
-msgstr "that the Master had prohibited sitting alone with a woman on a private and concealed seat suitable for doing it,"
-
-msgctxt "pi-tv-bu-vb-ay2:5.4"
-msgid "tassāyeva kumārikāya saddhiṃ eko ekāya raho nisajjaṃ kappesi"
-msgstr "and so instead he sat alone in private with the same girl."
-
-msgctxt "pi-tv-bu-vb-ay2:5.5"
-msgid "kālayuttaṃ samullapanto"
-msgstr "When they were able, they just chatted;"
-
-msgctxt "pi-tv-bu-vb-ay2:5.6"
-msgid "kālayuttaṃ dhammaṃ bhaṇanto."
-msgstr "otherwise he gave her a teaching."
+msgid "Tena kho pana samayena āyasmā udāyī—“bhagavatā paṭikkhittaṃ mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappetun”ti tassāyeva kumārikāya saddhiṃ eko ekāya raho nisajjaṃ kappesi kālayuttaṃ samullapanto kālayuttaṃ dhammaṃ bhaṇanto."
+msgstr "At this time Venerable Udāyī knew that the Master had prohibited sitting alone with a woman on a private and concealed seat suitable for doing it, and so instead he sat alone in private with the same girl. When they were able, they just chatted; otherwise he gave her a teaching."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ay2:5.7"
+msgctxt "pi-tv-bu-vb-ay2:5.3"
 msgid "Dutiyampi kho visākhā migāramātā nimantitā taṃ kulaṃ agamāsi."
 msgstr "A second time Visākhā had been invited to that family."
 
-msgctxt "pi-tv-bu-vb-ay2:5.8"
+msgctxt "pi-tv-bu-vb-ay2:5.4"
 msgid "Addasā kho visākhā migāramātā āyasmantaṃ udāyiṃ tassāyeva kumārikāya saddhiṃ ekaṃ ekāya raho nisinnaṃ."
 msgstr "When she arrived, she saw Udāyī sitting alone in private with the same girl,"
 
-msgctxt "pi-tv-bu-vb-ay2:5.9"
+msgctxt "pi-tv-bu-vb-ay2:5.5"
 msgid "Disvāna āyasmantaṃ udāyiṃ etadavoca—"
 msgstr "and she said to Udāyī,"
 
-msgctxt "pi-tv-bu-vb-ay2:5.10"
+msgctxt "pi-tv-bu-vb-ay2:5.6"
 msgid "“idaṃ, bhante, nacchannaṃ nappatirūpaṃ yaṃ ayyo mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeti."
 msgstr "“Venerable, it’s not appropriate that you should sit alone with a woman on a private seat."
 
-msgctxt "pi-tv-bu-vb-ay2:5.11"
+msgctxt "pi-tv-bu-vb-ay2:5.7"
 msgid "Kiñcāpi, bhante, ayyo anatthiko tena dhammena, api ca dussaddhāpayā appasannā manussā”ti."
 msgstr "Although you may not be aiming at that act, people with little confidence are hard to convince.”"
 
-msgctxt "pi-tv-bu-vb-ay2:5.12"
+msgctxt "pi-tv-bu-vb-ay2:5.8"
 msgid "Evampi kho āyasmā udāyī visākhāya migāramātuyā vuccamāno nādiyi."
 msgstr "But Udāyī did not listen."
 
-msgctxt "pi-tv-bu-vb-ay2:5.13"
+msgctxt "pi-tv-bu-vb-ay2:5.9"
 msgid "Atha kho visākhā migāramātā nikkhamitvā bhikkhūnaṃ etamatthaṃ ārocesi."
 msgstr "After leaving, Visākhā informed the monks of what had happened."
 
-msgctxt "pi-tv-bu-vb-ay2:5.14"
+msgctxt "pi-tv-bu-vb-ay2:5.10"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pi-tv-bu-vb-ay2:5.15"
+msgctxt "pi-tv-bu-vb-ay2:5.11"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized him,"
 
-msgctxt "pi-tv-bu-vb-ay2:5.16"
+msgctxt "pi-tv-bu-vb-ay2:5.12"
 msgid "“kathañhi nāma āyasmā udāyī mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappessatī”ti."
 msgstr "“How can Venerable Udāyī sit alone with a woman on a private seat?”"
 

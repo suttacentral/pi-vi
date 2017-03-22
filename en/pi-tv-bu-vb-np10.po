@@ -193,40 +193,32 @@ msgid "“Ajjaṇho, bhante, āgamehi, ajja negamassa samayo."
 msgstr "“Venerable, please wait one day, for today there is a community meeting,”"
 
 msgctxt "pi-tv-bu-vb-np10:8.8"
-msgid "Negamena ca katikā katā hoti—"
-msgstr "and an agreement has been made"
-
-msgctxt "pi-tv-bu-vb-np10:8.9"
-msgid "‘yo pacchā āgacchati paññāsaṃ baddho’”ti."
-msgstr "that whoever comes late gets fined fifty coins."
+msgid "Negamena ca katikā katā hoti—‘yo pacchā āgacchati paññāsaṃ baddho’”ti."
+msgstr "and an agreement has been made that whoever comes late gets fined fifty coins."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np10:8.10"
+msgctxt "pi-tv-bu-vb-np10:8.9"
 msgid "“Ajjeva me, āvuso, cīvaraṃ dehī”ti"
 msgstr "“Give me the robe today,”"
 
-msgctxt "pi-tv-bu-vb-np10:8.11"
+msgctxt "pi-tv-bu-vb-np10:8.10"
 msgid "ovaṭṭikāya parāmasi."
 msgstr "and he grabbed him by the belt."
 
 #. </p><p>
+msgctxt "pi-tv-bu-vb-np10:8.11"
+msgid "Atha kho so upāsako āyasmatā upanandena sakyaputtena nippīḷiyamāno āyasmato upanandassa sakyaputtassa cīvaraṃ cetāpetvā pacchā agamāsi."
+msgstr "Being pressured by Upananda, the lay follower bought him a robe, and as a consequence he was late for the meeting."
+
 msgctxt "pi-tv-bu-vb-np10:8.12"
-msgid "Atha kho so upāsako āyasmatā upanandena sakyaputtena nippīḷiyamāno āyasmato upanandassa sakyaputtassa cīvaraṃ cetāpetvā"
-msgstr "Being pressured by Upananda, the lay follower bought him a robe,"
-
-msgctxt "pi-tv-bu-vb-np10:8.13"
-msgid "pacchā agamāsi."
-msgstr "and as a consequence he was late for the meeting."
-
-msgctxt "pi-tv-bu-vb-np10:8.14"
 msgid "Manussā taṃ upāsakaṃ etadavocuṃ—"
 msgstr "People asked him,"
 
-msgctxt "pi-tv-bu-vb-np10:8.15"
+msgctxt "pi-tv-bu-vb-np10:8.13"
 msgid "“kissa tvaṃ, ayyo, pacchā āgato,"
 msgstr "“Sir, why are you late?"
 
-msgctxt "pi-tv-bu-vb-np10:8.16"
+msgctxt "pi-tv-bu-vb-np10:8.14"
 msgid "paññāsaṃ jīnosī”ti."
 msgstr "You’ve just lost fifty coins.”"
 
@@ -240,22 +232,18 @@ msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
 msgstr "And they grumbled and complained,"
 
 msgctxt "pi-tv-bu-vb-np10:9.3"
-msgid "“mahicchā ime samaṇā sakyaputtiyā"
-msgstr "“These Sakyan ascetics have great desires;"
+msgid "“mahicchā ime samaṇā sakyaputtiyā asantuṭṭhā."
+msgstr "“These Sakyan ascetics have great desires; they are not content."
 
 msgctxt "pi-tv-bu-vb-np10:9.4"
-msgid "asantuṭṭhā."
-msgstr "they are not content."
-
-msgctxt "pi-tv-bu-vb-np10:9.5"
 msgid "Nayimesaṃ sukaraṃ veyyāvaccampi kātuṃ."
 msgstr "Even to provide them with a service isn’t easy."
 
-msgctxt "pi-tv-bu-vb-np10:9.6"
+msgctxt "pi-tv-bu-vb-np10:9.5"
 msgid "Kathañhi nāma āyasmā upanando upāsakena—"
 msgstr "How can Venerable Upananda not agree when he’s asked by a lay follower"
 
-msgctxt "pi-tv-bu-vb-np10:9.7"
+msgctxt "pi-tv-bu-vb-np10:9.6"
 msgid "‘ajjaṇho, bhante, āgamehī’ti vuccamāno nāgamessatī”ti."
 msgstr "to wait for a day?”"
 

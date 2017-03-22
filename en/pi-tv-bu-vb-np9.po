@@ -142,18 +142,14 @@ msgid "Atha kho te purisā ujjhāyanti khiyyanti vipācenti—"
 msgstr "Those men grumbled and complained,"
 
 msgctxt "pi-tv-bu-vb-np9:7.9"
-msgid "“mahicchā ime samaṇā sakyaputtiyā"
-msgstr "“These Sakyan ascetics have great desires;"
+msgid "“mahicchā ime samaṇā sakyaputtiyā asantuṭṭhā."
+msgstr "“These Sakyan ascetics have great desires; they are not content."
 
 msgctxt "pi-tv-bu-vb-np9:7.10"
-msgid "asantuṭṭhā."
-msgstr "they are not content."
-
-msgctxt "pi-tv-bu-vb-np9:7.11"
 msgid "Nayime sukarā cīvarehi acchādetuṃ."
 msgstr "It’s no easy matter to give them robes."
 
-msgctxt "pi-tv-bu-vb-np9:7.12"
+msgctxt "pi-tv-bu-vb-np9:7.11"
 msgid "Kathañhi nāma ayyo upanando amhehi pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjissatī”ti."
 msgstr "How can Venerable Upananda approach us and specify the kind of robe he wants without first being invited?”"
 

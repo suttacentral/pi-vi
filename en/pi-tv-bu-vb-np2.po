@@ -211,34 +211,30 @@ msgid "Evañca pana, bhikkhave, dātabbā."
 msgstr "And it should be given in this way."
 
 msgctxt "pi-tv-bu-vb-np2:10.16"
-msgid "Tena gilānena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā"
-msgstr "After approaching the Order, the sick monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks."
+msgid "Tena gilānena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr "After approaching the Order, the sick monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
 msgctxt "pi-tv-bu-vb-np2:10.17"
-msgid "ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "He should then squat on his heels, put the palms of his hands together, and say,"
-
-msgctxt "pi-tv-bu-vb-np2:10.18"
 msgid "‘ahaṃ, bhante, gilāno."
 msgstr "‘Venerables, I’m sick."
 
-msgctxt "pi-tv-bu-vb-np2:10.19"
+msgctxt "pi-tv-bu-vb-np2:10.18"
 msgid "Na sakkomi ticīvaraṃ ādāya pakkamituṃ."
 msgstr "I’m not able to travel with my three robes."
 
-msgctxt "pi-tv-bu-vb-np2:10.20"
+msgctxt "pi-tv-bu-vb-np2:10.19"
 msgid "Sohaṃ, bhante, saṃghaṃ ticīvarena avippavāsasammutiṃ yācāmī’ti."
 msgstr "I ask the Order for permission to stay apart from my three robes.’"
 
-msgctxt "pi-tv-bu-vb-np2:10.21"
+msgctxt "pi-tv-bu-vb-np2:10.20"
 msgid "Dutiyampi yācitabbā."
 msgstr "And he should ask a second"
 
-msgctxt "pi-tv-bu-vb-np2:10.22"
+msgctxt "pi-tv-bu-vb-np2:10.21"
 msgid "Tatiyampi yācitabbā."
 msgstr "and a third time."
 
-msgctxt "pi-tv-bu-vb-np2:10.23"
+msgctxt "pi-tv-bu-vb-np2:10.22"
 msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "A competent and capable monk should then inform the Order:"
 

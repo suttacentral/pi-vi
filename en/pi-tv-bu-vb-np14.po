@@ -246,12 +246,8 @@ msgid "Evañca pana, bhikkhave, dātabbā."
 msgstr "And it should be given in this way."
 
 msgctxt "pi-tv-bu-vb-np14:12.4"
-msgid "Tena gilānena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā"
-msgstr "After approaching the Order, the sick monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks."
-
-msgctxt "pi-tv-bu-vb-np14:12.5"
-msgid "ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "He should then squat on his heels, put the palms of his hands together, and say,"
+msgid "Tena gilānena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr "After approaching the Order, the sick monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
 msgctxt "pi-tv-bu-vb-np14:12.6"
 msgid "‘ahaṃ, bhante, gilāno"
@@ -283,24 +279,20 @@ msgctxt "pi-tv-bu-vb-np14:13.1"
 msgid "‘Suṇātu me, bhante, saṃgho."
 msgstr "‘Venerables, let the Order listen to me."
 
-msgctxt "pi-tv-bu-vb-np14:13.2"
-msgid "Ayaṃ itthannāmo bhikkhu gilāno"
-msgstr "This monk so-and-so is sick."
-
 #. <a class="pts-vp-en" id="bd.2.81"></a> 
-msgctxt "pi-tv-bu-vb-np14:13.3"
-msgid "na sakkoti santhataṃ ādāya pakkamituṃ."
-msgstr "He is not able to take his blanket when he travels."
+msgctxt "pi-tv-bu-vb-np14:13.2"
+msgid "Ayaṃ itthannāmo bhikkhu gilāno na sakkoti santhataṃ ādāya pakkamituṃ."
+msgstr "This monk so-and-so is sick. He is not able to take his blanket when he travels."
 
-msgctxt "pi-tv-bu-vb-np14:13.4"
+msgctxt "pi-tv-bu-vb-np14:13.3"
 msgid "So saṃghaṃ santhatasammutiṃ yācati."
 msgstr "He is asking the Order for a blanket-permission."
 
-msgctxt "pi-tv-bu-vb-np14:13.5"
+msgctxt "pi-tv-bu-vb-np14:13.4"
 msgid "Yadi saṃghassa pattakallaṃ, saṃgho itthannāmassa bhikkhuno santhatasammutiṃ dadeyya."
 msgstr "If it seems appropriate to the Order, the Order should give a blanket-permission to monk so-and-so."
 
-msgctxt "pi-tv-bu-vb-np14:13.6"
+msgctxt "pi-tv-bu-vb-np14:13.5"
 msgid "Esā ñatti."
 msgstr "This is the motion."
 
@@ -310,26 +302,22 @@ msgid "Suṇātu me, bhante, saṃgho."
 msgstr "Venerables, let the Order listen to me."
 
 msgctxt "pi-tv-bu-vb-np14:14.2"
-msgid "Ayaṃ itthannāmo bhikkhu gilāno"
-msgstr "This monk so-and-so is sick."
+msgid "Ayaṃ itthannāmo bhikkhu gilāno na sakkoti santhataṃ ādāya pakkamituṃ."
+msgstr "This monk so-and-so is sick. He is not able to take his blanket when he travels."
 
 msgctxt "pi-tv-bu-vb-np14:14.3"
-msgid "na sakkoti santhataṃ ādāya pakkamituṃ."
-msgstr "He is not able to take his blanket when he travels."
-
-msgctxt "pi-tv-bu-vb-np14:14.4"
 msgid "So saṃghaṃ santhatasammutiṃ yācati."
 msgstr "He is asking the Order for a blanket-permission."
 
-msgctxt "pi-tv-bu-vb-np14:14.5"
+msgctxt "pi-tv-bu-vb-np14:14.4"
 msgid "Saṃgho itthannāmassa bhikkhuno santhatasammutiṃ deti."
 msgstr "The Order gives a blanket-permission to monk so-and-so."
 
-msgctxt "pi-tv-bu-vb-np14:14.6"
+msgctxt "pi-tv-bu-vb-np14:14.5"
 msgid "Yassāyasmato khamati itthannāmassa bhikkhuno santhatasammutiyā dānaṃ, so tuṇhassa;"
 msgstr "Any monk who approves of giving a blanket-permission to monk so-and-so should remain silent."
 
-msgctxt "pi-tv-bu-vb-np14:14.7"
+msgctxt "pi-tv-bu-vb-np14:14.6"
 msgid "yassa nakkhamati, so bhāseyya."
 msgstr "Any monk who does not approve should say so."
 

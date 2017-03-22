@@ -548,40 +548,28 @@ msgstr "He then rose from his seat, bowed down to the Master, circumambulated hi
 
 #. </p></div><hr><p><a class="sc" id="19"></a><a class="pts-cs-empty" id="Bu-Pj.1.2"></a> <a class="pts-cs" id="Bu-Pj.1.2.1"></a> <a class="ms-pa" id="ms.19"></a> 
 msgctxt "pi-tv-bu-vb-intro:24.1"
-msgid "Tena kho pana samayena verañjā dubbhikkhā hoti dvīhitikā setaṭṭhikā salākāvuttā"
-msgstr "At that time Verañjā was short of food and afflicted with hunger, with crops blighted and turned to straw."
-
-msgctxt "pi-tv-bu-vb-intro:24.2"
-msgid "na sukarā uñchena paggahena yāpetuṃ."
-msgstr "It was not easy to get by on almsfood."
+msgid "Tena kho pana samayena verañjā dubbhikkhā hoti dvīhitikā setaṭṭhikā salākāvuttā na sukarā uñchena paggahena yāpetuṃ."
+msgstr "At that time Verañjā was short of food and afflicted with hunger, with crops blighted and turned to straw. It was not easy to get by on almsfood."
 
 #. <a class="pts-vp-en" id="bd.1.12"></a> 
-msgctxt "pi-tv-bu-vb-intro:24.3"
+msgctxt "pi-tv-bu-vb-intro:24.2"
 msgid "Tena kho pana samayena uttarāpathakā assavāṇijā pañcamattehi assasatehi verañjaṃ vassāvāsaṃ upagatā honti."
 msgstr "Just then some horse-dealers from Uttarāpatha entered the rainy season residence at Verañjā with five hundred horses."
 
-msgctxt "pi-tv-bu-vb-intro:24.4"
+msgctxt "pi-tv-bu-vb-intro:24.3"
 msgid "Tehi assamaṇḍalikāsu bhikkhūnaṃ patthapatthapulakaṃ paññattaṃ hoti."
 msgstr "In the horse-pen they prepared many portions of steamed grain for the monks."
 
 #. </p><p>
+msgctxt "pi-tv-bu-vb-intro:24.4"
+msgid "Bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya verañjaṃ piṇḍāya pavisitvā piṇḍaṃ alabhamānā assamaṇḍalikāsu piṇḍāya caritvā patthapatthapulakaṃ ārāmaṃ āharitvā udukkhale koṭṭetvā koṭṭetvā paribhuñjanti."
+msgstr "After dressing in the morning, the monks took their bowls and robes and entered Verañjā for alms. Being unable to obtain anything, they went to the horse-pen. They then brought the portions of steamed grain back to the monastery, pounded them, and ate them."
+
 msgctxt "pi-tv-bu-vb-intro:24.5"
-msgid "Bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya verañjaṃ piṇḍāya pavisitvā"
-msgstr "After dressing in the morning, the monks took their bowls and robes and entered Verañjā for alms."
-
-msgctxt "pi-tv-bu-vb-intro:24.6"
-msgid "piṇḍaṃ alabhamānā assamaṇḍalikāsu piṇḍāya caritvā"
-msgstr "Being unable to obtain anything, they went to the horse-pen."
-
-msgctxt "pi-tv-bu-vb-intro:24.7"
-msgid "patthapatthapulakaṃ ārāmaṃ āharitvā udukkhale koṭṭetvā koṭṭetvā paribhuñjanti."
-msgstr "They then brought the portions of steamed grain back to the monastery, pounded them, and ate them."
-
-msgctxt "pi-tv-bu-vb-intro:24.8"
 msgid "Āyasmā panānando patthapulakaṃ silāyaṃ pisitvā bhagavato upanāmeti."
 msgstr "Venerable Ānanda crushed a portion of steamed grain on a stone, took it to the Master,"
 
-msgctxt "pi-tv-bu-vb-intro:24.9"
+msgctxt "pi-tv-bu-vb-intro:24.6"
 msgid "Taṃ bhagavā paribhuñjati."
 msgstr "and the Master ate it."
 
@@ -1055,12 +1043,8 @@ msgid "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya ye
 msgstr "After dressing the following morning, the Master took his bowl and robe, and together with the Order of monks, he went to the dwelling of that brahmin and sat down on the prepared seat."
 
 msgctxt "pi-tv-bu-vb-intro:43.2"
-msgid "Atha kho verañjo brāhmaṇo buddhappamukhaṃ bhikkhusaṃghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappetvā"
-msgstr "With his own hands the brahmin served various kinds of fine food to the Order of monks headed by the Buddha."
-
-msgctxt "pi-tv-bu-vb-intro:43.3"
-msgid "sampavāretvā bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ ticīvarena acchādesi, ekamekañca bhikkhuṃ ekamekena dussayugena acchādesi."
-msgstr "When they were satisfied and the Master had finished his meal, the brahmin gave a set of three robes to the Master and two pieces of cloth to each monk."
+msgid "Atha kho verañjo brāhmaṇo buddhappamukhaṃ bhikkhusaṃghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ ticīvarena acchādesi, ekamekañca bhikkhuṃ ekamekena dussayugena acchādesi."
+msgstr "With his own hands the brahmin served various kinds of fine food to the Order of monks headed by the Buddha. When they were satisfied and the Master had finished his meal, the brahmin gave a set of three robes to the Master and two pieces of cloth to each monk."
 
 msgctxt "pi-tv-bu-vb-intro:43.4"
 msgid "Atha kho bhagavā verañjaṃ brāhmaṇaṃ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṃsetvā uṭṭhāyāsanā pakkāmi."
@@ -1246,12 +1230,8 @@ msgid "Na tvaṃ, tāta sudinna, kiñci dukkhassa jānāsi."
 msgstr "you have no experience of suffering."
 
 msgctxt "pi-tv-bu-vb-pj1:8.9"
-msgid "Maraṇenapi mayaṃ te akāmakā vinā bhavissāma"
-msgstr "Even if you died it would be against our wishes."
-
-msgctxt "pi-tv-bu-vb-pj1:8.10"
-msgid "kiṃ pana mayaṃ taṃ jīvantaṃ anujānissāma agārasmā anagāriyaṃ pabbajjāyā”ti."
-msgstr "So how can we allow you to go forth from home into homelessness while you’re still living?”"
+msgid "Maraṇenapi mayaṃ te akāmakā vinā bhavissāma kiṃ pana mayaṃ taṃ jīvantaṃ anujānissāma agārasmā anagāriyaṃ pabbajjāyā”ti."
+msgstr "Even if you died it would be against our wishes. So how can we allow you to go forth from home into homelessness while you’re still living?”"
 
 #. </p><p><a class="sc" id="44"></a><a class="ms-pa" id="ms.44"></a> 
 msgctxt "pi-tv-bu-vb-pj1:9.1"
@@ -1723,29 +1703,25 @@ msgstr " and he rose from his seat and departed."
 
 #. </p><p><a class="sc" id="56"></a><a class="ms-pa" id="ms.56"></a> 
 msgctxt "pi-tv-bu-vb-pj1:21.1"
-msgid "Atha kho āyasmato sudinnassa mātā tassā rattiyā accayena haritena gomayena pathaviṃ opuñjāpetvā"
-msgstr "The following morning Sudinna’s mother had the ground smeared with fresh cow-dung,"
-
-msgctxt "pi-tv-bu-vb-pj1:21.2"
-msgid "dve puñje kārāpesi—ekaṃ hiraññassa, ekaṃ suvaṇṇassa."
-msgstr "and she piled up two heaps, one with money and one with gold."
+msgid "Atha kho āyasmato sudinnassa mātā tassā rattiyā accayena haritena gomayena pathaviṃ opuñjāpetvā dve puñje kārāpesi—ekaṃ hiraññassa, ekaṃ suvaṇṇassa."
+msgstr "The following morning Sudinna’s mother had the ground smeared with fresh cow-dung, and she piled up two heaps, one with money and one with gold."
 
 #. <a class="pts-vp-en" id="bd.1.29"></a> 
-msgctxt "pi-tv-bu-vb-pj1:21.3"
+msgctxt "pi-tv-bu-vb-pj1:21.2"
 msgid "Tāva mahantā puñjā ahesuṃ, orato ṭhito puriso pārato ṭhitaṃ purisaṃ na passati; pārato ṭhito puriso orato ṭhitaṃ purisaṃ na passati."
 msgstr "The heaps were so large that a man standing on one side could not see a man standing on the other."
 
-msgctxt "pi-tv-bu-vb-pj1:21.4"
+msgctxt "pi-tv-bu-vb-pj1:21.3"
 msgid "Te puñje kilañjehi paṭic­chādā­petvā majjhe āsanaṃ paññāpetvā tirokaraṇīyaṃ parikkhipitvā āyasmato sudinnassa purāṇa­duti­yikaṃ āmantesi—"
 msgstr "Hiding the heaps with screens and preparing a seat between them surrounded by a curtain, she said to Sudinna’s former wife,"
 
 #. <a class="pts-vp-en" id="bd.1.30"></a> 
-msgctxt "pi-tv-bu-vb-pj1:21.5"
+msgctxt "pi-tv-bu-vb-pj1:21.4"
 msgid "“tena hi, vadhu, yena alaṅkārena alaṅkatā puttassa me sudinnassa piyā ahosi manāpā tena alaṅkārena alaṅkarā”ti."
 msgstr "“Daughter-in-law, adorn yourself in the way our son Sudinna found you especially attractive."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj1:21.6"
+msgctxt "pi-tv-bu-vb-pj1:21.5"
 msgid "“Evaṃ, ayye”ti, kho āyasmato sudinnassa purāṇadutiyikā āyasmato sudinnassa mātuyā paccassosi."
 msgstr "“Yes, madam.”"
 
@@ -1822,38 +1798,25 @@ msgctxt "pi-tv-bu-vb-pj1:22.17"
 msgid "“Vadehi, tāta sudinnā”ti."
 msgstr "“Speak, Sudinna.”"
 
-#. </p><p>
+#. </p><p><a class="pts-vp-en" id="bd.1.31"></a>
 msgctxt "pi-tv-bu-vb-pj1:22.18"
-msgid "“Tena hi tvaṃ, gahapati, mahante mahante sāṇipasibbake kārāpetvā"
-msgstr "“Well then, householder, make some large bags of hemp-cloth,"
+msgid "“Tena hi tvaṃ, gahapati, mahante mahante sāṇipasibbake kārāpetvā hirañ­ña­suvaṇ­ṇassa pūrāpetvā sakaṭehi nibbāhāpetvā majjhe gaṅgāya sote opātehi."
+msgstr "“Well then, householder, make some large bags of hemp-cloth, put all the money and gold inside, take it all away in carts, and dump it in the middle of the Ganges."
 
 msgctxt "pi-tv-bu-vb-pj1:22.19"
-msgid "hirañ­ña­suvaṇ­ṇassa pūrāpetvā"
-msgstr "put all the money and gold inside,"
-
-#. <a class="pts-vp-en" id="bd.1.31"></a> 
-msgctxt "pi-tv-bu-vb-pj1:22.20"
-msgid "sakaṭehi nibbāhāpetvā"
-msgstr "take it all away in carts,"
-
-msgctxt "pi-tv-bu-vb-pj1:22.21"
-msgid "majjhe gaṅgāya sote opātehi."
-msgstr "and dump it in the middle of the Ganges."
-
-msgctxt "pi-tv-bu-vb-pj1:22.22"
 msgid "Taṃ kissa hetu?"
 msgstr "And why?"
 
-msgctxt "pi-tv-bu-vb-pj1:22.23"
+msgctxt "pi-tv-bu-vb-pj1:22.20"
 msgid "Yañhi te, gahapati, bhavissati tatonidānaṃ bhayaṃ vā chambhitattaṃ vā lomahaṃso vā ārakkho vā so te na bhavissatī”ti."
 msgstr "Because that way you would avoid the danger, fear, and terror that it will cause you, as well as the trouble with protection.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj1:22.24"
+msgctxt "pi-tv-bu-vb-pj1:22.21"
 msgid "Evaṃ vutte, āyasmato sudinnassa pitā anattamano ahosi—"
 msgstr "His father became displeased and thought,"
 
-msgctxt "pi-tv-bu-vb-pj1:22.25"
+msgctxt "pi-tv-bu-vb-pj1:22.22"
 msgid "“kathañhi nāma putto sudinno evaṃ vakkhatī”ti."
 msgstr "“How can our son Sudinna say such things?”"
 
@@ -2073,22 +2036,10 @@ msgid "“Etaṃ kho me, amma, sakkā kātun”ti,"
 msgstr "“Ok, mother, I can do that,” he said."
 
 msgctxt "pi-tv-bu-vb-pj1:27.7"
-msgid "purāṇa­duti­yikāya bāhāyaṃ gahetvā"
-msgstr "He then took his former wife by the arm,"
+msgid "purāṇa­duti­yikāya bāhāyaṃ gahetvā mahāvanaṃ ajjhogāhetvā apaññatte sikkhāpade anādīnavadasso purāṇa­duti­yikāya tikkhattuṃ methunaṃ dhammaṃ abhiviññāpesi."
+msgstr "He then took his former wife by the arm, plunged into the Great Wood and—there being no training rule and he seeing no danger—had sexual intercourse with her three times."
 
 msgctxt "pi-tv-bu-vb-pj1:27.8"
-msgid "mahāvanaṃ ajjhogāhetvā"
-msgstr "plunged into the Great Wood and—"
-
-msgctxt "pi-tv-bu-vb-pj1:27.9"
-msgid "apaññatte sikkhāpade anādīnavadasso"
-msgstr "there being no training rule and he seeing no danger—"
-
-msgctxt "pi-tv-bu-vb-pj1:27.10"
-msgid "purāṇa­duti­yikāya tikkhattuṃ methunaṃ dhammaṃ abhiviññāpesi."
-msgstr "had sexual intercourse with her three times."
-
-msgctxt "pi-tv-bu-vb-pj1:27.11"
 msgid "Sā tena gabbhaṃ gaṇhi."
 msgstr "As a result she conceived."
 
@@ -2179,20 +2130,12 @@ msgid "“alābhā vata me, na vata me lābhā; dulladdhaṃ vata me, na vata me
 msgstr "“This is truly bad for me,"
 
 msgctxt "pi-tv-bu-vb-pj1:30.3"
-msgid "yohaṃ evaṃ svākkhāte dhammavinaye pabbajitvā"
-msgstr "that after going forth in such a well-proclaimed Teaching and training,"
+msgid "yohaṃ evaṃ svākkhāte dhammavinaye pabbajitvā nāsakkhiṃ yāvajīvaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ caritun”ti."
+msgstr "that after going forth in such a well-proclaimed Teaching and training, I wasn’t able to practice for life the perfectly complete and pure spiritual life.”"
 
 msgctxt "pi-tv-bu-vb-pj1:30.4"
-msgid "nāsakkhiṃ yāvajīvaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ caritun”ti."
-msgstr "I wasn’t able to practice for life the perfectly complete and pure spiritual life.”"
-
-msgctxt "pi-tv-bu-vb-pj1:30.5"
-msgid "So teneva kukkuccena tena vippaṭisārena kiso ahosi lūkho dubbaṇṇo uppaṇḍup­paṇḍuka­jāto dhama­ni­san­tha­ta­gatto"
-msgstr "And because of his anxiety and remorse, he became thin, haggard, and pale, his veins protruding all over his limbs;"
-
-msgctxt "pi-tv-bu-vb-pj1:30.6"
-msgid "antomano līnamano dukkhī dummano vippaṭisārī pajjhāyi."
-msgstr "he became sad, sluggish, miserable, depressed, remorseful, weighed down by grief."
+msgid "So teneva kukkuccena tena vippaṭisārena kiso ahosi lūkho dubbaṇṇo uppaṇḍup­paṇḍuka­jāto dhama­ni­san­tha­ta­gatto antomano līnamano dukkhī dummano vippaṭisārī pajjhāyi."
+msgstr "And because of his anxiety and remorse, he became thin, haggard, and pale, his veins protruding all over his limbs; he became sad, sluggish, miserable, depressed, remorseful, weighed down by grief."
 
 #. </p><p><a class="sc" id="66"></a><a class="ms-pa" id="ms.66"></a> 
 msgctxt "pi-tv-bu-vb-pj1:31.1"
@@ -2238,64 +2181,60 @@ msgstr "I wasn’t able to practice for life the perfectly complete and pure spi
 
 #. </p><p><a class="sc" id="68"></a><a class="ms-pa" id="ms.68"></a> 
 msgctxt "pi-tv-bu-vb-pj1:33.1"
-msgid "“Alañhi te, āvuso sudinna, kukkuccāya alaṃ vippaṭisārāya"
-msgstr "“Sudinna, no wonder you’re remorseful, no wonder you feel regret, "
-
-msgctxt "pi-tv-bu-vb-pj1:33.2"
-msgid "yaṃ tvaṃ evaṃ svākkhāte dhammavinaye pabbajitvā na sakkhissasi yāvajīvaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carituṃ."
-msgstr "in that having gone forth in such a well-proclaimed Teaching and training you weren’t able to practice for life the perfectly complete and pure spiritual life."
+msgid "“Alañhi te, āvuso sudinna, kukkuccāya alaṃ vippaṭisārāya yaṃ tvaṃ evaṃ svākkhāte dhammavinaye pabbajitvā na sakkhissasi yāvajīvaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carituṃ."
+msgstr "“Sudinna, no wonder you’re remorseful, no wonder you feel regret, in that having gone forth in such a well-proclaimed Teaching and training you weren’t able to practice for life the perfectly complete and pure spiritual life."
 
 #. <a class="pts-vp-en" id="bd.1.35"></a> 
-msgctxt "pi-tv-bu-vb-pj1:33.3"
+msgctxt "pi-tv-bu-vb-pj1:33.2"
 msgid "Nanu, āvuso, bhagavatā aneka­pariyā­yena virāgāya dhammo desito, no sarāgāya;"
 msgstr "Hasn’t the Master taught in various ways for the sake of dispassion, not for the sake of passion;"
 
-msgctxt "pi-tv-bu-vb-pj1:33.4"
+msgctxt "pi-tv-bu-vb-pj1:33.3"
 msgid "visaṃyogāya dhammo desito, no saṃyogāya;"
 msgstr "for the sake of freedom from bondage, not for the sake of bondage;"
 
-msgctxt "pi-tv-bu-vb-pj1:33.5"
+msgctxt "pi-tv-bu-vb-pj1:33.4"
 msgid "anupādānāya dhammo desito, no saupādānāya."
 msgstr "for the sake of non-grasping, not for the sake of grasping?"
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.20"></a> 
-msgctxt "pi-tv-bu-vb-pj1:33.6"
+msgctxt "pi-tv-bu-vb-pj1:33.5"
 msgid "Tattha nāma tvaṃ, āvuso, bhagavatā virāgāya dhamme desite sarāgāya cetessasi, visaṃyogāya dhamme desite saṃyogāya cetessasi, anupādānāya dhamme desite saupādānāya cetessasi."
 msgstr "When the Master has taught in this way, how can you be intent upon passion, bondage, and grasping?"
 
-msgctxt "pi-tv-bu-vb-pj1:33.7"
+msgctxt "pi-tv-bu-vb-pj1:33.6"
 msgid "Nanu, āvuso, bhagavatā aneka­pariyā­yena rāgavirāgāya dhammo desito,"
 msgstr "Hasn’t the Master given many teachings for the fading away of sensual desire,"
 
-msgctxt "pi-tv-bu-vb-pj1:33.8"
+msgctxt "pi-tv-bu-vb-pj1:33.7"
 msgid "mada­nim­madanāya pipāsavinayāya ālaya­samug­ghātāya vaṭ­ṭupac­che­dāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammo desito."
 msgstr "for the clearing away of intoxication, for the removal of thirst, for the uprooting of attachment, for the cutting off of the round of birth and death, for the ending of craving, for fading away, for cessation, for extinguishment?"
 
-msgctxt "pi-tv-bu-vb-pj1:33.9"
+msgctxt "pi-tv-bu-vb-pj1:33.8"
 msgid "Nanu, āvuso, bhagavatā aneka­pariyā­yena kāmānaṃ pahānaṃ akkhātaṃ,"
 msgstr "Hasn’t the Master in various ways taught the abandoning of sense pleasures,"
 
-msgctxt "pi-tv-bu-vb-pj1:33.10"
+msgctxt "pi-tv-bu-vb-pj1:33.9"
 msgid "kāmasaññānaṃ pariññā akkhātā,"
 msgstr "the full understanding of the perception of sense pleasures,"
 
-msgctxt "pi-tv-bu-vb-pj1:33.11"
+msgctxt "pi-tv-bu-vb-pj1:33.10"
 msgid "kāmapipāsānaṃ paṭivinayo akkhāto,"
 msgstr "the abolishing of thirst for sense pleasures,"
 
-msgctxt "pi-tv-bu-vb-pj1:33.12"
+msgctxt "pi-tv-bu-vb-pj1:33.11"
 msgid "kāmavitakkānaṃ samugghāto akkhāto,"
 msgstr "the elimination of thoughts of sense pleasures,"
 
-msgctxt "pi-tv-bu-vb-pj1:33.13"
+msgctxt "pi-tv-bu-vb-pj1:33.12"
 msgid "kāma­pari­ḷāhā­naṃ vūpasamo akkhāto."
 msgstr "the stilling of the fever of sense pleasures?"
 
-msgctxt "pi-tv-bu-vb-pj1:33.14"
+msgctxt "pi-tv-bu-vb-pj1:33.13"
 msgid "Netaṃ, āvuso, appasannānaṃ vā pasādāya, pasannānaṃ vā bhiyyobhāvāya."
 msgstr "This will not give rise to confidence in those without it or increase the confidence of those who have it,"
 
-msgctxt "pi-tv-bu-vb-pj1:33.15"
+msgctxt "pi-tv-bu-vb-pj1:33.14"
 msgid "Atha khvetaṃ, āvuso, appasan­nā­nañ­ceva appasādāya pasannānañca ekaccānaṃ aññathattāyā”ti."
 msgstr "but it will hinder confidence in those without it, and it will cause some with confidence to change their minds.”"
 
@@ -2418,28 +2357,24 @@ msgstr "but it will hinder confidence in those without it, and it will cause som
 
 #. </p><p><a class="sc" id="71"></a><a class="ms-pa" id="ms.71"></a> 
 msgctxt "pi-tv-bu-vb-pj1:36.1"
-msgid "Atha kho bhagavā āyasmantaṃ sudinnaṃ aneka­pariyā­yena vigarahitvā dubbharatāya dupposatāya mahicchatāya asantuṭṭhitāya saṅgaṇikāya kosajjassa avaṇṇaṃ bhāsitvā"
-msgstr "Then the Master spoke in dispraise of being difficult to support and maintain, in dispraise of great desires, lack of contentment, socializing, and laziness;"
+msgid "Atha kho bhagavā āyasmantaṃ sudinnaṃ aneka­pariyā­yena vigarahitvā dubbharatāya dupposatāya mahicchatāya asantuṭṭhitāya saṅgaṇikāya kosajjassa avaṇṇaṃ bhāsitvā aneka­pariyā­yena subharatāya suposatāya appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyā­rambhassa vaṇṇaṃ bhāsitvā"
+msgstr "Then the Master spoke in dispraise of being difficult to support and maintain, in dispraise of great desires, lack of contentment, socializing, and laziness; but he spoke in praise in various ways of being easy to support and maintain, of desiring little, contentment, self-effacement, ascetic practices, serenity, decrease of defilements, and of the putting forth of energy."
 
 msgctxt "pi-tv-bu-vb-pj1:36.2"
-msgid "aneka­pariyā­yena subharatāya suposatāya appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyā­rambhassa vaṇṇaṃ bhāsitvā"
-msgstr "but he spoke in praise in various ways of being easy to support and maintain, of desiring little, contentment, self-effacement, ascetic practices, serenity, decrease of defilements, and of the putting forth of energy."
-
-msgctxt "pi-tv-bu-vb-pj1:36.3"
 msgid "bhikkhūnaṃ tadanuc­chavi­kaṃ tadanulomikaṃ dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "After giving a teaching on what is right and proper, he addressed the monks:"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj1:36.4"
+msgctxt "pi-tv-bu-vb-pj1:36.3"
 msgid "“tena hi, bhikkhave, bhikkhūnaṃ sikkhāpadaṃ paññapessāmi dasa atthavase paṭicca—"
 msgstr "“Because of this, monks, I will lay down a training rule for the monks for the following ten reasons:"
 
 #. <a class="pts-vp-en" id="bd.1.38"></a> 
-msgctxt "pi-tv-bu-vb-pj1:36.5"
+msgctxt "pi-tv-bu-vb-pj1:36.4"
 msgid "saṃgha­suṭṭhu­tāya, saṃ­ghaphāsu­tāya, dummaṅkūnaṃ puggalānaṃ niggahāya, pesalānaṃ bhikkhūnaṃ phāsuvihārāya, diṭṭha­dham­mikā­naṃ āsavānaṃ saṃvarāya, samparāyikānaṃ āsavānaṃ paṭighātāya, appasannānaṃ pasādāya, pasannānaṃ bhiyyobhāvāya, sad­dhammaṭ­ṭhitiyā, vina­yā­nugga­hāya."
 msgstr "for the well-being of the Order, for the comfort of the Order, for the restraint of bad people, for the ease of well-behaved monks, for the restraint of corruptions in the present life, for avoiding corruptions in future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the continuation of the true Teaching, and for supporting the training."
 
-msgctxt "pi-tv-bu-vb-pj1:36.6"
+msgctxt "pi-tv-bu-vb-pj1:36.5"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
@@ -2702,47 +2637,39 @@ msgid "Yāvadatthaṃ bhuñjitvā yāvadatthaṃ supitvā yāvadatthaṃ nhāyit
 msgstr "Doing so, and not reflecting properly, they had sexual intercourse, but without first renouncing the training and revealing their weakness."
 
 msgctxt "pi-tv-bu-vb-pj1:49.3"
-msgid "Te aparena samayena ñātib­yasa­nenapi phuṭṭhā bhogab­yasa­nenapi phuṭṭhā rogab­yasa­nenapi phuṭṭhā"
-msgstr "After some time, they were affected by loss of relatives, loss of property, and illness."
-
-msgctxt "pi-tv-bu-vb-pj1:49.4"
-msgid "āyasmantaṃ ānandaṃ upasaṅkamitvā evaṃ vadanti—"
-msgstr "They then approached Venerable Ānanda and said:"
+msgid "Te aparena samayena ñātib­yasa­nenapi phuṭṭhā bhogab­yasa­nenapi phuṭṭhā rogab­yasa­nenapi phuṭṭhā āyasmantaṃ ānandaṃ upasaṅkamitvā evaṃ vadanti—"
+msgstr "After some time, they were affected by loss of relatives, loss of property, and illness. They then approached Venerable Ānanda and said:"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj1:49.5"
+msgctxt "pi-tv-bu-vb-pj1:49.4"
 msgid "“na mayaṃ, bhante ānanda, buddhagarahino na dhammagarahino na saṃghagarahino;"
 msgstr "“Venerable Ānanda, we don’t blame the Buddha, the Teaching, or the Order;"
 
 #. <a class="pts-vp-en" id="bd.1.41"></a> 
-msgctxt "pi-tv-bu-vb-pj1:49.6"
+msgctxt "pi-tv-bu-vb-pj1:49.5"
 msgid "attagarahino mayaṃ, bhante ānanda, anaññagarahino."
 msgstr "we only blame ourselves."
 
-msgctxt "pi-tv-bu-vb-pj1:49.7"
+msgctxt "pi-tv-bu-vb-pj1:49.6"
 msgid "Mayamevamhā alakkhikā mayaṃ appapuññā,"
 msgstr "We were unfortunate and had little merit:"
 
-msgctxt "pi-tv-bu-vb-pj1:49.8"
+msgctxt "pi-tv-bu-vb-pj1:49.7"
 msgid "ye mayaṃ evaṃ svākkhāte dhammavinaye pabbajitvā nāsakkhimhā yāvajīvaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carituṃ."
 msgstr "after going forth in such a well-proclaimed Teaching and training, we were unable to practice for life the perfectly complete and pure spiritual life."
 
-msgctxt "pi-tv-bu-vb-pj1:49.9"
+msgctxt "pi-tv-bu-vb-pj1:49.8"
 msgid "Idāni cepi mayaṃ, bhante ānanda, labheyyāma bhagavato santike pabbajjaṃ labheyyāma upasampadaṃ, idānipi mayaṃ vipassakā kusalānaṃ dhammānaṃ pubba­rattā­pa­ra­rattaṃ bodhi­pak­khi­kā­naṃ dhammānaṃ bhāva­nā­nuyoga­manu­yuttā vihareyyāma."
 msgstr "If we were now to obtain the going forth and the full ordination in the presence of the Master, we would have clarity about wholesome qualities and would be devoted day after day to developing the aids to awakening."
 
-msgctxt "pi-tv-bu-vb-pj1:49.10"
+msgctxt "pi-tv-bu-vb-pj1:49.9"
 msgid "Sādhu, bhante ānanda, bhagavato etamatthaṃ ārocehī”ti."
 msgstr "Venerable Ānanda, please inform the Master of this matter.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj1:49.11"
-msgid "“Evamāvuso”ti kho āyasmā ānando vesālikānaṃ vajji­putta­kā­naṃ paṭissuṇitvā"
-msgstr "“Yes,” he replied."
-
-msgctxt "pi-tv-bu-vb-pj1:49.12"
-msgid "yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato etamatthaṃ ārocesi."
-msgstr "And he went to the Master and informed him."
+msgctxt "pi-tv-bu-vb-pj1:49.10"
+msgid "“Evamāvuso”ti kho āyasmā ānando vesālikānaṃ vajji­putta­kā­naṃ paṭissuṇitvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato etamatthaṃ ārocesi."
+msgstr "“Yes,” he replied. And he went to the Master and informed him."
 
 #. </p><p><a class="sc" id="83"></a><a class="ms-pa" id="ms.83"></a> 
 msgctxt "pi-tv-bu-vb-pj1:50.1"
@@ -2824,15 +2751,15 @@ msgid "bhikkhācariyaṃ ajjhupagatoti bhikkhu,"
 msgstr "a monk because he has gone over to living on alms;"
 
 msgctxt "pi-tv-bu-vb-pj1:54.4"
-msgid "bhinna­paṭa­dha­roti bhikkhu, "
+msgid "bhinna­paṭa­dha­roti bhikkhu,"
 msgstr "a monk because he is one who wears a patchwork cloth;"
 
 msgctxt "pi-tv-bu-vb-pj1:54.5"
-msgid "samaññāya bhikkhu, "
+msgid "samaññāya bhikkhu,"
 msgstr "a monk by convention;"
 
 msgctxt "pi-tv-bu-vb-pj1:54.6"
-msgid "paṭiññāya bhikkhu, "
+msgid "paṭiññāya bhikkhu,"
 msgstr "a monk on account of his acknowledgment;"
 
 msgctxt "pi-tv-bu-vb-pj1:54.7"
@@ -5608,30 +5535,26 @@ msgstr ""
 
 #. </p><hr><p><a class="sc" id="150"></a><a class="pts-cs" id="Bu-Pj.1.10.4"></a><a class="ms-pa" id="ms.150"></a> 
 msgctxt "pi-tv-bu-vb-pj1:119.1"
-msgid "Tena kho pana samayena aññataro piṇḍacāriko bhikkhu pīṭhake nipannaṃ dārikaṃ passitvā"
-msgstr "At one time a monk who was an alms-collector saw a little girl lying on a bench."
+msgid "Tena kho pana samayena aññataro piṇḍacāriko bhikkhu pīṭhake nipannaṃ dārikaṃ passitvā sāratto aṅguṭṭhaṃ aṅgajātaṃ pavesesi."
+msgstr "At one time a monk who was an alms-collector saw a little girl lying on a bench. Being lustful, he inserted his thumb into her vagina."
 
 msgctxt "pi-tv-bu-vb-pj1:119.2"
-msgid "sāratto aṅguṭṭhaṃ aṅgajātaṃ pavesesi."
-msgstr "Being lustful, he inserted his thumb into her vagina."
-
-msgctxt "pi-tv-bu-vb-pj1:119.3"
 msgid "Sā kālamakāsi."
 msgstr "She died."
 
-msgctxt "pi-tv-bu-vb-pj1:119.4"
+msgctxt "pi-tv-bu-vb-pj1:119.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj1:119.5"
+msgctxt "pi-tv-bu-vb-pj1:119.4"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pi-tv-bu-vb-pj1:119.6"
+msgctxt "pi-tv-bu-vb-pj1:119.5"
 msgid "Āpatti saṃ­ghā­di­sesassā”ti."
 msgstr "but there’s an offense entailing suspension.”"
 
-msgctxt "pi-tv-bu-vb-pj1:119.7"
+msgctxt "pi-tv-bu-vb-pj1:119.6"
 msgid "(12)"
 msgstr ""
 
@@ -6079,47 +6002,38 @@ msgctxt "pi-tv-bu-vb-pj1:134.10"
 msgid "(29–‍30)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="166"></a><a class="pts-cs" id="Bu-Pj.1.10.13"></a><a class="ms-pa" id="ms.166"></a> 
+#. </p><hr><p><a class="sc" id="166"></a><a class="pts-cs" id="Bu-Pj.1.10.13"></a><a class="ms-pa" id="ms.166"></a><a class="pts-vp-en" id="bd.1.57"></a> 
 msgctxt "pi-tv-bu-vb-pj1:135.1"
-msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā akkhāyitaṃ sarīraṃ passitvā"
-msgstr "At one time a monk went to a charnel ground and saw an undecomposed body."
-
-#. <a class="pts-vp-en" id="bd.1.57"></a> 
-msgctxt "pi-tv-bu-vb-pj1:135.2"
-msgid "tasmiṃ methunaṃ dhammaṃ paṭisevi."
-msgstr "He had sexual intercourse with it."
+msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā akkhāyitaṃ sarīraṃ passitvā tasmiṃ methunaṃ dhammaṃ paṭisevi."
+msgstr "At one time a monk went to a charnel ground and saw an undecomposed body. He had sexual intercourse with it."
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.37"></a> 
-msgctxt "pi-tv-bu-vb-pj1:135.3"
+msgctxt "pi-tv-bu-vb-pj1:135.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj1:135.4"
+msgctxt "pi-tv-bu-vb-pj1:135.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
 msgstr "“You’ve committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj1:135.5"
+msgctxt "pi-tv-bu-vb-pj1:135.4"
 msgid "(31)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="167"></a><a class="ms-pa" id="ms.167"></a> 
 msgctxt "pi-tv-bu-vb-pj1:136.1"
-msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā yebhuyyena akkhāyitaṃ sarīraṃ passitvā"
-msgstr "At one time a monk went to a charnel ground and saw a mostly undecomposed body."
+msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā yebhuyyena akkhāyitaṃ sarīraṃ passitvā tasmiṃ methunaṃ dhammaṃ paṭisevi."
+msgstr "At one time a monk went to a charnel ground and saw a mostly undecomposed body. He had sexual intercourse with it."
 
 msgctxt "pi-tv-bu-vb-pj1:136.2"
-msgid "tasmiṃ methunaṃ dhammaṃ paṭisevi."
-msgstr "He had sexual intercourse with it."
-
-msgctxt "pi-tv-bu-vb-pj1:136.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj1:136.4"
+msgctxt "pi-tv-bu-vb-pj1:136.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
 msgstr "“You’ve committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj1:136.5"
+msgctxt "pi-tv-bu-vb-pj1:136.4"
 msgid "(32)"
 msgstr ""
 
@@ -6150,47 +6064,39 @@ msgstr ""
 
 #. </p><hr><p><a class="sc" id="169"></a><a class="ms-pa" id="ms.169"></a> 
 msgctxt "pi-tv-bu-vb-pj1:138.1"
-msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā chinnasīsaṃ passitvā"
-msgstr "At one time a monk went to a charnel ground and saw a decapitated head."
+msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā chinnasīsaṃ passitvā vaṭṭakate mukhe chupantaṃ aṅgajātaṃ pavesesi."
+msgstr "At one time a monk went to a charnel ground and saw a decapitated head. He inserted his penis into the wide open mouth, touching it with his penis."
 
 msgctxt "pi-tv-bu-vb-pj1:138.2"
-msgid "vaṭṭakate mukhe chupantaṃ aṅgajātaṃ pavesesi."
-msgstr "He inserted his penis into the wide open mouth, touching it with his penis."
-
-msgctxt "pi-tv-bu-vb-pj1:138.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj1:138.4"
+msgctxt "pi-tv-bu-vb-pj1:138.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
 msgstr "“You’ve committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj1:138.5"
+msgctxt "pi-tv-bu-vb-pj1:138.4"
 msgid "(34)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="170"></a><a class="ms-pa" id="ms.170"></a> 
 msgctxt "pi-tv-bu-vb-pj1:139.1"
-msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā chinnasīsaṃ passitvā"
-msgstr "At one time a monk went to a charnel ground and saw a decapitated head."
+msgid "Tena kho pana samayena aññataro bhikkhu sivathikaṃ gantvā chinnasīsaṃ passitvā vaṭṭakate mukhe acchupantaṃ aṅgajātaṃ pavesesi."
+msgstr "At one time a monk went to a charnel ground and saw a decapitated head. He inserted his penis into the wide open mouth, without touching it with his penis."
 
 msgctxt "pi-tv-bu-vb-pj1:139.2"
-msgid "vaṭṭakate mukhe acchupantaṃ aṅgajātaṃ pavesesi."
-msgstr "He inserted his penis into the wide open mouth, without touching it with his penis."
-
-msgctxt "pi-tv-bu-vb-pj1:139.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj1:139.4"
+msgctxt "pi-tv-bu-vb-pj1:139.3"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pi-tv-bu-vb-pj1:139.5"
+msgctxt "pi-tv-bu-vb-pj1:139.4"
 msgid "Āpatti dukkaṭassā”ti."
 msgstr "but there’s an offense of wrong conduct.”"
 
-msgctxt "pi-tv-bu-vb-pj1:139.6"
+msgctxt "pi-tv-bu-vb-pj1:139.5"
 msgid "(35)"
 msgstr ""
 
@@ -6536,67 +6442,59 @@ msgstr ""
 
 #. </p><hr><p><a class="sc" id="181"></a><a class="pts-cs" id="Bu-Pj.1.10.21"></a><a class="pts-vp-en" id="bd.1.60"></a> <a class="ms-pa" id="ms.181"></a> 
 msgctxt "pi-tv-bu-vb-pj1:150.1"
-msgid "Tena kho pana samayena aññataro bhikkhu vesāliyaṃ mahāvane kūṭā­gāra­sālāyaṃ divāvihāragato"
-msgstr "At one time a monk had gone to spend the day in the hall with the peaked roof in the Great Wood near Vesālī."
+msgid "Tena kho pana samayena aññataro bhikkhu vesāliyaṃ mahāvane kūṭā­gāra­sālāyaṃ divāvihāragato dvāraṃ vivaritvā nipanno hoti."
+msgstr "At one time a monk had gone to spend the day in the hall with the peaked roof in the Great Wood near Vesālī. He opened the door and lay down,"
 
 msgctxt "pi-tv-bu-vb-pj1:150.2"
-msgid "dvāraṃ vivaritvā nipanno hoti."
-msgstr "He opened the door and lay down,"
-
-msgctxt "pi-tv-bu-vb-pj1:150.3"
 msgid "Tassa aṅgamaṅgāni vātū­patthad­dhāni honti."
 msgstr "and he had an erection because of wind."
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.39"></a> 
-msgctxt "pi-tv-bu-vb-pj1:150.4"
+msgctxt "pi-tv-bu-vb-pj1:150.3"
 msgid "Tena kho pana samayena sambahulā itthiyo gandhañca mālañca ādāya ārāmaṃ āgamaṃsu vihā­ra­pekkhi­kāyo."
 msgstr "Just then a number of women, bringing scents and garlands, came to the monastery to look at the monastic dwellings."
 
+msgctxt "pi-tv-bu-vb-pj1:150.4"
+msgid "Atha kho tā itthiyo taṃ bhikkhuṃ passitvā aṅgajāte abhinisīditvā yāvadatthaṃ katvā, purisūsabho vatāyanti vatvā gandhañca mālañca āropetvā pakkamiṃsu."
+msgstr "Those women saw that monk and they sat down on his penis. Having taken their pleasure, they said, “What a bull of a man,” and they put up their scents and garlands and departed."
+
 msgctxt "pi-tv-bu-vb-pj1:150.5"
-msgid "Atha kho tā itthiyo taṃ bhikkhuṃ passitvā aṅgajāte abhinisīditvā"
-msgstr "Those women saw that monk and they sat down on his penis."
-
-msgctxt "pi-tv-bu-vb-pj1:150.6"
-msgid "yāvadatthaṃ katvā, purisūsabho vatāyanti vatvā gandhañca mālañca āropetvā pakkamiṃsu."
-msgstr "Having taken their pleasure, they said, “What a bull of a man,” and they put up their scents and garlands and departed."
-
-msgctxt "pi-tv-bu-vb-pj1:150.7"
 msgid "Bhikkhū kilinnaṃ passitvā bhagavato etamatthaṃ ārocesuṃ."
 msgstr "The monks saw the moisture and informed the Master."
 
 #. </p><p><span class="parallel"> 
-msgctxt "pi-tv-bu-vb-pj1:150.8"
+msgctxt "pi-tv-bu-vb-pj1:150.6"
 msgid "“Pañcahi, bhikkhave, ākārehi aṅgajātaṃ kammaniyaṃ hoti—"
 msgstr "“Monks, an erection occurs for five reasons:"
 
-msgctxt "pi-tv-bu-vb-pj1:150.9"
+msgctxt "pi-tv-bu-vb-pj1:150.7"
 msgid "rāgena, vaccena, passāvena, vātena, uccāliṅ­ga­pāṇaka­daṭ­ṭhena."
 msgstr "because of sensual desire, because of excrement, because of urine, because of wind, because of being stung by caterpillars."
 
-msgctxt "pi-tv-bu-vb-pj1:150.10"
+msgctxt "pi-tv-bu-vb-pj1:150.8"
 msgid "Imehi kho, bhikkhave, pañcahākārehi aṅgajātaṃ kammaniyaṃ hoti."
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-pj1:150.11"
+msgctxt "pi-tv-bu-vb-pj1:150.9"
 msgid "Aṭṭhānametaṃ, bhikkhave, anavakāso, yaṃ tassa bhikkhuno rāgena aṅgajātaṃ kammaniyaṃ assa."
 msgstr "It’s impossible that that monk had an erection because of sensual desire."
 
-msgctxt "pi-tv-bu-vb-pj1:150.12"
+msgctxt "pi-tv-bu-vb-pj1:150.10"
 msgid "Arahaṃ so, bhikkhave, bhikkhu."
 msgstr "That monk is a perfected one."
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-pj1:150.13"
+msgctxt "pi-tv-bu-vb-pj1:150.11"
 msgid "Anāpatti, bhikkhave, tassa bhikkhuno."
 msgstr "There’s no offense for that monk."
 
 #. <strong class="rule"> 
-msgctxt "pi-tv-bu-vb-pj1:150.14"
+msgctxt "pi-tv-bu-vb-pj1:150.12"
 msgid "Anujānāmi, bhikkhave, divā paṭi­sal­lī­yan­tena dvāraṃ saṃvaritvā paṭisallīyitun”ti."
 msgstr "But, monks, you should close the door when you are in seclusion during the day.”"
 
 #. </strong> 
-msgctxt "pi-tv-bu-vb-pj1:150.15"
+msgctxt "pi-tv-bu-vb-pj1:150.13"
 msgid "(51)"
 msgstr ""
 

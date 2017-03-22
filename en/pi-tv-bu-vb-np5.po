@@ -116,12 +116,8 @@ msgid "Atha kho uppalavaṇṇā bhikkhunī taṃ maṃsaṃ gahetvā upassaya�
 msgstr "She took the meat and returned to her dwelling place."
 
 msgctxt "pi-tv-bu-vb-np5:6.18"
-msgid "Atha kho uppalavaṇṇā bhikkhunī tassā rattiyā accayena taṃ maṃsaṃ sampādetvā uttarāsaṅgena bhaṇḍikaṃ"
-msgstr "When the night was over, she prepared the meat and made it into a bundle with her upper robe."
-
-msgctxt "pi-tv-bu-vb-np5:6.19"
-msgid "bandhitvā vehāsaṃ abbhuggantvā veḷuvane paccuṭṭhāsi."
-msgstr "She then rose into the air and appeared in the Bamboo Grove."
+msgid "Atha kho uppalavaṇṇā bhikkhunī tassā rattiyā accayena taṃ maṃsaṃ sampādetvā uttarāsaṅgena bhaṇḍikaṃ bandhitvā vehāsaṃ abbhuggantvā veḷuvane paccuṭṭhāsi."
+msgstr "When the night was over, she prepared the meat and made it into a bundle with her upper robe. She then rose into the air and appeared in the Bamboo Grove."
 
 #. </p><p><a class="sc" id="2"></a><a class="pts-vp-pi" id="pts-vp-pi3.209"></a><a class="pts-cs" id="bu-np.5.1.2"></a><a class="wt-pa" id="1957"></a> 
 msgctxt "pi-tv-bu-vb-np5:7.1"
@@ -207,27 +203,23 @@ msgid "Bhikkhuniyo ujjhāyanti khiyyanti vipācenti—"
 msgstr "The nuns complained and criticized Udāyī,"
 
 msgctxt "pi-tv-bu-vb-np5:7.20"
-msgid "“kathañhi nāma ayyo udāyī bhikkhuniyā cīvaraṃ paṭiggahessati"
-msgstr "“How can Venerable Udāyī receive a robe from a nun?"
-
-msgctxt "pi-tv-bu-vb-np5:7.21"
-msgid "kicchalābho mātugāmo”ti."
-msgstr "It’s hard for women to get requisites.”"
+msgid "“kathañhi nāma ayyo udāyī bhikkhuniyā cīvaraṃ paṭiggahessati kicchalābho mātugāmo”ti."
+msgstr "“How can Venerable Udāyī receive a robe from a nun? It’s hard for women to get requisites.”"
 
 #. </p><p><a class="pts-vp-en" id="bd.2.39"></a> 
-msgctxt "pi-tv-bu-vb-np5:7.22"
+msgctxt "pi-tv-bu-vb-np5:7.21"
 msgid "Atha kho tā bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
 msgstr "Those nuns informed the monks."
 
-msgctxt "pi-tv-bu-vb-np5:7.23"
+msgctxt "pi-tv-bu-vb-np5:7.22"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pi-tv-bu-vb-np5:7.24"
+msgctxt "pi-tv-bu-vb-np5:7.23"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized Udāyī,"
 
-msgctxt "pi-tv-bu-vb-np5:7.25"
+msgctxt "pi-tv-bu-vb-np5:7.24"
 msgid "“kathañhi nāma āyasmā udāyī bhikkhuniyā cīvaraṃ paṭiggahessatī”ti."
 msgstr "“How can Venerable Udāyī receive a robe from a nun?”"
 

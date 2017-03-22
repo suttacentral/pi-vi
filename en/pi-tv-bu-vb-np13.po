@@ -52,30 +52,18 @@ msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapi�
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 msgctxt "pi-tv-bu-vb-np13:6.3"
-msgid "Tena kho pana samayena chabbaggiyā bhikkhū—"
-msgstr "At that time, when monks from the group of six knew that"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā paṭikkhittaṃ suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpetun”ti, te thokaññeva odātaṃ ante ādiyitvā tatheva suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpenti."
+msgstr "At that time, when monks from the group of six knew that the Master had prohibited getting blankets made entirely of black wool, they added just a little bit of white on the edge. In this way they got blankets made entirely of black wool."
 
 msgctxt "pi-tv-bu-vb-np13:6.4"
-msgid "“bhagavatā paṭikkhittaṃ suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpetun”ti,"
-msgstr "the Master had prohibited getting blankets made entirely of black wool,"
-
-msgctxt "pi-tv-bu-vb-np13:6.5"
-msgid "te thokaññeva odātaṃ ante ādiyitvā"
-msgstr "they added just a little bit of white on the edge."
-
-msgctxt "pi-tv-bu-vb-np13:6.6"
-msgid "tatheva suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpenti."
-msgstr "In this way they got blankets made entirely of black wool."
-
-msgctxt "pi-tv-bu-vb-np13:6.7"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pi-tv-bu-vb-np13:6.8"
+msgctxt "pi-tv-bu-vb-np13:6.5"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized them,"
 
-msgctxt "pi-tv-bu-vb-np13:6.9"
+msgctxt "pi-tv-bu-vb-np13:6.6"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū thokaññeva odātaṃ ante ādiyitvā tatheva suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpessantī”ti."
 msgstr "“How can those monks from the group of six act in this way?”"
 

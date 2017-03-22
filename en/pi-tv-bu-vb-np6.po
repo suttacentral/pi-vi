@@ -158,18 +158,14 @@ msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
 msgstr "People grumbled and complained,"
 
 msgctxt "pi-tv-bu-vb-np6:9.6"
-msgid "“mahicchā ime samaṇā sakyaputtiyā"
-msgstr "“These Sakyan ascetics have great desires;"
+msgid "“mahicchā ime samaṇā sakyaputtiyā asantuṭṭhā."
+msgstr "“These Sakyan ascetics have great desires; they are not content."
 
 msgctxt "pi-tv-bu-vb-np6:9.7"
-msgid "asantuṭṭhā."
-msgstr "they are not content."
-
-msgctxt "pi-tv-bu-vb-np6:9.8"
 msgid "Nayimesaṃ sukarā dhammanimantanāpi kātuṃ."
 msgstr "Even to make them an appropriate offer isn’t easy."
 
-msgctxt "pi-tv-bu-vb-np6:9.9"
+msgctxt "pi-tv-bu-vb-np6:9.8"
 msgid "Kathañhi nāma seṭṭhiputtena dhammanimantanāya kayiramānāya sāṭakaṃ gahessantī”ti."
 msgstr "How can they take his robe when the merchant’s son was making an appropriate offer?”"
 

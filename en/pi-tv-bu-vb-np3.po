@@ -115,50 +115,46 @@ msgstr "“Monks, I allow you to keep out-of-season robe-cloth if you are expect
 
 #. </p><p><a class="sc" id="2"></a><a class="pts-cs" id="bu-np.3.1.2"></a><a class="pts-vp-en" id="bd.2.25"></a><a class="wt-pa" id="1922"></a> 
 msgctxt "pi-tv-bu-vb-np3:7.1"
-msgid "Tena kho pana samayena bhikkhū—“bhagavatā anuññātaṃ akālacīvaraṃ paṭiggahetvā cīvarapaccāsā nikkhipitun”ti"
-msgstr "When they knew that the Master had given this allowance,"
+msgid "Tena kho pana samayena bhikkhū—“bhagavatā anuññātaṃ akālacīvaraṃ paṭiggahetvā cīvarapaccāsā nikkhipitun”ti akālacīvarāni paṭiggahetvā atirekamāsaṃ nikkhipanti."
+msgstr "When they knew that the Master had given this allowance, some monks kept robe-cloth for over a month,"
 
 msgctxt "pi-tv-bu-vb-np3:7.2"
-msgid "akālacīvarāni paṭiggahetvā atirekamāsaṃ nikkhipanti."
-msgstr "some monks kept robe-cloth for over a month,"
-
-msgctxt "pi-tv-bu-vb-np3:7.3"
 msgid "Tāni cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhanti."
 msgstr "in a bundle on a bamboo robe-rack."
 
-msgctxt "pi-tv-bu-vb-np3:7.4"
+msgctxt "pi-tv-bu-vb-np3:7.3"
 msgid "Addasā kho āyasmā ānando senāsanacārikaṃ āhiṇḍanto tāni cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhante."
 msgstr "While inspecting the dwellings Venerable Ānanda saw that robe-cloth,"
 
-msgctxt "pi-tv-bu-vb-np3:7.5"
+msgctxt "pi-tv-bu-vb-np3:7.4"
 msgid "Disvāna bhikkhū āmantesi—"
 msgstr "and he asked the monks,"
 
-msgctxt "pi-tv-bu-vb-np3:7.6"
+msgctxt "pi-tv-bu-vb-np3:7.5"
 msgid "“kassimāni, āvuso, cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhantī”ti?"
 msgstr "“Whose robe-cloth is this?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np3:7.7"
+msgctxt "pi-tv-bu-vb-np3:7.6"
 msgid "“Amhākaṃ, āvuso, akālacīvarāni cīvarapaccāsā nikkhittānī”ti."
 msgstr "“It’s our out-of-season robe-cloth, which we’re keeping because we’re expecting more.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np3:7.8"
+msgctxt "pi-tv-bu-vb-np3:7.7"
 msgid "“Kīvaciraṃ panāvuso, imāni cīvarāni nikkhittānī”ti?"
 msgstr "“How long have you kept this cloth?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np3:7.9"
+msgctxt "pi-tv-bu-vb-np3:7.8"
 msgid "“Atirekamāsaṃ, āvuso”ti."
 msgstr "“Over a month.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np3:7.10"
+msgctxt "pi-tv-bu-vb-np3:7.9"
 msgid "Āyasmā ānando ujjhāyati khiyyati vipāceti—"
 msgstr "Venerable Ānanda complained and criticized them,"
 
-msgctxt "pi-tv-bu-vb-np3:7.11"
+msgctxt "pi-tv-bu-vb-np3:7.10"
 msgid "“kathañhi nāma bhikkhū akālacīvaraṃ paṭiggahetvā atirekamāsaṃ nikkhipissantī”ti."
 msgstr "“How can these monks keep out-of-season robe-cloth for over a month?”"
 

@@ -108,16 +108,8 @@ msgid "Atha kho āyasmā udāyī yena sā kumārikā tenupasaṅkami;"
 msgstr "He approached that girl,"
 
 msgctxt "pi-tv-bu-vb-ay1:6.17"
-msgid "upasaṅkamitvā tassā kumārikāya saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappesi"
-msgstr "and the two of them sat down alone on a private and concealed seat suitable for doing it."
-
-msgctxt "pi-tv-bu-vb-ay1:6.18"
-msgid "kālayuttaṃ samullapanto"
-msgstr "When they were able, they just chatted;"
-
-msgctxt "pi-tv-bu-vb-ay1:6.19"
-msgid "kālayuttaṃ dhammaṃ bhaṇanto."
-msgstr "otherwise he gave her a teaching."
+msgid "upasaṅkamitvā tassā kumārikāya saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappesi kālayuttaṃ samullapanto kālayuttaṃ dhammaṃ bhaṇanto."
+msgstr "and the two of them sat down alone on a private and concealed seat suitable for doing it. When they were able, they just chatted; otherwise he gave her a teaching."
 
 #. </p><p><a class="sc" id="3"></a><a class="pts-vp-pi" id="pts-vp-pi3.188"></a><a class="ms-pa" id="ms-pa1804"></a><a class="pts-vp-en" id="bd.1.331"></a> 
 msgctxt "pi-tv-bu-vb-ay1:7.1"
