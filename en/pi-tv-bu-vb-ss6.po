@@ -43,18 +43,14 @@ msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
 
 msgctxt "pi-tv-bu-vb-ss6:5.3"
-msgid "Tena kho pana samayena āḷavakā bhikkhū saññācikāyo kuṭiyo kārāpenti"
-msgstr "At that time the monks of Āḷavī were building huts by means of begging."
+msgid "Tena kho pana samayena āḷavakā bhikkhū saññācikāyo kuṭiyo kārāpenti assāmikāyo attuddesikāyo appamāṇikāyo."
+msgstr "At that time the monks of Āḷavī were building huts by means of begging. The huts were intended for themselves, did not have a sponsoring owner, and were inappropriate in size."
 
 msgctxt "pi-tv-bu-vb-ss6:5.4"
-msgid "assāmikāyo attuddesikāyo appamāṇikāyo."
-msgstr "The huts were intended for themselves, did not have a sponsoring owner, and were inappropriate in size."
-
-msgctxt "pi-tv-bu-vb-ss6:5.5"
 msgid "Tāyo na niṭṭhānaṃ gacchanti."
 msgstr "Moreover, they were never finished,"
 
-msgctxt "pi-tv-bu-vb-ss6:5.6"
+msgctxt "pi-tv-bu-vb-ss6:5.5"
 msgid "Te yācanabahulā viññattibahulā viharanti—"
 msgstr "and so the monks kept on asking and begging,"
 
@@ -500,103 +496,91 @@ msgid "Ekamantaṃ nisinnaṃ kho ahaṃ, bhikkhave, taṃ bhikkhuṃ etadavoca�
 msgstr "and I said to him,"
 
 msgctxt "pi-tv-bu-vb-ss6:18.8"
-msgid "‘kacci, bhikkhu, khamanīyaṃ"
-msgstr "‘I hope you’re keeping well, monk;"
+msgid "‘kacci, bhikkhu, khamanīyaṃ kacci yāpanīyaṃ kaccisi appa­kila­ma­thena addhānaṃ āgato?"
+msgstr "‘I hope you’re keeping well, monk; I hope you’re comfortable. I hope you’re not tired from traveling."
 
 msgctxt "pi-tv-bu-vb-ss6:18.9"
-msgid "kacci yāpanīyaṃ"
-msgstr "I hope you’re comfortable."
-
-msgctxt "pi-tv-bu-vb-ss6:18.10"
-msgid "kaccisi appa­kila­ma­thena addhānaṃ āgato?"
-msgstr "I hope you’re not tired from traveling."
-
-msgctxt "pi-tv-bu-vb-ss6:18.11"
 msgid "Kuto ca tvaṃ, bhikkhu, āgacchasī’ti?"
 msgstr "And where have you come from?’"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss6:18.12"
+msgctxt "pi-tv-bu-vb-ss6:18.10"
 msgid "‘Khamanīyaṃ, bhagavā,"
 msgstr "‘I’m keeping well, Venerable Sir;"
 
-msgctxt "pi-tv-bu-vb-ss6:18.13"
+msgctxt "pi-tv-bu-vb-ss6:18.11"
 msgid "yāpanīyaṃ, bhagavā."
 msgstr "I’m comfortable."
 
 #. <a class="pts-vp-en" id="bd.1.252"></a> 
-msgctxt "pi-tv-bu-vb-ss6:18.14"
+msgctxt "pi-tv-bu-vb-ss6:18.12"
 msgid "Appa­kila­ma­thena cāhaṃ, bhante, addhānaṃ āgato."
 msgstr "And I’m not tired from traveling."
 
-msgctxt "pi-tv-bu-vb-ss6:18.15"
+msgctxt "pi-tv-bu-vb-ss6:18.13"
 msgid "Atthi, bhante, himavantapasse mahāvanasaṇḍo."
 msgstr "On the slopes of the Himalayas there’s a great forest grove"
 
-msgctxt "pi-tv-bu-vb-ss6:18.16"
+msgctxt "pi-tv-bu-vb-ss6:18.14"
 msgid "Tassa kho pana, bhante, vanasaṇḍassa avidūre mahantaṃ ninnaṃ pallalaṃ."
 msgstr "and close by a large low-lying marsh."
 
-msgctxt "pi-tv-bu-vb-ss6:18.17"
+msgctxt "pi-tv-bu-vb-ss6:18.15"
 msgid "Atha kho, bhante, mahā­sakuṇa­saṅgho tasmiṃ pallale divasaṃ gocaraṃ caritvā sāyaṃ taṃ vanasaṇḍaṃ vāsāya upagacchati."
 msgstr "A large flock of birds feeds in that low-lying marsh during the day and comes at night to roost in that forest grove."
 
-msgctxt "pi-tv-bu-vb-ss6:18.18"
+msgctxt "pi-tv-bu-vb-ss6:18.16"
 msgid "Tato ahaṃ, bhagavā, āgacchāmi—"
 msgstr "That’s where I’ve come from, Master,"
 
-msgctxt "pi-tv-bu-vb-ss6:18.19"
+msgctxt "pi-tv-bu-vb-ss6:18.17"
 msgid "tassa sakuṇa­saṅghassa saddena ubbāḷho’ti."
 msgstr "and I left because I was disturbed by the noise of that flock of birds.’"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss6:18.20"
+msgctxt "pi-tv-bu-vb-ss6:18.18"
 msgid "‘Icchasi pana tvaṃ, bhikkhu, tassa sakuṇa­saṅghassa anāgamanan’ti?"
 msgstr "‘Would you like that flock of birds not to return?’"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss6:18.21"
+msgctxt "pi-tv-bu-vb-ss6:18.19"
 msgid "‘Icchāmahaṃ, bhagavā, tassa sakuṇa­saṅghassa anāgamanan’ti."
 msgstr "‘I would, Master.’"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss6:18.22"
-msgid "‘Tena hi tvaṃ, bhikkhu, tattha gantvā taṃ vanasaṇḍaṃ ajjhogāhetvā"
-msgstr "‘Well then, go back to that forest grove."
+msgctxt "pi-tv-bu-vb-ss6:18.20"
+msgid "‘Tena hi tvaṃ, bhikkhu, tattha gantvā taṃ vanasaṇḍaṃ ajjhogāhetvā rattiyā paṭhamaṃ yāmaṃ tikkhattuṃ sad­da­manus­sā­vehi—"
+msgstr "‘Well then, go back to that forest grove. In the first watch of the night, call out three times,"
 
-msgctxt "pi-tv-bu-vb-ss6:18.23"
-msgid "rattiyā paṭhamaṃ yāmaṃ tikkhattuṃ sad­da­manus­sā­vehi—"
-msgstr "In the first watch of the night, call out three times,"
-
-msgctxt "pi-tv-bu-vb-ss6:18.24"
+msgctxt "pi-tv-bu-vb-ss6:18.21"
 msgid "suṇantu me, bhonto sakuṇā,"
 msgstr "“Listen to me, good birds."
 
-msgctxt "pi-tv-bu-vb-ss6:18.25"
+msgctxt "pi-tv-bu-vb-ss6:18.22"
 msgid "yāvatikā imasmiṃ vanasaṇḍe vāsaṃ upagatā, pattena me attho."
 msgstr "From whoever roosts in this forest grove, I want a feather."
 
-msgctxt "pi-tv-bu-vb-ss6:18.26"
+msgctxt "pi-tv-bu-vb-ss6:18.23"
 msgid "Ekekaṃ me, bhonto, pattaṃ dadantū’ti."
 msgstr "Each one of you must give me a feather.”"
 
-msgctxt "pi-tv-bu-vb-ss6:18.27"
+msgctxt "pi-tv-bu-vb-ss6:18.24"
 msgid "Rattiyā majjhimaṃ yāmaṃ …"
 msgstr "And in the second"
 
-msgctxt "pi-tv-bu-vb-ss6:18.28"
+msgctxt "pi-tv-bu-vb-ss6:18.25"
 msgid "rattiyā pacchimaṃ yāmaṃ tikkhattuṃ sad­da­manus­sā­vehi—"
 msgstr "and third watch of the night do the same thing.’"
 
-msgctxt "pi-tv-bu-vb-ss6:18.29"
+msgctxt "pi-tv-bu-vb-ss6:18.26"
 msgid "‘suṇantu me, bhonto sakuṇā,"
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-ss6:18.30"
+msgctxt "pi-tv-bu-vb-ss6:18.27"
 msgid "yāvatikā imasmiṃ vanasaṇḍe vāsaṃ upagatā, pattena me attho."
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-ss6:18.31"
+msgctxt "pi-tv-bu-vb-ss6:18.28"
 msgid "Ekekaṃ me, bhonto, pattaṃ dadantū’ti."
 msgstr ""
 
@@ -874,46 +858,42 @@ msgstr "He must get monks to approve a site:"
 
 #. </strong></p><div class="gloss"><p>
 msgctxt "pi-tv-bu-vb-ss6:33.2"
-msgid "tena kuṭikārakena bhikkhunā kuṭivatthuṃ sodhetvā"
-msgstr "The monk who wishes to build a hut should clear a site."
-
-msgctxt "pi-tv-bu-vb-ss6:33.3"
-msgid "saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "He should then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
+msgid "tena kuṭikārakena bhikkhunā kuṭivatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr "The monk who wishes to build a hut should clear a site. He should then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
 
 #. <span class="kamma"> 
-msgctxt "pi-tv-bu-vb-ss6:33.4"
+msgctxt "pi-tv-bu-vb-ss6:33.3"
 msgid "“ahaṃ, bhante, saññācikāya kuṭiṃ kattukāmo assāmikaṃ attuddesaṃ."
 msgstr "“Venerables, I wish, by means of begging, to build a hut without a sponsoring owner and intended for myself."
 
-msgctxt "pi-tv-bu-vb-ss6:33.5"
+msgctxt "pi-tv-bu-vb-ss6:33.4"
 msgid "Sohaṃ, bhante, saṃghaṃ kuṭi­vatthu­o­loka­naṃ yācāmī”ti."
 msgstr "I request the Order to inspect the site for the hut.”"
 
-msgctxt "pi-tv-bu-vb-ss6:33.6"
+msgctxt "pi-tv-bu-vb-ss6:33.5"
 msgid "Dutiyampi yācitabbā."
 msgstr "He should make his request a second"
 
-msgctxt "pi-tv-bu-vb-ss6:33.7"
+msgctxt "pi-tv-bu-vb-ss6:33.6"
 msgid "Tatiyampi yācitabbā."
 msgstr "and a third time."
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-ss6:33.8"
+msgctxt "pi-tv-bu-vb-ss6:33.7"
 msgid "Sace sabbo saṃgho ussahati kuṭivatthuṃ oloketuṃ, sabbena saṃghena oloketabbaṃ."
 msgstr "If the whole Order is able to inspect the site, they should all go."
 
 #. <a class="pts-vp-en" id="bd.1.255"></a> 
-msgctxt "pi-tv-bu-vb-ss6:33.9"
+msgctxt "pi-tv-bu-vb-ss6:33.8"
 msgid "No ce sabbo saṃgho ussahati kuṭivatthuṃ oloketuṃ, ye tattha honti bhikkhū byattā paṭibalā sārambhaṃ anārambhaṃ saparikkamanaṃ aparikkamanaṃ jānituṃ te yācitvā sammannitabbā."
 msgstr "If the whole Order is not able to inspect the site, then those monks there who are competent and capable—who know where harm will be done and where no harm will be done, and who know what is meant by a space on all sides and a lack of space on all sides—should be asked and then appointed."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss6:33.10"
+msgctxt "pi-tv-bu-vb-ss6:33.9"
 msgid "“Evañca pana, bhikkhave, sammannitabbā."
 msgstr "“And, monks, they should be appointed in this way."
 
-msgctxt "pi-tv-bu-vb-ss6:33.11"
+msgctxt "pi-tv-bu-vb-ss6:33.10"
 msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "A competent and capable monk should inform the Order:"
 

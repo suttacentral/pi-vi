@@ -53,31 +53,23 @@ msgid "Tena kho pana samayena sambahulā sandiṭṭhā sambhattā bhikkhū vagg
 msgstr "At that time a number of monks who were friends had entered the rains residence on the banks of the river Vaggumudā."
 
 msgctxt "pi-tv-bu-vb-pj4:5.5"
-msgid "Tena kho pana samayena vajjī dubbhikkhā hoti"
-msgstr "Just then Vajjī was short of food and afflicted with hunger,"
+msgid "Tena kho pana samayena vajjī dubbhikkhā hoti dvīhitikā setaṭṭhikā salākāvuttā,"
+msgstr "Just then Vajjī was short of food and afflicted with hunger, with crops blighted and turned to straw,"
 
 msgctxt "pi-tv-bu-vb-pj4:5.6"
-msgid "dvīhitikā setaṭṭhikā salākāvuttā,"
-msgstr "with crops blighted and turned to straw,"
-
-msgctxt "pi-tv-bu-vb-pj4:5.7"
 msgid "na sukarā uñchena paggahena yāpetuṃ."
 msgstr "and it was not easy to get by on almsfood."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj4:5.8"
+msgctxt "pi-tv-bu-vb-pj4:5.7"
 msgid "Atha kho tesaṃ bhikkhūnaṃ etadahosi—“etarahi kho vajjī dubbhikkhā dvīhitikā setaṭṭhikā salākāvuttā, na sukarā uñchena paggahena yāpetuṃ."
 msgstr "The monks considered the difficult circumstances, and they thought, "
 
+msgctxt "pi-tv-bu-vb-pj4:5.8"
+msgid "Kena nu kho mayaṃ upāyena samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vaseyyāma,"
+msgstr "“How can we remain united and in harmony, have a comfortable rains,"
+
 msgctxt "pi-tv-bu-vb-pj4:5.9"
-msgid "Kena nu kho mayaṃ upāyena samaggā sammodamānā avivadamānā"
-msgstr "“How can we remain united and in harmony,"
-
-msgctxt "pi-tv-bu-vb-pj4:5.10"
-msgid "phāsukaṃ vassaṃ vaseyyāma,"
-msgstr "have a comfortable rains,"
-
-msgctxt "pi-tv-bu-vb-pj4:5.11"
 msgid "na ca piṇḍakena kilameyyāmā”ti?"
 msgstr "and get almsfood without problems?”"
 
@@ -95,14 +87,10 @@ msgid "evaṃ te amhākaṃ dātuṃ maññissanti."
 msgstr "and they’ll give something in return."
 
 msgctxt "pi-tv-bu-vb-pj4:6.4"
-msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā"
-msgstr "In this way we’ll be united and in harmony,"
+msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasissāma,"
+msgstr "In this way we’ll be united and in harmony, and we’ll spend the rains in comfort"
 
 msgctxt "pi-tv-bu-vb-pj4:6.5"
-msgid "phāsukaṃ vassaṃ vasissāma,"
-msgstr "and we’ll spend the rains in comfort"
-
-msgctxt "pi-tv-bu-vb-pj4:6.6"
 msgid "na ca piṇḍakena kilamissāmā”ti."
 msgstr "and have no problems getting almsfood.”"
 
@@ -125,14 +113,10 @@ msgid "evaṃ te amhākaṃ dātuṃ maññissanti."
 msgstr "and they’ll give something in return."
 
 msgctxt "pi-tv-bu-vb-pj4:7.5"
-msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā"
-msgstr "In this way we’ll be united and in harmony,"
+msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasissāma,"
+msgstr "In this way we’ll be united and in harmony, and we’ll spend the rains in comfort"
 
 msgctxt "pi-tv-bu-vb-pj4:7.6"
-msgid "phāsukaṃ vassaṃ vasissāma,"
-msgstr "and we’ll spend the rains in comfort"
-
-msgctxt "pi-tv-bu-vb-pj4:7.7"
 msgid "na ca piṇḍakena kilamissāmā”ti."
 msgstr "and have no problems getting almsfood.”"
 
@@ -199,18 +183,14 @@ msgstr "Then they’ll give to us."
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.88"></a> 
 msgctxt "pi-tv-bu-vb-pj4:8.16"
-msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā"
-msgstr "In this way we’ll be united and in harmony,"
+msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasissāma,"
+msgstr "In this way we’ll be united and in harmony, and we’ll spend the rains in comfort"
 
 msgctxt "pi-tv-bu-vb-pj4:8.17"
-msgid "phāsukaṃ vassaṃ vasissāma,"
-msgstr "and we’ll spend the rains in comfort"
-
-msgctxt "pi-tv-bu-vb-pj4:8.18"
 msgid "na ca piṇḍakena kilamissāmā”ti."
 msgstr "and have no problems getting almsfood."
 
-msgctxt "pi-tv-bu-vb-pj4:8.19"
+msgctxt "pi-tv-bu-vb-pj4:8.18"
 msgid "“Esoyeva kho, āvuso, seyyo yo amhākaṃ gihīnaṃ aññamaññassa uttari­manus­sa­dhammassa vaṇṇo bhāsito”ti."
 msgstr "Indeed, this is the better way, that we praise one another’s super-human qualities to the householders.”"
 
@@ -258,26 +238,14 @@ msgid "Āciṇṇaṃ kho panetaṃ vassaṃ­vuṭṭhā­naṃ bhikkhūnaṃ b
 msgstr "Now it was the custom for monks who had finished keeping the rains residence to go to see the Master."
 
 msgctxt "pi-tv-bu-vb-pj4:10.2"
-msgid "Atha kho te bhikkhū vassaṃvuṭṭhā temāsaccayena senāsanaṃ saṃsāmetvā"
-msgstr "So when the rainy-season residence was completed and the three months had elapsed, those monks put their lodgings in order,"
+msgid "Atha kho te bhikkhū vassaṃvuṭṭhā temāsaccayena senāsanaṃ saṃsāmetvā pattacīvaraṃ ādāya yena vesālī tena pakkamiṃsu."
+msgstr "So when the rainy-season residence was completed and the three months had elapsed, those monks put their lodgings in order, took their bowls and robes, and departed for Vesālī."
 
 msgctxt "pi-tv-bu-vb-pj4:10.3"
-msgid "pattacīvaraṃ ādāya"
-msgstr "took their bowls and robes,"
+msgid "Anupubbena yena vesālī mahāvanaṃ kūṭāgārasālā yena bhagavā tenu­pasaṅka­miṃsu;"
+msgstr "When they eventually arrived at Vesālī, they went to the hall with the peaked roof in the Great Wood. There they approached the Master,"
 
 msgctxt "pi-tv-bu-vb-pj4:10.4"
-msgid "yena vesālī tena pakkamiṃsu."
-msgstr "and departed for Vesālī."
-
-msgctxt "pi-tv-bu-vb-pj4:10.5"
-msgid "Anupubbena yena vesālī mahāvanaṃ kūṭāgārasālā"
-msgstr "When they eventually arrived at Vesālī, they went to the hall with the peaked roof in the Great Wood."
-
-msgctxt "pi-tv-bu-vb-pj4:10.6"
-msgid "yena bhagavā tenu­pasaṅka­miṃsu;"
-msgstr "There they approached the Master,"
-
-msgctxt "pi-tv-bu-vb-pj4:10.7"
 msgid "upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu."
 msgstr "bowed down to him, and sat down to one side."
 
@@ -299,40 +267,36 @@ msgid "Atha kho bhagavā vaggu­mudā­tīriye bhikkhū etadavoca—"
 msgstr "and so the Master said to them,"
 
 msgctxt "pi-tv-bu-vb-pj4:11.5"
-msgid "“kacci, bhikkhave, khamanīyaṃ kacci yāpanīyaṃ"
-msgstr "“I hope you’re keeping well, monks, I hope you’re comfortable;"
+msgid "“kacci, bhikkhave, khamanīyaṃ kacci yāpanīyaṃ kacci samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasittha,"
+msgstr "“I hope you’re keeping well, monks, I hope you’re comfortable; I hope you spent the rains at ease, in concord and harmony, without dispute,"
 
 msgctxt "pi-tv-bu-vb-pj4:11.6"
-msgid "kacci samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasittha,"
-msgstr "I hope you spent the rains at ease, in concord and harmony, without dispute,"
-
-msgctxt "pi-tv-bu-vb-pj4:11.7"
 msgid "na ca piṇḍakena kilamitthā”ti?"
 msgstr "and that you had no trouble getting almsfood?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj4:11.8"
+msgctxt "pi-tv-bu-vb-pj4:11.7"
 msgid "“Khamanīyaṃ, bhagavā, yāpanīyaṃ, bhagavā."
 msgstr "“We’re keeping well, Master, we’re comfortable;"
 
-msgctxt "pi-tv-bu-vb-pj4:11.9"
+msgctxt "pi-tv-bu-vb-pj4:11.8"
 msgid "Samaggā ca mayaṃ, bhante, sammodamānā avivadamānā phāsukaṃ vassaṃ vasimhā,"
 msgstr "we spent the rains at ease, in concord and harmony, without dispute,"
 
-msgctxt "pi-tv-bu-vb-pj4:11.10"
+msgctxt "pi-tv-bu-vb-pj4:11.9"
 msgid "na ca piṇḍakena kilamimhā”ti."
 msgstr "and we had no trouble getting almsfood.”"
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.89"></a> 
-msgctxt "pi-tv-bu-vb-pj4:11.11"
+msgctxt "pi-tv-bu-vb-pj4:11.10"
 msgid "Jānantāpi tathāgatā pucchanti, jānantāpi na pucchanti … pe …"
 msgstr "Buddhas sometimes ask knowing, and knowing sometimes do not ask; they ask knowing the right time to ask, and they ask knowing the right time not to ask. Buddhas ask when it is beneficial, not when it is unbeneficial; in regard to what is unbeneficial, the Buddhas have destroyed the bridge."
 
-msgctxt "pi-tv-bu-vb-pj4:11.12"
+msgctxt "pi-tv-bu-vb-pj4:11.11"
 msgid "dvīhākārehi buddhā bhagavanto bhikkhū paṭipucchanti—"
 msgstr "Buddhas question the monks for two reasons:"
 
-msgctxt "pi-tv-bu-vb-pj4:11.13"
+msgctxt "pi-tv-bu-vb-pj4:11.12"
 msgid "“dhammaṃ vā desessāma, sāvakānaṃ vā sikkhāpadaṃ paññapessāmā”ti."
 msgstr "to give a teaching or to lay down a training rule."
 
@@ -439,29 +403,25 @@ msgctxt "pi-tv-bu-vb-pj4:13.9"
 msgid "Evameva kho, bhikkhave, idhekaccassa pāpabhikkhuno evaṃ hoti—"
 msgstr "Just so, monks, a bad monk thinks like this:"
 
-msgctxt "pi-tv-bu-vb-pj4:13.10"
-msgid "‘kudāssu nāmāhaṃ satena vā sahassena vā parivuto gāmani­gama­rāja­dhānīsu cārikaṃ carissāmi"
-msgstr "‘Oh when will I, with a following of a hundred or a thousand people, go wandering among villages, towns, and royal capitals;"
-
 #. <a class="pts-vp-en" id="bd.1.156"></a> 
-msgctxt "pi-tv-bu-vb-pj4:13.11"
-msgid "sakkato garukato mānito pūjito apacito gahaṭ­ṭhā­nañ­ceva pabbajitānañca,"
-msgstr "be honored, respected, and revered by both householders and those gone forth;"
+msgctxt "pi-tv-bu-vb-pj4:13.10"
+msgid "‘kudāssu nāmāhaṃ satena vā sahassena vā parivuto gāmani­gama­rāja­dhānīsu cārikaṃ carissāmi sakkato garukato mānito pūjito apacito gahaṭ­ṭhā­nañ­ceva pabbajitānañca,"
+msgstr "‘Oh when will I, with a following of a hundred or a thousand people, go wandering among villages, towns, and royal capitals; be honored, respected, and revered by both householders and those gone forth;"
 
-msgctxt "pi-tv-bu-vb-pj4:13.12"
+msgctxt "pi-tv-bu-vb-pj4:13.11"
 msgid "lābhī cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rā­nan’ti."
 msgstr "and obtain robes, almsfood, lodging, and medicines?’"
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.90"></a> 
-msgctxt "pi-tv-bu-vb-pj4:13.13"
+msgctxt "pi-tv-bu-vb-pj4:13.12"
 msgid "So aparena samayena satena vā sahassena vā parivuto gāmani­gama­rāja­dhānīsu cārikaṃ carati sakkato garukato mānito pūjito apacito gahaṭ­ṭhā­nañ­ceva pabbajitānañca, lābhī cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rā­naṃ."
 msgstr "Then after some time, he does just that."
 
-msgctxt "pi-tv-bu-vb-pj4:13.14"
+msgctxt "pi-tv-bu-vb-pj4:13.13"
 msgid "Ayaṃ, bhikkhave, paṭhamo mahācoro santo saṃvijjamāno lokasmiṃ."
 msgstr "This is the first great gangster to be found in the world."
 
-msgctxt "pi-tv-bu-vb-pj4:13.15"
+msgctxt "pi-tv-bu-vb-pj4:13.14"
 msgid "(1)"
 msgstr ""
 
@@ -515,22 +475,18 @@ msgstr ""
 
 #. </p><p><a class="sc" id="13"></a><a class="pts-vp-en" id="bd.1.157"></a><a class="ms-pa" id="ms.546"></a> 
 msgctxt "pi-tv-bu-vb-pj4:17.1"
-msgid "Sadevake, bhikkhave, loke samārake sabrahmake ­sassama­ṇab­rāhma­ṇiyā pajāya sade­va­manus­sāya ayaṃ aggo mahācoro"
-msgstr "But in this world with its gods, its lords of death, and its supreme beings, in this population with its ascetics and brahmins, its gods and humans, this is the greatest gangster:"
+msgid "Sadevake, bhikkhave, loke samārake sabrahmake ­sassama­ṇab­rāhma­ṇiyā pajāya sade­va­manus­sāya ayaṃ aggo mahācoro yo asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapati."
+msgstr "But in this world with its gods, its lords of death, and its supreme beings, in this population with its ascetics and brahmins, its gods and humans, this is the greatest gangster: he who untruthfully and groundlessly boasts about a super-human quality."
 
 msgctxt "pi-tv-bu-vb-pj4:17.2"
-msgid "yo asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapati."
-msgstr "he who untruthfully and groundlessly boasts about a super-human quality."
-
-msgctxt "pi-tv-bu-vb-pj4:17.3"
 msgid "Taṃ kissa hetu?"
 msgstr "Why is that?"
 
-msgctxt "pi-tv-bu-vb-pj4:17.4"
+msgctxt "pi-tv-bu-vb-pj4:17.3"
 msgid "Theyyāya vo, bhikkhave, raṭṭhapiṇḍo bhutto”ti."
 msgstr "Monks, you’ve eaten the country’s almsfood by theft.”"
 
-msgctxt "pi-tv-bu-vb-pj4:17.5"
+msgctxt "pi-tv-bu-vb-pj4:17.4"
 msgid "(5)"
 msgstr ""
 
@@ -811,12 +767,8 @@ msgstr "For himself:"
 #. </strong>
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:30.2"
-msgid "te vā kusale dhamme attani upaneti"
-msgstr "either he presents those good qualities as in himself,"
-
-msgctxt "pi-tv-bu-vb-pj4:30.3"
-msgid "attānaṃ vā tesu kusalesu dhammesu upaneti."
-msgstr "or he presents himself as among those good qualities."
+msgid "te vā kusale dhamme attani upaneti attānaṃ vā tesu kusalesu dhammesu upaneti."
+msgstr "either he presents those good qualities as in himself, or he presents himself as among those good qualities."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms.560"></a>
@@ -871,14 +823,10 @@ msgstr "“I know these qualities/"
 
 #. <a class="pts-vp-en" id="bd.1.160"></a> 
 msgctxt "pi-tv-bu-vb-pj4:33.3"
-msgid "passāmahaṃ ete dhamme"
-msgstr "I see these qualities/"
+msgid "passāmahaṃ ete dhamme atthi ca ete dhammā mayi,"
+msgstr "I see these qualities/these qualities are found in me"
 
 msgctxt "pi-tv-bu-vb-pj4:33.4"
-msgid "atthi ca ete dhammā mayi,"
-msgstr "these qualities are found in me"
-
-msgctxt "pi-tv-bu-vb-pj4:33.5"
 msgid "ahañca etesu dhammesu sandissāmīti."
 msgstr "and I conform to them.”"
 
@@ -955,12 +903,8 @@ msgstr "Having committed the offense:"
 #. </strong>
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj4:37.2"
-msgid "pāpiccho icchāpakato asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapitvā"
-msgstr "having bad desires, overcome by desire, claiming a non-existent, unreal super-human quality,"
-
-msgctxt "pi-tv-bu-vb-pj4:37.3"
-msgid "pārājikaṃ āpattiṃ āpanno hoti."
-msgstr "he has committed an offense entailing expulsion."
+msgid "pāpiccho icchāpakato asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapitvā pārājikaṃ āpattiṃ āpanno hoti."
+msgstr "having bad desires, overcome by desire, claiming a non-existent, unreal super-human quality, he has committed an offense entailing expulsion."
 
 #. </span>
 #. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms.567"></a>
@@ -1437,12 +1381,8 @@ msgid "bhaṇitassa hoti musā mayā bhaṇitanti,"
 msgstr "after he has lied, he knows he has lied;"
 
 msgctxt "pi-tv-bu-vb-pj4:58.5"
-msgid "vinidhāya diṭṭhiṃ"
-msgstr "he misrepresents his view of what is true;"
-
-msgctxt "pi-tv-bu-vb-pj4:58.6"
-msgid "vinidhāya khantiṃ."
-msgstr "he misrepresents his belief of what is true."
+msgid "vinidhāya diṭṭhiṃ vinidhāya khantiṃ."
+msgstr "he misrepresents his view of what is true; he misrepresents his belief of what is true."
 
 #. </p><p><a class="sc" id="55"></a><a class="ms-pa" id="ms.588"></a> 
 msgctxt "pi-tv-bu-vb-pj4:59.1"
@@ -4592,38 +4532,34 @@ msgstr "who made use of your dwelling equipment …"
 
 #. <a class="pts-vp-en" id="bd.1.171"></a> 
 msgctxt "pi-tv-bu-vb-pj4:171.4"
-msgid "yo te gilā­nappac­caya­bhesaj­ja­parik­khā­raṃ paribhuñji"
-msgstr "who made use of your medicines"
+msgid "yo te gilā­nappac­caya­bhesaj­ja­parik­khā­raṃ paribhuñji so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji …"
+msgstr "who made use of your medicines attained the fourth absorption in an empty dwelling …"
 
 msgctxt "pi-tv-bu-vb-pj4:171.5"
-msgid "so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji …"
-msgstr "attained the fourth absorption in an empty dwelling …"
-
-msgctxt "pi-tv-bu-vb-pj4:171.6"
 msgid "samāpajjati …"
 msgstr "is attaining …"
 
-msgctxt "pi-tv-bu-vb-pj4:171.7"
+msgctxt "pi-tv-bu-vb-pj4:171.6"
 msgid "samāpanno …"
 msgstr "has attained …"
 
-msgctxt "pi-tv-bu-vb-pj4:171.8"
+msgctxt "pi-tv-bu-vb-pj4:171.7"
 msgid "so bhikkhu suññāgāre catutthassa jhānassa lābhī …"
 msgstr "obtains …"
 
-msgctxt "pi-tv-bu-vb-pj4:171.9"
+msgctxt "pi-tv-bu-vb-pj4:171.8"
 msgid "vasī …"
 msgstr "masters …"
 
-msgctxt "pi-tv-bu-vb-pj4:171.10"
+msgctxt "pi-tv-bu-vb-pj4:171.9"
 msgid "tena bhikkhunā suññāgāre catutthaṃ jhānaṃ sacchikatanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti thullaccayassa;"
 msgstr "has realized the fourth absorption in an empty dwelling,” then, if the listener understands, he commits a serious offense when three conditions are fulfilled;"
 
-msgctxt "pi-tv-bu-vb-pj4:171.11"
+msgctxt "pi-tv-bu-vb-pj4:171.10"
 msgid "na paṭi­vijānan­tassa āpatti dukkaṭassa … pe …"
 msgstr "if the listener does not understand, he commits an offense of wrong conduct when three conditions are fulfilled … when seven conditions are fulfilled …"
 
-msgctxt "pi-tv-bu-vb-pj4:171.12"
+msgctxt "pi-tv-bu-vb-pj4:171.11"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
@@ -4699,63 +4635,59 @@ msgid "senāsanaṃ adāsi …"
 msgstr "to whom you gave dwelling equipment …"
 
 msgctxt "pi-tv-bu-vb-pj4:173.5"
-msgid "gilā­nappac­caya­bhesaj­ja­parik­khā­raṃ adāsi"
-msgstr "to whom you gave medicines"
+msgid "gilā­nappac­caya­bhesaj­ja­parik­khā­raṃ adāsi so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji …"
+msgstr "to whom you gave medicines he attained the fourth absorption in an empty dwelling …"
 
 msgctxt "pi-tv-bu-vb-pj4:173.6"
-msgid "so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji …"
-msgstr "he attained the fourth absorption in an empty dwelling …"
-
-msgctxt "pi-tv-bu-vb-pj4:173.7"
 msgid "samāpajjati …"
 msgstr "is attaining …"
 
-msgctxt "pi-tv-bu-vb-pj4:173.8"
+msgctxt "pi-tv-bu-vb-pj4:173.7"
 msgid "samāpanno …"
 msgstr "has attained …"
 
-msgctxt "pi-tv-bu-vb-pj4:173.9"
+msgctxt "pi-tv-bu-vb-pj4:173.8"
 msgid "so bhikkhu suññāgāre catutthassa jhānassa lābhī …"
 msgstr "obtains …"
 
-msgctxt "pi-tv-bu-vb-pj4:173.10"
+msgctxt "pi-tv-bu-vb-pj4:173.9"
 msgid "vasī …"
 msgstr "masters …"
 
-msgctxt "pi-tv-bu-vb-pj4:173.11"
+msgctxt "pi-tv-bu-vb-pj4:173.10"
 msgid "tena bhikkhunā suññāgāre catutthaṃ jhānaṃ sacchikatanti sampajānamusā bhaṇantassa paṭi­vijānan­tassa āpatti thullaccayassa;"
 msgstr "has realized the fourth absorption in an empty dwelling,” then, if the listener understands, he commits a serious offense when three conditions are fulfilled;"
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.100"></a> 
-msgctxt "pi-tv-bu-vb-pj4:173.12"
+msgctxt "pi-tv-bu-vb-pj4:173.11"
 msgid "na paṭi­vijānan­tassa āpatti dukkaṭassa—"
 msgstr "if the listener does not understand, he commits an offense of wrong conduct when three conditions are fulfilled … when seven conditions are fulfilled:"
 
-msgctxt "pi-tv-bu-vb-pj4:173.13"
+msgctxt "pi-tv-bu-vb-pj4:173.12"
 msgid "pubbevassa hoti musā bhaṇissanti,"
 msgstr "before he has lied, he knows he is going to lie;"
 
-msgctxt "pi-tv-bu-vb-pj4:173.14"
+msgctxt "pi-tv-bu-vb-pj4:173.13"
 msgid "bhaṇantassa hoti musā bhaṇāmīti,"
 msgstr "while lying, he knows he is lying;"
 
-msgctxt "pi-tv-bu-vb-pj4:173.15"
+msgctxt "pi-tv-bu-vb-pj4:173.14"
 msgid "bhaṇitassa hoti musā mayā bhaṇitanti,"
 msgstr "after he has lied, he knows he has lied;"
 
-msgctxt "pi-tv-bu-vb-pj4:173.16"
+msgctxt "pi-tv-bu-vb-pj4:173.15"
 msgid "vinidhāya diṭṭhiṃ,"
 msgstr "he misrepresents his view of what is true;"
 
-msgctxt "pi-tv-bu-vb-pj4:173.17"
+msgctxt "pi-tv-bu-vb-pj4:173.16"
 msgid "vinidhāya khantiṃ,"
 msgstr "he misrepresents his belief of what is true;"
 
-msgctxt "pi-tv-bu-vb-pj4:173.18"
+msgctxt "pi-tv-bu-vb-pj4:173.17"
 msgid "vinidhāya ruciṃ,"
 msgstr "he misrepresents his acceptance of what is true;"
 
-msgctxt "pi-tv-bu-vb-pj4:173.19"
+msgctxt "pi-tv-bu-vb-pj4:173.18"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
@@ -6139,22 +6071,18 @@ msgid "Eso, bhikkhave, satto imasmiṃyeva rājagahe goghātako ahosi."
 msgstr "That being was a cattle-butcher in this very Rājagaha."
 
 msgctxt "pi-tv-bu-vb-pj4:218.10"
-msgid "So tassa kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassa­sata­sahas­sāni niraye paccitvā"
-msgstr "As a result of his deeds, he was tormented in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years."
+msgid "So tassa kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassa­sata­sahas­sāni niraye paccitvā tasseva kammassa vipākāvasesena evarūpaṃ atta­bhāvap­paṭi­lābhaṃ paṭisaṃvedeti."
+msgstr "As a result of his deeds, he was tormented in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years. And now, because of the remaining result of his actions, he’s experiencing such an existence."
 
 msgctxt "pi-tv-bu-vb-pj4:218.11"
-msgid "tasseva kammassa vipākāvasesena evarūpaṃ atta­bhāvap­paṭi­lābhaṃ paṭisaṃvedeti."
-msgstr "And now, because of the remaining result of his actions, he’s experiencing such an existence."
-
-msgctxt "pi-tv-bu-vb-pj4:218.12"
 msgid "Saccaṃ, bhikkhave, moggallāno āha."
 msgstr "Moggallāna spoke truthfully."
 
-msgctxt "pi-tv-bu-vb-pj4:218.13"
+msgctxt "pi-tv-bu-vb-pj4:218.12"
 msgid "Anāpatti, bhikkhave, moggallānassā”ti."
 msgstr "There’s no offense for Moggallāna.”"
 
-msgctxt "pi-tv-bu-vb-pj4:218.14"
+msgctxt "pi-tv-bu-vb-pj4:218.13"
 msgid "(36)"
 msgstr ""
 
@@ -6412,18 +6340,14 @@ msgid "eso, bhikkhave, satto imasmiṃyeva rājagahe duṭṭhabrāhmaṇo ahosi
 msgstr "“… That being, monks, was a wicked brahmin in this very Rājagaha."
 
 msgctxt "pi-tv-bu-vb-pj4:229.3"
-msgid "So kassapassa sammā­sambud­dhassa pāvacane bhikkhusaṃghaṃ bhattena nimantetvā"
-msgstr "At the time of Kassapa, the fully Awakened One, he invited the Order of monks to a meal."
+msgid "So kassapassa sammā­sambud­dhassa pāvacane bhikkhusaṃghaṃ bhattena nimantetvā doṇiyo gūthassa pūrāpetvā kālaṃ ārocāpetvā etadavoca—"
+msgstr "At the time of Kassapa, the fully Awakened One, he invited the Order of monks to a meal. He filled a trough with dung, announced the time, and said,"
 
 msgctxt "pi-tv-bu-vb-pj4:229.4"
-msgid "doṇiyo gūthassa pūrāpetvā kālaṃ ārocāpetvā etadavoca—"
-msgstr "He filled a trough with dung, announced the time, and said,"
-
-msgctxt "pi-tv-bu-vb-pj4:229.5"
 msgid "‘ato, bhonto, yāvadatthaṃ bhuñjantu ceva harantu cā’”ti … pe …."
 msgstr "‘Sirs, eat as much as you like and take the rest away with you.’ …"
 
-msgctxt "pi-tv-bu-vb-pj4:229.6"
+msgctxt "pi-tv-bu-vb-pj4:229.5"
 msgid "(47)"
 msgstr ""
 
@@ -6631,22 +6555,18 @@ msgid "Esā, bhikkhave, sāmaṇerī kassapassa sammā­sambud­dhassa pāvacane
 msgstr "During the time of Buddha Kassapa’s dispensation, that novice nun was a bad novice nun."
 
 msgctxt "pi-tv-bu-vb-pj4:236.10"
-msgid "Sā tassa kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassa­sata­sahas­sāni niraye paccitvā"
-msgstr "As a result of her deeds, she was tormented in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years."
+msgid "Sā tassa kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassa­sata­sahas­sāni niraye paccitvā tasseva kammassa vipākāvasesena evarūpaṃ atta­bhāvap­paṭi­lābhaṃ paṭisaṃvedeti."
+msgstr "As a result of her deeds, she was tormented in hell for many years, for many hundreds of years, for many thousands of years, for many hundreds of thousands of years. And now, because of the remaining result of her actions, she’s experiencing such an existence."
 
 msgctxt "pi-tv-bu-vb-pj4:236.11"
-msgid "tasseva kammassa vipākāvasesena evarūpaṃ atta­bhāvap­paṭi­lābhaṃ paṭisaṃvedeti."
-msgstr "And now, because of the remaining result of her actions, she’s experiencing such an existence."
-
-msgctxt "pi-tv-bu-vb-pj4:236.12"
 msgid "Saccaṃ, bhikkhave, moggallāno āha."
 msgstr "Moggallāna spoke truthfully."
 
-msgctxt "pi-tv-bu-vb-pj4:236.13"
+msgctxt "pi-tv-bu-vb-pj4:236.12"
 msgid "Anāpatti, bhikkhave, moggallānassā”ti."
 msgstr "There’s no offense for Moggallāna.”"
 
-msgctxt "pi-tv-bu-vb-pj4:236.14"
+msgctxt "pi-tv-bu-vb-pj4:236.13"
 msgid "(53–‍56)"
 msgstr ""
 

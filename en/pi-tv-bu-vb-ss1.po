@@ -368,12 +368,8 @@ msgstr "Emission:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss1:15.2"
-msgid "ṭhānato cāvanā"
-msgstr "making it move from its base—"
-
-msgctxt "pi-tv-bu-vb-ss1:15.3"
-msgid "vuccati vissaṭṭhīti."
-msgstr "this is what is meant by “emission”."
+msgid "ṭhānato cāvanā vuccati vissaṭṭhīti."
+msgstr "making it move from its base—this is what is meant by “emission”."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa785"></a><strong class="term"> 

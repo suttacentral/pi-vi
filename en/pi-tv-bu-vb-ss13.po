@@ -131,30 +131,22 @@ msgid "Tena kho pana samayena aññataro bhikkhu kāsīsu vassaṃvuṭṭho sā
 msgstr "Just then a certain monk who had spent the rainy-season residence in Kāsī was on his way to see the Master at Sāvatthī when he arrived at Kīṭāgiri."
 
 msgctxt "pi-tv-bu-vb-ss13:6.2"
-msgid "Atha kho so bhikkhu pubbaṇ­ha­samayaṃ nivāsetvā patta­cīvara­mādāya kīṭāgiriṃ piṇḍāya pāvisi"
-msgstr "After dressing in the morning, he took his bowl and robe and entered Kīṭāgiri to collect almsfood."
+msgid "Atha kho so bhikkhu pubbaṇ­ha­samayaṃ nivāsetvā patta­cīvara­mādāya kīṭāgiriṃ piṇḍāya pāvisi pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena okkhittacakkhu iriyā­patha­sam­panno."
+msgstr "After dressing in the morning, he took his bowl and robe and entered Kīṭāgiri to collect almsfood. He was pleasing in the way he entered and returned, in looking towards and in looking away, in drawing in and stretching out his arms; his eyes were lowered, and he was perfect in deportment."
 
 msgctxt "pi-tv-bu-vb-ss13:6.3"
-msgid "pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena"
-msgstr "He was pleasing in the way he entered and returned, in looking towards and in looking away, in drawing in and stretching out his arms;"
-
-msgctxt "pi-tv-bu-vb-ss13:6.4"
-msgid "okkhittacakkhu iriyā­patha­sam­panno."
-msgstr "his eyes were lowered, and he was perfect in deportment."
-
-msgctxt "pi-tv-bu-vb-ss13:6.5"
 msgid "Manussā taṃ bhikkhuṃ passitvā evamāhaṃsu—"
 msgstr "When people saw him, they said,"
 
-msgctxt "pi-tv-bu-vb-ss13:6.6"
+msgctxt "pi-tv-bu-vb-ss13:6.4"
 msgid "“kvāyaṃ abalabalo viya mandamando viya bhā­kuṭi­ka­bhā­kuṭiko viya?"
 msgstr "“Who is this, acting like a fool, like a dullard, continuously frowning?"
 
-msgctxt "pi-tv-bu-vb-ss13:6.7"
+msgctxt "pi-tv-bu-vb-ss13:6.5"
 msgid "Ko imassa upagatassa piṇḍakaṃ dassati?"
 msgstr "Who will give almsfood to him when he approaches?"
 
-msgctxt "pi-tv-bu-vb-ss13:6.8"
+msgctxt "pi-tv-bu-vb-ss13:6.6"
 msgid "Amhākaṃ pana ayyā assaji­pu­nabba­sukā saṇhā sakhilā sukhasambhāsā mihita­pubbaṅ­gamā ehis­vāga­ta­vādino abbhākuṭikā uttānamukhā pubbabhāsino. Tesaṃ kho nāma piṇḍo dātabbo”ti."
 msgstr "Almsfood should instead be given to our Venerables Assaji and Punabbasuka, for they are gentle, congenial, pleasant to speak with, greeting one with a smile, welcoming, friendly, open, the first to speak.”"
 
@@ -653,72 +645,68 @@ msgid "Evañca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya—"
 msgstr "If he replies,"
 
 msgctxt "pi-tv-bu-vb-ss13:17.10"
-msgid "‘chandagāmino ca bhikkhū dosagāmino ca bhikkhū mohagāmino ca bhikkhū bhayagāmino ca bhikkhū"
-msgstr "“You’re acting out of desire, ill-will, confusion, and fear;"
+msgid "‘chandagāmino ca bhikkhū dosagāmino ca bhikkhū mohagāmino ca bhikkhū bhayagāmino ca bhikkhū tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī’ti,"
+msgstr "“You’re acting out of desire, ill-will, confusion, and fear; because of this sort of offense, you banish some, but not others,”"
 
 msgctxt "pi-tv-bu-vb-ss13:17.11"
-msgid "tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī’ti,"
-msgstr "because of this sort of offense, you banish some, but not others,”"
-
-msgctxt "pi-tv-bu-vb-ss13:17.12"
 msgid "so bhikkhu bhikkhūhi evamassa vacanīyo—"
 msgstr "the monks should correct him in this way:"
 
-msgctxt "pi-tv-bu-vb-ss13:17.13"
+msgctxt "pi-tv-bu-vb-ss13:17.12"
 msgid "‘māyasmā evaṃ avaca."
 msgstr "“Venerable, don’t say that."
 
-msgctxt "pi-tv-bu-vb-ss13:17.14"
+msgctxt "pi-tv-bu-vb-ss13:17.13"
 msgid "Na ca bhikkhū chandagāmino."
 msgstr "The monks are not acting out of desire,"
 
-msgctxt "pi-tv-bu-vb-ss13:17.15"
+msgctxt "pi-tv-bu-vb-ss13:17.14"
 msgid "Na ca bhikkhū dosagāmino."
 msgstr "ill-will,"
 
-msgctxt "pi-tv-bu-vb-ss13:17.16"
+msgctxt "pi-tv-bu-vb-ss13:17.15"
 msgid "Na ca bhikkhū mohagāmino."
 msgstr "confusion,"
 
 #. <a class="pts-vp-en" id="bd.1.325"></a> 
-msgctxt "pi-tv-bu-vb-ss13:17.17"
+msgctxt "pi-tv-bu-vb-ss13:17.16"
 msgid "Na ca bhikkhū bhayagāmino."
 msgstr "and fear."
 
-msgctxt "pi-tv-bu-vb-ss13:17.18"
+msgctxt "pi-tv-bu-vb-ss13:17.17"
 msgid "Āyasmā kho kuladūsako pāpasamācāro."
 msgstr "Venerable, you’re a corrupter of families and badly behaved."
 
-msgctxt "pi-tv-bu-vb-ss13:17.19"
+msgctxt "pi-tv-bu-vb-ss13:17.18"
 msgid "Āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca."
 msgstr "Your bad behavior is seen and heard about,"
 
-msgctxt "pi-tv-bu-vb-ss13:17.20"
+msgctxt "pi-tv-bu-vb-ss13:17.19"
 msgid "Kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca."
 msgstr "and the families corrupted by you are seen and heard about."
 
-msgctxt "pi-tv-bu-vb-ss13:17.21"
+msgctxt "pi-tv-bu-vb-ss13:17.20"
 msgid "Pakkamatāyasmā imamhā āvāsā."
 msgstr "Venerable, leave this monastery;"
 
-msgctxt "pi-tv-bu-vb-ss13:17.22"
+msgctxt "pi-tv-bu-vb-ss13:17.21"
 msgid "Alaṃ te idha vāsenā’ti."
 msgstr "you have stayed here long enough.”"
 
-msgctxt "pi-tv-bu-vb-ss13:17.23"
+msgctxt "pi-tv-bu-vb-ss13:17.22"
 msgid "Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbo tassa paṭinissaggāya."
 msgstr "If that monk still continues as before, the monks should admonish him up to three times to make him stop."
 
-msgctxt "pi-tv-bu-vb-ss13:17.24"
+msgctxt "pi-tv-bu-vb-ss13:17.23"
 msgid "Yāvatatiyañce sama­nubhā­si­yamāno taṃ paṭi­nissaj­jeyya, iccetaṃ kusalaṃ;"
 msgstr "If he then stops, that is good."
 
-msgctxt "pi-tv-bu-vb-ss13:17.25"
+msgctxt "pi-tv-bu-vb-ss13:17.24"
 msgid "no ce paṭi­nissaj­jeyya, saṃghādiseso”ti."
 msgstr "If not, he commits an offense entailing suspension.’”"
 
 #. </strong> 
-msgctxt "pi-tv-bu-vb-ss13:17.26"
+msgctxt "pi-tv-bu-vb-ss13:17.25"
 msgid "(<em>13</em>:<strong>17</strong>)"
 msgstr ""
 
@@ -942,48 +930,44 @@ msgstr "Other monks,"
 
 #. <a class="sc" id="27"></a> 
 msgctxt "pi-tv-bu-vb-ss13:31.1"
-msgid "Ye passanti ye suṇanti"
-msgstr "those who see it or hear about it."
-
-msgctxt "pi-tv-bu-vb-ss13:31.2"
-msgid "tehi vattabbo—"
-msgstr "They should say,"
+msgid "Ye passanti ye suṇanti tehi vattabbo—"
+msgstr "those who see it or hear about it. They should say,"
 
 #. <span class="kamma"> 
-msgctxt "pi-tv-bu-vb-ss13:31.3"
+msgctxt "pi-tv-bu-vb-ss13:31.2"
 msgid "“māyasmā evaṃ avaca."
 msgstr "“Venerable, don’t say that."
 
-msgctxt "pi-tv-bu-vb-ss13:31.4"
+msgctxt "pi-tv-bu-vb-ss13:31.3"
 msgid "Na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino."
 msgstr "The monks are not acting out of desire, ill-will, confusion, and fear."
 
-msgctxt "pi-tv-bu-vb-ss13:31.5"
+msgctxt "pi-tv-bu-vb-ss13:31.4"
 msgid "Āyasmā kho kuladūsako pāpasamācāro."
 msgstr "Venerable, you’re a corrupter of families and badly behaved."
 
-msgctxt "pi-tv-bu-vb-ss13:31.6"
+msgctxt "pi-tv-bu-vb-ss13:31.5"
 msgid "Āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca."
 msgstr "Your bad behavior is seen and heard about,"
 
-msgctxt "pi-tv-bu-vb-ss13:31.7"
+msgctxt "pi-tv-bu-vb-ss13:31.6"
 msgid "Kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca."
 msgstr "and the families corrupted by you are seen and heard about."
 
-msgctxt "pi-tv-bu-vb-ss13:31.8"
+msgctxt "pi-tv-bu-vb-ss13:31.7"
 msgid "Pakkamatāyasmā imamhā āvāsā."
 msgstr "Venerable, leave this monastery;"
 
-msgctxt "pi-tv-bu-vb-ss13:31.9"
+msgctxt "pi-tv-bu-vb-ss13:31.8"
 msgid "Alaṃ te idha vāsenā”ti."
 msgstr "you have stayed here long enough.”"
 
-msgctxt "pi-tv-bu-vb-ss13:31.10"
+msgctxt "pi-tv-bu-vb-ss13:31.9"
 msgid "Dutiyampi vattabbo."
 msgstr "And they should say this a second"
 
 #. <a class="ms-pa" id="ms-pa1780"></a> 
-msgctxt "pi-tv-bu-vb-ss13:31.11"
+msgctxt "pi-tv-bu-vb-ss13:31.10"
 msgid "Tatiyampi vattabbo."
 msgstr "and a third time."
 

@@ -248,19 +248,15 @@ msgid "No ce sabbo saṃgho ussahati vihāravatthuṃ oloketuṃ,"
 msgstr "If the whole Order is not able to inspect the site,"
 
 msgctxt "pi-tv-bu-vb-ss7:14.9"
-msgid "ye tattha honti bhikkhū byattā paṭibalā sārambhaṃ anārambhaṃ saparikkamanaṃ aparikkamanaṃ jānituṃ"
-msgstr "then those monks there who are competent and capable—who know where harm will be done and where no harm will be done, and who knows what is meant by a space on all sides and a lacks a space on all sides—"
-
-msgctxt "pi-tv-bu-vb-ss7:14.10"
-msgid "te yācitvā sammannitabbā."
-msgstr "should be asked and then appointed."
+msgid "ye tattha honti bhikkhū byattā paṭibalā sārambhaṃ anārambhaṃ saparikkamanaṃ aparikkamanaṃ jānituṃ te yācitvā sammannitabbā."
+msgstr "then those monks there who are competent and capable—who know where harm will be done and where no harm will be done, and who knows what is meant by a space on all sides and a lacks a space on all sides—should be asked and then appointed."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss7:14.11"
+msgctxt "pi-tv-bu-vb-ss7:14.10"
 msgid "“Evañca pana, bhikkhave, sammannitabbā."
 msgstr "“And, monks, they should be appointed in this way."
 
-msgctxt "pi-tv-bu-vb-ss7:14.12"
+msgctxt "pi-tv-bu-vb-ss7:14.11"
 msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "A competent and capable monk should inform the Order:"
 

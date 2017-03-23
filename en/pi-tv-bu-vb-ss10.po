@@ -220,12 +220,8 @@ msgid "Atha kho devadatto—"
 msgstr "Devadatta thought,"
 
 msgctxt "pi-tv-bu-vb-ss10:6.18"
-msgid "“na bhagavā imāni pañca vatthūni anujānātī”ti haṭṭho udaggo"
-msgstr "“The Master doesn’t allow the five points,” and he was glad and elated."
-
-msgctxt "pi-tv-bu-vb-ss10:6.19"
-msgid "sapariso uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
-msgstr "He rose from his seat, bowed down to the Master, circumambulated him with his right side towards him, and departed with his followers."
+msgid "“na bhagavā imāni pañca vatthūni anujānātī”ti haṭṭho udaggo sapariso uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
+msgstr "“The Master doesn’t allow the five points,” and he was glad and elated. He rose from his seat, bowed down to the Master, circumambulated him with his right side towards him, and departed with his followers."
 
 #. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms-pa1675"></a><a class="pts-vp-en" id="bd.1.299"></a> 
 msgctxt "pi-tv-bu-vb-ss10:7.1"

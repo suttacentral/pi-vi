@@ -245,14 +245,10 @@ msgid "Atha kho sā gaṇakī tesaṃ ājīva­ka­sāvakā­naṃ dhītaraṃ a
 msgstr "She then gave her daughter to those Ājīvaka followers,"
 
 msgctxt "pi-tv-bu-vb-ss5:8.10"
-msgid "Atha kho te ājīvakasāvakā taṃ kumārikaṃ netvā"
-msgstr "and they took her away."
+msgid "Atha kho te ājīvakasāvakā taṃ kumārikaṃ netvā māsaṃyeva suṇisabhogena bhuñjiṃsu."
+msgstr "and they took her away. For a month they treated her like a daughter-in-law,"
 
 msgctxt "pi-tv-bu-vb-ss5:8.11"
-msgid "māsaṃyeva suṇisabhogena bhuñjiṃsu."
-msgstr "For a month they treated her like a daughter-in-law,"
-
-msgctxt "pi-tv-bu-vb-ss5:8.12"
 msgid "Tato aparena dāsibhogena bhuñjanti."
 msgstr "but after that like a slave."
 

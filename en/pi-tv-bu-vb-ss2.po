@@ -239,19 +239,15 @@ msgstr "Final ruling"
 #. </h2><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa998"></a><a class="pts-vp-en" id="bd.1.202"></a>
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-ss2:10.2"
-msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya"
-msgstr "‘If a lustful monk makes physical contact with a woman—"
+msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ,"
+msgstr "‘If a lustful monk makes physical contact with a woman—holding her hand or hair, or touching any part of her body—"
 
 msgctxt "pi-tv-bu-vb-ss2:10.3"
-msgid "hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ,"
-msgstr "holding her hand or hair, or touching any part of her body—"
-
-msgctxt "pi-tv-bu-vb-ss2:10.4"
 msgid "saṃghādiseso”ti."
 msgstr "he commits an offense entailing suspension.’”"
 
 #. </strong> 
-msgctxt "pi-tv-bu-vb-ss2:10.5"
+msgctxt "pi-tv-bu-vb-ss2:10.4"
 msgid "(<em>2</em>:<strong>6</strong>)"
 msgstr ""
 
@@ -855,14 +851,10 @@ msgstr "takes hold of them, contacts them, he commits two serious offenses."
 
 #. </p><hr><p><a class="sc" id="48"></a><a class="ms-pa" id="ms-pa1040"></a> 
 msgctxt "pi-tv-bu-vb-ss2:52.1"
-msgid "Dve paṇḍakā dvinnaṃ paṇḍakānaṃ paṇḍakasaññī sāratto ca"
-msgstr "It is two sexual non-conformists, he perceives them both as sexual non-conformists, and he has lust."
+msgid "Dve paṇḍakā dvinnaṃ paṇḍakānaṃ paṇḍakasaññī sāratto ca bhikkhu ca naṃ dvinnaṃ paṇḍakānaṃ kāyena kāyaṃ āmasati parāmasati … pe …"
+msgstr "It is two sexual non-conformists, he perceives them both as sexual non-conformists, and he has lust. If the monk makes physical contact with the two sexual non-conformists, body to body, if he touches them …"
 
 msgctxt "pi-tv-bu-vb-ss2:52.2"
-msgid "bhikkhu ca naṃ dvinnaṃ paṇḍakānaṃ kāyena kāyaṃ āmasati parāmasati … pe …"
-msgstr "If the monk makes physical contact with the two sexual non-conformists, body to body, if he touches them …"
-
-msgctxt "pi-tv-bu-vb-ss2:52.3"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ thullaccayānaṃ."
 msgstr "takes hold of them, contacts them, he commits two serious offenses."
 
@@ -893,14 +885,10 @@ msgstr "takes hold of them, contacts them, he commits two offenses of wrong cond
 
 #. </p><hr><p><a class="sc" id="50"></a><a class="ms-pa" id="ms-pa1042"></a> 
 msgctxt "pi-tv-bu-vb-ss2:54.1"
-msgid "Dve purisā dvinnaṃ purisānaṃ purisasaññī sāratto ca"
-msgstr "It is two men, he perceives them both as men, and he has lust."
+msgid "Dve purisā dvinnaṃ purisānaṃ purisasaññī sāratto ca bhikkhu ca naṃ dvinnaṃ purisānaṃ kāyena kāyaṃ āmasati parāmasati … pe …"
+msgstr "It is two men, he perceives them both as men, and he has lust. If the monk makes physical contact with the two men, body to body, if he touches them …"
 
 msgctxt "pi-tv-bu-vb-ss2:54.2"
-msgid "bhikkhu ca naṃ dvinnaṃ purisānaṃ kāyena kāyaṃ āmasati parāmasati … pe …"
-msgstr "If the monk makes physical contact with the two men, body to body, if he touches them …"
-
-msgctxt "pi-tv-bu-vb-ss2:54.3"
 msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct."
 

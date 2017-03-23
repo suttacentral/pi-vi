@@ -72,23 +72,19 @@ msgid "Dhammavādī devadatto, vinayavādī devadatto."
 msgstr "Devadatta does speak in accordance with the Teaching and the training."
 
 msgctxt "pi-tv-bu-vb-ss11:5.10"
-msgid "Amhākañca devadatto chandañca ruciñca ādāya voharati"
-msgstr "And he speaks with our consent and approval."
-
-msgctxt "pi-tv-bu-vb-ss11:5.11"
-msgid "jānāti no bhāsati amhākampetaṃ khamatī”ti."
-msgstr "He knows about us and speaks for us, and we agree to this.”"
+msgid "Amhākañca devadatto chandañca ruciñca ādāya voharati jānāti no bhāsati amhākampetaṃ khamatī”ti."
+msgstr "And he speaks with our consent and approval. He knows about us and speaks for us, and we agree to this.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss11:5.12"
+msgctxt "pi-tv-bu-vb-ss11:5.11"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pi-tv-bu-vb-ss11:5.13"
+msgctxt "pi-tv-bu-vb-ss11:5.12"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized them,"
 
-msgctxt "pi-tv-bu-vb-ss11:5.14"
+msgctxt "pi-tv-bu-vb-ss11:5.13"
 msgid "“kathañhi nāma bhikkhū devadattassa saṃghabhedāya parakka­man­tassa anuvattakā bhavissanti vaggavādakā”ti."
 msgstr "“How can these monks support Devadatta’s pursuit of schism in the monastic Order?”"
 
@@ -147,12 +143,8 @@ msgid "Dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu."
 msgstr "He speaks in accordance with the Teaching and the training."
 
 msgctxt "pi-tv-bu-vb-ss11:7.6"
-msgid "Amhākañceso bhikkhu chandañca ruciñca ādāya voharati"
-msgstr "And he speaks with our consent and approval."
-
-msgctxt "pi-tv-bu-vb-ss11:7.7"
-msgid "jānāti no bhāsati amhākampetaṃ khamatī’ti,"
-msgstr "He knows about us and speaks for us, and we agree to this.”"
+msgid "Amhākañceso bhikkhu chandañca ruciñca ādāya voharati jānāti no bhāsati amhākampetaṃ khamatī’ti,"
+msgstr "And he speaks with our consent and approval. He knows about us and speaks for us, and we agree to this.”"
 
 msgctxt "pi-tv-bu-vb-ss11:7.8"
 msgid "te bhikkhū bhikkhūhi evamassu vacanīyā—"
@@ -272,12 +264,8 @@ msgid "dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu,"
 msgstr "He speaks in accordance with the Teaching and the training."
 
 msgctxt "pi-tv-bu-vb-ss11:12.6"
-msgid "amhākañceso bhikkhu chandañca ruciñca ādāya voharati"
-msgstr "And he speaks with our consent and approval."
-
-msgctxt "pi-tv-bu-vb-ss11:12.7"
-msgid "jānāti no bhāsati amhākampetaṃ khamatī”ti."
-msgstr "He knows about us and speaks for us, and we agree to this.”"
+msgid "amhākañceso bhikkhu chandañca ruciñca ādāya voharati jānāti no bhāsati amhākampetaṃ khamatī”ti."
+msgstr "And he speaks with our consent and approval. He knows about us and speaks for us, and we agree to this.”"
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1712"></a>
@@ -306,113 +294,109 @@ msgstr "Other monks,"
 
 #. <a class="sc" id="11"></a> 
 msgctxt "pi-tv-bu-vb-ss11:15.1"
-msgid "Ye passanti ye suṇanti"
-msgstr "those who see it or hear about it."
-
-msgctxt "pi-tv-bu-vb-ss11:15.2"
-msgid "tehi vattabbā—"
-msgstr "They should say,"
+msgid "Ye passanti ye suṇanti tehi vattabbā—"
+msgstr "those who see it or hear about it. They should say,"
 
 #. <span class="kamma"> 
-msgctxt "pi-tv-bu-vb-ss11:15.3"
+msgctxt "pi-tv-bu-vb-ss11:15.2"
 msgid "“māyasmanto evaṃ avacuttha."
 msgstr "“Venerables, don’t say that."
 
-msgctxt "pi-tv-bu-vb-ss11:15.4"
+msgctxt "pi-tv-bu-vb-ss11:15.3"
 msgid "Na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī."
 msgstr "This monk does not speak in accordance with the Teaching or the training."
 
-msgctxt "pi-tv-bu-vb-ss11:15.5"
+msgctxt "pi-tv-bu-vb-ss11:15.4"
 msgid "­Mā­yasman­tānampi saṃghabhedo ruccittha."
 msgstr "Don’t consent to schism in the monastic Order."
 
-msgctxt "pi-tv-bu-vb-ss11:15.6"
+msgctxt "pi-tv-bu-vb-ss11:15.5"
 msgid "Same­tā­yasman­tānaṃ saṃghena."
 msgstr "Stay with the Order,"
 
-msgctxt "pi-tv-bu-vb-ss11:15.7"
+msgctxt "pi-tv-bu-vb-ss11:15.6"
 msgid "Samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti."
 msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
 
-msgctxt "pi-tv-bu-vb-ss11:15.8"
+msgctxt "pi-tv-bu-vb-ss11:15.7"
 msgid "Dutiyampi vattabbā."
 msgstr "And they should say this a second"
 
-msgctxt "pi-tv-bu-vb-ss11:15.9"
+msgctxt "pi-tv-bu-vb-ss11:15.8"
 msgid "Tatiyampi vattabbā."
 msgstr "and a third time."
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-ss11:15.10"
+msgctxt "pi-tv-bu-vb-ss11:15.9"
 msgid "Sace paṭi­nissaj­janti, iccetaṃ kusalaṃ;"
 msgstr "If they stop, that is good."
 
-msgctxt "pi-tv-bu-vb-ss11:15.11"
+msgctxt "pi-tv-bu-vb-ss11:15.10"
 msgid "no ce paṭi­nissaj­janti, āpatti dukkaṭassa."
 msgstr "If they do not stop, they commit an offense of wrong conduct."
 
 #. <span class="subrule"> 
-msgctxt "pi-tv-bu-vb-ss11:15.12"
+msgctxt "pi-tv-bu-vb-ss11:15.11"
 msgid "Sutvā na vadanti, āpatti dukkaṭassa."
 msgstr "If those who hear about it do not say anything, they commit an offense of wrong conduct."
 
 #. </span>
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss11:15.13"
+msgctxt "pi-tv-bu-vb-ss11:15.12"
 msgid "Te bhikkhū saṃgha­majjhampi ākaḍḍhitvā vattabbā—"
 msgstr "Those monks, even if they have to be dragged into the middle of the Order, should be to spoken to thus:"
 
 #. <span class="kamma"> 
-msgctxt "pi-tv-bu-vb-ss11:15.14"
+msgctxt "pi-tv-bu-vb-ss11:15.13"
 msgid "“māyasmanto evaṃ avacuttha."
 msgstr "“Venerables, don’t say that."
 
-msgctxt "pi-tv-bu-vb-ss11:15.15"
+msgctxt "pi-tv-bu-vb-ss11:15.14"
 msgid "Na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī."
 msgstr "This monk does not speak in accordance with the Teaching or the training."
 
-msgctxt "pi-tv-bu-vb-ss11:15.16"
+msgctxt "pi-tv-bu-vb-ss11:15.15"
 msgid "­Mā­yasman­tānampi saṃghabhedo ruccittha."
 msgstr "Don’t consent to schism in the monastic Order."
 
-msgctxt "pi-tv-bu-vb-ss11:15.17"
+msgctxt "pi-tv-bu-vb-ss11:15.16"
 msgid "Same­tā­yasman­tānaṃ saṃghena."
 msgstr "Stay with the Order,"
 
-msgctxt "pi-tv-bu-vb-ss11:15.18"
+msgctxt "pi-tv-bu-vb-ss11:15.17"
 msgid "Samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti."
 msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
 
-msgctxt "pi-tv-bu-vb-ss11:15.19"
+msgctxt "pi-tv-bu-vb-ss11:15.18"
 msgid "Dutiyampi vattabbā."
 msgstr "They should say this a second"
 
-msgctxt "pi-tv-bu-vb-ss11:15.20"
+msgctxt "pi-tv-bu-vb-ss11:15.19"
 msgid "Tatiyampi vattabbā."
 msgstr "and a third time."
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-ss11:15.21"
+msgctxt "pi-tv-bu-vb-ss11:15.20"
 msgid "Sace paṭi­nissaj­janti, iccetaṃ kusalaṃ;"
 msgstr "If they stop, that is good."
 
-msgctxt "pi-tv-bu-vb-ss11:15.22"
+msgctxt "pi-tv-bu-vb-ss11:15.21"
 msgid "no ce paṭi­nissaj­janti, āpatti dukkaṭassa."
 msgstr "If they do not stop, they commit an offense of wrong conduct."
 
 #. </p></div><p>
 #. <strong class="term"> 
-msgctxt "pi-tv-bu-vb-ss11:15.23"
+msgctxt "pi-tv-bu-vb-ss11:15.22"
 msgid "Te bhikkhū sama­nubhā­si­tabbā."
 msgstr "Should admonish them:"
 
 #. </strong>
 #. </p><div class="gloss"><p>
-msgctxt "pi-tv-bu-vb-ss11:15.24"
+msgctxt "pi-tv-bu-vb-ss11:15.23"
 msgid "“Evañca pana, bhikkhave, sama­nubhā­si­tabbā."
 msgstr "“And, monks, they should be admonished in this way."
 
-msgctxt "pi-tv-bu-vb-ss11:15.25"
+msgctxt "pi-tv-bu-vb-ss11:15.24"
 msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "A competent and capable monk should inform the Order:"
 

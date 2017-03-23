@@ -68,30 +68,22 @@ msgstr "“Venerable, we would like to see your dwelling.”"
 
 #. </p><p>
 msgctxt "pi-tv-bu-vb-ss3:5.8"
-msgid "Atha kho āyasmā udāyī tā itthiyo vihāraṃ pekkhāpetvā tāsaṃ itthīnaṃ vaccamaggaṃ passāvamaggaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi"
-msgstr "Then, after showing them his own dwelling, he praised and disparaged their private parts;"
+msgid "Atha kho āyasmā udāyī tā itthiyo vihāraṃ pekkhāpetvā tāsaṃ itthīnaṃ vaccamaggaṃ passāvamaggaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati yācatipi āyācatipi pucchatipi paṭipucchatipi ācikkhatipi anusāsatipi akkosatipi."
+msgstr "Then, after showing them his own dwelling, he praised and disparaged their private parts; he requested and implored, asked and enquired, described, instructed, and abused."
 
 msgctxt "pi-tv-bu-vb-ss3:5.9"
-msgid "bhaṇati yācatipi āyācatipi pucchatipi paṭipucchatipi ācikkhatipi anusāsatipi akkosatipi."
-msgstr "he requested and implored, asked and enquired, described, instructed, and abused."
+msgid "Yā tā itthiyo chinnikā dhuttikā ahirikāyo tā āyasmatā udāyinā saddhiṃ uhasantipi ullapantipi ujjagghantipi uppaṇḍentipi."
+msgstr "Those women among them who were wanton and shameless flirted with Udāyī; they called out to him, laughed with him, and made fun of him."
 
 msgctxt "pi-tv-bu-vb-ss3:5.10"
-msgid "Yā tā itthiyo chinnikā dhuttikā ahirikāyo tā āyasmatā udāyinā saddhiṃ uhasantipi"
-msgstr "Those women among them who were wanton and shameless flirted with Udāyī;"
-
-msgctxt "pi-tv-bu-vb-ss3:5.11"
-msgid "ullapantipi ujjagghantipi uppaṇḍentipi."
-msgstr "they called out to him, laughed with him, and made fun of him."
-
-msgctxt "pi-tv-bu-vb-ss3:5.12"
 msgid "Yā pana tā itthiyo hirimanā tā nikkhamitvā bhikkhū ujjhāpenti—"
 msgstr "But, after leaving, those among them who had a sense of shame complained to the monks,"
 
-msgctxt "pi-tv-bu-vb-ss3:5.13"
+msgctxt "pi-tv-bu-vb-ss3:5.11"
 msgid "“idaṃ, bhante, nacchannaṃ nappatirūpaṃ."
 msgstr "“Venerables, this isn’t suitable and appropriate."
 
-msgctxt "pi-tv-bu-vb-ss3:5.14"
+msgctxt "pi-tv-bu-vb-ss3:5.12"
 msgid "Sāmikenapi mayaṃ evaṃ vuttā na iccheyyāma, kiṃ panāyyena udāyinā”ti."
 msgstr "We wouldn’t want to hear this from our own husbands, let alone from Venerable Udāyī.”"
 
@@ -779,30 +771,22 @@ msgid "“Āmāyya, navaratto kambalo”ti."
 msgstr "“Yes, Venerable, it’s a newly dyed upper robe of wool.”"
 
 msgctxt "pi-tv-bu-vb-ss3:43.6"
-msgid "Tassa kukkuccaṃ ahosi"
-msgstr "He became remorseful and thought,"
+msgid "Tassa kukkuccaṃ ahosi “bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti? kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti?"
+msgstr "He became remorseful and thought, “The Master has laid down a training rule. Could it be that I’ve committed an offense entailing suspension?”"
 
 msgctxt "pi-tv-bu-vb-ss3:43.7"
-msgid "“bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti?"
-msgstr "“The Master has laid down a training rule."
-
-msgctxt "pi-tv-bu-vb-ss3:43.8"
-msgid "kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti?"
-msgstr "Could it be that I’ve committed an offense entailing suspension?”"
-
-msgctxt "pi-tv-bu-vb-ss3:43.9"
 msgid "Bhagavato etamatthaṃ ārocesi."
 msgstr "He informed the Master, and the Master said,"
 
-msgctxt "pi-tv-bu-vb-ss3:43.10"
+msgctxt "pi-tv-bu-vb-ss3:43.8"
 msgid "“Anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
 msgstr "“There’s no offense entailing suspension,"
 
-msgctxt "pi-tv-bu-vb-ss3:43.11"
+msgctxt "pi-tv-bu-vb-ss3:43.9"
 msgid "āpatti dukkaṭassā”ti."
 msgstr "but there’s an offense of wrong conduct.”"
 
-msgctxt "pi-tv-bu-vb-ss3:43.12"
+msgctxt "pi-tv-bu-vb-ss3:43.10"
 msgid "(1)"
 msgstr ""
 

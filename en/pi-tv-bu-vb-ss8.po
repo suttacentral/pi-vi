@@ -560,12 +560,8 @@ msgid "Te teneva domanassena na cittarūpaṃ bhuñjiṃsu."
 msgstr "And because they were dejected, they did not eat as much as they had intended."
 
 msgctxt "pi-tv-bu-vb-ss8:17.19"
-msgid "Atha kho metti­ya­bhūma­jakā bhikkhū pacchābhattaṃ piṇḍa­pāta­paṭik­kantā ārāmaṃ gantvā pattacīvaraṃ paṭisāmetvā ­bahārā­ma­koṭṭhake saṅghā­ṭi­pal­latthi­kāya nisīdiṃsu"
-msgstr "After  the meal they returned to the monastery, put their bowls and robes away, and squatted on their heels outside the monastery entrance, supported by their outer robe."
-
-msgctxt "pi-tv-bu-vb-ss8:17.20"
-msgid "tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā."
-msgstr "They were silent and dismayed, their shoulders drooping and their heads down, glum and speechless."
+msgid "Atha kho metti­ya­bhūma­jakā bhikkhū pacchābhattaṃ piṇḍa­pāta­paṭik­kantā ārāmaṃ gantvā pattacīvaraṃ paṭisāmetvā ­bahārā­ma­koṭṭhake saṅghā­ṭi­pal­latthi­kāya nisīdiṃsu tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā."
+msgstr "After  the meal they returned to the monastery, put their bowls and robes away, and squatted on their heels outside the monastery entrance, supported by their outer robe. They were silent and dismayed, their shoulders drooping and their heads down, glum and speechless."
 
 #. </p><p><a class="sc" id="14"></a><a class="pts-cs" id="bu-ss.8.1.8"></a><a class="pts-vp-en" id="bd.1.279"></a><a class="ms-pa" id="ms-pa1569"></a> 
 msgctxt "pi-tv-bu-vb-ss8:18.1"
@@ -1874,12 +1870,8 @@ msgstr "If one thinks he is pure, but then, without having obtained his consent,
 
 #. </p><p><a class="sc" id="68"></a><a class="ms-pa" id="ms-pa1623"></a> 
 msgctxt "pi-tv-bu-vb-ss8:72.1"
-msgid "Suddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ anajjhāpanno"
-msgstr "A pure person has not committed an offense entailing expulsion."
-
-msgctxt "pi-tv-bu-vb-ss8:72.2"
-msgid "tañce suddhadiṭṭhi samāno okāsaṃ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādassa."
-msgstr "If one thinks he is pure, but then, having obtained his consent, speaks with the aim of abusing him, one commits an offense for abusive speech."
+msgid "Suddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ anajjhāpanno tañce suddhadiṭṭhi samāno okāsaṃ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādassa."
+msgstr "A pure person has not committed an offense entailing expulsion. If one thinks he is pure, but then, having obtained his consent, speaks with the aim of abusing him, one commits an offense for abusive speech."
 
 #. </p><h2>
 msgctxt "pi-tv-bu-vb-ss8:73.1"

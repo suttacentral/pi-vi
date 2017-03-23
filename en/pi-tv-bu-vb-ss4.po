@@ -154,26 +154,14 @@ msgid "apagatā ime sāmaññā apagatā ime brahmaññā."
 msgstr "they’ve lost the plot."
 
 msgctxt "pi-tv-bu-vb-ss4:7.6"
-msgid "Kathañhi nāma samaṇo udāyī maṃ sāmaṃ methunadhammaṃ yācitvā,"
-msgstr "How can the ascetic Udāyī request sexual intercourse from me, but then spit out,"
+msgid "Kathañhi nāma samaṇo udāyī maṃ sāmaṃ methunadhammaṃ yācitvā, ‘ko imaṃ vasalaṃ duggandhaṃ āmasissatī’ti niṭṭhubhitvā pakkamissati."
+msgstr "How can the ascetic Udāyī request sexual intercourse from me, but then spit out, ‘Who would touch this foul-smelling wretch!’ and depart?"
 
 msgctxt "pi-tv-bu-vb-ss4:7.7"
-msgid "‘ko imaṃ vasalaṃ duggandhaṃ āmasissatī’ti"
-msgstr "‘Who would touch this foul-smelling wretch!’"
+msgid "Kiṃ me pāpakaṃ kiṃ me duggandhaṃ,"
+msgstr "What’s bad about me? How am I foul-smelling?"
 
 msgctxt "pi-tv-bu-vb-ss4:7.8"
-msgid "niṭṭhubhitvā pakkamissati."
-msgstr "and depart?"
-
-msgctxt "pi-tv-bu-vb-ss4:7.9"
-msgid "Kiṃ me pāpakaṃ"
-msgstr "What’s bad about me?"
-
-msgctxt "pi-tv-bu-vb-ss4:7.10"
-msgid "kiṃ me duggandhaṃ,"
-msgstr "How am I foul-smelling?"
-
-msgctxt "pi-tv-bu-vb-ss4:7.11"
 msgid "kassāhaṃ kena hāyāmī”ti?"
 msgstr "In what way am I inferior to whom?”"
 

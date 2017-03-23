@@ -71,56 +71,48 @@ msgid "Ahaṃ kho nāma tumhe vadeyyaṃ."
 msgstr "I should correct you!"
 
 msgctxt "pi-tv-bu-vb-ss12:5.10"
-msgid "Amhākaṃ buddho"
-msgstr "The Buddha is mine;"
+msgid "Amhākaṃ buddho amhākaṃ dhammo"
+msgstr "The Buddha is mine; the Teaching is mine."
 
 msgctxt "pi-tv-bu-vb-ss12:5.11"
-msgid "amhākaṃ dhammo"
-msgstr "the Teaching is mine."
-
-msgctxt "pi-tv-bu-vb-ss12:5.12"
 msgid "amhākaṃ ayyaputtena dhammo abhisamito."
 msgstr "The Truth was realized by the young Master because of me."
 
-msgctxt "pi-tv-bu-vb-ss12:5.13"
+msgctxt "pi-tv-bu-vb-ss12:5.12"
 msgid "Seyyathāpi nāma mahāvāto vāyanto tiṇakaṭ­ṭha­paṇṇa­sa­ṭaṃ ekato ussāreyya, seyyathā vā pana nadī pabbateyyā saṅ­kha­se­vālapa­ṇa­kaṃ ekato ussāreyya;"
 msgstr "Just as a great wind lifts up grass, sticks, and fallen leaves all at once, just as a mountain stream lifts up the leaves of various water plants all at once,"
 
-msgctxt "pi-tv-bu-vb-ss12:5.14"
+msgctxt "pi-tv-bu-vb-ss12:5.13"
 msgid "evameva tumhe nānānāmā nānāgottā nānājaccā nānākulā pabbajitā ekato ussāritā."
 msgstr "so too you–having various names, various families, various castes, various clans–having gone forth, have been lifted up together."
 
-msgctxt "pi-tv-bu-vb-ss12:5.15"
+msgctxt "pi-tv-bu-vb-ss12:5.14"
 msgid "Kiṃ nu kho nāma tumhe, āvuso, maṃ vattabbaṃ maññatha?"
 msgstr "So, who are you to correct me?"
 
-msgctxt "pi-tv-bu-vb-ss12:5.16"
+msgctxt "pi-tv-bu-vb-ss12:5.15"
 msgid "Ahaṃ kho nāma tumhe vadeyyaṃ."
 msgstr "I should correct you!"
 
+msgctxt "pi-tv-bu-vb-ss12:5.16"
+msgid "Amhākaṃ buddho amhākaṃ dhammo"
+msgstr "The Buddha is mine; the Teaching is mine."
+
 msgctxt "pi-tv-bu-vb-ss12:5.17"
-msgid "Amhākaṃ buddho"
-msgstr "The Buddha is mine;"
-
-msgctxt "pi-tv-bu-vb-ss12:5.18"
-msgid "amhākaṃ dhammo"
-msgstr "the Teaching is mine."
-
-msgctxt "pi-tv-bu-vb-ss12:5.19"
 msgid "amhākaṃ ayyaputtena dhammo abhisamito”ti."
 msgstr "The Truth was realized by the young Master because of me.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss12:5.20"
+msgctxt "pi-tv-bu-vb-ss12:5.18"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pi-tv-bu-vb-ss12:5.21"
+msgctxt "pi-tv-bu-vb-ss12:5.19"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized him,"
 
 #. <a class="pts-vp-en" id="bd.1.310"></a> 
-msgctxt "pi-tv-bu-vb-ss12:5.22"
+msgctxt "pi-tv-bu-vb-ss12:5.20"
 msgid "“kathañhi nāma āyasmā channo bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karissatī”ti."
 msgstr "“How can Venerable Channa make himself incorrigible when he’s legitimately corrected by the monks?”"
 
@@ -300,95 +292,91 @@ msgid "aññehi bhikkhūhi."
 msgstr "Other monks,"
 
 msgctxt "pi-tv-bu-vb-ss12:14.3"
-msgid "Ye passanti ye suṇanti"
-msgstr "those who see it or hear about it."
-
-msgctxt "pi-tv-bu-vb-ss12:14.4"
-msgid "tehi vattabbo—"
-msgstr "They should say,"
+msgid "Ye passanti ye suṇanti tehi vattabbo—"
+msgstr "those who see it or hear about it. They should say,"
 
 #. <span class="kamma"> 
-msgctxt "pi-tv-bu-vb-ss12:14.5"
+msgctxt "pi-tv-bu-vb-ss12:14.4"
 msgid "“māyasmā attānaṃ avacanīyaṃ akāsi."
 msgstr "“Venerable, be easy to correct,"
 
-msgctxt "pi-tv-bu-vb-ss12:14.6"
+msgctxt "pi-tv-bu-vb-ss12:14.5"
 msgid "Vacanīyameva āyasmā attānaṃ karotu."
 msgstr "not incorrigible."
 
-msgctxt "pi-tv-bu-vb-ss12:14.7"
+msgctxt "pi-tv-bu-vb-ss12:14.6"
 msgid "Āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena."
 msgstr "And please give legitimate correction to the monks, and the monks will do the same to you."
 
-msgctxt "pi-tv-bu-vb-ss12:14.8"
+msgctxt "pi-tv-bu-vb-ss12:14.7"
 msgid "Evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ añña­mañña­vaca­nena añña­mañña­vuṭṭhā­panenā”ti."
 msgstr "For it’s in this way that the Master’s community has grown, that is, through mutual correction and mutual rehabilitation.”"
 
-msgctxt "pi-tv-bu-vb-ss12:14.9"
+msgctxt "pi-tv-bu-vb-ss12:14.8"
 msgid "Dutiyampi vattabbo."
 msgstr "And they should say this a second"
 
-msgctxt "pi-tv-bu-vb-ss12:14.10"
+msgctxt "pi-tv-bu-vb-ss12:14.9"
 msgid "Tatiyampi vattabbo."
 msgstr "and a third time."
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-ss12:14.11"
+msgctxt "pi-tv-bu-vb-ss12:14.10"
 msgid "Sace paṭinissajjati, iccetaṃ kusalaṃ;"
 msgstr "If he stops, that is good."
 
-msgctxt "pi-tv-bu-vb-ss12:14.12"
+msgctxt "pi-tv-bu-vb-ss12:14.11"
 msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
 msgstr "If he does not stop, he commits an offense of wrong conduct."
 
 #. <span class="subrule"> 
-msgctxt "pi-tv-bu-vb-ss12:14.13"
+msgctxt "pi-tv-bu-vb-ss12:14.12"
 msgid "Sutvā na vadanti, āpatti dukkaṭassa."
 msgstr "If those who hear about it do not say anything, they commit an offense of wrong conduct."
 
 #. </span>
 #. </p><p>
-msgctxt "pi-tv-bu-vb-ss12:14.14"
+msgctxt "pi-tv-bu-vb-ss12:14.13"
 msgid "So bhikkhu saṃgha­majjhampi ākaḍḍhitvā vattabbo—"
 msgstr "That monk, even if he has to be dragged into the middle of the Order of monks, should be spoken to thus:"
 
 #. <span class="kamma"> 
-msgctxt "pi-tv-bu-vb-ss12:14.15"
+msgctxt "pi-tv-bu-vb-ss12:14.14"
 msgid "“māyasmā attānaṃ avacanīyaṃ akāsi … pe …"
 msgstr "“Venerable, be easy to correct, not incorrigible. And please give legitimate correction to the monks, and the monks will do the same to you. For it’s in this way that the Master’s community has grown, that is, through mutual correction"
 
-msgctxt "pi-tv-bu-vb-ss12:14.16"
+msgctxt "pi-tv-bu-vb-ss12:14.15"
 msgid "añña­mañña­vuṭṭhā­panenā”ti."
 msgstr "and mutual rehabilitation.”"
 
-msgctxt "pi-tv-bu-vb-ss12:14.17"
+msgctxt "pi-tv-bu-vb-ss12:14.16"
 msgid "Dutiyampi vattabbo."
 msgstr "They should say this a second"
 
-msgctxt "pi-tv-bu-vb-ss12:14.18"
+msgctxt "pi-tv-bu-vb-ss12:14.17"
 msgid "Tatiyampi vattabbo."
 msgstr "and a third time."
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-ss12:14.19"
+msgctxt "pi-tv-bu-vb-ss12:14.18"
 msgid "Sace paṭinissajjati, iccetaṃ kusalaṃ;"
 msgstr "If he stops, that is good."
 
-msgctxt "pi-tv-bu-vb-ss12:14.20"
+msgctxt "pi-tv-bu-vb-ss12:14.19"
 msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
 msgstr "If he does not stop, he commits an offense of wrong conduct."
 
 #. </p></div><p><strong class="term"> 
-msgctxt "pi-tv-bu-vb-ss12:14.21"
+msgctxt "pi-tv-bu-vb-ss12:14.20"
 msgid "So bhikkhu sama­nubhā­si­tabbo."
 msgstr "Should admonish him:"
 
 #. </strong></p><div class="gloss"><p>
-msgctxt "pi-tv-bu-vb-ss12:14.22"
+msgctxt "pi-tv-bu-vb-ss12:14.21"
 msgid "“Evañca pana, bhikkhave, sama­nubhā­si­tabbo."
 msgstr "“And, monks, he should be admonished in this way."
 
-msgctxt "pi-tv-bu-vb-ss12:14.23"
+msgctxt "pi-tv-bu-vb-ss12:14.22"
 msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "A competent and capable monk should inform the Order:"
 
