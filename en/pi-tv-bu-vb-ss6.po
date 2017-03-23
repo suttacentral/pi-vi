@@ -55,15 +55,15 @@ msgid "Te yācanabahulā viññattibahulā viharanti—"
 msgstr "and so the monks kept on asking and begging,"
 
 #. <span class="note" hidden>I have rendered <i lang="pi">muñja</i>-reed and <i lang="pi">pabbaja</i>-reed with the single word “reed.” I am not aware that these two types of reed can be distinguished in English.</span> 
-msgctxt "pi-tv-bu-vb-ss6:5.7"
+msgctxt "pi-tv-bu-vb-ss6:5.6"
 msgid "“purisaṃ detha, puri­sattha­ka­raṃ detha, goṇaṃ detha, sakaṭaṃ detha, vāsiṃ detha, parasuṃ detha, kuṭhāriṃ detha, kudālaṃ detha, nikhādanaṃ detha, valliṃ detha, veḷuṃ detha, muñjaṃ detha, pabbajaṃ detha, tiṇaṃ detha, mattikaṃ dethā”ti."
 msgstr "“Give a man, give a servant, give an ox, give a cart, give an adz, give a hatchet, give an ax, give a spade, give a chisel, give a creeper, give bamboo, give reed, give grass, give clay.”"
 
-msgctxt "pi-tv-bu-vb-ss6:5.8"
+msgctxt "pi-tv-bu-vb-ss6:5.7"
 msgid "Manussā upaddutā yācanāya upaddutā viññattiyā bhikkhū disvā ubbijjantipi uttasantipi palāyantipi aññenapi gacchanti aññenapi mukhaṃ karonti dvārampi thakenti,"
 msgstr "People felt oppressed by all the asking and begging, so much so that when they saw a monk they became alarmed and fearful, and they ran away, took a different path, turned away, and closed their doors."
 
-msgctxt "pi-tv-bu-vb-ss6:5.9"
+msgctxt "pi-tv-bu-vb-ss6:5.8"
 msgid "gāvimpi disvā palāyanti bhikkhūti maññamānā."
 msgstr "They even ran away when they saw cows, thinking they were monks."
 

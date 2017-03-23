@@ -146,44 +146,44 @@ msgctxt "pi-tv-bu-vb-ss11:7.6"
 msgid "Amhākañceso bhikkhu chandañca ruciñca ādāya voharati jānāti no bhāsati amhākampetaṃ khamatī’ti,"
 msgstr "And he speaks with our consent and approval. He knows about us and speaks for us, and we agree to this.”"
 
-msgctxt "pi-tv-bu-vb-ss11:7.8"
+msgctxt "pi-tv-bu-vb-ss11:7.7"
 msgid "te bhikkhū bhikkhūhi evamassu vacanīyā—"
 msgstr "The monks should say to those monks,"
 
-msgctxt "pi-tv-bu-vb-ss11:7.9"
+msgctxt "pi-tv-bu-vb-ss11:7.8"
 msgid "‘māyasmanto evaṃ avacuttha,"
 msgstr "“Venerables, don’t say that."
 
-msgctxt "pi-tv-bu-vb-ss11:7.10"
+msgctxt "pi-tv-bu-vb-ss11:7.9"
 msgid "na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī,"
 msgstr "This monk does not speak in accordance with the Teaching or the training."
 
-msgctxt "pi-tv-bu-vb-ss11:7.11"
+msgctxt "pi-tv-bu-vb-ss11:7.10"
 msgid "­mā­yasman­tānampi saṃghabhedo ruccittha,"
 msgstr "Don’t consent to schism in the monastic Order."
 
-msgctxt "pi-tv-bu-vb-ss11:7.12"
+msgctxt "pi-tv-bu-vb-ss11:7.11"
 msgid "­same­tā­yasman­tānaṃ saṃghena,"
 msgstr "Stay with the Order,"
 
-msgctxt "pi-tv-bu-vb-ss11:7.13"
+msgctxt "pi-tv-bu-vb-ss11:7.12"
 msgid "­samaggo hi saṃgho sammodamāno avivadamāno ekuddeso phāsu viharatī’ti."
 msgstr "for a united Order—in concord, in harmony, having a joint recitation—lives in comfort.”"
 
-msgctxt "pi-tv-bu-vb-ss11:7.14"
+msgctxt "pi-tv-bu-vb-ss11:7.13"
 msgid "Evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbā tassa paṭinissaggāya."
 msgstr "If those monks still continue as before, the monks should admonish them up to three times to make them stop."
 
-msgctxt "pi-tv-bu-vb-ss11:7.15"
+msgctxt "pi-tv-bu-vb-ss11:7.14"
 msgid "Yāvatatiyañce sama­nubhā­si­yamānā taṃ paṭi­nissaj­jey­yuṃ, iccetaṃ kusalaṃ,"
 msgstr "If they then stop, that is good."
 
-msgctxt "pi-tv-bu-vb-ss11:7.16"
+msgctxt "pi-tv-bu-vb-ss11:7.15"
 msgid "no ce paṭi­nissaj­jey­yuṃ, saṃghādiseso”ti."
 msgstr "If not, they incur an offense entailing suspension.’”"
 
 #. </strong> 
-msgctxt "pi-tv-bu-vb-ss11:7.17"
+msgctxt "pi-tv-bu-vb-ss11:7.16"
 msgid "(<em>11</em>:<strong>15</strong>)"
 msgstr ""
 

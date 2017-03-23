@@ -802,7 +802,7 @@ msgctxt "pi-tv-bu-vb-ss13:23.2"
 msgid "ye saṃmukhā te passanti,"
 msgstr "those who are present see it;"
 
-msgctxt "pi-tv-bu-vb-ss13:23.31"
+msgctxt "pi-tv-bu-vb-ss13:23.3"
 msgid "ye tirokkhā te suṇanti."
 msgstr "those who are absent hear about it."
 

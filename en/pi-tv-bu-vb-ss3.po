@@ -88,16 +88,16 @@ msgid "Sāmikenapi mayaṃ evaṃ vuttā na iccheyyāma, kiṃ panāyyena udāyi
 msgstr "We wouldn’t want to hear this from our own husbands, let alone from Venerable Udāyī.”"
 
 #. </p><p><a class="pts-cs" id="bu-ss.3.1.2"></a> 
-msgctxt "pi-tv-bu-vb-ss3:5.15"
+msgctxt "pi-tv-bu-vb-ss3:5.13"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
 #. <a class="pts-vp-en" id="bd.1.215"></a> 
-msgctxt "pi-tv-bu-vb-ss3:5.16"
+msgctxt "pi-tv-bu-vb-ss3:5.14"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized him,"
 
-msgctxt "pi-tv-bu-vb-ss3:5.17"
+msgctxt "pi-tv-bu-vb-ss3:5.15"
 msgid "“kathañhi nāma āyasmā udāyī mātugāmaṃ duṭṭhullāhi vācāhi obhāsissatī”ti."
 msgstr "“How can Venerable Udāyī speak lewdly to women?”"
 
