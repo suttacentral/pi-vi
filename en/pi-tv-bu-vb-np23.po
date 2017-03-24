@@ -194,11 +194,11 @@ msgid "“Evaṃ, devā”ti"
 msgstr "“Yes, sir.”"
 
 #. </p><p><a class="pts-vp-en" id="bd.2.128"></a> 
-msgctxt "pi-tv-bu-vb-np23:7.22"
+msgctxt "pi-tv-bu-vb-np23:7.20"
 msgid "kho so mahāmatto rañño māgadhassa seniyassa bimbisārassa paṭissuṇitvā āyasmato pilindavacchassa pañca ārāmikasatāni pādāsi, pāṭiyekko gāmo nivisi."
 msgstr "The minister provided Pilindavaccha with five hundred monastery workers, and a separate village was established."
 
-msgctxt "pi-tv-bu-vb-np23:7.23"
+msgctxt "pi-tv-bu-vb-np23:7.21"
 msgid "Ārāmikagāmakotipi naṃ āhaṃsu, pilindagāmakotipi naṃ āhaṃsu."
 msgstr "They called it “The Monastery Workers’ Village” and “Pilinda Village.”"
 

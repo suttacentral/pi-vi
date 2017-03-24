@@ -71,15 +71,15 @@ msgctxt "pi-tv-bu-vb-np1:7.5"
 msgid "Chabbaggiyā bhikkhū—“bhagavatā ticīvaraṃ anuññātan”ti aññeneva ticīvarena gāmaṃ pavisanti, aññena ticīvarena ārāme acchanti, aññena ticīvarena nahānaṃ otaranti."
 msgstr "Knowing that this was the case, monks from the group of six entered the village in one set of three robes, stayed in the monastery in another set, and went to bathe in yet another set."
 
-msgctxt "pi-tv-bu-vb-np1:7.7"
+msgctxt "pi-tv-bu-vb-np1:7.6"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pi-tv-bu-vb-np1:7.8"
+msgctxt "pi-tv-bu-vb-np1:7.7"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized them,"
 
-msgctxt "pi-tv-bu-vb-np1:7.9"
+msgctxt "pi-tv-bu-vb-np1:7.8"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū atirekacīvaraṃ dhāressantī”ti."
 msgstr "“How can those monks from the group of six keep extra robes?”"
 

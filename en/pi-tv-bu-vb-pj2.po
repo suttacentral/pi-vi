@@ -57,47 +57,31 @@ msgid "Āyasmāpi dhaniyo kumbha­kā­ra­putto tiṇakuṭikaṃ karitvā vass
 msgstr "Among them was Venerable Dhaniya, the potter’s son."
 
 msgctxt "pi-tv-bu-vb-pj2:5.6"
-msgid "Atha kho te bhikkhū vassaṃvuṭṭhā temāsaccayena tiṇakuṭiyo bhinditvā"
-msgstr "After three months, when the rains residence was over, the monks demolished their grass huts,"
+msgid "Atha kho te bhikkhū vassaṃvuṭṭhā temāsaccayena tiṇakuṭiyo bhinditvā tiṇañca kaṭṭhañca paṭisāmetvā jana­pada­cārikaṃ pakkamiṃsu."
+msgstr "After three months, when the rains residence was over, the monks demolished their grass huts, put away the grass and wood, and departed to wander around the country."
 
 msgctxt "pi-tv-bu-vb-pj2:5.7"
-msgid "tiṇañca kaṭṭhañca paṭisāmetvā"
-msgstr "put away the grass and wood,"
-
-msgctxt "pi-tv-bu-vb-pj2:5.8"
-msgid "jana­pada­cārikaṃ pakkamiṃsu."
-msgstr "and departed to wander around the country."
-
-msgctxt "pi-tv-bu-vb-pj2:5.9"
 msgid "Āyasmā pana dhaniyo kumbha­kā­ra­putto tattheva vassaṃ vasi, tattha hemantaṃ, tattha gimhaṃ."
 msgstr "But Venerable Dhaniya also spent the winter and the summer there."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:5.10"
-msgid "Atha kho āyasmato dhaniyassa kumbha­kā­ra­puttassa gāmaṃ piṇḍāya paviṭṭhassa"
-msgstr "Then, on one occasion, while Venerable Dhaniya was in the village to collect almsfood,"
+msgctxt "pi-tv-bu-vb-pj2:5.8"
+msgid "Atha kho āyasmato dhaniyassa kumbha­kā­ra­puttassa gāmaṃ piṇḍāya paviṭṭhassa tiṇahāriyo kaṭṭhahāriyo tiṇakuṭikaṃ bhinditvā tiṇañca kaṭṭhañca ādāya agamaṃsu."
+msgstr "Then, on one occasion, while Venerable Dhaniya was in the village to collect almsfood, some women gathering grass and firewood demolished the grass hut and took away the grass and sticks."
 
-msgctxt "pi-tv-bu-vb-pj2:5.11"
-msgid "tiṇahāriyo kaṭṭhahāriyo tiṇakuṭikaṃ bhinditvā"
-msgstr "some women gathering grass and firewood demolished the grass hut"
-
-msgctxt "pi-tv-bu-vb-pj2:5.12"
-msgid "tiṇañca kaṭṭhañca ādāya agamaṃsu."
-msgstr "and took away the grass and sticks."
-
-msgctxt "pi-tv-bu-vb-pj2:5.13"
+msgctxt "pi-tv-bu-vb-pj2:5.9"
 msgid "Dutiyampi kho āyasmā dhaniyo kumbha­kā­ra­putto tiṇañca kaṭṭhañca saṅkaḍḍhitvā tiṇakuṭikaṃ akāsi."
 msgstr "A second time Dhaniya collected grass and sticks and made a grass hut,"
 
-msgctxt "pi-tv-bu-vb-pj2:5.14"
+msgctxt "pi-tv-bu-vb-pj2:5.10"
 msgid "Dutiyampi kho āyasmato dhaniyassa kumbha­kā­ra­puttassa gāmaṃ piṇḍāya paviṭṭhassa tiṇahāriyo kaṭṭhahāriyo tiṇakuṭikaṃ bhinditvā tiṇañca kaṭṭhañca ādāya agamaṃsu."
 msgstr "and again the hut was demolished in the same way."
 
-msgctxt "pi-tv-bu-vb-pj2:5.15"
+msgctxt "pi-tv-bu-vb-pj2:5.11"
 msgid "Tatiyampi kho āyasmā dhaniyo kumbha­kā­ra­putto tiṇañca kaṭṭhañca saṅkaḍḍhitvā tiṇakuṭikaṃ akāsi."
 msgstr "The same thing happened a third time."
 
-msgctxt "pi-tv-bu-vb-pj2:5.16"
+msgctxt "pi-tv-bu-vb-pj2:5.12"
 msgid "Tatiyampi kho āyasmato dhaniyassa kumbha­kā­ra­puttassa gāmaṃ piṇḍāya paviṭṭhassa tiṇahāriyo kaṭṭhahāriyo tiṇakuṭikaṃ bhinditvā tiṇañca kaṭṭhañca ādāya agamaṃsu."
 msgstr ""
 
@@ -120,18 +104,14 @@ msgstr "Why don’t I knead mud myself and make a hut consisting of nothing but 
 
 #. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms.193"></a><a class="pts-vp-pi" id="pts-vp-pi3.42"></a> 
 msgctxt "pi-tv-bu-vb-pj2:7.1"
-msgid "Atha kho āyasmā dhaniyo kumbha­kā­ra­putto sāmaṃ cikkhallaṃ madditvā sab­bamat­tikā­mayaṃ kuṭikaṃ karitvā"
-msgstr "Then Dhaniya did just that."
+msgid "Atha kho āyasmā dhaniyo kumbha­kā­ra­putto sāmaṃ cikkhallaṃ madditvā sab­bamat­tikā­mayaṃ kuṭikaṃ karitvā tiṇañca kaṭṭhañca gomayañca saṅkaḍḍhitvā taṃ kuṭikaṃ paci."
+msgstr "Then Dhaniya did just that. And he collected grass, wood, and cow-dung, and he baked his hut."
 
 msgctxt "pi-tv-bu-vb-pj2:7.2"
-msgid "tiṇañca kaṭṭhañca gomayañca saṅkaḍḍhitvā taṃ kuṭikaṃ paci."
-msgstr "And he collected grass, wood, and cow-dung, and he baked his hut."
-
-msgctxt "pi-tv-bu-vb-pj2:7.3"
 msgid "Sā ahosi kuṭikā abhirūpā dassanīyā pāsādikā lohitikā, seyyathāpi indagopako."
 msgstr "It was a beautiful and charming little hut, and it was red just like a scarlet rain-mite."
 
-msgctxt "pi-tv-bu-vb-pj2:7.4"
+msgctxt "pi-tv-bu-vb-pj2:7.3"
 msgid "Seyyathāpi nāma kiṅkaṇikasaddo; evamevaṃ tassā kuṭikāya saddo ahosi."
 msgstr "And when hit it sounded just like the sound of a bell."
 
@@ -190,33 +170,29 @@ msgstr "If you do, you commit an offense of wrong conduct.”"
 #. </strong></p><p>
 #. <a class="pts-vp-en" id="bd.1.67"></a> 
 msgctxt "pi-tv-bu-vb-pj2:8.13"
-msgid "“Evaṃ, bhante”ti, kho te bhikkhū bhagavato paṭissuṇitvā"
-msgstr "“Yes, Venerable,” the monks replied,"
+msgid "“Evaṃ, bhante”ti, kho te bhikkhū bhagavato paṭissuṇitvā yena sā kuṭikā tenu­pasaṅka­miṃsu;"
+msgstr "“Yes, Venerable,” the monks replied, and they went to that hut"
 
 msgctxt "pi-tv-bu-vb-pj2:8.14"
-msgid "yena sā kuṭikā tenu­pasaṅka­miṃsu;"
-msgstr "and they went to that hut"
-
-msgctxt "pi-tv-bu-vb-pj2:8.15"
 msgid "upasaṅkamitvā taṃ kuṭikaṃ bhindiṃsu."
 msgstr "an demolished it."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:8.16"
+msgctxt "pi-tv-bu-vb-pj2:8.15"
 msgid "Atha kho āyasmā dhaniyo kumbha­kā­ra­putto te bhikkhū etadavoca—"
 msgstr "Dhaniya said to them,"
 
-msgctxt "pi-tv-bu-vb-pj2:8.17"
+msgctxt "pi-tv-bu-vb-pj2:8.16"
 msgid "“kissa me tumhe, āvuso, kuṭikaṃ bhindathā”ti?"
 msgstr "“Why are you demolishing my hut?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:8.18"
+msgctxt "pi-tv-bu-vb-pj2:8.17"
 msgid "“Bhagavā, āvuso, bhedāpetī”ti."
 msgstr "“The Master has asked us to.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:8.19"
+msgctxt "pi-tv-bu-vb-pj2:8.18"
 msgid "“Bhindathāvuso, sace dhammassāmī bhedāpetī”ti."
 msgstr "“Demolish it, if the Lord of the Truth has said so.”"
 
@@ -226,26 +202,18 @@ msgid "Atha kho āyasmato dhaniyassa kumbha­kā­ra­puttassa etadahosi—"
 msgstr "Then Dhaniya thought,"
 
 msgctxt "pi-tv-bu-vb-pj2:9.2"
-msgid "“yāvatatiyakaṃ kho me gāmaṃ piṇḍāya paviṭṭhassa"
-msgstr "“Three times, while I was in the village to collect almsfood,"
+msgid "“yāvatatiyakaṃ kho me gāmaṃ piṇḍāya paviṭṭhassa tiṇahāriyo kaṭṭhahāriyo tiṇakuṭikaṃ bhinditvā tiṇañca kaṭṭhañca ādāya agamaṃsu."
+msgstr "“Three times, while I was in the village to collect almsfood, women gathering grass and firewood demolished my hut and took away the grass and sticks."
 
 msgctxt "pi-tv-bu-vb-pj2:9.3"
-msgid "tiṇahāriyo kaṭṭhahāriyo tiṇakuṭikaṃ bhinditvā"
-msgstr "women gathering grass and firewood demolished my hut"
-
-msgctxt "pi-tv-bu-vb-pj2:9.4"
-msgid "tiṇañca kaṭṭhañca ādāya agamaṃsu."
-msgstr "and took away the grass and sticks."
-
-msgctxt "pi-tv-bu-vb-pj2:9.5"
 msgid "Yāpi mayā sab­bamat­tikā­mayā kuṭikā katā sāpi bhagavatā bhedāpitā."
 msgstr "And now my hut made of nothing but clay has been demolished at the Master’s request."
 
-msgctxt "pi-tv-bu-vb-pj2:9.6"
+msgctxt "pi-tv-bu-vb-pj2:9.4"
 msgid "Atthi ca me dārugahe gaṇako sandiṭṭho."
 msgstr "But the caretaker of the wood-store is a friend of mine."
 
-msgctxt "pi-tv-bu-vb-pj2:9.7"
+msgctxt "pi-tv-bu-vb-pj2:9.5"
 msgid "Yannūnāhaṃ dārugahe gaṇakaṃ dārūni yācitvā dārukuṭikaṃ kareyyan”ti."
 msgstr "Why don’t I ask him for wood and make a hut out of that?”"
 
@@ -299,41 +267,29 @@ msgid "Atha kho dārugahe gaṇakassa etadahosi—"
 msgstr "The caretaker of the wood-store thought,"
 
 msgctxt "pi-tv-bu-vb-pj2:11.2"
-msgid "“ime kho samaṇā sakyaputtiyā dhammacārino"
-msgstr "“These Sakyan ascetics live according to the Truth."
+msgid "“ime kho samaṇā sakyaputtiyā dhammacārino samacārino brahmacārino saccavādino sīlavanto kalyāṇadhammā."
+msgstr "“These Sakyan ascetics live according to the Truth. They are celibate and their conduct is good, and they are truthful, moral, and have a good character."
 
 msgctxt "pi-tv-bu-vb-pj2:11.3"
-msgid "samacārino brahmacārino saccavādino sīlavanto kalyāṇadhammā."
-msgstr "They are celibate and their conduct is good, and they are truthful, moral, and have a good character."
-
-msgctxt "pi-tv-bu-vb-pj2:11.4"
 msgid "Rājāpimesaṃ abhippasanno."
 msgstr "Even the King has faith in them."
 
-msgctxt "pi-tv-bu-vb-pj2:11.5"
+msgctxt "pi-tv-bu-vb-pj2:11.4"
 msgid "Nārahati adinnaṃ dinnanti vattun”ti."
 msgstr "These venerables wouldn’t say something is given if it were not.”"
 
 #. <a class="pts-vp-en" id="bd.1.68"></a> 
-msgctxt "pi-tv-bu-vb-pj2:11.6"
+msgctxt "pi-tv-bu-vb-pj2:11.5"
 msgid "Atha kho dārugahe gaṇako āyasmantaṃ dhaniyaṃ kumbha­kā­ra­puttaṃ etadavoca—"
 msgstr "And he said to Dhaniya,"
 
-msgctxt "pi-tv-bu-vb-pj2:11.7"
+msgctxt "pi-tv-bu-vb-pj2:11.6"
 msgid "“harāpetha, bhante”ti."
 msgstr "“You may take it, Venerable.”"
 
-msgctxt "pi-tv-bu-vb-pj2:11.8"
-msgid "Atha kho āyasmā dhaniyo kumbha­kā­ra­putto tāni dārūni khaṇ­ḍā­khaṇ­ḍikaṃ chedāpetvā"
-msgstr "Dhaniya then had that wood broken up into pieces,"
-
-msgctxt "pi-tv-bu-vb-pj2:11.9"
-msgid "sakaṭehi nibbāhāpetvā"
-msgstr "removed it by means of carts,"
-
-msgctxt "pi-tv-bu-vb-pj2:11.10"
-msgid "dārukuṭikaṃ akāsi."
-msgstr "and made a wooden hut."
+msgctxt "pi-tv-bu-vb-pj2:11.7"
+msgid "Atha kho āyasmā dhaniyo kumbha­kā­ra­putto tāni dārūni khaṇ­ḍā­khaṇ­ḍikaṃ chedāpetvā sakaṭehi nibbāhāpetvā dārukuṭikaṃ akāsi."
+msgstr "Dhaniya then had that wood broken up into pieces, removed it by means of carts, and made a wooden hut."
 
 #. </p><p><a class="sc" id="8"></a><a class="pts-cs" id="Bu-Pj.2.1.4"></a><a class="ms-pa" id="ms.198"></a> 
 msgctxt "pi-tv-bu-vb-pj2:12.1"
@@ -669,78 +625,74 @@ msgstr "Second sub-story"
 #. </h3><p><a class="sc" id="18"></a><a class="pts-cs" id="Bu-Pj.2.2"></a><a class="ms-pa" id="ms.208"></a>
 #. <span class="note" hidden>The text simply says “the dyers’ spread,” <i lang="pi">rajakattharaṇaṃ</i>, but the commentary qualifies that this refers to their spread of “cloth,” <i lang="pi">vatthāni</i>, see <span class="ref">Sp.2.298.17</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj2:22.2"
-msgid "Tena kho pana samayena chabbaggiyā bhikkhū raja­kattha­ra­ṇaṃ gantvā"
-msgstr "At one time monks from the group of six went to the dyers’ spread of cloth,"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū raja­kattha­ra­ṇaṃ gantvā rajaka­bhaṇḍi­kaṃ avaharitvā ārāmaṃ haritvā bhājesuṃ."
+msgstr "At one time monks from the group of six went to the dyers’ spread of cloth, took the dyers’ goods to the monastery, and shared it out."
 
 msgctxt "pi-tv-bu-vb-pj2:22.3"
-msgid "rajaka­bhaṇḍi­kaṃ avaharitvā ārāmaṃ haritvā bhājesuṃ."
-msgstr "took the dyers’ goods to the monastery, and shared it out."
-
-msgctxt "pi-tv-bu-vb-pj2:22.4"
 msgid "Bhikkhū evamāhaṃsu—"
 msgstr "Other monks said,"
 
-msgctxt "pi-tv-bu-vb-pj2:22.5"
+msgctxt "pi-tv-bu-vb-pj2:22.4"
 msgid "“mahāpuññattha tumhe, āvuso."
 msgstr "“You have great merit,"
 
 #. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pi">cīvara</i> at <i lang="pi">nissaggiya pācittiya</i> 1 <span class="ref">MS.1.1872</span>, it also refers to pieces of robe-cloth. This means that I vary my translation depending on the context. Sometimes, such as here, the meaning seems to encompass both robes and robe-cloth, and I then render it as robe(-cloth).</span> 
-msgctxt "pi-tv-bu-vb-pj2:22.6"
+msgctxt "pi-tv-bu-vb-pj2:22.5"
 msgid "Bahuṃ tumhākaṃ cīvaraṃ uppannan”ti."
 msgstr "since you’ve obtained so much robe(-cloth).”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:22.7"
+msgctxt "pi-tv-bu-vb-pj2:22.6"
 msgid "“Kuto, āvuso, amhākaṃ puññaṃ,"
 msgstr "“How is there merit for us?"
 
-msgctxt "pi-tv-bu-vb-pj2:22.8"
+msgctxt "pi-tv-bu-vb-pj2:22.7"
 msgid "idāni mayaṃ raja­kattha­ra­ṇaṃ gantvā rajaka­bhaṇḍi­kaṃ avaharimhā”ti."
 msgstr "Just now we went to the dyers’ spread of cloth and took the dyers’ goods.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:22.9"
+msgctxt "pi-tv-bu-vb-pj2:22.8"
 msgid "“Nanu, āvuso, bhagavatā sikkhāpadaṃ paññattaṃ."
 msgstr "“Hasn’t a training rule been laid down by the Master?"
 
-msgctxt "pi-tv-bu-vb-pj2:22.10"
+msgctxt "pi-tv-bu-vb-pj2:22.9"
 msgid "Kissa tumhe, āvuso, rajaka­bhaṇḍi­kaṃ avaharitthā”ti?"
 msgstr "Why then do you take the dyers’ goods?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:22.11"
+msgctxt "pi-tv-bu-vb-pj2:22.10"
 msgid "“Saccaṃ, āvuso, bhagavatā sikkhāpadaṃ paññattaṃ."
 msgstr "“It’s true that a training rule has been laid down by the Master,"
 
-msgctxt "pi-tv-bu-vb-pj2:22.12"
+msgctxt "pi-tv-bu-vb-pj2:22.11"
 msgid "Tañca kho gāme, no araññe”ti."
 msgstr "but it concerns the village, not the wilderness.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:22.13"
+msgctxt "pi-tv-bu-vb-pj2:22.12"
 msgid "“Nanu, āvuso, tathevetaṃ hoti."
 msgstr "“But that’s just the same."
 
 #. <a class="pts-vp-en" id="bd.1.73"></a> 
-msgctxt "pi-tv-bu-vb-pj2:22.14"
+msgctxt "pi-tv-bu-vb-pj2:22.13"
 msgid "Ananucchavikaṃ, āvuso, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
 msgstr "It’s not suitable, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it’s not to be done."
 
-msgctxt "pi-tv-bu-vb-pj2:22.15"
+msgctxt "pi-tv-bu-vb-pj2:22.14"
 msgid "Kathañhi nāma tumhe, āvuso, rajaka­bhaṇḍi­kaṃ avaharissatha."
 msgstr "How can you take the dyers’s goods?"
 
-msgctxt "pi-tv-bu-vb-pj2:22.16"
+msgctxt "pi-tv-bu-vb-pj2:22.15"
 msgid "Netaṃ, āvuso, appasannānaṃ vā pasādāya pasannānaṃ vā bhiyyobhāvāya;"
 msgstr "This will not give rise to confidence in those without it or increase the confidence of those who have it,"
 
-msgctxt "pi-tv-bu-vb-pj2:22.17"
+msgctxt "pi-tv-bu-vb-pj2:22.16"
 msgid "atha khvetaṃ, āvuso, appasan­nā­nañ­ceva appasādāya pasannānañca ekaccānaṃ aññathattāyā”ti."
 msgstr "but it will hinder confidence in those without it and it will cause some with confidence to change their minds.”"
 
 #. </p><p>
 #. <a class="pts-vp-pi" id="pts-vp-pi3.46"></a> 
-msgctxt "pi-tv-bu-vb-pj2:22.18"
+msgctxt "pi-tv-bu-vb-pj2:22.17"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
 msgstr "After criticizing those monks in various ways, they informed the Master."
 
@@ -784,15 +736,11 @@ msgid "Atha kho bhagavā chabbaggiye bhikkhū aneka­pariyā­yena vigarahitvā 
 msgstr "Then, after criticizing those monks from the group of six in various ways, the Master spoke in dispraise of being difficult to support …"
 
 msgctxt "pi-tv-bu-vb-pj2:23.10"
-msgid "vīriyā­rambhassa vaṇṇaṃ bhāsitvā"
-msgstr "but he spoke in praise … of putting forth energy."
+msgid "vīriyā­rambhassa vaṇṇaṃ bhāsitvā bhikkhūnaṃ tadanuc­chavi­kaṃ tadanulomikaṃ dhammiṃ kathaṃ katvā bhikkhū āmantesi … pe"
+msgstr "but he spoke in praise … of putting forth energy. Having given a teaching on what is right and proper, he addressed the monks …"
 
 msgctxt "pi-tv-bu-vb-pj2:23.11"
-msgid "bhikkhūnaṃ tadanuc­chavi­kaṃ tadanulomikaṃ dhammiṃ kathaṃ katvā bhikkhū āmantesi …"
-msgstr "Having given a teaching on what is right and proper, he addressed the monks …"
-
-msgctxt "pi-tv-bu-vb-pj2:23.12"
-msgid "pe … evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgid "… evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "“… And so, monks, this training rule should be recited thus:"
 
 #. </p><h2>
@@ -907,18 +855,14 @@ msgstr "What has not been given:"
 #. </strong>
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj2:29.2"
-msgid "yaṃ adinnaṃ anissaṭṭhaṃ apariccattaṃ"
-msgstr "what has not been given, what has not been let go of, what has not been relinquished;"
+msgid "yaṃ adinnaṃ anissaṭṭhaṃ apariccattaṃ rakkhitaṃ gopitaṃ mamāyitaṃ paraparig­gahi­taṃ."
+msgstr "what has not been given, what has not been let go of, what has not been relinquished; what is guarded, what is protected, what is regarded as “mine”;"
 
 msgctxt "pi-tv-bu-vb-pj2:29.3"
-msgid "rakkhitaṃ gopitaṃ mamāyitaṃ paraparig­gahi­taṃ."
-msgstr "what is guarded, what is protected, what is regarded as “mine;”"
-
-msgctxt "pi-tv-bu-vb-pj2:29.4"
 msgid "paraparig­gahi­taṃ."
 msgstr "what belongs to someone else."
 
-msgctxt "pi-tv-bu-vb-pj2:29.5"
+msgctxt "pi-tv-bu-vb-pj2:29.4"
 msgid "Etaṃ adinnaṃ nāma."
 msgstr "This is called “what has not been given.”"
 
@@ -1181,103 +1125,91 @@ msgstr "the goods have been put down into the earth, buried, covered."
 #. </span>
 #. <a class="pts-vp-en" id="bd.1.77"></a> 
 msgctxt "pi-tv-bu-vb-pj2:45.4"
-msgid "Bhūmaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll take the goods in the earth,”"
+msgid "Bhūmaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati kudālaṃ vā piṭakaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll take the goods in the earth,” and he seeks for a companion, or he seeks for a hoe or a basket, or he just goes to the goods,"
 
 msgctxt "pi-tv-bu-vb-pj2:45.5"
-msgid "pariyesati kudālaṃ vā"
-msgstr "and he seeks for a companion,"
-
-msgctxt "pi-tv-bu-vb-pj2:45.6"
-msgid "piṭakaṃ vā"
-msgstr "or he seeks for a hoe or a basket,"
-
-msgctxt "pi-tv-bu-vb-pj2:45.7"
-msgid "pariyesati gacchati vā,"
-msgstr "or he just goes to the goods,"
-
-msgctxt "pi-tv-bu-vb-pj2:45.8"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
 #. <a class="pts-vp-pi" id="pts-vp-pi3.48"></a> 
-msgctxt "pi-tv-bu-vb-pj2:45.9"
+msgctxt "pi-tv-bu-vb-pj2:45.6"
 msgid "Tattha jātakaṃ kaṭṭhaṃ vā lataṃ vā chindati, āpatti dukkaṭassa."
 msgstr "If he breaks a piece of wood or a creeper growing there, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:45.10"
+msgctxt "pi-tv-bu-vb-pj2:45.7"
 msgid "Tattha paṃsuṃ khaṇati vā byūhati vā uddharati vā, āpatti dukkaṭassa."
 msgstr "If he digs the soil or piles it up or removes it, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:45.11"
+msgctxt "pi-tv-bu-vb-pj2:45.8"
 msgid "Kumbhiṃ āmasati, āpatti dukkaṭassa."
 msgstr "If he touches the container, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pj2:45.9"
+msgid "Phandāpeti, āpatti thullaccayassa."
+msgstr "If he makes it quiver, he commits a serious offense."
+
+msgctxt "pi-tv-bu-vb-pj2:45.10"
+msgid "Ṭhānā cāveti, āpatti pārājikassa."
+msgstr "If he makes it move from its base, he commits an offense entailing expulsion."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pj2:45.11"
+msgid "Attano bhājanaṃ pavesetvā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
+msgstr "If, intending to steal, he puts his own vessel into the container and touches something worth five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:45.12"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
 msgctxt "pi-tv-bu-vb-pj2:45.13"
-msgid "Ṭhānā cāveti, āpatti pārājikassa."
-msgstr "If he makes it move from its base, he commits an offense entailing expulsion."
+msgid "Attano bhājanagataṃ vā karoti muṭṭhiṃ vā chindati, āpatti pārājikassa."
+msgstr "If he makes it enter his own vessel or takes it with his fist, there is an offense entailing expulsion."
 
 #. </p><p>
+#. <a class="pts-vp-en" id="bd.1.78"></a> 
 msgctxt "pi-tv-bu-vb-pj2:45.14"
-msgid "Attano bhājanaṃ pavesetvā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he puts his own vessel into the container and touches something worth five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
+msgid "Suttāruḷhaṃ bhaṇḍaṃ pāmaṅgaṃ vā kaṇṭhasuttakaṃ vā kaṭisuttakaṃ vā sāṭakaṃ vā veṭhanaṃ vā theyyacitto āmasati, āpatti dukkaṭassa."
+msgstr "If, intending to steal, he touches goods held together by a string, or a bracelet, a necklace, an ornamental girdle, a robe, or a turban, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-pj2:45.15"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
 msgctxt "pi-tv-bu-vb-pj2:45.16"
-msgid "Attano bhājanagataṃ vā karoti muṭṭhiṃ vā chindati, āpatti pārājikassa."
-msgstr "If he makes it enter his own vessel or takes it with his fist, there is an offense entailing expulsion."
-
-#. </p><p>
-#. <a class="pts-vp-en" id="bd.1.78"></a> 
-msgctxt "pi-tv-bu-vb-pj2:45.17"
-msgid "Suttāruḷhaṃ bhaṇḍaṃ pāmaṅgaṃ vā kaṇṭhasuttakaṃ vā kaṭisuttakaṃ vā sāṭakaṃ vā veṭhanaṃ vā theyyacitto āmasati, āpatti dukkaṭassa."
-msgstr "If, intending to steal, he touches goods held together by a string, or a bracelet, a necklace, an ornamental girdle, a robe, or a turban, he commits an offense of wrong conduct."
-
-msgctxt "pi-tv-bu-vb-pj2:45.18"
-msgid "Phandāpeti, āpatti thullaccayassa."
-msgstr "If he makes it quiver, he commits a serious offense."
-
-msgctxt "pi-tv-bu-vb-pj2:45.19"
 msgid "Koṭiyaṃ gahetvā uccāreti, āpatti thullaccayassa."
 msgstr "If he grasps it at the top and pulls it, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:45.20"
+msgctxt "pi-tv-bu-vb-pj2:45.17"
 msgid "Ghaṃsanto nīharati, āpatti thullaccayassa."
 msgstr "If, while stroking it, he lifts it, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:45.21"
+msgctxt "pi-tv-bu-vb-pj2:45.18"
 msgid "Antamaso kesag­gamattampi kumbhimukhā moceti, āpatti pārājikassa."
 msgstr "If he removes the goods even as much as a hair’s breadth over the rim of the container, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:45.22"
+msgctxt "pi-tv-bu-vb-pj2:45.19"
 msgid "Sappiṃ vā telaṃ vā madhuṃ vā phāṇitaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto ekena payogena pivati, āpatti pārājikassa."
 msgstr "If, intending to steal, he drinks—in a single action—ghee, oil, honey, or molasses having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:45.23"
+msgctxt "pi-tv-bu-vb-pj2:45.20"
 msgid "Tattheva bhindati vā"
 msgstr "If he destroys it,"
 
-msgctxt "pi-tv-bu-vb-pj2:45.24"
+msgctxt "pi-tv-bu-vb-pj2:45.21"
 msgid "chaḍḍeti vā"
 msgstr "throws it away,"
 
-msgctxt "pi-tv-bu-vb-pj2:45.25"
+msgctxt "pi-tv-bu-vb-pj2:45.22"
 msgid "jhāpeti vā"
 msgstr "burns it,"
 
-msgctxt "pi-tv-bu-vb-pj2:45.26"
+msgctxt "pi-tv-bu-vb-pj2:45.23"
 msgid "aparibhogaṃ vā karoti"
 msgstr "or renders it useless,"
 
-msgctxt "pi-tv-bu-vb-pj2:45.27"
+msgctxt "pi-tv-bu-vb-pj2:45.24"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
@@ -1295,27 +1227,23 @@ msgstr "the goods have been put down on the ground."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:46.3"
-msgid "Thalaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods on the ground,”"
+msgid "Thalaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods on the ground,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:46.4"
-msgid "pariyesati gacchati vā, "
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:46.5"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
 #. <a class="pts-vp-en" id="bd.1.79"></a> 
-msgctxt "pi-tv-bu-vb-pj2:46.6"
+msgctxt "pi-tv-bu-vb-pj2:46.5"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:46.7"
+msgctxt "pi-tv-bu-vb-pj2:46.6"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:46.8"
+msgctxt "pi-tv-bu-vb-pj2:46.7"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
@@ -1341,30 +1269,26 @@ msgstr "or a robe, a turban, or gold that falls after being cut loose."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:47.5"
-msgid "Ākāsaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the air,”"
+msgid "Ākāsaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the air,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:47.6"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:47.7"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:47.8"
+msgctxt "pi-tv-bu-vb-pj2:47.7"
 msgid "Gamanaṃ upacchindati, āpatti dukkaṭassa."
 msgstr "If he cuts off their course of movement, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:47.9"
+msgctxt "pi-tv-bu-vb-pj2:47.8"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:47.10"
+msgctxt "pi-tv-bu-vb-pj2:47.9"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:47.11"
+msgctxt "pi-tv-bu-vb-pj2:47.10"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
@@ -1387,26 +1311,22 @@ msgstr "on a bed, on a bench, on a bamboo robe-rack, on a clothes line for robes
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:48.4"
-msgid "Vehāsaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods that are above ground,”"
+msgid "Vehāsaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods that are above ground,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:48.5"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:48.6"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:48.7"
+msgctxt "pi-tv-bu-vb-pj2:48.6"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:48.8"
+msgctxt "pi-tv-bu-vb-pj2:48.7"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:48.9"
+msgctxt "pi-tv-bu-vb-pj2:48.8"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
@@ -1424,43 +1344,39 @@ msgstr "the goods have been deposited in the water."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:49.3"
-msgid "Udakaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the water,”"
+msgid "Udakaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the water,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:49.4"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:49.5"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:49.6"
+msgctxt "pi-tv-bu-vb-pj2:49.5"
 msgid "Nimujjati vā ummujjati vā, āpatti dukkaṭassa."
 msgstr "He either dives into the water or floats on the surface, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:49.7"
+msgctxt "pi-tv-bu-vb-pj2:49.6"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches the goods, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:49.8"
+msgctxt "pi-tv-bu-vb-pj2:49.7"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:49.9"
+msgctxt "pi-tv-bu-vb-pj2:49.8"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:49.10"
+msgctxt "pi-tv-bu-vb-pj2:49.9"
 msgid "Tattha jātakaṃ uppalaṃ vā padumaṃ vā puṇḍarīkaṃ vā bhisaṃ vā macchaṃ vā kacchapaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal, he touches either a blue, red, or white lotus growing there, or the sprout of a lotus, or a fish, or a turtle having a value of five <i lang=\"pi\">māsakas</i> or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:49.11"
+msgctxt "pi-tv-bu-vb-pj2:49.10"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:49.12"
+msgctxt "pi-tv-bu-vb-pj2:49.11"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
@@ -1491,63 +1407,55 @@ msgstr "the goods have been deposited in a boat."
 #. </span>
 #. <a class="pts-vp-en" id="bd.1.81"></a> 
 msgctxt "pi-tv-bu-vb-pj2:50.5"
-msgid "“Nāvaṭṭhaṃ bhaṇḍaṃ avaharissāmī”ti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the boat,”"
+msgid "“Nāvaṭṭhaṃ bhaṇḍaṃ avaharissāmī”ti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the boat,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:50.6"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:50.7"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:50.8"
+msgctxt "pi-tv-bu-vb-pj2:50.7"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:50.9"
+msgctxt "pi-tv-bu-vb-pj2:50.8"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:50.10"
+msgctxt "pi-tv-bu-vb-pj2:50.9"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
+msgctxt "pi-tv-bu-vb-pj2:50.10"
+msgid "Nāvaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the boat,” and he either searches for a companion or just goes there himself,"
+
 msgctxt "pi-tv-bu-vb-pj2:50.11"
-msgid "Nāvaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the boat,”"
-
-msgctxt "pi-tv-bu-vb-pj2:50.12"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:50.13"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:50.14"
+msgctxt "pi-tv-bu-vb-pj2:50.12"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches it, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:50.15"
+msgctxt "pi-tv-bu-vb-pj2:50.13"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:50.16"
+msgctxt "pi-tv-bu-vb-pj2:50.14"
 msgid "Bandhanaṃ moceti, āpatti dukkaṭassa."
 msgstr "If he loosens the moorings, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:50.17"
+msgctxt "pi-tv-bu-vb-pj2:50.15"
 msgid "Bandhanaṃ mocetvā āmasati, āpatti dukkaṭassa."
 msgstr "If, after loosening the moorings, he touches it, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:50.18"
+msgctxt "pi-tv-bu-vb-pj2:50.16"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:50.19"
+msgctxt "pi-tv-bu-vb-pj2:50.17"
 msgid "Uddhaṃ vā adho vā tiriyaṃ vā antamaso kesag­gamattampi saṅkāmeti, āpatti pārājikassa."
 msgstr "If he makes it move up or down or across the water, even as much as a hair’s breadth, he commits an offense entailing expulsion."
 
@@ -1577,51 +1485,43 @@ msgstr "the goods have been deposited in a vehicle."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:51.5"
-msgid "Yānaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the vehicle,”"
+msgid "Yānaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the vehicle,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:51.6"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:51.7"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:51.8"
+msgctxt "pi-tv-bu-vb-pj2:51.7"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:51.9"
+msgctxt "pi-tv-bu-vb-pj2:51.8"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:51.10"
+msgctxt "pi-tv-bu-vb-pj2:51.9"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
+msgctxt "pi-tv-bu-vb-pj2:51.10"
+msgid "Yānaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the vehicle,” and he either searches for a companion or just goes there himself,"
+
 msgctxt "pi-tv-bu-vb-pj2:51.11"
-msgid "Yānaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the vehicle,”"
-
-msgctxt "pi-tv-bu-vb-pj2:51.12"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:51.13"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:51.14"
+msgctxt "pi-tv-bu-vb-pj2:51.12"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches it, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:51.15"
+msgctxt "pi-tv-bu-vb-pj2:51.13"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:51.16"
+msgctxt "pi-tv-bu-vb-pj2:51.14"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
@@ -1714,61 +1614,57 @@ msgstr "in the earth, on the ground, in the air, above the ground."
 #. </span>
 #. <a class="pts-vp-pi" id="pts-vp-pi3.50"></a> 
 msgctxt "pi-tv-bu-vb-pj2:53.6"
-msgid "Ārāmaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the park,”"
+msgid "Ārāmaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the park,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:53.7"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:53.8"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:53.9"
+msgctxt "pi-tv-bu-vb-pj2:53.8"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:53.10"
+msgctxt "pi-tv-bu-vb-pj2:53.9"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:53.11"
+msgctxt "pi-tv-bu-vb-pj2:53.10"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:53.12"
+msgctxt "pi-tv-bu-vb-pj2:53.11"
 msgid "Tattha jātakaṃ mūlaṃ vā tacaṃ vā pattaṃ vā pupphaṃ vā phalaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal, he touches something growing there—a root, a piece of bark, a leaf, a flower, or a fruit—having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:53.13"
+msgctxt "pi-tv-bu-vb-pj2:53.12"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:53.14"
+msgctxt "pi-tv-bu-vb-pj2:53.13"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:53.15"
+msgctxt "pi-tv-bu-vb-pj2:53.14"
 msgid "Ārāmaṃ abhiyuñjati, āpatti dukkaṭassa."
 msgstr "If he claims the park, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:53.16"
+msgctxt "pi-tv-bu-vb-pj2:53.15"
 msgid "Sāmikassa vimatiṃ uppādeti, āpatti thullaccayassa."
 msgstr "If he evokes doubt in the owner as to his ownership, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:53.17"
+msgctxt "pi-tv-bu-vb-pj2:53.16"
 msgid "Sāmiko na mayhaṃ bhavissatīti dhuraṃ nikkhipati, āpatti pārājikassa."
 msgstr "If the owner thinks, “I won’t get it back,” and he gives up the effort of reclaiming it, he commits an offense entailing expulsion."
 
 #. <a class="pts-vp-en" id="bd.1.83"></a> 
-msgctxt "pi-tv-bu-vb-pj2:53.18"
+msgctxt "pi-tv-bu-vb-pj2:53.17"
 msgid "Dhammaṃ caranto sāmikaṃ parājeti, āpatti pārājikassa."
 msgstr "If he resorts to the law and defeats the owner, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:53.19"
+msgctxt "pi-tv-bu-vb-pj2:53.18"
 msgid "Dhammaṃ caranto parajjati, āpatti thullaccayassa."
 msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
@@ -1790,47 +1686,43 @@ msgstr "in the earth, on the ground, in the air, above the ground."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:54.4"
-msgid "Vihāraṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the monastic dwelling,”"
+msgid "Vihāraṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the monastic dwelling,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:54.5"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:54.6"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:54.7"
+msgctxt "pi-tv-bu-vb-pj2:54.6"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:54.8"
+msgctxt "pi-tv-bu-vb-pj2:54.7"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:54.9"
+msgctxt "pi-tv-bu-vb-pj2:54.8"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:54.10"
+msgctxt "pi-tv-bu-vb-pj2:54.9"
 msgid "Vihāraṃ abhiyuñjati, āpatti dukkaṭassa."
 msgstr "If he claims the monastic dwelling, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:54.11"
+msgctxt "pi-tv-bu-vb-pj2:54.10"
 msgid "Sāmikassa vimatiṃ uppādeti, āpatti thullaccayassa."
 msgstr "If he evokes doubt in the owner as to his ownership, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:54.12"
+msgctxt "pi-tv-bu-vb-pj2:54.11"
 msgid "Sāmiko na mayhaṃ bhavissatīti dhuraṃ nikkhipati, āpatti pārājikassa."
 msgstr "If the owner thinks, “I won’t get it back,” and he gives up the effort of reclaiming it, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:54.13"
+msgctxt "pi-tv-bu-vb-pj2:54.12"
 msgid "Dhammaṃ caranto sāmikaṃ parājeti, āpatti pārājikassa."
 msgstr "If he resorts to the law and defeats the owner, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:54.14"
+msgctxt "pi-tv-bu-vb-pj2:54.13"
 msgid "Dhammaṃ caranto parajjati, āpatti thullaccayassa."
 msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
@@ -1864,73 +1756,69 @@ msgstr "in the earth, on the ground, in the air, above the ground."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:55.6"
-msgid "Khettaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the field,”"
+msgid "Khettaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the field,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:55.7"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:55.8"
 msgid "āpatti, dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:55.9"
+msgctxt "pi-tv-bu-vb-pj2:55.8"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:55.10"
+msgctxt "pi-tv-bu-vb-pj2:55.9"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:55.11"
+msgctxt "pi-tv-bu-vb-pj2:55.10"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:55.12"
+msgctxt "pi-tv-bu-vb-pj2:55.11"
 msgid "Tattha jātakaṃ pubbaṇṇaṃ vā aparaṇṇaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal, he touches grain or vegetables that grow there, having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:55.13"
+msgctxt "pi-tv-bu-vb-pj2:55.12"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:55.14"
+msgctxt "pi-tv-bu-vb-pj2:55.13"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:55.15"
+msgctxt "pi-tv-bu-vb-pj2:55.14"
 msgid "Khettaṃ abhiyuñjati, āpatti dukkaṭassa."
 msgstr "If he claims the field, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:55.16"
+msgctxt "pi-tv-bu-vb-pj2:55.15"
 msgid "Sāmikassa vimatiṃ uppādeti, āpatti thullaccayassa."
 msgstr "If he evokes doubt in the owner as to his ownership, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:55.17"
+msgctxt "pi-tv-bu-vb-pj2:55.16"
 msgid "Sāmiko na mayhaṃ bhavissatīti dhuraṃ nikkhipati, āpatti pārājikassa."
 msgstr "If the owner thinks, “I won’t get it back,” and he gives up the effort of reclaiming it, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:55.18"
+msgctxt "pi-tv-bu-vb-pj2:55.17"
 msgid "Dhammaṃ caranto sāmikaṃ parājeti, āpatti pārājikassa."
 msgstr "If he resorts to the law and defeats the owner, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:55.19"
+msgctxt "pi-tv-bu-vb-pj2:55.18"
 msgid "Dhammaṃ caranto parajjati, āpatti thullaccayassa."
 msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:55.20"
+msgctxt "pi-tv-bu-vb-pj2:55.19"
 msgid "Khīlaṃ vā rajjuṃ vā vatiṃ vā mariyādaṃ vā saṅkāmeti, āpatti dukkaṭassa."
 msgstr "If he moves a post, a cord, a fence, or a boundary, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:55.21"
+msgctxt "pi-tv-bu-vb-pj2:55.20"
 msgid "Ekaṃ payogaṃ anāgate, āpatti thullaccayassa."
 msgstr "When one action of the moving remains, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:55.22"
+msgctxt "pi-tv-bu-vb-pj2:55.21"
 msgid "Tasmiṃ payoge āgate, āpatti pārājikassa."
 msgstr "When the last action of the moving is completed, he commits an offense entailing expulsion."
 
@@ -1964,60 +1852,56 @@ msgstr "in the earth, on the ground, in the air, above the ground."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:56.6"
-msgid "Vatthuṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods on the plot of land,”"
+msgid "Vatthuṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods on the plot of land,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:56.7"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:56.8"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:56.9"
+msgctxt "pi-tv-bu-vb-pj2:56.8"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:56.10"
+msgctxt "pi-tv-bu-vb-pj2:56.9"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:56.11"
+msgctxt "pi-tv-bu-vb-pj2:56.10"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:56.12"
+msgctxt "pi-tv-bu-vb-pj2:56.11"
 msgid "Vatthuṃ abhiyuñjati, āpatti dukkaṭassa."
 msgstr "If he claims the plot of land, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:56.13"
+msgctxt "pi-tv-bu-vb-pj2:56.12"
 msgid "Sāmikassa vimatiṃ uppādeti, āpatti thullaccayassa."
 msgstr "If he evokes doubt in the owner as to his ownership, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:56.14"
+msgctxt "pi-tv-bu-vb-pj2:56.13"
 msgid "Sāmiko na mayhaṃ bhavissatīti dhuraṃ nikkhipati, āpatti pārājikassa."
 msgstr "If the owner thinks, “I won’t get it back,” and he gives up the effort of reclaiming it, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:56.15"
+msgctxt "pi-tv-bu-vb-pj2:56.14"
 msgid "Dhammaṃ caranto sāmikaṃ parājeti, āpatti pārājikassa."
 msgstr "If he resorts to the law and defeats the owner, he commits an offense entailing expulsion."
 
-msgctxt "pi-tv-bu-vb-pj2:56.16"
+msgctxt "pi-tv-bu-vb-pj2:56.15"
 msgid "Dhammaṃ caranto parajjati, āpatti thullaccayassa."
 msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:56.17"
+msgctxt "pi-tv-bu-vb-pj2:56.16"
 msgid "Khīlaṃ vā rajjuṃ vā vatiṃ vā pākāraṃ vā saṅkāmeti, āpatti dukkaṭassa."
 msgstr "If he moves a post, a cord, a fence, or a boundary, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:56.18"
+msgctxt "pi-tv-bu-vb-pj2:56.17"
 msgid "Ekaṃ payogaṃ anāgate āpatti thullaccayassa."
 msgstr "When one action of the moving remains, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:56.19"
+msgctxt "pi-tv-bu-vb-pj2:56.18"
 msgid "Tasmiṃ payoge āgate āpatti pārājikassa."
 msgstr "When the last action of the moving is completed, he commits an offense entailing expulsion."
 
@@ -2040,26 +1924,22 @@ msgstr "in the earth, on the ground, in the air, above the ground."
 #. </span>
 #. <a class="pts-vp-en" id="bd.1.85"></a> 
 msgctxt "pi-tv-bu-vb-pj2:57.4"
-msgid "Gāmaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the village,”"
+msgid "Gāmaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the village,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:57.5"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:57.6"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:57.7"
+msgctxt "pi-tv-bu-vb-pj2:57.6"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:57.8"
+msgctxt "pi-tv-bu-vb-pj2:57.7"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:57.9"
+msgctxt "pi-tv-bu-vb-pj2:57.8"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
@@ -2093,39 +1973,35 @@ msgstr "in the earth, on the ground, in the air, above the ground."
 
 #. </span> 
 msgctxt "pi-tv-bu-vb-pj2:58.6"
-msgid "Araññaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā"
-msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the wilderness,”"
+msgid "Araññaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
+msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the wilderness,” and he either searches for a companion or just goes there himself,"
 
 msgctxt "pi-tv-bu-vb-pj2:58.7"
-msgid "pariyesati gacchati vā,"
-msgstr "and he either searches for a companion or just goes there himself,"
-
-msgctxt "pi-tv-bu-vb-pj2:58.8"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:58.9"
+msgctxt "pi-tv-bu-vb-pj2:58.8"
 msgid "Āmasati, āpatti dukkaṭassa."
 msgstr "If he touches them, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:58.10"
+msgctxt "pi-tv-bu-vb-pj2:58.9"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes them quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:58.11"
+msgctxt "pi-tv-bu-vb-pj2:58.10"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:58.12"
+msgctxt "pi-tv-bu-vb-pj2:58.11"
 msgid "Tattha jātakaṃ kaṭṭhaṃ vā lataṃ vā tiṇaṃ vā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal, he touches something that belongs there—a piece of wood, a creeper, or grass—having a value of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
 
-msgctxt "pi-tv-bu-vb-pj2:58.13"
+msgctxt "pi-tv-bu-vb-pj2:58.12"
 msgid "Phandāpeti, āpatti thullaccayassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
-msgctxt "pi-tv-bu-vb-pj2:58.14"
+msgctxt "pi-tv-bu-vb-pj2:58.13"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
@@ -4088,22 +3964,18 @@ msgstr ""
 
 #. </p><hr><p><a class="sc" id="117"></a><a class="pts-cs" id="Bu-Pj.2.7.9"></a><a class="ms-pa" id="ms.307"></a> 
 msgctxt "pi-tv-bu-vb-pj2:123.1"
-msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa cīvare bhājīyamāne"
-msgstr "On one occasion robe(-cloth) belonging to the Order was being distributed."
+msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa cīvare bhājīyamāne theyyacitto kusaṃ saṅkāmetvā cīvaraṃ aggahesi."
+msgstr "On one occasion robe(-cloth) belonging to the Order was being distributed. A monk, intending to steal, disregarded his grass ticket and took a robe(-cloth)."
 
 msgctxt "pi-tv-bu-vb-pj2:123.2"
-msgid "theyyacitto kusaṃ saṅkāmetvā cīvaraṃ aggahesi."
-msgstr "A monk, intending to steal, disregarded his grass ticket and took a robe(-cloth)."
-
-msgctxt "pi-tv-bu-vb-pj2:123.3"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj2:123.4"
+msgctxt "pi-tv-bu-vb-pj2:123.3"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
 msgstr "“You have committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj2:123.5"
+msgctxt "pi-tv-bu-vb-pj2:123.4"
 msgid "(34)"
 msgstr ""
 
@@ -4141,22 +4013,18 @@ msgstr ""
 
 #. </p><hr><p><a class="sc" id="119"></a><a class="pts-cs" id="Bu-Pj.2.7.11"></a><a class="ms-pa" id="ms.309"></a> 
 msgctxt "pi-tv-bu-vb-pj2:125.1"
-msgid "Tena kho pana samayena sambahulā bhikkhū gijjhakūṭā pabbatā orohantā sīhavighāsaṃ passitvā"
-msgstr "On one occasion a number of monks were descending from Mount Vulture Peak when they saw the remains of a lion’s kill."
+msgid "Tena kho pana samayena sambahulā bhikkhū gijjhakūṭā pabbatā orohantā sīhavighāsaṃ passitvā pacāpetvā paribhuñjiṃsu."
+msgstr "On one occasion a number of monks were descending from Mount Vulture Peak when they saw the remains of a lion’s kill. They had it cooked and ate it."
 
 msgctxt "pi-tv-bu-vb-pj2:125.2"
-msgid "pacāpetvā paribhuñjiṃsu."
-msgstr "They had it cooked and ate it."
-
-msgctxt "pi-tv-bu-vb-pj2:125.3"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj2:125.4"
+msgctxt "pi-tv-bu-vb-pj2:125.3"
 msgid "“anāpatti, bhikkhave, sīhavighāse”ti."
 msgstr "“There’s no offense when it’s the remains of a lion’s kill.”"
 
-msgctxt "pi-tv-bu-vb-pj2:125.5"
+msgctxt "pi-tv-bu-vb-pj2:125.4"
 msgid "(36)"
 msgstr ""
 
@@ -4174,22 +4042,18 @@ msgid "tarac­cha­vighā­saṃ passitvā …"
 msgstr "saw the remains of a hyena’s kill …"
 
 msgctxt "pi-tv-bu-vb-pj2:126.4"
-msgid "kokavighāsaṃ passitvā"
-msgstr "saw the remains of a wolf’s kill."
+msgid "kokavighāsaṃ passitvā pacāpetvā paribhuñjiṃsu."
+msgstr "saw the remains of a wolf’s kill. They had it cooked …"
 
 msgctxt "pi-tv-bu-vb-pj2:126.5"
-msgid "pacāpetvā paribhuñjiṃsu."
-msgstr "They had it cooked …"
-
-msgctxt "pi-tv-bu-vb-pj2:126.6"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr ""
 
-msgctxt "pi-tv-bu-vb-pj2:126.7"
+msgctxt "pi-tv-bu-vb-pj2:126.6"
 msgid "“anāpatti, bhikkhave, tiracchā­na­gata­parig­gahe”ti."
 msgstr "“There’s no offense when it’s the possession of an animal.”"
 
-msgctxt "pi-tv-bu-vb-pj2:126.8"
+msgctxt "pi-tv-bu-vb-pj2:126.7"
 msgid "(37–‍40)"
 msgstr ""
 
@@ -4388,22 +4252,18 @@ msgstr "On one occasion a monk saw a bag on a bench."
 
 #. <a class="pts-vp-en" id="bd.1.100"></a> 
 msgctxt "pi-tv-bu-vb-pj2:134.2"
-msgid "“ito gaṇhanto pārājiko bhavissāmī”ti"
-msgstr "He thought, “If I take it from there I shall be expelled,”"
+msgid "“ito gaṇhanto pārājiko bhavissāmī”ti saha pīṭhakena saṅkāmetvā aggahesi."
+msgstr "He thought, “If I take it from there I shall be expelled,” and so he took it by moving the bench."
 
 msgctxt "pi-tv-bu-vb-pj2:134.3"
-msgid "saha pīṭhakena saṅkāmetvā aggahesi."
-msgstr "and so he took it by moving the bench."
-
-msgctxt "pi-tv-bu-vb-pj2:134.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj2:134.5"
+msgctxt "pi-tv-bu-vb-pj2:134.4"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
 msgstr "“You have committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj2:134.6"
+msgctxt "pi-tv-bu-vb-pj2:134.5"
 msgid "(56)"
 msgstr ""
 
@@ -4447,22 +4307,18 @@ msgid "Tena kho pana samayena aññataro bhikkhu vihāre cīvaraṃ avaharitvā�
 msgstr "On one occasion a monk stole a robe in a dwelling."
 
 msgctxt "pi-tv-bu-vb-pj2:137.2"
-msgid "“ito nikkhamanto pārājiko bhavissāmī”ti"
-msgstr "He thought, “If I come out from here, I shall be expelled,”"
+msgid "“ito nikkhamanto pārājiko bhavissāmī”ti vihārā na nikkhami … pe …"
+msgstr "He thought, “If I come out from here, I shall be expelled,” and he remained in that dwelling."
 
 msgctxt "pi-tv-bu-vb-pj2:137.3"
-msgid "vihārā na nikkhami … pe …"
-msgstr "and he remained in that dwelling."
-
-msgctxt "pi-tv-bu-vb-pj2:137.4"
 msgid "bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They informed the Master."
 
-msgctxt "pi-tv-bu-vb-pj2:137.5"
+msgctxt "pi-tv-bu-vb-pj2:137.4"
 msgid "“Nikkhami vā so, bhikkhave, moghapuriso na vā nikkhami, āpatti pārājikassā”ti."
 msgstr "He said, “Whether that foolish man comes out or not, he has committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj2:137.6"
+msgctxt "pi-tv-bu-vb-pj2:137.5"
 msgid "(59)"
 msgstr ""
 
@@ -4930,40 +4786,36 @@ msgid "“āvuso, mayhaṃ upaṭṭhākakulaṃ vutto vajjehī”ti."
 msgstr "“Please take a message to the family that supports me.”"
 
 msgctxt "pi-tv-bu-vb-pj2:149.4"
-msgid "So gantvā yugasāṭakaṃ āharāpetvā"
-msgstr "He went there and brought back a pair of robes."
+msgid "So gantvā yugasāṭakaṃ āharāpetvā ekaṃ attanā paribhuñji, ekaṃ tassa bhikkhuno adāsi."
+msgstr "He went there and brought back a pair of robes. He used one himself and gave the other to the other monk."
 
 msgctxt "pi-tv-bu-vb-pj2:149.5"
-msgid "ekaṃ attanā paribhuñji, ekaṃ tassa bhikkhuno adāsi."
-msgstr "He used one himself and gave the other to the other monk."
-
-msgctxt "pi-tv-bu-vb-pj2:149.6"
 msgid "So jānitvā taṃ codesi—"
 msgstr "The other monk, finding out about this, rebuked him, saying,"
 
-msgctxt "pi-tv-bu-vb-pj2:149.7"
+msgctxt "pi-tv-bu-vb-pj2:149.6"
 msgid "“assamaṇosi tvan”ti."
 msgstr "“You’re no longer an ascetic.”"
 
-msgctxt "pi-tv-bu-vb-pj2:149.8"
+msgctxt "pi-tv-bu-vb-pj2:149.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj2:149.9"
+msgctxt "pi-tv-bu-vb-pj2:149.8"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
 #. <strong class="rule"> 
-msgctxt "pi-tv-bu-vb-pj2:149.10"
+msgctxt "pi-tv-bu-vb-pj2:149.9"
 msgid "Na ca, bhikkhave, vutto vajjehīti vattabbo."
 msgstr "But you shouldn’t say, ‘Please take a message.’"
 
-msgctxt "pi-tv-bu-vb-pj2:149.11"
+msgctxt "pi-tv-bu-vb-pj2:149.10"
 msgid "Yo vadeyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
 #. </strong> 
-msgctxt "pi-tv-bu-vb-pj2:149.12"
+msgctxt "pi-tv-bu-vb-pj2:149.11"
 msgid "(87)"
 msgstr ""
 
@@ -5025,33 +4877,29 @@ msgid "Tena kho pana samayena aññataro puriso mahagghaṃ maṇiṃ ādāya a�
 msgstr "At one time, a man who was carrying a valuable jewel was walking along a main road together with a monk."
 
 msgctxt "pi-tv-bu-vb-pj2:151.2"
-msgid "Atha kho so puriso suṅkaṭṭhānaṃ passitvā tassa bhikkhuno ajānantassa thavikāya maṇiṃ pakkhipitvā"
-msgstr "The man saw a customs station and he put the jewel into the monk’s bag without his knowing."
+msgid "Atha kho so puriso suṅkaṭṭhānaṃ passitvā tassa bhikkhuno ajānantassa thavikāya maṇiṃ pakkhipitvā suṅkaṭṭhānaṃ atikkamitvā aggahesi."
+msgstr "The man saw a customs station and he put the jewel into the monk’s bag without his knowing. When they had gone past the customs station, he retrieved it."
 
 msgctxt "pi-tv-bu-vb-pj2:151.3"
-msgid "suṅkaṭṭhānaṃ atikkamitvā aggahesi."
-msgstr "When they had gone past the customs station, he retrieved it."
-
-msgctxt "pi-tv-bu-vb-pj2:151.4"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "The monk was remorseful …"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:151.5"
+msgctxt "pi-tv-bu-vb-pj2:151.4"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr "“What was your intention, monk?”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:151.6"
+msgctxt "pi-tv-bu-vb-pj2:151.5"
 msgid "“Nāhaṃ, bhagavā, jānāmī”ti."
 msgstr "“I didn’t know, Master.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:151.7"
+msgctxt "pi-tv-bu-vb-pj2:151.6"
 msgid "“Anāpatti, bhikkhu, ajānantassā”ti."
 msgstr "“There’s no offense for one who doesn’t know.”"
 
-msgctxt "pi-tv-bu-vb-pj2:151.8"
+msgctxt "pi-tv-bu-vb-pj2:151.7"
 msgid "(89)"
 msgstr ""
 
@@ -5112,30 +4960,26 @@ msgid "Tena kho pana samayena aññataro bhikkhu satthena saddhiṃ addhā­na­
 msgstr "At one time, a monk was traveling along a main road together with a caravan."
 
 msgctxt "pi-tv-bu-vb-pj2:153.2"
-msgid "Aññataro puriso taṃ bhikkhuṃ āmisena upalāpetvā"
-msgstr "A man befriended that monk with a gift."
+msgid "Aññataro puriso taṃ bhikkhuṃ āmisena upalāpetvā suṅkaṭṭhānaṃ passitvā mahagghaṃ maṇiṃ tassa bhikkhuno adāsi—"
+msgstr "A man befriended that monk with a gift. Seeing a customs station, he gave the monk a valuable jewel, saying,"
 
 msgctxt "pi-tv-bu-vb-pj2:153.3"
-msgid "suṅkaṭṭhānaṃ passitvā mahagghaṃ maṇiṃ tassa bhikkhuno adāsi—"
-msgstr "Seeing a customs station, he gave the monk a valuable jewel, saying,"
-
-msgctxt "pi-tv-bu-vb-pj2:153.4"
 msgid "“imaṃ, bhante, maṇiṃ suṅkaṭṭhānaṃ atikkāmehī”ti."
 msgstr "“Venerable, please take this jewel past the customs.”"
 
-msgctxt "pi-tv-bu-vb-pj2:153.5"
+msgctxt "pi-tv-bu-vb-pj2:153.4"
 msgid "Atha kho so bhikkhu taṃ maṇiṃ suṅkaṭṭhānaṃ atikkāmesi."
 msgstr "And the monk took the jewel past the customs station."
 
-msgctxt "pi-tv-bu-vb-pj2:153.6"
+msgctxt "pi-tv-bu-vb-pj2:153.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pi-tv-bu-vb-pj2:153.7"
+msgctxt "pi-tv-bu-vb-pj2:153.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti."
 msgstr "“You have committed an offense entailing expulsion.”"
 
-msgctxt "pi-tv-bu-vb-pj2:153.8"
+msgctxt "pi-tv-bu-vb-pj2:153.7"
 msgid "(91)"
 msgstr ""
 
@@ -6279,102 +6123,94 @@ msgid "Eko gāmake viharati, eko kosambiyaṃ."
 msgstr "One was staying in a village and one at Kosambī."
 
 msgctxt "pi-tv-bu-vb-pj2:189.3"
-msgid "Atha kho tassa bhikkhuno gāmakā kosambiṃ gacchantassa antarāmagge nadiṃ tarantassa"
-msgstr "Then, while the first monk was traveling from that village to Kosambī, he had to cross a river."
+msgid "Atha kho tassa bhikkhuno gāmakā kosambiṃ gacchantassa antarāmagge nadiṃ tarantassa sūkarikānaṃ hatthato muttā medavaṭṭi pāde laggā hoti."
+msgstr "Then, while the first monk was traveling from that village to Kosambī, he had to cross a river. As he did so, a lump of fat that had escaped from the hands of pork-butchers stuck to his foot."
 
 msgctxt "pi-tv-bu-vb-pj2:189.4"
-msgid "sūkarikānaṃ hatthato muttā medavaṭṭi pāde laggā hoti."
-msgstr "As he did so, a lump of fat that had escaped from the hands of pork-butchers stuck to his foot."
-
-msgctxt "pi-tv-bu-vb-pj2:189.5"
 msgid "So bhikkhu—“sāmikānaṃ dassāmī”ti aggahesi."
 msgstr "He took hold of it, thinking, “I’ll give it to the owners.”"
 
-msgctxt "pi-tv-bu-vb-pj2:189.6"
+msgctxt "pi-tv-bu-vb-pj2:189.5"
 msgid "Sāmikā taṃ bhikkhuṃ codesuṃ—"
 msgstr "But the owners rebuked him, saying,"
 
-msgctxt "pi-tv-bu-vb-pj2:189.7"
+msgctxt "pi-tv-bu-vb-pj2:189.6"
 msgid "“assamaṇosi tvan”ti."
 msgstr "“You’re no longer an ascetic.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:189.8"
+msgctxt "pi-tv-bu-vb-pj2:189.7"
 msgid "Taṃ uttiṇṇaṃ gopālikā passitvā etadavoca—"
 msgstr "Then a woman cowherd who had seen him crossing said,"
 
-msgctxt "pi-tv-bu-vb-pj2:189.9"
+msgctxt "pi-tv-bu-vb-pj2:189.8"
 msgid "“ehi, bhante, methunaṃ dhammaṃ paṭisevā”ti."
 msgstr "“Come, Venerable, have sexual intercourse.”"
 
-msgctxt "pi-tv-bu-vb-pj2:189.10"
+msgctxt "pi-tv-bu-vb-pj2:189.9"
 msgid "So—“pakatiyāpāhaṃ assamaṇo”ti tassā methunaṃ dhammaṃ paṭisevitvā"
 msgstr "Thinking he was no longer an ascetic, he had sexual intercourse with her."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:189.11"
+msgctxt "pi-tv-bu-vb-pj2:189.10"
 msgid "kosambiṃ gantvā bhikkhūnaṃ etamatthaṃ ārocesi."
 msgstr "When he arrived at Kosambī, he informed the monks,"
 
-msgctxt "pi-tv-bu-vb-pj2:189.12"
+msgctxt "pi-tv-bu-vb-pj2:189.11"
 msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ."
 msgstr "and they in turn informed the Master."
 
-msgctxt "pi-tv-bu-vb-pj2:189.13"
+msgctxt "pi-tv-bu-vb-pj2:189.12"
 msgid "“Anāpatti, bhikkhave, adinnādāne pārājikassa;"
 msgstr "He said, “There’s no offense entailing expulsion for stealing,"
 
-msgctxt "pi-tv-bu-vb-pj2:189.14"
+msgctxt "pi-tv-bu-vb-pj2:189.13"
 msgid "āpatti methuna­dhamma­samā­yoge pārājikassā”ti."
 msgstr "but there’s an offense entailing expulsion for having sexual intercourse.”"
 
-msgctxt "pi-tv-bu-vb-pj2:189.15"
+msgctxt "pi-tv-bu-vb-pj2:189.14"
 msgid "(149)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="184"></a><a class="pts-cs" id="Bu-Pj.2.7.49"></a><a class="ms-pa" id="ms.374"></a><a class="pts-vp-en" id="bd.1.114"></a> 
 msgctxt "pi-tv-bu-vb-pj2:190.1"
-msgid "Tena kho pana samayena sāgalāyaṃ āyasmato daḷhikassa saddhivihāriko bhikkhu anabhiratiyā pīḷito"
-msgstr "At that time, at Sāgalā, a monk who was a student of Venerable Daḷhika was plagued by discontent."
+msgid "Tena kho pana samayena sāgalāyaṃ āyasmato daḷhikassa saddhivihāriko bhikkhu anabhiratiyā pīḷito āpaṇikassa veṭhanaṃ avaharitvā āyasmantaṃ daḷhikaṃ etadavoca—"
+msgstr "At that time, at Sāgalā, a monk who was a student of Venerable Daḷhika was plagued by discontent. He then took a turban from a shopkeeper and said to Daḷhika,"
 
 msgctxt "pi-tv-bu-vb-pj2:190.2"
-msgid "āpaṇikassa veṭhanaṃ avaharitvā āyasmantaṃ daḷhikaṃ etadavoca—"
-msgstr "He then took a turban from a shopkeeper and said to Daḷhika,"
-
-msgctxt "pi-tv-bu-vb-pj2:190.3"
 msgid "“assamaṇo ahaṃ, bhante, vibbhamissāmī”ti."
 msgstr "“Venerable, I’m no longer an ascetic; I’ll disrobe.”"
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-pj2:190.4"
+msgctxt "pi-tv-bu-vb-pj2:190.3"
 msgid "“Kiṃ tayā, āvuso, katan”ti?"
 msgstr "“But what have you done?”"
 
-msgctxt "pi-tv-bu-vb-pj2:190.5"
+msgctxt "pi-tv-bu-vb-pj2:190.4"
 msgid "So tamatthaṃ ārocesi."
 msgstr "He told him."
 
-msgctxt "pi-tv-bu-vb-pj2:190.6"
+msgctxt "pi-tv-bu-vb-pj2:190.5"
 msgid "Āharāpetvā agghāpesi."
 msgstr "After getting the turban brought, Venerable Daḷhika had it valued,"
 
-msgctxt "pi-tv-bu-vb-pj2:190.7"
+msgctxt "pi-tv-bu-vb-pj2:190.6"
 msgid "Taṃ agghāpentaṃ na pañcamāsake agghati."
 msgstr "and it was not worth five <i lang=\"pi\">māsaka</i> coins."
 
-msgctxt "pi-tv-bu-vb-pj2:190.8"
+msgctxt "pi-tv-bu-vb-pj2:190.7"
 msgid "“Anāpatti, āvuso, pārājikassā”ti."
 msgstr "“There’s no offense entailing expulsion,”"
 
-msgctxt "pi-tv-bu-vb-pj2:190.9"
+msgctxt "pi-tv-bu-vb-pj2:190.8"
 msgid "Dhammakathaṃ akāsi."
 msgstr "and he gave a teaching."
 
-msgctxt "pi-tv-bu-vb-pj2:190.10"
+msgctxt "pi-tv-bu-vb-pj2:190.9"
 msgid "So bhikkhu abhiramatīti."
 msgstr "That monk was delighted."
 
-msgctxt "pi-tv-bu-vb-pj2:190.11"
+msgctxt "pi-tv-bu-vb-pj2:190.10"
 msgid "(150)"
 msgstr ""
 

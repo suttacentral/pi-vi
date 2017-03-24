@@ -424,41 +424,41 @@ msgctxt "pi-tv-bu-vb-np22:17.12"
 msgid "Tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
 msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
-msgctxt "pi-tv-bu-vb-np22:17.14"
+msgctxt "pi-tv-bu-vb-np22:17.13"
 msgid "“ayaṃ me, bhante, patto ūnapañcabandhanena pattena cetāpito nissaggiyo."
 msgstr "‘Venerables, this bowl that I got in exchange for a bowl that had less than five mends is to be relinquished."
 
-msgctxt "pi-tv-bu-vb-np22:17.15"
+msgctxt "pi-tv-bu-vb-np22:17.14"
 msgid "Imāhaṃ saṃghassa nissajjāmī”ti."
 msgstr "I relinquish it to the Order.’"
 
 #. </span> 
-msgctxt "pi-tv-bu-vb-np22:17.16"
+msgctxt "pi-tv-bu-vb-np22:17.15"
 msgid "Nissajjitvā āpatti desetabbā."
 msgstr "” After relinquishing it, he should acknowledge the offense."
 
-msgctxt "pi-tv-bu-vb-np22:17.17"
+msgctxt "pi-tv-bu-vb-np22:17.16"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
 msgstr "The acknowledgment should be received by a competent and capable monk."
 
 #. </p><p>
-msgctxt "pi-tv-bu-vb-np22:17.18"
+msgctxt "pi-tv-bu-vb-np22:17.17"
 msgid "Pañcahaṅgehi samannāgato bhikkhu pattaggāhāpako sammannitabbo—"
 msgstr "A monk who has five qualities should be appointed as the bowl-distributor:"
 
-msgctxt "pi-tv-bu-vb-np22:17.19"
+msgctxt "pi-tv-bu-vb-np22:17.18"
 msgid "yo na chandāgatiṃ gaccheyya, na dosāgatiṃ gaccheyya, na mohāgatiṃ gaccheyya, na bhayāgatiṃ gaccheyya, gāhitāgāhitañca jāneyya."
 msgstr "one who is not swayed by desire, ill will, confusion, or fear, and who knows the meaning of distributed and not distributed."
 
-msgctxt "pi-tv-bu-vb-np22:17.20"
+msgctxt "pi-tv-bu-vb-np22:17.19"
 msgid "“Evañca pana, bhikkhave, sammannitabbo."
 msgstr "“And, monks, this is how he should be appointed."
 
-msgctxt "pi-tv-bu-vb-np22:17.21"
+msgctxt "pi-tv-bu-vb-np22:17.20"
 msgid "Paṭhamaṃ bhikkhu yācitabbo."
 msgstr "First the monk should be asked"
 
-msgctxt "pi-tv-bu-vb-np22:17.22"
+msgctxt "pi-tv-bu-vb-np22:17.21"
 msgid "Yācitvā byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "and then a competent and capable monk should inform the Order:"
 

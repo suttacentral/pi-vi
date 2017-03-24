@@ -249,28 +249,28 @@ msgctxt "pi-tv-bu-vb-np14:12.4"
 msgid "Tena gilānena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
 msgstr "After approaching the Order, the sick monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
 
-msgctxt "pi-tv-bu-vb-np14:12.6"
+msgctxt "pi-tv-bu-vb-np14:12.5"
 msgid "‘ahaṃ, bhante, gilāno"
 msgstr "‘Venerables, I’m sick."
 
-msgctxt "pi-tv-bu-vb-np14:12.7"
+msgctxt "pi-tv-bu-vb-np14:12.6"
 msgid "na sakkomi santhataṃ ādāya pakkamituṃ."
 msgstr "I’m not able to take my blanket when I travel."
 
-msgctxt "pi-tv-bu-vb-np14:12.8"
+msgctxt "pi-tv-bu-vb-np14:12.7"
 msgid "Sohaṃ, bhante, saṃghaṃ santhatasammutiṃ yācāmī’ti."
 msgstr "I ask the Order for a blanket-permission.’"
 
-msgctxt "pi-tv-bu-vb-np14:12.9"
+msgctxt "pi-tv-bu-vb-np14:12.8"
 msgid "Dutiyampi yācitabbā."
 msgstr "And he should ask a second"
 
-msgctxt "pi-tv-bu-vb-np14:12.10"
+msgctxt "pi-tv-bu-vb-np14:12.9"
 msgid "Tatiyampi yācitabbā."
 msgstr "and a third time."
 
 #. <a class="wt-pa" id="2142"></a> 
-msgctxt "pi-tv-bu-vb-np14:12.11"
+msgctxt "pi-tv-bu-vb-np14:12.10"
 msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "A competent and capable monk should then inform the Order:"
 
