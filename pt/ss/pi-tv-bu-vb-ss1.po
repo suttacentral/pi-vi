@@ -1,0 +1,3890 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-10-21 10:34-0144\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta
+#. content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="en"><section class="sutta" id="pi-tv-bu-vb-ss1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-ss1:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p class="division">
+msgctxt "pi-tv-bu-vb-ss1:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:3.1"
+msgid "Saṃ­ghā­di­sesa­kaṇḍa"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-ss1:4.2"
+msgid "Sukka­vissaṭ­ṭhi­sikkhā­pada"
+msgstr ""
+
+#. </h1></div><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.110"></a><a class="pts-vp-en" id="bd.1.192"></a><a class="ms-pa"
+#. id="ms-pa774"></a>
+msgctxt "pi-tv-bu-vb-ss1:5.1"
+msgid "Ime kho panāyasmanto terasa saṃghādisesā dhammā uddesaṃ āgacchanti."
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss1:6.1"
+msgid ""
+msgstr ""
+
+#. </h2><h3>
+msgctxt "pi-tv-bu-vb-ss1:6.2"
+msgid ""
+msgstr ""
+
+#. </h3><p><a class="sc" id="2"></a><a class="pts-cs-empty" id="bu-
+#. ss.1.1"></a><a class="pts-cs" id="bu-ss.1.1.1"></a><a class="ms-pa" id="ms-
+#. pa775"></a>
+msgctxt "pi-tv-bu-vb-ss1:6.3"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.4"
+msgid "Tena kho pana samayena āyasmā seyyasako anabhirato brahmacariyaṃ carati."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.5"
+msgid "So tena kiso hoti lūkho dubbaṇṇo uppaṇḍup­paṇḍuka­jāto dhama­ni­san­tha­ta­gatto."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.6"
+msgid "Addasa kho āyasmā udāyī āyasmantaṃ seyyasakaṃ kisaṃ lūkhaṃ dubbaṇṇaṃ uppaṇ­ḍup­paṇḍuka­jātaṃ dhama­ni­san­tha­ta­gattaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.7"
+msgid "Disvāna āyasmantaṃ seyyasakaṃ etadavoca—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.8"
+msgid "“kissa tvaṃ, āvuso seyyasaka, kiso lūkho dubbaṇṇo uppaṇḍup­paṇḍuka­jāto dhama­ni­san­tha­ta­gatto?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.9"
+msgid "Kacci no tvaṃ, āvuso seyyasaka, anabhirato brahmacariyaṃ carasī”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:6.10"
+msgid "“Evamāvuso”ti."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:6.11"
+msgid "“Tena hi tvaṃ, āvuso seyyasaka, yāvadatthaṃ bhuñja yāvadatthaṃ supa yāvadatthaṃ nhāya."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.12"
+msgid "Yāvadatthaṃ bhuñjitvā yāvadatthaṃ supitvā yāvadatthaṃ nhāyitvā yadā te anabhirati uppajjati rāgo cittaṃ anuddhaṃseti tadā hatthena upakkamitvā asuciṃ mocehī”ti."
+msgstr ""
+
+#. <a class="pts-vp-en" id="bd.1.193"></a>
+msgctxt "pi-tv-bu-vb-ss1:6.13"
+msgid "“Kiṃ nu kho, āvuso, kappati evarūpaṃ kātun”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:6.14"
+msgid "“Āma, āvuso."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:6.15"
+msgid "Ahampi evaṃ karomī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.111"></a><a class="ms-pa" id="ms-pa776"></a>
+msgctxt "pi-tv-bu-vb-ss1:7.1"
+msgid "Atha kho āyasmā seyyasako yāvadatthaṃ bhuñji yāvadatthaṃ supi yāvadatthaṃ nhāyi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.2"
+msgid "Yāvadatthaṃ bhuñjitvā yāvadatthaṃ supitvā yāvadatthaṃ nhāyitvā yadā anabhirati uppajjati rāgo cittaṃ anuddhaṃseti tadā hatthena upakkamitvā asuciṃ mocesi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.3"
+msgid "Atha kho āyasmā seyyasako aparena samayena vaṇṇavā ahosi pīṇindriyo pasan­na­mukha­vaṇṇo vippa­sanna­chavi­vaṇṇo."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.4"
+msgid "Atha kho āyasmato seyyasakassa sahāyakā bhikkhū āyasmantaṃ seyyasakaṃ etadavocuṃ—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.5"
+msgid "“pubbe kho tvaṃ, āvuso seyyasaka, kiso ahosi lūkho dubbaṇṇo uppaṇḍup­paṇḍuka­jāto dhama­ni­san­tha­ta­gatto."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.6"
+msgid "So dāni tvaṃ etarahi vaṇṇavā pīṇindriyo pasan­na­mukha­vaṇṇo vippa­sanna­chavi­vaṇṇo."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.7"
+msgid "Kiṃ nu kho tvaṃ, āvuso seyyasaka, bhesajjaṃ karosī”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:7.8"
+msgid "“Na kho ahaṃ, āvuso, bhesajjaṃ karomi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.9"
+msgid "Api cāhaṃ yāvadatthaṃ bhuñjāmi yāvadatthaṃ supāmi yāvadatthaṃ nhāyāmi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.10"
+msgid "Yāvadatthaṃ bhuñjitvā yāvadatthaṃ supitvā yāvadatthaṃ nhāyitvā yadā me anabhirati uppajjati rāgo cittaṃ anuddhaṃseti tadā hatthena upakkamitvā asuciṃ mocemī”ti."
+msgstr ""
+
+#. <a class="pts-cs" id="bu-ss.1.1.2"></a>
+msgctxt "pi-tv-bu-vb-ss1:7.11"
+msgid "“Kiṃ pana tvaṃ, āvuso seyyasaka, yeneva hatthena saddhādeyyaṃ bhuñjasi teneva hatthena upakkamitvā asuciṃ mocesī”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:7.12"
+msgid "“Evamāvuso”ti."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:7.13"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+#. <a class="pts-vp-en" id="bd.1.194"></a>
+msgctxt "pi-tv-bu-vb-ss1:7.14"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:7.15"
+msgid "“kathañhi nāma āyasmā seyyasako hatthena upakkamitvā asuciṃ mocessatī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="4"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.112"></a><a class="ms-pa" id="ms-pa777"></a>
+msgctxt "pi-tv-bu-vb-ss1:8.1"
+msgid "Atha kho te bhikkhū āyasmantaṃ seyyasakaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.2"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ seyyasakaṃ paṭipucchi—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.3"
+msgid "“saccaṃ kira tvaṃ, seyyasaka, hatthena upakkamitvā asuciṃ mocesī”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:8.4"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:8.5"
+msgid "Vigarahi buddho bhagavā—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.6"
+msgid "“ananucchavikaṃ, moghapurisa, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.7"
+msgid "Kathañhi nāma tvaṃ, moghapurisa, hatthena upakkamitvā asuciṃ mocessasi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.8"
+msgid "Nanu mayā, moghapurisa, aneka­pariyā­yena virāgāya dhammo desito no sarāgāya,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.9"
+msgid "visaññogāya dhammo desito no saññogāya,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.10"
+msgid "anupādānāya dhammo desito no saupādānāya."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.11"
+msgid "Tattha nāma tvaṃ, moghapurisa, mayā virāgāya dhamme desite sarāgāya cetessasi, visaññogāya dhamme desite saññogāya cetessasi, anupādānāya dhamme desite saupādānāya cetessasi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.12"
+msgid "Nanu mayā, moghapurisa, aneka­pariyā­yena rāgavirāgāya dhammo desito, mada­nim­madanāya pipāsavinayāya ālaya­samug­ghātāya vaṭ­ṭupac­che­dāya taṇhākkhayāya virāgāya nirodhāya nibbānāya dhammo desito?"
+msgstr ""
+
+#. <a class="pts-vp-en" id="bd.1.195"></a>
+msgctxt "pi-tv-bu-vb-ss1:8.13"
+msgid "Nanu mayā, moghapurisa, aneka­pariyā­yena kāmānaṃ pahānaṃ akkhātaṃ, kāmasaññānaṃ pariññā akkhātā, kāmapipāsānaṃ paṭivinayo akkhāto, kāmavitakkānaṃ samugghāto akkhāto, kāma­pari­ḷāhā­naṃ vūpasamo akkhāto?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.14"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya, pasannānaṃ vā bhiyyobhāvāya."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.15"
+msgid "Atha khvetaṃ, moghapurisa, appasan­nā­nañ­ceva appasādāya, pasannānañca ekaccānaṃ aññathattāyā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.16"
+msgid "Atha kho bhagavā āyasmantaṃ seyyasakaṃ aneka­pariyā­yena vigarahitvā dubbharatāya … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:8.17"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr ""
+
+#. </p><h3>
+msgctxt "pi-tv-bu-vb-ss1:9.1"
+msgid ""
+msgstr ""
+
+#. </h3><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa778"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-ss1:9.2"
+msgid "“Sañcetanikā sukkavissaṭṭhi saṃghādiseso”ti."
+msgstr ""
+
+#. </strong>
+#. </p><p class="endsection>"><a class="sc" id="6"></a><a class="ms-pa"
+#. id="ms-pa779"></a>
+msgctxt "pi-tv-bu-vb-ss1:10.1"
+msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
+msgstr ""
+
+#. </p><h3>
+msgctxt "pi-tv-bu-vb-ss1:11.1"
+msgid ""
+msgstr ""
+
+#. </h3><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-
+#. ss.1.2"></a><a class="pts-cs" id="bu-ss.1.2.1"></a><a class="ms-pa" id="ms-
+#. pa780"></a>
+msgctxt "pi-tv-bu-vb-ss1:11.2"
+msgid "Tena kho pana samayena bhikkhū paṇīta­bhoja­nāni bhuñjitvā muṭṭhassatī asampajānā niddaṃ okkamanti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.3"
+msgid "Tesaṃ muṭṭhassatīnaṃ asampajānānaṃ niddaṃ okkamantānaṃ supinantena asuci muccati."
+msgstr ""
+
+#. <a class="pts-vp-en" id="bd.1.196"></a>
+msgctxt "pi-tv-bu-vb-ss1:11.4"
+msgid "Tesaṃ kukkuccaṃ ahosi—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.5"
+msgid "“bhagavatā sikkhāpadaṃ paññattaṃ—‘"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.6"
+msgid "sañcetanikā sukkavissaṭṭhi saṃghādiseso’ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.7"
+msgid "Amhākañca supinantena asuci muccati."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.8"
+msgid "Atthi cettha cetanā labbhati."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.9"
+msgid "Kacci nu kho mayaṃ saṃghādisesaṃ āpattiṃ āpannā”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.10"
+msgid "Bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.11"
+msgid "“Atthesā, bhikkhave, cetanā;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.12"
+msgid "sā ca kho abbohārikāti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:11.13"
+msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss1:12.1"
+msgid ""
+msgstr ""
+
+#. </h2><p><a class="sc" id="8"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-ss1:12.2"
+msgid "“Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṃghādiseso”ti."
+msgstr ""
+
+#. </strong>
+msgctxt "pi-tv-bu-vb-ss1:12.3"
+msgid "(<em>1</em>:<strong>5</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss1:13.1"
+msgid ""
+msgstr ""
+
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-ss.1.2.2"></a><a
+#. class="ms-pa" id="ms-pa782"></a><strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:13.2"
+msgid "Sañcetanikāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:13.3"
+msgid "jānanto sañjānanto cecca abhivitaritvā vītikkamo."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa783"></a><strong
+#. class="term">
+msgctxt "pi-tv-bu-vb-ss1:14.1"
+msgid "Sukkanti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:14.2"
+msgid "dasa sukkāni—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:14.3"
+msgid "nīlaṃ pītakaṃ lohitakaṃ odātaṃ takkavaṇṇaṃ dakavaṇṇaṃ telavaṇṇaṃ khīravaṇṇaṃ dadhivaṇṇaṃ sappivaṇṇaṃ."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa784"></a><strong
+#. class="term">
+msgctxt "pi-tv-bu-vb-ss1:15.1"
+msgid "Vissaṭṭhīti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:15.2"
+msgid "ṭhānato cāvanā vuccati vissaṭṭhīti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa785"></a><strong
+#. class="term">
+msgctxt "pi-tv-bu-vb-ss1:16.1"
+msgid "Aññatra supinantāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:16.2"
+msgid "ṭhapetvā supinantaṃ."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa786"></a><strong
+#. class="term">
+msgctxt "pi-tv-bu-vb-ss1:17.1"
+msgid "<strong>Saṃghādiseso</strong>ti"
+msgstr ""
+
+#. </strong><span class="gloss">
+#. <span class="note" hidden><i lang="pi">Mānattaṃ deti</i>.For the meaning of
+#. <i lang="pi">mānatta</i> see TAP 123.</span>
+msgctxt "pi-tv-bu-vb-ss1:17.2"
+msgid "saṃghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti;"
+msgstr ""
+
+#. <a class="pts-vp-en" id="bd.1.197"></a>
+msgctxt "pi-tv-bu-vb-ss1:17.3"
+msgid "na sambahulā, na ekapuggalo."
+msgstr ""
+
+#. <span class="note" hidden>The point here, which can only be understood from
+#. the Pali, is that the word <i lang="pi">saṅghādisesa</i> (<i
+#. lang="pi">saṅgha</i> + <i lang="pi">ādisesa</i>) is derived from the fact
+#. that only the <i lang="pi">sangha</i> can do the formal procedures required
+#. when a monastic commits this offense.</span>
+msgctxt "pi-tv-bu-vb-ss1:17.4"
+msgid "Tena vuccati—“saṃghādiseso”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:17.5"
+msgid "Tasseva āpatti­nikāyassa nāmakammaṃ adhivacanaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:17.6"
+msgid "Tenapi vuccati—“saṃghādiseso”ti."
+msgstr ""
+
+#. </span>
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss1:18.1"
+msgid ""
+msgstr ""
+
+#. </h2><h3>
+msgctxt "pi-tv-bu-vb-ss1:18.2"
+msgid ""
+msgstr ""
+
+#. </h3><h4>
+msgctxt "pi-tv-bu-vb-ss1:18.3"
+msgid ""
+msgstr ""
+
+#. </h4><p><a class="sc" id="14"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.113"></a><div class="uddesa"><p><a class="pts-cs-empty" id="bu-
+#. ss.1.3"></a><a class="pts-cs" id="bu-ss.1.3.1"></a><a class="ms-pa" id="ms-
+#. pa787"></a>
+msgctxt "pi-tv-bu-vb-ss1:18.4"
+msgid "Ajjhattarūpe moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.5"
+msgid "bahiddhārūpe moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.6"
+msgid "ajjhat­ta­bahid­dhā­rūpe moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.7"
+msgid "ākāse kaṭiṃ kampento moceti;"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:18.8"
+msgid "rāgūpatthambhe moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.9"
+msgid "vaccū­pattham­bhe moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.10"
+msgid "passā­vū­pattham­bhe moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.11"
+msgid "vātūpatthambhe moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.12"
+msgid "uccāliṅ­ga­pāṇaka­daṭṭhū­pattham­bhe moceti;"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:18.13"
+msgid "ārogyatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.14"
+msgid "sukhatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.15"
+msgid "bhesajjatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.16"
+msgid "dānatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.17"
+msgid "puññatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.18"
+msgid "yaññatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.19"
+msgid "saggatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.20"
+msgid "bījatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.21"
+msgid "vīmaṃsatthāya moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.22"
+msgid "davatthāya moceti;"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:18.23"
+msgid "nīlaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.24"
+msgid "pītakaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.25"
+msgid "lohitakaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.26"
+msgid "odātaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.27"
+msgid "takkavaṇṇaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.28"
+msgid "dakavaṇṇaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.29"
+msgid "telavaṇṇaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.30"
+msgid "khīravaṇṇaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.31"
+msgid "dadhivaṇṇaṃ moceti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:18.32"
+msgid "sappivaṇṇaṃ moceti."
+msgstr ""
+
+#. </p></div><h4>
+msgctxt "pi-tv-bu-vb-ss1:19.1"
+msgid ""
+msgstr ""
+
+#. </h4><p><a class="sc" id="15"></a><a class="pts-cs" id="bu-ss.1.3.2"></a><a
+#. class="ms-pa" id="ms-pa788"></a><strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:19.2"
+msgid "Ajjhattarūpeti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:19.3"
+msgid "ajjhattaṃ upādinne rūpe."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa789"></a><strong
+#. class="term">
+msgctxt "pi-tv-bu-vb-ss1:20.1"
+msgid "Bahiddhārūpeti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:20.2"
+msgid "bahiddhā upādinne vā anupādinne vā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa790"></a><strong
+#. class="term">
+msgctxt "pi-tv-bu-vb-ss1:21.1"
+msgid "Ajjhat­ta­bahid­dhā­rūpeti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:21.2"
+msgid "tadubhaye."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa791"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:22.1"
+msgid "Ākāse kaṭiṃ kampentoti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:22.2"
+msgid "ākāse vāyamantassa aṅgajātaṃ kammaniyaṃ hoti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa792"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:23.1"
+msgid "Rāgūpatthambheti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:23.2"
+msgid "rāgena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa793"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:24.1"
+msgid "Vaccū­pattham­bheti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:24.2"
+msgid "vaccena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa794"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:25.1"
+msgid "Passā­vū­pattham­bheti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:25.2"
+msgid "passāvena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa795"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:26.1"
+msgid "Vātūpatthambheti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:26.2"
+msgid "vātena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa796"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:27.1"
+msgid "Uccāliṅ­ga­pāṇaka­daṭṭhū­pattham­bheti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:27.2"
+msgid "uccāliṅ­ga­pāṇaka­daṭ­ṭhena aṅgajātaṃ kammaniyaṃ hoti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa797"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:28.1"
+msgid "Ārogyatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:28.2"
+msgid "arogo bhavissāmi."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa798"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:29.1"
+msgid "Sukhatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:29.2"
+msgid "sukhaṃ vedanaṃ uppādessāmi."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa799"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:30.1"
+msgid "Bhesajjatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:30.2"
+msgid "bhesajjaṃ bhavissati."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa800"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:31.1"
+msgid "Dānatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:31.2"
+msgid "dānaṃ dassāmi."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa801"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:32.1"
+msgid "Puññatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:32.2"
+msgid "puññaṃ bhavissati."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa802"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:33.1"
+msgid "Yaññatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:33.2"
+msgid "yaññaṃ yajissāmi."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa803"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:34.1"
+msgid "Saggatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:34.2"
+msgid "saggaṃ gamissāmi."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa804"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:35.1"
+msgid "Bījatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:35.2"
+msgid "bījaṃ bhavissati."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms-pa805"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:36.1"
+msgid "Vīmaṃsatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:36.2"
+msgid "nīlaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.3"
+msgid "pītakaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.4"
+msgid "lohitakaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.5"
+msgid "odātaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.6"
+msgid "takkavaṇṇaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.7"
+msgid "dakavaṇṇaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.8"
+msgid "telavaṇṇaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.9"
+msgid "khīravaṇṇaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.10"
+msgid "dadhivaṇṇaṃ bhavissati,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:36.11"
+msgid "sappivaṇṇaṃ bhavissatīti."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="ms-pa806"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss1:37.1"
+msgid "Davatthāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss1:37.2"
+msgid "khiḍḍādhippāyo."
+msgstr ""
+
+#. </span>
+#. </p><h4>
+msgctxt "pi-tv-bu-vb-ss1:38.1"
+msgid ""
+msgstr ""
+
+#. </h4><p><a class="sc" id="34"></a><a class="pts-cs" id="bu-ss.1.3.3"></a><a
+#. class="ms-pa" id="ms-pa807"></a>
+msgctxt "pi-tv-bu-vb-ss1:38.2"
+msgid "Ajjhattarūpe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="35"></a><a class="ms-pa" id="ms-pa808"></a>
+msgctxt "pi-tv-bu-vb-ss1:39.1"
+msgid "Bahiddhārūpe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa809"></a>
+msgctxt "pi-tv-bu-vb-ss1:40.1"
+msgid "Ajjhat­ta­bahid­dhā­rūpe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="37"></a><a class="ms-pa" id="ms-pa810"></a>
+msgctxt "pi-tv-bu-vb-ss1:41.1"
+msgid "Ākāse kaṭiṃ kampento ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms-pa811"></a>
+msgctxt "pi-tv-bu-vb-ss1:42.1"
+msgid "Rāgūpatthambhe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="39"></a><a class="ms-pa" id="ms-pa812"></a>
+msgctxt "pi-tv-bu-vb-ss1:43.1"
+msgid "Vaccū­pattham­bhe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa813"></a>
+msgctxt "pi-tv-bu-vb-ss1:44.1"
+msgid "Passā­vū­pattham­bhe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="41"></a><a class="ms-pa" id="ms-pa814"></a>
+msgctxt "pi-tv-bu-vb-ss1:45.1"
+msgid "Vātūpatthambhe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="42"></a><a class="ms-pa" id="ms-pa815"></a>
+msgctxt "pi-tv-bu-vb-ss1:46.1"
+msgid "Uccāliṅ­ga­pāṇaka­daṭṭhū­pattham­bhe ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><h4>
+msgctxt "pi-tv-bu-vb-ss1:47.1"
+msgid ""
+msgstr ""
+
+#. </h4><h5>
+msgctxt "pi-tv-bu-vb-ss1:47.2"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa816"></a>
+msgctxt "pi-tv-bu-vb-ss1:47.3"
+msgid "Ārogyatthāya ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="44"></a><a class="ms-pa" id="ms-pa817"></a>
+msgctxt "pi-tv-bu-vb-ss1:48.1"
+msgid "Sukhatthāya … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.2"
+msgid "bhesajjatthāya …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.3"
+msgid "dānatthāya …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.4"
+msgid "puññatthāya …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.5"
+msgid "yaññatthāya …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.6"
+msgid "saggatthāya …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.7"
+msgid "bījatthāya …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.8"
+msgid "vīmaṃsatthāya …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:48.9"
+msgid "davatthāya ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:49.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa818"></a>
+msgctxt "pi-tv-bu-vb-ss1:49.2"
+msgid "Nīlaṃ ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="46"></a><a class="ms-pa" id="ms-pa819"></a>
+msgctxt "pi-tv-bu-vb-ss1:50.1"
+msgid "Pītakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.2"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.3"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.4"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.5"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.6"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.7"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.8"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:50.9"
+msgid "sappivaṇṇaṃ ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="47"></a><a class="ms-pa"
+#. id="ms-pa820"></a>
+msgctxt "pi-tv-bu-vb-ss1:51.1"
+msgid "Suddhikaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:52.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="48"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.114"></a><a class="pts-cs" id="bu-ss.1.3.4"></a><a class="ms-pa"
+#. id="ms-pa821"></a>
+msgctxt "pi-tv-bu-vb-ss1:52.2"
+msgid "Ārogyatthañca sukhatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="49"></a><a class="ms-pa" id="ms-pa822"></a>
+msgctxt "pi-tv-bu-vb-ss1:53.1"
+msgid "Ārogyatthañca ­bhesaj­jat­thañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:53.2"
+msgid "ārogyatthañca dānatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:53.3"
+msgid "ārogyatthañca puññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:53.4"
+msgid "ārogyatthañca yaññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:53.5"
+msgid "ārogyatthañca saggatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:53.6"
+msgid "ārogyatthañca bījatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:53.7"
+msgid "ārogyatthañca vīmaṃsatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:53.8"
+msgid "ārogyatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="50"></a><a class="ms-pa"
+#. id="ms-pa823"></a>
+msgctxt "pi-tv-bu-vb-ss1:54.1"
+msgid "Ekamūlakassa khaṇḍacakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="51"></a><a class="pts-cs" id="bu-ss.1.3.5"></a><a
+#. class="ms-pa" id="ms-pa824"></a>
+msgctxt "pi-tv-bu-vb-ss1:55.1"
+msgid "Sukhatthañca ­bhesaj­jat­thañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="52"></a><a class="ms-pa" id="ms-pa825"></a>
+msgctxt "pi-tv-bu-vb-ss1:56.1"
+msgid "Sukhatthañca dānatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:56.2"
+msgid "sukhatthañca puññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:56.3"
+msgid "sukhatthañca yaññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:56.4"
+msgid "sukhatthañca saggatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:56.5"
+msgid "sukhatthañca bījatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:56.6"
+msgid "sukhatthañca vīmaṃsatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:56.7"
+msgid "sukhatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="53"></a><a class="ms-pa" id="ms-pa826"></a>
+msgctxt "pi-tv-bu-vb-ss1:57.1"
+msgid "Sukhatthañca ārogyatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="54"></a><a class="ms-pa" id="ms-pa827"></a>
+msgctxt "pi-tv-bu-vb-ss1:58.1"
+msgid "Bhesaj­jat­thañca dānatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:58.2"
+msgid "­bhesaj­jat­thañca puññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:58.3"
+msgid "­bhesaj­jat­thañca yaññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:58.4"
+msgid "­bhesaj­jat­thañca saggatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:58.5"
+msgid "­bhesaj­jat­thañca bījatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:58.6"
+msgid "­bhesaj­jat­thañca vīmaṃsatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:58.7"
+msgid "­bhesaj­jat­thañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="55"></a><a class="ms-pa" id="ms-pa828"></a>
+msgctxt "pi-tv-bu-vb-ss1:59.1"
+msgid "Bhesaj­jat­thañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:59.2"
+msgid "­bhesaj­jat­thañca sukhatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="56"></a><a class="ms-pa" id="ms-pa829"></a>
+msgctxt "pi-tv-bu-vb-ss1:60.1"
+msgid "Dānatthañca puññatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:60.2"
+msgid "dānatthañca yaññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:60.3"
+msgid "dānatthañca saggatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:60.4"
+msgid "dānatthañca bījatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:60.5"
+msgid "dānatthañca vīmaṃsatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:60.6"
+msgid "dānatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="57"></a><a class="ms-pa" id="ms-pa830"></a>
+msgctxt "pi-tv-bu-vb-ss1:61.1"
+msgid "Dānatthañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:61.2"
+msgid "dānatthañca sukhatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:61.3"
+msgid "dānatthañca ­bhesaj­jat­thañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="58"></a><a class="ms-pa" id="ms-pa831"></a>
+msgctxt "pi-tv-bu-vb-ss1:62.1"
+msgid "Puññatthañca yaññatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:62.2"
+msgid "puññatthañca saggatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:62.3"
+msgid "puññatthañca bījatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:62.4"
+msgid "puññatthañca vīmaṃsatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:62.5"
+msgid "puññatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="59"></a><a class="ms-pa" id="ms-pa832"></a>
+msgctxt "pi-tv-bu-vb-ss1:63.1"
+msgid "Puññatthañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:63.2"
+msgid "puññatthañca sukhatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:63.3"
+msgid "puññatthañca ­bhesaj­jat­thañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:63.4"
+msgid "puññatthañca dānatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="60"></a><a class="ms-pa" id="ms-pa833"></a>
+msgctxt "pi-tv-bu-vb-ss1:64.1"
+msgid "Yaññatthañca saggatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:64.2"
+msgid "yaññatthañca bījatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:64.3"
+msgid "yaññatthañca vīmaṃsatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:64.4"
+msgid "yaññatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="61"></a><a class="ms-pa" id="ms-pa834"></a>
+msgctxt "pi-tv-bu-vb-ss1:65.1"
+msgid "Yaññatthañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:65.2"
+msgid "yaññatthañca sukhatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:65.3"
+msgid "yaññatthañca ­bhesaj­jat­thañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:65.4"
+msgid "yaññatthañca dānatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:65.5"
+msgid "yaññatthañca puññatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="62"></a><a class="ms-pa" id="ms-pa835"></a>
+msgctxt "pi-tv-bu-vb-ss1:66.1"
+msgid "Saggatthañca bījatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:66.2"
+msgid "saggatthañca vīmaṃsatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:66.3"
+msgid "saggatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="63"></a><a class="ms-pa" id="ms-pa836"></a>
+msgctxt "pi-tv-bu-vb-ss1:67.1"
+msgid "Saggatthañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:67.2"
+msgid "saggatthañca sukhatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:67.3"
+msgid "saggatthañca ­bhesaj­jat­thañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:67.4"
+msgid "saggatthañca dānatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:67.5"
+msgid "saggatthañca puññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:67.6"
+msgid "saggatthañca yaññatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="64"></a><a class="ms-pa" id="ms-pa837"></a>
+msgctxt "pi-tv-bu-vb-ss1:68.1"
+msgid "Bījatthañca vīmaṃsatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:68.2"
+msgid "bījatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="65"></a><a class="ms-pa" id="ms-pa838"></a>
+msgctxt "pi-tv-bu-vb-ss1:69.1"
+msgid "Bījatthañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:69.2"
+msgid "bījatthañca sukhatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:69.3"
+msgid "bījatthañca ­bhesaj­jat­thañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:69.4"
+msgid "bījatthañca dānatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:69.5"
+msgid "bījatthañca puññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:69.6"
+msgid "bījatthañca yaññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:69.7"
+msgid "bījatthañca saggatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="66"></a><a class="ms-pa" id="ms-pa839"></a>
+msgctxt "pi-tv-bu-vb-ss1:70.1"
+msgid "Vīmaṃsatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="67"></a><a class="ms-pa" id="ms-pa840"></a>
+msgctxt "pi-tv-bu-vb-ss1:71.1"
+msgid "Vīmaṃsatthañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:71.2"
+msgid "vīmaṃsatthañca sukhatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:71.3"
+msgid "vīmaṃsatthañca ­bhesaj­jat­thañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:71.4"
+msgid "vīmaṃsatthañca dānatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:71.5"
+msgid "vīmaṃsatthañca puññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:71.6"
+msgid "vīmaṃsatthañca yaññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:71.7"
+msgid "vīmaṃsatthañca saggatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:71.8"
+msgid "vīmaṃsatthañca bījatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="68"></a><a class="ms-pa" id="ms-pa841"></a>
+msgctxt "pi-tv-bu-vb-ss1:72.1"
+msgid "Davatthañca ārogyatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.2"
+msgid "davatthañca sukhatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.3"
+msgid "davatthañca ­bhesaj­jat­thañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.4"
+msgid "davatthañca dānatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.5"
+msgid "davatthañca puññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.6"
+msgid "davatthañca yaññatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.7"
+msgid "davatthañca saggatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.8"
+msgid "davatthañca bījatthañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:72.9"
+msgid "davatthañca vīmaṃsatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="69"></a><a class="ms-pa"
+#. id="ms-pa842"></a>
+msgctxt "pi-tv-bu-vb-ss1:73.1"
+msgid "Ekamūlakassa baddhacakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:74.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="70"></a><a class="ms-pa" id="ms-pa843"></a>
+msgctxt "pi-tv-bu-vb-ss1:74.2"
+msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:74.3"
+msgid "ārogyatthañca sukhatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="71"></a><a class="ms-pa"
+#. id="ms-pa844"></a>
+msgctxt "pi-tv-bu-vb-ss1:75.1"
+msgid "Dumūlakassa khaṇḍacakkaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="72"></a><a class="ms-pa" id="ms-pa845"></a>
+msgctxt "pi-tv-bu-vb-ss1:76.1"
+msgid "Sukhatthañca ­bhesaj­jat­thañca dānatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:76.2"
+msgid "sukhatthañca ­bhesaj­jat­thañca davatthañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:76.3"
+msgid "sukhatthañca ­bhesaj­jat­thañca ārogyatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="73"></a><a class="ms-pa"
+#. id="ms-pa846"></a>
+msgctxt "pi-tv-bu-vb-ss1:77.1"
+msgid "Dumūlakassa baddhacakkaṃ, saṃkhittaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="74"></a><a class="ms-pa" id="ms-pa847"></a>
+msgctxt "pi-tv-bu-vb-ss1:78.1"
+msgid "Vīmaṃsatthañca davatthañca ārogyatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:78.2"
+msgid "vīmaṃsatthañca davatthañca bījatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="75"></a><a class="ms-pa"
+#. id="ms-pa848"></a>
+msgctxt "pi-tv-bu-vb-ss1:79.1"
+msgid "Dumūlakaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:80.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="76"></a><a class="ms-pa" id="ms-pa849"></a>
+msgctxt "pi-tv-bu-vb-ss1:80.2"
+msgid "Timūlakampi catumūlakampi pañcamūlakampi chamūlakampi sattamūlakampi aṭṭhamūlakampi navamūlakampi evameva vitthāretabbaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:81.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="77"></a><a class="ms-pa" id="ms-pa850"></a>
+msgctxt "pi-tv-bu-vb-ss1:81.2"
+msgid "Idaṃ sabbamūlakaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="78"></a><a class="ms-pa" id="ms-pa851"></a>
+msgctxt "pi-tv-bu-vb-ss1:82.1"
+msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca dānatthañca puññatthañca yaññatthañca saggatthañca bījatthañca vīmaṃsatthañca davatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="79"></a><a class="ms-pa"
+#. id="ms-pa852"></a>
+msgctxt "pi-tv-bu-vb-ss1:83.1"
+msgid "Sabbamūlakaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:84.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="80"></a><a class="pts-cs" id="bu-ss.1.3.6"></a><a
+#. class="ms-pa" id="ms-pa853"></a>
+msgctxt "pi-tv-bu-vb-ss1:84.2"
+msgid "Nīlañca pītakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="81"></a><a class="ms-pa" id="ms-pa854"></a>
+msgctxt "pi-tv-bu-vb-ss1:85.1"
+msgid "Nīlañca lohitakañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:85.2"
+msgid "nīlañca odātañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:85.3"
+msgid "nīlañca takkavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:85.4"
+msgid "nīlañca dakavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:85.5"
+msgid "nīlañca telavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:85.6"
+msgid "nīlañca khīravaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:85.7"
+msgid "nīlañca dadhivaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:85.8"
+msgid "nīlañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="82"></a><a class="ms-pa"
+#. id="ms-pa855"></a>
+msgctxt "pi-tv-bu-vb-ss1:86.1"
+msgid "Ekamūlakassa khaṇḍacakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="83"></a><a class="ms-pa" id="ms-pa856"></a>
+msgctxt "pi-tv-bu-vb-ss1:87.1"
+msgid "Pītakañca lohitakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="84"></a><a class="ms-pa" id="ms-pa857"></a>
+msgctxt "pi-tv-bu-vb-ss1:88.1"
+msgid "Pītakañca odātañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:88.2"
+msgid "pītakañca takkavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:88.3"
+msgid "pītakañca dakavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:88.4"
+msgid "pītakañca telavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:88.5"
+msgid "pītakañca khīravaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:88.6"
+msgid "pītakañca dadhivaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:88.7"
+msgid "pītakañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="85"></a><a class="ms-pa" id="ms-pa858"></a>
+msgctxt "pi-tv-bu-vb-ss1:89.1"
+msgid "Pītakañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="86"></a><a class="ms-pa"
+#. id="ms-pa859"></a>
+msgctxt "pi-tv-bu-vb-ss1:90.1"
+msgid "Ekamūlakassa baddhacakkaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="87"></a><a class="ms-pa" id="ms-pa860"></a>
+msgctxt "pi-tv-bu-vb-ss1:91.1"
+msgid "Lohitakañca odātañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="88"></a><a class="ms-pa" id="ms-pa861"></a>
+msgctxt "pi-tv-bu-vb-ss1:92.1"
+msgid "Lohitakañca takkavaṇṇañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:92.2"
+msgid "lohitakañca dakavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:92.3"
+msgid "lohitakañca telavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:92.4"
+msgid "lohitakañca khīravaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:92.5"
+msgid "lohitakañca dadhivaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:92.6"
+msgid "lohitakañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="89"></a><a class="ms-pa" id="ms-pa862"></a>
+msgctxt "pi-tv-bu-vb-ss1:93.1"
+msgid "Lohitakañca nīlañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:93.2"
+msgid "lohitakañca pītakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="90"></a><a class="ms-pa" id="ms-pa863"></a>
+msgctxt "pi-tv-bu-vb-ss1:94.1"
+msgid "Odātañca takkavaṇṇañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:94.2"
+msgid "odātañca dakavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:94.3"
+msgid "odātañca telavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:94.4"
+msgid "odātañca khīravaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:94.5"
+msgid "odātañca dadhivaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:94.6"
+msgid "odātañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="91"></a><a class="ms-pa" id="ms-pa864"></a>
+msgctxt "pi-tv-bu-vb-ss1:95.1"
+msgid "Odātañca nīlañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:95.2"
+msgid "odātañca pītakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:95.3"
+msgid "odātañca lohitakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="92"></a><a class="ms-pa" id="ms-pa865"></a>
+msgctxt "pi-tv-bu-vb-ss1:96.1"
+msgid "Takkavaṇṇañca dakavaṇṇañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:96.2"
+msgid "takkavaṇṇañca telavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:96.3"
+msgid "takkavaṇṇañca khīravaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:96.4"
+msgid "takkavaṇṇañca dadhivaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:96.5"
+msgid "takkavaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="93"></a><a class="ms-pa" id="ms-pa866"></a>
+msgctxt "pi-tv-bu-vb-ss1:97.1"
+msgid "Takkavaṇṇañca nīlañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:97.2"
+msgid "takkavaṇṇañca pītakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:97.3"
+msgid "takkavaṇṇañca lohitakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:97.4"
+msgid "takkavaṇṇañca odātañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="94"></a><a class="ms-pa" id="ms-pa867"></a>
+msgctxt "pi-tv-bu-vb-ss1:98.1"
+msgid "Dakavaṇṇañca telavaṇṇañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:98.2"
+msgid "dakavaṇṇañca khīravaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:98.3"
+msgid "dakavaṇṇañca dadhivaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:98.4"
+msgid "dakavaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="95"></a><a class="ms-pa" id="ms-pa868"></a>
+msgctxt "pi-tv-bu-vb-ss1:99.1"
+msgid "Dakavaṇṇañca nīlañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:99.2"
+msgid "dakavaṇṇañca pītakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:99.3"
+msgid "dakavaṇṇañca lohitakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:99.4"
+msgid "dakavaṇṇañca odātañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:99.5"
+msgid "dakavaṇṇañca takkavaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="96"></a><a class="ms-pa" id="ms-pa869"></a>
+msgctxt "pi-tv-bu-vb-ss1:100.1"
+msgid "Telavaṇṇañca khīravaṇṇañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:100.2"
+msgid "telavaṇṇañca dadhivaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:100.3"
+msgid "telavaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="97"></a><a class="ms-pa" id="ms-pa870"></a>
+msgctxt "pi-tv-bu-vb-ss1:101.1"
+msgid "Telavaṇṇañca nīlañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:101.2"
+msgid "telavaṇṇañca pītakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:101.3"
+msgid "telavaṇṇañca lohitakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:101.4"
+msgid "telavaṇṇañca odātañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:101.5"
+msgid "telavaṇṇañca takkavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:101.6"
+msgid "telavaṇṇañca dakavaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="98"></a><a class="ms-pa" id="ms-pa871"></a>
+msgctxt "pi-tv-bu-vb-ss1:102.1"
+msgid "Khīravaṇṇañca dadhivaṇṇañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:102.2"
+msgid "khīravaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="99"></a><a class="ms-pa" id="ms-pa872"></a>
+msgctxt "pi-tv-bu-vb-ss1:103.1"
+msgid "Khīravaṇṇañca nīlañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:103.2"
+msgid "khīravaṇṇañca pītakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:103.3"
+msgid "khīravaṇṇañca lohitakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:103.4"
+msgid "khīravaṇṇañca odātañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:103.5"
+msgid "khīravaṇṇañca takkavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:103.6"
+msgid "khīravaṇṇañca dakavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:103.7"
+msgid "khīravaṇṇañca telavaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="100"></a><a class="ms-pa" id="ms-pa873"></a>
+msgctxt "pi-tv-bu-vb-ss1:104.1"
+msgid "Dadhivaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="101"></a><a class="ms-pa" id="ms-pa874"></a>
+msgctxt "pi-tv-bu-vb-ss1:105.1"
+msgid "Dadhivaṇṇañca nīlañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:105.2"
+msgid "dadhivaṇṇañca pītakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:105.3"
+msgid "dadhivaṇṇañca lohitakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:105.4"
+msgid "dadhivaṇṇañca odātañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:105.5"
+msgid "dadhivaṇṇañca takkavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:105.6"
+msgid "dadhivaṇṇañca dakavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:105.7"
+msgid "dadhivaṇṇañca telavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:105.8"
+msgid "dadhivaṇṇañca khīravaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="102"></a><a class="ms-pa" id="ms-pa875"></a>
+msgctxt "pi-tv-bu-vb-ss1:106.1"
+msgid "Sappivaṇṇañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="103"></a><a class="ms-pa" id="ms-pa876"></a>
+msgctxt "pi-tv-bu-vb-ss1:107.1"
+msgid "Sappivaṇṇañca pītakañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:107.2"
+msgid "sappivaṇṇañca lohitakañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:107.3"
+msgid "sappivaṇṇañca odātañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:107.4"
+msgid "sappivaṇṇañca takkavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:107.5"
+msgid "sappivaṇṇañca dakavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:107.6"
+msgid "sappivaṇṇañca telavaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:107.7"
+msgid "sappivaṇṇañca khīravaṇṇañca …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:107.8"
+msgid "sappivaṇṇañca dadhivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="104"></a><a class="ms-pa"
+#. id="ms-pa877"></a>
+msgctxt "pi-tv-bu-vb-ss1:108.1"
+msgid "Ekamūlakassa baddhacakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:109.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="105"></a><a class="ms-pa" id="ms-pa878"></a>
+msgctxt "pi-tv-bu-vb-ss1:109.2"
+msgid "Nīlañca pītakañca lohitakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:109.3"
+msgid "nīlañca pītakañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="106"></a><a class="ms-pa"
+#. id="ms-pa879"></a>
+msgctxt "pi-tv-bu-vb-ss1:110.1"
+msgid "Dumūlakassa khaṇḍacakkaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="107"></a><a class="ms-pa" id="ms-pa880"></a>
+msgctxt "pi-tv-bu-vb-ss1:111.1"
+msgid "Pītakañca lohitakañca odātañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:111.2"
+msgid "pītakañca lohitakañca sappivaṇṇañca … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:111.3"
+msgid "pītakañca lohitakañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="108"></a><a class="ms-pa"
+#. id="ms-pa881"></a>
+msgctxt "pi-tv-bu-vb-ss1:112.1"
+msgid "Dumūlakassa baddhacakkaṃ, saṃkhittaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="109"></a><a class="ms-pa" id="ms-pa882"></a>
+msgctxt "pi-tv-bu-vb-ss1:113.1"
+msgid "Dadhivaṇṇañca sappivaṇṇañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:113.2"
+msgid "dadhivaṇṇañca sappivaṇṇañca khīravaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="110"></a><a class="ms-pa"
+#. id="ms-pa883"></a>
+msgctxt "pi-tv-bu-vb-ss1:114.1"
+msgid "Dumūlakaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:115.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="111"></a><a class="ms-pa" id="ms-pa884"></a>
+msgctxt "pi-tv-bu-vb-ss1:115.2"
+msgid "Timūlakampi catumūlakampi pañcamūlakampi chamūlakampi sattamūlakampi aṭṭhamūlakampi navamūlakampi evameva vitthāretabbaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:116.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="112"></a><a class="ms-pa" id="ms-pa885"></a>
+msgctxt "pi-tv-bu-vb-ss1:116.2"
+msgid "Idaṃ sabbamūlakaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="113"></a><a class="ms-pa" id="ms-pa886"></a>
+msgctxt "pi-tv-bu-vb-ss1:117.1"
+msgid "Nīlañca pītakañca lohitakañca odātañca takkavaṇṇañca dakavaṇṇañca telavaṇṇañca khīravaṇṇañca dadhivaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="114"></a><a class="ms-pa"
+#. id="ms-pa887"></a>
+msgctxt "pi-tv-bu-vb-ss1:118.1"
+msgid "Sabbamūlakaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:119.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="115"></a><a class="pts-cs" id="bu-
+#. ss.1.3.7"></a><a class="ms-pa" id="ms-pa888"></a>
+msgctxt "pi-tv-bu-vb-ss1:119.2"
+msgid "Ārogyatthañca nīlañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="116"></a><a class="ms-pa" id="ms-pa889"></a>
+msgctxt "pi-tv-bu-vb-ss1:120.1"
+msgid "Ārogyatthañca sukhatthañca nīlañca pītakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="117"></a><a class="ms-pa" id="ms-pa890"></a>
+msgctxt "pi-tv-bu-vb-ss1:121.1"
+msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca nīlañca pītakañca lohitakañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="118"></a><a class="ms-pa"
+#. id="ms-pa891"></a>
+msgctxt "pi-tv-bu-vb-ss1:122.1"
+msgid "(Ubhato­vaḍḍha­kaṃ evameva vaḍḍhetabbaṃ.)"
+msgstr ""
+
+#. </p><p><a class="sc" id="119"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.115"></a><a class="ms-pa" id="ms-pa892"></a>
+msgctxt "pi-tv-bu-vb-ss1:123.1"
+msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca dānatthañca puññatthañca yaññatthañca saggatthañca bījatthañca vīmaṃsatthañca davatthañca nīlañca pītakañca lohitakañca odātañca takkavaṇṇañca dakavaṇṇañca telavaṇṇañca khīravaṇṇañca dadhivaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="120"></a><a class="ms-pa"
+#. id="ms-pa893"></a>
+msgctxt "pi-tv-bu-vb-ss1:124.1"
+msgid "Missakacakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss1:125.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="121"></a><a class="pts-cs" id="bu-
+#. ss.1.3.8"></a><a class="ms-pa" id="ms-pa894"></a>
+msgctxt "pi-tv-bu-vb-ss1:125.2"
+msgid "Nīlaṃ mocessāmīti ceteti upakkamati pītakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="122"></a><a class="ms-pa" id="ms-pa895"></a>
+msgctxt "pi-tv-bu-vb-ss1:126.1"
+msgid "Nīlaṃ mocessāmīti ceteti upakkamati lohitakaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:126.2"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:126.3"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:126.4"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:126.5"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:126.6"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:126.7"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:126.8"
+msgid "sappivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="123"></a><a class="ms-pa"
+#. id="ms-pa896"></a>
+msgctxt "pi-tv-bu-vb-ss1:127.1"
+msgid "Khaṇḍacakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="124"></a><a class="ms-pa" id="ms-pa897"></a>
+msgctxt "pi-tv-bu-vb-ss1:128.1"
+msgid "Pītakaṃ mocessāmīti ceteti upakkamati lohitakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="125"></a><a class="ms-pa" id="ms-pa898"></a>
+msgctxt "pi-tv-bu-vb-ss1:129.1"
+msgid "Pītakaṃ mocessāmīti ceteti upakkamati odātaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:129.2"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:129.3"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:129.4"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:129.5"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:129.6"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:129.7"
+msgid "sappivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:129.8"
+msgid "nīlaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="126"></a><a class="ms-pa"
+#. id="ms-pa899"></a>
+msgctxt "pi-tv-bu-vb-ss1:130.1"
+msgid "Baddha­cakka­mūlaṃ saṃkhittaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="127"></a><a class="ms-pa" id="ms-pa900"></a>
+msgctxt "pi-tv-bu-vb-ss1:131.1"
+msgid "() Sappivaṇṇaṃ mocessāmīti ceteti upakkamati nīlaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="128"></a><a class="ms-pa" id="ms-pa901"></a>
+msgctxt "pi-tv-bu-vb-ss1:132.1"
+msgid "Sappivaṇṇaṃ mocessāmīti ceteti upakkamati pītakaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:132.2"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:132.3"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:132.4"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:132.5"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:132.6"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:132.7"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:132.8"
+msgid "dadhivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="129"></a><a class="ms-pa"
+#. id="ms-pa902"></a>
+msgctxt "pi-tv-bu-vb-ss1:133.1"
+msgid "Kucchicakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="130"></a><a class="pts-cs" id="bu-ss.1.3.9"></a><a
+#. class="ms-pa" id="ms-pa903"></a>
+msgctxt "pi-tv-bu-vb-ss1:134.1"
+msgid "Pītakaṃ mocessāmīti ceteti upakkamati nīlaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="131"></a><a class="ms-pa" id="ms-pa904"></a>
+msgctxt "pi-tv-bu-vb-ss1:135.1"
+msgid "Lohitakaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:135.2"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:135.3"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:135.4"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:135.5"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:135.6"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:135.7"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:135.8"
+msgid "sappivaṇṇaṃ mocessāmīti ceteti upakkamati nīlaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="132"></a><a class="ms-pa"
+#. id="ms-pa905"></a>
+msgctxt "pi-tv-bu-vb-ss1:136.1"
+msgid "Piṭṭhicakkassa paṭhamaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="133"></a><a class="ms-pa" id="ms-pa906"></a>
+msgctxt "pi-tv-bu-vb-ss1:137.1"
+msgid "Lohitakaṃ mocessāmīti ceteti upakkamati pītakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="134"></a><a class="ms-pa" id="ms-pa907"></a>
+msgctxt "pi-tv-bu-vb-ss1:138.1"
+msgid "Odātaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:138.2"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:138.3"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:138.4"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:138.5"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:138.6"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:138.7"
+msgid "sappivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:138.8"
+msgid "nīlaṃ mocessāmīti ceteti upakkamati pītakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="135"></a><a class="ms-pa"
+#. id="ms-pa908"></a>
+msgctxt "pi-tv-bu-vb-ss1:139.1"
+msgid "Piṭṭhicakkassa dutiyaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="136"></a><a class="ms-pa" id="ms-pa909"></a>
+msgctxt "pi-tv-bu-vb-ss1:140.1"
+msgid "Odātaṃ mocessāmīti ceteti upakkamati lohitakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="137"></a><a class="ms-pa" id="ms-pa910"></a>
+msgctxt "pi-tv-bu-vb-ss1:141.1"
+msgid "Takkavaṇṇaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:141.2"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:141.3"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:141.4"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:141.5"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:141.6"
+msgid "sappivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:141.7"
+msgid "nīlaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:141.8"
+msgid "pītakaṃ mocessāmīti ceteti upakkamati lohitakaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="138"></a><a class="ms-pa"
+#. id="ms-pa911"></a>
+msgctxt "pi-tv-bu-vb-ss1:142.1"
+msgid "Piṭṭhicakkassa tatiyaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="139"></a><a class="ms-pa" id="ms-pa912"></a>
+msgctxt "pi-tv-bu-vb-ss1:143.1"
+msgid "Takkavaṇṇaṃ mocessāmīti ceteti upakkamati odātaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="140"></a><a class="ms-pa" id="ms-pa913"></a>
+msgctxt "pi-tv-bu-vb-ss1:144.1"
+msgid "Dakavaṇṇaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:144.2"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:144.3"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:144.4"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:144.5"
+msgid "sappivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:144.6"
+msgid "nīlaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:144.7"
+msgid "pītakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:144.8"
+msgid "lohitakaṃ mocessāmīti ceteti upakkamati odātaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="141"></a><a class="ms-pa"
+#. id="ms-pa914"></a>
+msgctxt "pi-tv-bu-vb-ss1:145.1"
+msgid "Piṭṭhicakkassa catutthaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="142"></a><a class="ms-pa" id="ms-pa915"></a>
+msgctxt "pi-tv-bu-vb-ss1:146.1"
+msgid "Dakavaṇṇaṃ mocessāmīti ceteti upakkamati takkavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="143"></a><a class="ms-pa" id="ms-pa916"></a>
+msgctxt "pi-tv-bu-vb-ss1:147.1"
+msgid "Telavaṇṇaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:147.2"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:147.3"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:147.4"
+msgid "sappivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:147.5"
+msgid "nīlaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:147.6"
+msgid "pītakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:147.7"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:147.8"
+msgid "odātaṃ mocessāmīti ceteti upakkamati takkavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="144"></a><a class="ms-pa"
+#. id="ms-pa917"></a>
+msgctxt "pi-tv-bu-vb-ss1:148.1"
+msgid "Piṭṭhicakkassa pañcamaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="145"></a><a class="ms-pa" id="ms-pa918"></a>
+msgctxt "pi-tv-bu-vb-ss1:149.1"
+msgid "Telavaṇṇaṃ mocessāmīti ceteti upakkamati dakavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="146"></a><a class="ms-pa" id="ms-pa919"></a>
+msgctxt "pi-tv-bu-vb-ss1:150.1"
+msgid "Khīravaṇṇaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:150.2"
+msgid "dadhivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:150.3"
+msgid "sappivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:150.4"
+msgid "nīlaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:150.5"
+msgid "pītakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:150.6"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:150.7"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:150.8"
+msgid "takkavaṇṇaṃ mocessāmīti ceteti upakkamati dakavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="147"></a><a class="ms-pa"
+#. id="ms-pa920"></a>
+msgctxt "pi-tv-bu-vb-ss1:151.1"
+msgid "Piṭṭhicakkassa chaṭṭhaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="148"></a><a class="ms-pa" id="ms-pa921"></a>
+msgctxt "pi-tv-bu-vb-ss1:152.1"
+msgid "Khīravaṇṇaṃ mocessāmīti ceteti upakkamati telavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="149"></a><a class="ms-pa" id="ms-pa922"></a>
+msgctxt "pi-tv-bu-vb-ss1:153.1"
+msgid "Dadhivaṇṇaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:153.2"
+msgid "sappivaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:153.3"
+msgid "nīlaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:153.4"
+msgid "pītakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:153.5"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:153.6"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:153.7"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:153.8"
+msgid "dakavaṇṇaṃ mocessāmīti ceteti upakkamati telavaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="150"></a><a class="ms-pa"
+#. id="ms-pa923"></a>
+msgctxt "pi-tv-bu-vb-ss1:154.1"
+msgid "Piṭṭhicakkassa sattamaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="151"></a><a class="ms-pa" id="ms-pa924"></a>
+msgctxt "pi-tv-bu-vb-ss1:155.1"
+msgid "Dadhivaṇṇaṃ mocessāmīti ceteti upakkamati khīravaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="152"></a><a class="ms-pa" id="ms-pa925"></a>
+msgctxt "pi-tv-bu-vb-ss1:156.1"
+msgid "Sappivaṇṇaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:156.2"
+msgid "nīlaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:156.3"
+msgid "pītakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:156.4"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:156.5"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:156.6"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:156.7"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:156.8"
+msgid "telavaṇṇaṃ mocessāmīti ceteti upakkamati khīravaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="153"></a><a class="ms-pa"
+#. id="ms-pa926"></a>
+msgctxt "pi-tv-bu-vb-ss1:157.1"
+msgid "Piṭṭhicakkassa aṭṭhamaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="154"></a><a class="ms-pa" id="ms-pa927"></a>
+msgctxt "pi-tv-bu-vb-ss1:158.1"
+msgid "Sappivaṇṇaṃ mocessāmīti ceteti upakkamati dadhivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="155"></a><a class="ms-pa" id="ms-pa928"></a>
+msgctxt "pi-tv-bu-vb-ss1:159.1"
+msgid "Nīlaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:159.2"
+msgid "pītakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:159.3"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:159.4"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:159.5"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:159.6"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:159.7"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:159.8"
+msgid "khīravaṇṇaṃ mocessāmīti ceteti upakkamati dadhivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="156"></a><a class="ms-pa"
+#. id="ms-pa929"></a>
+msgctxt "pi-tv-bu-vb-ss1:160.1"
+msgid "Piṭṭhicakkassa navamaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="157"></a><a class="ms-pa" id="ms-pa930"></a>
+msgctxt "pi-tv-bu-vb-ss1:161.1"
+msgid "Nīlaṃ mocessāmīti ceteti upakkamati sappivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="158"></a><a class="ms-pa" id="ms-pa931"></a>
+msgctxt "pi-tv-bu-vb-ss1:162.1"
+msgid "Pītakaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:162.2"
+msgid "lohitakaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:162.3"
+msgid "odātaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:162.4"
+msgid "takkavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:162.5"
+msgid "dakavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:162.6"
+msgid "telavaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:162.7"
+msgid "khīravaṇṇaṃ …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:162.8"
+msgid "dadhivaṇṇaṃ mocessāmīti ceteti upakkamati sappivaṇṇaṃ muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="159"></a><a class="ms-pa"
+#. id="ms-pa932"></a>
+msgctxt "pi-tv-bu-vb-ss1:163.1"
+msgid "Piṭṭhicakkassa dasamaṃ gamanaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:163.2"
+msgid "Piṭṭhicakkaṃ niṭṭhitaṃ."
+msgstr ""
+
+#. </p><h3>
+msgctxt "pi-tv-bu-vb-ss1:164.1"
+msgid ""
+msgstr ""
+
+#. </h3><p><a class="sc" id="160"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.116"></a><a class="pts-cs" id="bu-ss.1.4"></a><a class="ms-pa" id="ms-
+#. pa933"></a>
+msgctxt "pi-tv-bu-vb-ss1:164.2"
+msgid "Ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="161"></a><a class="ms-pa" id="ms-pa934"></a>
+msgctxt "pi-tv-bu-vb-ss1:165.1"
+msgid "Ceteti upakkamati na muccati, āpatti thullaccayassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="162"></a><a class="ms-pa" id="ms-pa935"></a>
+msgctxt "pi-tv-bu-vb-ss1:166.1"
+msgid "Ceteti na upakkamati muccati, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="163"></a><a class="ms-pa" id="ms-pa936"></a>
+msgctxt "pi-tv-bu-vb-ss1:167.1"
+msgid "Ceteti na upakkamati na muccati, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="164"></a><a class="ms-pa" id="ms-pa937"></a>
+msgctxt "pi-tv-bu-vb-ss1:168.1"
+msgid "Na ceteti upakkamati muccati, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="165"></a><a class="ms-pa" id="ms-pa938"></a>
+msgctxt "pi-tv-bu-vb-ss1:169.1"
+msgid "Na ceteti upakkamati na muccati, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="166"></a><a class="ms-pa" id="ms-pa939"></a>
+msgctxt "pi-tv-bu-vb-ss1:170.1"
+msgid "Na ceteti na upakkamati muccati, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="167"></a><a class="ms-pa" id="ms-pa940"></a>
+msgctxt "pi-tv-bu-vb-ss1:171.1"
+msgid "Na ceteti na upakkamati na muccati, anāpatti."
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss1:172.1"
+msgid ""
+msgstr ""
+
+#. </h2><p><a class="sc" id="168"></a><a class="ms-pa" id="ms-pa941"></a>
+msgctxt "pi-tv-bu-vb-ss1:172.2"
+msgid "Anāpatti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:172.3"
+msgid "supinantena,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:172.4"
+msgid "namoca­nādhip­pāyassa,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:172.5"
+msgid "ummattakassa,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:172.6"
+msgid "khittacittassa,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:172.7"
+msgid "vedanāṭṭassa,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:172.8"
+msgid "ādi­kammi­kas­sāti."
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss1:173.1"
+msgid "1.1. Vinīta­vatthu­uddāna­gāthā"
+msgstr ""
+
+#. </h2><h5>
+msgctxt "pi-tv-bu-vb-ss1:173.2"
+msgid ""
+msgstr ""
+
+#. </h5><div class="uddana"><p><a class="sc" id="169"></a><a class="ms-pa"
+#. id="ms-pa942"></a>
+msgctxt "pi-tv-bu-vb-ss1:174.1"
+msgid "Supi­noc­cāra­passāvo,"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:174.2"
+msgid "vitak­kuṇho­da­kena ca;"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:174.3"
+msgid "Bhesajjaṃ kaṇḍuvaṃ maggo,"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:174.4"
+msgid "vatthi ­jantā­gharupak­kamo."
+msgstr ""
+
+#. </p><p><a class="sc" id="170"></a><a class="pts-vp-en" id="bd.1.198"></a><a
+#. class="ms-pa" id="ms-pa943"></a>
+msgctxt "pi-tv-bu-vb-ss1:175.1"
+msgid "Sāmaṇero ca sutto ca,"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:175.2"
+msgid "ūru muṭṭhinā pīḷayi;"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:175.3"
+msgid "Ākāse thambhaṃ nijjhāyi,"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:175.4"
+msgid "chiddaṃ kaṭṭhena ghaṭṭayi."
+msgstr ""
+
+#. </p><p><a class="sc" id="171"></a><a class="ms-pa" id="ms-pa944"></a>
+msgctxt "pi-tv-bu-vb-ss1:176.1"
+msgid "Soto udañjalaṃ dhāvaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:176.2"
+msgid "pupphāvaliyaṃ pokkharaṃ;"
+msgstr ""
+
+#. <br>
+#. <span class="note" hidden><i lang="pi">Usseko</i>, which I take to be
+#. related to <i lang="pi">seka</i>, perhaps via the prefix <i
+#. lang="pi">ud</i>.</span>
+msgctxt "pi-tv-bu-vb-ss1:176.3"
+msgid "Vālikā kaddamusseko,"
+msgstr ""
+
+#. <br>
+msgctxt "pi-tv-bu-vb-ss1:176.4"
+msgid "saya­naṅ­guṭṭha­kena cāti."
+msgstr ""
+
+#. </p></div><h3>
+msgctxt "pi-tv-bu-vb-ss1:177.1"
+msgid "1.2. Vinītavatthu"
+msgstr ""
+
+#. </h3><p><a class="sc" id="172"></a><a class="pts-cs-empty" id="bu-
+#. ss.1.5"></a><a class="pts-cs" id="bu-ss.1.5.1"></a><a class="ms-pa" id="ms-
+#. pa945"></a>
+msgctxt "pi-tv-bu-vb-ss1:178.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno supinantena asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:178.2"
+msgid "Tassa kukkuccaṃ ahosi—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:178.3"
+msgid "“bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:178.4"
+msgid "Bhagavato etamatthaṃ ārocesi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:178.5"
+msgid "“Anāpatti, bhikkhu, supinantenā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:178.6"
+msgid "(1)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="173"></a><a class="pts-cs" id="bu-
+#. ss.1.5.2"></a><a class="ms-pa" id="ms-pa946"></a>
+msgctxt "pi-tv-bu-vb-ss1:179.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno uccāraṃ karontassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:179.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:179.3"
+msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:179.4"
+msgid "“Nāhaṃ, bhagavā, mocanādhippāyo”ti."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:179.5"
+msgid "“Anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:179.6"
+msgid "(2)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="174"></a><a class="ms-pa" id="ms-pa947"></a>
+msgctxt "pi-tv-bu-vb-ss1:180.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno passāvaṃ karontassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:180.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:180.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:180.4"
+msgid "(3)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="175"></a><a class="pts-cs" id="bu-
+#. ss.1.5.3"></a><a class="ms-pa" id="ms-pa948"></a>
+msgctxt "pi-tv-bu-vb-ss1:181.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno kāmavitakkaṃ vitakkentassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:181.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:181.3"
+msgid "“anāpatti, bhikkhu, vitakkentassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:181.4"
+msgid "(4)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="176"></a><a class="pts-cs" id="bu-
+#. ss.1.5.4"></a><a class="ms-pa" id="ms-pa949"></a>
+msgctxt "pi-tv-bu-vb-ss1:182.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno uṇhodakena nhāyantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:182.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:182.3"
+msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:182.4"
+msgid "“Nāhaṃ, bhagavā, mocanādhippāyo”ti."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss1:182.5"
+msgid "“Anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:182.6"
+msgid "(5)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="177"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.117"></a><a class="ms-pa" id="ms-pa950"></a>
+msgctxt "pi-tv-bu-vb-ss1:183.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa uṇhodakena nhāyantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:183.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:183.3"
+msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno saṃghādisesan”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:183.4"
+msgid "(6)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="178"></a><a class="ms-pa" id="ms-pa951"></a>
+msgctxt "pi-tv-bu-vb-ss1:184.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa uṇhodakena nhāyantassa asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:184.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:184.3"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:184.4"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:184.5"
+msgid "(7)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="179"></a><a class="pts-cs" id="bu-
+#. ss.1.5.5"></a><a class="ms-pa" id="ms-pa952"></a>
+msgctxt "pi-tv-bu-vb-ss1:185.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:185.2"
+msgid "Bhesajjena ālimpentassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:185.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:185.4"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:185.5"
+msgid "(8)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="180"></a><a class="ms-pa" id="ms-pa953"></a>
+msgctxt "pi-tv-bu-vb-ss1:186.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:186.2"
+msgid "Moca­nādhip­pāyassa bhesajjena ālimpentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:186.3"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:186.4"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:186.5"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:186.6"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:186.7"
+msgid "(9–‍10)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="181"></a><a class="pts-cs" id="bu-
+#. ss.1.5.6"></a><a class="ms-pa" id="ms-pa954"></a>
+msgctxt "pi-tv-bu-vb-ss1:187.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno aṇḍaṃ kaṇḍuvantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:187.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:187.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:187.4"
+msgid "(11)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="182"></a><a class="ms-pa" id="ms-pa955"></a>
+msgctxt "pi-tv-bu-vb-ss1:188.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa aṇḍaṃ kaṇḍuvantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:188.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:188.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:188.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:188.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:188.6"
+msgid "(12–‍13)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="183"></a><a class="pts-cs" id="bu-
+#. ss.1.5.7"></a><a class="ms-pa" id="ms-pa956"></a>
+msgctxt "pi-tv-bu-vb-ss1:189.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno maggaṃ gacchantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:189.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:189.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:189.4"
+msgid "(14)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="184"></a><a class="ms-pa" id="ms-pa957"></a>
+msgctxt "pi-tv-bu-vb-ss1:190.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa maggaṃ gacchantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:190.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:190.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:190.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:190.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:190.6"
+msgid "(15–‍16)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="185"></a><a class="pts-cs" id="bu-
+#. ss.1.5.8"></a><a class="ms-pa" id="ms-pa958"></a>
+msgctxt "pi-tv-bu-vb-ss1:191.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno vatthiṃ gahetvā passāvaṃ karontassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:191.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:191.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:191.4"
+msgid "(17)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="186"></a><a class="ms-pa" id="ms-pa959"></a>
+msgctxt "pi-tv-bu-vb-ss1:192.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa vatthiṃ gahetvā passāvaṃ karontassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:192.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:192.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:192.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:192.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:192.6"
+msgid "(18–‍19)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="187"></a><a class="ms-pa" id="ms-pa960"></a>
+msgctxt "pi-tv-bu-vb-ss1:193.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno jantāghare udaravaṭṭiṃ tāpentassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:193.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:193.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:193.4"
+msgid "(20)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="188"></a><a class="ms-pa" id="ms-pa961"></a>
+msgctxt "pi-tv-bu-vb-ss1:194.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa jantāghare udaravaṭṭiṃ tāpentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:194.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:194.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:194.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:194.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:194.6"
+msgid "(21–‍22)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="189"></a><a class="ms-pa" id="ms-pa962"></a>
+msgctxt "pi-tv-bu-vb-ss1:195.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno jantāghare upajjhāyassa piṭṭhi­pari­kammaṃ karontassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:195.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:195.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:195.4"
+msgid "(23)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="190"></a><a class="ms-pa" id="ms-pa963"></a>
+msgctxt "pi-tv-bu-vb-ss1:196.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa jantāghare upajjhāyassa piṭṭhi­pari­kammaṃ karontassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:196.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:196.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:196.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:196.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:196.6"
+msgid "(24–‍25)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="191"></a><a class="ms-pa" id="ms-pa964"></a>
+msgctxt "pi-tv-bu-vb-ss1:197.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno ūruṃ ghaṭṭāpentassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:197.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:197.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:197.4"
+msgid "(26)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="192"></a><a class="ms-pa" id="ms-pa965"></a>
+msgctxt "pi-tv-bu-vb-ss1:198.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa ūruṃ ghaṭṭāpentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:198.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:198.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:198.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:198.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:198.6"
+msgid "(27–‍28)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="193"></a><a class="pts-cs" id="bu-
+#. ss.1.5.9"></a><a class="ms-pa" id="ms-pa966"></a>
+msgctxt "pi-tv-bu-vb-ss1:199.1"
+msgid "Tena kho pana samayena aññataro bhikkhu mocanādhippāyo aññataraṃ sāmaṇeraṃ etadavoca—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:199.2"
+msgid "“ehi me tvaṃ, āvuso sāmaṇera, aṅgajātaṃ gaṇhāhī”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:199.3"
+msgid "So tassa aṅgajātaṃ aggahesi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:199.4"
+msgid "Tasseva asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:199.5"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:199.6"
+msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno saṃghādisesan”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:199.7"
+msgid "(29)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="194"></a><a class="ms-pa" id="ms-pa967"></a><a
+#. class="pts-vp-pi" id="pts-vp-pi3.118"></a>
+msgctxt "pi-tv-bu-vb-ss1:200.1"
+msgid "Tena kho pana samayena aññataro bhikkhu suttassa sāmaṇerassa aṅgajātaṃ aggahesi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:200.2"
+msgid "Tasseva asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:200.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:200.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:200.5"
+msgid "āpatti dukkaṭassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:200.6"
+msgid "(30)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="195"></a><a class="pts-cs" id="bu-
+#. ss.1.5.10"></a><a class="ms-pa" id="ms-pa968"></a>
+msgctxt "pi-tv-bu-vb-ss1:201.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa ūrūhi aṅgajātaṃ pīḷentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:201.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:201.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:201.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:201.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:201.6"
+msgid "(31–‍32)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="196"></a><a class="ms-pa" id="ms-pa969"></a>
+msgctxt "pi-tv-bu-vb-ss1:202.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa muṭṭhinā aṅgajātaṃ pīḷentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:202.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:202.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:202.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:202.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:202.6"
+msgid "(33–‍34)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="197"></a><a class="ms-pa" id="ms-pa970"></a>
+msgctxt "pi-tv-bu-vb-ss1:203.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa ākāse kaṭiṃ kampentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:203.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:203.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:203.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:203.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:203.6"
+msgid "(35–‍36)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="198"></a><a class="pts-cs" id="bu-
+#. ss.1.5.11"></a><a class="ms-pa" id="ms-pa971"></a>
+msgctxt "pi-tv-bu-vb-ss1:204.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno kāyaṃ thambhentassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:204.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:204.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:204.4"
+msgid "(37)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="199"></a><a class="ms-pa" id="ms-pa972"></a>
+msgctxt "pi-tv-bu-vb-ss1:205.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa kāyaṃ thambhentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:205.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:205.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:205.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:205.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:205.6"
+msgid "(38–‍39)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="200"></a><a class="pts-cs" id="bu-
+#. ss.1.5.12"></a><a class="ms-pa" id="ms-pa973"></a>
+msgctxt "pi-tv-bu-vb-ss1:206.1"
+msgid "Tena kho pana samayena aññataro bhikkhu sāratto mātugāmassa aṅgajātaṃ upanijjhāyi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:206.2"
+msgid "Tassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:206.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:206.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. <span class="subrule">
+msgctxt "pi-tv-bu-vb-ss1:206.5"
+msgid "Na ca, bhikkhave, sārattena mātugāmassa aṅgajātaṃ upanij­jhāyi­tabbaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:206.6"
+msgid "Yo upanijjhāyeyya, āpatti dukkaṭassā”ti."
+msgstr ""
+
+#. </span>
+msgctxt "pi-tv-bu-vb-ss1:206.7"
+msgid "(40)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="201"></a><a class="pts-cs" id="bu-
+#. ss.1.5.13"></a><a class="ms-pa" id="ms-pa974"></a>
+msgctxt "pi-tv-bu-vb-ss1:207.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa tāḷacchiddaṃ aṅgajātaṃ pavesentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:207.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:207.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:207.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:207.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:207.6"
+msgid "(41–‍42)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="202"></a><a class="pts-cs" id="bu-
+#. ss.1.5.14"></a><a class="ms-pa" id="ms-pa975"></a>
+msgctxt "pi-tv-bu-vb-ss1:208.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa kaṭṭhena aṅgajātaṃ ghaṭṭentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:208.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:208.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:208.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:208.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:208.6"
+msgid "(43–‍44)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="203"></a><a class="pts-cs" id="bu-
+#. ss.1.5.15"></a><a class="ms-pa" id="ms-pa976"></a>
+msgctxt "pi-tv-bu-vb-ss1:209.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno paṭisote nhāyantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:209.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:209.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:209.4"
+msgid "(45)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="204"></a><a class="ms-pa" id="ms-pa977"></a>
+msgctxt "pi-tv-bu-vb-ss1:210.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa paṭisote nhāyantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:210.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:210.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:210.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:210.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:210.6"
+msgid "(46–‍47)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="205"></a><a class="pts-cs" id="bu-
+#. ss.1.5.16"></a><a class="ms-pa" id="ms-pa978"></a>
+msgctxt "pi-tv-bu-vb-ss1:211.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno udañjalaṃ kīḷantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:211.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:211.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:211.4"
+msgid "(48)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="206"></a><a class="ms-pa" id="ms-pa979"></a>
+msgctxt "pi-tv-bu-vb-ss1:212.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa udañjalaṃ kīḷantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:212.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:212.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:212.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:212.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:212.6"
+msgid "(49–‍50)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="207"></a><a class="ms-pa" id="ms-pa980"></a>
+msgctxt "pi-tv-bu-vb-ss1:213.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno udake dhāvantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:213.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:213.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:213.4"
+msgid "(51)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="208"></a><a class="ms-pa" id="ms-pa981"></a>
+msgctxt "pi-tv-bu-vb-ss1:214.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa udake dhāvantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:214.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:214.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:214.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:214.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:214.6"
+msgid "(52–‍53)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="209"></a><a class="ms-pa" id="ms-pa982"></a>
+msgctxt "pi-tv-bu-vb-ss1:215.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno pupphāvaliyaṃ kīḷantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:215.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:215.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:215.4"
+msgid "(54)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="210"></a><a class="ms-pa" id="ms-pa983"></a>
+msgctxt "pi-tv-bu-vb-ss1:216.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa pupphāvaliyaṃ kīḷantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:216.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:216.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:216.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:216.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:216.6"
+msgid "(55–‍56)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="211"></a><a class="ms-pa" id="ms-pa984"></a>
+msgctxt "pi-tv-bu-vb-ss1:217.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno pokkharavane dhāvantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:217.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:217.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:217.4"
+msgid "(57)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="212"></a><a class="ms-pa" id="ms-pa985"></a>
+msgctxt "pi-tv-bu-vb-ss1:218.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa pokkharavane dhāvantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:218.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:218.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:218.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:218.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:218.6"
+msgid "(58–‍59)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="213"></a><a class="pts-cs" id="bu-
+#. ss.1.5.17"></a><a class="ms-pa" id="ms-pa986"></a>
+msgctxt "pi-tv-bu-vb-ss1:219.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa vālikaṃ aṅgajātaṃ pavesentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:219.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:219.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:219.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:219.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:219.6"
+msgid "(60–‍61)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="214"></a><a class="ms-pa" id="ms-pa987"></a><a
+#. class="pts-vp-pi" id="pts-vp-pi3.119"></a>
+msgctxt "pi-tv-bu-vb-ss1:220.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa kaddamaṃ aṅgajātaṃ pavesentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:220.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:220.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:220.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:220.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:220.6"
+msgid "(62–‍63)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="215"></a><a class="ms-pa" id="ms-pa988"></a>
+msgctxt "pi-tv-bu-vb-ss1:221.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno udakena aṅgajātaṃ osiñcantassa asuci mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:221.2"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:221.3"
+msgid "“anāpatti, bhikkhu, namoca­nādhip­pāyassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:221.4"
+msgid "(64)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="216"></a><a class="ms-pa" id="ms-pa989"></a>
+msgctxt "pi-tv-bu-vb-ss1:222.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa udakena aṅgajātaṃ osiñcantassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:222.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:222.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:222.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:222.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:222.6"
+msgid "(65–‍66)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="217"></a><a class="ms-pa" id="ms-pa990"></a>
+msgctxt "pi-tv-bu-vb-ss1:223.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa sayane aṅgajātaṃ ghaṭṭentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:223.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:223.3"
+msgid "Tassa kukkuccaṃ ahosi … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:223.4"
+msgid "“anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:223.5"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:223.6"
+msgid "(67–‍68)"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="218"></a><a class="ms-pa" id="ms-pa991"></a>
+msgctxt "pi-tv-bu-vb-ss1:224.1"
+msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa aṅguṭṭhena aṅgajātaṃ ghaṭṭentassa asuci mucci … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.2"
+msgid "asuci na mucci."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.3"
+msgid "Tassa kukkuccaṃ ahosi—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.4"
+msgid "“bhagavatā sikkhāpadaṃ paññattaṃ,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.5"
+msgid "kacci nu kho ahaṃ saṃghādisesaṃ āpattiṃ āpanno”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.6"
+msgid "Bhagavato etamatthaṃ ārocesi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.7"
+msgid "“Anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.8"
+msgid "āpatti thullaccayassā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss1:224.9"
+msgid "(69–‍70)"
+msgstr ""
+
+#. </p><hr><p class="endsutta"><a class="sc" id="219"></a><a class="ms-pa"
+#. id="ms-pa992"></a>
+msgctxt "pi-tv-bu-vb-ss1:225.1"
+msgid "Sukka­vissaṭ­ṭhi­sikkhā­padaṃ niṭṭhitaṃ paṭhamaṃ."
+msgstr ""
+
+#. </p></article><aside id="metaarea"><p>Translated by <span
+#. class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya
+#. Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The
+#. Book of the Discipline</cite>, can be downloaded <a
+#. href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons
+#. Attribution-NonCommercial 3.0 licence (<a
+#. href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC
+#. 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any
+#. medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the
+#. material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the
+#. license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit,
+#. provide a link to the license, and indicate if changes were made. You may
+#. do so in any reasonable manner, but not in any way that suggests the
+#. licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for
+#. commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal
+#. terms or technological measures that legally restrict others from doing
+#. anything the license permits.</li></ul></aside></section>
+#. </div></body></html>
+msgctxt "pi-tv-bu-vb-ss1:225.2"
+msgid ""
+msgstr ""

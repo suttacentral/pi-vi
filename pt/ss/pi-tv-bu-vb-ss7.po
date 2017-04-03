@@ -1,0 +1,1157 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-10-21 10:34-0144\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta
+#. content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="en"><section class="sutta" id="pi-tv-bu-vb-ss7"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-ss7:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p class="division">
+msgctxt "pi-tv-bu-vb-ss7:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:3.1"
+msgid "Saṃ­ghā­di­sesa­kaṇḍa"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-ss7:4.1"
+msgid "Vihāra­kāra­sikkhā­pada"
+msgstr ""
+
+#. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-ss7:5.1"
+msgid ""
+msgstr ""
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.156"></a><a class="pts-vp-en" id="bd.1.266"></a><a class="pts-cs"
+#. id="bu-ss.7.1"></a><a class="ms-pa" id="ms-pa1512"></a>
+msgctxt "pi-tv-bu-vb-ss7:5.2"
+msgid "Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:5.3"
+msgid "Tena kho pana samayena āyasmato channassa upaṭṭhāko gahapati āyasmantaṃ channaṃ etadavoca—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:5.4"
+msgid "“vihāravatthuṃ, bhante, jānāhi ayyassa vihāraṃ kārāpessāmī”ti."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:5.5"
+msgid "Atha kho āyasmā channo vihāravatthuṃ sodhento aññataraṃ cetiyarukkhaṃ chedāpesi gāmapūjitaṃ nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ raṭṭhapūjitaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:5.6"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:5.7"
+msgid "“kathañhi nāma samaṇā sakyaputtiyā cetiyarukkhaṃ chedāpessanti gāmapūjitaṃ nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ raṭṭhapūjitaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:5.8"
+msgid "Ekindriyaṃ samaṇā sakyaputtiyā jīvaṃ viheṭhentī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1513"></a>
+msgctxt "pi-tv-bu-vb-ss7:6.1"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:6.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+#. <a class="pts-vp-en" id="bd.1.267"></a>
+msgctxt "pi-tv-bu-vb-ss7:6.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:6.4"
+msgid "“kathañhi nāma āyasmā channo cetiyarukkhaṃ chedāpessati gāmapūjitaṃ … pe … raṭṭhapūjitan”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms-pa1514"></a>
+msgctxt "pi-tv-bu-vb-ss7:7.1"
+msgid "Atha kho te bhikkhū āyasmantaṃ channaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:7.2"
+msgid "“saccaṃ kira tvaṃ, channa, cetiyarukkhaṃ chedāpesi gāmapūjitaṃ … pe … raṭṭhapūjitan”ti?"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:7.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:7.4"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:7.5"
+msgid "kathañhi nāma tvaṃ, moghapurisa, cetiyarukkhaṃ chedāpessasi gāmapūjitaṃ nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ raṭṭhapūjitaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:7.6"
+msgid "Jīvasaññino hi, moghapurisa, manussā rukkhasmiṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:7.7"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:7.8"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:8.1"
+msgid ""
+msgstr ""
+
+#. </h2><p><a class="sc" id="4"></a><strong class="rule">
+#. <span class="note" hidden>I have rendered <i lang="pi">sassāmikaṃ</i> as
+#. “with a sponsoring owner.” The word <i lang="pi">sāmika</i> generally means
+#. “owner,” and there seems to be no reason why that should not also be the
+#. meaning here. However, although the monk does not own the dwelling, he is
+#. still the builder and the intended user once the building is finished. To
+#. indicate this, I have added the word “sponsoring.”</span>
+msgctxt "pi-tv-bu-vb-ss7:8.2"
+msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ bhikkhū abhinetabbā vatthudesanāya."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:8.3"
+msgid "Tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:8.4"
+msgid "Sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya bhikkhū vā anabhineyya vatthudesanāya, saṃghādiseso”ti."
+msgstr ""
+
+#. </strong>
+msgctxt "pi-tv-bu-vb-ss7:8.5"
+msgid "(<em>7</em>:<strong>11</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:9.1"
+msgid ""
+msgstr ""
+
+#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-ss.7.2"></a><a
+#. class="ms-pa" id="ms-pa1516"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:9.2"
+msgid "Mahallako nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:9.3"
+msgid "vihāro sassāmiko vuccati."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa1517"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:10.1"
+msgid "Vihāro nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:10.2"
+msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="7"></a><a class="pts-vp-en" id="bd.1.268"></a><a
+#. class="ms-pa" id="ms-pa1518"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:11.1"
+msgid "Kārayamānenāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:11.2"
+msgid "karonto vā kārāpento vā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="8"></a><a class="ms-pa" id="ms-pa1519"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:12.1"
+msgid "Sassāmikanti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:12.2"
+msgid "añño koci sāmiko hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1520"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:13.1"
+msgid "Attuddesanti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:13.2"
+msgid "attano atthāya."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1521"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:14.1"
+msgid "Bhikkhū abhinetabbā vatthudesanāyāti"
+msgstr ""
+
+#. </strong>
+#. </p><div class="gloss"><p>
+msgctxt "pi-tv-bu-vb-ss7:14.2"
+msgid "tena vihārakārakena bhikkhunā vihāravatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr ""
+
+#. <span class="kamma">
+msgctxt "pi-tv-bu-vb-ss7:14.3"
+msgid "“ahaṃ, bhante, mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:14.4"
+msgid "Sohaṃ, bhante, saṃghaṃ vihāra­vatthu­o­loka­naṃ yācāmī”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:14.5"
+msgid "Dutiyampi yācitabbā."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:14.6"
+msgid "Tatiyampi yācitabbā."
+msgstr ""
+
+#. </span>
+msgctxt "pi-tv-bu-vb-ss7:14.7"
+msgid "Sace sabbo saṃgho ussahati vihāravatthuṃ oloketuṃ sabbena saṃghena oloketabbaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:14.8"
+msgid "No ce sabbo saṃgho ussahati vihāravatthuṃ oloketuṃ,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:14.9"
+msgid "ye tattha honti bhikkhū byattā paṭibalā sārambhaṃ anārambhaṃ saparikkamanaṃ aparikkamanaṃ jānituṃ te yācitvā sammannitabbā."
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:14.10"
+msgid "“Evañca pana, bhikkhave, sammannitabbā."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:14.11"
+msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr ""
+
+#. </p><div class="kamma"><p><a class="sc" id="11"></a><a class="ms-pa"
+#. id="ms-pa1522"></a>
+msgctxt "pi-tv-bu-vb-ss7:15.1"
+msgid "‘Suṇātu me, bhante, saṃgho."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:15.2"
+msgid "Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:15.3"
+msgid "So saṃghaṃ vihāra­vatthu­o­loka­naṃ yācati."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:15.4"
+msgid "Yadi saṃghassa pattakallaṃ, saṃgho itthannāmañca itthannāmañca bhikkhū sammanneyya itthannāmassa bhikkhuno vihāravatthuṃ oloketuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:15.5"
+msgid "Esā ñatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1523"></a>
+msgctxt "pi-tv-bu-vb-ss7:16.1"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:16.2"
+msgid "Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:16.3"
+msgid "So saṃghaṃ vihāra­vatthu­o­loka­naṃ yācati."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:16.4"
+msgid "Saṃgho itthannāmañca itthannāmañca bhikkhū sammannati itthannāmassa bhikkhuno vihāravatthuṃ oloketuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:16.5"
+msgid "Yassāyasmato khamati itthannāmassa ca itthannāmassa ca bhikkhūnaṃ sammuti itthannāmassa bhikkhuno vihāravatthuṃ oloketuṃ, so tuṇhassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:16.6"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr ""
+
+#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1524"></a>
+msgctxt "pi-tv-bu-vb-ss7:17.1"
+msgid "Sammatā saṃghena itthannāmo ca itthannāmo ca bhikkhū itthannāmassa bhikkhuno vihāravatthuṃ oloketuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:17.2"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:17.3"
+msgid "evametaṃ dhārayāmī’”ti."
+msgstr ""
+
+#. </p></div><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1525"></a>
+msgctxt "pi-tv-bu-vb-ss7:18.1"
+msgid "Tehi sammatehi bhikkhūhi tattha gantvā vihāravatthu oloketabbaṃ;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.2"
+msgid "sārambhaṃ anārambhaṃ saparikkamanaṃ aparikkamanaṃ jānitabbaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.3"
+msgid "Sace sārambhaṃ hoti aparikkamanaṃ,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.4"
+msgid "“māyidha karī”ti vattabbo."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.5"
+msgid "Sace anārambhaṃ hoti saparikkamanaṃ, saṃghassa ārocetabbaṃ—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.6"
+msgid "“anārambhaṃ saparikkamanan”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.7"
+msgid "Tena vihārakārakena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr ""
+
+#. <span class="kamma">
+msgctxt "pi-tv-bu-vb-ss7:18.8"
+msgid "“ahaṃ, bhante, mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.9"
+msgid "Sohaṃ, bhante, saṃghaṃ vihāra­vatthu­desanaṃ yācāmī”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.10"
+msgid "Dutiyampi yācitabbā."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.11"
+msgid "Tatiyampi yācitabbā."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:18.12"
+msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr ""
+
+#. </span>
+#. </p><div class="kamma"><p><a class="sc" id="15"></a><a class="ms-pa"
+#. id="ms-pa1526"></a>
+msgctxt "pi-tv-bu-vb-ss7:19.1"
+msgid "“Suṇātu me, bhante, saṃgho."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:19.2"
+msgid "Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:19.3"
+msgid "So saṃghaṃ vihāra­vatthu­desanaṃ yācati."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:19.4"
+msgid "Yadi saṃghassa pattakallaṃ, saṃgho itthannāmassa bhikkhuno vihāravatthuṃ deseyya."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:19.5"
+msgid "Esā ñatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1527"></a>
+msgctxt "pi-tv-bu-vb-ss7:20.1"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:20.2"
+msgid "Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:20.3"
+msgid "So saṃghaṃ vihāra­vatthu­desanaṃ yācati."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:20.4"
+msgid "Saṃgho itthannāmassa bhikkhuno vihāravatthuṃ deseti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:20.5"
+msgid "Yassāyasmato khamati itthannāmassa bhikkhuno vihāra­vatthussa desanā, so tuṇhassa;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:20.6"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr ""
+
+#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1528"></a>
+msgctxt "pi-tv-bu-vb-ss7:21.1"
+msgid "Desitaṃ saṃghena itthannāmassa bhikkhuno vihāravatthu."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:21.2"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:21.3"
+msgid "evametaṃ dhārayāmī”ti."
+msgstr ""
+
+#. </p></div></div><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-
+#. pa1529"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:22.1"
+msgid "Sārambhaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:22.2"
+msgid "kipillikānaṃ vā āsayo hoti, upacikānaṃ vā āsayo hoti, undūrānaṃ vā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.3"
+msgid "ahīnaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.4"
+msgid "vicchikānaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.5"
+msgid "satapadīnaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.6"
+msgid "hatthīnaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.7"
+msgid "assānaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.8"
+msgid "sīhānaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.9"
+msgid "byagghānaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.10"
+msgid "dīpīnaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.11"
+msgid "acchānaṃ vā …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.12"
+msgid "taracchānaṃ vā āsayo hoti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.13"
+msgid "yesaṃ kesañci tiracchā­na­gatā­naṃ pāṇānaṃ āsayo hoti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.14"
+msgid "pubbaṇ­ṇa­nissitaṃ vā hoti, aparaṇ­ṇa­nissitaṃ vā hoti, abbhā­ghāta­nissitaṃ vā hoti, āghāta­na­nissitaṃ vā hoti, susānanissitaṃ vā hoti, uyyānanissitaṃ vā hoti, rāja­vatthu­nissitaṃ vā hoti, hatthi­sālā­nissitaṃ vā hoti, assasā­lā­nissitaṃ vā hoti, bandha­nā­gāra­nissitaṃ vā hoti, pānāgā­ra­nissitaṃ vā hoti, sūnanissitaṃ vā hoti, racchānissitaṃ vā hoti, cac­cara­nissitaṃ vā hoti, sabhānissitaṃ vā hoti, ­saṃsa­ra­ṇa­nissitaṃ vā hoti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:22.15"
+msgid "Etaṃ sārambhaṃ nāma."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1530"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:23.1"
+msgid "Aparikkamanaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:23.2"
+msgid "na sakkā hoti yathāyuttena sakaṭena anuparigantuṃ, samantā nisseṇiyā anuparigantuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:23.3"
+msgid "Etaṃ aparikkamanaṃ nāma."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1531"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:24.1"
+msgid "Anārambhaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:24.2"
+msgid "na kipillikānaṃ vā āsayo hoti … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:24.3"
+msgid "na ­saṃsa­ra­ṇa­nissitaṃ vā hoti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:24.4"
+msgid "Etaṃ anārambhaṃ nāma."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1532"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:25.1"
+msgid "Saparikkamanaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:25.2"
+msgid "sakkā hoti yathāyuttena sakaṭena anuparigantuṃ, samantā nisseṇiyā anuparigantuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:25.3"
+msgid "Etaṃ saparikkamanaṃ nāma."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1533"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:26.1"
+msgid "Mahallako nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:26.2"
+msgid "vihāro sassāmiko vuccati."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1534"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:27.1"
+msgid "Vihāro nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:27.2"
+msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1535"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:28.1"
+msgid "Kāreyyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:28.2"
+msgid "karoti vā kārāpeti vā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="25"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.157"></a><a class="ms-pa" id="ms-pa1536"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:29.1"
+msgid "Bhikkhū vā anabhineyya vatthudesanāyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:29.2"
+msgid "ñattidutiyena kammena vihāravatthuṃ na desāpetvā karoti vā kārāpeti vā, payoge dukkaṭaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:29.3"
+msgid "Ekaṃ piṇḍaṃ anāgate, āpatti thullaccayassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:29.4"
+msgid "Tasmiṃ piṇḍe āgate, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1537"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:30.1"
+msgid "Saṃghādisesoti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:30.2"
+msgid "… pe … tenapi vuccati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:30.3"
+msgid "“saṃghādiseso”ti."
+msgstr ""
+
+#. </span>
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:31.1"
+msgid ""
+msgstr ""
+
+#. </h2><h3>
+msgctxt "pi-tv-bu-vb-ss7:31.2"
+msgid ""
+msgstr ""
+
+#. </h3><h5>
+msgctxt "pi-tv-bu-vb-ss7:31.3"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="27"></a><a class="pts-cs-empty" id="bu-
+#. ss.7.3"></a><a class="pts-cs" id="bu-ss.7.3.1"></a><a class="ms-pa" id="ms-
+#. pa1538"></a>
+msgctxt "pi-tv-bu-vb-ss7:31.4"
+msgid "Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dvinnaṃ dukkaṭānaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:31.5"
+msgid "Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ sārambhaṃ saparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:31.6"
+msgid "Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ anārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:31.7"
+msgid "Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ anārambhaṃ saparikkamanaṃ, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1539"></a>
+msgctxt "pi-tv-bu-vb-ss7:32.1"
+msgid "Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti dvinnaṃ dukkaṭānaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:32.2"
+msgid "Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ sārambhaṃ saparikkamanaṃ, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:32.3"
+msgid "Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ anārambhaṃ aparikkamanaṃ, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:32.4"
+msgid "Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:33.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="29"></a><a class="pts-vp-en" id="bd.1.269"></a><a
+#. class="pts-cs" id="bu-ss.7.3.2"></a><a class="ms-pa" id="ms-pa1540"></a>
+msgctxt "pi-tv-bu-vb-ss7:33.2"
+msgid "Bhikkhu samādisati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:33.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:33.4"
+msgid "Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:33.5"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:33.6"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:33.7"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1541"></a>
+msgctxt "pi-tv-bu-vb-ss7:34.1"
+msgid "Bhikkhu samādisati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:34.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:34.3"
+msgid "Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:34.4"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:34.5"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:34.6"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:35.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="31"></a><a class="pts-cs" id="bu-ss.7.3.3"></a><a
+#. class="ms-pa" id="ms-pa1542"></a>
+msgctxt "pi-tv-bu-vb-ss7:35.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:35.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:35.4"
+msgid "Na ca samādisati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:35.5"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:35.6"
+msgid "Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:35.7"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:35.8"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:35.9"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms-pa1543"></a>
+msgctxt "pi-tv-bu-vb-ss7:36.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:36.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:36.3"
+msgid "Na ca samādisati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:36.4"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:36.5"
+msgid "Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:36.6"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:36.7"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:36.8"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:37.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="33"></a><a class="pts-cs" id="bu-ss.7.3.4"></a><a
+#. class="ms-pa" id="ms-pa1544"></a>
+msgctxt "pi-tv-bu-vb-ss7:37.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.4"
+msgid "Samādisati ca—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.5"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.6"
+msgid "Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.7"
+msgid "So suṇāti—“vihāro kira me kayirati adesi­ta­vatthuko sārambho aparikkamano”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.8"
+msgid "Tena bhikkhunā sāmaṃ vā gantabbaṃ dūto vā pāhetabbo—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.9"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.10"
+msgid "“desitavatthuko ca hotu anārambho cā”ti … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.11"
+msgid "“desitavatthuko ca hotu saparikkamano cā”ti … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.12"
+msgid "“desitavatthuko hotū”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:37.13"
+msgid "No ce sāmaṃ vā gaccheyya dūtaṃ vā pahiṇeyya, āpatti dukkaṭassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms-pa1545"></a>
+msgctxt "pi-tv-bu-vb-ss7:38.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.3"
+msgid "Samādisati ca—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.4"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.5"
+msgid "Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.6"
+msgid "So suṇāti—“vihāro kira me kayirati desitavatthuko sārambho aparikkamano”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.7"
+msgid "Tena bhikkhunā sāmaṃ vā gantabbaṃ dūto vā pāhetabbo—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.8"
+msgid "“anārambho ca hotu saparikkamano cā”ti … pe …"
+msgstr ""
+
+#. <span class="note" hidden>The last two sets of ellipses points are not
+#. found in MS. I have added them for clarification.</span>
+msgctxt "pi-tv-bu-vb-ss7:38.9"
+msgid "“anārambho hotū”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.10"
+msgid "“Saparikkamano hotū”ti,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:38.11"
+msgid "anāpatti."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:39.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="35"></a><a class="pts-cs" id="bu-ss.7.3.5"></a><a
+#. class="ms-pa" id="ms-pa1546"></a>
+msgctxt "pi-tv-bu-vb-ss7:39.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:39.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:39.4"
+msgid "Samādisati ca—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:39.5"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:39.6"
+msgid "Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti kārukānaṃ tiṇṇaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:39.7"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti kārukānaṃ dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:39.8"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti kārukānaṃ dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:39.9"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti kārukānaṃ dukkaṭassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa1547"></a>
+msgctxt "pi-tv-bu-vb-ss7:40.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:40.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:40.3"
+msgid "Samādisati ca—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:40.4"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:40.5"
+msgid "Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti kārukānaṃ dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:40.6"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti kārukānaṃ dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:40.7"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti kārukānaṃ dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:40.8"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:41.1"
+msgid ""
+msgstr ""
+
+#. </h5><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-ss.7.3.6"></a><a
+#. class="ms-pa" id="ms-pa1548"></a>
+msgctxt "pi-tv-bu-vb-ss7:41.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:41.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+#. <a class="pts-vp-en" id="bd.1.270"></a>
+msgctxt "pi-tv-bu-vb-ss7:41.4"
+msgid "Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:41.5"
+msgid "So ce vippakate āgacchati, tena bhikkhunā so vihāro aññassa vā dātabbo bhinditvā vā puna kātabbo."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:41.6"
+msgid "No ce aññassa vā dadeyya bhinditvā vā puna kāreyya, āpatti saṃghādisesena dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:41.7"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:41.8"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:41.9"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms-pa1549"></a>
+msgctxt "pi-tv-bu-vb-ss7:42.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:42.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:42.3"
+msgid "Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:42.4"
+msgid "So ce vippakate āgacchati, tena bhikkhunā so vihāro aññassa vā dātabbo bhinditvā vā puna kātabbo."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:42.5"
+msgid "No ce aññassa vā dadeyya bhinditvā vā puna kāreyya, āpatti dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:42.6"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:42.7"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:42.8"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+
+#. </p><h3>
+msgctxt "pi-tv-bu-vb-ss7:43.1"
+msgid ""
+msgstr ""
+
+#. </h3><p><a class="sc" id="39"></a><a class="pts-cs" id="bu-ss.7.3.7"></a><a
+#. class="ms-pa" id="ms-pa1550"></a>
+msgctxt "pi-tv-bu-vb-ss7:43.2"
+msgid "Attanā vippakataṃ attanā pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1551"></a>
+msgctxt "pi-tv-bu-vb-ss7:44.1"
+msgid "Attanā vippakataṃ parehi pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="41"></a><a class="ms-pa" id="ms-pa1552"></a>
+msgctxt "pi-tv-bu-vb-ss7:45.1"
+msgid "Parehi vippakataṃ attanā pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="42"></a><a class="ms-pa" id="ms-pa1553"></a>
+msgctxt "pi-tv-bu-vb-ss7:46.1"
+msgid "Parehi vippakataṃ parehi pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:47.1"
+msgid ""
+msgstr ""
+
+#. </h2><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa1554"></a>
+msgctxt "pi-tv-bu-vb-ss7:47.2"
+msgid "Anāpatti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:47.3"
+msgid "leṇe guhāya tiṇakuṭikāya"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:47.4"
+msgid "aññassatthāya vāsāgāraṃ ṭhapetvā"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:47.5"
+msgid "sabbattha."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:47.6"
+msgid "Anāpatti ummattakassa,"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-ss7:47.7"
+msgid "ādi­kammi­kas­sāti."
+msgstr ""
+
+#. </p><hr><p class="endsutta"><a class="sc" id="44"></a><a class="ms-pa"
+#. id="ms-pa1555"></a>
+msgctxt "pi-tv-bu-vb-ss7:48.1"
+msgid "Vihāra­kāra­sikkhā­padaṃ niṭṭhitaṃ sattamaṃ."
+msgstr ""
+
+#. </p></article><aside id="metaarea"><p>Translated by <span
+#. class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya
+#. Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The
+#. Book of the Discipline</cite>, can be downloaded <a
+#. href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons
+#. Attribution-NonCommercial 3.0 licence (<a
+#. href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC
+#. 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any
+#. medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the
+#. material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the
+#. license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit,
+#. provide a link to the license, and indicate if changes were made. You may
+#. do so in any reasonable manner, but not in any way that suggests the
+#. licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for
+#. commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal
+#. terms or technological measures that legally restrict others from doing
+#. anything the license permits.</li></ul></aside></section>
+#. </div></body></html>
+msgctxt "pi-tv-bu-vb-ss7:48.2"
+msgid ""
+msgstr ""
