@@ -192,7 +192,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np30:9.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -202,7 +202,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np30:9.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np30:9.6"
@@ -218,7 +218,7 @@ msgstr "He knows:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>The meaning of the last of these three ways of knowing, <i lang="pi">so vā āroceti</i>, is not clear. CPD suggests: “<i lang="pi">sa (sā) āroceti</i> (?). Perhaps this last form is conformable to sa. [Sanskrit] <i lang="pi">ārocayate</i> med. caus. [middle voice causative] in the meaning: he or she makes inquiries (of others).” However, this does not fit with the parallel usage at Confession 29 <span class="ref">MS.2.638</span> where the text says that she informs (<i lang="pi">sā vā āroceti</i>) him, presumably referring to the nun informing the monk. In this case <i lang="pi">āroceti</i> cannot refer to the monk making inquiries. The commentaries are silent, and I therefore assume that a straight-forward meaning is the most likely one. I would suggest, then, that it simply refers to the donor informing the monk directly.</span> 
 msgctxt "pi-tv-bu-vb-np30:10.2"
-msgctxt "sāmaṃ vā jānāti aññe vā tassa ārocenti so vā āroceti."
+msgid "sāmaṃ vā jānāti aññe vā tassa ārocenti so vā āroceti."
 msgstr "he knows by himself or others have informed him or the donor has informed him."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-pi" id="pts-vp-pi3.266"></a><a class="wt-pa" id="2426"></a>
@@ -229,7 +229,7 @@ msgstr "For the Order:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np30:11.2"
-msgctxt "saṃghassa dinnaṃ hoti pariccattaṃ."
+msgid "saṃghassa dinnaṃ hoti pariccattaṃ."
 msgstr "given to the Order, given up to the Order."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2427"></a>
@@ -240,7 +240,7 @@ msgstr "Something:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np30:12.2"
-msgctxt "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā."
+msgid "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā."
 msgstr "robes, almsfood, dwellings, and medicines;"
 
 msgctxt "pi-tv-bu-vb-np30:12.3"
@@ -255,7 +255,7 @@ msgstr "Intended:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np30:13.2"
-msgctxt "dassāma karissāmāti vācā bhinnā hoti."
+msgid "dassāma karissāmāti vācā bhinnā hoti."
 msgstr "they have said, “We will give/we will prepare.”"
 
 #. </span></p><hr><p><a class="sc" id="9"></a><a class="wt-pa" id="2429"></a> 

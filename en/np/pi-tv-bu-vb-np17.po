@@ -167,7 +167,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np17:10.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -177,7 +177,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np17:10.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np17:10.6"
@@ -192,7 +192,7 @@ msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np17:11.2"
-msgctxt "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2195"></a>
@@ -203,7 +203,7 @@ msgstr "A nun:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np17:12.2"
-msgctxt "ubhatosaṃghe upasampannā."
+msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both Orders."
 
 #. </span></p><hr><p><a class="sc" id="8"></a><a class="pts-vp-pi" id="pts-vp-pi3.236"></a><a class="wt-pa" id="2196"></a> 

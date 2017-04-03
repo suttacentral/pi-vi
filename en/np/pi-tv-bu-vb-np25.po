@@ -193,7 +193,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np25:9.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -203,7 +203,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np25:9.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np25:9.6"
@@ -218,7 +218,7 @@ msgstr "To a monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np25:10.2"
-msgctxt "aññassa bhikkhussa."
+msgid "aññassa bhikkhussa."
 msgstr "to another monk."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2341"></a>
@@ -229,7 +229,7 @@ msgstr "Himself:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np25:11.2"
-msgctxt "sayaṃ datvā."
+msgid "sayaṃ datvā."
 msgstr "he himself has given it."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2342"></a>
@@ -242,7 +242,7 @@ msgstr "A robe(-cloth):"
 #. <span class="note" hidden>The six are linen, cotton, silk, wool, jute, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
 #. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pi">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh. 94.4</span> and BMC I, pp. 565-566.</span> 
 msgctxt "pi-tv-bu-vb-np25:12.2"
-msgctxt "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
+msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robes(-cloth), but not smaller than what can be transferred."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2343"></a>
@@ -253,7 +253,7 @@ msgstr "Angry and displeased:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np25:13.2"
-msgctxt "anabhiraddho āhatacitto khilajāto."
+msgid "anabhiraddho āhatacitto khilajāto."
 msgstr "discontent, having hatred, hostile."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2344"></a>
@@ -264,7 +264,7 @@ msgstr "Takes […] back:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np25:14.2"
-msgctxt "sayaṃ acchindati, nissaggiyaṃ pācittiyaṃ."
+msgid "sayaṃ acchindati, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he takes it back himself, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2345"></a>
@@ -275,7 +275,7 @@ msgstr "Gets […] taken back:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np25:15.2"
-msgctxt "aññaṃ āṇāpeti, āpatti dukkaṭassa."
+msgid "aññaṃ āṇāpeti, āpatti dukkaṭassa."
 msgstr "if he asks another, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np25:15.3"

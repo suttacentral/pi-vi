@@ -235,7 +235,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np18:11.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -245,7 +245,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np18:11.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np18:11.6"
@@ -260,7 +260,7 @@ msgstr "Gold:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np18:12.2"
-msgctxt "satthuvaṇṇo vuccati."
+msgid "satthuvaṇṇo vuccati."
 msgstr "the color of the Teacher is what is meant."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2210"></a>
@@ -271,7 +271,7 @@ msgstr "Silver:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np18:13.2"
-msgctxt "kahāpaṇo lohamāsako dārumāsako jatumāsako ye vohāraṃ gacchanti."
+msgid "kahāpaṇo lohamāsako dārumāsako jatumāsako ye vohāraṃ gacchanti."
 msgstr "a <i lang=\"pi\">kahāpaṇa</i> coin, a copper <i lang=\"pi\">māsaka</i> coin, a wooden <i lang=\"pi\">māsaka</i> coin, a resin <i lang=\"pi\">māsaka</i> coin; whatever is used in commerce."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="pts-vp-en" id="bd.2.103"></a><a class="wt-pa" id="2211"></a>
@@ -282,7 +282,7 @@ msgstr "Takes:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np18:14.2"
-msgctxt "sayaṃ gaṇhāti nissaggiyaṃ pācittiyaṃ."
+msgid "sayaṃ gaṇhāti nissaggiyaṃ pācittiyaṃ."
 msgstr "if he takes it himself, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2212"></a>
@@ -293,7 +293,7 @@ msgstr "Gets someone else to take:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np18:15.2"
-msgctxt "aññaṃ gāhāpeti nissaggiyaṃ pācittiyaṃ."
+msgid "aññaṃ gāhāpeti nissaggiyaṃ pācittiyaṃ."
 msgstr "if he gets another to take it, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2213"></a>
@@ -304,7 +304,7 @@ msgstr "Consents to […] being deposited for him:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np18:16.2"
-msgctxt "idaṃ ayyassa hotūti upanikkhittaṃ sādiyati, nissaggiyaṃ hoti."
+msgid "idaṃ ayyassa hotūti upanikkhittaṃ sādiyati, nissaggiyaṃ hoti."
 msgstr "if someone says, “Let this be for you,” and he consents to it being deposited for him, it becomes subject to relinquishment."
 
 #. </span></p><hr><p>

@@ -530,12 +530,12 @@ msgid "Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhes
 msgstr "The tonics allowable for sick monks:"
 
 msgctxt "pi-tv-bu-vb-np23:14.3"
-msgctxt "sappi nāma"
+msgid "sappi nāma"
 msgstr "Ghee:"
 
 #. </strong><a class="pts-vp-en" id="bd.2.132"></a><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np23:14.4"
-msgctxt "gosappi vā ajikāsappi vā mahiṃsasappi vā yesaṃ maṃsaṃ kappati tesaṃ sappi."
+msgid "gosappi vā ajikāsappi vā mahiṃsasappi vā yesaṃ maṃsaṃ kappati tesaṃ sappi."
 msgstr "ghee from cows, ghee from goats, ghee from buffaloes, or ghee from whatever animal whose meat is allowable."
 
 #. </span><strong class="term"> 
@@ -545,7 +545,7 @@ msgstr "Butter:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np23:14.6"
-msgctxt "tesaṃyeva navanītaṃ."
+msgid "tesaṃyeva navanītaṃ."
 msgstr "butter from the same animals."
 
 #. </span><strong class="term"> 
@@ -555,7 +555,7 @@ msgstr "Oil:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np23:14.8"
-msgctxt "tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ."
+msgid "tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ."
 msgstr "sesame oil, mustard seed oil, honey tree oil, castor oil, oil from tallow."
 
 #. </span><strong class="term"> 
@@ -565,7 +565,7 @@ msgstr "Honey:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np23:14.10"
-msgctxt "makkhikāmadhu."
+msgid "makkhikāmadhu."
 msgstr "honey from bees."
 
 #. </span><strong class="term"> 
@@ -575,7 +575,7 @@ msgstr "Sugar:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np23:14.12"
-msgctxt "ucchumhā nibbattaṃ."
+msgid "ucchumhā nibbattaṃ."
 msgstr "from sugar cane."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2316"></a>
@@ -586,7 +586,7 @@ msgstr "After being received […] should be used from storage for at most seven
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np23:15.2"
-msgctxt "sattāhaparamatā paribhuñjitabbāni."
+msgid "sattāhaparamatā paribhuñjitabbāni."
 msgstr "they are to be used for seven days at the maximum."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2317"></a>
@@ -597,7 +597,7 @@ msgstr "If one uses them beyond that, one commits an offense entailing relinquis
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np23:16.2"
-msgctxt "aṭṭhame aruṇuggamane nissaggiyaṃ hoti."
+msgid "aṭṭhame aruṇuggamane nissaggiyaṃ hoti."
 msgstr "it becomes subject to relinquishment at dawn on the eighth day."
 
 #. </span></p><hr><p>

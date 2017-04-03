@@ -139,7 +139,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np12:10.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever … "
 
 #. </span><strong class="term"> 
@@ -149,7 +149,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np12:10.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np12:10.6"
@@ -164,7 +164,7 @@ msgstr "Black:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np12:11.2"
-msgctxt "dve kāḷakāni—"
+msgid "dve kāḷakāni—"
 msgstr "there are two kinds of black:"
 
 msgctxt "pi-tv-bu-vb-np12:11.3"
@@ -179,7 +179,7 @@ msgstr "A blanket:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np12:12.2"
-msgctxt "santharitvā kataṃ hoti avāyimaṃ."
+msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-pi" id="pts-vp-pi3.226"></a><a class="wt-pa" id="2116"></a>
@@ -190,7 +190,7 @@ msgstr "Gets made:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np12:13.2"
-msgctxt "karoti vā kārāpeti vā, payoge dukkaṭaṃ."
+msgid "karoti vā kārāpeti vā, payoge dukkaṭaṃ."
 msgstr "in the act of making the blanket, or getting it made, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np12:13.3"

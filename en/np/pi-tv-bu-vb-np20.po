@@ -251,7 +251,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np20:11.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -261,7 +261,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np20:11.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np20:11.6"
@@ -276,7 +276,7 @@ msgstr "Various ways:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np20:12.2"
-msgctxt "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā, antamaso cuṇṇapiṇḍopi dantakaṭṭhampi dasikasuttampi."
+msgid "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā, antamaso cuṇṇapiṇḍopi dantakaṭṭhampi dasikasuttampi."
 msgstr "robes, almsfood, dwellings, or medicines; even bath powder, a toothbrush, or a piece of thread."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-pi" id="pts-vp-pi3.242"></a><a class="wt-pa" id="2245"></a>
@@ -287,7 +287,7 @@ msgstr "Barters:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np20:13.2"
-msgctxt "iminā imaṃ dehi, iminā imaṃ āhara, iminā imaṃ parivattehi, iminā imaṃ cetāpehīti."
+msgid "iminā imaṃ dehi, iminā imaṃ āhara, iminā imaṃ parivattehi, iminā imaṃ cetāpehīti."
 msgstr "if he misbehaves, saying, “Give that for this/bring that for this/purchase that with this/exchange that for this,”"
 
 msgctxt "pi-tv-bu-vb-np20:13.3"

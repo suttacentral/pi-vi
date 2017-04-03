@@ -448,7 +448,7 @@ msgstr "Sitting(-mat):"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np15:14.3"
-msgctxt "sadasaṃ vuccati."
+msgid "sadasaṃ vuccati."
 msgstr "one with a border is what is meant."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-en" id="bd.2.88"></a><a class="wt-pa" id="2167"></a>
@@ -459,7 +459,7 @@ msgstr "A blanket:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np15:15.2"
-msgctxt "santharitvā kataṃ hoti avāyimaṃ."
+msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2168"></a>
@@ -470,7 +470,7 @@ msgstr "Getting made:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np15:16.2"
-msgctxt "karonto vā kārāpento vā."
+msgid "karonto vā kārāpento vā."
 msgstr "making or getting made."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2169"></a>
@@ -481,7 +481,7 @@ msgstr "An old blanket:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np15:17.2"
-msgctxt "sakiṃ nivatthampi sakiṃ pārutampi."
+msgid "sakiṃ nivatthampi sakiṃ pārutampi."
 msgstr "even worn once."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2170"></a>
@@ -492,7 +492,7 @@ msgstr "He must incorporate a 25 centimeter piece from the border […] in order
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np15:18.2"
-msgctxt "thirabhāvāya vaṭṭaṃ vā caturassaṃ vā chinditvā ekadese vā santharitabbaṃ vijaṭetvā vā santharitabbaṃ."
+msgid "thirabhāvāya vaṭṭaṃ vā caturassaṃ vā chinditvā ekadese vā santharitabbaṃ vijaṭetvā vā santharitabbaṃ."
 msgstr "to make it strong, he cuts out a circle or a four-sided piece, and he then incorporates it in one place or he spreads it out after pulling it apart."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2171"></a>
@@ -503,11 +503,11 @@ msgstr "Without using a 25 centimeter piece from the border of an old blanket:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np15:19.2"
-msgctxt "anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ navaṃ nisīdanasanthataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ,"
+msgid "anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ navaṃ nisīdanasanthataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ,"
 msgstr "in the act of making a new sitting-blanket, or having one made, without incorporating a 25 centimeter piece from the border of an old blanket, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np15:19.3"
-msgctxt "paṭilābhena nissaggiyaṃ hoti."
+msgid "paṭilābhena nissaggiyaṃ hoti."
 msgstr "When he gets the sitting-blanket, it becomes subject to relinquishment."
 
 #. </span></p><hr><p>

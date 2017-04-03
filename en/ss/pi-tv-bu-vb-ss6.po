@@ -292,7 +292,7 @@ msgstr "‘Sir, give me the jewel;"
 
 msgctxt "pi-tv-bu-vb-ss6:10.5"
 msgid "maṇinā me attho’ti."
-msgstr "msgstr "I want the jewel.’"
+msgstr "I want the jewel.’"
 
 msgctxt "pi-tv-bu-vb-ss6:10.6"
 msgid "Atha kho, bhikkhave, maṇikaṇṭho nāgarājā—"

@@ -241,7 +241,7 @@ msgstr "For ten days at the most:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np21:13.3"
-msgctxt "dasāhaparamatā dhāretabbo."
+msgid "dasāhaparamatā dhāretabbo."
 msgstr "it should be kept for ten days at a maximum."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2260"></a>
@@ -252,7 +252,7 @@ msgstr "An extra bowl:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np21:14.2"
-msgctxt "anadhiṭṭhito avikappito."
+msgid "anadhiṭṭhito avikappito."
 msgstr "a bowl that is not determined, nor transferred."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-en" id="bd.2.115"></a><a class="wt-pa" id="2261-2262"></a>
@@ -263,11 +263,11 @@ msgstr "A bowl:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np21:15.2"
-msgctxt "dve pattā"
+msgid "dve pattā"
 msgstr "there are two kinds of bowl:"
 
 msgctxt "pi-tv-bu-vb-np21:15.3"
-msgctxt "ayopatto mattikāpattoti."
+msgid "ayopatto mattikāpattoti."
 msgstr "the iron bowl and the clay bowl."
 
 #. </span></p><p><a class="sc" id="11"></a><span class="gloss"> 
@@ -290,7 +290,7 @@ msgstr "The large bowl:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np21:16.5"
-msgctxt "aḍḍhāḷhakodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
+msgid "aḍḍhāḷhakodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
 msgstr "it takes half an <i lang=\"pi\">āḷhaka</i> measure of rice, a fourth part of non-staple food, and suitable curry."
 
 #. </span><strong class="term"> 
@@ -300,7 +300,7 @@ msgstr "The medium bowl:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np21:16.7"
-msgctxt "nāḷikodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
+msgid "nāḷikodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
 msgstr "it takes a <i lang=\"pi\">nāḷika</i> measure of rice, a fourth part of non-staple food, and suitable curry."
 
 #. </span><strong class="term"> 
@@ -310,7 +310,7 @@ msgstr "The small bowl:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np21:16.9"
-msgctxt "patthodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
+msgid "patthodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
 msgstr "it takes a <i lang=\"pi\">pattha</i> measure of rice, a fourth part of non-staple food, and suitable curry."
 
 msgctxt "pi-tv-bu-vb-np21:16.10"
@@ -326,7 +326,7 @@ msgstr "If he keeps it beyond that […] entailing relinquishment:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>According to the commentary this means the tenth dawn after one received the bowl, see <span class="ref">Sp.3.639.27</span></span> 
 msgctxt "pi-tv-bu-vb-np21:17.2"
-msgctxt "ekādase aruṇuggamane nissaggiyo hoti."
+msgid "ekādase aruṇuggamane nissaggiyo hoti."
 msgstr "it becomes subject to relinquishment at dawn on the eleventh day."
 
 #. </span></p><hr><p>

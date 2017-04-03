@@ -371,7 +371,7 @@ msgstr "New:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:18.3"
-msgctxt "karaṇaṃ upādāya vuccati."
+msgid "karaṇaṃ upādāya vuccati."
 msgstr "newly made is what is meant."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2148"></a>
@@ -382,7 +382,7 @@ msgstr "A blanket:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:19.2"
-msgctxt "santharitvā kataṃ hoti avāyimaṃ."
+msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2149"></a>
@@ -393,7 +393,7 @@ msgstr "Gets made:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:20.2"
-msgctxt "karitvā vā kārāpetvā vā."
+msgid "karitvā vā kārāpetvā vā."
 msgstr "makes or gets made."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2150"></a>
@@ -404,7 +404,7 @@ msgstr "He should keep it for six years:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:21.2"
-msgctxt "chabbassaparamatā dhāretabbaṃ."
+msgid "chabbassaparamatā dhāretabbaṃ."
 msgstr "he should keep it for a minimum of six years."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2151"></a>
@@ -415,7 +415,7 @@ msgstr "In less than six years:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:22.2"
-msgctxt "ūnakachabbassāni."
+msgid "ūnakachabbassāni."
 msgstr "fewer than six years."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="2152"></a>
@@ -426,7 +426,7 @@ msgstr "That blanket has been given away:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:23.2"
-msgctxt "aññesaṃ datvā."
+msgid "aññesaṃ datvā."
 msgstr "it has been given to others."
 
 #. </span></p><p><a class="sc" id="19"></a><a class="wt-pa" id="2153"></a>
@@ -437,7 +437,7 @@ msgstr "Not:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:24.2"
-msgctxt "na kassaci datvā."
+msgid "na kassaci datvā."
 msgstr "it has not been given to anyone."
 
 #. </span></p><p><a class="sc" id="20"></a><a class="wt-pa" id="2154"></a>
@@ -448,7 +448,7 @@ msgstr "except if the monks have agreed:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np14:25.2"
-msgctxt "ṭhapetvā bhikkhusammutiṃ aññaṃ navaṃ santhataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ."
+msgid "ṭhapetvā bhikkhusammutiṃ aññaṃ navaṃ santhataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ."
 msgstr "in the act of making another new blanket, or getting one made, unless he has the permission of the monks, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np14:25.3"

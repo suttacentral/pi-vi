@@ -215,7 +215,7 @@ msgstr "That monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:11.3"
-msgctxt "acchinnacīvarakaṃ bhikkhuṃ."
+msgid "acchinnacīvarakaṃ bhikkhuṃ."
 msgstr "the monk whose robes have been stolen."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2004"></a>
@@ -226,7 +226,7 @@ msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:12.2"
-msgctxt "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2005"></a>
@@ -237,7 +237,7 @@ msgstr "A male householder:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:13.2"
-msgctxt "yo koci agāraṃ ajjhāvasati."
+msgid "yo koci agāraṃ ajjhāvasati."
 msgstr "any man who lives in a house."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2006"></a>
@@ -248,7 +248,7 @@ msgstr "A female householder:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:14.2"
-msgctxt "yā kāci agāraṃ ajjhāvasati."
+msgid "yā kāci agāraṃ ajjhāvasati."
 msgstr "any woman who lives in a house."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2007"></a>
@@ -259,7 +259,7 @@ msgstr "Many robes:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:15.2"
-msgctxt "bahukehi cīvarehi."
+msgid "bahukehi cīvarehi."
 msgstr "a number of robes."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2008"></a>
@@ -270,7 +270,7 @@ msgstr "Invites […] to take:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:16.2"
-msgctxt "yāvatakaṃ icchasi tāvatakaṃ gaṇhāhīti."
+msgid "yāvatakaṃ icchasi tāvatakaṃ gaṇhāhīti."
 msgstr "saying, “Take as many as you like.”"
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2009"></a>
@@ -281,15 +281,15 @@ msgstr "He should accept at most one lower robe and one upper robe:"
 
 #. </strong><a class="pts-vp-en" id="bd.2.52"></a><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:17.2"
-msgctxt "sace tīṇi naṭṭhāni honti dve sāditabbāni,"
+msgid "sace tīṇi naṭṭhāni honti dve sāditabbāni,"
 msgstr "if three robes are destroyed, he should accept two;"
 
 msgctxt "pi-tv-bu-vb-np7:17.3"
-msgctxt "dve naṭṭhāni ekaṃ sāditabbaṃ,"
+msgid "dve naṭṭhāni ekaṃ sāditabbaṃ,"
 msgstr "if two robes are destroyed, he should accept one;"
 
 msgctxt "pi-tv-bu-vb-np7:17.4"
-msgctxt "ekaṃ naṭṭhaṃ na kiñci sāditabbaṃ."
+msgid "ekaṃ naṭṭhaṃ na kiñci sāditabbaṃ."
 msgstr "if one robe is destroyed, he should not accept any."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="pts-vp-pi" id="pts-vp-pi3.215"></a><a class="wt-pa" id="2010"></a>
@@ -300,7 +300,7 @@ msgstr "If he accepts more than that:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np7:18.2"
-msgctxt "tatuttari viññāpeti, payoge dukkaṭaṃ."
+msgid "tatuttari viññāpeti, payoge dukkaṭaṃ."
 msgstr "in the act of asking for more than that, he commit an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np7:18.3"

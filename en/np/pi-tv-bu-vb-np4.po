@@ -226,7 +226,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np4:10.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -236,7 +236,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np4:10.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np4:10.6"
@@ -251,7 +251,7 @@ msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np4:11.2"
-msgctxt "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="pts-vp-en" id="bd.2.32"></a><a class="wt-pa" id="1947"></a>
@@ -262,7 +262,7 @@ msgstr "A nun:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np4:12.2"
-msgctxt "ubhatosaṃghe upasampannā."
+msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both monastic Orders."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="1948"></a>
@@ -273,7 +273,7 @@ msgstr "A used robe:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np4:13.2"
-msgctxt "sakiṃ nivatthampi sakiṃ pārutampi."
+msgid "sakiṃ nivatthampi sakiṃ pārutampi."
 msgstr "a lower robe or an upper robe, even worn once."
 
 #. </span></p><hr><p><a class="sc" id="9"></a> 

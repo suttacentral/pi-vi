@@ -188,7 +188,7 @@ msgstr "To a monk who is traveling:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np16:9.3"
-msgctxt "panthaṃ gacchantassa."
+msgid "panthaṃ gacchantassa."
 msgstr "one walking on a road."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2180"></a>
@@ -199,7 +199,7 @@ msgstr "If wool becomes available:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np16:10.2"
-msgctxt "uppajjeyyuṃ saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
+msgid "uppajjeyyuṃ saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
 msgstr "if it becomes available from the Order, from a group, from a relative, from a friend, or if discarded wool becomes available, or if it becomes available by means of his own property."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2181"></a>
@@ -210,7 +210,7 @@ msgstr "If he wishes:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np16:11.2"
-msgctxt "icchamānena paṭiggahetabbāni."
+msgid "icchamānena paṭiggahetabbāni."
 msgstr "if he desires, he may receive it."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2182"></a>
@@ -221,7 +221,7 @@ msgstr "If he receives it […] he may carry it himself for at most 40 kilometer
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np16:12.2"
-msgctxt "tiyojanaparamatā sahatthā haritabbāni."
+msgid "tiyojanaparamatā sahatthā haritabbāni."
 msgstr "he may carry it himself no further than 40 kilometers."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2183"></a>
@@ -232,7 +232,7 @@ msgstr "There is no one else to carry it:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np16:13.2"
-msgctxt "nāñño koci hārako hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
+msgid "nāñño koci hārako hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
 msgstr "there is no other person who can carry it, either a woman or a man, either a householder or a monastic."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2184"></a>
@@ -243,7 +243,7 @@ msgstr "If he carries it further than that, even if there is no one else to carr
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np16:14.2"
-msgctxt "paṭhamaṃ pādaṃ tiyojanaṃ atikkāmeti, āpatti dukkaṭassa."
+msgid "paṭhamaṃ pādaṃ tiyojanaṃ atikkāmeti, āpatti dukkaṭassa."
 msgstr "when he goes beyond 40 kilometers with the first foot, he commits an offense of wrong conduct."
 
 #. <a class="pts-vp-en" id="bd.2.92"></a> 

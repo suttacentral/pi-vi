@@ -231,7 +231,7 @@ msgstr "When his robe is finished:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>This refers to robe-cloth received during the robe-making season. For details see <span class="ref">Mv.7.2-7.12</span>.</span> 
 msgctxt "pi-tv-bu-vb-np3:10.3"
-msgctxt "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
+msgid "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
 msgstr "the monk has made a robe, or the robe-cloth has been lost, destroyed, or burnt, or he has abandoned his expectation of receiving further robe-cloth."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="1926"></a>
@@ -243,7 +243,7 @@ msgstr "The robe-making season has ended:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>For an explanation of this see <span class="ref">Mv.7.1.7</span> and <span class="ref">Mv.7.2-7.12</span>.</span> 
 msgctxt "pi-tv-bu-vb-np3:11.2"
-msgctxt "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
+msgid "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
 msgstr "it has ended according to one of the eight headings or the Order has ended it, whichever comes first."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="1927"></a>
@@ -255,17 +255,17 @@ msgstr "Out-of-season robe-cloth:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>That is, in-season robe-cloth is cloth obtained during the last month of the rainy season, while out-of-season robe-cloth is cloth obtained during the remaining eleven months of the year. See <span class="ref">Kkh. 101.28</span>.</span> 
 msgctxt "pi-tv-bu-vb-np3:12.2"
-msgctxt "anatthate kathine ekādasamāse uppannaṃ,"
+msgid "anatthate kathine ekādasamāse uppannaṃ,"
 msgstr "if the robe-making ceremony has not been performed, robe-cloth that becomes available during the eleven months."
 
 #. <span class="note" hidden>That is, in-season robe-cloth is cloth obtained during the last month of the rainy season or during the cold season, while out-of-season robe-cloth is cloth obtained during the remaining seven months of the year. See <span class="ref">Kkh.101.28</span>.</span> 
 msgctxt "pi-tv-bu-vb-np3:12.3"
-msgctxt "atthate kathine sattamāse uppannaṃ,"
+msgid "atthate kathine sattamāse uppannaṃ,"
 msgstr "If the robe-making ceremony has been performed, robe-cloth that becomes available during the seven months."
 
 #. <span class="note" hidden>See <span class="ref">Kkh.102.1</span>.</span> 
 msgctxt "pi-tv-bu-vb-np3:12.4"
-msgctxt "kālepi ādissa dinnaṃ, etaṃ akālacīvaraṃ nāma."
+msgid "kālepi ādissa dinnaṃ, etaṃ akālacīvaraṃ nāma."
 msgstr "Also, if it is given in the robe season, but it is designated as out-of-season cloth, it is called “out-of-season robe-cloth.”"
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-en" id="bd.2.27"></a><a class="wt-pa" id="1928"></a>
@@ -276,7 +276,7 @@ msgstr "Becomes available:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np3:13.2"
-msgctxt "uppajjeyya saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
+msgid "uppajjeyya saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
 msgstr "becomes available from the Order, from a group, from a relative, or from a friend, or if rags become available, or it becomes available by means his own property."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="1929"></a>
@@ -287,7 +287,7 @@ msgstr "If he wishes:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np3:14.2"
-msgctxt "icchamānena paṭiggahetabbaṃ."
+msgid "icchamānena paṭiggahetabbaṃ."
 msgstr "if he desires, he may receive it."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="1930"></a>
@@ -299,7 +299,7 @@ msgstr "If he receives it, he should quickly make a robe:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>That is, in accordance with the first rule of this section, <span class="ref">Relinquishment 1</span>.</span> 
 msgctxt "pi-tv-bu-vb-np3:15.2"
-msgctxt "dasāhā kāretabbaṃ."
+msgid "dasāhā kāretabbaṃ."
 msgstr "it should be made within ten days."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="1931"></a>
@@ -310,7 +310,7 @@ msgstr "If there is not enough cloth:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np3:16.2"
-msgctxt "kayiramānaṃ nappahoti."
+msgid "kayiramānaṃ nappahoti."
 msgstr "if there is not enough cloth when the robe is being made."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="1932"></a>
@@ -321,7 +321,7 @@ msgstr "He should keep it at most one month:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np3:17.2"
-msgctxt "māsaparamatā nikkhipitabbaṃ."
+msgid "māsaparamatā nikkhipitabbaṃ."
 msgstr "he should keep it for one month at the maximum."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="1933"></a>
@@ -332,7 +332,7 @@ msgstr "To make up the lack:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np3:18.2"
-msgctxt "ūnassa pāripūratthāya."
+msgid "ūnassa pāripūratthāya."
 msgstr "for the purpose of making up the lack."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="1934"></a>
@@ -343,7 +343,7 @@ msgstr "But he is expecting more:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np3:19.2"
-msgctxt "paccāsā hoti saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
+msgid "paccāsā hoti saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
 msgstr "he is expecting more from the Order, from a group, from a relative, or from a friend, or he is expecting to get rags, or he is expecting to get it by means of his own property."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="pts-vp-pi" id="pts-vp-pi3.205"></a><a class="pts-cs" id="bu-np.3.2.2"></a><a class="wt-pa" id="1935"></a>
@@ -354,7 +354,7 @@ msgstr "If he keeps it beyond that, even if he expects more cloth:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np3:20.2"
-msgctxt "tadahuppanne mūlacīvare paccāsācīvaraṃ uppajjati, dasāhā kāretabbaṃ."
+msgid "tadahuppanne mūlacīvare paccāsācīvaraṃ uppajjati, dasāhā kāretabbaṃ."
 msgstr "If he receives the expected robe-cloth on the same day as when he received the original robe-cloth, it must be made into a robe within ten days."
 
 #. <span class="note" hidden>The Pali idiom is such that this means on the day after he received the original piece of cloth. (Cf. the definition of ten days in Relinquishment 1, where the eleventh dawn means the tenth dawn after one received the cloth.) The way this works, it seems, is that the day on which the cloth was received counts as one.</span> 

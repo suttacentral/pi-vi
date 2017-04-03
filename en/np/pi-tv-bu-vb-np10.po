@@ -437,7 +437,7 @@ msgstr "For a monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:13.3"
-msgctxt "bhikkhussatthāya, bhikkhuṃ ārammaṇaṃ karitvā, bhikkhuṃ acchādetukāmo."
+msgid "bhikkhussatthāya, bhikkhuṃ ārammaṇaṃ karitvā, bhikkhuṃ acchādetukāmo."
 msgstr "for the benefit of a monk; making a monk the object of consideration, one desires to give to him."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2078"></a>
@@ -448,7 +448,7 @@ msgstr "A king:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:14.2"
-msgctxt "yo koci rajjaṃ kāreti."
+msgid "yo koci rajjaṃ kāreti."
 msgstr "whoever rules."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-en" id="bd.2.67"></a><a class="wt-pa" id="2079"></a>
@@ -459,7 +459,7 @@ msgstr "A king’s employee:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:15.2"
-msgctxt "yo koci rañño bhattavetanāhāro."
+msgid "yo koci rañño bhattavetanāhāro."
 msgstr "whoever gets food and wages from a king."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2080"></a>
@@ -470,7 +470,7 @@ msgstr "A brahmin:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:16.2"
-msgctxt "jātiyā brāhmaṇo."
+msgid "jātiyā brāhmaṇo."
 msgstr "a brahmin by birth."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2081"></a>
@@ -481,7 +481,7 @@ msgstr "A householder:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:17.2"
-msgctxt "ṭhapetvā rājaṃ rājabhoggaṃ brāhmaṇaṃ avaseso gahapatiko nāma."
+msgid "ṭhapetvā rājaṃ rājabhoggaṃ brāhmaṇaṃ avaseso gahapatiko nāma."
 msgstr "anyone apart from a king, a king’s employee, and a brahmin."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2082"></a>
@@ -492,7 +492,7 @@ msgstr "A robe fund:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:18.2"
-msgctxt "hiraññaṃ vā suvaṇṇaṃ vā muttā vā maṇi vā."
+msgid "hiraññaṃ vā suvaṇṇaṃ vā muttā vā maṇi vā."
 msgstr "money, gold, a pearl, or a gem."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2083"></a>
@@ -503,7 +503,7 @@ msgstr "With this robe fund:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:19.2"
-msgctxt "paccupaṭṭhitena."
+msgid "paccupaṭṭhitena."
 msgstr "with that which is at one’s disposal."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2084"></a>
@@ -514,7 +514,7 @@ msgstr "Buy:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:20.2"
-msgctxt "parivattetvā."
+msgid "parivattetvā."
 msgstr "having exchanged."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2085"></a>
@@ -525,7 +525,7 @@ msgstr "Give:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:21.2"
-msgctxt "dajjehi."
+msgid "dajjehi."
 msgstr "donate."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2086"></a><strong class="term"> 
@@ -744,7 +744,7 @@ msgstr "This is the proper procedure:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:27.2"
-msgctxt "ayaṃ tattha anudhammatā."
+msgid "ayaṃ tattha anudhammatā."
 msgstr "this is the right method."
 
 #. </span></p><h2>

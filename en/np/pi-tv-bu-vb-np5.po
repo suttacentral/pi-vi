@@ -359,7 +359,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np5:14.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -369,7 +369,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np5:14.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np5:14.6"
@@ -384,7 +384,7 @@ msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np5:15.2"
-msgctxt "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="1966"></a>
@@ -395,7 +395,7 @@ msgstr "A nun:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np5:16.2"
-msgctxt "ubhatosaṃghe upasampannā."
+msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both monastic Orders."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="pts-vp-pi" id="pts-vp-pi3.210"></a><a class="wt-pa" id="1967"></a>
@@ -408,7 +408,7 @@ msgstr "A robe-(cloth):"
 #. <span class="note" hidden>The six are linen, cotton, silk, wool, jute, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
 #. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pi">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
 msgctxt "pi-tv-bu-vb-np5:17.2"
-msgctxt "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
+msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe(-cloth), but not smaller than what can be transferred."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="1968"></a>
@@ -419,7 +419,7 @@ msgstr "Unless it is an exchange:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np5:18.2"
-msgctxt "ṭhapetvā pārivattakaṃ."
+msgid "ṭhapetvā pārivattakaṃ."
 msgstr "except if it is an exchange."
 
 #. </span></p><hr><p><a class="sc" id="14"></a><a class="wt-pa" id="1969"></a> 

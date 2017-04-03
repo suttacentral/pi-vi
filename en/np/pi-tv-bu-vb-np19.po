@@ -139,7 +139,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np19:10.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -149,7 +149,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np19:10.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np19:10.6"
@@ -164,7 +164,7 @@ msgstr "Various ways:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np19:11.2"
-msgctxt "katampi akatampi katākatampi."
+msgid "katampi akatampi katākatampi."
 msgstr "what is shaped, what is not shaped, and what is both shaped and not shaped."
 
 #. </span><strong class="term"> 
@@ -174,7 +174,7 @@ msgstr "What is shaped:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np19:11.4"
-msgctxt "sīsūpagaṃ gīvūpagaṃ hatthūpagaṃ pādūpagaṃ kaṭūpagaṃ."
+msgid "sīsūpagaṃ gīvūpagaṃ hatthūpagaṃ pādūpagaṃ kaṭūpagaṃ."
 msgstr "what is meant for the head, what is meant for the neck, what is meant for the hands, what is meant for the feet, what is meant for the waist."
 
 #. </span><strong class="term"> 
@@ -184,7 +184,7 @@ msgstr "What is not shaped:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np19:11.6"
-msgctxt "ghanakataṃ vuccati."
+msgid "ghanakataṃ vuccati."
 msgstr "what is shaped in a lump is what is meant."
 
 #. </span><strong class="term"> 
@@ -194,7 +194,7 @@ msgstr "What is both shaped and not shaped:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np19:11.8"
-msgctxt "tadubhayaṃ."
+msgid "tadubhayaṃ."
 msgstr "both of them."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="pts-vp-pi" id="pts-vp-pi3.240"></a><a class="wt-pa" id="2228"></a>
@@ -205,7 +205,7 @@ msgstr "Money:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np19:12.2"
-msgctxt "satthuvaṇṇo kahāpaṇo, lohamāsako, dārumāsako, jatumāsako ye vohāraṃ gacchanti."
+msgid "satthuvaṇṇo kahāpaṇo, lohamāsako, dārumāsako, jatumāsako ye vohāraṃ gacchanti."
 msgstr "a golden <i lang=\"pi\">kahāpaṇa</i> coin, a copper <i lang=\"pi\">māsaka</i> coin, a wooden <i lang=\"pi\">māsaka</i> coin, a resin <i lang=\"pi\">māsaka</i> coin; whatever is used in commerce."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2229"></a>
@@ -216,7 +216,7 @@ msgstr "Trades:"
 
 #. </strong></p><div class="gloss"><p> 
 msgctxt "pi-tv-bu-vb-np19:13.2"
-msgctxt "katena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgid "katena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he exchanges what is shaped with what is shaped, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pi-tv-bu-vb-np19:13.3"

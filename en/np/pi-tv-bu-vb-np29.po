@@ -181,7 +181,7 @@ msgstr "After observing:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:10.3"
-msgctxt "vuṭṭhavassānaṃ."
+msgid "vuṭṭhavassānaṃ."
 msgstr "after completing the rainy season."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2405"></a>
@@ -192,7 +192,7 @@ msgstr "The Kattika full moon that ends the rainy season:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:11.2"
-msgctxt "kattikacātumāsinī vuccati."
+msgid "kattikacātumāsinī vuccati."
 msgstr "the fourth full moon of the rainy season in the month of Kattika is what is meant."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2406"></a>
@@ -203,12 +203,12 @@ msgstr "There are wilderness dwellings:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:12.2"
-msgctxt "āraññakaṃ nāma"
+msgid "āraññakaṃ nāma"
 msgstr "it is called a wilderness dwelling"
 
 #. <span class="note" hidden>The text reads “five hundred bow-lengths,” <i lang="pi">pañcadhanusatikaṃ</i>. According to <span class="ref">Sp-ṭ.2.92</span>: “A measure of nine hand-spans of an ordinary hand, or a measure of four fore-arms when the bowstring is attached, this is called the teacher’s bow length,” <i lang="pi">ācariyadhanu nāma pakatihatthena navavidatthippamāṇaṃ, jiyāya pana āropitāya catuhatthappamāṇa</i>. The teacher’s bow-length is the standard measure for bow-lengths, see <span class="ref">Sp. 2.301.15</span>. Given the estimate of 50 cm for one forearm (a <i lang="pi">hattha</i>, sometimes translated as “cubit”) in BMC I, pp. 565-566, five hundred bow-lengths add up to about one kilometer.</span> 
 msgctxt "pi-tv-bu-vb-np29:12.3"
-msgctxt "senāsanaṃ pañcadhanusatikaṃ pacchimaṃ."
+msgid "senāsanaṃ pañcadhanusatikaṃ pacchimaṃ."
 msgstr "if it is at least one kilometer away from any inhabited area."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-en" id="bd.2.158"></a><a class="wt-pa" id="2407"></a>
@@ -219,7 +219,7 @@ msgstr "Risky:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:13.2"
-msgctxt "ārāme ārāmūpacāre corānaṃ niviṭṭhokāso dissati, bhuttokāso dissati, ṭhitokāso dissati, nisinnokāso dissati, nipannokāso dissati."
+msgid "ārāme ārāmūpacāre corānaṃ niviṭṭhokāso dissati, bhuttokāso dissati, ṭhitokāso dissati, nisinnokāso dissati, nipannokāso dissati."
 msgstr "in the monastery, or in the vicinity of the monastery, thieves have been seen camping, eating, standing, seated, or lying down."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2408"></a>
@@ -230,7 +230,7 @@ msgstr "Dangerous:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:14.2"
-msgctxt "ārāme ārāmūpacāre corehi manussā hatā dissanti, viluttā dissanti, ākoṭitā dissanti."
+msgid "ārāme ārāmūpacāre corehi manussā hatā dissanti, viluttā dissanti, ākoṭitā dissanti."
 msgstr "in the monastery, or in the vicinity of the monastery, thieves have been seen injuring, robbing, or beating people."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2409"></a>
@@ -241,7 +241,7 @@ msgstr "A monk who is staying in such a dwelling:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:15.2"
-msgctxt "evarūpesu bhikkhu senāsanesu viharanto."
+msgid "evarūpesu bhikkhu senāsanesu viharanto."
 msgstr "a monk who is staying in that kind of dwelling."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi3.264"></a><a class="wt-pa" id="2410"></a>
@@ -252,7 +252,7 @@ msgstr "If he so desires:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:16.2"
-msgctxt "icchamāno."
+msgid "icchamāno."
 msgstr "if he so wishes."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2411"></a>
@@ -263,7 +263,7 @@ msgstr "One of his three robes:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:17.2"
-msgctxt "saṅghāṭiṃ vā uttarāsaṅgaṃ vā antaravāsakaṃ vā."
+msgid "saṅghāṭiṃ vā uttarāsaṅgaṃ vā antaravāsakaṃ vā."
 msgstr "the outer robe, the upper robe, or the lower robe."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2412"></a>
@@ -274,7 +274,7 @@ msgstr "May store […] in an inhabited area:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:18.2"
-msgctxt "samantā gocaragāme nikkhipeyya."
+msgid "samantā gocaragāme nikkhipeyya."
 msgstr "may store it anywhere in his alms village."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2413"></a>
@@ -285,7 +285,7 @@ msgstr "So long as he has a reason for staying apart from that robe:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:19.2"
-msgctxt "siyā paccayo siyā karaṇīyaṃ."
+msgid "siyā paccayo siyā karaṇīyaṃ."
 msgstr "if there is a reason, if there is something to be done."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2414"></a>
@@ -296,7 +296,7 @@ msgstr "He should stay apart from that robe for six days at the most:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:20.2"
-msgctxt "chārattaparamatā vippavasitabbaṃ."
+msgid "chārattaparamatā vippavasitabbaṃ."
 msgstr "he should stay apart from it for six days at the maximum."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2415"></a>
@@ -307,7 +307,7 @@ msgstr "Except if the monks have agreed:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:21.2"
-msgctxt "ṭhapetvā bhikkhusammutiṃ."
+msgid "ṭhapetvā bhikkhusammutiṃ."
 msgstr "unless he has the permission of the monks."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2416"></a>
@@ -318,7 +318,7 @@ msgstr "If he stays apart from it beyond that:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np29:22.2"
-msgctxt "sattame aruṇuggamane nissaggiyaṃ hoti."
+msgid "sattame aruṇuggamane nissaggiyaṃ hoti."
 msgstr "the robe becomes subject to relinquishment at dawn on the seventh day."
 
 #. </span></p><hr><p>

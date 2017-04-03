@@ -339,7 +339,7 @@ msgstr "When his robe is finished:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>This refers to robe-cloth received during the robe-making season. For details see <span class="ref">Mv.7.2-7.12</span>.</span> 
 msgctxt "pi-tv-bu-vb-np2:16.3"
-msgctxt "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
+msgid "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
 msgstr "the monk has made a robe, or the robe-cloth has been lost, destroyed, or burnt, or he has abandoned his expectation of receiving further robe-cloth."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="1894"></a>
@@ -351,7 +351,7 @@ msgstr "The robe-making season has ended:"
 #. </strong><span class="gloss">
 #. <span class="note" hidden>For an explanation of this see <span class="ref">Mv.7.1.7</span> and <span class="ref">Mv.7.2-7.12</span>.</span> 
 msgctxt "pi-tv-bu-vb-np2:17.2"
-msgctxt "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
+msgid "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
 msgstr "it has ended according to one of the eight headings or the Order has ended it, whichever comes first."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="1895"></a>
@@ -362,7 +362,7 @@ msgstr "If a monk stays apart from his three robes even for a single day:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np2:18.2"
-msgctxt "saṅghāṭiyā vā uttarāsaṅgena vā antaravāsakena vā."
+msgid "saṅghāṭiyā vā uttarāsaṅgena vā antaravāsakena vā."
 msgstr "from the outer robe, from the upper robe, or from the lower robe."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="1896"></a>
@@ -373,7 +373,7 @@ msgstr "Except if the monks have agreed:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np2:19.2"
-msgctxt "ṭhapetvā bhikkhusammutiṃ."
+msgid "ṭhapetvā bhikkhusammutiṃ."
 msgstr "unless he has the permission of the monks."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="pts-vp-pi" id="pts-vp-pi3.200"></a><a class="wt-pa" id="1897"></a>
@@ -384,7 +384,7 @@ msgstr "Entailing relinquishment:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np2:20.2"
-msgctxt "saha aruṇuggamanā nissaggiyaṃ hoti."
+msgid "saha aruṇuggamanā nissaggiyaṃ hoti."
 msgstr "entailing relinquishment at dawn."
 
 #. </span></p><hr><p>
@@ -515,7 +515,7 @@ msgid "Gāmo ekūpacāro nāma"
 msgstr "A village with a single entrance"
 
 msgctxt "pi-tv-bu-vb-np2:22.3"
-msgctxt "ekakulassa gāmo hoti parikkhitto ca."
+msgid "ekakulassa gāmo hoti parikkhitto ca."
 msgstr "means it is an enclosed village belonging to one clan:"
 
 #. </strong><span class="gloss"> 

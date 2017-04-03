@@ -194,7 +194,7 @@ msgstr "When there is more than a month left of the hot season:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np24:11.2"
-msgctxt "atirekamāse sese gimhāne vassikasāṭikacīvaraṃ pariyesati, nissaggiyaṃ pācittiyaṃ."
+msgid "atirekamāse sese gimhāne vassikasāṭikacīvaraṃ pariyesati, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he goes looking for cloth for the rainy-season robe when there is more than a month left of the hot season, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2329"></a>
@@ -205,7 +205,7 @@ msgstr "When there is more than a half-month left of the hot season:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np24:12.2"
-msgctxt "atirekaddhamāse sese gimhāne katvā nivāseti, nissaggiyaṃ hoti."
+msgid "atirekaddhamāse sese gimhāne katvā nivāseti, nissaggiyaṃ hoti."
 msgstr "if he wears it after sewing it when there is more than a half-month left of the hot season, it becomes subject to relinquishment."
 
 #. </span></p><hr><p>

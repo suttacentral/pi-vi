@@ -232,7 +232,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:10.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -242,7 +242,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:10.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-ay1:10.6"
@@ -257,7 +257,7 @@ msgstr "A woman:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:11.2"
-msgctxt "manussitthī, na yakkhī na petī na tiracchānagatā."
+msgid "manussitthī, na yakkhī na petī na tiracchānagatā."
 msgstr "a human female, not a female spirit, not a female ghost, not a female animal;"
 
 msgctxt "pi-tv-bu-vb-ay1:11.3"
@@ -272,7 +272,7 @@ msgstr "With:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:12.2"
-msgctxt "ekato."
+msgid "ekato."
 msgstr "together."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1810"></a>
@@ -283,7 +283,7 @@ msgstr "Alone:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:13.2"
-msgctxt "bhikkhu ceva hoti mātugāmo ca."
+msgid "bhikkhu ceva hoti mātugāmo ca."
 msgstr "just the monk and the woman."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1811"></a>
@@ -294,7 +294,7 @@ msgstr "Private:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:14.2"
-msgctxt "cakkhussa raho, sotassa raho."
+msgid "cakkhussa raho, sotassa raho."
 msgstr "there is private to the eye and there is private to the ear."
 
 #. <strong class="term"> 
@@ -304,7 +304,7 @@ msgstr "Private to the eye"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:14.4"
-msgctxt "na sakkā hoti akkhiṃ vā nikhaṇīyamāne bhamukaṃ vā ukkhipīyamāne sīsaṃ vā ukkhipīyamāne passituṃ."
+msgid "na sakkā hoti akkhiṃ vā nikhaṇīyamāne bhamukaṃ vā ukkhipīyamāne sīsaṃ vā ukkhipīyamāne passituṃ."
 msgstr "one is unable to see them winking, raising an eyebrow, or nodding."
 
 #. </span><strong class="term"> 
@@ -314,7 +314,7 @@ msgstr "Private to the ear"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:14.6"
-msgctxt "na sakkā hoti pakatikathā sotuṃ."
+msgid "na sakkā hoti pakatikathā sotuṃ."
 msgstr "one is unable to hear ordinary speech."
 
 #. </span></span></p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi3.189"></a><a class="ms-pa" id="ms-pa1812"></a>
@@ -325,7 +325,7 @@ msgstr "Concealed seat:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:15.2"
-msgctxt "āsanaṃ kuṭṭena vā kavāṭena vā kilañjena vā sāṇipākārena vā rukkhena vā thambhena vā kotthaḷiyā vā yena kenaci paṭicchannaṃ hoti."
+msgid "āsanaṃ kuṭṭena vā kavāṭena vā kilañjena vā sāṇipākārena vā rukkhena vā thambhena vā kotthaḷiyā vā yena kenaci paṭicchannaṃ hoti."
 msgstr "it is hidden by a wall, a screen, a door, a screening cloth, a tree, a pillar, a grain container, or anything else."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1813"></a><a class="pts-vp-en" id="bd.1.333"></a>
@@ -336,7 +336,7 @@ msgstr "Suitable for doing it:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:16.2"
-msgctxt "sakkā hoti methunaṃ dhammaṃ paṭisevituṃ."
+msgid "sakkā hoti methunaṃ dhammaṃ paṭisevituṃ."
 msgstr "one is able to have sexual intercourse."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1814"></a>
@@ -347,7 +347,7 @@ msgstr "Sits:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:17.2"
-msgctxt "mātugāme nisinne bhikkhu upanisinno vā hoti upanipanno vā."
+msgid "mātugāme nisinne bhikkhu upanisinno vā hoti upanipanno vā."
 msgstr "the monk sits down or lies down next to the seated woman."
 
 msgctxt "pi-tv-bu-vb-ay1:17.3"
@@ -366,7 +366,7 @@ msgstr "Trustworthy:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:18.2"
-msgctxt "āgataphalā abhisametāvinī viññātasāsanā."
+msgid "āgataphalā abhisametāvinī viññātasāsanā."
 msgstr "she has attained the fruit, she has broken through, she has understood the Teaching."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1816"></a>
@@ -377,7 +377,7 @@ msgstr "Female lay follower:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:19.2"
-msgctxt "buddhaṃ saraṇaṃ gatā, dhammaṃ saraṇaṃ gatā, saṃghaṃ saraṇaṃ gatā."
+msgid "buddhaṃ saraṇaṃ gatā, dhammaṃ saraṇaṃ gatā, saṃghaṃ saraṇaṃ gatā."
 msgstr "she has gone for refuge to the Buddha, the Teaching, and the monastic Order."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1817"></a>
@@ -388,7 +388,7 @@ msgstr "Sees:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:20.2"
-msgctxt "passitvā."
+msgid "passitvā."
 msgstr "having seen."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="pts-cs" id="bu-an.1.2.2"></a><a class="ms-pa" id="ms-pa1818"></a><strong class="term"> 
@@ -700,11 +700,11 @@ msgstr "Undetermined:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ay1:28.2"
-msgctxt "na niyato,"
+msgid "na niyato,"
 msgstr "not determined."
 
 msgctxt "pi-tv-bu-vb-ay1:28.3"
-msgctxt "pārājikaṃ vā saṃghādiseso vā pācittiyaṃ vā."
+msgid "pārājikaṃ vā saṃghādiseso vā pācittiyaṃ vā."
 msgstr "It is either an offense entailing expulsion or an offense entailing suspension or an offense entailing confession."
 
 #. </span>

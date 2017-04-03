@@ -240,7 +240,7 @@ msgstr "For a […] monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:11.3"
-msgctxt "bhikkhussatthāya, bhikkhuṃ ārammaṇaṃ karitvā, bhikkhuṃ acchādetukāmo."
+msgid "bhikkhussatthāya, bhikkhuṃ ārammaṇaṃ karitvā, bhikkhuṃ acchādetukāmo."
 msgstr "for the benefit of a monk; making a monk the object of consideration, one desires to give to him."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2021"></a>
@@ -251,7 +251,7 @@ msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:12.2"
-msgctxt "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2022"></a>
@@ -262,7 +262,7 @@ msgstr "A male householder:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:13.2"
-msgctxt "yo koci agāraṃ ajjhāvasati."
+msgid "yo koci agāraṃ ajjhāvasati."
 msgstr "any man who lives in a house."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2023"></a>
@@ -273,7 +273,7 @@ msgstr "A female householder:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:14.2"
-msgctxt "yā kāci agāraṃ ajjhāvasati."
+msgid "yā kāci agāraṃ ajjhāvasati."
 msgstr "any woman who lives in a house."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2024"></a>
@@ -284,7 +284,7 @@ msgstr "A robe fund:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:15.2"
-msgctxt "hiraññaṃ vā suvaṇṇaṃ vā muttā vā maṇi vā pavāḷo vā phaliko vā paṭako vā suttaṃ vā kappāso vā."
+msgid "hiraññaṃ vā suvaṇṇaṃ vā muttā vā maṇi vā pavāḷo vā phaliko vā paṭako vā suttaṃ vā kappāso vā."
 msgstr "money, gold, a pearl, a gem, a coral, a crystal, cloth, thread, or cotton wool."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2025"></a>
@@ -295,7 +295,7 @@ msgstr "With this robe fund:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:16.2"
-msgctxt "paccupaṭṭhitena."
+msgid "paccupaṭṭhitena."
 msgstr "with that which is at one’s disposal."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2026"></a>
@@ -306,7 +306,7 @@ msgstr "I will buy:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:17.2"
-msgctxt "parivattetvā."
+msgid "parivattetvā."
 msgstr "having exchanged."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2027"></a>
@@ -317,7 +317,7 @@ msgstr "I will […] give:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:18.2"
-msgctxt "dassāmi."
+msgid "dassāmi."
 msgstr "I will donate."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2028"></a>
@@ -328,7 +328,7 @@ msgstr "If that monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:19.2"
-msgctxt "yaṃ bhikkhuṃ uddissa cīvaracetāpannaṃ upakkhaṭaṃ hoti so bhikkhu."
+msgid "yaṃ bhikkhuṃ uddissa cīvaracetāpannaṃ upakkhaṭaṃ hoti so bhikkhu."
 msgstr "the monk for whom the robe fund has been set aside."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2029"></a>
@@ -339,7 +339,7 @@ msgstr "Without first being invited:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:20.2"
-msgctxt "pubbe avutto hoti—"
+msgid "pubbe avutto hoti—"
 msgstr "he or she has not said beforehand:"
 
 msgctxt "pi-tv-bu-vb-np8:20.3"
@@ -358,7 +358,7 @@ msgstr "Approaches him:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:21.2"
-msgctxt "gharaṃ gantvā yattha katthaci upasaṅkamitvā."
+msgid "gharaṃ gantvā yattha katthaci upasaṅkamitvā."
 msgstr "having gone to his house or having gone wherever."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2031"></a>
@@ -369,7 +369,7 @@ msgstr "Specifies the kind of robe he wants:"
 
 #. </strong><a class="pts-vp-en" id="bd.2.56"></a><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:22.2"
-msgctxt "āyataṃ vā hotu vitthataṃ vā appitaṃ vā saṇhaṃ vā."
+msgid "āyataṃ vā hotu vitthataṃ vā appitaṃ vā saṇhaṃ vā."
 msgstr "please make it long or wide or closely woven or soft."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="pts-vp-pi" id="pts-vp-pi3.217"></a><a class="wt-pa" id="2032"></a>
@@ -380,7 +380,7 @@ msgstr "This robe fund:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:23.2"
-msgctxt "paccupaṭṭhitena."
+msgid "paccupaṭṭhitena."
 msgstr "that which is at one’s disposal."
 
 #. </span></p><p><a class="sc" id="19"></a><a class="wt-pa" id="2033"></a>
@@ -402,7 +402,7 @@ msgstr "To buy:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:25.2"
-msgctxt "parivattetvā."
+msgid "parivattetvā."
 msgstr "having exchanged."
 
 #. </span></p><p><a class="sc" id="21"></a><a class="wt-pa" id="2035"></a>
@@ -413,7 +413,7 @@ msgstr "Give:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:26.2"
-msgctxt "dajjehi."
+msgid "dajjehi."
 msgstr "donate."
 
 #. </span></p><p><a class="sc" id="22"></a><a class="wt-pa" id="2036"></a>
@@ -424,7 +424,7 @@ msgstr "Because he wants something nice:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np8:27.2"
-msgctxt "sādhatthiko mahagghatthiko."
+msgid "sādhatthiko mahagghatthiko."
 msgstr "wanting something nice, wanting something expensive."
 
 #. </span></p><hr><p>

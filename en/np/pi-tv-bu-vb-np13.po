@@ -131,7 +131,7 @@ msgstr "New:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np13:9.3"
-msgctxt "karaṇaṃ upādāya vuccati."
+msgid "karaṇaṃ upādāya vuccati."
 msgstr "newly made is what is meant."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2125"></a>
@@ -142,7 +142,7 @@ msgstr "A blanket:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np13:10.2"
-msgctxt "santharitvā kataṃ hoti avāyimaṃ."
+msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2126"></a>
@@ -153,7 +153,7 @@ msgstr "Getting made:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np13:11.2"
-msgctxt "karonto vā kārāpento vā."
+msgid "karonto vā kārāpento vā."
 msgstr "making or getting made."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2127"></a>
@@ -164,7 +164,7 @@ msgstr "He should use two parts of entirely black wool:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np13:12.2"
-msgctxt "dhārayitvā dve tulā ādātabbā."
+msgid "dhārayitvā dve tulā ādātabbā."
 msgstr "having weighed it, he should use two measures."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2128"></a>
@@ -175,7 +175,7 @@ msgstr "A third part of white:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np13:13.2"
-msgctxt "tulaṃ odātānaṃ."
+msgid "tulaṃ odātānaṃ."
 msgstr "one measure of white."
 
 #. </span></p><p><a class="sc" id="9"></a>
@@ -186,7 +186,7 @@ msgstr "A fourth part of brown:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np13:14.2"
-msgctxt "tulaṃ gocariyānaṃ."
+msgid "tulaṃ gocariyānaṃ."
 msgstr "one measure of brown."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-pi" id="pts-vp-pi3.227"></a><a class="wt-pa" id="2130"></a>

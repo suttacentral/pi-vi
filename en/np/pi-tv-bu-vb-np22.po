@@ -310,7 +310,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:15.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -320,7 +320,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:15.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np22:15.6"
@@ -335,7 +335,7 @@ msgstr "A bowl with less than five mends:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:16.2"
-msgctxt "patto abandhano vā ekabandhano vā dvibandhano vā tibandhano vā catubandhano vā."
+msgid "patto abandhano vā ekabandhano vā dvibandhano vā tibandhano vā catubandhano vā."
 msgstr "it has no mends, one mend, two mends, three mends, or four mends."
 
 #. </span><strong class="term"> 
@@ -356,7 +356,7 @@ msgstr "A bowl with a mend that counts:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:16.6"
-msgid "yassa dvaṅgulā rāji hoti.""
+msgid "yassa dvaṅgulā rāji hoti."
 msgstr "one that has a 4 cm long fracture."
 
 #. </span></p><p><strong class="term"> 
@@ -366,7 +366,7 @@ msgstr "New bowl:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:16.8"
-msgctxt "patto viññattiṃ upādāya vuccati."
+msgid "patto viññattiṃ upādāya vuccati."
 msgstr "newly asked for is what is meant."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="pts-vp-pi" id="pts-vp-pi3.247"></a><a class="wt-pa" id="2284"></a>
@@ -377,7 +377,7 @@ msgstr "Gets […] in exchange:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:17.2"
-msgctxt "viññāpeti, payoge dukkaṭaṃ."
+msgid "viññāpeti, payoge dukkaṭaṃ."
 msgstr "in the act of asking, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np22:17.3"
@@ -570,7 +570,7 @@ msgstr "This is the proper procedure:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np22:23.2"
-msgctxt "ayaṃ tattha anudhammatā."
+msgid "ayaṃ tattha anudhammatā."
 msgstr "this is in right method."
 
 #. </span></p><h2>

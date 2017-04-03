@@ -363,7 +363,7 @@ msgstr "For a […] monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:12.3"
-msgctxt "bhikkhussatthāya bhikkhuṃ ārammaṇaṃ karitvā bhikkhuṃ acchādetukāmo."
+msgid "bhikkhussatthāya bhikkhuṃ ārammaṇaṃ karitvā bhikkhuṃ acchādetukāmo."
 msgstr "for the benefit of a monk; making a monk the object, he wishes to give to the monk."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2369"></a>
@@ -374,7 +374,7 @@ msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:13.2"
-msgctxt "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2370"></a>
@@ -385,7 +385,7 @@ msgstr "A male householder:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:14.2"
-msgctxt "yo koci agāraṃ ajjhāvasati."
+msgid "yo koci agāraṃ ajjhāvasati."
 msgstr "any man who lives in a house."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2071"></a>
@@ -396,7 +396,7 @@ msgstr "A female householder:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:15.2"
-msgctxt "yā kāci agāraṃ ajjhāvasati."
+msgid "yā kāci agāraṃ ajjhāvasati."
 msgstr "any woman who lives in a house."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2372"></a>
@@ -407,7 +407,7 @@ msgstr "By weavers:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:16.2"
-msgctxt "pesakārehi."
+msgid "pesakārehi."
 msgstr "by those who weave."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2373"></a>
@@ -420,7 +420,7 @@ msgstr "Robe-cloth:"
 #. <span class="note" hidden>The six are linen, cotton, silk, wool, jute, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
 #. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pi">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span></span> 
 msgctxt "pi-tv-bu-vb-np27:17.2"
-msgctxt "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
+msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. </p><p><a class="sc" id="13"></a><a class="pts-vp-en" id="bd.2.149"></a><a class="wt-pa" id="2374"></a>
@@ -431,19 +431,18 @@ msgstr "Is getting […] woven:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:18.2"
-msgctxt "vināpeti."
+msgid "vināpeti."
 msgstr "is causing to weave."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2375"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-np27:19.1"
 msgid "Tatra ce so bhikkhūti"
-msgstr "msgstr "If […] that monk:"
-"
+msgstr "If […] that monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:19.2"
-msgctxt "yaṃ bhikkhuṃ uddissa cīvaraṃ viyyati so bhikkhu."
+msgid "yaṃ bhikkhuṃ uddissa cīvaraṃ viyyati so bhikkhu."
 msgstr "the monk for whom the robe-cloth is being woven."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2376"></a>
@@ -454,7 +453,7 @@ msgstr "Without first being invited:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:20.2"
-msgctxt "pubbe avutto hoti—"
+msgid "pubbe avutto hoti—"
 msgstr "without it first being said,"
 
 msgctxt "pi-tv-bu-vb-np27:20.3"
@@ -473,7 +472,7 @@ msgstr "Goes to those weavers:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:21.2"
-msgctxt "gharaṃ gantvā yattha katthaci upasaṅkamitvā."
+msgid "gharaṃ gantvā yattha katthaci upasaṅkamitvā."
 msgstr "having gone to their house or having gone wherever."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2378"></a>
@@ -507,7 +506,7 @@ msgstr "Almsfood:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np27:23.3"
-msgctxt "yāgupi bhattampi khādanīyampi cuṇṇapiṇḍopi dantakaṭṭhampi dasikasuttampi, antamaso dhammampi bhaṇati."
+msgid "yāgupi bhattampi khādanīyampi cuṇṇapiṇḍopi dantakaṭṭhampi dasikasuttampi, antamaso dhammampi bhaṇati."
 msgstr "rice-porridge, a meal, non-staple food, bath powder, a toothbrush, a piece of thread, and even if he gives a teaching."
 
 #. </span></p><hr><p><a class="sc" id="19"></a><a class="wt-pa" id="2380"></a> 

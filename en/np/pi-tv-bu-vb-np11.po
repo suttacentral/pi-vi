@@ -172,7 +172,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np11:10.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -182,7 +182,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np11:10.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np11:10.6"
@@ -197,7 +197,7 @@ msgstr "A blanket:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np11:11.2"
-msgctxt "santharitvā kataṃ hoti avāyimaṃ."
+msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2104"></a>
@@ -208,7 +208,7 @@ msgstr "Gets made:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np11:12.2"
-msgctxt "ekenapi kosiyaṃsunā missitvā karoti vā kārāpeti vā, payoge dukkaṭaṃ."
+msgid "ekenapi kosiyaṃsunā missitvā karoti vā kārāpeti vā, payoge dukkaṭaṃ."
 msgstr "in the effort of making a blanket that contains even one thread of silk, or in getting one made, he commits an offense of wrong conduct."
 
 msgctxt "pi-tv-bu-vb-np11:12.3"

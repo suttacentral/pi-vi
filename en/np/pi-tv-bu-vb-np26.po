@@ -173,7 +173,7 @@ msgstr "A:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np26:10.3"
-msgctxt "yo yādiso … pe …"
+msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
@@ -183,7 +183,7 @@ msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np26:10.5"
-msgctxt "… pe …"
+msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pi-tv-bu-vb-np26:10.6"
@@ -198,7 +198,7 @@ msgstr "Himself:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np26:11.2"
-msgctxt "sayaṃ viññāpetvā."
+msgid "sayaṃ viññāpetvā."
 msgstr "he himself has asked."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2356"></a>
@@ -209,7 +209,7 @@ msgstr "Thread:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np26:12.2"
-msgctxt "cha suttāni—"
+msgid "cha suttāni—"
 msgstr "there are six kinds of thread:"
 
 msgctxt "pi-tv-bu-vb-np26:12.3"
@@ -224,7 +224,7 @@ msgstr "Weavers:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np26:13.2"
-msgctxt "pesakārehi vāyāpeti, payoge payoge dukkaṭaṃ."
+msgid "pesakārehi vāyāpeti, payoge payoge dukkaṭaṃ."
 msgstr "for every action to get it woven by weavers, he commits an offense of wrong conduct."
 
 #. <a class="pts-vp-en" id="bd.2.144"></a> 
