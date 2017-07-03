@@ -228,7 +228,7 @@ msgstr "aristocrats and brahmins—"
 
 msgctxt "pi-tv-bu-vb-pc3:10.12"
 msgid "Esā ukkaṭṭhā nāma jāti … pe …."
-msgstr "these are called “high castes.” … <span class=\"add\">To be expanded as in Confession 2, <span class=\"ref\">MS.2.37-2.44</span>.</span> …"
+msgstr "these are called “high castes.” … <span class=\"add\">To be expanded as in <a href=\"/en/pi-tv-bu-vb-pc2#9\">Pācittiya 2, paragraphs 9–16</a>.</span> …"
 
 #. </span></span></p><p><a class="sc" id="6"></a><a class="pts-vp-pi" id="pts-vp-pi4.13"></a><a class="wt-pa" id="wt-pa116"></a>
 #. <strong class="term"> 
