@@ -1,0 +1,5517 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-07-03 15:07+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta author="CBETA"></head><body><div id="text" lang="lzh"><section class="sutta" id="lzh-mu-bi-pm"><article><div class="hgroup"><p class="division latin">
+msgctxt "lzh-mu-bi-pm:1.1"
+msgid "Taishō vol.24 no.1455"
+msgstr "Taishō vol.24 no.1455"
+
+#. </p><p class="latin">
+msgctxt "lzh-mu-bi-pm:2.1"
+msgid "Mūlasarvāstivāda Bhikkhunī Pātimokkha"
+msgstr "Mūlasarvāstivāda Bhikkhunī Pātimokkha"
+
+#. </p><h1>
+msgctxt "lzh-mu-bi-pm:3.1"
+msgid "根本說一切有部苾芻尼戒經"
+msgstr ""
+
+#. </h1><p class="subheading">
+msgctxt "lzh-mu-bi-pm:4.1"
+msgid "<span class=\"byline\">三藏法師義淨奉　制譯</span>"
+msgstr ""
+
+#. </p></div><h2>
+#. <span class="add"><a id="intro" class="latin">
+msgctxt "lzh-mu-bi-pm:5.1"
+msgid "Introductory Verses"
+msgstr "Introductory Verses"
+
+#. </a></span>
+#. </h2><blockquote class="gatha"><p><a class="sc" id="1"></a>
+msgctxt "lzh-mu-bi-pm:6.1"
+msgid "別解脫經難得聞　　經於無量俱胝劫"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.2"
+msgid "讀誦受持亦如是　　如說行者更難遇"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.3"
+msgid "諸佛出現於世樂　　演說微妙正法樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.4"
+msgid "僧伽一心同見樂　　和合俱修勇進樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.5"
+msgid "若見聖人則為樂　　并與共住亦為樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.6"
+msgid "若不見諸愚癡人　　是則名為常受樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.7"
+msgid "見具尸羅者為樂　　若見多聞亦名樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.8"
+msgid "見阿羅漢是真樂　　由於後有不生故"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.9"
+msgid "於河津處妙階樂　　以法降怨戰勝樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.10"
+msgid "證得正慧果生時　　能除我慢盡為樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.11"
+msgid "若有能為決定意　　善伏根欲具多聞"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:6.12"
+msgid "從少至老處林中　　寂靜閑居蘭若樂"
+msgstr ""
+
+#. </p></blockquote><p><a class="sc" id="2"></a>
+msgctxt "lzh-mu-bi-pm:7.1"
+msgid "諸大德。春時爾許過。餘有爾許在。老死既侵命根漸減。大師教法不久當滅。諸大德。應懃光顯。莫為放逸。由不放逸。必當證得如來應正等覺。何況所餘覺品善法。大德僧伽。先作何事。佛聲聞眾少求少事。未受近圓者出。不來諸苾芻尼說欲及清淨<span class=\"t-note\">(其持欲者各對比坐而說)</span>。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="3"></a>
+msgctxt "lzh-mu-bi-pm:8.1"
+msgid "合十指恭敬　　禮釋迦師子"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.2"
+msgid "別解脫調伏　　我說仁善聽"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.3"
+msgid "聽已當正行　　如大仙所說"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.4"
+msgid "於諸小罪中　　勇猛亦懃護"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.5"
+msgid "心馬難制止　　勇決恒相續"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.6"
+msgid "別解脫如銜　　有百針極利"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.7"
+msgid "若人違軌則　　聞教便能止"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.8"
+msgid "大士若良馬　　當出煩惱陣"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.9"
+msgid "若人無此銜　　亦不曾<span class=\"t-gaiji\">憙<!--gaiji,,1[喜/心],2&#x6199;,3--> </span>樂"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:8.10"
+msgid "彼沒煩惱陣　　迷轉於生死"
+msgstr ""
+
+#. </p></blockquote><p><a class="sc" id="4"></a>
+msgctxt "lzh-mu-bi-pm:9.1"
+msgid "大德尼僧伽聽。今僧伽黑月十四日<span class=\"t-note\">(或云白月十五日)</span>作褒灑陀。若苾芻尼僧伽時至聽者。苾芻尼僧伽應許。苾芻尼僧伽。今作褒灑陀。說波羅底木叉戒經。白如是。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="nidana" class="latin">
+msgctxt "lzh-mu-bi-pm:10.1"
+msgid "nidāna"
+msgstr "nidāna"
+
+#. </a></span>
+#. </h2><p><a class="sc" id="5"></a>
+msgctxt "lzh-mu-bi-pm:11.1"
+msgid "諸大德。我今作褒灑陀。說波羅底木叉戒經。仁等諦聽。善思念之。若有犯者。當發露。無犯者默然。默然故。知諸大德清淨。如餘問時即如實答。我今於此勝苾芻尼眾中。乃至三問亦應如實答。若苾芻尼憶知有犯不發露者。得故妄語罪。諸大德。佛說故妄語是障礙法。是故苾芻尼欲求清淨者。當發露。發露即安樂。不發露不安樂。"
+msgstr ""
+
+#. </p><p>
+msgctxt "lzh-mu-bi-pm:12.1"
+msgid "諸大德。我已說戒經序。今問。諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>諸大德。是中清淨默然故。我今如是持。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="pj" class="latin">
+msgctxt "lzh-mu-bi-pm:13.1"
+msgid "8 pārājika rules"
+msgstr "8 pārājika rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mu-bi-pm:14.1"
+msgid "諸大德。此八波羅市迦法。半月半月戒經中說。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:15.1"
+msgid "攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:16.1"
+msgid "不淨不與取　　斷人稱上法"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:16.2"
+msgid "觸八事覆隨　　斯皆不共住"
+msgstr ""
+
+#. </p></blockquote><h4>
+#. <span class="add"><a id="pj1" class="latin">
+msgctxt "lzh-mu-bi-pm:17.1"
+msgid "pārājika 1"
+msgstr "pārājika 1"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="6"></a>
+msgctxt "lzh-mu-bi-pm:18.1"
+msgid "若復苾芻尼與諸苾芻尼同得學處。不捨學處。學羸不自說。作不淨行。兩交會法。乃至共傍生。此苾芻尼亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pj2" class="latin">
+msgctxt "lzh-mu-bi-pm:19.1"
+msgid "pārājika 2"
+msgstr "pārājika 2"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="7"></a>
+msgctxt "lzh-mu-bi-pm:20.1"
+msgid "若復苾芻尼若在聚落。若空閑處。他不與物以盜心取。如是盜時。若王若大臣。若捉若殺。若縛若驅擯。若呵責言。咄女子。汝是賊癡無所知。作如是盜。如是盜者。此苾芻尼亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pj3" class="latin">
+msgctxt "lzh-mu-bi-pm:21.1"
+msgid "pārājika 3"
+msgstr "pārājika 3"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="8"></a>
+msgctxt "lzh-mu-bi-pm:22.1"
+msgid "若復苾芻尼若人若人胎。故自手斷其命。或持刀授與。或自持刀。或求持刀者。若勸死讚死。語言。咄女子。何用此罪累不淨惡活為。汝今寧死死勝生。隨自心念。以餘言說勸讚令死。彼因死者。此苾芻尼亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pj4" class="latin">
+msgctxt "lzh-mu-bi-pm:23.1"
+msgid "pārājika 4"
+msgstr "pārājika 4"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="9"></a>
+msgctxt "lzh-mu-bi-pm:24.1"
+msgid "若復苾芻尼實無知無遍知自知。不得上人法寂靜。聖者殊勝證悟智見安樂住。而言我知我見。彼於異時。若問若不問。欲自清淨故。作如是說。諸具壽。我實不知不見。言知言見。虛誑妄語。除增上慢。此苾芻尼亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pj5" class="latin">
+msgctxt "lzh-mu-bi-pm:25.1"
+msgid "pārājika 5"
+msgstr "pārājika 5"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="10"></a>
+msgctxt "lzh-mu-bi-pm:26.1"
+msgid "若復苾芻尼自有染心。共染心男子。從自腋已下膝已上作受樂心。身相摩觸。若極摩觸。於如是事。此苾芻尼亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pj6" class="latin">
+msgctxt "lzh-mu-bi-pm:27.1"
+msgid "pārājika 6"
+msgstr "pārājika 6"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="11"></a>
+msgctxt "lzh-mu-bi-pm:28.1"
+msgid "若復苾芻尼自有染心共染心男子。掉舉戲笑。指其處所。定時現相。來去丈夫。情相許可。在可行非處。縱身而臥。於是八事共相領受。若苾芻尼作如是事者。亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pj7" class="latin">
+msgctxt "lzh-mu-bi-pm:29.1"
+msgid "pārājika 7"
+msgstr "pārājika 7"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="12"></a>
+msgctxt "lzh-mu-bi-pm:30.1"
+msgid "若復苾芻尼先知他苾芻尼犯他勝罪。而不曾說。彼身死後。若歸俗若出去。方作是語。尼眾應知。我先知此苾芻尼犯他勝罪。於如是事。此苾芻尼亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pj8" class="latin">
+msgctxt "lzh-mu-bi-pm:31.1"
+msgid "pārājika 8"
+msgstr "pārājika 8"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="13"></a>
+msgctxt "lzh-mu-bi-pm:32.1"
+msgid "若復苾芻尼知彼苾芻和合僧伽。與作捨置羯磨。苾芻尼眾亦復與作不禮敬法。彼苾芻於僧伽處現恭敬相。希求拔濟。自於界內乞解捨置法。彼苾芻尼報苾芻言。聖者。勿於僧伽處現恭敬相。希求拔濟。自於界內乞解捨置法。我為聖者供給衣<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>及餘資具。悉令無乏。當可安心讀誦作意。時諸苾芻尼告此尼曰。汝豈不知眾與此人作捨置羯磨。苾芻尼與作不禮敬法。彼苾芻起謙下心。自於界內乞解捨置法。汝便供給衣<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>等物。令無乏少。汝今應捨此隨從事。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。此苾芻尼亦得波羅市迦。不當學住。"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="14"></a>
+msgctxt "lzh-mu-bi-pm:33.1"
+msgid "諸大德。我已說八他勝法。苾芻尼於此隨犯一一事。不得與諸苾芻尼共住如前。後亦如是。得他勝罪。不應共住。今問諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>諸大德。是中清淨默然故。我今如是持。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="ss" class="latin">
+msgctxt "lzh-mu-bi-pm:34.1"
+msgid "20 saṅghādisesa rules"
+msgstr "20 saṅghādisesa rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mu-bi-pm:35.1"
+msgid "諸大德。是二十僧伽伐尸沙法。半月半月戒經中說。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:36.1"
+msgid "攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana"><a class="sc" id="15"></a>
+msgctxt "lzh-mu-bi-pm:37.1"
+msgid "媒嫁及二謗　　二染并四獨"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:37.2"
+msgid "夫棄契作解　　二諍雜獨住"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:37.3"
+msgid "破僧與隨伴　　污家并惡性"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:37.4"
+msgid "眾教有二十　　八三諫應知"
+msgstr ""
+
+#. </p></blockquote><h4>
+#. <span class="add"><a id="ss1" class="latin">
+msgctxt "lzh-mu-bi-pm:38.1"
+msgid "saṅghādisesa 1"
+msgstr "saṅghādisesa 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:39.1"
+msgid "若復苾芻尼作媒嫁事。持男意語女。持女意語男。若為成婦及私通事。乃至須臾頃。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss2" class="latin">
+msgctxt "lzh-mu-bi-pm:40.1"
+msgid "saṅghādisesa 2"
+msgstr "saṅghādisesa 2"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="16"></a>
+msgctxt "lzh-mu-bi-pm:41.1"
+msgid "若復苾芻尼懷瞋不捨故。於清淨苾芻尼。以無根波羅市迦法謗。欲壞彼淨行。後於異時。若問若不問。知此是無根謗。彼苾芻尼由瞋恚故。作是語者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss3" class="latin">
+msgctxt "lzh-mu-bi-pm:42.1"
+msgid "saṅghādisesa 3"
+msgstr "saṅghādisesa 3"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="17"></a>
+msgctxt "lzh-mu-bi-pm:43.1"
+msgid "若復苾芻尼懷瞋不捨故。於清淨苾芻尼以異非分波羅市迦法謗。欲壞彼淨行。後於異時。若問若不問。知此是異非分事。以少相似法而為毀謗。彼苾芻尼。由瞋恚故。作是語者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss4" class="latin">
+msgctxt "lzh-mu-bi-pm:44.1"
+msgid "saṅghādisesa 4"
+msgstr "saṅghādisesa 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:45.1"
+msgid "若復苾芻尼有染心。從染心男子共相領受。隨取何物。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss5" class="latin">
+msgctxt "lzh-mu-bi-pm:46.1"
+msgid "saṅghādisesa 5"
+msgstr "saṅghādisesa 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:47.1"
+msgid "若復苾芻尼向苾芻尼作如是語。隨汝無染心受染心男子物。我復何過者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss6" class="latin">
+msgctxt "lzh-mu-bi-pm:48.1"
+msgid "saṅghādisesa 6"
+msgstr "saṅghādisesa 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:49.1"
+msgid "若復苾芻尼獨從尼寺向餘處宿者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss7" class="latin">
+msgctxt "lzh-mu-bi-pm:50.1"
+msgid "saṅghādisesa 7"
+msgstr "saṅghādisesa 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:51.1"
+msgid "若復苾芻尼獨從尼寺晝向俗家者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss8" class="latin">
+msgctxt "lzh-mu-bi-pm:52.1"
+msgid "saṅghādisesa 8"
+msgstr "saṅghādisesa 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:53.1"
+msgid "若復苾芻尼獨在道行者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss9" class="latin">
+msgctxt "lzh-mu-bi-pm:54.1"
+msgid "saṅghādisesa 9"
+msgstr "saṅghādisesa 9"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:55.1"
+msgid "若復苾芻尼獨浮渡河者僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss10" class="latin">
+msgctxt "lzh-mu-bi-pm:56.1"
+msgid "saṅghādisesa 10"
+msgstr "saṅghādisesa 10"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:57.1"
+msgid "若復苾芻尼知他婦女作非法事。眾人共嫌為夫所棄。并白王知度令出家者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss11" class="latin">
+msgctxt "lzh-mu-bi-pm:58.1"
+msgid "saṅghādisesa 11"
+msgstr "saṅghādisesa 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:59.1"
+msgid "若復苾芻尼依他舊契。自為己索亡人物者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss12" class="latin">
+msgctxt "lzh-mu-bi-pm:60.1"
+msgid "saṅghādisesa 12"
+msgstr "saṅghādisesa 12"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:61.1"
+msgid "若復苾芻尼知苾芻尼被苾芻尼眾。為作捨置羯磨。便出界外。為作解法者僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss13" class="latin">
+msgctxt "lzh-mu-bi-pm:62.1"
+msgid "saṅghādisesa 13"
+msgstr "saṅghādisesa 13"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="18"></a>
+msgctxt "lzh-mu-bi-pm:63.1"
+msgid "若復苾芻尼。共諸苾芻尼<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>  諍紛擾作如是語。我捨佛法僧非但此沙門釋女具戒具德。有勝善法。於餘沙門。亦具戒具德。有勝善法。我當詣彼修習梵行。時諸苾芻尼語言。汝可捨此罪惡之見。如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss14" class="latin">
+msgctxt "lzh-mu-bi-pm:64.1"
+msgid "saṅghādisesa 14"
+msgstr "saṅghādisesa 14"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="19"></a>
+msgctxt "lzh-mu-bi-pm:65.1"
+msgid "若復苾芻尼。共諸苾芻尼<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>諍紛擾。諸苾芻尼語是苾芻尼言。姊妹。莫<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>諍紛擾。此苾芻尼作如是語。汝有愛恚怖癡。於<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>  諍人有遮不遮。諸苾芻尼語言。大德。他諫誨時莫作是語。汝有愛恚怖癡。於<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>諍人有遮不遮。姊妹可止。此語諸苾芻尼。如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss15" class="latin">
+msgctxt "lzh-mu-bi-pm:66.1"
+msgid "saṅghādisesa 15"
+msgstr "saṅghādisesa 15"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="20"></a>
+msgctxt "lzh-mu-bi-pm:67.1"
+msgid "若復苾芻尼共餘苾芻尼雜亂而住。掉舉戲笑。諸苾芻尼語是苾芻尼言。姊妹。莫雜亂住掉舉戲笑。汝雜亂住時。令善法衰損。不得增益。應可別住。別住之時令善法增益。不復衰損。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss16" class="latin">
+msgctxt "lzh-mu-bi-pm:68.1"
+msgid "saṅghādisesa 16"
+msgstr "saṅghādisesa 16"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="21"></a>
+msgctxt "lzh-mu-bi-pm:69.1"
+msgid "若復苾芻尼知餘苾芻尼樂為獨住。諸苾芻尼語是苾芻尼言。大德。莫為獨住。汝獨住時令善法衰損。不得增益。姊妹。應可共住。令善法增益。不復衰損。諸苾芻尼亦應告言。大德。勿樂獨住。令善法衰損。大德。應可捨此獨住惡見。作是諫時。捨者善。若不捨者。應可再三慇懃正諫隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss17" class="latin">
+msgctxt "lzh-mu-bi-pm:70.1"
+msgid "saṅghādisesa 17"
+msgstr "saṅghādisesa 17"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="22"></a>
+msgctxt "lzh-mu-bi-pm:71.1"
+msgid "若復苾芻尼興方便。欲破和合僧伽。於破僧事堅執不捨。諸苾芻尼應語彼苾芻尼言。姊妹。莫欲破和合僧伽堅執而住。姊妹。應與僧伽和合共住歡喜無諍。一心一說如水乳合。大師教法令得光顯安樂久住。具壽。汝可捨破僧事。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss18" class="latin">
+msgctxt "lzh-mu-bi-pm:72.1"
+msgid "saṅghādisesa 18"
+msgstr "saṅghādisesa 18"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="23"></a>
+msgctxt "lzh-mu-bi-pm:73.1"
+msgid "若復苾芻尼若一若二若多。與彼苾芻尼共為伴黨。同邪違正隨順而住。時此苾芻尼語諸苾芻尼言。大德。莫共彼苾芻尼有所論說。若好若惡。何以故。彼苾芻尼是順法律依法律。語言無虛妄。彼愛樂者我亦愛樂。諸苾芻尼應語此苾芻尼言。具壽。莫作是說。彼苾芻尼是順法律依法律。語言無虛妄。彼愛樂者我亦愛樂。何以故。彼苾芻尼非順法律不依法律。語言皆虛妄。汝莫樂破僧。當樂和合僧。應與僧和合歡喜無諍。一心一說如水乳合。大師教法令得光顯安樂久住。具壽。可捨破僧惡見。順邪違正。勸作諍事堅執而住。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss19" class="latin">
+msgctxt "lzh-mu-bi-pm:74.1"
+msgid "saṅghādisesa 19"
+msgstr "saṅghādisesa 19"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="24"></a>
+msgctxt "lzh-mu-bi-pm:75.1"
+msgid "若復眾多苾芻尼於村落城邑住。污他家行惡行。污他家亦眾見聞知。行惡行亦眾見聞知。諸苾芻尼應語彼苾芻尼言。具壽。汝等污他家行惡行。污他家亦眾見聞知。行惡行亦眾見聞知。汝等可去不應住此。彼苾芻尼語諸苾芻尼言。大德。有愛恚怖癡。有如是同罪。苾芻尼有驅者有不驅者。時諸苾芻尼語彼苾芻尼言。具壽。莫作是語。諸大德。有愛恚怖癡。有如是同罪。苾芻尼有驅者有不驅者。何以故。諸苾芻尼無愛恚怖癡。汝等污他家行惡行。污他家亦眾見聞知。行惡行亦眾見聞知。具壽。汝等應捨愛恚等。言諸苾芻尼。如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="ss20" class="latin">
+msgctxt "lzh-mu-bi-pm:76.1"
+msgid "saṅghādisesa 20"
+msgstr "saṅghādisesa 20"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="25"></a>
+msgctxt "lzh-mu-bi-pm:77.1"
+msgid "若復苾芻尼惡性不受人語。諸苾芻尼於佛所說戒經中。如法如律勸誨之時。不受諫語言。諸大德。莫向我說少許若好若惡。我亦不向諸大德說若好若惡。諸大德止。莫勸我。莫論說我。諸苾芻尼語是苾芻尼言。具壽。汝莫不受諫語。諸苾芻尼於佛所說戒經中。如法如律勸誨之時。應受諫語。具壽。如法諫諸苾芻尼。諸苾芻尼亦如法諫具壽。如是如來應正等覺佛聲聞眾。便得增長。共相諫誨。具壽。汝等應捨此事。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="26"></a>
+msgctxt "lzh-mu-bi-pm:78.1"
+msgid "諸大德。我已說二十僧伽伐尸沙法。十二初犯八至三諫若苾芻尼隨一一犯故覆藏者。二部僧伽應與作半月行摩那<span class=\"t-gaiji\">[卑*也]<!--gaiji,,1[卑*也],2,3--> </span>。行摩那<span class=\"t-gaiji\">[卑*也]<!--gaiji,,1[卑*也],2,3--> </span>竟。餘有出罪。若稱可二部僧伽意者。二部僧伽各二十眾。當於四十眾中出是苾芻尼罪。若少一人不滿四十眾。是苾芻尼罪。不得除。二部僧伽得罪此是出罪法。"
+msgstr ""
+
+#. </p><p>
+msgctxt "lzh-mu-bi-pm:79.1"
+msgid "今問諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>諸大德。是中清淨默然故我今如是持<span class=\"t-note\">(尼無二不定法)</span>。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="np" class="latin">
+msgctxt "lzh-mu-bi-pm:80.1"
+msgid "33 nissaggiya pācittiya rules"
+msgstr "33 nissaggiya pācittiya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mu-bi-pm:81.1"
+msgid "諸大德。此三十三泥薩祇波逸底迦法。半月半月戒經中說。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:82.1"
+msgid "<span class=\"add latin\">Chapter 1</span>"
+msgstr ""
+
+#. </h3><p class="uddana">
+msgctxt "lzh-mu-bi-pm:83.1"
+msgid "初攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:84.1"
+msgid "持離畜浣衣　　取衣乞過受"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:84.2"
+msgid "同價及別主　　遣使送衣直"
+msgstr ""
+
+#. </p></blockquote><h4>
+#. <span class="add"><a id="np1" class="latin">
+msgctxt "lzh-mu-bi-pm:85.1"
+msgid "nissaggiya pācittiya 1"
+msgstr "nissaggiya pācittiya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:86.1"
+msgid "若復苾芻尼作衣已竟。羯恥那衣復出。得長衣齊。十日不分別應畜。若過畜者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np2" class="latin">
+msgctxt "lzh-mu-bi-pm:87.1"
+msgid "nissaggiya pācittiya 2"
+msgstr "nissaggiya pācittiya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:88.1"
+msgid "若復苾芻尼作衣已竟。羯恥那衣復出。於五衣中離一一衣界外宿。下至一夜。除得眾法。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np3" class="latin">
+msgctxt "lzh-mu-bi-pm:89.1"
+msgid "nissaggiya pācittiya 3"
+msgstr "nissaggiya pācittiya 3"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="27"></a>
+msgctxt "lzh-mu-bi-pm:90.1"
+msgid "若復苾芻尼作衣已竟。羯恥那衣復出。得非時衣。欲須應受受已。當疾成衣。若有望處求令滿足。若不足者。得畜經一月。若過者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np4" class="latin">
+msgctxt "lzh-mu-bi-pm:91.1"
+msgid "nissaggiya pācittiya 4"
+msgstr "nissaggiya pācittiya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:92.1"
+msgid "若復苾芻尼與非親苾芻浣染打故衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np5" class="latin">
+msgctxt "lzh-mu-bi-pm:93.1"
+msgid "nissaggiya pācittiya 5"
+msgstr "nissaggiya pācittiya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:94.1"
+msgid "若復苾芻尼從非親苾芻取衣者。除貿易。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np6" class="latin">
+msgctxt "lzh-mu-bi-pm:95.1"
+msgid "nissaggiya pācittiya 6"
+msgstr "nissaggiya pācittiya 6"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="28"></a>
+msgctxt "lzh-mu-bi-pm:96.1"
+msgid "若復苾芻尼從非親居士居士婦乞衣。除餘時。泥薩祇波逸底迦。餘時者。若苾芻尼奪衣失衣。燒衣吹衣漂衣。此是時。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np7" class="latin">
+msgctxt "lzh-mu-bi-pm:97.1"
+msgid "nissaggiya pācittiya 7"
+msgstr "nissaggiya pācittiya 7"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="29"></a>
+msgctxt "lzh-mu-bi-pm:98.1"
+msgid "若復苾芻尼奪衣。失衣燒衣吹衣漂衣。從非親居士居士婦乞衣。彼多施衣苾芻尼。若須應受上下二衣。若過受者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np8" class="latin">
+msgctxt "lzh-mu-bi-pm:99.1"
+msgid "nissaggiya pācittiya 8"
+msgstr "nissaggiya pācittiya 8"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="30"></a>
+msgctxt "lzh-mu-bi-pm:100.1"
+msgid "若復苾芻尼。有非親居士居士婦共辦衣價。當買如是清淨衣。與某甲苾芻尼及時應用。此苾芻尼先不受請。因他告知。便詣彼家作如是語。善哉仁者。為我所辦衣價可買如是清淨衣。及時與我為好故。若得衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np9" class="latin">
+msgctxt "lzh-mu-bi-pm:101.1"
+msgid "nissaggiya pācittiya 9"
+msgstr "nissaggiya pācittiya 9"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="31"></a>
+msgctxt "lzh-mu-bi-pm:102.1"
+msgid "若復苾芻尼有非親居士居士婦。各辦衣價。當買如是清淨衣。與某甲苾芻尼。此苾芻尼先不受請。因他告知。便詣彼家作如是語。善哉仁者。為我所辦衣價。可共買如是清淨衣。及時與我為好故。若得衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np10" class="latin">
+msgctxt "lzh-mu-bi-pm:103.1"
+msgid "nissaggiya pācittiya 10"
+msgstr "nissaggiya pācittiya 10"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="32"></a>
+msgctxt "lzh-mu-bi-pm:104.1"
+msgid "若復苾芻尼若王若大臣婆羅門居士等。遣使為苾芻尼送衣價。彼使持衣價至苾芻尼所。白言。聖者。此物是某甲王大臣婆羅門居士等遣我送來。聖者哀愍為受。是苾芻尼語彼使言。仁此衣價我不應受。若得順時淨衣應受。彼使白言聖者。有執事人不須衣。苾芻尼言有。若僧伽淨人。若鄔波斯伽。此是苾芻尼執事人。彼使往執事人所。與衣價已。語言。汝可以此衣價。買順時清淨衣。與某甲苾芻尼令其披服。彼使善教執事人已還至苾芻尼所白言。聖者。所示執事人。我已與衣價。得清淨衣應受。苾芻尼須衣。應往執事人所。若二若三令彼憶念。告言。我須衣。若得者善。若不得者。乃至四五六返往。彼默然隨處而住。若四五六返得衣者善。若不得衣過。是求得衣者。泥薩祇波逸底迦。若竟不得衣。是苾芻尼應隨彼送衣價處。若自往若遣可信人。往報言。人為某甲苾芻尼送衣價。彼苾芻尼竟不得衣。仁應知。勿令失。此是時。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:105.1"
+msgid "<span class=\"add latin\">Chapter 2</span>"
+msgstr ""
+
+#. </h3><p class="uddana">
+msgctxt "lzh-mu-bi-pm:106.1"
+msgid "第二攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:107.1"
+msgid "捉金銀出納　　賣買<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>乞線"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:107.2"
+msgid "織師自奪衣　　迴他病長<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>"
+msgstr ""
+
+#. </p></blockquote><h4>
+#. <span class="add"><a id="np11" class="latin">
+msgctxt "lzh-mu-bi-pm:108.1"
+msgid "nissaggiya pācittiya 11"
+msgstr "nissaggiya pācittiya 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:109.1"
+msgid "若復苾芻尼自手捉金銀錢等。若教他捉者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np12" class="latin">
+msgctxt "lzh-mu-bi-pm:110.1"
+msgid "nissaggiya pācittiya 12"
+msgstr "nissaggiya pācittiya 12"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:111.1"
+msgid "若復苾芻尼種種出納求利者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np13" class="latin">
+msgctxt "lzh-mu-bi-pm:112.1"
+msgid "nissaggiya pācittiya 13"
+msgstr "nissaggiya pācittiya 13"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:113.1"
+msgid "若復苾芻尼種種賣買者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np14" class="latin">
+msgctxt "lzh-mu-bi-pm:114.1"
+msgid "nissaggiya pācittiya 14"
+msgstr "nissaggiya pācittiya 14"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:115.1"
+msgid "若復苾芻尼有<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>減五綴。堪得受用。為好故更求餘<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>得者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np15" class="latin">
+msgctxt "lzh-mu-bi-pm:116.1"
+msgid "nissaggiya pācittiya 15"
+msgstr "nissaggiya pācittiya 15"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="33"></a>
+msgctxt "lzh-mu-bi-pm:117.1"
+msgid "彼苾芻尼應於眾中捨此<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。取眾中最下<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。與彼苾芻尼報言。此<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>還汝不應守持。不應分別。亦不施人。應自審詳徐徐受用。乃至破應護持。此是其法。若復苾芻尼自乞縷線。使非親織師織作衣。若得衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np16" class="latin">
+msgctxt "lzh-mu-bi-pm:118.1"
+msgid "nissaggiya pācittiya 16"
+msgstr "nissaggiya pācittiya 16"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="34"></a>
+msgctxt "lzh-mu-bi-pm:119.1"
+msgid "若復苾芻尼有非親居士居士婦。為苾芻尼使非親織師織作衣。此苾芻尼先不受請。便生異念。詣彼織師所。作如是言。汝今知不。此衣為我織。善哉織師。應好織淨梳治。善揀擇極堅打。我當以少<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>食。或<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>食類。或復食直而相濟給。若苾芻尼以如是物與織師求得衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np17" class="latin">
+msgctxt "lzh-mu-bi-pm:120.1"
+msgid "nissaggiya pācittiya 17"
+msgstr "nissaggiya pācittiya 17"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="35"></a>
+msgctxt "lzh-mu-bi-pm:121.1"
+msgid "若復苾芻尼與苾芻尼衣。彼於後時惱瞋罵詈生嫌賤心。若自奪若教他奪。報言。還我衣來。不與汝。若衣離彼身自受用者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np18" class="latin">
+msgctxt "lzh-mu-bi-pm:122.1"
+msgid "nissaggiya pācittiya 18"
+msgstr "nissaggiya pācittiya 18"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:123.1"
+msgid "若復苾芻尼知他與眾物。自迴入己者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np19" class="latin">
+msgctxt "lzh-mu-bi-pm:124.1"
+msgid "nissaggiya pācittiya 19"
+msgstr "nissaggiya pācittiya 19"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="36"></a>
+msgctxt "lzh-mu-bi-pm:125.1"
+msgid "如世尊說。聽諸病苾芻尼。所有諸藥隨意服食。謂酥油糖蜜。於七日中應自守持觸宿而服。若苾芻尼過七日服者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np20" class="latin">
+msgctxt "lzh-mu-bi-pm:126.1"
+msgid "nissaggiya pācittiya 20"
+msgstr "nissaggiya pācittiya 20"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:127.1"
+msgid "若復苾芻尼畜長<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>得經一宿。若過畜者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:128.1"
+msgid "<span class=\"add latin\">Chapter 3</span>"
+msgstr ""
+
+#. </h3><p class="uddana">
+msgctxt "lzh-mu-bi-pm:129.1"
+msgid "第三攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:130.1"
+msgid "不著捨不捨　　乞金銀染衣"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:130.2"
+msgid "得利有五殊　　買藥衣二價"
+msgstr ""
+
+#. </p></blockquote><h4>
+#. <span class="add"><a id="np21" class="latin">
+msgctxt "lzh-mu-bi-pm:131.1"
+msgid "nissaggiya pācittiya 21"
+msgstr "nissaggiya pācittiya 21"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:132.1"
+msgid "若復苾芻尼於半月內不著五衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np22" class="latin">
+msgctxt "lzh-mu-bi-pm:133.1"
+msgid "nissaggiya pācittiya 22"
+msgstr "nissaggiya pācittiya 22"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:134.1"
+msgid "若復苾芻尼非時捨羯恥那衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np23" class="latin">
+msgctxt "lzh-mu-bi-pm:135.1"
+msgid "nissaggiya pācittiya 23"
+msgstr "nissaggiya pācittiya 23"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:136.1"
+msgid "若復苾芻尼依時不捨羯恥那衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np24" class="latin">
+msgctxt "lzh-mu-bi-pm:137.1"
+msgid "nissaggiya pācittiya 24"
+msgstr "nissaggiya pācittiya 24"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:138.1"
+msgid "若復苾芻尼乞求金銀者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np25" class="latin">
+msgctxt "lzh-mu-bi-pm:139.1"
+msgid "nissaggiya pācittiya 25"
+msgstr "nissaggiya pācittiya 25"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:140.1"
+msgid "若復苾芻尼以衣利直。將充食用者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np26" class="latin">
+msgctxt "lzh-mu-bi-pm:141.1"
+msgid "nissaggiya pācittiya 26"
+msgstr "nissaggiya pācittiya 26"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:142.1"
+msgid "若復苾芻尼得別衣利。充食用者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np27" class="latin">
+msgctxt "lzh-mu-bi-pm:143.1"
+msgid "nissaggiya pācittiya 27"
+msgstr "nissaggiya pācittiya 27"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:144.1"
+msgid "若復苾芻尼得臥具利。將充食用者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np28" class="latin">
+msgctxt "lzh-mu-bi-pm:145.1"
+msgid "nissaggiya pācittiya 28"
+msgstr "nissaggiya pācittiya 28"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:146.1"
+msgid "若復苾芻尼得夏安居利。充食用者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np29" class="latin">
+msgctxt "lzh-mu-bi-pm:147.1"
+msgid "nissaggiya pācittiya 29"
+msgstr "nissaggiya pācittiya 29"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:148.1"
+msgid "若復苾芻尼得多人利。迴入己者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np30" class="latin">
+msgctxt "lzh-mu-bi-pm:149.1"
+msgid "nissaggiya pācittiya 30"
+msgstr "nissaggiya pācittiya 30"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:150.1"
+msgid "若復苾芻尼得僧祇利物。迴入己者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np31" class="latin">
+msgctxt "lzh-mu-bi-pm:151.1"
+msgid "nissaggiya pācittiya 31"
+msgstr "nissaggiya pācittiya 31"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:152.1"
+msgid "若復苾芻尼買諸藥物繫竟復解。解而復繫者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np32" class="latin">
+msgctxt "lzh-mu-bi-pm:153.1"
+msgid "nissaggiya pācittiya 32"
+msgstr "nissaggiya pācittiya 32"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:154.1"
+msgid "若復苾芻尼持貴價重衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="np33" class="latin">
+msgctxt "lzh-mu-bi-pm:155.1"
+msgid "nissaggiya pācittiya 33"
+msgstr "nissaggiya pācittiya 33"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:156.1"
+msgid "若復苾芻尼持貴價輕衣者。泥薩祇波逸底迦。"
+msgstr ""
+
+#. </p><hr><p>
+msgctxt "lzh-mu-bi-pm:157.1"
+msgid "諸大德。我已說三十三泥薩祇波逸底迦法。今問諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>。"
+msgstr ""
+
+#. </p><p>
+msgctxt "lzh-mu-bi-pm:158.1"
+msgid "諸大德。是中清淨默然故。我今如是持。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="pc" class="latin">
+msgctxt "lzh-mu-bi-pm:159.1"
+msgid "180 pācittiya rules"
+msgstr "180 pācittiya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mu-bi-pm:160.1"
+msgid "諸大德此一百八十波逸底迦法。半月半月戒經中說。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:161.1"
+msgid "第一攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:162.1"
+msgid "妄毀及離間　　發舉說同聲"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:162.2"
+msgid "說罪得上人　　隨親輒輕毀"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:163.1"
+msgid "<span class=\"add latin\">Chapter 1</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc1" class="latin">
+msgctxt "lzh-mu-bi-pm:164.1"
+msgid "pācittiya 1"
+msgstr "pācittiya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:165.1"
+msgid "若復苾芻尼故妄語者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc2" class="latin">
+msgctxt "lzh-mu-bi-pm:166.1"
+msgid "pācittiya 2"
+msgstr "pācittiya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:167.1"
+msgid "若復苾芻尼毀訾語故。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc3" class="latin">
+msgctxt "lzh-mu-bi-pm:168.1"
+msgid "pācittiya 3"
+msgstr "pācittiya 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:169.1"
+msgid "若復苾芻尼離間語故。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc4" class="latin">
+msgctxt "lzh-mu-bi-pm:170.1"
+msgid "pācittiya 4"
+msgstr "pācittiya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:171.1"
+msgid "若復苾芻尼知和合僧伽。如法斷諍事已除滅。後於羯磨處。更發舉者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc5" class="latin">
+msgctxt "lzh-mu-bi-pm:172.1"
+msgid "pācittiya 5"
+msgstr "pācittiya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:173.1"
+msgid "若復苾芻尼為男子說法。過五六語。除有智女人。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc6" class="latin">
+msgctxt "lzh-mu-bi-pm:174.1"
+msgid "pācittiya 6"
+msgstr "pācittiya 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:175.1"
+msgid "若復苾芻尼與未近圓人同句讀誦。及教授法者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc7" class="latin">
+msgctxt "lzh-mu-bi-pm:176.1"
+msgid "pācittiya 7"
+msgstr "pācittiya 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:177.1"
+msgid "若復苾芻尼知他苾芻尼有<span class=\"t-gaiji\">麁<!--gaiji,麤,1[色-巴+鹿],2&#x9E81;,3--> </span>惡罪。向未近圓人說除眾羯磨。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc8" class="latin">
+msgctxt "lzh-mu-bi-pm:178.1"
+msgid "pācittiya 8"
+msgstr "pācittiya 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:179.1"
+msgid "若復苾芻尼實得上人法。向未近圓人說者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc9" class="latin">
+msgctxt "lzh-mu-bi-pm:180.1"
+msgid "pācittiya 9"
+msgstr "pācittiya 9"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:181.1"
+msgid "若復苾芻尼先同心許。後作是說。諸具壽。以僧利物隨親厚處。迴與別人者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc10" class="latin">
+msgctxt "lzh-mu-bi-pm:182.1"
+msgid "pācittiya 10"
+msgstr "pācittiya 10"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="37"></a>
+msgctxt "lzh-mu-bi-pm:183.1"
+msgid "若復苾芻尼半月半月說戒經時。作如是語。諸具壽。何用說此小隨小學處。為說是戒。時令諸苾芻尼心生惡作惱悔懷憂。若作如是輕呵戒者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:184.1"
+msgid "第二攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:185.1"
+msgid "種子輕惱教　　安床草葉敷"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:185.2"
+msgid "強住脫床虫　　過三外道處"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:186.1"
+msgid "<span class=\"add latin\">Chapter 2</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc11" class="latin">
+msgctxt "lzh-mu-bi-pm:187.1"
+msgid "pācittiya 11"
+msgstr "pācittiya 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:188.1"
+msgid "若復苾芻尼自壞種子有情村。及令他壞者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc12" class="latin">
+msgctxt "lzh-mu-bi-pm:189.1"
+msgid "pācittiya 12"
+msgstr "pācittiya 12"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:190.1"
+msgid "若復苾芻尼嫌毀輕賤苾芻尼者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc13" class="latin">
+msgctxt "lzh-mu-bi-pm:191.1"
+msgid "pācittiya 13"
+msgstr "pācittiya 13"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:192.1"
+msgid "若復苾芻尼違惱言教者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc14" class="latin">
+msgctxt "lzh-mu-bi-pm:193.1"
+msgid "pācittiya 14"
+msgstr "pācittiya 14"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:194.1"
+msgid "若復苾芻尼於露地處安僧敷具及諸床座。去時不自舉。不教人舉。若有苾芻尼不囑授者。除餘緣故。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc15" class="latin">
+msgctxt "lzh-mu-bi-pm:195.1"
+msgid "pācittiya 15"
+msgstr "pācittiya 15"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:196.1"
+msgid "若復苾芻尼於僧房內。若草若葉自敷教人敷。去時不自舉。不教人舉。若有苾芻尼不囑授。除餘緣故。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc16" class="latin">
+msgctxt "lzh-mu-bi-pm:197.1"
+msgid "pācittiya 16"
+msgstr "pācittiya 16"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="38"></a>
+msgctxt "lzh-mu-bi-pm:198.1"
+msgid "若復苾芻尼於僧住處。知諸苾芻尼先此處住。後來於中故相惱觸於彼臥具。若坐若臥。作如是念。彼若生苦者。自當避我去。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc17" class="latin">
+msgctxt "lzh-mu-bi-pm:199.1"
+msgid "pācittiya 17"
+msgstr "pācittiya 17"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:200.1"
+msgid "若復苾芻尼於僧住處。知重房棚上脫<span class=\"t-gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>  床。及餘坐物。放身坐臥者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc18" class="latin">
+msgctxt "lzh-mu-bi-pm:201.1"
+msgid "pācittiya 18"
+msgstr "pācittiya 18"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:202.1"
+msgid "若復苾芻尼知水有蟲。自澆草土。若和牛糞。及教人澆者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc19" class="latin">
+msgctxt "lzh-mu-bi-pm:203.1"
+msgid "pācittiya 19"
+msgstr "pācittiya 19"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="39"></a>
+msgctxt "lzh-mu-bi-pm:204.1"
+msgid "若復苾芻尼作大住處。於門梐邊應安橫扂。及諸<span class=\"t-gaiji\">窓<!--gaiji,窗,1[穴/ㄙ/心],2&#x7A93;,3--> </span>牖并安水竇。若起牆時是濕泥者。應二三重齊橫扂處。若過者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc20" class="latin">
+msgctxt "lzh-mu-bi-pm:205.1"
+msgid "pācittiya 20"
+msgstr "pācittiya 20"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:206.1"
+msgid "若復苾芻尼於外道住處。得經一宿一食。除病因緣。若過者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:207.1"
+msgid "第三攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:208.1"
+msgid "過三不餘食　　勸足并別眾"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:208.2"
+msgid "非時觸不受　　蟲外道觀裝"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:209.1"
+msgid "<span class=\"add latin\">Chapter 3</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc21" class="latin">
+msgctxt "lzh-mu-bi-pm:210.1"
+msgid "pācittiya 21"
+msgstr "pācittiya 21"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="40"></a>
+msgctxt "lzh-mu-bi-pm:211.1"
+msgid "若復眾多苾芻尼往俗家中。有淨信婆羅門居士。慇懃勸請與餅<span class=\"t-gaiji\">麨<!--gaiji,,1[麩-夫+少],2&#x9EA8;,3--> </span>飯。苾芻尼須者應兩三<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>受。若過受者。波逸底迦。既受得已還至住處。若有苾芻尼當學分食。此是時。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc22" class="latin">
+msgctxt "lzh-mu-bi-pm:212.1"
+msgid "pācittiya 22"
+msgstr "pācittiya 22"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:213.1"
+msgid "若復苾芻尼足食竟。不作餘食法。更食者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc23" class="latin">
+msgctxt "lzh-mu-bi-pm:214.1"
+msgid "pācittiya 23"
+msgstr "pācittiya 23"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="41"></a>
+msgctxt "lzh-mu-bi-pm:215.1"
+msgid "若復苾芻尼知他苾芻尼足食竟。不作餘食法。勸令更食。告言。具壽。當噉此食。以此因緣欲使他犯生憂惱者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc24" class="latin">
+msgctxt "lzh-mu-bi-pm:216.1"
+msgid "pācittiya 24"
+msgstr "pācittiya 24"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:217.1"
+msgid "若復苾芻尼別眾食者。除餘時。波逸底迦。餘時者。病時作時。道行時船行時。大眾食時。沙門施食時。此是時。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc25" class="latin">
+msgctxt "lzh-mu-bi-pm:218.1"
+msgid "pācittiya 25"
+msgstr "pācittiya 25"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:219.1"
+msgid "若復苾芻尼非時食者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc26" class="latin">
+msgctxt "lzh-mu-bi-pm:220.1"
+msgid "pācittiya 26"
+msgstr "pācittiya 26"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:221.1"
+msgid "若復苾芻尼食曾經觸食者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc27" class="latin">
+msgctxt "lzh-mu-bi-pm:222.1"
+msgid "pācittiya 27"
+msgstr "pācittiya 27"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:223.1"
+msgid "若復苾芻尼不受食舉著口中而噉咽者。除水及齒木。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc28" class="latin">
+msgctxt "lzh-mu-bi-pm:224.1"
+msgid "pācittiya 28"
+msgstr "pācittiya 28"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:225.1"
+msgid "若復苾芻尼知水有虫受用者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc29" class="latin">
+msgctxt "lzh-mu-bi-pm:226.1"
+msgid "pācittiya 29"
+msgstr "pācittiya 29"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:227.1"
+msgid "若復苾芻尼自手授與無衣外道及餘外道男女食者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc30" class="latin">
+msgctxt "lzh-mu-bi-pm:228.1"
+msgid "pācittiya 30"
+msgstr "pācittiya 30"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:229.1"
+msgid "若復苾芻尼往觀整裝軍者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:230.1"
+msgid "第四攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:231.1"
+msgid "觀軍二打擬　　覆罪詣俗家"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:231.2"
+msgid "然火與欲過　　說欲非障法"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:232.1"
+msgid "<span class=\"add latin\">Chapter 4</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc31" class="latin">
+msgctxt "lzh-mu-bi-pm:233.1"
+msgid "pācittiya 31"
+msgstr "pācittiya 31"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:234.1"
+msgid "若復苾芻尼有因緣往軍中。應齊二夜。若過宿者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc32" class="latin">
+msgctxt "lzh-mu-bi-pm:235.1"
+msgid "pācittiya 32"
+msgstr "pācittiya 32"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:236.1"
+msgid "若復苾芻尼在軍中宿經二夜。觀整裝軍。見先旗兵。及看布陣散兵者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc33" class="latin">
+msgctxt "lzh-mu-bi-pm:237.1"
+msgid "pācittiya 33"
+msgstr "pācittiya 33"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:238.1"
+msgid "若復苾芻尼瞋恚故不喜。打苾芻尼者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc34" class="latin">
+msgctxt "lzh-mu-bi-pm:239.1"
+msgid "pācittiya 34"
+msgstr "pācittiya 34"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:240.1"
+msgid "若復苾芻尼瞋恚故不喜。擬手向苾芻尼者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc35" class="latin">
+msgctxt "lzh-mu-bi-pm:241.1"
+msgid "pācittiya 35"
+msgstr "pācittiya 35"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:242.1"
+msgid "若復苾芻尼知他苾芻尼有<span class=\"t-gaiji\">麁<!--gaiji,麤,1[色-巴+鹿],2&#x9E81;,3--> </span>惡罪。覆藏者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc36" class="latin">
+msgctxt "lzh-mu-bi-pm:243.1"
+msgid "pācittiya 36"
+msgstr "pācittiya 36"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="42"></a>
+msgctxt "lzh-mu-bi-pm:244.1"
+msgid "若復苾芻尼語餘苾芻尼。作如是語。具壽。共汝詣俗家。當與汝美好飲食令得飽滿。彼苾芻尼至俗家竟。不與食。語言。具壽。汝去。我與汝共坐共語不樂。我獨坐獨語樂。作是語時。欲令生惱者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc37" class="latin">
+msgctxt "lzh-mu-bi-pm:245.1"
+msgid "pācittiya 37"
+msgstr "pācittiya 37"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:246.1"
+msgid "若復苾芻尼無病為身。若自然火。若教他然者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc38" class="latin">
+msgctxt "lzh-mu-bi-pm:247.1"
+msgid "pācittiya 38"
+msgstr "pācittiya 38"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:248.1"
+msgid "若復苾芻尼。與他欲已。後便悔言。還我欲來。不與汝者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc39" class="latin">
+msgctxt "lzh-mu-bi-pm:249.1"
+msgid "pācittiya 39"
+msgstr "pācittiya 39"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:250.1"
+msgid "若復苾芻尼與未近圓人同室宿。過二夜者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc40" class="latin">
+msgctxt "lzh-mu-bi-pm:251.1"
+msgid "pācittiya 40"
+msgstr "pācittiya 40"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="43"></a>
+msgctxt "lzh-mu-bi-pm:252.1"
+msgid "若復苾芻尼作如是語。我知佛所說法。欲是障礙者。習行之時非是障礙。諸苾芻尼應語彼苾芻尼言。具壽。汝莫作是語。我知佛所說。欲是障礙法者。習行之時非是障礙。汝莫謗世尊。謗世尊者不善。世尊不作是語。世尊以無量門。於諸欲法說為障礙。汝可棄捨如是惡見。諸苾芻尼如是諫時。捨者善。若不捨者。乃至二三隨正應諫。隨正應教令捨是事。捨者善。若不捨者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:253.1"
+msgid "第五攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:254.1"
+msgid "與惡見同宿　　求寂壞色衣"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:254.2"
+msgid "捉寶洗傍生　　惱指水同宿◎"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:255.1"
+msgid "<span class=\"add latin\">Chapter 5</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc41" class="latin">
+msgctxt "lzh-mu-bi-pm:256.1"
+msgid "pācittiya 41"
+msgstr "pācittiya 41"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:257.1"
+msgid "◎若復苾芻尼知如是語人。未為隨法不捨惡見。共為言說共住受用。同室而宿者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc42" class="latin">
+msgctxt "lzh-mu-bi-pm:258.1"
+msgid "pācittiya 42"
+msgstr "pācittiya 42"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="44"></a>
+msgctxt "lzh-mu-bi-pm:259.1"
+msgid "若復苾芻尼見有求寂女。作如是語。我知佛所說法。欲是障礙者。習行之時非是障礙。諸苾芻尼應語彼求寂女言。汝莫作是語。我知佛所說。欲是障礙法者。習行之時非是障礙。汝莫謗世尊。謗世尊者不善。世尊不作是語。世尊以無量門。於諸欲法說為障礙。汝可棄捨如是惡見。諸苾芻尼語彼求寂女時。捨此事者善。若不捨者。乃至二三隨正應諫。隨正應教。令捨是事。捨者善。若不捨者。諸苾芻尼應語彼求寂女言。汝從今已去。不應說言。如來應正等覺是我大師。若有尊宿及同梵行者。不應隨行。如餘求寂女。得與苾芻尼二夜同宿。汝今無是事。汝愚癡人。可速滅去。若苾芻尼知是被擯求寂女而攝受饒益。同室宿者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc43" class="latin">
+msgctxt "lzh-mu-bi-pm:260.1"
+msgid "pācittiya 43"
+msgstr "pācittiya 43"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:261.1"
+msgid "若復苾芻尼得新衣。當作三種染壞色。若青若泥若赤。隨一而壞。若不作三種壞色而受用者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc44" class="latin">
+msgctxt "lzh-mu-bi-pm:262.1"
+msgid "pācittiya 44"
+msgstr "pācittiya 44"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="45"></a>
+msgctxt "lzh-mu-bi-pm:263.1"
+msgid "若復苾芻尼寶及寶類。若自捉若教人捉。除在寺內及白衣舍。波逸底迦。若在寺內及白衣舍。見寶及寶類。應作是念。然後當取。若有認者我當與之。此是時。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc45" class="latin">
+msgctxt "lzh-mu-bi-pm:264.1"
+msgid "pācittiya 45"
+msgstr "pācittiya 45"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="46"></a>
+msgctxt "lzh-mu-bi-pm:265.1"
+msgid "若復苾芻尼半月應洗浴。故違而浴者。除餘時波逸底迦。餘時者。熱時病時。作時行時。風時雨時風雨時。此是時。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc46" class="latin">
+msgctxt "lzh-mu-bi-pm:266.1"
+msgid "pācittiya 46"
+msgstr "pācittiya 46"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:267.1"
+msgid "若復苾芻尼故斷傍生命者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc47" class="latin">
+msgctxt "lzh-mu-bi-pm:268.1"
+msgid "pācittiya 47"
+msgstr "pācittiya 47"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:269.1"
+msgid "若復苾芻尼故惱他苾芻尼。乃至少時不樂。以此為緣者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc48" class="latin">
+msgctxt "lzh-mu-bi-pm:270.1"
+msgid "pācittiya 48"
+msgstr "pācittiya 48"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:271.1"
+msgid "若復苾芻尼以指擊<span class=\"t-gaiji\">攊<!--gaiji,擽,1[打-丁+歷],2&#x650A;,3--> </span>他者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc49" class="latin">
+msgctxt "lzh-mu-bi-pm:272.1"
+msgid "pācittiya 49"
+msgstr "pācittiya 49"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:273.1"
+msgid "若復苾芻尼水中戲者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc50" class="latin">
+msgctxt "lzh-mu-bi-pm:274.1"
+msgid "pācittiya 50"
+msgstr "pācittiya 50"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:275.1"
+msgid "若復苾芻尼共男子同室宿者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:276.1"
+msgid "第六攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:277.1"
+msgid "怖藏瞋二道　　掘地四月請"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:277.2"
+msgid "拒教竊聽言　　默然從座起"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:278.1"
+msgid "<span class=\"add latin\">Chapter 6</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc51" class="latin">
+msgctxt "lzh-mu-bi-pm:279.1"
+msgid "pācittiya 51"
+msgstr "pācittiya 51"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:280.1"
+msgid "若復苾芻尼若自恐怖。若教人恐怖他苾芻尼。下至戲笑者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc52" class="latin">
+msgctxt "lzh-mu-bi-pm:281.1"
+msgid "pācittiya 52"
+msgstr "pācittiya 52"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:282.1"
+msgid "若復苾芻尼自藏苾芻苾芻尼。若正學女求寂求寂女衣<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。及餘資具若教人藏者。除餘緣故。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc53" class="latin">
+msgctxt "lzh-mu-bi-pm:283.1"
+msgid "pācittiya 53"
+msgstr "pācittiya 53"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:284.1"
+msgid "若復苾芻尼瞋恚故。知彼苾芻尼清淨無犯以無根僧伽伐尸沙法謗者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc54" class="latin">
+msgctxt "lzh-mu-bi-pm:285.1"
+msgid "pācittiya 54"
+msgstr "pācittiya 54"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:286.1"
+msgid "若復苾芻尼共男子同道行。更無女人。乃至一村間者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc55" class="latin">
+msgctxt "lzh-mu-bi-pm:287.1"
+msgid "pācittiya 55"
+msgstr "pācittiya 55"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:288.1"
+msgid "若復苾芻尼與賊商旅共同道行。乃至一村間者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc56" class="latin">
+msgctxt "lzh-mu-bi-pm:289.1"
+msgid "pācittiya 56"
+msgstr "pācittiya 56"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:290.1"
+msgid "若復苾芻尼自手掘地。若教人掘者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc57" class="latin">
+msgctxt "lzh-mu-bi-pm:291.1"
+msgid "pācittiya 57"
+msgstr "pācittiya 57"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:292.1"
+msgid "若復苾芻尼有四月請。須時應受。若過受者。除餘時。波逸底迦。餘時者。謂別請更請。慇懃請常請。此是時。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc58" class="latin">
+msgctxt "lzh-mu-bi-pm:293.1"
+msgid "pācittiya 58"
+msgstr "pācittiya 58"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="47"></a>
+msgctxt "lzh-mu-bi-pm:294.1"
+msgid "若復苾芻尼聞諸苾芻尼作如是語。具壽。仁今當習如是學處。彼作是語。我實不能用。汝愚癡不分明不善解者。所說之言。受行學處。我若見餘善閑三藏。當隨彼言而受行者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc59" class="latin">
+msgctxt "lzh-mu-bi-pm:295.1"
+msgid "pācittiya 59"
+msgstr "pācittiya 59"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="48"></a>
+msgctxt "lzh-mu-bi-pm:296.1"
+msgid "若苾芻尼實欲求解彼者。當問三藏。此是時。若復苾芻尼知餘苾芻尼評論事生求過紛擾諍競而住。默然往彼聽其所說。作如是念。我欲聽已。當令<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>亂。以此為緣者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc60" class="latin">
+msgctxt "lzh-mu-bi-pm:297.1"
+msgid "pācittiya 60"
+msgstr "pācittiya 60"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:298.1"
+msgid "若復苾芻尼知眾如法評論事時。默然從座起去。有苾芻尼不囑授者。除餘緣故。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:299.1"
+msgid "第七攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:300.1"
+msgid "不恭敬飲酒　　入聚往餘家"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:300.2"
+msgid "明相攝耳筒　　床足綿敷具"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:301.1"
+msgid "<span class=\"add latin\">Chapter 7</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc61" class="latin">
+msgctxt "lzh-mu-bi-pm:302.1"
+msgid "pācittiya 61"
+msgstr "pācittiya 61"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:303.1"
+msgid "若復苾芻尼不恭敬者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc62" class="latin">
+msgctxt "lzh-mu-bi-pm:304.1"
+msgid "pācittiya 62"
+msgstr "pācittiya 62"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:305.1"
+msgid "若復苾芻尼飲諸酒者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc63" class="latin">
+msgctxt "lzh-mu-bi-pm:306.1"
+msgid "pācittiya 63"
+msgstr "pācittiya 63"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:307.1"
+msgid "若復苾芻尼非時入聚落。不囑餘苾芻尼。除餘緣。故波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc64" class="latin">
+msgctxt "lzh-mu-bi-pm:308.1"
+msgid "pācittiya 64"
+msgstr "pācittiya 64"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:309.1"
+msgid "若復苾芻尼受食家請。食前食後行詣餘家。不囑授者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc65" class="latin">
+msgctxt "lzh-mu-bi-pm:310.1"
+msgid "pācittiya 65"
+msgstr "pācittiya 65"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:311.1"
+msgid "若復苾芻尼明相未出。剎帝利灌頂王未藏寶及寶類。若入過宮門閫者。除餘緣故波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc66" class="latin">
+msgctxt "lzh-mu-bi-pm:312.1"
+msgid "pācittiya 66"
+msgstr "pācittiya 66"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="49"></a>
+msgctxt "lzh-mu-bi-pm:313.1"
+msgid "若復苾芻尼半月半月說戒經時。作如是語。具壽。我今始知。是法戒經中說。諸苾芻尼知是苾芻尼。若二若三同作長淨。況復過此。應語彼言。具壽。非不知故得免其罪。汝所犯罪應如法說悔。當勸喻言。具壽。此法希奇難可逢遇。汝說戒時。不恭敬不住心。不慇重不作意。不一想不攝耳。不策念而聽法者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc67" class="latin">
+msgctxt "lzh-mu-bi-pm:314.1"
+msgid "pācittiya 67"
+msgstr "pācittiya 67"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:315.1"
+msgid "若復苾芻尼用骨牙角。作針筒成者。應打碎。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc68" class="latin">
+msgctxt "lzh-mu-bi-pm:316.1"
+msgid "pācittiya 68"
+msgstr "pācittiya 68"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:317.1"
+msgid "若復苾芻尼作大木床足。應高佛八指。除入梐木。若過者。應截去。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc69" class="latin">
+msgctxt "lzh-mu-bi-pm:318.1"
+msgid "pācittiya 69"
+msgstr "pācittiya 69"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:319.1"
+msgid "若復苾芻尼以草木綿貯僧床座者。應撤去。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc70" class="latin">
+msgctxt "lzh-mu-bi-pm:320.1"
+msgid "pācittiya 70"
+msgstr "pācittiya 70"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="50"></a>
+msgctxt "lzh-mu-bi-pm:321.1"
+msgid "若復苾芻尼作尼師但那。當應量作。是中量者。長佛二張手。廣一張手半長廣中。更增一張手。若過作者。應截去。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:322.1"
+msgid "第八攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:323.1"
+msgid "覆瘡佛衣量　　蒜剃洗手拍"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:323.2"
+msgid "自煮食水灑　　生草棄牆外"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:324.1"
+msgid "<span class=\"add latin\">Chapter 8</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc71" class="latin">
+msgctxt "lzh-mu-bi-pm:325.1"
+msgid "pācittiya 71"
+msgstr "pācittiya 71"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:326.1"
+msgid "若復苾芻尼作覆瘡衣。當應量作。是中量者。長佛四張手。廣二張手。若過作者。應截去。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc72" class="latin">
+msgctxt "lzh-mu-bi-pm:327.1"
+msgid "pācittiya 72"
+msgstr "pācittiya 72"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:328.1"
+msgid "若復苾芻尼同佛衣量作衣。或復過者。波逸底迦。是中佛衣量者。長佛十張手。廣六張手。此是佛衣量。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc73" class="latin">
+msgctxt "lzh-mu-bi-pm:329.1"
+msgid "pācittiya 73"
+msgstr "pācittiya 73"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:330.1"
+msgid "若復苾芻尼噉蒜者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc74" class="latin">
+msgctxt "lzh-mu-bi-pm:331.1"
+msgid "pācittiya 74"
+msgstr "pācittiya 74"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:332.1"
+msgid "若復苾芻尼剃隱處毛者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc75" class="latin">
+msgctxt "lzh-mu-bi-pm:333.1"
+msgid "pācittiya 75"
+msgstr "pācittiya 75"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:334.1"
+msgid "若復苾芻尼若洗淨時。應齊二指節。若過者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc76" class="latin">
+msgctxt "lzh-mu-bi-pm:335.1"
+msgid "pācittiya 76"
+msgstr "pācittiya 76"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:336.1"
+msgid "若復苾芻尼以手拍隱處者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc77" class="latin">
+msgctxt "lzh-mu-bi-pm:337.1"
+msgid "pācittiya 77"
+msgstr "pācittiya 77"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:338.1"
+msgid "若復苾芻尼自手煮生食者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc78" class="latin">
+msgctxt "lzh-mu-bi-pm:339.1"
+msgid "pācittiya 78"
+msgstr "pācittiya 78"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:340.1"
+msgid "若復苾芻尼以水灑上眾者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc79" class="latin">
+msgctxt "lzh-mu-bi-pm:341.1"
+msgid "pācittiya 79"
+msgstr "pācittiya 79"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:342.1"
+msgid "若復苾芻尼在生草上。大小便洟唾者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc80" class="latin">
+msgctxt "lzh-mu-bi-pm:343.1"
+msgid "pācittiya 80"
+msgstr "pācittiya 80"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:344.1"
+msgid "若復苾芻尼不善觀察。以不淨棄牆外者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:345.1"
+msgid "第九攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:346.1"
+msgid "為獨有五種　　由耳語有四"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:346.2"
+msgid "若懷瞋恚心　　椎胸皆不合"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:347.1"
+msgid "<span class=\"add latin\">Chapter 9</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc81" class="latin">
+msgctxt "lzh-mu-bi-pm:348.1"
+msgid "pācittiya 81"
+msgstr "pācittiya 81"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:349.1"
+msgid "若復苾芻尼獨與男子在屏處立者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc82" class="latin">
+msgctxt "lzh-mu-bi-pm:350.1"
+msgid "pācittiya 82"
+msgstr "pācittiya 82"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:351.1"
+msgid "若復苾芻尼獨與苾芻在屏處立者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc83" class="latin">
+msgctxt "lzh-mu-bi-pm:352.1"
+msgid "pācittiya 83"
+msgstr "pācittiya 83"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:353.1"
+msgid "若復苾芻尼獨與男子在露處立者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc84" class="latin">
+msgctxt "lzh-mu-bi-pm:354.1"
+msgid "pācittiya 84"
+msgstr "pācittiya 84"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:355.1"
+msgid "若復苾芻尼獨與苾芻在露處立者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc85" class="latin">
+msgctxt "lzh-mu-bi-pm:356.1"
+msgid "pācittiya 85"
+msgstr "pācittiya 85"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:357.1"
+msgid "若復苾芻尼獨住一房者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc86" class="latin">
+msgctxt "lzh-mu-bi-pm:358.1"
+msgid "pācittiya 86"
+msgstr "pācittiya 86"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:359.1"
+msgid "若復苾芻尼共男子耳語者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc87" class="latin">
+msgctxt "lzh-mu-bi-pm:360.1"
+msgid "pācittiya 87"
+msgstr "pācittiya 87"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:361.1"
+msgid "若復苾芻尼受男子耳語者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc88" class="latin">
+msgctxt "lzh-mu-bi-pm:362.1"
+msgid "pācittiya 88"
+msgstr "pācittiya 88"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:363.1"
+msgid "若復苾芻尼共苾芻耳語者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc89" class="latin">
+msgctxt "lzh-mu-bi-pm:364.1"
+msgid "pācittiya 89"
+msgstr "pācittiya 89"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:365.1"
+msgid "若復苾芻尼受苾芻耳語者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc90" class="latin">
+msgctxt "lzh-mu-bi-pm:366.1"
+msgid "pācittiya 90"
+msgstr "pācittiya 90"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:367.1"
+msgid "若復苾芻尼瞋恚故。便自椎胸生苦痛者波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:368.1"
+msgid "第十攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:369.1"
+msgid "<span class=\"t-gaiji\">呪<!--gaiji,咒,1[口*兄],2&#x546A;,3--> </span>誓不觀事　　坐床以樹膠"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:369.2"
+msgid "在四白衣家　　看病不同臥"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:370.1"
+msgid "<span class=\"add latin\">Chapter 10</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc91" class="latin">
+msgctxt "lzh-mu-bi-pm:371.1"
+msgid "pācittiya 91"
+msgstr "pācittiya 91"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:372.1"
+msgid "若復苾芻尼以自梵行而為<span class=\"t-gaiji\">呪<!--gaiji,咒,1[口*兄],2&#x546A;,3--> </span>誓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc92" class="latin">
+msgctxt "lzh-mu-bi-pm:373.1"
+msgid "pācittiya 92"
+msgstr "pācittiya 92"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:374.1"
+msgid "若復苾芻尼不善觀事而詰他者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc93" class="latin">
+msgctxt "lzh-mu-bi-pm:375.1"
+msgid "pācittiya 93"
+msgstr "pācittiya 93"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:376.1"
+msgid "若復苾芻尼於屏闇處。不觀床座而坐臥者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc94" class="latin">
+msgctxt "lzh-mu-bi-pm:377.1"
+msgid "pācittiya 94"
+msgstr "pācittiya 94"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:378.1"
+msgid "若復苾芻尼以樹膠作生支者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc95" class="latin">
+msgctxt "lzh-mu-bi-pm:379.1"
+msgid "pācittiya 95"
+msgstr "pācittiya 95"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:380.1"
+msgid "若復苾芻尼在白衣家說法去時。不囑授家主收攝臥具者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc96" class="latin">
+msgctxt "lzh-mu-bi-pm:381.1"
+msgid "pācittiya 96"
+msgstr "pācittiya 96"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:382.1"
+msgid "若復苾芻尼在白衣家主人未許。於床座上輒坐者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc97" class="latin">
+msgctxt "lzh-mu-bi-pm:383.1"
+msgid "pācittiya 97"
+msgstr "pācittiya 97"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:384.1"
+msgid "若復苾芻尼在白衣家。不問主人輒坐者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc98" class="latin">
+msgctxt "lzh-mu-bi-pm:385.1"
+msgid "pācittiya 98"
+msgstr "pācittiya 98"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:386.1"
+msgid "若復苾芻尼知苾芻尼先在白衣家。後來令他去者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc99" class="latin">
+msgctxt "lzh-mu-bi-pm:387.1"
+msgid "pācittiya 99"
+msgstr "pācittiya 99"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:388.1"
+msgid "若復苾芻尼於親弟子及依止弟子。見有病患不瞻侍者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc100" class="latin">
+msgctxt "lzh-mu-bi-pm:389.1"
+msgid "pācittiya 100"
+msgstr "pācittiya 100"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:390.1"
+msgid "若復苾芻尼二尼同一床臥者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:391.1"
+msgid "第十一攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:392.1"
+msgid "二安居二怖　　天祠未滿年"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:392.2"
+msgid "畜眾二嫁人　　僧未與無限"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:393.1"
+msgid "<span class=\"add latin\">Chapter 11</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc101" class="latin">
+msgctxt "lzh-mu-bi-pm:394.1"
+msgid "pācittiya 101"
+msgstr "pācittiya 101"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:395.1"
+msgid "若復苾芻尼夏安居未為。隨意人間遊行者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc102" class="latin">
+msgctxt "lzh-mu-bi-pm:396.1"
+msgid "pācittiya 102"
+msgstr "pācittiya 102"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:397.1"
+msgid "若復苾芻尼夏安居。滿不離舊處人間遊行者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc103" class="latin">
+msgctxt "lzh-mu-bi-pm:398.1"
+msgid "pācittiya 103"
+msgstr "pācittiya 103"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:399.1"
+msgid "若復苾芻尼知王國中有賊怖處。而遊行者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc104" class="latin">
+msgctxt "lzh-mu-bi-pm:400.1"
+msgid "pācittiya 104"
+msgstr "pācittiya 104"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:401.1"
+msgid "若復苾芻尼知彼處所有虎狼師子怖。而遊行者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc105" class="latin">
+msgctxt "lzh-mu-bi-pm:402.1"
+msgid "pācittiya 105"
+msgstr "pācittiya 105"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:403.1"
+msgid "若復苾芻尼往天祠中作論議者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc106" class="latin">
+msgctxt "lzh-mu-bi-pm:404.1"
+msgid "pācittiya 106"
+msgstr "pācittiya 106"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:405.1"
+msgid "若復苾芻尼未滿十二歲。與他出家受近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc107" class="latin">
+msgctxt "lzh-mu-bi-pm:406.1"
+msgid "pācittiya 107"
+msgstr "pācittiya 107"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:407.1"
+msgid "若復苾芻尼僧伽未與畜眾法。輒畜弟子者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc108" class="latin">
+msgctxt "lzh-mu-bi-pm:408.1"
+msgid "pācittiya 108"
+msgstr "pācittiya 108"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:409.1"
+msgid "若復苾芻尼知曾嫁女人年未滿十二。與出家者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc109" class="latin">
+msgctxt "lzh-mu-bi-pm:410.1"
+msgid "pācittiya 109"
+msgstr "pācittiya 109"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:411.1"
+msgid "若復苾芻尼知曾嫁女人年滿十二。不與正學法而受近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc110" class="latin">
+msgctxt "lzh-mu-bi-pm:412.1"
+msgid "pācittiya 110"
+msgstr "pācittiya 110"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:413.1"
+msgid "若復苾芻尼僧伽未與無限畜眾法。輒多畜者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:414.1"
+msgid "第十二攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:415.1"
+msgid "度娠不教誡　　不護不隨身"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:415.2"
+msgid "二童女惡人　　多憂二六法"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:416.1"
+msgid "<span class=\"add latin\">Chapter 12</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc111" class="latin">
+msgctxt "lzh-mu-bi-pm:417.1"
+msgid "pācittiya 111"
+msgstr "pācittiya 111"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:418.1"
+msgid "若復苾芻尼度有娠女人出家者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc112" class="latin">
+msgctxt "lzh-mu-bi-pm:419.1"
+msgid "pācittiya 112"
+msgstr "pācittiya 112"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:420.1"
+msgid "若復苾芻尼與他出家。并受近圓不教誡者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc113" class="latin">
+msgctxt "lzh-mu-bi-pm:421.1"
+msgid "pācittiya 113"
+msgstr "pācittiya 113"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:422.1"
+msgid "若復苾芻尼與他出家。并受近圓。不攝受衛護者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc114" class="latin">
+msgctxt "lzh-mu-bi-pm:423.1"
+msgid "pācittiya 114"
+msgstr "pācittiya 114"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:424.1"
+msgid "若復苾芻尼與他出家。不將隨身去者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc115" class="latin">
+msgctxt "lzh-mu-bi-pm:425.1"
+msgid "pācittiya 115"
+msgstr "pācittiya 115"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:426.1"
+msgid "若復苾芻尼知童女年未滿二十。與受近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc116" class="latin">
+msgctxt "lzh-mu-bi-pm:427.1"
+msgid "pācittiya 116"
+msgstr "pācittiya 116"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:428.1"
+msgid "若復苾芻尼知童女年滿二十。不與二歲學六法六隨法。即受近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc117" class="latin">
+msgctxt "lzh-mu-bi-pm:429.1"
+msgid "pācittiya 117"
+msgstr "pācittiya 117"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:430.1"
+msgid "若復苾芻尼知惡性女人好為<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>諍。與出家者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc118" class="latin">
+msgctxt "lzh-mu-bi-pm:431.1"
+msgid "pācittiya 118"
+msgstr "pācittiya 118"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:432.1"
+msgid "若復苾芻尼知多憂惱女人度出家者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc119" class="latin">
+msgctxt "lzh-mu-bi-pm:433.1"
+msgid "pācittiya 119"
+msgstr "pācittiya 119"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:434.1"
+msgid "若復苾芻尼知女人未滿二歲學六法六隨法。與受近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc120" class="latin">
+msgctxt "lzh-mu-bi-pm:435.1"
+msgid "pācittiya 120"
+msgstr "pācittiya 120"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:436.1"
+msgid "若復苾芻尼知女人二歲。學六法及六隨法了。不與受近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:437.1"
+msgid "第十三攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:438.1"
+msgid "未放與我衣　　收斂年年受"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:438.2"
+msgid "欲半月無僧　　安居隨意責"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:439.1"
+msgid "<span class=\"add latin\">Chapter 13</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc121" class="latin">
+msgctxt "lzh-mu-bi-pm:440.1"
+msgid "pācittiya 121"
+msgstr "pācittiya 121"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:441.1"
+msgid "若復苾芻尼知他婦女夫主未放。度出家者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc122" class="latin">
+msgctxt "lzh-mu-bi-pm:442.1"
+msgid "pācittiya 122"
+msgstr "pācittiya 122"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:443.1"
+msgid "若復苾芻尼知彼女人希受近圓。告云汝與我衣。當授汝近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc123" class="latin">
+msgctxt "lzh-mu-bi-pm:444.1"
+msgid "pācittiya 123"
+msgstr "pācittiya 123"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:445.1"
+msgid "若復苾芻尼報俗女云。汝應收斂家業。我當與汝出家。如教作訖。不度出家者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc124" class="latin">
+msgctxt "lzh-mu-bi-pm:446.1"
+msgid "pācittiya 124"
+msgstr "pācittiya 124"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:447.1"
+msgid "若復苾芻尼於每年中。與他出家及受近圓者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc125" class="latin">
+msgctxt "lzh-mu-bi-pm:448.1"
+msgid "pācittiya 125"
+msgstr "pācittiya 125"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:449.1"
+msgid "若復苾芻尼經宿與欲者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc126" class="latin">
+msgctxt "lzh-mu-bi-pm:450.1"
+msgid "pācittiya 126"
+msgstr "pācittiya 126"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:451.1"
+msgid "若復苾芻尼半月半月應求教授。若不求者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc127" class="latin">
+msgctxt "lzh-mu-bi-pm:452.1"
+msgid "pācittiya 127"
+msgstr "pācittiya 127"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:453.1"
+msgid "若復苾芻尼無苾芻處作長淨者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc128" class="latin">
+msgctxt "lzh-mu-bi-pm:454.1"
+msgid "pācittiya 128"
+msgstr "pācittiya 128"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:455.1"
+msgid "若復苾芻尼無苾芻處作安居者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc129" class="latin">
+msgctxt "lzh-mu-bi-pm:456.1"
+msgid "pācittiya 129"
+msgstr "pācittiya 129"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:457.1"
+msgid "若復苾芻尼安居了。不於二部眾中。以三事作隨意者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc130" class="latin">
+msgctxt "lzh-mu-bi-pm:458.1"
+msgid "pācittiya 130"
+msgstr "pācittiya 130"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:459.1"
+msgid "若復苾芻尼訶責眾者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:460.1"
+msgid "第十四攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:461.1"
+msgid "罵眾五種慳　　讚家寺食法"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:461.2"
+msgid "更食給孩子　　洗裙令浣衣"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:462.1"
+msgid "<span class=\"add latin\">Chapter 14</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc131" class="latin">
+msgctxt "lzh-mu-bi-pm:463.1"
+msgid "pācittiya 131"
+msgstr "pācittiya 131"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:464.1"
+msgid "若復苾芻尼罵眾者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc132" class="latin">
+msgctxt "lzh-mu-bi-pm:465.1"
+msgid "pācittiya 132"
+msgstr "pācittiya 132"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:466.1"
+msgid "若復苾芻尼見讚歎他起慳嫉心者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc133" class="latin">
+msgctxt "lzh-mu-bi-pm:467.1"
+msgid "pācittiya 133"
+msgstr "pācittiya 133"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:468.1"
+msgid "若復苾芻尼於家慳者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc134" class="latin">
+msgctxt "lzh-mu-bi-pm:469.1"
+msgid "pācittiya 134"
+msgstr "pācittiya 134"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:470.1"
+msgid "若復苾芻尼於寺慳者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc135" class="latin">
+msgctxt "lzh-mu-bi-pm:471.1"
+msgid "pācittiya 135"
+msgstr "pācittiya 135"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:472.1"
+msgid "若復苾芻尼於利養飲食慳者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc136" class="latin">
+msgctxt "lzh-mu-bi-pm:473.1"
+msgid "pācittiya 136"
+msgstr "pācittiya 136"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:474.1"
+msgid "若復苾芻尼慳法者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc137" class="latin">
+msgctxt "lzh-mu-bi-pm:475.1"
+msgid "pācittiya 137"
+msgstr "pācittiya 137"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:476.1"
+msgid "若復苾芻尼食竟更食者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc138" class="latin">
+msgctxt "lzh-mu-bi-pm:477.1"
+msgid "pācittiya 138"
+msgstr "pācittiya 138"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:478.1"
+msgid "若復苾芻尼給養他孩兒者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc139" class="latin">
+msgctxt "lzh-mu-bi-pm:479.1"
+msgid "pācittiya 139"
+msgstr "pācittiya 139"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:480.1"
+msgid "若復苾芻尼不畜洗裙者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc140" class="latin">
+msgctxt "lzh-mu-bi-pm:481.1"
+msgid "pācittiya 140"
+msgstr "pācittiya 140"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:482.1"
+msgid "若復苾芻尼令浣衣人洗衣者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:483.1"
+msgid "第十五攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:484.1"
+msgid "上眾沙門衣　　二病衣從乞"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:484.2"
+msgid "不共出不分　　<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>不囑學<span class=\"t-gaiji\">呪<!--gaiji,咒,1[口*兄],2&#x546A;,3--> </span>"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:485.1"
+msgid "<span class=\"add latin\">Chapter 15</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc141" class="latin">
+msgctxt "lzh-mu-bi-pm:486.1"
+msgid "pācittiya 141"
+msgstr "pācittiya 141"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:487.1"
+msgid "若復苾芻尼共上眾換衣者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc142" class="latin">
+msgctxt "lzh-mu-bi-pm:488.1"
+msgid "pācittiya 142"
+msgstr "pācittiya 142"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:489.1"
+msgid "若復苾芻尼輒將沙門法衣與俗人者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc143" class="latin">
+msgctxt "lzh-mu-bi-pm:490.1"
+msgid "pācittiya 143"
+msgstr "pācittiya 143"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:491.1"
+msgid "若復苾芻尼不畜病衣者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc144" class="latin">
+msgctxt "lzh-mu-bi-pm:492.1"
+msgid "pācittiya 144"
+msgstr "pācittiya 144"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:493.1"
+msgid "若復苾芻尼大眾病衣將私用者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc145" class="latin">
+msgctxt "lzh-mu-bi-pm:494.1"
+msgid "pācittiya 145"
+msgstr "pācittiya 145"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:495.1"
+msgid "若復苾芻尼知是貧人。從乞羯恥那衣者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc146" class="latin">
+msgctxt "lzh-mu-bi-pm:496.1"
+msgid "pācittiya 146"
+msgstr "pācittiya 146"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:497.1"
+msgid "若復苾芻尼不共出羯恥那衣者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc147" class="latin">
+msgctxt "lzh-mu-bi-pm:498.1"
+msgid "pācittiya 147"
+msgstr "pācittiya 147"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:499.1"
+msgid "若復苾芻尼不共他分衣者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc148" class="latin">
+msgctxt "lzh-mu-bi-pm:500.1"
+msgid "pācittiya 148"
+msgstr "pācittiya 148"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:501.1"
+msgid "若復苾芻尼自知有力。見他尼<span class=\"t-gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>不勸止息者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc149" class="latin">
+msgctxt "lzh-mu-bi-pm:502.1"
+msgid "pācittiya 149"
+msgstr "pācittiya 149"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:503.1"
+msgid "若復苾芻尼棄住處不囑授者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc150" class="latin">
+msgctxt "lzh-mu-bi-pm:504.1"
+msgid "pācittiya 150"
+msgstr "pācittiya 150"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:505.1"
+msgid "若復苾芻尼從俗人受學<span class=\"t-gaiji\">呪<!--gaiji,咒,1[口*兄],2&#x546A;,3--> </span>法者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:506.1"
+msgid "第十六攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:507.1"
+msgid "教<span class=\"t-gaiji\">呪<!--gaiji,咒,1[口*兄],2&#x546A;,3--> </span>法賣<span class=\"t-gaiji\">麨<!--gaiji,,1[麩-夫+少],2&#x9EA8;,3--> </span>　　營理使他尼"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:507.2"
+msgid "撚縷織蓋行　　鞋瘡度婬女"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:508.1"
+msgid "<span class=\"add latin\">Chapter 16</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc151" class="latin">
+msgctxt "lzh-mu-bi-pm:509.1"
+msgid "pācittiya 151"
+msgstr "pācittiya 151"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:510.1"
+msgid "若復苾芻尼教俗人<span class=\"t-gaiji\">呪<!--gaiji,咒,1[口*兄],2&#x546A;,3--> </span>法者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc152" class="latin">
+msgctxt "lzh-mu-bi-pm:511.1"
+msgid "pācittiya 152"
+msgstr "pācittiya 152"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:512.1"
+msgid "若復苾芻尼賣<span class=\"t-gaiji\">麨<!--gaiji,,1[麩-夫+少],2&#x9EA8;,3--> </span>食者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc153" class="latin">
+msgctxt "lzh-mu-bi-pm:513.1"
+msgid "pācittiya 153"
+msgstr "pācittiya 153"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:514.1"
+msgid "若復苾芻尼營理俗人家務者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc154" class="latin">
+msgctxt "lzh-mu-bi-pm:515.1"
+msgid "pācittiya 154"
+msgstr "pācittiya 154"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:516.1"
+msgid "若復苾芻尼令他諸尼移轉坐床勞倦者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc155" class="latin">
+msgctxt "lzh-mu-bi-pm:517.1"
+msgid "pācittiya 155"
+msgstr "pācittiya 155"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:518.1"
+msgid "若復苾芻尼自手撚縷者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc156" class="latin">
+msgctxt "lzh-mu-bi-pm:519.1"
+msgid "pācittiya 156"
+msgstr "pācittiya 156"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:520.1"
+msgid "若復苾芻尼自織絡者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc157" class="latin">
+msgctxt "lzh-mu-bi-pm:521.1"
+msgid "pācittiya 157"
+msgstr "pācittiya 157"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:522.1"
+msgid "若復苾芻尼持傘蓋行者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc158" class="latin">
+msgctxt "lzh-mu-bi-pm:523.1"
+msgid "pācittiya 158"
+msgstr "pācittiya 158"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:524.1"
+msgid "若復苾芻尼著彩色鞋履者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc159" class="latin">
+msgctxt "lzh-mu-bi-pm:525.1"
+msgid "pācittiya 159"
+msgstr "pācittiya 159"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:526.1"
+msgid "若復苾芻尼臂上有瘡。令他數解數繫者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc160" class="latin">
+msgctxt "lzh-mu-bi-pm:527.1"
+msgid "pācittiya 160"
+msgstr "pācittiya 160"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:528.1"
+msgid "若復苾芻尼度婬女出家者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:529.1"
+msgid "第十七攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:530.1"
+msgid "尼不許揩身　　約人有五別"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:530.2"
+msgid "香及胡麻水　　輒問俗莊嚴"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:531.1"
+msgid "<span class=\"add latin\">Chapter 17</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc161" class="latin">
+msgctxt "lzh-mu-bi-pm:532.1"
+msgid "pācittiya 161"
+msgstr "pācittiya 161"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:533.1"
+msgid "若復苾芻尼使苾芻尼令揩身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc162" class="latin">
+msgctxt "lzh-mu-bi-pm:534.1"
+msgid "pācittiya 162"
+msgstr "pācittiya 162"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:535.1"
+msgid "若復苾芻尼令式叉摩拏女揩身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc163" class="latin">
+msgctxt "lzh-mu-bi-pm:536.1"
+msgid "pācittiya 163"
+msgstr "pācittiya 163"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:537.1"
+msgid "若復苾芻尼使求寂女揩身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc164" class="latin">
+msgctxt "lzh-mu-bi-pm:538.1"
+msgid "pācittiya 164"
+msgstr "pācittiya 164"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:539.1"
+msgid "若復苾芻尼使俗女揩身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc165" class="latin">
+msgctxt "lzh-mu-bi-pm:540.1"
+msgid "pācittiya 165"
+msgstr "pācittiya 165"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:541.1"
+msgid "若復苾芻尼使外道女揩身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc166" class="latin">
+msgctxt "lzh-mu-bi-pm:542.1"
+msgid "pācittiya 166"
+msgstr "pācittiya 166"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:543.1"
+msgid "若復苾芻尼以香塗身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc167" class="latin">
+msgctxt "lzh-mu-bi-pm:544.1"
+msgid "pācittiya 167"
+msgstr "pācittiya 167"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:545.1"
+msgid "若復苾芻尼以胡麻滓揩身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc168" class="latin">
+msgctxt "lzh-mu-bi-pm:546.1"
+msgid "pācittiya 168"
+msgstr "pācittiya 168"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:547.1"
+msgid "若復苾芻尼使他以水揩身者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc169" class="latin">
+msgctxt "lzh-mu-bi-pm:548.1"
+msgid "pācittiya 169"
+msgstr "pācittiya 169"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:549.1"
+msgid "若復苾芻尼不求容許輒請問者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc170" class="latin">
+msgctxt "lzh-mu-bi-pm:550.1"
+msgid "pācittiya 170"
+msgstr "pācittiya 170"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:551.1"
+msgid "若復苾芻尼著俗莊嚴具者。波逸底迦。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:552.1"
+msgid "第十八攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:553.1"
+msgid "相牽舞歌樂　　獨出大小行"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:553.2"
+msgid "刷篦梳三假　　墮罪百八十"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:554.1"
+msgid "<span class=\"add latin\">Chapter 18</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="pc171" class="latin">
+msgctxt "lzh-mu-bi-pm:555.1"
+msgid "pācittiya 171"
+msgstr "pācittiya 171"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:556.1"
+msgid "若復苾芻尼以手相牽河中洗浴者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc172" class="latin">
+msgctxt "lzh-mu-bi-pm:557.1"
+msgid "pācittiya 172"
+msgstr "pācittiya 172"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:558.1"
+msgid "若復苾芻尼自作舞教他作舞者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc173" class="latin">
+msgctxt "lzh-mu-bi-pm:559.1"
+msgid "pācittiya 173"
+msgstr "pācittiya 173"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:560.1"
+msgid "若復苾芻尼唱歌者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc174" class="latin">
+msgctxt "lzh-mu-bi-pm:561.1"
+msgid "pācittiya 174"
+msgstr "pācittiya 174"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:562.1"
+msgid "若復苾芻尼作樂者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc175" class="latin">
+msgctxt "lzh-mu-bi-pm:563.1"
+msgid "pācittiya 175"
+msgstr "pācittiya 175"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:564.1"
+msgid "若復苾芻尼獨出寺外。於空宅內大小行者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc176" class="latin">
+msgctxt "lzh-mu-bi-pm:565.1"
+msgid "pācittiya 176"
+msgstr "pācittiya 176"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:566.1"
+msgid "若復苾芻尼畜香草根刷者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc177" class="latin">
+msgctxt "lzh-mu-bi-pm:567.1"
+msgid "pācittiya 177"
+msgstr "pācittiya 177"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:568.1"
+msgid "若復苾芻尼畜細篦者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc178" class="latin">
+msgctxt "lzh-mu-bi-pm:569.1"
+msgid "pācittiya 178"
+msgstr "pācittiya 178"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:570.1"
+msgid "若復苾芻尼畜<span class=\"t-gaiji\">麁<!--gaiji,麤,1[色-巴+鹿],2&#x9E81;,3--> </span>梳者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc179" class="latin">
+msgctxt "lzh-mu-bi-pm:571.1"
+msgid "pācittiya 179"
+msgstr "pācittiya 179"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:572.1"
+msgid "若復苾芻尼用前三事者。波逸底迦。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pc180" class="latin">
+msgctxt "lzh-mu-bi-pm:573.1"
+msgid "pācittiya 180"
+msgstr "pācittiya 180"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:574.1"
+msgid "若復苾芻尼畜假髻莊具者。波逸底迦。"
+msgstr ""
+
+#. </p><hr><p>
+msgctxt "lzh-mu-bi-pm:575.1"
+msgid "諸大德。我已說一百八十波逸底迦法。今問。諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>。"
+msgstr ""
+
+#. </p><p>
+msgctxt "lzh-mu-bi-pm:576.1"
+msgid "諸大德。是中清淨默然故。我今如是持。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="pd" class="latin">
+msgctxt "lzh-mu-bi-pm:577.1"
+msgid "11 pātidesanīya rules"
+msgstr "11 pātidesanīya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mu-bi-pm:578.1"
+msgid "諸大德。此十一波羅底提舍尼法。半月半月戒經中說。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:579.1"
+msgid "攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana"><a class="sc" id="51"></a>
+msgctxt "lzh-mu-bi-pm:580.1"
+msgid "[1] 乳 [2] 酪及 [3] 生酥　　[4] 熟酥 [5] 油 [6] 糖 [7] 蜜"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:580.2"
+msgid "[8] 魚 [9] 肉并 [10] 乾脯　　得法學人家"
+msgstr ""
+
+#. </p></blockquote><h3>
+msgctxt "lzh-mu-bi-pm:581.1"
+msgid "<span class=\"add latin\">pātidesanīya 1–10</span>"
+msgstr ""
+
+#. </h3><p><a class="sc" id="52"></a>
+msgctxt "lzh-mu-bi-pm:582.1"
+msgid "若復苾芻尼無病為己詣白衣家乞乳。若使人乞而飲用者。是苾芻尼應還。村外住處。詣諸苾芻尼所。各別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。如是酥等乃至乾脯十事乞。皆有犯。如上廣說。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd1" class="latin">
+msgctxt "lzh-mu-bi-pm:583.1"
+msgid "pātidesanīya 1"
+msgstr "pātidesanīya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:584.1"
+msgid "乳"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd2" class="latin">
+msgctxt "lzh-mu-bi-pm:585.1"
+msgid "pātidesanīya 2"
+msgstr "pātidesanīya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:586.1"
+msgid "酪及"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd3" class="latin">
+msgctxt "lzh-mu-bi-pm:587.1"
+msgid "pātidesanīya 3"
+msgstr "pātidesanīya 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:588.1"
+msgid "生酥"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd4" class="latin">
+msgctxt "lzh-mu-bi-pm:589.1"
+msgid "pātidesanīya 4"
+msgstr "pātidesanīya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:590.1"
+msgid "熟酥"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd5" class="latin">
+msgctxt "lzh-mu-bi-pm:591.1"
+msgid "pātidesanīya 5"
+msgstr "pātidesanīya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:592.1"
+msgid "油"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd6" class="latin">
+msgctxt "lzh-mu-bi-pm:593.1"
+msgid "pātidesanīya 6"
+msgstr "pātidesanīya 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:594.1"
+msgid "糖"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd7" class="latin">
+msgctxt "lzh-mu-bi-pm:595.1"
+msgid "pātidesanīya 7"
+msgstr "pātidesanīya 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:596.1"
+msgid "蜜"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd8" class="latin">
+msgctxt "lzh-mu-bi-pm:597.1"
+msgid "pātidesanīya 8"
+msgstr "pātidesanīya 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:598.1"
+msgid "魚"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd9" class="latin">
+msgctxt "lzh-mu-bi-pm:599.1"
+msgid "pātidesanīya 9"
+msgstr "pātidesanīya 9"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:600.1"
+msgid "肉并"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd10" class="latin">
+msgctxt "lzh-mu-bi-pm:601.1"
+msgid "pātidesanīya 10"
+msgstr "pātidesanīya 10"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:602.1"
+msgid "乾脯"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="pd11" class="latin">
+msgctxt "lzh-mu-bi-pm:603.1"
+msgid "pātidesanīya 11"
+msgstr "pātidesanīya 11"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="53"></a>
+msgctxt "lzh-mu-bi-pm:604.1"
+msgid "若復苾芻尼知是學家僧伽。與作學家羯磨。苾芻尼先不受請。便詣彼家自手受食食。是苾芻尼應還村外住處。詣諸苾芻尼所。各別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。"
+msgstr ""
+
+#. </p><hr><p><a class="sc" id="54"></a>
+msgctxt "lzh-mu-bi-pm:605.1"
+msgid "諸大德。我已說十一波羅底提舍尼法。今問。諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>諸大德。是中清淨默然故。我今如是持。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="sk" class="latin">
+msgctxt "lzh-mu-bi-pm:606.1"
+msgid "102 sekhiya rules"
+msgstr "102 sekhiya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mu-bi-pm:607.1"
+msgid "諸大德。此眾學法半月半月戒經中說。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:608.1"
+msgid "總攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:609.1"
+msgid "衣食形齊整　　俗舍善容儀"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:609.2"
+msgid "護<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>除病人　　洟唾過人樹"
+msgstr ""
+
+#. </p></blockquote><h4>
+#. <span class="add"><a id="sk1" class="latin">
+msgctxt "lzh-mu-bi-pm:610.1"
+msgid "sekhiya 1"
+msgstr "sekhiya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:611.1"
+msgid "齊整著裙。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:612.1"
+msgid "<span class=\"add latin\">sekhiya 2–7</span>"
+msgstr ""
+
+#. </h3><a class="sc" id="55"></a><h4>
+#. <span class="add"><a id="sk2" class="latin">
+msgctxt "lzh-mu-bi-pm:613.1"
+msgid "sekhiya 2"
+msgstr "sekhiya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:614.1"
+msgid "不太高。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk3" class="latin">
+msgctxt "lzh-mu-bi-pm:615.1"
+msgid "sekhiya 3"
+msgstr "sekhiya 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:616.1"
+msgid "不大下。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk4" class="latin">
+msgctxt "lzh-mu-bi-pm:617.1"
+msgid "sekhiya 4"
+msgstr "sekhiya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:618.1"
+msgid "不象鼻。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk5" class="latin">
+msgctxt "lzh-mu-bi-pm:619.1"
+msgid "sekhiya 5"
+msgstr "sekhiya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:620.1"
+msgid "不蛇頭。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk6" class="latin">
+msgctxt "lzh-mu-bi-pm:621.1"
+msgid "sekhiya 6"
+msgstr "sekhiya 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:622.1"
+msgid "不多羅葉。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk7" class="latin">
+msgctxt "lzh-mu-bi-pm:623.1"
+msgid "sekhiya 7"
+msgstr "sekhiya 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:624.1"
+msgid "不豆團形。著裙。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk8" class="latin">
+msgctxt "lzh-mu-bi-pm:625.1"
+msgid "sekhiya 8"
+msgstr "sekhiya 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:626.1"
+msgid "齊整著五衣。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:627.1"
+msgid "<span class=\"add latin\">sekhiya 9–14</span>"
+msgstr ""
+
+#. </h3><a class="sc" id="56"></a><h4>
+#. <span class="add"><a id="sk9" class="latin">
+msgctxt "lzh-mu-bi-pm:628.1"
+msgid "sekhiya 9"
+msgstr "sekhiya 9"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:629.1"
+msgid "不太高。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk10" class="latin">
+msgctxt "lzh-mu-bi-pm:630.1"
+msgid "sekhiya 10"
+msgstr "sekhiya 10"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:631.1"
+msgid "不太下。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk11" class="latin">
+msgctxt "lzh-mu-bi-pm:632.1"
+msgid "sekhiya 11"
+msgstr "sekhiya 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:633.1"
+msgid "好正披。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk12" class="latin">
+msgctxt "lzh-mu-bi-pm:634.1"
+msgid "sekhiya 12"
+msgstr "sekhiya 12"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:635.1"
+msgid "好正覆。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk13" class="latin">
+msgctxt "lzh-mu-bi-pm:636.1"
+msgid "sekhiya 13"
+msgstr "sekhiya 13"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:637.1"
+msgid "少語言。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk14" class="latin">
+msgctxt "lzh-mu-bi-pm:638.1"
+msgid "sekhiya 14"
+msgstr "sekhiya 14"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:639.1"
+msgid "不高視。入白衣舍。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk15" class="latin">
+msgctxt "lzh-mu-bi-pm:640.1"
+msgid "sekhiya 15"
+msgstr "sekhiya 15"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:641.1"
+msgid "若月期將至。不應往白衣舍。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:642.1"
+msgid "<span class=\"add latin\">sekhiya 16–20</span>"
+msgstr ""
+
+#. </h3><a class="sc" id="57"></a><h4>
+#. <span class="add"><a id="sk16" class="latin">
+msgctxt "lzh-mu-bi-pm:643.1"
+msgid "sekhiya 16"
+msgstr "sekhiya 16"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:644.1"
+msgid "不覆頭。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk17" class="latin">
+msgctxt "lzh-mu-bi-pm:645.1"
+msgid "sekhiya 17"
+msgstr "sekhiya 17"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:646.1"
+msgid "不偏抄衣。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk18" class="latin">
+msgctxt "lzh-mu-bi-pm:647.1"
+msgid "sekhiya 18"
+msgstr "sekhiya 18"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:648.1"
+msgid "不雙抄衣。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk19" class="latin">
+msgctxt "lzh-mu-bi-pm:649.1"
+msgid "sekhiya 19"
+msgstr "sekhiya 19"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:650.1"
+msgid "不叉腰。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk20" class="latin">
+msgctxt "lzh-mu-bi-pm:651.1"
+msgid "sekhiya 20"
+msgstr "sekhiya 20"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:652.1"
+msgid "不拊肩。入白衣舍。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:653.1"
+msgid "<span class=\"add latin\">sekhiya 21–25</span>"
+msgstr ""
+
+#. </h3><a class="sc" id="58"></a><h4>
+#. <span class="add"><a id="sk21" class="latin">
+msgctxt "lzh-mu-bi-pm:654.1"
+msgid "sekhiya 21"
+msgstr "sekhiya 21"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:655.1"
+msgid "不蹲行。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk22" class="latin">
+msgctxt "lzh-mu-bi-pm:656.1"
+msgid "sekhiya 22"
+msgstr "sekhiya 22"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:657.1"
+msgid "不足指行。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk23" class="latin">
+msgctxt "lzh-mu-bi-pm:658.1"
+msgid "sekhiya 23"
+msgstr "sekhiya 23"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:659.1"
+msgid "不跳行。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk24" class="latin">
+msgctxt "lzh-mu-bi-pm:660.1"
+msgid "sekhiya 24"
+msgstr "sekhiya 24"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:661.1"
+msgid "不庂足行。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk25" class="latin">
+msgctxt "lzh-mu-bi-pm:662.1"
+msgid "sekhiya 25"
+msgstr "sekhiya 25"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:663.1"
+msgid "不努身行。入白衣舍。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:664.1"
+msgid "<span class=\"add latin\">sekhiya 26–30</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="sk26" class="latin">
+msgctxt "lzh-mu-bi-pm:665.1"
+msgid "sekhiya 26"
+msgstr "sekhiya 26"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:666.1"
+msgid "不搖身。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk27" class="latin">
+msgctxt "lzh-mu-bi-pm:667.1"
+msgid "sekhiya 27"
+msgstr "sekhiya 27"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:668.1"
+msgid "不掉臂。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk28" class="latin">
+msgctxt "lzh-mu-bi-pm:669.1"
+msgid "sekhiya 28"
+msgstr "sekhiya 28"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:670.1"
+msgid "不搖頭。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk29" class="latin">
+msgctxt "lzh-mu-bi-pm:671.1"
+msgid "sekhiya 29"
+msgstr "sekhiya 29"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:672.1"
+msgid "不肩排。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk30" class="latin">
+msgctxt "lzh-mu-bi-pm:673.1"
+msgid "sekhiya 30"
+msgstr "sekhiya 30"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:674.1"
+msgid "不連手。入白衣舍。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk31" class="latin">
+msgctxt "lzh-mu-bi-pm:675.1"
+msgid "sekhiya 31"
+msgstr "sekhiya 31"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:676.1"
+msgid "在白衣舍。未請坐不應坐。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk32" class="latin">
+msgctxt "lzh-mu-bi-pm:677.1"
+msgid "sekhiya 32"
+msgstr "sekhiya 32"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:678.1"
+msgid "在白衣舍。不善觀察不應坐。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk33" class="latin">
+msgctxt "lzh-mu-bi-pm:679.1"
+msgid "sekhiya 33"
+msgstr "sekhiya 33"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:680.1"
+msgid "在白衣舍。不放身坐。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:681.1"
+msgid "<span class=\"add latin\">sekhiya 34–39</span>"
+msgstr ""
+
+#. </h3><p><a class="sc" id="59"></a>
+msgctxt "lzh-mu-bi-pm:682.1"
+msgid "在白衣舍。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk34" class="latin">
+msgctxt "lzh-mu-bi-pm:683.1"
+msgid "sekhiya 34"
+msgstr "sekhiya 34"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:684.1"
+msgid "不壘足。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk35" class="latin">
+msgctxt "lzh-mu-bi-pm:685.1"
+msgid "sekhiya 35"
+msgstr "sekhiya 35"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:686.1"
+msgid "不重內踝。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk36" class="latin">
+msgctxt "lzh-mu-bi-pm:687.1"
+msgid "sekhiya 36"
+msgstr "sekhiya 36"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:688.1"
+msgid "不重外踝。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk37" class="latin">
+msgctxt "lzh-mu-bi-pm:689.1"
+msgid "sekhiya 37"
+msgstr "sekhiya 37"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:690.1"
+msgid "不急斂足。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk38" class="latin">
+msgctxt "lzh-mu-bi-pm:691.1"
+msgid "sekhiya 38"
+msgstr "sekhiya 38"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:692.1"
+msgid "不長舒足。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk39" class="latin">
+msgctxt "lzh-mu-bi-pm:693.1"
+msgid "sekhiya 39"
+msgstr "sekhiya 39"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:694.1"
+msgid "不露身。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk40" class="latin">
+msgctxt "lzh-mu-bi-pm:695.1"
+msgid "sekhiya 40"
+msgstr "sekhiya 40"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:696.1"
+msgid "恭敬受食。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:697.1"
+msgid "<span class=\"add latin\">sekhiya 41–44</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="sk41" class="latin">
+msgctxt "lzh-mu-bi-pm:698.1"
+msgid "sekhiya 41"
+msgstr "sekhiya 41"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:699.1"
+msgid "不得滿<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>受飯。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk42" class="latin">
+msgctxt "lzh-mu-bi-pm:700.1"
+msgid "sekhiya 42"
+msgstr "sekhiya 42"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:701.1"
+msgid "更安羹菜。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk43" class="latin">
+msgctxt "lzh-mu-bi-pm:702.1"
+msgid "sekhiya 43"
+msgstr "sekhiya 43"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:703.1"
+msgid "令食流溢於<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>緣邊。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk44" class="latin">
+msgctxt "lzh-mu-bi-pm:704.1"
+msgid "sekhiya 44"
+msgstr "sekhiya 44"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:705.1"
+msgid "應留屈指用意受食。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk45" class="latin">
+msgctxt "lzh-mu-bi-pm:706.1"
+msgid "sekhiya 45"
+msgstr "sekhiya 45"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:707.1"
+msgid "行食未至。不豫申<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk46" class="latin">
+msgctxt "lzh-mu-bi-pm:708.1"
+msgid "sekhiya 46"
+msgstr "sekhiya 46"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:709.1"
+msgid "不安<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>在食上。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk47" class="latin">
+msgctxt "lzh-mu-bi-pm:710.1"
+msgid "sekhiya 47"
+msgstr "sekhiya 47"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:711.1"
+msgid "恭敬而食。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:712.1"
+msgid "<span class=\"add latin\">sekhiya 48–50</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="sk48" class="latin">
+msgctxt "lzh-mu-bi-pm:713.1"
+msgid "sekhiya 48"
+msgstr "sekhiya 48"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:714.1"
+msgid "不極小團。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk49" class="latin">
+msgctxt "lzh-mu-bi-pm:715.1"
+msgid "sekhiya 49"
+msgstr "sekhiya 49"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:716.1"
+msgid "不極大團。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk50" class="latin">
+msgctxt "lzh-mu-bi-pm:717.1"
+msgid "sekhiya 50"
+msgstr "sekhiya 50"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:718.1"
+msgid "圓整而食。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk51" class="latin">
+msgctxt "lzh-mu-bi-pm:719.1"
+msgid "sekhiya 51"
+msgstr "sekhiya 51"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:720.1"
+msgid "若食未至。不張口待。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk52" class="latin">
+msgctxt "lzh-mu-bi-pm:721.1"
+msgid "sekhiya 52"
+msgstr "sekhiya 52"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:722.1"
+msgid "不含食語。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:723.1"
+msgid "<span class=\"add latin\">sekhiya 53–54</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="sk53" class="latin">
+msgctxt "lzh-mu-bi-pm:724.1"
+msgid "sekhiya 53"
+msgstr "sekhiya 53"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:725.1"
+msgid "不得以飯覆羹菜。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk54" class="latin">
+msgctxt "lzh-mu-bi-pm:726.1"
+msgid "sekhiya 54"
+msgstr "sekhiya 54"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:727.1"
+msgid "不將羹菜覆飯更望得。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:728.1"
+msgid "<span class=\"add latin\">sekhiya 55–64</span>"
+msgstr ""
+
+#. </h3><a class="sc" id="60"></a><h4>
+#. <span class="add"><a id="sk55" class="latin">
+msgctxt "lzh-mu-bi-pm:729.1"
+msgid "sekhiya 55"
+msgstr "sekhiya 55"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:730.1"
+msgid "不彈舌食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk56" class="latin">
+msgctxt "lzh-mu-bi-pm:731.1"
+msgid "sekhiya 56"
+msgstr "sekhiya 56"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:732.1"
+msgid "不<span class=\"t-gaiji\">[口*((甫-、)/寸)]<!--gaiji,,1[口*((甫-、)/寸)],2,3--> </span> <span class=\"t-gaiji\">[口*集]<!--gaiji,,1[口*集],2&#x35F1;,3--> </span>食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk57" class="latin">
+msgctxt "lzh-mu-bi-pm:733.1"
+msgid "sekhiya 57"
+msgstr "sekhiya 57"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:734.1"
+msgid "不呵氣食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk58" class="latin">
+msgctxt "lzh-mu-bi-pm:735.1"
+msgid "sekhiya 58"
+msgstr "sekhiya 58"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:736.1"
+msgid "不吹氣食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk59" class="latin">
+msgctxt "lzh-mu-bi-pm:737.1"
+msgid "sekhiya 59"
+msgstr "sekhiya 59"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:738.1"
+msgid "不散手食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk60" class="latin">
+msgctxt "lzh-mu-bi-pm:739.1"
+msgid "sekhiya 60"
+msgstr "sekhiya 60"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:740.1"
+msgid "不毀呰食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk61" class="latin">
+msgctxt "lzh-mu-bi-pm:741.1"
+msgid "sekhiya 61"
+msgstr "sekhiya 61"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:742.1"
+msgid "不填頰食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk62" class="latin">
+msgctxt "lzh-mu-bi-pm:743.1"
+msgid "sekhiya 62"
+msgstr "sekhiya 62"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:744.1"
+msgid "不齧半食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk63" class="latin">
+msgctxt "lzh-mu-bi-pm:745.1"
+msgid "sekhiya 63"
+msgstr "sekhiya 63"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:746.1"
+msgid "不舒舌食。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk64" class="latin">
+msgctxt "lzh-mu-bi-pm:747.1"
+msgid "sekhiya 64"
+msgstr "sekhiya 64"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:748.1"
+msgid "不作窣<span class=\"t-gaiji\">覩<!--gaiji,睹,1[者*見],2&#x89A9;,3--> </span>波形食。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:749.1"
+msgid "<span class=\"add latin\">sekhiya 65–69</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="sk65" class="latin">
+msgctxt "lzh-mu-bi-pm:750.1"
+msgid "sekhiya 65"
+msgstr "sekhiya 65"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:751.1"
+msgid "不舐手。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk66" class="latin">
+msgctxt "lzh-mu-bi-pm:752.1"
+msgid "sekhiya 66"
+msgstr "sekhiya 66"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:753.1"
+msgid "不舐<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk67" class="latin">
+msgctxt "lzh-mu-bi-pm:754.1"
+msgid "sekhiya 67"
+msgstr "sekhiya 67"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:755.1"
+msgid "不振手。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk68" class="latin">
+msgctxt "lzh-mu-bi-pm:756.1"
+msgid "sekhiya 68"
+msgstr "sekhiya 68"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:757.1"
+msgid "不振<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk69" class="latin">
+msgctxt "lzh-mu-bi-pm:758.1"
+msgid "sekhiya 69"
+msgstr "sekhiya 69"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:759.1"
+msgid "常看<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>食。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk70" class="latin">
+msgctxt "lzh-mu-bi-pm:760.1"
+msgid "sekhiya 70"
+msgstr "sekhiya 70"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:761.1"
+msgid "不輕慢心觀比坐<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>  中食。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk71" class="latin">
+msgctxt "lzh-mu-bi-pm:762.1"
+msgid "sekhiya 71"
+msgstr "sekhiya 71"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:763.1"
+msgid "不以污手捉淨水瓶。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk72" class="latin">
+msgctxt "lzh-mu-bi-pm:764.1"
+msgid "sekhiya 72"
+msgstr "sekhiya 72"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:765.1"
+msgid "在白衣舍。不棄洗<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>水。除問主人。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk73" class="latin">
+msgctxt "lzh-mu-bi-pm:766.1"
+msgid "sekhiya 73"
+msgstr "sekhiya 73"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:767.1"
+msgid "不得以殘食置<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>水中。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk74" class="latin">
+msgctxt "lzh-mu-bi-pm:768.1"
+msgid "sekhiya 74"
+msgstr "sekhiya 74"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:769.1"
+msgid "地上無替不應安<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk75" class="latin">
+msgctxt "lzh-mu-bi-pm:770.1"
+msgid "sekhiya 75"
+msgstr "sekhiya 75"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:771.1"
+msgid "不立洗<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:772.1"
+msgid "<span class=\"add latin\">sekhiya 76–77</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="sk76" class="latin">
+msgctxt "lzh-mu-bi-pm:773.1"
+msgid "sekhiya 76"
+msgstr "sekhiya 76"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:774.1"
+msgid "不於危險岸處置<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk77" class="latin">
+msgctxt "lzh-mu-bi-pm:775.1"
+msgid "sekhiya 77"
+msgstr "sekhiya 77"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:776.1"
+msgid "亦不逆流酌水。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk78" class="latin">
+msgctxt "lzh-mu-bi-pm:777.1"
+msgid "sekhiya 78"
+msgstr "sekhiya 78"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:778.1"
+msgid "人坐己立不為說法。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk79" class="latin">
+msgctxt "lzh-mu-bi-pm:779.1"
+msgid "sekhiya 79"
+msgstr "sekhiya 79"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:780.1"
+msgid "人臥己坐不為說法。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk80" class="latin">
+msgctxt "lzh-mu-bi-pm:781.1"
+msgid "sekhiya 80"
+msgstr "sekhiya 80"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:782.1"
+msgid "人在高座己在下座。不為說法。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk81" class="latin">
+msgctxt "lzh-mu-bi-pm:783.1"
+msgid "sekhiya 81"
+msgstr "sekhiya 81"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:784.1"
+msgid "人在前行己在後行。不為說法。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk82" class="latin">
+msgctxt "lzh-mu-bi-pm:785.1"
+msgid "sekhiya 82"
+msgstr "sekhiya 82"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:786.1"
+msgid "人在道己在非道。不為說法。除病。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:787.1"
+msgid "<span class=\"add latin\">sekhiya 83–87</span>"
+msgstr ""
+
+#. </h3><a class="sc" id="61"></a><h4>
+#. <span class="add"><a id="sk83" class="latin">
+msgctxt "lzh-mu-bi-pm:788.1"
+msgid "sekhiya 83"
+msgstr "sekhiya 83"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:789.1"
+msgid "不為覆頭者。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk84" class="latin">
+msgctxt "lzh-mu-bi-pm:790.1"
+msgid "sekhiya 84"
+msgstr "sekhiya 84"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:791.1"
+msgid "不為偏抄衣。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk85" class="latin">
+msgctxt "lzh-mu-bi-pm:792.1"
+msgid "sekhiya 85"
+msgstr "sekhiya 85"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:793.1"
+msgid "不為雙抄衣。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk86" class="latin">
+msgctxt "lzh-mu-bi-pm:794.1"
+msgid "sekhiya 86"
+msgstr "sekhiya 86"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:795.1"
+msgid "不為叉腰者。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk87" class="latin">
+msgctxt "lzh-mu-bi-pm:796.1"
+msgid "sekhiya 87"
+msgstr "sekhiya 87"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:797.1"
+msgid "不為拊肩者說法。除病。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:798.1"
+msgid "<span class=\"add latin\">sekhiya 88–91</span>"
+msgstr ""
+
+#. </h3><p>
+msgctxt "lzh-mu-bi-pm:799.1"
+msgid "不為乘"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk88" class="latin">
+msgctxt "lzh-mu-bi-pm:800.1"
+msgid "sekhiya 88"
+msgstr "sekhiya 88"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:801.1"
+msgid "象"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk89" class="latin">
+msgctxt "lzh-mu-bi-pm:802.1"
+msgid "sekhiya 89"
+msgstr "sekhiya 89"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:803.1"
+msgid "馬"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk90" class="latin">
+msgctxt "lzh-mu-bi-pm:804.1"
+msgid "sekhiya 90"
+msgstr "sekhiya 90"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:805.1"
+msgid "車"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk91" class="latin">
+msgctxt "lzh-mu-bi-pm:806.1"
+msgid "sekhiya 91"
+msgstr "sekhiya 91"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:807.1"
+msgid "輿者說法。除病。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:808.1"
+msgid "<span class=\"add latin\">sekhiya 92–93</span>"
+msgstr ""
+
+#. </h3><h4>
+#. <span class="add"><a id="sk92" class="latin">
+msgctxt "lzh-mu-bi-pm:809.1"
+msgid "sekhiya 92"
+msgstr "sekhiya 92"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:810.1"
+msgid "不為著屐靴鞋及"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk93" class="latin">
+msgctxt "lzh-mu-bi-pm:811.1"
+msgid "sekhiya 93"
+msgstr "sekhiya 93"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:812.1"
+msgid "履屨者說法。除病。應當學。"
+msgstr ""
+
+#. </p><h3>
+msgctxt "lzh-mu-bi-pm:813.1"
+msgid "<span class=\"add latin\">sekhiya 94–98</span>"
+msgstr ""
+
+#. </h3><a class="sc" id="62"></a><h4>
+#. <span class="add"><a id="sk94" class="latin">
+msgctxt "lzh-mu-bi-pm:814.1"
+msgid "sekhiya 94"
+msgstr "sekhiya 94"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:815.1"
+msgid "不為戴帽。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk95" class="latin">
+msgctxt "lzh-mu-bi-pm:816.1"
+msgid "sekhiya 95"
+msgstr "sekhiya 95"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:817.1"
+msgid "著冠。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk96" class="latin">
+msgctxt "lzh-mu-bi-pm:818.1"
+msgid "sekhiya 96"
+msgstr "sekhiya 96"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:819.1"
+msgid "及作佛頂髻者。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk97" class="latin">
+msgctxt "lzh-mu-bi-pm:820.1"
+msgid "sekhiya 97"
+msgstr "sekhiya 97"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:821.1"
+msgid "不為纏頭。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk98" class="latin">
+msgctxt "lzh-mu-bi-pm:822.1"
+msgid "sekhiya 98"
+msgstr "sekhiya 98"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:823.1"
+msgid "不為冠花者說法。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk99" class="latin">
+msgctxt "lzh-mu-bi-pm:824.1"
+msgid "sekhiya 99"
+msgstr "sekhiya 99"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:825.1"
+msgid "不為持蓋者說法。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk100" class="latin">
+msgctxt "lzh-mu-bi-pm:826.1"
+msgid "sekhiya 100"
+msgstr "sekhiya 100"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:827.1"
+msgid "不立大小便。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk101" class="latin">
+msgctxt "lzh-mu-bi-pm:828.1"
+msgid "sekhiya 101"
+msgstr "sekhiya 101"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:829.1"
+msgid "不得水中大小便洟唾。除病。應當學。"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="sk102" class="latin">
+msgctxt "lzh-mu-bi-pm:830.1"
+msgid "sekhiya 102"
+msgstr "sekhiya 102"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:831.1"
+msgid "不得上過人樹。除有難緣。應當學。"
+msgstr ""
+
+#. </p><hr><p>
+msgctxt "lzh-mu-bi-pm:832.1"
+msgid "諸大德。我已說眾多學法。今問。諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>。"
+msgstr ""
+
+#. </p><p>
+msgctxt "lzh-mu-bi-pm:833.1"
+msgid "諸大德。是中清淨默然故。我今如是持。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="as" class="latin">
+msgctxt "lzh-mu-bi-pm:834.1"
+msgid "7 adhikaraṇasamatha"
+msgstr "7 adhikaraṇasamatha"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mu-bi-pm:835.1"
+msgid "諸大德。此七滅諍法半月半月戒經中說。"
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "lzh-mu-bi-pm:836.1"
+msgid "攝頌曰。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p class="uddana">
+msgctxt "lzh-mu-bi-pm:837.1"
+msgid "現前并憶念　　不癡與求罪"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:837.2"
+msgid "多人語自言　　草掩除眾諍"
+msgstr ""
+
+#. </p></blockquote><h4>
+#. <span class="add"><a id="as1" class="latin">
+msgctxt "lzh-mu-bi-pm:838.1"
+msgid "adhikaraṇasamatha 1"
+msgstr "adhikaraṇasamatha 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:839.1"
+msgid "應與現前毘奈耶　當與現前毘奈耶"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="as2" class="latin">
+msgctxt "lzh-mu-bi-pm:840.1"
+msgid "adhikaraṇasamatha 2"
+msgstr "adhikaraṇasamatha 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:841.1"
+msgid "應與憶念毘奈耶　當與憶念毘奈耶"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="as3" class="latin">
+msgctxt "lzh-mu-bi-pm:842.1"
+msgid "adhikaraṇasamatha 3"
+msgstr "adhikaraṇasamatha 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:843.1"
+msgid "應與不癡毘奈耶　當與不癡毘奈耶"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="as4" class="latin">
+msgctxt "lzh-mu-bi-pm:844.1"
+msgid "adhikaraṇasamatha 4"
+msgstr "adhikaraṇasamatha 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:845.1"
+msgid "應與求罪自性毘奈耶　當與求罪自性毘奈耶"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="as5" class="latin">
+msgctxt "lzh-mu-bi-pm:846.1"
+msgid "adhikaraṇasamatha 5"
+msgstr "adhikaraṇasamatha 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:847.1"
+msgid "應與多人語毘奈耶　當與多人語毘奈耶"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="as6" class="latin">
+msgctxt "lzh-mu-bi-pm:848.1"
+msgid "adhikaraṇasamatha 6"
+msgstr "adhikaraṇasamatha 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:849.1"
+msgid "應與自言毘奈耶　當與自言毘奈耶"
+msgstr ""
+
+#. </p><h4>
+#. <span class="add"><a id="as7" class="latin">
+msgctxt "lzh-mu-bi-pm:850.1"
+msgid "adhikaraṇasamatha 7"
+msgstr "adhikaraṇasamatha 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mu-bi-pm:851.1"
+msgid "應與草掩毘奈耶　當與草掩毘奈耶"
+msgstr ""
+
+#. </p><p>
+msgctxt "lzh-mu-bi-pm:852.1"
+msgid "若有諍事起。當以七法順大師教。如法如律而除滅之。"
+msgstr ""
+
+#. </p><hr><p>
+msgctxt "lzh-mu-bi-pm:853.1"
+msgid "諸大德。我已說七滅諍法。今問。諸大德。是中清淨不<span class=\"t-note\">(如是三說)</span>。"
+msgstr ""
+
+#. </p><p>
+msgctxt "lzh-mu-bi-pm:854.1"
+msgid "諸大德。是中清淨默然故。我今如是持。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="conc" class="latin">
+msgctxt "lzh-mu-bi-pm:855.1"
+msgid "Conclusion"
+msgstr "Conclusion"
+
+#. </a></span>
+#. </h2><p><a class="sc" id="63"></a>
+msgctxt "lzh-mu-bi-pm:856.1"
+msgid "諸大德。我已說戒經序已說八波羅市迦法。二十僧伽伐尸沙法。三十三泥薩祇波逸底迦法。一百八十波逸底迦法。十一波羅底提舍尼法眾學法。七滅諍法。此是如來應正等覺戒經中所說所攝。若更有餘法之隨法。與此相應者。皆當修學。仁等共集歡喜無諍。一心一說如水乳合。慇懃光顯大師聖教。令安樂住。勿為放逸。應當修學。"
+msgstr ""
+
+#. </p><h2>
+#. <span class="add"><a id="conc-verses" class="latin">
+msgctxt "lzh-mu-bi-pm:857.1"
+msgid "Concluding verses"
+msgstr "Concluding verses"
+
+#. </a></span>
+#. </h2><blockquote class="gatha"><p>
+msgctxt "lzh-mu-bi-pm:858.1"
+msgid "忍是勤中上　　能得涅槃處"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:858.2"
+msgid "出家惱他人　　不名為沙門"
+msgstr ""
+
+#. </p></blockquote><p>
+msgctxt "lzh-mu-bi-pm:859.1"
+msgid "此是毘<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>尸如來應正等覺。說是戒經。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mu-bi-pm:860.1"
+msgid "明眼避險途　　能至安隱處"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:860.2"
+msgid "智者於生界　　能遠離諸惡"
+msgstr ""
+
+#. </p></blockquote><p>
+msgctxt "lzh-mu-bi-pm:861.1"
+msgid "此是尸棄如來應正等覺。說是戒經。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mu-bi-pm:862.1"
+msgid "不毀亦不害　　善護於戒經"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:862.2"
+msgid "飲食知止足　　受用下臥具"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:862.3"
+msgid "勤修增上定　　此是諸佛教"
+msgstr ""
+
+#. </p></blockquote><p>
+msgctxt "lzh-mu-bi-pm:863.1"
+msgid "此是毘舍浮如來應正等覺。說是戒經。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="64"></a>
+msgctxt "lzh-mu-bi-pm:864.1"
+msgid "譬如蜂採花　　不壞色與香"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:864.2"
+msgid "但取其味去　　苾芻入聚然"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:864.3"
+msgid "不違逆他人　　不觀作不作"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:864.4"
+msgid "但自觀身行　　若正若不正"
+msgstr ""
+
+#. </p></blockquote><p>
+msgctxt "lzh-mu-bi-pm:865.1"
+msgid "此是俱留孫如來應正等覺。說是戒經。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="65"></a>
+msgctxt "lzh-mu-bi-pm:866.1"
+msgid "勿著於定心　　勤修寂靜處"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:866.2"
+msgid "能救護無憂　　常令念不失"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:866.3"
+msgid "若人能惠施　　福增怨自息"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:866.4"
+msgid "修善除眾惡　　惑盡至涅槃"
+msgstr ""
+
+#. </p></blockquote><p>
+msgctxt "lzh-mu-bi-pm:867.1"
+msgid "此是羯諾迦牟尼如來應正等覺。說是戒經。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mu-bi-pm:868.1"
+msgid "一切惡莫作　　一切善應修"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:868.2"
+msgid "遍調於自心　　是則諸佛教"
+msgstr ""
+
+#. </p></blockquote><p>
+msgctxt "lzh-mu-bi-pm:869.1"
+msgid "此是迦攝波如來應正等覺。說是戒經。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="66"></a>
+msgctxt "lzh-mu-bi-pm:870.1"
+msgid "護身為善哉　　能護語亦善"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:870.2"
+msgid "護意為善哉　　盡護最為善"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:870.3"
+msgid "苾芻護一切　　能解脫眾苦"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:870.4"
+msgid "善護於口言　　亦善護於意"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:870.5"
+msgid "身不作諸惡　　常淨三種業"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:870.6"
+msgid "是則能隨順　　大仙所行道"
+msgstr ""
+
+#. </p></blockquote><p>
+msgctxt "lzh-mu-bi-pm:871.1"
+msgid "此是釋迦如來應正等覺。說是戒經。"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="67"></a>
+msgctxt "lzh-mu-bi-pm:872.1"
+msgid "毘<span class=\"t-gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>尸式棄　　毘舍俱留孫"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.2"
+msgid "羯諾迦牟尼　　迦攝釋迦尊"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.3"
+msgid "如是天中天　　無上調御者"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.4"
+msgid "七佛皆雄猛　　能救護世間"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.5"
+msgid "具足大名稱　　咸說此戒法"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.6"
+msgid "諸佛及弟子　　咸共尊敬戒"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.7"
+msgid "恭敬戒經故　　獲得無上果"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.8"
+msgid "汝當求出離　　於佛教勤修"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.9"
+msgid "降伏生死軍　　如象摧草舍"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.10"
+msgid "於此法律中　　常為不放逸"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.11"
+msgid "能竭煩惱海　　當盡苦邊際"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.12"
+msgid "所為說戒經　　和合作長淨"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.13"
+msgid "當共尊敬戒　　如<span class=\"t-gaiji\">犛<!--gaiji,犛,1[犛-未+牙],2&#x246C6;,3--> </span>牛愛尾"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.14"
+msgid "我已說戒經　　眾僧長淨竟"
+msgstr ""
+
+#. <br>
+msgctxt "lzh-mu-bi-pm:872.15"
+msgid "福利諸有情　　皆共成佛道"
+msgstr ""
+
+#. </p></blockquote><p class="endsutta"><span class="juanname">
+msgctxt "lzh-mu-bi-pm:873.1"
+msgid "根本說一切有部苾芻尼戒經"
+msgstr ""
+
+#. </span></p></article><aside id="metaarea"><p>Translated by <span class="author">Ayya Kathrin</a>.  Text from CBETA.</p><p>Note by Bhikkhu Sujato: I have added headings and rule numbers for the SuttaCentral edition.</p><p>Prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p></aside></section></div></body></html>
+msgctxt "lzh-mu-bi-pm:873.2"
+msgid ""
+msgstr ""
