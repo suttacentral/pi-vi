@@ -1,0 +1,222 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-06-26 12:52+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-pc61"><article><div class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-pc61:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc61:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc61:3.1"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (<i lang=\"pi\">pācittiya</i>)"
+
+#. </p><p> <span class="var" hidden>Sappāṇakavagga → sañ­cicca­pāṇa­sikkhā­padaṃ (bj)</span>
+msgctxt "pi-tv-bu-vb-pc61:4.1"
+msgid "Sappāṇakavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-pc61:5.1"
+msgid "61. Sañciccasikkhāpada"
+msgstr ""
+
+#. </h1></div><p><a class="sc" id="1"></a>
+msgctxt "pi-tv-bu-vb-pc61:6.1"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:6.2"
+msgid "Tena kho pana samayena āyasmā udāyī issāso hoti, kākā cassa amanāpā honti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:6.3"
+msgid "So kāke vijjhitvā vijjhitvā sīsaṃ chinditvā sūle paṭipāṭiyā ṭhapesi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:6.4"
+msgid "Bhikkhū evamāhaṃsu—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:6.5"
+msgid "“kenime, āvuso, kākā jīvitā voropitā”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:6.6"
+msgid "“Mayā, āvuso."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:6.7"
+msgid "Amanāpā me kākā”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="2"></a>
+msgctxt "pi-tv-bu-vb-pc61:7.1"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.4"
+msgid "“kathañhi nāma āyasmā udāyī sañcicca pāṇaṃ jīvitā voropessatī”ti … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.6"
+msgid "“saccaṃ kira tvaṃ, udāyi, sañcicca pāṇaṃ jīvitā voropesī”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.7"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.8"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.10"
+msgid "kathañhi nāma tvaṃ, moghapurisa, sañcicca pāṇaṃ jīvitā voropessasi."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.11"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:7.13"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr ""
+
+#. </p><p><a class="sc" id="3"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-pc61:8.1"
+msgid "“Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiyan”ti."
+msgstr ""
+
+#. </strong>
+msgctxt "pi-tv-bu-vb-pc61:8.2"
+msgid "(<em>61</em>:<strong>110</strong>)"
+msgstr ""
+
+#. </p><p><a class="sc" id="4"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc61:9.1"
+msgid "Yo panāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc61:9.1"
+msgid "yo yādiso … pe …"
+msgstr ""
+
+#. </span>
+
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc61:9.3"
+msgid "bhikkhūti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc61:9.3"
+msgid "… pe …"
+msgstr ""
+
+#. </span>
+
+msgctxt "pi-tv-bu-vb-pc61:9.5"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr ""
+
+#. </p><p><a class="sc" id="5"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc61:10.1"
+msgid "Sañciccāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc61:10.1"
+msgid "jānanto sañjānanto cecca abhivitaritvā vītikkamo."
+msgstr ""
+
+#. </span>
+
+#. </p><p><a class="sc" id="6"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc61:11.1"
+msgid "Pāṇo nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc61:11.1"
+msgid "tiracchānagatapāṇo vuccati."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="7"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc61:12.1"
+msgid "Jīvitā voropeyyāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc61:12.1"
+msgid "jīvitindriyaṃ upacchindati uparodheti santatiṃ vikopeti, āpatti pācittiyassa."
+msgstr ""
+
+#. </span>
+
+#. </p><p><a class="sc" id="8"></a><a class="pts-vp-pi" id="pts-vp-pi4.125"></a>
+msgctxt "pi-tv-bu-vb-pc61:13.1"
+msgid "Pāṇe pāṇasaññī jīvitā voropeti, āpatti pācittiyassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:13.2"
+msgid "Pāṇe vematiko jīvitā voropeti, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:13.3"
+msgid "Pāṇe appāṇasaññī jīvitā voropeti, anāpatti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:13.4"
+msgid "Appāṇe pāṇasaññī, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:13.5"
+msgid "Appāṇe vematiko, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:13.6"
+msgid "Appāṇe appāṇasaññī, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="9"></a>
+msgctxt "pi-tv-bu-vb-pc61:14.1"
+msgid "Anāpatti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc61:14.2"
+msgid "asañcicca, assatiyā, ajānantassa, namaraṇādhippāyassa, ummattakassa, ādikammikassāti."
+msgstr ""
+
+#. </p><p class="endsutta"><a class="sc" id="10"></a>
+msgctxt "pi-tv-bu-vb-pc61:15.1"
+msgid "Sañciccasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
+msgstr ""
+

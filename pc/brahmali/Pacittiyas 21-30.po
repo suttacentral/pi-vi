@@ -1,0 +1,1927 @@
+#Translation Template For SuttaCentral
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-msgstr-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-10-10 12:56+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><title></title><link href="a.css" rel="stylesheet"
+#. type="text/css"><meta charset="utf-8"></head><body><hgroup><h1
+#. id="Bu-Pc.21">
+msgstr "Monks’ Confession 21: the training rule on the instruction"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><h3>
+msgstr "First sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.21.1"></a> <a class="pts-vp-en" id="BD.2.263"></a><a class="wt-pa" id="484"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time the senior monks who instructed the nuns were receiving robe-cloth, almsfood, dwellings, and medicines."
+
+msgstr "When the monks from the group of six found out about this, they thought, “Well then, let’s instruct the nuns.”"
+
+msgstr "They then went to the nuns and said, “Come to us, Sisters, and we too will instruct you.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="485"></a>Soon afterwards those nuns went to the monks from the group of six, bowed down to them, and sat down to one side."
+
+msgstr "But after giving just a short teaching, those monks spent the day on pointless talk."
+
+msgstr "They then dismissed the nuns, saying, “Go, Sisters.”"
+
+#. </p><p>
+msgstr "Those nuns then went to the Master, bowed down to him, and stood to one side."
+
+msgstr "And the Master said to them, “Nuns, I hope the instruction was effective?”"
+
+#. </p><p>
+msgstr "“Venerable Sir, how could the instruction be effective?"
+
+msgstr "After giving just a short teaching, the monks from the group of six spent the day on pointless talk, and then dismissed us.”"
+
+#. </p><p>
+msgstr "The Master instructed, inspired, and gladdened those nuns with a teaching."
+
+msgstr "The nuns  <a class="pts-vp-en" id="BD.2.264"></a> bowed down to the Master, circumambulated him with their right side towards him, and departed."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="486"></a>The Master then had the Order of monks assembled and questioned the monks from the group of six, “Is it true, monks, that you did this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked them …"
+
+msgstr "“Foolish men, how can you give just a short teaching to the nuns, and then spend the day on pointless talk, before dismissing them?"
+
+msgstr "This will not give rise to confidence in those without it …”"
+
+msgstr "…"
+
+msgstr "and after rebuking them …"
+
+msgstr "he gave a teaching and addressed the monks:"
+
+#. </p><p></p><span class="kamma"><p>
+msgstr "<a class="wt-pa" id="487"></a>‘Venerables, let the Order listen to me."
+
+msgstr "If it seems appropriate to the Order, it should appoint monk so-and-so as an instructor of the nuns."
+
+msgstr "This is the motion."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="488"></a>Venerables, let the Order listen to me."
+
+msgstr "The Order appoints monk so-and-so as an instructor of the nuns."
+
+msgstr "Any monk who approves of appointing monk so-and-so as an instructor of the nuns should remain silent."
+
+msgstr "Any monk who does not approve should say so."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="489"></a>A second time I speak on this matter …"
+
+msgstr "A third time I speak on this matter:"
+
+msgstr "Venerables, let the Order listen to me."
+
+msgstr "The Order appoints monk so-and-so as an instructor of the nuns."
+
+msgstr "Any monk who approves of appointing monk so-and-so as an instructor of the nuns should remain silent."
+
+msgstr "Any monk who does not approve should say so."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="490"></a>The Order has appointed monks so-and-so as an instructor of the nuns."
+
+msgstr "The Order approves and is therefore silent."
+
+msgstr "I will remember it thus.’”"
+
+#. </p></span><p>
+msgstr "<a class="wt-pa" id="491"></a>Then, after criticizing the monks from the group of six in many ways for being difficult to support …"
+
+msgstr "the Master said, “And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="492"></a>‘If a monk who has not been agreed upon instructs the nuns, he commits an offense entailing confession.’”"
+
+#. </p><p class="endsection">
+msgstr " <a class="pts-vp-en" id="BD.2.265"></a><a class="wt-pa" id="493"></a>In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgstr "Second sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.21.2"></a><a class="wt-pa" id="494"></a>After being appointed to do so, the senior monks who instructed the nuns still received robe-cloth, almsfood, dwellings, and medicines."
+
+msgstr "When they found out about this, the monks from the group of six said, “Well then, let’s go outside the boundary, appoint each other as instructors of the nuns, and then instruct them.”"
+
+msgstr "After doing just that, they again went to the nuns and said, “Sisters, we too have been appointed."
+
+msgstr "Come to us, and we too will instruct you.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="495"></a>Once again the nuns went to the monks from the group of six and everything unfolded as before. <a class="wt-pa" id="496"></a>"
+
+msgstr "The Master then had the Order of monks assembled and questioned the monks from the group of six, “Is it true, monks, that you are acting like this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked them …"
+
+msgstr "“Foolish men, how can you give just a short teaching to the nuns, and then spend the day on pointless talk, before dismissing them?”"
+
+msgstr "This will not give rise to confidence in those without it …”"
+
+msgstr "…"
+
+msgstr "and after rebuking them …"
+
+msgstr "he gave a teaching and addressed the monks:"
+
+#. </p><span class="rule"><p>
+msgstr "“Monks, you should appoint a monk who possesses eight qualities as an instructor of the nuns:"
+
+#. </p><span class="sutta"><ul><li><span
+#. class="note"><fn><span class="ref"></span></span></li><li><a class="pts-vp-en"
+#. id="BD.2.266"></a></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></span><p>
+msgstr " <a class="pts-vp-en" id="BD.2.267"></a>Monks, you should appoint a monk who possesses these eight qualities as an instructor of the nuns.”"
+
+#. </p></span><h2>
+msgstr "Definitions"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.21.3.1"></a><a class="wt-pa" id="497"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="498"></a><term>Who has not been agreed upon</term>:"
+
+msgstr "<gloss>who has not been agreed upon through a procedure consisting of one motion and three announcements.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="499"></a><term>Nuns</term>:"
+
+msgstr "<gloss>they have been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="500"></a><term>Instructs</term>:"
+
+#. </p><gloss><p>
+msgstr "If he instructs in the eight rules to be respected, he commits an offense entailing confession."
+
+msgstr "If he instructs in any other teaching, he commits an offense of wrong conduct."
+
+msgstr "If he instructs a nun who is fully ordained only on one side, he commits an offense of wrong conduct."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="501"></a>The monk who has been agreed upon should sweep the precincts, set out water for drinking and for washing the feet, prepare a seat, get hold of a companion, and then sit down."
+
+msgstr "The nuns should go there, bow down to the monk, and sit down to one side."
+
+msgstr "The monk should then ask them, “Sisters, are you all present?”"
+
+#. </p><p>
+msgstr "If they say, “We’re all present, Venerable,” he should say, “Are you keeping the eight rules to be respected?”"
+
+#. </p><p>
+msgstr "If they say, “We are,” he should present the instruction,<span class="note">*<fn><i lang="pi">Niyyādetabbo</i>. For the meaning of this word in this context, see the usage in the origin story to the next rule, <span class="ref">MS.2.517</span>, and the explanation at <span class="ref">Sp.4.792.10</span>, <span class="ref">Sp.4.800.25</span>.</span>"
+
+msgstr "“This is the instruction.”"
+
+#. </p><p>
+msgstr "If they  <a class="pts-vp-en" id="BD.2.268"></a> say, “We’re not,” he should recite the rules to be respected:"
+
+#. </p><ul><li></li><li><span class="note" hidden><i lang="pi"></i><i
+#. lang="pi"></i></span></li><li></li><li><a class="pts-vp-en"
+#. id="BD.2.269"></a></li><li><span class="note" hidden><i lang="pi"></i><i
+#. lang="pi"></i></span></li><li></li><li></li><li><span
+#. class="note"><fn><i lang="pi"></i></span></li></ul><p>
+msgstr "<a class="wt-pa" id="502"></a>If they say, “We’re all present, Venerable,” and he instructs them with another teaching, then he commits an offense of wrong conduct.<span class="note">*<fn>This seems to say that if the nuns are all present then the monk must always give an <i lang="pi">ovāda</i> that consists in teaching the eight <i lang="pi">garudhammas</i>.This, however, needs to be seen in light of the further subdivision given in the text above, where the instruction in the <i lang="pi">garudhammas</i> is to be given only when the nuns say they are not practicing them.If the nuns are practicing the <i lang="pi">garudhammas</i>, there seems to be no restriction on the nature of the <i lang="pi">ovāda</i>.</span>"
+
+msgstr "If they say, “We’re not all present, Venerable,” and he instructs them in the eight rules to be respected, then he commits an offense of wrong conduct."
+
+msgstr "If he does not present the instruction, but he gives them another teaching,<span class="note">*<fn>According to the commentary (<span class="ref">Sp.4.800.25</span>) this simply means not having said, “Sisters, this is the instruction,” <i lang="pi">ovādaṃ aniyyādetvāti eso bhaginiyo ovādoti avatvā</i>. This, however, does seem contrived. A more natural meaning might be to see this statement in conjunction with the previous one, and the two together might then be paraphrased as follows: If the nuns say they are not all present, then one should not instruct in the eight rules to be respected, nor in any other teaching. In any case, once “Sisters, this is the instruction” has been said, it seems any teaching can be given; see origin story to the next rule, <span class="ref">MS.2.517</span>.</span>"
+
+msgstr "then he commits an offense of wrong conduct."
+
+#. </p></gloss><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.21.3.2"></a> <a class="wt-pa" id="503"></a>If it is an illegitimate procedure and he perceives it as illegitimate, and <a class="pts-vp-en" id="BD.2.270"></a> the Order of nuns is incomplete and he perceives it as incomplete, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure and he perceives it as illegitimate, and the Order of nuns is incomplete but he is unsure if it is, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure and he perceives it as illegitimate, and the Order of nuns is incomplete but he perceives it as complete, then if he instructs those nuns, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="504"></a>If it is an illegitimate procedure but he is unsure if it is, and the Order of nuns is incomplete and he perceives it as incomplete, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he is unsure if it is, and the Order of nuns is incomplete but he is unsure if it is, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he is unsure if it is, and the Order of nuns is incomplete but he perceives it as complete, then if he instructs those nuns, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="505"></a>If it is an illegitimate procedure but he perceives it as legitimate, and the Order of nuns is incomplete and he perceives it as incomplete, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he perceives it as legitimate, and the Order of nuns is incomplete but he is unsure if it is, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he perceives it as legitimate, and the Order of nuns is incomplete but he perceives it as complete, then if he instructs those nuns, he commits an offense entailing confession."
+
+#. </p><hr><p>
+msgstr "<a class="wt-pa" id="506"></a>If it is an illegitimate procedure and he perceives it as illegitimate, and the Order of nuns is complete but he perceives it as incomplete, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure and he perceives it as illegitimate, and the Order of nuns is complete but he is unsure if it is, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure and he perceives it as illegitimate, and the Order of nuns is complete and he perceives it as complete, then if he instructs those nuns, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="507"></a>If it is an illegitimate procedure but he is unsure if it is, and the Order of nuns is complete but he perceives it as incomplete, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he is unsure if it is, and the Order of nuns is complete but he is unsure if it is, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he is unsure if it is, and the Order of nuns is complete and he perceives it as complete, then if he instructs those nuns, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="508"></a>If it is an illegitimate procedure but he perceives it as legitimate, and the Order of nuns is complete but he perceives it as incomplete, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he perceives it as legitimate, and the Order of nuns is complete but he is unsure if it is, then if he instructs those nuns, he commits an offense entailing confession."
+
+msgstr "If it is an illegitimate procedure but he perceives it as legitimate, and the Order of nuns is complete and he perceives it as complete, then if he instructs those nuns, he commits an offense entailing confession."
+
+#. </p><hr><p>
+msgstr " <a class="pts-vp-en" id="BD.2.271"></a><a class="wt-pa" id="509"></a>If it is a legitimate procedure but he perceives it as illegitimate, and the Order of nuns is incomplete and he perceives it as incomplete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he perceives it as illegitimate, and the Order of nuns is incomplete but he is unsure if it is, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he perceives it as illegitimate, and the Order of nuns is incomplete but he perceives it as complete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="510"></a>If it is a legitimate procedure but he is unsure if it is, and the Order of nuns is incomplete and he perceives it as incomplete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he is unsure if it is, and the Order of nuns is incomplete but he is unsure if it is, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he is unsure if it is, and the Order of nuns is incomplete but he perceives it as complete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="511"></a>If it is a legitimate procedure and he perceives it as legitimate, and the Order of nuns is incomplete and he perceives it as incomplete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure and he perceives it as legitimate, and the Order of nuns is incomplete but he is unsure if it is, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure and he perceives it as legitimate, and the Order of nuns is incomplete but he perceives it as complete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+#. </p><hr><p>
+msgstr "<a class="wt-pa" id="512"></a>If it is a legitimate procedure but he perceives it as illegitimate, and the Order of nuns is complete but he perceives it as incomplete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he perceives it as illegitimate, and the Order of nuns is complete but he is unsure if it is, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he perceives it as illegitimate, and the Order of nuns is complete and he perceives it as complete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="513"></a>If it is a legitimate procedure but he is unsure if it is, and the Order of nuns is complete but he perceives it as incomplete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he is unsure if it is, and the Order of nuns is complete but he is unsure if it is, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure but he is unsure if it is, and the Order of nuns is complete and he perceives it as complete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="514"></a>If it is a legitimate procedure and he perceives it as legitimate, and the Order of nuns is complete but he perceives it as incomplete, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure and he perceives it as legitimate, and the Order of nuns is complete but he is unsure if it is, then if he instructs those nuns, he commits an offense of wrong conduct."
+
+msgstr "If it is a legitimate procedure and he perceives it as legitimate, and the Order of nuns is complete and he perceives it as complete, then if he instructs those nuns, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.21.3.3"></a><a class="wt-pa" id="515"></a>There is no offense:"
+
+msgstr "if he gives a summary;"
+
+msgstr "if he questions them;"
+
+msgstr "if he recites when asked to do so;"
+
+msgstr " <a class="pts-vp-en" id="BD.2.272"></a> if he asks a question;"
+
+msgstr "if he replies when asked a question;"
+
+msgstr "if he is speaking for the benefit of someone else and the nuns listen in;"
+
+msgstr "if it is to a trainee nun;"
+
+msgstr "if it is to a novice nun;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="516"></a>The first rule, the training rule on the instruction, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 22: the training rule on gone down"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.22.1"></a> <a class="pts-vp-en" id="BD.2.273"></a><a class="wt-pa" id="517"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time the senior monks were instructing the nuns in turn, and on one occasion it was the turn of Venerable Cūḷapanthaka."
+
+msgstr "The nuns said, “Today the instruction won’t be effective, since Venerable Cūḷapanthaka will just be repeating the same utterance over and over.”"
+
+#. </p><p>
+msgstr "Soon afterwards those nuns went to Cūḷapanthaka, bowed down to him, and sat down to one side."
+
+msgstr "Cūḷapanthaka then said to them, “Are you all present, Sisters?”"
+
+#. </p><p>
+msgstr "“We’re all present, Venerable.”"
+
+#. </p><p>
+msgstr "“Are you keeping the eight rules to be respected?”"
+
+#. </p><p>
+msgstr "“We are.”"
+
+#. </p><p>
+msgstr "After saying, “This is the instruction,” he spoke the same utterance again and again:"
+
+#. </p><blockquote class="gatha"><p>
+msgstr "<a class="wt-pa" id="518"></a>“For the heedful one possessed of the higher mind,"
+
+#. <br>
+msgstr "For the sage training on the path to sagacity,"
+
+#. <br>
+msgstr "There are no sorrows for such a one,"
+
+#. <br>
+msgstr "The peaceful one, who is always mindful.”"
+
+#. </p></blockquote><p>
+msgstr " <a class="pts-vp-en" id="BD.2.274"></a><a class="wt-pa" id="519"></a>And the nuns said, “Didn’t we say that the instruction wouldn’t be effective, that Venerable Cūḷapanthaka would just be repeating the same utterance over and over?”"
+
+msgstr "But Cūḷapanthaka overheard that conversation between the nuns."
+
+msgstr "He then rose up into the air, walked back and forth in space, and he stood, sat down, and lay down there."
+
+msgstr "He emitted smoke and fire, and he disappeared, all the while speaking the same utterance and many other sayings by the Buddha."
+
+msgstr "And the nuns said, “It’s astonishing and amazing!"
+
+msgstr "No previous instruction has been as effective as this one from Venerable Cūḷapanthaka!”"
+
+msgstr "And Cūḷapanthaka kept on instructing those nuns until the dark of night, and then dismissed them, saying, “Go, Sisters.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="520"></a>But because the gates to the town were closed, those nuns stayed the night outside and entered in the morning."
+
+msgstr "People complained and criticized them, “These nuns aren’t celibate."
+
+msgstr "They spend the night in the monastery with the monks and only now do they enter the town.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="521"></a>The monks heard the complaints of those people, and the monks of few desires …"
+
+msgstr "complained and criticized Cūḷapanthaka, “How can Venerable Cūḷapanthaka instruct the nuns after the sun has set?”"
+
+msgstr "…"
+
+msgstr "“Is it true, Cūḷapanthaka, that you did this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked him, “…"
+
+msgstr "Cūḷapanthaka, how can you instruct the nuns after the sun has set?"
+
+msgstr "This will not give rise to confidence in those without  <a class="pts-vp-en" id="BD.2.275"></a> it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="522"></a>‘Even if he has been agreed upon, if a monk instructs the nuns after sunset, he commits an offense entailing confession.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.21.2.1"></a><a class="wt-pa" id="523"></a><term>Who has been agreed upon</term>:"
+
+msgstr "<gloss>who has been agreed upon through a procedure consisting of one motion and three announcements.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="524"></a><term>After sunset</term>:"
+
+msgstr "<gloss>after the sun has gone down.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="525"></a><term>The nuns</term>:"
+
+msgstr "<gloss>they have been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="526"></a><term>Instructs</term>:"
+
+msgstr "<gloss>if he instructs in the eight rules to be respected or he gives any other teaching, he commits an offense entailing confession.</gloss>"
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.22.2.2"></a><a class="wt-pa" id="527"></a>If the sun has set, and he perceives that it has, and he instructs the nuns, he commits an offense entailing confession."
+
+msgstr "If the sun has set, but he is unsure if it has, and he instructs the nuns, he commits an offense entailing confession."
+
+msgstr "If the sun has set, but he perceives that it has not, and he instructs the nuns, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="528"></a>If he instructs a nun who is fully ordained only on one side, he commits an offense of wrong conduct."
+
+msgstr "If the sun has not set, but he perceives that it has, he commits an offense of wrong conduct."
+
+msgstr "If the sun has not set, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgstr "If the sun has not set, and he perceives that it has not, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.22.2.3"></a><a class="wt-pa" id="529"></a>There is no offense:"
+
+msgstr "if he gives a summary;"
+
+msgstr "if he questions them;"
+
+msgstr "if he recites when asked to do so;"
+
+msgstr "if he asks a question;"
+
+msgstr "if he replies when asked a question;"
+
+msgstr "if he is speaking for the benefit of someone else and the nuns listen in;"
+
+msgstr "if it is to a trainee nun;"
+
+msgstr "if it is to a novice nun;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="530"></a>The second rule, the training rule on gone down, is finished."
+
+HIER
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 23: the training rule on nuns’ dwelling places"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><h3>
+msgstr "First sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.23.1"></a> <a class="pts-vp-en" id="BD.2.276"></a><a class="wt-pa" id="531"></a>At one time the Buddha was staying in the Sakyan country at Kapilavatthu in the Banyan Tree Monastery."
+
+msgstr "At that time the monks from the group of six went to the nuns’ dwelling place and instructed the nuns from the group of six."
+
+#. </p><p>
+msgstr "Soon afterwards the nuns said to the nuns from the group of six, “Come, Venerables, let’s go to the instruction.”"
+
+#. </p><p>
+msgstr "“There’s no need;"
+
+msgstr "the monks from the group of six came and instructed us right here.”"
+
+#. </p><p>
+msgstr "The nuns complained and criticized the monks from the group of six, “How can the monks from the group of six go and instruct the nuns at their dwelling place?”"
+
+msgstr "And those nuns told the monks."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="532"></a>The monks of few desires …"
+
+msgstr "complained and criticized those monks, “How can the monks from the group of six go and instruct the nuns at their dwelling place?”"
+
+msgstr "…"
+
+msgstr "“Is it true, monks, that you did this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked them, “…"
+
+msgstr "Foolish men, how can you go and instruct the nuns at their dwelling place?"
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h3>
+msgstr "Preliminary ruling"
+
+#. </h3><p class="rule">
+msgstr "<a class="wt-pa" id="533"></a>‘If a monk goes to a nun’s dwelling place, and then instructs her, he commits an offense entailing confession.’”"
+
+#. </p><p class="endsection">
+msgstr "<a class="wt-pa" id="534"></a>In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgstr "Second sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.23.2"></a> <a class="pts-vp-en" id="BD.2.277"></a><a class="wt-pa" id="535"></a>Soon afterwards Mahāpajāpati Gotamī became sick."
+
+msgstr "The senior monks went to see her and said, “We hope you’re bearing up, Gotamī, we hope you’re getting better?”"
+
+#. </p><p>
+msgstr "“I’m not bearing up, Venerables, and I’m not getting better."
+
+msgstr "Please give me a teaching.”"
+
+#. </p><p>
+msgstr "“It’s not allowable for us to go and teach a nun at her dwelling place.”"
+
+msgstr "And being afraid of wrongdoing, they did not teach her."
+
+#. </p><p>
+msgstr "Soon afterwards, the Master robed up in the morning, took his bowl and robe, and went to Mahāpajāpati Gotamī, where he sat down on a prepared seat."
+
+msgstr "And he said to her, “I hope you’re bearing up, Gotamī, I hope you’re getting better?”"
+
+#. </p><p>
+msgstr "“Previously, Venerable Sir, the senior monks would come and teach me, and because of that I would be comfortable."
+
+msgstr "But now they don’t teach because they’re afraid of wrongdoing, saying, ‘It’s been prohibited by the Master.’"
+
+msgstr "And because of that I’m not comfortable.”"
+
+#. </p><p>
+msgstr "After instructing, inspiring, and gladdening her with a teaching, the Master rose from his seat and departed."
+
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks, “<strong class="rule">Monks, I allow you to go and instruct a sick nun at her dwelling place.</strong>"
+
+msgstr "And so, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="536"></a>‘If a monk goes to the nuns’ dwelling place and then instructs them, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgstr "The appropriate reason is that a nun is sick.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.23.3"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.23.3.1"></a><a class="wt-pa" id="537"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.278"></a><a class="wt-pa" id="538"></a><term>The nuns’ dwelling place</term>:"
+
+msgstr "<gloss>where nuns stay for even a single night.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="539"></a><term>Goes to</term>:"
+
+msgstr "<gloss>goes there.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="540"></a><term>Them</term>:"
+
+msgstr "<gloss>they have been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="541"></a><term>Instructs</term>:"
+
+msgstr "<gloss>if he instructs about the eight rules to be respected, he commits an offense entailing confession.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="542"></a><term>Unless there is an appropriate reason</term>:"
+
+msgstr "<gloss>except at an appropriate time.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="543"></a><term>A sick nun</term>:"
+
+msgstr "<gloss>she is not able to go to the instruction or to a formal meeting of the community.<span class="note">*<fn>“"
+
+msgstr "A formal meeting of the community,” <i lang="pi">saṃvāsa</i>, is defined at <i lang="pi">pācittiya</i> 69, <span class="ref">MS.2.1274</span>, as the observance day ceremony, the invitation ceremony, or a procedure.</span></gloss>"
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.23.3.2"></a><a class="wt-pa" id="544"></a>If she is fully ordained, and he perceives her as fully ordained, and he goes to her dwelling place and then instructs her, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgstr "If she is fully ordained, but he is unsure if she is, and he goes to her dwelling place and then instructs her, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgstr "If she is fully ordained, but he perceives her as not fully ordained, and he goes to her dwelling place and then instructs her, unless there is an appropriate reason, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="545"></a>If he instructs her with another teaching, he commits an offense of wrong conduct."
+
+msgstr "If he instructs a nun who is fully ordained only on one side, he commits an offense of wrong conduct."
+
+msgstr "If she is not fully ordained, but he perceives her as fully ordained, he commits an offense of wrong conduct."
+
+msgstr "If she is not fully ordained, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgstr "If she is not fully ordained, and he perceives her as not fully ordained, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.23.3.3"></a><a class="wt-pa" id="546"></a>There is no offense:"
+
+msgstr "if there is an appropriate reason;"
+
+msgstr "if he gives a summary;"
+
+msgstr "if he questions them;"
+
+msgstr "if he recites when asked to do so;"
+
+msgstr "if he asks a question;"
+
+msgstr "if he replies when asked a question;"
+
+msgstr "if he is speaking for the benefit of someone else and the nuns listen in;"
+
+msgstr "if it is to a trainee nun;"
+
+msgstr "if it is to a novice nun;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="547"></a>The third rule, the training rule on nuns’ dwelling places, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 24: the training rule on worldly gain"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.24.1"></a> <a class="pts-vp-en" id="BD.2.279"></a><a class="wt-pa" id="548"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time the senior monks who instructed the nuns received robe-cloth, almsfood, dwellings, and medicines."
+
+msgstr "And the monks from the group of six said this about them, “The senior monks aren’t instructing the nuns to render a service, but for the sake of worldly gain.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="549"></a>The monks of few desires …"
+
+msgstr "complained and criticized them, “How can the monks from the group of six say that the senior monks aren’t instructing the nuns to render a service, but for the sake of worldly gain?”"
+
+msgstr "…"
+
+msgstr "“Is it true, monks, that you say this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked them, “…"
+
+msgstr "Foolish men, how can you say that the senior monks aren’t instructing the nuns to render a service, but for the sake of worldly gain?"
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="550"></a>‘If a monk says that the senior monks are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.24.2"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.24.2.1"></a><a class="wt-pa" id="551"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.280"></a><a class="wt-pa" id="552"></a><term>For the sake of worldly gain</term>:"
+
+msgstr "<gloss>for the sake of robe-cloth, for the sake of almsfood, for the sake of a dwelling, for the sake of medicines, for the sake of honor, for the sake of respect, for the sake of deference, for the sake of veneration, for the sake of worship.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="553"></a><term>Says</term>:"
+
+msgstr "<gloss>if, concerning one who is fully ordained and who has been agreed upon by the Order as an instructor of nuns—"
+
+msgstr "desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—"
+
+msgstr "he says, “He instructs for the sake of robe-cloth/for the sake of almsfood/for the sake of a dwelling/for the sake of medicines/for the sake of honor/for the sake of respect/for the sake of deference/for the sake of veneration/for the sake of worship,” he commits an offense entailing confession.</gloss>"
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.24.2.2"></a><a class="wt-pa" id="554"></a>If it is a legitimate procedure, and he perceives it as legitimate, and he says such a thing, he commits an offense entailing confession."
+
+msgstr "If it is a legitimate procedure, but he is unsure if it is, and he says such a thing, he commits an offense entailing confession."
+
+msgstr "If it is a legitimate procedure, but he perceives it as illegitimate, and he says such a thing, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="555"></a>When someone who is fully ordained is an instructor of nuns, but he has not been agreed upon by the Order as such, and a monk—"
+
+msgstr "desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—"
+
+msgstr "says, “He instructs for the sake of robe-cloth/for the sake of almsfood/for the sake of a dwelling/for the sake of medicines/for the sake of honor/for the sake of respect/for the sake of deference/for the sake of veneration/for the sake of worship,” he commits an offense of wrong conduct."
+
+msgstr "When someone who is not fully ordained is an instructor of nuns, whether or not he has been agreed upon by the Order as such, and a monk—"
+
+msgstr "desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—"
+
+msgstr "says, “He instructs for the sake of robe-cloth/for the sake of almsfood/for the sake of a dwelling/for the sake of medicines/for the sake of honor/for the sake of respect/for the sake of deference/for the sake of veneration/for the sake of worship,” he commits an offense of wrong conduct."
+
+#. </p><p>
+msgstr "If it is an illegitimate procedure, but he perceives it as legitimate, he commits an offense of wrong conduct."
+
+msgstr "If it is an illegitimate procedure, but he is unsure if it is, he commits an offense of wrong conduct."
+
+msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.24.2.3"></a> <a class="pts-vp-en" id="BD.2.281"></a><a class="wt-pa" id="556"></a>There is no offense:"
+
+msgstr "if he normally gives the instruction for the sake of robe-cloth/for the sake of almsfood/for the sake of a dwelling/for the sake of medicines/for the sake of honor/for the sake of respect/for the sake of deference/for the sake of veneration/for the sake of worship;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="557"></a>The fourth rule, the training rule on worldly gain, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 25: the training rule on giving robe-cloth"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><h3>
+msgstr "First sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.25.1"></a> <a class="pts-vp-en" id="BD.2.282"></a><a class="wt-pa" id="558"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time a certain monk was walking for almsfood along a street in Sāvatthī, as was a certain nun."
+
+msgstr "And that monk said to that nun, “Go to such and such a place, Sister, and you will get alms,” and she said the same to him."
+
+msgstr "And because they met frequently, they became friends."
+
+#. </p><p>
+msgstr "Just then robe-cloth belonging to the Order was being distributed."
+
+msgstr "Then, after going to the instruction, that nun approached that monk, bowed down to him, and stood to one side."
+
+msgstr "That monk then said to her, “Sister, will you accept my share of the robe-cloth?”"
+
+#. </p><p>
+msgstr "“Yes, Venerable, my robes are worn.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="559"></a>And he gave his robe-cloth to that nun."
+
+msgstr "As a consequence his robes too became worn."
+
+msgstr "Other monks said to him, “Why don’t you make a robe for yourself?”"
+
+msgstr "And he told them what had happened."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="560"></a>The monks of few desires …"
+
+msgstr "complained and criticized him, “How can a monk give robe-cloth to a nun?”"
+
+msgstr "…"
+
+msgstr "“Is it true, monk, that you did this?”"
+
+#. </p><p>
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgstr "“Is she a relative of yours?”"
+
+#. </p><p>
+msgstr "“No, Master.”"
+
+#. </p><p>
+msgstr "“Foolish man, a man and a woman who are not related don’t know what’s appropriate and what’s inappropriate in dealing with each other, what’s  <a class="pts-vp-en" id="BD.2.283"></a> right and what’s wrong."
+
+msgstr "And still you gave robe-cloth to an unrelated nun."
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h3>
+msgstr "Preliminary ruling"
+
+#. </h3><p class="rule">
+msgstr "<a class="wt-pa" id="561"></a>‘If a monk gives robe-cloth to an unrelated nun, he commits an offense entailing confession.’”"
+
+#. </p><p class="endsection">
+msgstr "<a class="wt-pa" id="562"></a>In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgstr "Second sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.25.2"></a><a class="wt-pa" id="563"></a>Once this had happened, monks did not even give robe-cloth to nuns in exchange, being afraid of wrongdoing."
+
+msgstr "The nuns complained and criticized them, “How can they not give us robe-cloth in exchange?”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="564"></a>The monks heard the complaints of those nuns and they told the Master."
+
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks, “<span class="rule">Monks, if it is part of an exchange, I allow you to give things to five groups of people:"
+
+msgstr "monks, nuns, trainee nuns, novice monks, and novice nuns.</span>"
+
+msgstr "And so, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="565"></a>‘If a monk gives robe-cloth<span class="note">*<fn><i lang="pi">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe."
+
+msgstr "Thus I vary my translation depending on the context.</span>"
+
+msgstr "to an unrelated nun, unless it is an exchange, he commits an offense entailing confession.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.25.3"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.25.3.1"></a><a class="wt-pa" id="566"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="567"></a><term>Unrelated</term>:"
+
+msgstr "<gloss>anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side.</gloss>"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.284"></a><a class="wt-pa" id="568"></a><term>A nun</term>:"
+
+msgstr "<gloss>she has been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="569"></a><term>Robe-cloth</term>:"
+
+msgstr "<gloss>one of the six kinds of robe-cloth,<span class="note">*<fn>The six are linen, cotton, silk, wool, sunn hemp, and hemp;"
+
+msgstr "see <span class="ref">Mv.8.3.1</span>.</span>"
+
+msgstr "but not smaller than what can be transferred.<span class="note">*<fn>"
+
+msgstr "This means not smaller than 8 by 4 standard (<i lang="pi">sugata</i>) finger-breadths, or 16 by 8 cm;"
+
+msgstr "see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span></gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="570"></a><term>Unless it is an exchange</term>:"
+
+msgstr "<gloss>except if it is an exchange.</gloss>"
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.25.3.2"></a><a class="wt-pa" id="571"></a>If she is unrelated and he perceives her as unrelated, and he gives her robe-cloth, unless it is an exchange, he commits an offense entailing confession."
+
+msgstr "If she is unrelated, but he is unsure if she is, and he gives her robe-cloth, unless it is an exchange, he commits an offense entailing confession."
+
+msgstr "If she is unrelated, but he perceives her as related, and he gives her robe-cloth, unless it is an exchange, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="572"></a>If he gives robe-cloth to a nun who is fully ordained only on one side, unless it is an exchange, he commits an offense of wrong conduct."
+
+msgstr "If she is related, but he perceives her as unrelated, he commits an offense of wrong conduct."
+
+msgstr "If she is related, but he is unsure if she is, he commits an offense of wrong conduct."
+
+msgstr "If she is related and he perceives her as related, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.25.3.3"></a><a class="wt-pa" id="573"></a>There is no offense:"
+
+msgstr "if she is related;"
+
+msgstr "if much is exchanged with little or little is exchanged with much;"
+
+msgstr "if the nun takes it on trust;"
+
+msgstr "if she borrows it;"
+
+msgstr "if he gives any requisite apart from robe-cloth;"
+
+msgstr "if it is a trainee nun;"
+
+msgstr "if it is a novice nun;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="574"></a>The fifth rule, the training rule on giving robe-cloth, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 26: the training rule on sewing robes"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.26.1"></a> <a class="pts-vp-en" id="BD.2.285"></a><a class="wt-pa" id="575"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time Venerable Udāyī had become skilled in making robes."
+
+msgstr " Just then a certain nun approached Udāyī and said to him, “Venerable, would you please sew me a robe?”"
+
+#. </p><p>
+msgstr "He then sewed a robe for that nun, making it beautiful and nicely dyed, and he drew an imaginative picture<span class="note">*<fn><i lang="pi">Paṭibhānacittaṃ</i>."
+
+msgstr "<i lang="pi">Citta</i> is here equivalent to Sanskrit <i lang="pi">citra</i>, which means colorful, variegated, decorative, etc.,"
+
+msgstr "and by extension it also means a picture or painting, which seems to be the intended meaning here."
+
+msgstr "<i lang="pi">Paṭibhāna</i> means something like impromptu imagination."
+
+msgstr "The commentary, <span class="ref">Sp.4.804.29</span>, specifies that it was a picture of a couple having sexual intercourse.</span>"
+
+msgstr "in the middle of it."
+
+msgstr "He then folded it and put it aside."
+
+msgstr "Soon afterwards that nun went to Udāyī and said, “Venerable, where’s the robe?”"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.286"></a>“Now, Sister, take this robe as it’s folded and put it aside."
+
+msgstr "When the Order of nuns goes to the instruction, then put it on and follow right behind the other nuns.”"
+
+#. </p><p>
+msgstr "And that nun did just that."
+
+msgstr "People complained and criticized her, “How wanton these nuns are, how brazen and shameless, in that they draw pictures on their robes.”"
+
+#. </p><p></p><p>
+msgstr "<a class="wt-pa" id="576"></a>And the nuns asked her, “Who did this?”"
+
+#. </p><p>
+msgstr "“Venerable Udāyī.”"
+
+#. </p><p>
+msgstr "“This sort of work would not even make those who are wanton, brazen, and shameless look good, let alone Venerable Udāyī.”"
+
+#. </p><p>
+msgstr "The nuns told the monks, <a class="wt-pa" id="577"></a> and the monks of few desires …"
+
+msgstr "complained and criticized him, “How can Venerable Udāyī sew a robe for a nun?”"
+
+msgstr "…"
+
+msgstr "“Is it true, Udāyī, that you did this?”"
+
+#. </p><p>
+msgstr "“It’s true, Master.”"
+
+#. </p><p></p><p>
+msgstr "“Is she a relative of yours?”"
+
+#. </p><p>
+msgstr "“No, Master.”"
+
+#. </p><p>
+msgstr "“Foolish man, a man and a woman who are not related don’t know what’s appropriate and what’s inappropriate in dealing with each other, what’s inspiring and what’s not."
+
+msgstr "And still you sewed a robe for an unrelated nun."
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="578"></a>‘If a monk sews a robe for an unrelated nun, or gets one sewn, he commits an offense entailing confession.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.26.2"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.26.2.1"></a><a class="wt-pa" id="579"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="580"></a><term>Unrelated</term>:"
+
+msgstr "<gloss>anyone who is not a descendant of one’s  <a class="pts-vp-en" id="BD.2.287"></a> male ancestors going back seven generations, either on the mother’s side or on the father’s side.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="581"></a><term>A nun</term>:"
+
+msgstr "<gloss>she has been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="582"></a><term>A robe</term>:"
+
+msgstr "<gloss>one of the six kinds of robes.<span class="note">*<fn>"
+
+msgstr "The six are linen, cotton, silk, wool, sunn hemp, and hemp;"
+
+msgstr "see <span class="ref">Mv.8.3.1</span>.</span></gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="583"></a><term>Sews</term>:"
+
+msgstr "<gloss>if he sews it himself, then for each stitch he commits an offense entailing confession.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="584"></a><term>Gets sewn</term>:"
+
+msgstr "<gloss>if he asks another, he commits an offense entailing confession."
+
+msgstr "If he only asks once, then even if the other sews many times, he commits one offense entailing confession.</gloss>"
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.26.2.2"></a><a class="wt-pa" id="585"></a>If she is unrelated and he perceives her as unrelated, and he sews her a robe or gets one sewn, he commits an offense entailing confession."
+
+msgstr "If she is unrelated, but he is unsure if she is, and he sews her a robe or gets one sewn, he commits an offense entailing confession."
+
+msgstr "If she is unrelated, but he perceives her as related, and he sews her a robe or gets one sewn, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="586"></a>If he sews a robe, or gets one sewn, for a nun who is fully ordained only on one side, he commits an offense of wrong conduct."
+
+msgstr "If she is related, but he perceives her as unrelated, he commits an offense of wrong conduct."
+
+msgstr "If she is related, but he is unsure if she is, he commits an offense of wrong conduct."
+
+msgstr "If she is related and he perceives her as related, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.26.2.3"></a><a class="wt-pa" id="587"></a>There is no offense:"
+
+msgstr "if she is related;"
+
+msgstr "if he sews any requisite apart from a robe, or gets it sewn;"
+
+msgstr "if it is a trainee nun;"
+
+msgstr "if it is a novice nun;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="588"></a>The sixth rule, the training rule on sewing robes, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 27: the training rule on appointments"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><h3>
+msgstr "First sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.27.1"></a> <a class="pts-vp-en" id="BD.2.288"></a><a class="wt-pa" id="589"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time the monks from the group of six traveled on a main road by appointment with nuns."
+
+msgstr "People complained and criticized them, “Just as we go around with our wives, so these Sakyan ascetics go around by appointment with nuns.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="590"></a>The monks heard the complaints of those people, and the monks of few desires …"
+
+msgstr "complained and criticized those monks, “How can the monks from the group of six travel on a main road by appointment with nuns?”"
+
+msgstr "…"
+
+msgstr "“Is it true, monks, that you do this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked them, “…"
+
+msgstr "Foolish men, how can you travel on a main road by appointment with nuns?"
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h3>
+msgstr "Preliminary ruling"
+
+#. </h3><p class="rule">
+msgstr "<a class="wt-pa" id="591"></a>‘If a monk travels on a main road by appointment with a nun, even if just between villages, he commits an offense entailing confession.’”"
+
+#. </p><p class="endsection">
+msgstr "<a class="wt-pa" id="592"></a>In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgstr "Second sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.27.2"></a> <a class="wt-pa" id="593"></a>Soon afterwards a number of monks and nuns were traveling from Sāketa <a class="pts-vp-en" id="BD.2.289"></a> to Sāvatthī."
+
+msgstr "The nuns said to the monks, “We’ll go with you.”"
+
+#. </p><p>
+msgstr "“Sisters, it’s not allowable for us to travel on a main road by appointment with nuns."
+
+msgstr "You should go first, or we will.”"
+
+#. </p><p>
+msgstr "“Venerables, you have the highest status."
+
+msgstr "Please go first.”"
+
+#. </p><p>
+msgstr "But because the nuns went behind, they were robbed and raped by bandits."
+
+msgstr "When they arrived at Sāvatthī, they told the nuns there what had happened."
+
+msgstr "The nuns then told the monks, who in turn told the Master. <a class="wt-pa" id="594"></a>"
+
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks, “<strong class="rule">Monks, I allow you to travel on a main road by appointment with a nun if it’s a dangerous and frightening road that should be traveled with a group.</strong>"
+
+msgstr "” And so, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="595"></a>‘If a monk travels on a main road by appointment with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgstr "The appropriate reason is that the road is considered dangerous and frightening and should be traveled with a group<span class="note">*<fn><i lang="pi">Sattho</i>, often translated as caravan."
+
+msgstr "According to <span class="ref">Sp-ṭ.2.489</span> this refers either to a caravan of travelers walking on foot or to a caravan of carts:"
+
+msgstr "<i lang="pi">satthoti jaṅghasattho sakaṭasattho vā</i>.</span>.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.27.3"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.27.3.1"></a><a class="wt-pa" id="596"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="597"></a><term>A nun</term>:"
+
+msgstr "<gloss>she has been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="598"></a><term>With</term>:"
+
+msgstr "<gloss>together.</gloss>"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.290"></a><a class="wt-pa" id="599"></a><term>By appointment</term>:"
+
+msgstr "<gloss>if he makes an appointment like this:"
+
+msgstr "he says, “Let’s go, Sister,” and she replies, “Yes, let’s go, Venerable;”"
+
+msgstr "or she says, “Let’s go, Venerable,” and he replies, “Yes, let’s go, Sister;”"
+
+msgstr "or he says, “Let’s go today/tomorrow/the day after tomorrow,” then he commits an offense of wrong conduct.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="600"></a><term>Even if just between villages</term>:"
+
+msgstr "<gloss>when the villages are a chicken’s flight apart, then for every village interval he commits an offense entailing confession."
+
+msgstr "If it is in an uninhabited area, in the wilderness, then for every six kilometers<span class="note">*<fn>Half a <i lang="pi">yojana</i>."
+
+msgstr "The length of a <i lang="pi">yojana</i> is uncertain, and perhaps it never was a precise distance."
+
+msgstr "But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16)."
+
+msgstr "Thus half a <i lang="pi">yojana</i> is just over 6 km.</span>"
+
+msgstr "he commits an offense entailing confession.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="601"></a><term>Unless there is an appropriate reason</term>:"
+
+msgstr "<gloss>except at an appropriate time.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="602"></a><term>The road […]"
+
+msgstr "should be traveled with a group</term>:"
+
+msgstr "<gloss>it is not possible to travel without a group.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="603"></a><term>Dangerous</term>:"
+
+msgstr "<gloss>thieves have been seen along that road, camped, eating, standing, seated, or lying down.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="604"></a><term>Frightening</term>:"
+
+msgstr "<gloss>thieves have been seen along that road, injuring, robbing, or beating people."
+
+msgstr " If they go thinking it is frightening, but then see that it is not, the nuns are to be dismissed, “Go, Sisters.”</gloss>"
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.27.3.2"></a> <a class="pts-vp-en" id="BD.2.291"></a><a class="wt-pa" id="605"></a>If there is an appointment, and he perceives that there is, and he travels on a main road with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgstr "If there is an appointment, but he is unsure if there is, and he travels on a main road with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgstr "If there is an appointment, but he perceives that there is not, and he travels on a main road with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="606"></a>If the monk makes an appointment, but the nun does not express her agreement, he commits an offense of wrong conduct."
+
+msgstr "If there is no appointment, but he perceives that there is, he commits an offense of wrong conduct."
+
+msgstr "If there is no appointment, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgstr "If there is no appointment, and he perceives that there is not, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.27.3.3"></a><a class="wt-pa" id="607"></a>There is no offense:"
+
+msgstr "if there is an appropriate reason;"
+
+msgstr "if he goes without an appointment;"
+
+msgstr "if the nun has made an appointment, but he has not expressed his agreement;"
+
+msgstr "if they go, but not according to the appointment;"
+
+msgstr "if there are dangers;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="608"></a>The seventh rule, the training rule on appointments, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 28: the training rule on boarding boats"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><h3>
+msgstr "First sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.28.1"></a> <a class="pts-vp-en" id="BD.2.292"></a><a class="wt-pa" id="609"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time the monks from the group of six boarded a boat by appointment with nuns."
+
+msgstr "People complained and criticized them, “Just as we amuse ourselves on boats with our wives, so these Sakyan ascetics make appointments with nuns and then amuse themselves on boats.”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="610"></a>The monks heard the complaints of those people, and the monks of few desires …"
+
+msgstr "complained and criticized those monks, “How can the monks from the group of six board boats by appointments with nuns?”"
+
+msgstr "…"
+
+msgstr "“Is it true, monks, that you do this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked them, “…"
+
+msgstr "Foolish men, how can you board boats by appointments with nuns?"
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h3>
+msgstr "Preliminary ruling"
+
+#. </h3><p class="rule">
+msgstr "<a class="wt-pa" id="611"></a>‘If a monk boards a boat by appointment with a nun, either to go upstream or downstream, he commits an offense entailing confession.’”"
+
+#. </p><p class="endsection">
+msgstr "<a class="wt-pa" id="612"></a>In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgstr "Second sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.28.2"></a><a class="wt-pa" id="613"></a>Soon afterwards a number of monks and nuns were traveling from Sāketa to Sāvatthī."
+
+msgstr "On the way they had to cross a river, and the nuns said to the monks, “We’ll cross with you.”"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.293"></a>“Sisters, it’s not allowable for us to board a boat by appointment with a nun."
+
+msgstr "You should cross first, or we will.”"
+
+#. </p><p>
+msgstr "“Venerables, you have the highest status."
+
+msgstr "Please go first.”"
+
+#. </p><p>
+msgstr "But because the nuns crossed afterwards, they were robbed and raped by bandits."
+
+msgstr "When they arrived at Sāvatthī they told the nuns there what had happened."
+
+msgstr "The nuns then told the monks, who in turn told the Master. <a class="wt-pa" id="614"></a>"
+
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks, “<strong class="rule">Monks, I allow you to board a boat by appointment with a nun if it’s for the purpose of crossing.</strong>"
+
+msgstr "” And so, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="615"></a>‘If a monk boards a boat by appointment with a nun, either to go upstream or downstream, unless it is for the purpose of crossing, he commits an offense entailing confession.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.28.3"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.28.3.1"></a><a class="wt-pa" id="616"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="617"></a><term>A nun</term>:"
+
+msgstr "<gloss>she has been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="618"></a><term>With</term>:"
+
+msgstr "<gloss>together.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="619"></a><term>By appointment</term>:"
+
+msgstr "<gloss>if he makes an appointment like this:"
+
+msgstr "he says, “Let’s board, Sister,” and she replies, “Yes, let’s board, Venerable;”"
+
+msgstr "or she says, “Lets’s board, Venerable,” and he replies, “Yes, let’s board, Sister;”"
+
+msgstr "or he says, “Let’s board today/tomorrow/the day after tomorrow,” then he commits an offense of wrong conduct.</gloss>"
+
+#. </p><hr><p>
+msgstr "<a class="wt-pa" id="620"></a>If the monk boards when the nun has already boarded, he commits an offense entailing confession."
+
+msgstr "If the nun boards when the monks has already boarded, he commits an offense entailing confession."
+
+msgstr "If they both board together, he commits an offense entailing confession."
+
+#. </p><hr><p>
+msgstr "<a class="wt-pa" id="621"></a><term>To go upstream</term>:"
+
+msgstr "<gloss>for the purpose of going against the stream.</gloss>"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.294"></a><a class="wt-pa" id="622"></a><term>To go downstream</term>:"
+
+msgstr "<gloss>for the purpose of going with the stream.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="623"></a><term>Unless it is for the purpose of crossing</term>:"
+
+msgstr "<gloss>except to go across.</gloss>"
+
+#. </p><hr><p>
+msgstr "<a class="wt-pa" id="624"></a>When the villages are a chicken’s flight apart, then for every village interval he commits an offense entailing confession."
+
+msgstr "If it is in an uninhabited area, in the wilderness, then for every six kilometers<span class="note">*<fn>Half a <i lang="pi">yojana</i>."
+
+msgstr "The length of a <i lang="pi">yojana</i> is uncertain, and perhaps it never was a precise distance."
+
+msgstr "But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16)."
+
+msgstr "Thus half a <i lang="pi">yojana</i> is just over 6 km.</span>"
+
+msgstr "he commits an offense entailing confession."
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.28.3.2"></a><a class="wt-pa" id="625"></a>If there is an appointment, and he perceives that there is, and he boards a boat with a nun, either to go upstream or downstream, unless it is for the purpose of crossing, he commits an offense entailing confession."
+
+msgstr "If there is an appointment, but he is unsure if there is, and he boards a boat with a nun, either to go upstream or downstream, unless it is for the purpose of crossing, he commits an offense entailing confession."
+
+msgstr "If there is an appointment, but he perceives that there is not, and he boards a boat with a nun, either to go upstream or downstream, unless it is for the purpose of crossing, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="626"></a>If the monk makes an appointment, but the nun does not express her agreement, he commits an offense of wrong conduct."
+
+msgstr "If there is no appointment, but he perceives that there is, he commits an offense of wrong conduct."
+
+msgstr "If there is no appointment, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgstr "If there is no appointment, and he perceives that there is not, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.28.3.3"></a><a class="wt-pa" id="627"></a>There is no offense:"
+
+msgstr "if it is for the purpose of crossing;"
+
+msgstr "if he boards without an appointment;"
+
+msgstr "if the nun has made an appointment, but he has not expressed his agreement;"
+
+msgstr "if they board, but not according to the appointment;"
+
+msgstr "if there are dangers;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="628"></a>The eighth rule, the training rule on boarding boats, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 29: the training rule on what is got prepared"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><h3>
+msgstr "First sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.29.1"></a> <a class="pts-vp-en" id="BD.2.295"></a><a class="wt-pa" id="629"></a>At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
+
+msgstr "At that time the nun Thullanandā was associating with a family from which she received a regular meal."
+
+#. </p><p>
+msgstr "On one occasion the head of that family had invited some senior monks."
+
+msgstr "Just then, the nun Thullanandā robed up in the morning, took her bowl and robe, and went to that family."
+
+msgstr "And she asked the head of the family, “Why have you prepared so much food?”"
+
+#. </p><p>
+msgstr "“Because, Venerable, I’ve invited the senior monks.”"
+
+#. </p><p>
+msgstr "“But who are those senior monks?”"
+
+#. </p><p>
+msgstr "“Venerable Sāriputta, Venerable Mahāmoggallāna, Venerable Mahākaccāna, Venerable Mahākoṭṭhika, Venerable Mahākappina, Venerable Mahācunda, Venerable Anuruddha, Venerable Revata, Venerable Upāli, Venerable Ānanda, and Venerable Rāhula.”"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.296"></a>“But why do you invite such inferior monks instead of the great ones?”"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="630"></a>“Who are these great monks?”"
+
+#. </p><p>
+msgstr "“Venerable Devadatta, Venerable Kokālika, Venerable Kaṭamodakatissaka, Venerable Khaṇḍadeviyā-putta, and Venerable Samuddadatta.”"
+
+#. </p><p>
+msgstr "While this conversation was still taking place, the senior monks entered."
+
+msgstr "Thullanandā said, “Is it true that you’ve invited these great monks?”"
+
+#. </p><p>
+msgstr "“Just before you called them inferior monks, and now you call them great monks.”"
+
+msgstr "And that lay person threw her out of the house and made an end of her regular meal."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="631"></a>The monks of few desires …"
+
+msgstr "grumbled and complained, “How can Devadatta eat almsfood knowing that a nun got it prepared?”"
+
+msgstr "…"
+
+msgstr "“Is it true, Devadatta, that you did this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked him, “…"
+
+msgstr "Foolish man, how can you eat almsfood knowing that a nun got it prepared?"
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h3>
+msgstr "Preliminary ruling"
+
+#. </h3><p class="rule">
+msgstr " <a class="wt-pa" id="632"></a>‘If a monk eats almsfood knowing that <a class="pts-vp-en" id="BD.2.297"></a> a nun got it prepared, he commits an offense entailing confession.’”"
+
+#. </p><p class="endsection">
+msgstr "<a class="wt-pa" id="633"></a>In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgstr "Second sub-story"
+
+#. </h3><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.29.2"></a><a class="wt-pa" id="634"></a>Soon afterwards a monk who had earlier left Rājagaha returned to see his family."
+
+msgstr "Because it was long since he had last returned, people prepared food to honor him."
+
+msgstr "And the nun who was associating with that family said to them, “Give food to that monk.”"
+
+msgstr "The monk thought, “The Master has prohibited us from eating almsfood when we know that a nun got it prepared,” and being afraid of wrongdoing, he did not accept it."
+
+msgstr "And because he was not able to walk for alms, he missed his meal."
+
+#. </p><p>
+msgstr "After returning to the monastery, he told the monks what had happened, and they in turn told the Master. <a class="wt-pa" id="635"></a>"
+
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks, “<strong class="rule">Monks, I allow you to eat almsfood knowing that a nun got it prepared if the lay person had already intended to prepare it.</strong>"
+
+msgstr "” And so, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="636"></a>‘If a monk eats almsfood knowing that a nun got it prepared, unless the lay person had already intended to prepare it, he commits an offense entailing confession.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.29.3"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.29.3.1"></a><a class="wt-pa" id="637"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="638"></a><term>He knows</term>:"
+
+msgstr "<gloss>he knows by himself or others have told him or the nun has told him.<span class="note">*<fn>"
+
+msgstr "The last of these three ways of knowing presumably refers to the nun herself having told the monk."
+
+msgstr "See discussion in note to Relinquishment 30, <span class="ref">MS.1.2425</span>.</span></gloss>"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.298"></a><a class="wt-pa" id="639"></a><term>A nun</term>:"
+
+msgstr "<gloss>she has been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="640"></a><term>Gets it prepared</term>:"
+
+msgstr "<gloss>if she says to those who do not already want to give or want to prepare, “This monk is a reciter/this monk is learned/this monk is an expert on the discourses/this monk is an expert on the monastic law/this monk is a teacher;"
+
+msgstr "give to this monk/prepare for this monk”—"
+
+msgstr "this is called “gets it prepared.”</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="641"></a><term>Almsfood</term>:"
+
+msgstr "<gloss>any of the five staple foods.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="642"></a><term>Unless the lay person had already intended to prepare it</term>:"
+
+msgstr "<gloss>except if the lay person had intended to prepare it.</gloss>"
+
+msgstr "<a class="wt-pa" id="643"></a><term>The lay person had intended to prepare it</term>:"
+
+msgstr "<gloss>they are relatives or they have invited or they normally give.</gloss>"
+
+#. </p><hr><p>
+msgstr "<a class="wt-pa" id="644"></a>If he receives it with the intention of eating it, unless the lay person had already intended to prepare it, he commits an offense of wrong conduct."
+
+msgstr "For every mouthful, he commits an offense entailing confession."
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.29.3.2"></a><a class="wt-pa" id="645"></a>If a nun got it prepared, and he perceives that she did, and he eats it, unless the lay person had already intended to prepare it, he commits an offense entailing confession."
+
+msgstr "If a nun got it prepared, but he is unsure if she did, and he eats it, unless the lay person had already intended to prepare it, he commits an offense of wrong conduct."
+
+msgstr "If a nun got it prepared, but he perceives that she did not, and he eats it, unless the lay person had already intended to prepare it, there is no offense."
+
+#. </p><p>
+msgstr "If a nun who is fully ordained only on one side got it prepared, and he eats it, unless the lay person had already intended to prepare it, he commits an offense of wrong conduct."
+
+msgstr "If a nun did not get it prepared, but he perceives that a nun got it prepared, he commits an offense of wrong conduct."
+
+msgstr "If a nun did not get it prepared, but he is unsure of  <a class="pts-vp-en" id="BD.2.299"></a> it, he commits an offense of wrong conduct."
+
+msgstr "If a nun did not get it prepared, and he perceives that a nun did not get it prepared, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.29.3.3"></a><a class="wt-pa" id="646"></a>There is no offense:"
+
+msgstr "if the lay person had already intended to prepare it;"
+
+msgstr "if a trainee nun gets it prepared;"
+
+msgstr "if a novice nun gets it prepared;"
+
+msgstr "if it is anything apart from the five kinds of staple food;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="647"></a>The ninth rule, the training rule on what is got prepared, is finished."
+
+#. </p><hgroup><h1>
+msgstr "Monks’ Confession 30: the training rule on sitting in private"
+
+#. </h1></hgroup><h2>
+msgstr "Origin story"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.30.1"></a> <a class="pts-vp-en" id="BD.2.300"></a><a class="wt-pa" id="648"></a>At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgstr "At that time the former wife of Venerable Udāyī had been given the full ordination as a nun."
+
+msgstr "She often went to see Udāyī, and he often went to see her."
+
+msgstr "And on one occasion Udāyī was seated in private alone with that nun."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="649"></a>The monks of few desires …"
+
+msgstr "complained and criticized him, “How can Venerable Udāyī sit in private alone with a nun?”"
+
+msgstr "…"
+
+msgstr "“Is it true, Udāyī, that you did this?”"
+
+msgstr "“It’s true, Master.”"
+
+msgstr "The Buddha rebuked him, “…"
+
+msgstr "Foolish man, how can you sit in private alone with a nun?"
+
+msgstr "This will not give rise to confidence in those without it …"
+
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgstr "Final ruling"
+
+#. </h2><p class="rule">
+msgstr "<a class="wt-pa" id="650"></a>‘If a monk sits in private alone with a nun, he commits an offense entailing confession.’”"
+
+#. </p><h2>
+msgstr "Definitions"
+
+#. </h2><p> <a class="pts-cs" id="Bu-Pc.30.3"></a>
+msgstr " <a class="pts-cs" id="Bu-Pc.30.2.1"></a><a class="wt-pa" id="651"></a><term>A</term>:"
+
+msgstr "<gloss>whoever …</gloss>"
+
+msgstr "<term>Monk</term>:"
+
+msgstr "<gloss>…"
+
+msgstr "The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgstr "this sort of monk is meant in this case.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="652"></a><term>A nun</term>:"
+
+msgstr "<gloss>she has been given the full ordination by both Orders.</gloss>"
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.301"></a><a class="wt-pa" id="653"></a><term>With</term>:"
+
+msgstr "<gloss>together.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="654"></a><term>Alone</term>:"
+
+msgstr "<gloss>just the monk and the nun.</gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="655"></a><term>In private</term>:"
+
+msgstr "<gloss>there is private to the eye and there is private to the ear."
+
+msgstr "<term>Private to the eye</term>:"
+
+msgstr "<gloss>one is unable to see them winking, raising an eyebrow, or nodding.</gloss>"
+
+msgstr "<term>Private to the ear</term>:"
+
+msgstr "<gloss>one is unable to hear ordinary speech.</gloss></gloss>"
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="656"></a><term>Sits</term>:"
+
+msgstr "<gloss>if the monk sits down or lies down next to a seated nun, he commits an offense entailing confession. <a class="wt-pa" id="657"></a>"
+
+msgstr "If a nun sits down or lies down next to the seated monk, he commits an offense entailing confession."
+
+msgstr "If both are seated or both are lying down, he commits an offense entailing confession.</gloss>"
+
+#. </p><h2>
+msgstr "Permutations"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.30.2.2"></a><a class="wt-pa" id="658"></a>If it is private, and he perceives it as private, and he sits down alone with a nun, he commits an offense entailing confession."
+
+msgstr "If it is private, but he is unsure if it is, and he sits down alone with a nun, he commits an offense entailing confession."
+
+msgstr "If it is private, but he perceives it as not private, and he sits down alone with a nun, he commits an offense entailing confession."
+
+#. </p><p>
+msgstr "<a class="wt-pa" id="659"></a>If it is not private, but he perceives it as private, he commits an offense of wrong conduct."
+
+msgstr "If it is not private, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgstr "If it is not private, and he perceives it as not private, there is no offense."
+
+#. </p><h2>
+msgstr "Non-offenses"
+
+#. </h2><p>
+msgstr " <a class="pts-cs" id="Bu-Pc.30.2.3"></a><a class="wt-pa" id="660"></a>There is no offense:"
+
+msgstr "if he has another person who understands as a companion;"
+
+msgstr "if he stands and does not sit down;"
+
+msgstr "if he is not seeking privacy;"
+
+msgstr "if he sits down thinking of something else;"
+
+msgstr "if he is insane;"
+
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta">
+msgstr "<a class="wt-pa" id="661"></a>The tenth rule, the training rule on sitting in private, is finished."
+
+#. </p><p class="endchapter">
+msgstr "The third chapter on instruction is finished."
+
+#. </p><p>
+msgstr " <a class="pts-vp-en" id="BD.2.302"></a><a class="wt-pa" id="662"></a>This is the summary:"
+
+#. </p><p>
+msgstr "<uddana><a class="wt-pa" id="663"></a>Not agreed upon, gone down,"
+
+#. <br>
+msgstr "dwelling place, worldly gain, and by giving;"
+
+#. <br>
+msgstr "He sews, a main road, a boat, should eat,"
+
+#. <br>
+msgstr "Alone:"
+
+msgstr "those are the ten.</uddana>"
+

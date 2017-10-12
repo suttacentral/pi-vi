@@ -1,0 +1,270 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-06-26 12:52+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-pc37"><article><div class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-pc37:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc37:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc37:3.1"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (<i lang=\"pi\">pācittiya</i>)"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc37:4.1"
+msgid "Bhojanavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-pc37:5.1"
+msgid "37. Vikālabhojanasikkhāpada"
+msgstr ""
+
+#. </h1></div><p><a class="sc" id="1"></a>
+msgctxt "pi-tv-bu-vb-pc37:6.1"
+msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.2"
+msgid "Tena kho pana samayena rājagahe giraggasamajjo hoti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.3"
+msgid "Sattarasavaggiyā bhikkhū giraggasamajjaṃ dassanāya agamaṃsu."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.4"
+msgid "Manussā sattarasavaggiye bhikkhū passitvā nahāpetvā vilimpetvā bhojetvā khādanīyaṃ adaṃsu."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.5"
+msgid "Sattarasavaggiyā bhikkhū khādanīyaṃ ādāya ārāmaṃ gantvā chabbaggiye bhikkhū etadavocuṃ—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.6"
+msgid "“gaṇhāthāvuso, khādanīyaṃ khādathā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.7"
+msgid "“Kuto tumhehi, āvuso, khādanīyaṃ laddhan”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.8"
+msgid "Sattarasavaggiyā bhikkhū chabbaggiyānaṃ bhikkhūnaṃ etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.9"
+msgid "“Kiṃ pana tumhe, āvuso, vikāle bhojanaṃ bhuñjathā”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.10"
+msgid "“Evamāvuso”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.11"
+msgid "Chabbaggiyā bhikkhū ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:6.12"
+msgid "“kathañhi nāma sattarasavaggiyā bhikkhū vikāle bhojanaṃ bhuñjissantī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="2"></a>
+msgctxt "pi-tv-bu-vb-pc37:7.1"
+msgid "Atha kho chabbaggiyā bhikkhū bhikkhūnaṃ etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.5"
+msgid "“kathañhi nāma sattarasavaggiyā bhikkhū vikāle bhojanaṃ bhuñjissantī”ti … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.7"
+msgid "“saccaṃ kira tumhe, bhikkhave, vikāle bhojanaṃ bhuñjathā”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.8"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.9"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.11"
+msgid "kathañhi nāma tumhe, moghapurisā, vikāle bhojanaṃ bhuñjissatha."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.12"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:7.14"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr ""
+
+#. </p><p><a class="sc" id="3"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-pc37:8.1"
+msgid "“Yo pana bhikkhu vikāle khādanīyaṃ</strong> <strong>vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyan”ti."
+msgstr ""
+
+#. </strong>
+msgctxt "pi-tv-bu-vb-pc37:8.2"
+msgid "(<em>37</em>:<strong>86</strong>)"
+msgstr ""
+
+#. </p><p><a class="sc" id="4"></a><a class="pts-vp-pi" id="pts-vp-pi4.86"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc37:9.1"
+msgid "Yo panāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc37:9.1"
+msgid "yo yādiso … pe …"
+msgstr ""
+
+#. </span>
+
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc37:9.3"
+msgid "bhikkhūti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc37:9.3"
+msgid "… pe …"
+msgstr ""
+
+#. </span>
+
+msgctxt "pi-tv-bu-vb-pc37:9.5"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr ""
+
+#. </p><p><a class="sc" id="5"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc37:10.1"
+msgid "Vikālo nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc37:10.1"
+msgid "majjhanhike vītivatte yāva aruṇuggamanā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="6"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc37:11.1"
+msgid "Khādanīyaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc37:11.1"
+msgid "pañca bhojanāni—"
+msgstr ""
+
+#. </span>
+msgctxt "pi-tv-bu-vb-pc37:11.2"
+msgid "yāmakālikaṃ sattāhakālikaṃ yāvajīvikaṃ ṭhapetvā avasesaṃ khādanīyaṃ nāma."
+msgstr ""
+
+#. </p><p><a class="sc" id="7"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc37:12.1"
+msgid "Bhojanīyaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc37:12.1"
+msgid "pañca bhojanāni—"
+msgstr ""
+
+#. </span>
+msgctxt "pi-tv-bu-vb-pc37:12.2"
+msgid "odano, kummāso, sattu, maccho, maṃsaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="8"></a>
+msgctxt "pi-tv-bu-vb-pc37:13.1"
+msgid "“Khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:13.2"
+msgid "Ajjhohāre ajjhohāre āpatti pācittiyassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="9"></a>
+msgctxt "pi-tv-bu-vb-pc37:14.1"
+msgid "Vikāle vikālasaññī khādanīyaṃ vā bhojanīyaṃ vā khādati vā bhuñjati vā, āpatti pācittiyassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:14.2"
+msgid "Vikāle vematiko khādanīyaṃ vā bhojanīyaṃ vā khādati vā bhuñjati vā, āpatti pācittiyassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:14.3"
+msgid "Vikāle kālasaññī khādanīyaṃ vā bhojanīyaṃ vā khādati vā bhuñjati vā, āpatti pācittiyassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="10"></a>
+msgctxt "pi-tv-bu-vb-pc37:15.1"
+msgid "Yāmakālikaṃ sattāhakālikaṃ yāvajīvikaṃ āhāratthāya paṭiggaṇhāti, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:15.2"
+msgid "Ajjhohāre ajjhohāre āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:15.3"
+msgid "Kāle vikālasaññī, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:15.4"
+msgid "Kāle vematiko, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:15.5"
+msgid "Kāle kālasaññī, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="11"></a>
+msgctxt "pi-tv-bu-vb-pc37:16.1"
+msgid "Anāpatti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc37:16.2"
+msgid "yāmakālikaṃ sattāhakālikaṃ yāvajīvikaṃ sati paccaye paribhuñjati, ummattakassa, ādikammikassāti."
+msgstr ""
+
+#. </p><p class="endsutta"><a class="sc" id="12"></a>
+msgctxt "pi-tv-bu-vb-pc37:17.1"
+msgid "Vikālabhojanasikkhāpadaṃ niṭṭhitaṃ sattamaṃ."
+msgstr ""
+

@@ -1,0 +1,502 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-06-26 12:52+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-pc6"><article><div class="hgroup"><p class="division"> 
+msgctxt "pi-tv-bu-vb-pc6:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:3.1"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (<i lang=\"pi\">pācittiya</i>)"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:4.1"
+msgid "Musāvādavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-pc6:5.1"
+msgid "6. Dutiyasahaseyyasikkhāpada"
+msgstr "Monks’ Confession 6: the second training rule on the same sleeping place"
+
+#. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-pc6:6.1"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi4.18"></a><a class="pts-cs" id="Bu-Pc.6.1"></a><a class="pts-vp-en" id="BD.2.198"></a><a class="wt-pa" id="wt-pa182"></a> 
+msgctxt "pi-tv-bu-vb-pc6:6.2"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+#. <span class="var" hidden>janapade → janapadesu (bj, s1-3, pts1)</span> 
+msgctxt "pi-tv-bu-vb-pc6:6.3"
+msgid "Tena kho pana samayena āyasmā anuruddho kosalesu janapade sāvatthiṃ gacchanto sāyaṃ aññataraṃ gāmaṃ upagacchi."
+msgstr "Just then, while Venerable Anuruddha was walking through the Kosalan country on his way to Sāvatthī, one evening he arrived at a certain village."
+
+msgctxt "pi-tv-bu-vb-pc6:6.4"
+msgid "Tena kho pana samayena tasmiṃ gāme aññatarissā itthiyā āvasathāgāraṃ paññattaṃ hoti."
+msgstr "Just then a woman in that village had prepared her rest house."
+
+msgctxt "pi-tv-bu-vb-pc6:6.5"
+msgid "Atha kho āyasmā anuruddho yena sā itthī tenupasaṅkami; upasaṅkamitvā taṃ itthiṃ etadavoca—"
+msgstr "Anuruddha approached that woman and said,"
+
+msgctxt "pi-tv-bu-vb-pc6:6.6"
+msgid "“sace te, bhagini, agaru, vaseyyāma ekarattaṃ āvasathāgāre”ti."
+msgstr "“If it’s not inconvenient for you, I’d like to stay in your rest house for one night.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:6.7"
+msgid "“Vaseyyātha, bhante”ti."
+msgstr "“Please stay, Venerable.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:6.8"
+msgid "Aññepi addhikā yena sā itthī tenupasaṅkamiṃsu; upasaṅkamitvā taṃ itthiṃ etadavocuṃ—"
+msgstr "Other travelers also approached that woman and said,"
+
+msgctxt "pi-tv-bu-vb-pc6:6.9"
+msgid "“sace te, ayye, agaru vaseyyāma ekarattaṃ āvasathāgāre”ti."
+msgstr "“Madam, if it’s not troublesome for you, we’d like to stay in your rest house for one night.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:6.10"
+msgid "“Eso kho ayyo samaṇo paṭhamaṃ upagato;"
+msgstr "“Sirs, an ascetic is already staying there."
+
+msgctxt "pi-tv-bu-vb-pc6:6.11"
+msgid "sace so anujānāti, vaseyyāthā”ti."
+msgstr "If he agrees, you may stay.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:6.12"
+msgid "Atha kho te addhikā yenāyasmā anuruddho tenupasaṅkamiṃsu; upasaṅkamitvā āyasmantaṃ anuruddhaṃ etadavocuṃ—"
+msgstr "Those travelers then approached Anuruddha and said,"
+
+msgctxt "pi-tv-bu-vb-pc6:6.13"
+msgid "“sace te, bhante, agaru, vaseyyāma ekarattaṃ āvasathāgāre”ti."
+msgstr "“Venerable, if it’s not troublesome for you, we’d like to stay one night in the rest house.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:6.14"
+msgid "“Vaseyyātha, āvuso”ti."
+msgstr "“Please stay.”"
+
+#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pi" id="pts-vp-pi4.19"></a><a class="wt-pa" id="wt-pa183"></a> 
+msgctxt "pi-tv-bu-vb-pc6:7.1"
+msgid "Atha kho sā itthī āyasmante anuruddhe saha dassanena paṭibaddhacittā ahosi."
+msgstr "Now as soon as that woman had seen Anuruddha, she had fallen in love with him."
+
+#. <a class="pts-vp-en" id="BD.2.199"></a> 
+msgctxt "pi-tv-bu-vb-pc6:7.2"
+msgid "Atha kho sā itthī yenāyasmā anuruddho tenupasaṅkami; upasaṅkamitvā āyasmantaṃ anuruddhaṃ etadavoca—"
+msgstr "She now approached him and said,"
+
+msgctxt "pi-tv-bu-vb-pc6:7.3"
+msgid "“ayyo, bhante, imehi manussehi ākiṇṇo na phāsu viharissati."
+msgstr "“Venerable, you won’t be at ease surrounded by these people."
+
+msgctxt "pi-tv-bu-vb-pc6:7.4"
+msgid "Sādhāhaṃ, bhante, ayyassa mañcakaṃ abbhantaraṃ paññapeyyan”ti."
+msgstr "It would be good if I prepared a bed for you in the main house.”"
+
+msgctxt "pi-tv-bu-vb-pc6:7.5"
+msgid "Adhivāsesi kho āyasmā anuruddho tuṇhībhāvena."
+msgstr "Anuruddha consented by remaining silent."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:7.6"
+msgid "Atha kho sā itthī āyasmato anuruddhassa mañcakaṃ abbhantaraṃ paññapetvā alaṅkatappaṭiyattā gandhagandhinī yenāyasmā anuruddho tenupasaṅkami; upasaṅkamitvā āyasmantaṃ anuruddhaṃ etadavoca—"
+msgstr "After preparing a bed in the main house, she put on jewelery and perfume, and she approached Anuruddha and said,"
+
+msgctxt "pi-tv-bu-vb-pc6:7.7"
+msgid "“ayyo, bhante, abhirūpo dassanīyo pāsādiko, ahañcamhi abhirūpā dassanīyā pāsādikā."
+msgstr "“Venerable, you’re good-looking and graceful, and so am I."
+
+msgctxt "pi-tv-bu-vb-pc6:7.8"
+msgid "Sādhāhaṃ, bhante, ayyassa pajāpati bhaveyyan”ti."
+msgstr "It would be good, Venerable, if I were to become your wife.”"
+
+msgctxt "pi-tv-bu-vb-pc6:7.9"
+msgid "Evaṃ vutte, āyasmā anuruddho tuṇhī ahosi."
+msgstr "But Anuruddha remained silent."
+
+msgctxt "pi-tv-bu-vb-pc6:7.10"
+msgid "Dutiyampi kho … pe …"
+msgstr "She said the same thing a second time, but again got no response."
+
+msgctxt "pi-tv-bu-vb-pc6:7.11"
+msgid "tatiyampi kho sā itthī āyasmantaṃ anuruddhaṃ etadavoca—"
+msgstr "And a third time she said,"
+
+msgctxt "pi-tv-bu-vb-pc6:7.12"
+msgid "“ayyo, bhante, abhirūpo dassanīyo pāsādiko, ahañcamhi abhirūpā dassanīyā pāsādikā."
+msgstr "“Venerable, you’re good-looking and graceful, and so am I."
+
+#. <span class="var" hidden>paṭicchatu → sampaṭicchatu (s1-3)</span> 
+msgctxt "pi-tv-bu-vb-pc6:7.13"
+msgid "Sādhu, bhante, ayyo mañceva paṭicchatu sabbañca sāpateyyan”ti."
+msgstr "It would be good, Venerable, if you took me and all this property.”"
+
+msgctxt "pi-tv-bu-vb-pc6:7.14"
+msgid "Tatiyampi kho āyasmā anuruddho tuṇhī ahosi."
+msgstr "But Anuruddha remained silent for a third time."
+
+msgctxt "pi-tv-bu-vb-pc6:7.15"
+msgid "Atha kho sā itthī sāṭakaṃ nikkhipitvā āyasmato anuruddhassa purato caṅkamatipi tiṭṭhatipi nisīdatipi seyyampi kappeti."
+msgstr "She then threw off her clothes, and she walked up and down, stood, sat down, and lay down in front of him."
+
+msgctxt "pi-tv-bu-vb-pc6:7.16"
+msgid "Atha kho āyasmā anuruddho indriyāni okkhipitvā taṃ itthiṃ neva olokesi napi ālapi."
+msgstr "But Anuruddha controlled his senses and neither looked at nor spoke to her."
+
+msgctxt "pi-tv-bu-vb-pc6:7.17"
+msgid "Atha kho sā itthī—"
+msgstr "Then that woman said,"
+
+msgctxt "pi-tv-bu-vb-pc6:7.18"
+msgid "“acchariyaṃ vata bho, abbhutaṃ vata bho."
+msgstr "“It’s astonishing and amazing."
+
+msgctxt "pi-tv-bu-vb-pc6:7.19"
+msgid "Bahū me manussā satenapi sahassenapi pahiṇanti."
+msgstr "Many people send for me with a hundred or a thousand coins."
+
+msgctxt "pi-tv-bu-vb-pc6:7.20"
+msgid "Ayaṃ pana samaṇo—mayā sāmaṃ yāciyamāno—na icchati mañceva paṭicchituṃ sabbañca sāpateyyan”ti "
+msgstr "But this ascetic, even when begged by me, does not want me and all this property.”"
+
+#. <a class="pts-vp-en" id="BD.2.200"></a> 
+msgctxt "pi-tv-bu-vb-pc6:7.21"
+msgid "sāṭakaṃ nivāsetvā āyasmato anuruddhassa pādesu sirasā nipatitvā āyasmantaṃ anuruddhaṃ etadavoca—"
+msgstr "After dressing, she fell down with her head at the feet of Anuruddha and said,"
+
+msgctxt "pi-tv-bu-vb-pc6:7.22"
+msgid "“accayo maṃ, bhante, accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ yāhaṃ evamakāsiṃ."
+msgstr "“Venerable, I’ve committed an offense, in that foolishly, confused, and unskillfully I acted in this way."
+
+msgctxt "pi-tv-bu-vb-pc6:7.23"
+msgid "Tassā me, bhante, ayyo accayaṃ accayato paṭiggaṇhātu āyatiṃ saṃvarāyā”ti."
+msgstr "Venerable, please forgive me for my offense so that I may restrain myself in the future.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:7.24"
+msgid "“Taggha tvaṃ, bhagini, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ yā tvaṃ evamakāsi."
+msgstr "“Certainly you have committed an offense, in that foolishly, confused, and unskillfully you acted in this way."
+
+msgctxt "pi-tv-bu-vb-pc6:7.25"
+msgid "Yato ca kho tvaṃ, bhagini, accayaṃ accayato disvā yathādhammaṃ paṭikarosi, taṃ te mayaṃ paṭiggaṇhāma."
+msgstr "But since you acknowledge your offense and you make amends for it in accordance with the Teaching, I forgive you."
+
+msgctxt "pi-tv-bu-vb-pc6:7.26"
+msgid "Vuddhi hesā, bhagini, ariyassa vinaye yo accayaṃ accayato disvā yathādhammaṃ paṭikaroti āyatiñca saṃvaraṃ āpajjatī”ti."
+msgstr "For this is called growth in the training of the noble ones, that is, acknowledging an offense, making amends in accordance with the Teaching, and undertaking restraint for the future.”"
+
+#. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa184"></a> 
+msgctxt "pi-tv-bu-vb-pc6:8.1"
+msgid "Atha kho sā itthī tassā rattiyā accayena āyasmantaṃ anuruddhaṃ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā, āyasmantaṃ anuruddhaṃ bhuttāviṃ onītapattapāṇiṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "The following morning, with her own hands, that woman served and satisfied Anuruddha with various kinds of fine food. When he had finished his meal, she bowed down to him, and sat down to one side."
+
+msgctxt "pi-tv-bu-vb-pc6:8.2"
+msgid "Ekamantaṃ nisinnaṃ kho taṃ itthiṃ āyasmā anuruddho dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi."
+msgstr "And Anuruddha instructed, inspired, and gladdened her with a teaching."
+
+msgctxt "pi-tv-bu-vb-pc6:8.3"
+msgid "Atha kho sā itthī—āyasmatā anuruddhena dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṃsitā—āyasmantaṃ anuruddhaṃ etadavoca—"
+msgstr "She then said to him,"
+
+msgctxt "pi-tv-bu-vb-pc6:8.4"
+msgid "“abhikkantaṃ, bhante, abhikkantaṃ, bhante."
+msgstr "“Wonderful, Venerable, wonderful!"
+
+msgctxt "pi-tv-bu-vb-pc6:8.5"
+msgid "Seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya—‘cakkhumanto rūpāni dakkhantī’ti;"
+msgstr "Just as one might set upright what had been overturned, or reveal what had been hidden, or show the way to one who was lost, or bring a lamp into the darkness so that one with eyes might see what is there—"
+
+msgctxt "pi-tv-bu-vb-pc6:8.6"
+msgid "evamevaṃ ayyena anuruddhena anekapariyāyena dhammo pakāsito."
+msgstr "even so has Anuruddha made the Teaching clear in many ways."
+
+msgctxt "pi-tv-bu-vb-pc6:8.7"
+msgid "Esāhaṃ, bhante, taṃ bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṃghañca."
+msgstr "Venerable, I go for refuge to the Master and to the Teaching and to the Order of monks."
+
+#. <a class="pts-vp-en" id="BD.2.201"></a> 
+msgctxt "pi-tv-bu-vb-pc6:8.8"
+msgid "Upāsikaṃ maṃ ayyo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti."
+msgstr "Please accept me as a lay follower who from today has gone for refuge for life.”"
+
+#. </p><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa185"></a> 
+msgctxt "pi-tv-bu-vb-pc6:9.1"
+msgid "Atha kho āyasmā anuruddho sāvatthiṃ gantvā bhikkhūnaṃ etamatthaṃ ārocesi."
+msgstr "Soon afterwards, after arriving at Sāvatthī, Anuruddha informed the monks of what had happened."
+
+msgctxt "pi-tv-bu-vb-pc6:9.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "The monks of few desires …"
+
+msgctxt "pi-tv-bu-vb-pc6:9.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized Anuruddha,"
+
+msgctxt "pi-tv-bu-vb-pc6:9.4"
+msgid "“kathañhi nāma āyasmā anuruddho mātugāmena sahaseyyaṃ kappessatī”ti."
+msgstr "“How can Venerable Anuruddha sleep in the same sleeping place as a woman?”"
+
+#. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa186"></a> 
+msgctxt "pi-tv-bu-vb-pc6:10.1"
+msgid "Atha kho te bhikkhū āyasmantaṃ anuruddhaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After criticizing him in many ways, they informed the Master. …"
+
+msgctxt "pi-tv-bu-vb-pc6:10.2"
+msgid "“saccaṃ kira tvaṃ, anuruddha, mātugāmena sahaseyyaṃ kappesī”ti?"
+msgstr "“Is it true, Anuruddha, that you did this?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:10.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc6:10.4"
+msgid "Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṃ, anuruddha, mātugāmena sahaseyyaṃ kappessasi."
+msgstr "Anuruddha, how can you sleep in the same sleeping place as a woman?"
+
+msgctxt "pi-tv-bu-vb-pc6:10.5"
+msgid "Netaṃ, anuruddha, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pi-tv-bu-vb-pc6:10.6"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-pc6:11.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa187"></a>
+#. <strong class="rule"> 
+msgctxt "pi-tv-bu-vb-pc6:11.2"
+msgid "“Yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya pācittiyan”ti."
+msgstr "‘If a monk sleeps in the same sleeping place as a woman, he commits an offense entailing confession.’”"
+
+#. </strong> 
+msgctxt "pi-tv-bu-vb-pc6:11.3"
+msgid "(<em>6</em>:<strong>55</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-pc6:12.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.6.2"></a><a class="pts-cs" id="Bu-Pc.6.2.1"></a><a class="wt-pa" id="wt-pa188"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc6:12.2"
+msgid "Yo panāti"
+msgstr "A:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc6:12.3"
+msgid "yo yādiso … pe …"
+msgstr "whoever …"
+
+#. </span><strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc6:12.4"
+msgid "bhikkhūti"
+msgstr "Monk:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc6:12.5"
+msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+
+#. </span></p><p><a class="sc" id="8"></a><span class="var" hidden>yakkhī → yakkhinī (mr)</span><a class="wt-pa" id="wt-pa189"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc6:13.1"
+msgid "Mātugāmo nāma"
+msgstr "A woman:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc6:13.2"
+msgid "manussitthī, na yakkhī, na petī, na tiracchānagatā;"
+msgstr "a human female, not a female spirit, not a female ghost, not a female animal;"
+
+msgctxt "pi-tv-bu-vb-pc6:13.3"
+msgid "antamaso tadahujātāpi dārikā, pageva mahattarī."
+msgstr "even a girl born on that very day, all the more an older one."
+
+#. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa190"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc6:14.1"
+msgid "Sahāti"
+msgstr "Same:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc6:14.2"
+msgid "ekato."
+msgstr "together."
+
+#. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa191"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc6:15.1"
+msgid "Seyyā nāma"
+msgstr "Sleeping place:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc6:15.2"
+msgid "sabbacchannā, sabbaparicchannā, yebhuyyenacchannā, yebhuyyena paricchannā."
+msgstr "fully roofed, fully walled; mostly roofed, mostly walled."
+
+#. </span>
+#. </p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi4.20"></a><a class="wt-pa" id="wt-pa192"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc6:16.1"
+msgid "Seyyaṃ kappeyyāti"
+msgstr "Sleeps […] in the same sleeping place"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc6:16.2"
+msgid "atthaṅgate sūriye, mātugāme nipanne bhikkhu nipajjati, āpatti pācittiyassa."
+msgstr "when the sun has set: if the monk lies down when the woman is already lying down, he commits an offense entailing confession;"
+
+#. <a class="pts-vp-en" id="BD.2.202"></a> 
+msgctxt "pi-tv-bu-vb-pc6:16.3"
+msgid "Bhikkhu nipanne mātugāmo nipajjati, āpatti pācittiyassa."
+msgstr "if the woman lies down when the monk is already lying down, he commits an offense entailing confession;"
+
+msgctxt "pi-tv-bu-vb-pc6:16.4"
+msgid "Ubho vā nipajjanti, āpatti pācittiyassa."
+msgstr "if they both lie down together, he commits an offense entailing confession;"
+
+msgctxt "pi-tv-bu-vb-pc6:16.5"
+msgid "Uṭṭhahitvā punappunaṃ nipajjanti, āpatti pācittiyassa."
+msgstr "every time they get up and then lie down again, he commits an offense entailing confession."
+
+#. </span></p><h2>
+msgctxt "pi-tv-bu-vb-pc6:17.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="12"></a><a class="pts-cs" id="Bu-Pc.6.2.2"></a><a class="wt-pa" id="wt-pa193"></a> 
+msgctxt "pi-tv-bu-vb-pc6:17.2"
+msgid "Mātugāme mātugāmasaññī sahaseyyaṃ kappeti, āpatti pācittiyassa."
+msgstr "If it is a woman, and he perceives her as a woman, and he sleeps in the same sleeping place as her, he commits an offense entailing confession."
+
+msgctxt "pi-tv-bu-vb-pc6:17.3"
+msgid "Mātugāme vematiko sahaseyyaṃ kappeti, āpatti pācittiyassa."
+msgstr "If it is a woman, but he is unsure if she is, and he sleeps in the same sleeping place as her, he commits an offense entailing confession."
+
+msgctxt "pi-tv-bu-vb-pc6:17.4"
+msgid "Mātugāme amātugāmasaññī sahaseyyaṃ kappeti, āpatti pācittiyassa."
+msgstr "If it is a woman, but he does not perceive her as a woman, and he sleeps in the same sleeping place as her, he commits an offense entailing confession."
+
+#. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="wt-pa194"></a> 
+msgctxt "pi-tv-bu-vb-pc6:18.1"
+msgid "Upaḍḍhacchanne upaḍḍhaparicchanne, āpatti dukkaṭassa."
+msgstr "If it is half-roofed and half-walled, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pc6:18.2"
+msgid "Yakkhiyā vā petiyā vā paṇḍakena vā tiracchānagatitthiyā vā sahaseyyaṃ kappeti, āpatti dukkaṭassa."
+msgstr "If he sleeps in the same sleeping place as a female spirit, a female ghost, a sexual nonconformist, or a female animal, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pc6:18.3"
+msgid "Amātugāme mātugāmasaññī, āpatti dukkaṭassa."
+msgstr "If it is not a woman, but he perceives it as a woman, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pc6:18.4"
+msgid "Amātugāme vematiko, āpatti dukkaṭassa."
+msgstr "If it is not a woman, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pc6:18.5"
+msgid "Amātugāme amātugāmasaññī, anāpatti."
+msgstr "If it is not a woman, and he does not perceive it as a woman, there is no offense."
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-pc6:19.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="Bu-Pc.6.2.3"></a><a class="wt-pa" id="wt-pa195"></a> 
+msgctxt "pi-tv-bu-vb-pc6:19.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pi-tv-bu-vb-pc6:19.3"
+msgid "sabbacchanne sabbaaparicchanne,"
+msgstr "if it is fully roofed, but not walled;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.4"
+msgid "sabbaparicchanne sabbaacchanne,"
+msgstr "if it is fully walled, but not roofed;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.5"
+msgid "yebhuyyena acchanne,"
+msgstr "if it is mostly not roofed;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.6"
+msgid "yebhuyyena aparicchanne,"
+msgstr "if it is mostly not walled;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.7"
+msgid "mātugāme nipanne bhikkhu nisīdati,"
+msgstr "if the monk sits when the woman is lying down;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.8"
+msgid "bhikkhu nipanne mātugāmo nisīdati,"
+msgstr "if the woman sits when the monk is lying down;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.9"
+msgid "ubho vā nisīdanti,"
+msgstr "if they both sit down together;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.10"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pi-tv-bu-vb-pc6:19.11"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa196"></a> 
+msgctxt "pi-tv-bu-vb-pc6:20.1"
+msgid "Dutiyasahaseyyasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ."
+msgstr "The sixth rule, the second training rule on the same sleeping place, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pi-tv-bu-vb-pc6:20.2"
+msgid ""
+msgstr ""

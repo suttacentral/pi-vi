@@ -1,0 +1,373 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-06-26 12:52+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-pc27"><article><div class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-pc27:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:3.1"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (<i lang=\"pi\">pācittiya</i>)"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:4.1"
+msgid "Ovādavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-pc27:5.1"
+msgid "27. Saṃvidhānasikkhāpada"
+msgstr ""
+
+#. </h1></div><p><a class="sc" id="1"></a>
+msgctxt "pi-tv-bu-vb-pc27:6.1"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:6.2"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjanti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:6.3"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:6.4"
+msgid "“yatheva mayaṃ sapajāpatikā āhiṇḍāma, evamevime samaṇā sakyaputtiyā bhikkhunīhi saddhiṃ saṃvidhāya āhiṇḍantī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="2"></a>
+msgctxt "pi-tv-bu-vb-pc27:7.1"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.5"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjissantī”ti … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.7"
+msgid "“saccaṃ kira tumhe, bhikkhave, bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjathā”ti?"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.8"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.9"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.11"
+msgid "kathañhi nāma tumhe, moghapurisā, bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjissatha."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.12"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:7.14"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha."
+msgstr ""
+
+#. </p><p><a class="sc" id="3"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-pc27:8.1"
+msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, pācittiyan”ti."
+msgstr ""
+
+#. </strong>
+#. </p><p><a class="sc" id="4"></a>
+msgctxt "pi-tv-bu-vb-pc27:9.1"
+msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
+msgstr ""
+
+#. </p><p><a class="sc" id="5"></a><a class="pts-vp-pi" id="pts-vp-pi4.63"></a>
+msgctxt "pi-tv-bu-vb-pc27:10.1"
+msgid "Tena kho pana samayena sambahulā bhikkhū ca bhikkhuniyo ca sāketā sāvatthiṃ addhānamaggappaṭipannā honti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.2"
+msgid "Atha kho tā bhikkhuniyo te bhikkhū etadavocuṃ—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.3"
+msgid "“mayampi ayyehi saddhiṃ gamissāmā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.4"
+msgid "“Na, bhaginī, kappati bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjituṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.5"
+msgid "Tumhe vā paṭhamaṃ gacchatha mayaṃ vā gamissāmā”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.6"
+msgid "“Ayyā, bhante, aggapurisā."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.7"
+msgid "Ayyāva paṭhamaṃ gacchantū”ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.8"
+msgid "Atha kho tāsaṃ bhikkhunīnaṃ pacchā gacchantīnaṃ antarāmagge corā acchindiṃsu ca dūsesuñca."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.9"
+msgid "Atha kho tā bhikkhuniyo sāvatthiṃ gantvā bhikkhunīnaṃ etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.10"
+msgid "Bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:10.11"
+msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="6"></a>
+msgctxt "pi-tv-bu-vb-pc27:11.1"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:11.2"
+msgid "“anujānāmi, bhikkhave, satthagamanīye magge sāsaṅkasammate sappaṭibhaye bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjituṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:11.3"
+msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr ""
+
+#. </p><p><a class="sc" id="7"></a>
+msgctxt "pi-tv-bu-vb-pc27:12.1"
+msgid "<strong class=\"rule\">“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, aññatra samayā, pācittiyaṃ."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:12.2"
+msgid "Tatthāyaṃ samayo."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:12.3"
+msgid "Satthagamanīyo hoti maggo sāsaṅkasammato sappaṭibhayo—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:12.4"
+msgid "ayaṃ tattha samayo”</strong>ti."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:12.5"
+msgid "(<em>27</em>:<strong>76</strong>)"
+msgstr ""
+
+#. </p><p><a class="sc" id="8"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:13.1"
+msgid "Yo panāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:13.1"
+msgid "yo yādiso … pe …"
+msgstr ""
+
+#. </span>
+
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:13.3"
+msgid "bhikkhūti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:13.3"
+msgid "… pe …"
+msgstr ""
+
+#. </span>
+
+msgctxt "pi-tv-bu-vb-pc27:13.5"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr ""
+
+#. </p><p><a class="sc" id="9"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:14.1"
+msgid "Bhikkhunī nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:14.1"
+msgid "ubhatosaṃghe upasampannā."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:15.1"
+msgid "Saddhinti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:15.1"
+msgid "ekato."
+msgstr ""
+
+#. </span>
+
+#. </p><p><a class="sc" id="11"></a>
+msgctxt "pi-tv-bu-vb-pc27:16.1"
+msgid "<strong>Saṃvidhāyā</strong>ti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:16.2"
+msgid "“gacchāma, bhagini, gacchāmāyya;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:16.3"
+msgid "gacchāmāyya, gacchāma, bhagini;"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:16.4"
+msgid "ajja vā hiyyo vā pare vā gacchāmā”ti saṃvidahati, āpatti dukkaṭassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="12"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:17.1"
+msgid "Antamaso gāmantarampīti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:17.1"
+msgid "kukkuṭasampāte gāme, gāmantare gāmantare āpatti pācittiyassa."
+msgstr ""
+
+#. </span>
+
+msgctxt "pi-tv-bu-vb-pc27:17.2"
+msgid "Agāmake araññe, addhayojane addhayojane āpatti pācittiyassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="13"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:18.1"
+msgid "Aññatra samayāti"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:18.1"
+msgid "ṭhapetvā samayaṃ."
+msgstr ""
+
+#. </span>
+
+#. </p><p><a class="sc" id="14"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:19.1"
+msgid "Satthagamanīyo nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:19.1"
+msgid "maggo na sakkā hoti vinā satthena gantuṃ."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="15"></a> <span class="var" hidden>tasmiṃ magge → yasmiṃ magge (?)</span>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:20.1"
+msgid "Sāsaṅkaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:20.1"
+msgid "tasmiṃ magge corānaṃ niviṭṭhokāso dissati, bhuttokāso dissati, ṭhitokāso dissati, nisinnokāso dissati, nipannokāso dissati."
+msgstr ""
+
+#. </span>
+#. </p><p><a class="sc" id="16"></a><a class="pts-vp-pi" id="pts-vp-pi4.64"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-pc27:21.1"
+msgid "Sappaṭibhayaṃ nāma"
+msgstr ""
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-pc27:21.1"
+msgid "tasmiṃ magge corehi manussā hatā dissanti, viluttā dissanti, ākoṭitā dissanti, sappaṭibhayaṃ gantvā appaṭibhayaṃ dassetvā uyyojetabbā—"
+msgstr ""
+
+#. </span>
+msgctxt "pi-tv-bu-vb-pc27:21.2"
+msgid "“gacchatha, bhaginiyo”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="17"></a>
+msgctxt "pi-tv-bu-vb-pc27:22.1"
+msgid "Saṃvidahite saṃvidahitasaññī ekaddhānamaggaṃ paṭipajjati, antamaso gāmantarampi, aññatra samayā, āpatti pācittiyassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:22.2"
+msgid "Saṃvidahite vematiko ekaddhānamaggaṃ paṭipajjati, antamaso gāmantarampi, aññatra samayā, āpatti pācittiyassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:22.3"
+msgid "Saṃvidahite, asaṃvidahitasaññī ekaddhānamaggaṃ paṭipajjati, antamaso gāmantarampi, aññatra samayā, āpatti pācittiyassa."
+msgstr ""
+
+#. </p><p><a class="sc" id="18"></a>
+msgctxt "pi-tv-bu-vb-pc27:23.1"
+msgid "Bhikkhu saṃvidahati bhikkhunī na saṃvidahati, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:23.2"
+msgid "Asaṃvidahite saṃvidahitasaññī, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:23.3"
+msgid "Asaṃvidahite vematiko, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:23.4"
+msgid "Asaṃvidahite asaṃvidahitasaññī, anāpatti."
+msgstr ""
+
+#. </p><p><a class="sc" id="19"></a>
+msgctxt "pi-tv-bu-vb-pc27:24.1"
+msgid "Anāpatti—"
+msgstr ""
+
+msgctxt "pi-tv-bu-vb-pc27:24.2"
+msgid "samaye, asaṃvidahitvā gacchati, bhikkhunī saṃvidahati, bhikkhu na saṃvidahati, visaṅketena gacchanti, āpadāsu, ummattakassa, ādikammikassāti."
+msgstr ""
+
+#. </p><p class="endsutta"><a class="sc" id="20"></a>
+msgctxt "pi-tv-bu-vb-pc27:25.1"
+msgid "Saṃvidhānasikkhāpadaṃ niṭṭhitaṃ sattamaṃ."
+msgstr ""
+
