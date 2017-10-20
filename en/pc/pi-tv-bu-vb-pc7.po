@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-pc7"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-pc7"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-pc7:1.1"
 msgid "Theravāda Vinaya"
 msgstr ""
@@ -76,7 +76,7 @@ msgctxt "pi-tv-bu-vb-pc7:6.9"
 msgid "“kiṃ nu kho so samaṇo sassuyā jāro udāhu obhāsatī”ti?"
 msgstr "“Is this ascetic my mother-in-law’s lover, or is he speaking lewdly?”"
 
-#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pi" id="pts-vp-pi4.21"></a><a class="wt-pa" id="wt-pa198"></a> 
+#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli4.21"></a><a class="wt-pa" id="wt-pa198"></a> 
 msgctxt "pi-tv-bu-vb-pc7:7.1"
 msgid "Atha kho āyasmā udāyī gharaṇiyā upakaṇṇake dhammaṃ desetvā yena gharasuṇhā tenupasaṅkami; upasaṅkamitvā gharasuṇhāya upakaṇṇake dhammaṃ desesi."
 msgstr "After teaching the housewife in this way, Udāyī approached the daughter-in-law and gave her a teaching in the same way."
@@ -269,7 +269,7 @@ msgid "“Yo pana bhikkhū mātugāmassa uttarichappañcavācāhi dhammaṃ dese
 msgstr "‘If a monk gives a teaching of more than five or six sentences to a woman, he commits an offense entailing confession.’”"
 
 #. </strong>
-#. </p><p class="endsection"><a class="sc" id="10"></a><a class="pts-vp-pi" id="pts-vp-pi4.22"></a><a class="wt-pa" id="wt-pa206"></a> 
+#. </p><p class="endsection"><a class="sc" id="10"></a><a class="pts-vp-pli" id="pts-vp-pli4.22"></a><a class="wt-pa" id="wt-pa206"></a> 
 msgctxt "pi-tv-bu-vb-pc7:15.1"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -463,7 +463,7 @@ msgctxt "pi-tv-bu-vb-pc7:25.4"
 msgid "Mātugāme amātugāmasaññī uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, āpatti pācittiyassa."
 msgstr "If it is a woman, but he does not perceive her as a woman, and he teaches her more than five or six sentences, except in the presence of a man who understands, he commits an offense entailing confession."
 
-#. </p><p><a class="sc" id="21"></a><a class="pts-vp-pi" id="pts-vp-pi4.23"></a><a class="wt-pa" id="wt-pa217"></a> 
+#. </p><p><a class="sc" id="21"></a><a class="pts-vp-pli" id="pts-vp-pli4.23"></a><a class="wt-pa" id="wt-pa217"></a> 
 msgctxt "pi-tv-bu-vb-pc7:26.1"
 msgid "Yakkhiyā vā petiyā vā paṇḍakassa vā tiracchānagatamanussaviggahitthiyā vā uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, āpatti dukkaṭassa."
 msgstr "If he teaches more than five or six sentences to a female spirit, a female ghost, a sexual nonconformist, or a female animal in the form of a woman, except in the presence of a man who understands, he commits an offense of wrong conduct."
@@ -506,7 +506,7 @@ msgctxt "pi-tv-bu-vb-pc7:27.6"
 msgid "uṭṭhahitvā puna nisīditvā deseti,"
 msgstr "if he gets up and then sits down again and teaches;"
 
-#. <span class="note" hidden><i lang="pi">Tasmiṃ deseti</i>. According to <span class="ref">Sp.4.751.8</span> this locative should be read as a dative.</span> 
+#. <span class="note" hidden><i lang="pli">Tasmiṃ deseti</i>. According to <span class="ref">Sp.4.751.8</span> this locative should be read as a dative.</span> 
 msgctxt "pi-tv-bu-vb-pc7:27.7"
 msgid "mātugāmo uṭṭhahitvā puna nisīdati tasmiṃ deseti,"
 msgstr "if the woman gets up and then sits down again, and he then teaches her;"

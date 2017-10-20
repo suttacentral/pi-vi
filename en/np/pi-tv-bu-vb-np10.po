@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-np10"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-np10"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-np10:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -45,7 +45,7 @@ msgctxt "pi-tv-bu-vb-np10:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.220"></a><a class="pts-cs" id="bu-np.10.1"></a><a class="pts-cs" id="bu-np.10.1.1"></a><a class="pts-vp-en" id="bd.2.62"></a><a class="wt-pa" id="2070"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.220"></a><a class="pts-cs" id="bu-np.10.1"></a><a class="pts-cs" id="bu-np.10.1.1"></a><a class="pts-vp-en" id="bd.2.62"></a><a class="wt-pa" id="2070"></a> 
 msgctxt "pi-tv-bu-vb-np10:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -221,7 +221,7 @@ msgctxt "pi-tv-bu-vb-np10:8.14"
 msgid "paññāsaṃ jīnosī”ti."
 msgstr "You’ve just lost fifty coins.”"
 
-#. </p><p><a class="sc" id="4"></a><a class="pts-vp-pi" id="pts-vp-pi3.221"></a><a class="wt-pa" id="2073"></a> 
+#. </p><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli3.221"></a><a class="wt-pa" id="2073"></a> 
 msgctxt "pi-tv-bu-vb-np10:9.1"
 msgid "Atha kho so upāsako tesaṃ manussānaṃ etamatthaṃ ārocesi."
 msgstr "That lay follower informed them of what had happened."
@@ -312,7 +312,7 @@ msgctxt "pi-tv-bu-vb-np10:12.1"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-vp-pi" id="pts-vp-pi3.222"></a><a class="pts-cs" id="bu-np.10.1.3"></a><a class="wt-pa" id="2076"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-vp-pli" id="pts-vp-pli3.222"></a><a class="pts-cs" id="bu-np.10.1.3"></a><a class="wt-pa" id="2076"></a>
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-np10:12.2"
 msgid "“Bhikkhuṃ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya—"
@@ -608,7 +608,7 @@ msgctxt "pi-tv-bu-vb-np10:23.7"
 msgid "“dehi me cīvaraṃ, āhara me cīvaraṃ, parivattehi me cīvaraṃ, cetāpehi me cīvaran”ti."
 msgstr "“Give me a robe/get me a robe/get a robe in exchange for me/buy me a robe.”"
 
-#. </span></p><p><a class="sc" id="19"></a><a class="pts-vp-pi" id="pts-vp-pi3.223"></a><a class="wt-pa" id="2088"></a><span class="gloss"> 
+#. </span></p><p><a class="sc" id="19"></a><a class="pts-vp-pli" id="pts-vp-pli3.223"></a><a class="wt-pa" id="2088"></a><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-np10:24.1"
 msgid "Dutiyampi vattabbo."
 msgstr "He should say it a second"
@@ -644,7 +644,7 @@ msgctxt "pi-tv-bu-vb-np10:24.8"
 msgid "“Kiṃ kāraṇā āgatosī”ti pucchiyamāno"
 msgstr "If he is asked, “Why have you come?”,"
 
-#. <span class="note" hidden><i lang="pi">Jānāhi</i>. This verb, which normally means “to understand” or “to find out,” is used quite broadly in the Pali canon.</span> 
+#. <span class="note" hidden><i lang="pli">Jānāhi</i>. This verb, which normally means “to understand” or “to find out,” is used quite broadly in the Pali canon.</span> 
 msgctxt "pi-tv-bu-vb-np10:24.9"
 msgid "“jānāhi, āvuso”ti vattabbo."
 msgstr "he should say, “Think about it.”"
@@ -801,7 +801,7 @@ msgctxt "pi-tv-bu-vb-np10:30.5"
 msgid "acodiyamāno deti,"
 msgstr "if it is given without prompting;"
 
-#. <span class="note" hidden>I am unable to make sense of the phrasing in the non-offense clause (<i lang="pi">sāmikā codetvā denti</i>), and I therefore translate according to the phrasing in the commentary, “After prompting by the owners, it is given;” <i lang="pi">sāmikehi codetvā dinne</i>, see <span class="ref">Kkh. 119.6</span>.</span> 
+#. <span class="note" hidden>I am unable to make sense of the phrasing in the non-offense clause (<i lang="pli">sāmikā codetvā denti</i>), and I therefore translate according to the phrasing in the commentary, “After prompting by the owners, it is given;” <i lang="pli">sāmikehi codetvā dinne</i>, see <span class="ref">Kkh. 119.6</span>.</span> 
 msgctxt "pi-tv-bu-vb-np10:30.6"
 msgid "sāmikā codetvā denti,"
 msgstr "if the owners prompt and then it is given;"

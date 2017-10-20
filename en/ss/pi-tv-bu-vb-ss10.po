@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-ss10"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pli-tv-bu-vb-ss10"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-ss10:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -36,7 +36,7 @@ msgctxt "pi-tv-bu-vb-ss10:5.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.171"></a><a class="pts-vp-en" id="bd.1.296"></a><a class="pts-cs-empty" id="bu-ss.10.1"></a><a class="pts-cs" id="bu-ss.10.1.1"></a><a class="ms-pa" id="ms-pa1673"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.171"></a><a class="pts-vp-en" id="bd.1.296"></a><a class="pts-cs-empty" id="bu-ss.10.1"></a><a class="pts-cs" id="bu-ss.10.1.1"></a><a class="ms-pa" id="ms-pa1673"></a> 
 msgctxt "pi-tv-bu-vb-ss10:5.2"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
@@ -147,7 +147,7 @@ msgctxt "pi-tv-bu-vb-ss10:5.26"
 msgid "Lūkhapasannā hi, āvuso, manussā”ti."
 msgstr "for people have confidence in austerity.”"
 
-#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pi" id="pts-vp-pi3.172"></a><a class="pts-cs" id="bu-ss.10.1.2"></a><a class="ms-pa" id="ms-pa1674"></a> 
+#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli3.172"></a><a class="pts-cs" id="bu-ss.10.1.2"></a><a class="ms-pa" id="ms-pa1674"></a> 
 msgctxt "pi-tv-bu-vb-ss10:6.1"
 msgid "Atha kho devadatto sapariso yena bhagavā tenupasaṅkami;"
 msgstr "Devadatta and his followers then went to the Master,"
@@ -361,7 +361,7 @@ msgctxt "pi-tv-bu-vb-ss10:11.1"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-vp-pi" id="pts-vp-pi3.173"></a><a class="ms-pa" id="ms-pa1679"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-vp-pli" id="pts-vp-pli3.173"></a><a class="ms-pa" id="ms-pa1679"></a>
 #. <strong class="rule"> 
 msgctxt "pi-tv-bu-vb-ss10:11.2"
 msgid "“Yo pana bhikkhu samaggassa saṃghassa bhedāya parakkameyya, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo—"
@@ -480,7 +480,7 @@ msgstr "having adopted it, he proclaims it."
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1685"></a>
 #. <strong class="term">
-#. <span class="note" hidden>“Taking up” here renders both <i lang="pi">samādāya</i> and <i lang="pi">paggayha</i>, and as a consequence it appears as if one of the definitions found in the Pali is missing in the translation. In the Pali <i lang="pi">samādāya</i> is defined as <i lang="pi">ādāya</i>, “having adopted,” and <i lang="pi">paggayha</i> as <i lang="pi">dīpeyya</i>, “he proclaims.”</span> 
+#. <span class="note" hidden>“Taking up” here renders both <i lang="pli">samādāya</i> and <i lang="pli">paggayha</i>, and as a consequence it appears as if one of the definitions found in the Pali is missing in the translation. In the Pali <i lang="pli">samādāya</i> is defined as <i lang="pli">ādāya</i>, “having adopted,” and <i lang="pli">paggayha</i> as <i lang="pli">dīpeyya</i>, “he proclaims.”</span> 
 msgctxt "pi-tv-bu-vb-ss10:17.1"
 msgid "Paggayhāti"
 msgstr ""
@@ -643,7 +643,7 @@ msgctxt "pi-tv-bu-vb-ss10:22.5"
 msgid "Esā ñatti."
 msgstr "This is the motion."
 
-#. </p><p><a class="sc" id="19"></a><a class="pts-vp-pi" id="pts-vp-pi3.174"></a><a class="ms-pa" id="ms-pa1691"></a> 
+#. </p><p><a class="sc" id="19"></a><a class="pts-vp-pli" id="pts-vp-pli3.174"></a><a class="ms-pa" id="ms-pa1691"></a> 
 msgctxt "pi-tv-bu-vb-ss10:23.1"
 msgid "Suṇātu me, bhante, saṃgho."
 msgstr "Venerables, let the Order listen to me."

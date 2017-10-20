@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-ss8"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pli-tv-bu-vb-ss8"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-ss8:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -36,7 +36,7 @@ msgctxt "pi-tv-bu-vb-ss8:5.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.158"></a><a class="pts-vp-en" id="bd.1.271"></a><a class="pts-cs-empty" id="bu-ss.8.1"></a><a class="pts-cs" id="bu-ss.8.1.1"></a><a class="ms-pa" id="ms-pa1556"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.158"></a><a class="pts-vp-en" id="bd.1.271"></a><a class="pts-cs-empty" id="bu-ss.8.1"></a><a class="pts-cs" id="bu-ss.8.1.1"></a><a class="ms-pa" id="ms-pa1556"></a> 
 msgctxt "pi-tv-bu-vb-ss8:5.2"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
@@ -147,7 +147,7 @@ msgctxt "pi-tv-bu-vb-ss8:7.5"
 msgid "Yācitvā byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
 msgstr "and then a competent and capable monk should inform the Order:"
 
-#. </p><div class="kamma"><p><a class="sc" id="4"></a><a class="pts-vp-pi" id="pts-vp-pi3.159"></a><a class="ms-pa" id="ms-pa1559"></a> 
+#. </p><div class="kamma"><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli3.159"></a><a class="ms-pa" id="ms-pa1559"></a> 
 msgctxt "pi-tv-bu-vb-ss8:8.1"
 msgid "‘Suṇātu me, bhante, saṃgho."
 msgstr "‘Venerables, let the Order listen to me."
@@ -248,7 +248,7 @@ msgctxt "pi-tv-bu-vb-ss8:11.14"
 msgid "“mayaṃ āyasmato dabbassa mallaputtassa iddhi­pā­ṭihā­ri­yaṃ passissāmā”ti."
 msgstr "hoping to see the marvel of Dabba’s supernormal powers."
 
-#. </p><p><a class="sc" id="8"></a><a class="pts-vp-pi" id="pts-vp-pi3.160"></a><a class="ms-pa" id="ms-pa1563"></a> 
+#. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.160"></a><a class="ms-pa" id="ms-pa1563"></a> 
 msgctxt "pi-tv-bu-vb-ss8:12.1"
 msgid "Te āyasmantaṃ dabbaṃ mallaputtaṃ upasaṅkamitvā evaṃ vadanti—"
 msgstr "They would approach Dabba and say,"
@@ -341,7 +341,7 @@ msgid "Tesaṃ āyasmā dabbo mallaputto evaṃ senāsanaṃ paññapetvā punad
 msgstr "Dabba then returned to the Bamboo Grove."
 
 #. </p><p><a class="sc" id="10"></a><a class="pts-cs" id="bu-ss.8.1.5"></a><a class="ms-pa" id="ms-pa1565"></a>
-#. <span class="note" hidden><span class="ref">Sp.3.579.28</span> says, “just Mettiya and Bhūmajaka,” <i lang="pi">mettiyo ceva bhūmajako ca</i>. Thus, according to the commentary, the name of the second monk is Bhūmajaka rather than Bhūmaja. The commentarial explanation also means that the two names refer to just the two monks and not any followers they may have had. See also note to Suspension 13, <span class="ref">MS.1.1753</span>.</span> 
+#. <span class="note" hidden><span class="ref">Sp.3.579.28</span> says, “just Mettiya and Bhūmajaka,” <i lang="pli">mettiyo ceva bhūmajako ca</i>. Thus, according to the commentary, the name of the second monk is Bhūmajaka rather than Bhūmaja. The commentarial explanation also means that the two names refer to just the two monks and not any followers they may have had. See also note to Suspension 13, <span class="ref">MS.1.1753</span>.</span> 
 msgctxt "pi-tv-bu-vb-ss8:14.1"
 msgid "Tena kho pana samayena metti­ya­bhūma­jakā bhikkhū navakā ceva honti appapuññā ca."
 msgstr "At that time the monks Mettiya and Bhūmajaka had recently been given the full ordination."
@@ -390,7 +390,7 @@ msgctxt "pi-tv-bu-vb-ss8:14.11"
 msgid "“amhākaṃ, āvuso, na kiñci ahosi, pākatikaṃ yathārandhaṃ kaṇājakaṃ bilaṅgadutiyan”ti."
 msgstr "“We didn’t get anything except ordinary food of porridge and broken rice.”"
 
-#. </p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi3.161"></a><a class="pts-cs" id="bu-ss.8.1.6"></a><a class="ms-pa" id="ms-pa1566"></a> 
+#. </p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli3.161"></a><a class="pts-cs" id="bu-ss.8.1.6"></a><a class="ms-pa" id="ms-pa1566"></a> 
 msgctxt "pi-tv-bu-vb-ss8:15.1"
 msgid "Tena kho pana samayena kal­yāṇa­bhattiko gahapati saṃghassa catukkabhattaṃ deti niccabhattaṃ."
 msgstr "At that time there was a householder who gave a regular meal of fine food to four monks."
@@ -480,7 +480,7 @@ msgctxt "pi-tv-bu-vb-ss8:16.5"
 msgid "Te teneva somanassena na cittarūpaṃ rattiyā supiṃsu."
 msgstr "And because they were excited, they did not sleep properly that night."
 
-#. </p><p><a class="sc" id="13"></a><a class="pts-vp-pi" id="pts-vp-pi3.162"></a><a class="ms-pa" id="ms-pa1568"></a> 
+#. </p><p><a class="sc" id="13"></a><a class="pts-vp-pli" id="pts-vp-pli3.162"></a><a class="ms-pa" id="ms-pa1568"></a> 
 msgctxt "pi-tv-bu-vb-ss8:17.1"
 msgid "Atha kho metti­ya­bhūma­jakā bhikkhū pubbaṇ­ha­samayaṃ nivāsetvā pattacīvaraṃ ādāya yena kal­yāṇa­bhatti­kassa gahapatino nivesanaṃ tenu­pasaṅka­miṃsu."
 msgstr "After dressing the following morning, they took their bowl and robe and went to the house of that householder."
@@ -690,7 +690,7 @@ msgctxt "pi-tv-bu-vb-ss8:18.30"
 msgid "Ayyenamhi dabbena mallaputtena dūsitā”ti."
 msgstr ""
 
-#. </p><p><a class="sc" id="15"></a><a class="pts-vp-pi" id="pts-vp-pi3.163"></a><a class="pts-cs" id="bu-ss.8.1.9"></a><a class="pts-vp-en" id="bd.1.280"></a><a class="ms-pa" id="ms-pa1570"></a> 
+#. </p><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli3.163"></a><a class="pts-cs" id="bu-ss.8.1.9"></a><a class="pts-vp-en" id="bd.1.280"></a><a class="ms-pa" id="ms-pa1570"></a> 
 msgctxt "pi-tv-bu-vb-ss8:19.1"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ dabbaṃ mallaputtaṃ paṭipucchi—"
 msgstr "Soon afterwards the Master had the Order of monks assembled and asked Dabba,"
@@ -954,7 +954,7 @@ msgid "codeti vā codāpeti vā."
 msgstr "accuses or causes to be accused."
 
 #. </span>
-#. </p><p><a class="sc" id="26"></a><a class="pts-vp-pi" id="pts-vp-pi3.164"></a><a class="ms-pa" id="ms-pa1581"></a>
+#. </p><p><a class="sc" id="26"></a><a class="pts-vp-pli" id="pts-vp-pli3.164"></a><a class="ms-pa" id="ms-pa1581"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss8:30.1"
 msgid "Appeva nāma naṃ imamhā brahmacariyā cāveyyanti"
@@ -1242,7 +1242,7 @@ msgctxt "pi-tv-bu-vb-ss8:44.7"
 msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
 msgstr "For each statement, he commits an offense entailing suspension."
 
-#. </p><hr><p><a class="sc" id="41"></a><a class="pts-vp-pi" id="pts-vp-pi3.165"></a><a class="pts-cs" id="bu-ss.8.3.3"></a><a class="ms-pa" id="ms-pa1596"></a> 
+#. </p><hr><p><a class="sc" id="41"></a><a class="pts-vp-pli" id="pts-vp-pli3.165"></a><a class="pts-cs" id="bu-ss.8.3.3"></a><a class="ms-pa" id="ms-pa1596"></a> 
 msgctxt "pi-tv-bu-vb-ss8:45.1"
 msgid "Diṭṭhassa hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
 msgstr "He has seen that someone has committed an offense entailing expulsion,"
@@ -1688,7 +1688,7 @@ msgctxt "pi-tv-bu-vb-ss8:56.2"
 msgid ""
 msgstr "Summary"
 
-#. </h4><div class="uddesa"><p><a class="sc" id="52"></a><a class="pts-vp-pi" id="pts-vp-pi3.166"></a><a class="pts-cs-empty" id="bu-ss.8.4"></a><a class="pts-cs" id="bu-ss.8.4.1"></a><a class="ms-pa" id="ms-pa1607"></a> 
+#. </h4><div class="uddesa"><p><a class="sc" id="52"></a><a class="pts-vp-pli" id="pts-vp-pli3.166"></a><a class="pts-cs-empty" id="bu-ss.8.4"></a><a class="pts-cs" id="bu-ss.8.4.1"></a><a class="ms-pa" id="ms-pa1607"></a> 
 msgctxt "pi-tv-bu-vb-ss8:56.3"
 msgid "Asuddhe suddhadiṭṭhi,"
 msgstr "Someone is impure, but one thinks he is pure;"

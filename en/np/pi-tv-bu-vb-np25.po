@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-np25"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-np25"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-np25:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -131,7 +131,7 @@ msgctxt "pi-tv-bu-vb-np25:6.21"
 msgid "“kathañhi nāma āyasmā upanando sakyaputto bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano acchindissatī”ti."
 msgstr "“How can Venerable Upananda give away a robe and then take it back, angry and displeased?”"
 
-#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pi" id="pts-vp-pi3.255"></a><a class="wt-pa" id="2337"></a> 
+#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli3.255"></a><a class="wt-pa" id="2337"></a> 
 msgctxt "pi-tv-bu-vb-np25:7.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ upanandaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "After criticizing him in many ways, they informed the Master. …"
@@ -170,7 +170,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="2338"></a>
 #. <strong class="rule">
-#. <span class="note" hidden><i lang="pi">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context. Sometimes, such as here, it means both, and I then render it as robe(-cloth).</span> 
+#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context. Sometimes, such as here, it means both, and I then render it as robe(-cloth).</span> 
 msgctxt "pi-tv-bu-vb-np25:8.2"
 msgid "“Yo pana bhikkhu bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk himself gives a robe(-cloth) to a monk, but then, angry and displeased, takes it back or gets it taken back, he commits an offense entailing relinquishment and confession.’”"
@@ -240,7 +240,7 @@ msgstr "A robe(-cloth):"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>The six are linen, cotton, silk, wool, jute, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
-#. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pi">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh. 94.4</span> and BMC I, pp. 565-566.</span> 
+#. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pli">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh. 94.4</span> and BMC I, pp. 565-566.</span> 
 msgctxt "pi-tv-bu-vb-np25:12.2"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robes(-cloth), but not smaller than what can be transferred."

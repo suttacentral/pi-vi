@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-ss1"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pli-tv-bu-vb-ss1"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-ss1:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -32,7 +32,7 @@ msgctxt "pi-tv-bu-vb-ss1:4.2"
 msgid "Sukka­vissaṭ­ṭhi­sikkhā­pada"
 msgstr "1. The training rule on emission of semen"
 
-#. </h1></div><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.110"></a><a class="pts-vp-en" id="bd.1.192"></a><a class="ms-pa" id="ms-pa774"></a> 
+#. </h1></div><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.110"></a><a class="pts-vp-en" id="bd.1.192"></a><a class="ms-pa" id="ms-pa774"></a> 
 msgctxt "pi-tv-bu-vb-ss1:5.1"
 msgid "Ime kho panāyasmanto terasa saṃghādisesā dhammā uddesaṃ āgacchanti."
 msgstr "Venerables, these thirteen rules entailing suspension come up for recitation."
@@ -104,7 +104,7 @@ msgctxt "pi-tv-bu-vb-ss1:6.15"
 msgid "Ahampi evaṃ karomī”ti."
 msgstr "I do it too.”"
 
-#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pi" id="pts-vp-pi3.111"></a><a class="ms-pa" id="ms-pa776"></a> 
+#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli3.111"></a><a class="ms-pa" id="ms-pa776"></a> 
 msgctxt "pi-tv-bu-vb-ss1:7.1"
 msgid "Atha kho āyasmā seyyasako yāvadatthaṃ bhuñji yāvadatthaṃ supi yāvadatthaṃ nhāyi."
 msgstr "Then Seyyasaka ate, slept, and bathed as much as he liked,"
@@ -170,7 +170,7 @@ msgctxt "pi-tv-bu-vb-ss1:7.15"
 msgid "“kathañhi nāma āyasmā seyyasako hatthena upakkamitvā asuciṃ mocessatī”ti."
 msgstr "“How can Venerable Seyyasaka emit semen with his hand?”"
 
-#. </p><p><a class="sc" id="4"></a><a class="pts-vp-pi" id="pts-vp-pi3.112"></a><a class="ms-pa" id="ms-pa777"></a> 
+#. </p><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli3.112"></a><a class="ms-pa" id="ms-pa777"></a> 
 msgctxt "pi-tv-bu-vb-ss1:8.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ seyyasakaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They rebuked Seyyasaka in many ways and then informed the Master."
@@ -389,7 +389,7 @@ msgid "<strong>Saṃghādiseso</strong>ti"
 msgstr "An offense entailing suspension:"
 
 #. </strong><span class="gloss">
-#. <span class="note" hidden><i lang="pi">Mānattaṃ deti</i>.For the meaning of <i lang="pi">mānatta</i> see TAP 123.</span> 
+#. <span class="note" hidden><i lang="pli">Mānattaṃ deti</i>.For the meaning of <i lang="pli">mānatta</i> see TAP 123.</span> 
 msgctxt "pi-tv-bu-vb-ss1:17.2"
 msgid "saṃghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti;"
 msgstr "only the monastic Order gives probation for that offense, sends back to the beginning, places under deference, and rehabilitates—"
@@ -399,7 +399,7 @@ msgctxt "pi-tv-bu-vb-ss1:17.3"
 msgid "na sambahulā, na ekapuggalo."
 msgstr "not several monks, not an individual."
 
-#. <span class="note" hidden>The point here, which can only be understood from the Pali, is that the word <i lang="pi">saṅghādisesa</i> (<i lang="pi">saṅgha</i> + <i lang="pi">ādisesa</i>) is derived from the fact that only the <i lang="pi">sangha</i> can do the formal procedures required when a monastic commits this offense.</span> 
+#. <span class="note" hidden>The point here, which can only be understood from the Pali, is that the word <i lang="pli">saṅghādisesa</i> (<i lang="pli">saṅgha</i> + <i lang="pli">ādisesa</i>) is derived from the fact that only the <i lang="pli">sangha</i> can do the formal procedures required when a monastic commits this offense.</span> 
 msgctxt "pi-tv-bu-vb-ss1:17.4"
 msgid "Tena vuccati—“saṃghādiseso”ti."
 msgstr "Therefore it is called “an offense entailing suspension."
@@ -428,7 +428,7 @@ msgctxt "pi-tv-bu-vb-ss1:18.3"
 msgid ""
 msgstr "Summary"
 
-#. </h4><p><a class="sc" id="14"></a><a class="pts-vp-pi" id="pts-vp-pi3.113"></a><div class="uddesa"><p><a class="pts-cs-empty" id="bu-ss.1.3"></a><a class="pts-cs" id="bu-ss.1.3.1"></a><a class="ms-pa" id="ms-pa787"></a> 
+#. </h4><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli3.113"></a><div class="uddesa"><p><a class="pts-cs-empty" id="bu-ss.1.3"></a><a class="pts-cs" id="bu-ss.1.3.1"></a><a class="ms-pa" id="ms-pa787"></a> 
 msgctxt "pi-tv-bu-vb-ss1:18.4"
 msgid "Ajjhattarūpe moceti,"
 msgstr "One emits with one’s own body;"
@@ -973,7 +973,7 @@ msgctxt "pi-tv-bu-vb-ss1:52.1"
 msgid ""
 msgstr "Two purposes"
 
-#. </h5><p><a class="sc" id="48"></a><a class="pts-vp-pi" id="pts-vp-pi3.114"></a><a class="pts-cs" id="bu-ss.1.3.4"></a><a class="ms-pa" id="ms-pa821"></a> 
+#. </h5><p><a class="sc" id="48"></a><a class="pts-vp-pli" id="pts-vp-pli3.114"></a><a class="pts-cs" id="bu-ss.1.3.4"></a><a class="ms-pa" id="ms-pa821"></a> 
 msgctxt "pi-tv-bu-vb-ss1:52.2"
 msgid "Ārogyatthañca sukhatthañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If, for the sake of health and for the sake of pleasure, he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
@@ -1952,7 +1952,7 @@ msgctxt "pi-tv-bu-vb-ss1:122.1"
 msgid "(Ubhato­vaḍḍha­kaṃ evameva vaḍḍhetabbaṃ.)"
 msgstr "(In this way both are to be expanded.)"
 
-#. </p><p><a class="sc" id="119"></a><a class="pts-vp-pi" id="pts-vp-pi3.115"></a><a class="ms-pa" id="ms-pa892"></a> 
+#. </p><p><a class="sc" id="119"></a><a class="pts-vp-pli" id="pts-vp-pli3.115"></a><a class="ms-pa" id="ms-pa892"></a> 
 msgctxt "pi-tv-bu-vb-ss1:123.1"
 msgid "Ārogyatthañca sukhatthañca ­bhesaj­jat­thañca dānatthañca puññatthañca yaññatthañca saggatthañca bījatthañca vīmaṃsatthañca davatthañca nīlañca pītakañca lohitakañca odātañca takkavaṇṇañca dakavaṇṇañca telavaṇṇañca khīravaṇṇañca dadhivaṇṇañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends for the sake of health and for the sake of pleasure and for the sake of medicine and for the sake of a gift and for the sake of merit and for the sake of sacrifice and for the sake of heaven and for the sake of seed and for the sake of investigating and for the sake of fun and blue and yellow and red and white and the color of buttermilk and the color of water and the color of oil and the color of milk and the color of curd and the color of ghee, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
@@ -2536,7 +2536,7 @@ msgctxt "pi-tv-bu-vb-ss1:164.1"
 msgid ""
 msgstr "Permutations part 2"
 
-#. </h3><p><a class="sc" id="160"></a><a class="pts-vp-pi" id="pts-vp-pi3.116"></a><a class="pts-cs" id="bu-ss.1.4"></a><a class="ms-pa" id="ms-pa933"></a> 
+#. </h3><p><a class="sc" id="160"></a><a class="pts-vp-pli" id="pts-vp-pli3.116"></a><a class="pts-cs" id="bu-ss.1.4"></a><a class="ms-pa" id="ms-pa933"></a> 
 msgctxt "pi-tv-bu-vb-ss1:164.2"
 msgid "Ceteti upakkamati muccati, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he intends, and he makes an effort, and semen is emitted, he commits an offense entailing suspension."
@@ -2671,7 +2671,7 @@ msgid "pupphāvaliyaṃ pokkharaṃ;"
 msgstr "Mud play, lotus;"
 
 #. <br>
-#. <span class="note" hidden><i lang="pi">Usseko</i>, which I take to be related to <i lang="pi">seka</i>, perhaps via the prefix <i lang="pi">ud</i>.</span> 
+#. <span class="note" hidden><i lang="pli">Usseko</i>, which I take to be related to <i lang="pli">seka</i>, perhaps via the prefix <i lang="pli">ud</i>.</span> 
 msgctxt "pi-tv-bu-vb-ss1:176.3"
 msgid "Vālikā kaddamusseko,"
 msgstr "Sand, mud, sprinkling,"
@@ -2799,7 +2799,7 @@ msgctxt "pi-tv-bu-vb-ss1:182.6"
 msgid "(5)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="177"></a><a class="pts-vp-pi" id="pts-vp-pi3.117"></a><a class="ms-pa" id="ms-pa950"></a> 
+#. </p><hr><p><a class="sc" id="177"></a><a class="pts-vp-pli" id="pts-vp-pli3.117"></a><a class="ms-pa" id="ms-pa950"></a> 
 msgctxt "pi-tv-bu-vb-ss1:183.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa uṇhodakena nhāyantassa asuci mucci."
 msgstr "On one occasion a monk, aiming at emission, bathed in warm water, and semen was emitted."
@@ -3168,7 +3168,7 @@ msgctxt "pi-tv-bu-vb-ss1:199.7"
 msgid "(29)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="194"></a><a class="ms-pa" id="ms-pa967"></a><a class="pts-vp-pi" id="pts-vp-pi3.118"></a> 
+#. </p><hr><p><a class="sc" id="194"></a><a class="ms-pa" id="ms-pa967"></a><a class="pts-vp-pli" id="pts-vp-pli3.118"></a> 
 msgctxt "pi-tv-bu-vb-ss1:200.1"
 msgid "Tena kho pana samayena aññataro bhikkhu suttassa sāmaṇerassa aṅgajātaṃ aggahesi."
 msgstr "On one occasion a monk took hold of the penis of a sleeping novice,"
@@ -3626,7 +3626,7 @@ msgctxt "pi-tv-bu-vb-ss1:219.6"
 msgid "(60–‍61)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="214"></a><a class="ms-pa" id="ms-pa987"></a><a class="pts-vp-pi" id="pts-vp-pi3.119"></a> 
+#. </p><hr><p><a class="sc" id="214"></a><a class="ms-pa" id="ms-pa987"></a><a class="pts-vp-pli" id="pts-vp-pli3.119"></a> 
 msgctxt "pi-tv-bu-vb-ss1:220.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa kaddamaṃ aṅgajātaṃ pavesentassa asuci mucci … pe …"
 msgstr "On one occasion a monk, aiming at emission, inserted his penis into mud, and semen was emitted. …"

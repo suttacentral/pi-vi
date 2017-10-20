@@ -12,7 +12,7 @@ msgstr ""
 "Generated-By: Babel 1.3\n"
 
 #. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description">
-#. <title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-pj2"><article><div class="hgroup"><p class="division"> 
+#. <title></title></head><body><div id="text" lang="en"><section class="sutta" id="pli-tv-bu-vb-pj2"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-pj2:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -42,7 +42,7 @@ msgctxt "pi-tv-bu-vb-pj2:5.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs-empty" id="Bu-Pj.2"></a><a class="pts-cs-empty" id="Bu-Pj.2.1"></a><a class="pts-cs" id="Bu-Pj.2.1.1"></a><a class="pts-vp-en" id="bd.1.64"></a><a class="pts-vp-pi" id="pts-vp-pi3.41"></a> <a class="ms-pa" id="ms.191"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs-empty" id="Bu-Pj.2"></a><a class="pts-cs-empty" id="Bu-Pj.2.1"></a><a class="pts-cs" id="Bu-Pj.2.1.1"></a><a class="pts-vp-en" id="bd.1.64"></a><a class="pts-vp-pli" id="pts-vp-pli3.41"></a> <a class="ms-pa" id="ms.191"></a> 
 msgctxt "pi-tv-bu-vb-pj2:5.3"
 msgid "Tena samayena buddho bhagavā rājagahe viharati gijjhakūṭe pabbate."
 msgstr "At one time, the Buddha was staying at Rājagaha on Mount Vulture Peak."
@@ -101,7 +101,7 @@ msgctxt "pi-tv-bu-vb-pj2:6.4"
 msgid "Yannūnāhaṃ sāmaṃ cikkhallaṃ madditvā sab­bamat­tikā­mayaṃ kuṭikaṃ kareyyan”ti."
 msgstr "Why don’t I knead mud myself and make a hut consisting of nothing but clay?”"
 
-#. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms.193"></a><a class="pts-vp-pi" id="pts-vp-pi3.42"></a> 
+#. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms.193"></a><a class="pts-vp-pli" id="pts-vp-pli3.42"></a> 
 msgctxt "pi-tv-bu-vb-pj2:7.1"
 msgid "Atha kho āyasmā dhaniyo kumbha­kā­ra­putto sāmaṃ cikkhallaṃ madditvā sab­bamat­tikā­mayaṃ kuṭikaṃ karitvā tiṇañca kaṭṭhañca gomayañca saṅkaḍḍhitvā taṃ kuṭikaṃ paci."
 msgstr "Then Dhaniya did just that. And he collected grass, wood, and cow-dung, and he baked his hut."
@@ -246,7 +246,7 @@ msgctxt "pi-tv-bu-vb-pj2:10.7"
 msgid "“Natthi, bhante, tādisāni dārūni yānāhaṃ ayyassa dadeyyaṃ."
 msgstr "“There’s no such wood, Venerable, that I could give you."
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.43"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.43"></a> 
 msgctxt "pi-tv-bu-vb-pj2:10.8"
 msgid "Atthi, bhante, devagahadārūni nagara­paṭi­saṅ­khā­ri­kāni āpadatthāya nikkhittāni."
 msgstr "This wood is held by the King, and it’s meant for the repair of the town and put aside in case of emergencies."
@@ -390,7 +390,7 @@ msgctxt "pi-tv-bu-vb-pj2:15.2"
 msgid "upasaṅkamitvā paññatte āsane nisīdi."
 msgstr " and sat down on the appointed seat."
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.44"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.44"></a> 
 msgctxt "pi-tv-bu-vb-pj2:15.3"
 msgid "Atha kho rājā māgadho seniyo bimbisāro yenāyasmā dhaniyo kumbha­kā­ra­putto tenupasaṅkami;"
 msgstr "The King approached Dhaniya,"
@@ -542,7 +542,7 @@ msgctxt "pi-tv-bu-vb-pj2:18.6"
 msgid "“ananucchavikaṃ, moghapurisa, ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
 msgstr "“Foolish man, it’s not suitable, it’s not proper, it’s not worthy of an ascetic, it’s not allowable, it’s not to be done."
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.45"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.45"></a> 
 msgctxt "pi-tv-bu-vb-pj2:18.7"
 msgid "Kathañhi nāma tvaṃ, moghapurisa, rañño dārūni adinnaṃ ādiyissasi."
 msgstr "How can you take wood belonging to the King that hasn’t been given to you?"
@@ -622,7 +622,7 @@ msgid ""
 msgstr "Second sub-story"
 
 #. </h3><p><a class="sc" id="18"></a><a class="pts-cs" id="Bu-Pj.2.2"></a><a class="ms-pa" id="ms.208"></a>
-#. <span class="note" hidden>The text simply says “the dyers’ spread,” <i lang="pi">rajakattharaṇaṃ</i>, but the commentary qualifies that this refers to their spread of “cloth,” <i lang="pi">vatthāni</i>, see <span class="ref">Sp.2.298.17</span>.</span> 
+#. <span class="note" hidden>The text simply says “the dyers’ spread,” <i lang="pli">rajakattharaṇaṃ</i>, but the commentary qualifies that this refers to their spread of “cloth,” <i lang="pli">vatthāni</i>, see <span class="ref">Sp.2.298.17</span>.</span> 
 msgctxt "pi-tv-bu-vb-pj2:22.2"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū raja­kattha­ra­ṇaṃ gantvā rajaka­bhaṇḍi­kaṃ avaharitvā ārāmaṃ haritvā bhājesuṃ."
 msgstr "At one time monks from the group of six went to the dyers’ spread of cloth, took the dyers’ goods to the monastery, and shared it out."
@@ -635,7 +635,7 @@ msgctxt "pi-tv-bu-vb-pj2:22.4"
 msgid "“mahāpuññattha tumhe, āvuso."
 msgstr "“You have great merit,"
 
-#. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pi">cīvara</i> at <i lang="pi">nissaggiya pācittiya</i> 1 <span class="ref">MS.1.1872</span>, it also refers to pieces of robe-cloth. This means that I vary my translation depending on the context. Sometimes, such as here, the meaning seems to encompass both robes and robe-cloth, and I then render it as robe(-cloth).</span> 
+#. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> at <i lang="pli">nissaggiya pācittiya</i> 1 <span class="ref">MS.1.1872</span>, it also refers to pieces of robe-cloth. This means that I vary my translation depending on the context. Sometimes, such as here, the meaning seems to encompass both robes and robe-cloth, and I then render it as robe(-cloth).</span> 
 msgctxt "pi-tv-bu-vb-pj2:22.5"
 msgid "Bahuṃ tumhākaṃ cīvaraṃ uppannan”ti."
 msgstr "since you’ve obtained so much robe(-cloth).”"
@@ -690,7 +690,7 @@ msgid "atha khvetaṃ, āvuso, appasan­nā­nañ­ceva appasādāya pasannāna�
 msgstr "but it will hinder confidence in those without it and it will cause some with confidence to change their minds.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pi3.46"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.46"></a> 
 msgctxt "pi-tv-bu-vb-pj2:22.17"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
 msgstr "After criticizing those monks in various ways, they informed the Master."
@@ -905,7 +905,7 @@ msgid "pādaṃ vā pādārahaṃ vā atirekapādaṃ vā."
 msgstr "a <i lang=\"pi\">pāda</i> coin, the worth of a <i lang=\"pi\">pāda</i>, or more than a <i lang=\"pi\">pāda</i>."
 
 #. </span>
-#. </p><p><a class="sc" id="29"></a><a class="pts-vp-pi" id="pts-vp-pi3.47"></a> <a class="ms-pa" id="ms.219"></a>
+#. </p><p><a class="sc" id="29"></a><a class="pts-vp-pli" id="pts-vp-pli3.47"></a> <a class="ms-pa" id="ms.219"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj2:33.1"
 msgid "Rājāno nāma"
@@ -985,7 +985,7 @@ msgid "Corosi bālosi mūḷhosi thenosīti"
 msgstr "You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief:"
 
 #. </strong>
-#. <span class="note" hidden>Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang="pi">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang="pi">yathārūpaṃ</i>, “the sort,” and secondly, <i lang="pi">ādiyamāno</i>, which is defined in exactly the same way as <i lang="pi">ādiyeyya</i>, “takes.”</span>
+#. <span class="note" hidden>Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang="pli">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang="pli">yathārūpaṃ</i>, “the sort,” and secondly, <i lang="pli">ādiyamāno</i>, which is defined in exactly the same way as <i lang="pli">ādiyeyya</i>, “takes.”</span>
 #. <span class="gloss"> 
 msgctxt "pi-tv-bu-vb-pj2:38.2"
 msgid "paribhāso eso."
@@ -1131,7 +1131,7 @@ msgctxt "pi-tv-bu-vb-pj2:45.5"
 msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.48"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.48"></a> 
 msgctxt "pi-tv-bu-vb-pj2:45.6"
 msgid "Tattha jātakaṃ kaṭṭhaṃ vā lataṃ vā chindati, āpatti dukkaṭassa."
 msgstr "If he breaks a piece of wood or a creeper growing there, he commits an offense of wrong conduct."
@@ -1329,7 +1329,7 @@ msgctxt "pi-tv-bu-vb-pj2:48.8"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="45"></a><a class="pts-cs" id="Bu-Pj.2.4.6"></a><a class="pts-vp-pi" id="pts-vp-pi3.49"></a> <a class="ms-pa" id="ms.235"></a>
+#. </p><p><a class="sc" id="45"></a><a class="pts-cs" id="Bu-Pj.2.4.6"></a><a class="pts-vp-pli" id="pts-vp-pli3.49"></a> <a class="ms-pa" id="ms.235"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj2:49.1"
 msgid "Udakaṭṭhaṃ nāma"
@@ -1611,7 +1611,7 @@ msgid "bhūmaṭṭhaṃ thalaṭṭhaṃ, ākāsaṭṭhaṃ, vehāsaṭṭha�
 msgstr "in the earth, on the ground, in the air, above the ground."
 
 #. </span>
-#. <a class="pts-vp-pi" id="pts-vp-pi3.50"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.50"></a> 
 msgctxt "pi-tv-bu-vb-pj2:53.6"
 msgid "Ārāmaṭṭhaṃ bhaṇḍaṃ avaharissāmīti theyyacitto dutiyaṃ vā pariyesati gacchati vā,"
 msgstr "If, intending to steal, he thinks, “I’ll steal the goods in the park,” and he either searches for a companion or just goes there himself,"
@@ -1942,7 +1942,7 @@ msgctxt "pi-tv-bu-vb-pj2:57.8"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
-#. </p><p><a class="sc" id="54"></a><a class="pts-cs" id="Bu-Pj.2.4.15"></a><a class="pts-vp-pi" id="pts-vp-pi3.51"></a> <a class="ms-pa" id="ms.244"></a>
+#. </p><p><a class="sc" id="54"></a><a class="pts-cs" id="Bu-Pj.2.4.15"></a><a class="pts-vp-pli" id="pts-vp-pli3.51"></a> <a class="ms-pa" id="ms.244"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj2:58.1"
 msgid "Araññaṃ nāma"
@@ -2178,12 +2178,12 @@ msgctxt "pi-tv-bu-vb-pj2:63.3"
 msgid "Dehi me bhaṇḍanti vuccamāno nāhaṃ gaṇhāmīti bhaṇati, āpatti dukkaṭassa."
 msgstr "If he is told, “Give me my goods,” and he says, “I’m not getting them,” he commits an offense of wrong conduct."
 
-#. <span class="note" hidden>The Pali text just says that he evokes doubt in the mind of the owner, <i lang="pi">sāmikassa vimatiṃ uppādeti</i>. That the doubt refers to the possibility of getting the goods back is supplied from the commentary, see <span class="ref">Sp.2.350.1</span>: <i lang="pi">‘Dassati nu kho me no’ti sāmiko vimatiṃ uppādeti</i>.</span> 
+#. <span class="note" hidden>The Pali text just says that he evokes doubt in the mind of the owner, <i lang="pli">sāmikassa vimatiṃ uppādeti</i>. That the doubt refers to the possibility of getting the goods back is supplied from the commentary, see <span class="ref">Sp.2.350.1</span>: <i lang="pli">‘Dassati nu kho me no’ti sāmiko vimatiṃ uppādeti</i>.</span> 
 msgctxt "pi-tv-bu-vb-pj2:63.4"
 msgid "Sāmikassa vimatiṃ uppādeti, āpatti thullaccayassa."
 msgstr "If he evokes doubt in the mind of the owner as to whether he will get them back, he commits a serious offense."
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.52"></a>"
+#. <a class="pts-vp-pli" id="pts-vp-pli3.52"></a>"
 msgctxt "pi-tv-bu-vb-pj2:63.5"
 msgid "Sāmiko na mayhaṃ dassatīti dhuraṃ nikkhipati, āpatti pārājikassa."
 msgstr "If the owner thinks, “He won’t give them to me,” and he gives up the effort of getting them back, he commits an offense entailing expulsion."
@@ -2213,7 +2213,7 @@ msgctxt "pi-tv-bu-vb-pj2:64.3"
 msgid "“atra paviṭṭhassa suṅkaṃ gaṇhantū”ti."
 msgstr "so that tax can be collected from a person passing through."
 
-#. <span class="note" hidden>Although not explicitly stated in the Pali, the commentary, <span class="ref">Sp.2.358.29</span>, confirms that the value meant is the tax value: “Goods having a value to the king means: goods having a worth to the king. The meaning is: the goods because of which tax having a value of five <i lang="pi">māsakas</i> or more is to be given to the king.” (<i lang="pi">Rājaggaṃ bhaṇḍanti: rājārahaṃ bhaṇḍaṃ; yato rañño pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ suṅkaṃ dātabbaṃ hoti, taṃ bhaṇḍanti attho</i>.)</span> 
+#. <span class="note" hidden>Although not explicitly stated in the Pali, the commentary, <span class="ref">Sp.2.358.29</span>, confirms that the value meant is the tax value: “Goods having a value to the king means: goods having a worth to the king. The meaning is: the goods because of which tax having a value of five <i lang="pli">māsakas</i> or more is to be given to the king.” (<i lang="pli">Rājaggaṃ bhaṇḍanti: rājārahaṃ bhaṇḍaṃ; yato rañño pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ suṅkaṃ dātabbaṃ hoti, taṃ bhaṇḍanti attho</i>.)</span> 
 msgctxt "pi-tv-bu-vb-pj2:64.4"
 msgid "Tatra pavisitvā rājaggaṃ bhaṇḍaṃ pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal and having entered the customs station, he touches goods that have a tax value to the king of five <i lang=\"pi\">māsaka</i> coins or more than five <i lang=\"pi\">māsakas</i>, he commits an offense of wrong conduct."
@@ -2436,7 +2436,7 @@ msgctxt "pi-tv-bu-vb-pj2:70.5"
 msgid "So taṃ bhaṇḍaṃ avaharati, āpatti ubhinnaṃ pārājikassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
-#. </p><p><a class="sc" id="67"></a><a class="pts-cs" id="Bu-Pj.2.4.28"></a><a class="pts-vp-pi" id="pts-vp-pi3.53"></a> <a class="ms-pa" id="ms.257"></a>
+#. </p><p><a class="sc" id="67"></a><a class="pts-cs" id="Bu-Pj.2.4.28"></a><a class="pts-vp-pli" id="pts-vp-pli3.53"></a> <a class="ms-pa" id="ms.257"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pj2:71.1"
 msgid "Oṇirakkho nāma"
@@ -2676,7 +2676,7 @@ msgctxt "pi-tv-bu-vb-pj2:80.7"
 msgid "Āṇāpakassa ca avahārakassa ca āpatti pārājikassa."
 msgstr "but there is an offense entailing expulsion for the conveyor of the message and the thief."
 
-#. </p><hr><p><a class="sc" id="77"></a><a class="pts-cs" id="Bu-Pj.2.5.3"></a><a class="ms-pa" id="ms.267"></a><a class="pts-vp-pi" id="pts-vp-pi3.54"></a> 
+#. </p><hr><p><a class="sc" id="77"></a><a class="pts-cs" id="Bu-Pj.2.5.3"></a><a class="ms-pa" id="ms.267"></a><a class="pts-vp-pli" id="pts-vp-pli3.54"></a> 
 msgctxt "pi-tv-bu-vb-pj2:81.1"
 msgid "Bhikkhu bhikkhuṃ āṇāpeti—"
 msgstr "If a monk tells a second monk,"
@@ -2967,7 +2967,7 @@ msgctxt "pi-tv-bu-vb-pj2:89.4"
 msgid "na ca tāvakālikaṃ,"
 msgstr "he does not borrow it;"
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.55"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.55"></a> 
 msgctxt "pi-tv-bu-vb-pj2:89.5"
 msgid "lahuko ca hoti parikkhāro atirekamāsako vā ūnapañcamāsako vā,"
 msgstr "it is an ordinary possession worth more than one <i lang=\"pi\">māsaka</i> coin, but less than five;"
@@ -3322,7 +3322,7 @@ msgid "paṃsukūlaṃ duve dakā;"
 msgstr "Discarded, two on water;"
 
 #. <br>
-#. <a class="pts-vp-pi" id="pts-vp-pi3.56"></a>"
+#. <a class="pts-vp-pli" id="pts-vp-pli3.56"></a>"
 msgctxt "pi-tv-bu-vb-pj2:103.3"
 msgid "Anu­pubba­vidhā­nena,"
 msgstr "Step by step, by arrangement,"
@@ -3580,7 +3580,7 @@ msgctxt "pi-tv-bu-vb-pj2:114.9"
 msgid "(10–‍13)"
 msgstr ""
 
-#. </p><p><a class="sc" id="109"></a><a class="pts-vp-pi" id="pts-vp-pi3.57"></a> <a class="ms-pa" id="ms.299"></a> 
+#. </p><p><a class="sc" id="109"></a><a class="pts-vp-pli" id="pts-vp-pli3.57"></a> <a class="ms-pa" id="ms.299"></a> 
 msgctxt "pi-tv-bu-vb-pj2:115.1"
 msgid "Tena kho pana samayena aññataro bhikkhu divā bhaṇḍaṃ passitvā nimittaṃ akāsi—"
 msgstr "On one occasion a monk saw some goods during the day, and he took note of them with the thought,"
@@ -3841,7 +3841,7 @@ msgctxt "pi-tv-bu-vb-pj2:119.14"
 msgid "(30)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="114"></a><a class="pts-cs" id="Bu-Pj.2.7.7"></a><a class="pts-vp-pi" id="pts-vp-pi3.58"></a> <a class="ms-pa" id="ms.304"></a> 
+#. </p><hr><p><a class="sc" id="114"></a><a class="pts-cs" id="Bu-Pj.2.7.7"></a><a class="pts-vp-pli" id="pts-vp-pli3.58"></a> <a class="ms-pa" id="ms.304"></a> 
 msgctxt "pi-tv-bu-vb-pj2:120.1"
 msgid "Tena kho pana samayena aññataro bhikkhu vāta­maṇḍa­li­kāya ukkhittaṃ sāṭakaṃ passitvā sāmikānaṃ dassāmīti, aggahesi."
 msgstr "On one occasion a monk saw a robe blown up by a whirlwind."
@@ -4056,7 +4056,7 @@ msgctxt "pi-tv-bu-vb-pj2:126.7"
 msgid "(37–‍40)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="121"></a><a class="pts-cs" id="Bu-Pj.2.7.12"></a><a class="pts-vp-pi" id="pts-vp-pi3.59"></a> <a class="ms-pa" id="ms.311"></a> 
+#. </p><hr><p><a class="sc" id="121"></a><a class="pts-cs" id="Bu-Pj.2.7.12"></a><a class="pts-vp-pli" id="pts-vp-pli3.59"></a> <a class="ms-pa" id="ms.311"></a> 
 msgctxt "pi-tv-bu-vb-pj2:127.1"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa odane bhājīyamāne—"
 msgstr "On one occasion when rice belonging to the Order was being distributed,"
@@ -4283,7 +4283,7 @@ msgctxt "pi-tv-bu-vb-pj2:135.4"
 msgid "(57)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="130"></a><a class="pts-cs" id="Bu-Pj.2.7.17"></a><a class="ms-pa" id="ms.320"></a><a class="pts-vp-pi" id="pts-vp-pi3.60"></a> 
+#. </p><hr><p><a class="sc" id="130"></a><a class="pts-cs" id="Bu-Pj.2.7.17"></a><a class="ms-pa" id="ms.320"></a><a class="pts-vp-pli" id="pts-vp-pli3.60"></a> 
 msgctxt "pi-tv-bu-vb-pj2:136.1"
 msgid "Tena kho pana samayena aññataro bhikkhu cīvaravaṃse cīvaraṃ theyyacitto avahari."
 msgstr "On one occasion a monk, intending to steal it, took a robe from a bamboo robe-rack."
@@ -4520,7 +4520,7 @@ msgctxt "pi-tv-bu-vb-pj2:142.5"
 msgid "ucchucorakā …"
 msgstr "sugar-cane thieves …"
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.61"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.61"></a> 
 msgctxt "pi-tv-bu-vb-pj2:142.6"
 msgid "tim­barū­saka­corakā timbarūsake uccinitvā bhaṇḍikaṃ ādāya agamaṃsu."
 msgstr "thieves of <i lang=\"pi\">timbarūsaka</i> fruit took some, collected them in a bundle, and left."
@@ -4731,7 +4731,7 @@ msgctxt "pi-tv-bu-vb-pj2:148.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gāmakaṃ gacchanto aññataraṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, as he was going to the village, a monk said to another monk,"
 
-#. <span class="note" hidden><i lang="pi">Āvuso tuyhaṃ upaṭṭhākakulaṃ vutto vajjemīti</i>. The unusual expression <i lang="pi">vutto vajjemi</i> recurs in the next two cases. <i lang="pi">Vajjemi</i> is apparently an optative formation from <i lang="pi">vadāmi</i>, “I could say,” whereas <i lang="pi">vutto</i> seems to be the past participle of <i lang="pi">vuccati</i>, “spoken to,” the overall meaning being, “I, (having been) spoken to, could say to the family that supports you.” The idea conveyed seems to be the taking of a message, and this is reinforced by the commentary: <i lang="pi">Tava vacanena vadāmīti attho</i>, “The meaning is, ‘I will speak your statement.’”</span> 
+#. <span class="note" hidden><i lang="pli">Āvuso tuyhaṃ upaṭṭhākakulaṃ vutto vajjemīti</i>. The unusual expression <i lang="pli">vutto vajjemi</i> recurs in the next two cases. <i lang="pli">Vajjemi</i> is apparently an optative formation from <i lang="pli">vadāmi</i>, “I could say,” whereas <i lang="pli">vutto</i> seems to be the past participle of <i lang="pli">vuccati</i>, “spoken to,” the overall meaning being, “I, (having been) spoken to, could say to the family that supports you.” The idea conveyed seems to be the taking of a message, and this is reinforced by the commentary: <i lang="pli">Tava vacanena vadāmīti attho</i>, “The meaning is, ‘I will speak your statement.’”</span> 
 msgctxt "pi-tv-bu-vb-pj2:148.2"
 msgid "“āvuso, tuyhaṃ upaṭṭhākakulaṃ vutto vajjemī”ti."
 msgstr "“I can take a message to the family that supports you.”"
@@ -4818,7 +4818,7 @@ msgctxt "pi-tv-bu-vb-pj2:149.11"
 msgid "(87)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="144"></a><a class="ms-pa" id="ms.334"></a><a class="pts-vp-pi" id="pts-vp-pi3.62"></a> 
+#. </p><hr><p><a class="sc" id="144"></a><a class="ms-pa" id="ms.334"></a><a class="pts-vp-pli" id="pts-vp-pli3.62"></a> 
 msgctxt "pi-tv-bu-vb-pj2:150.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gāmakaṃ gacchanto aññataraṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, as he was going to the village, a monk said to another monk,"
@@ -5039,7 +5039,7 @@ msgctxt "pi-tv-bu-vb-pj2:156.2"
 msgid "pāse bandhaṃ migaṃ—"
 msgstr "he released a deer trapped in a snare,"
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.63"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.63"></a> 
 msgctxt "pi-tv-bu-vb-pj2:156.3"
 msgid "“pure sāmikā passantī”ti, theyyacitto muñci …"
 msgstr "intending to steal it before the owners saw it. … “You have committed an offense entailing expulsion.” …"
@@ -5280,7 +5280,7 @@ msgctxt "pi-tv-bu-vb-pj2:164.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno nadiṃ tarantassa rajakānaṃ hatthato muttaṃ sāṭakaṃ pāde laggaṃ hoti."
 msgstr "On one occasion, as a monk was crossing a river, a robe that had escaped from the hands of dyers stuck to his foot."
 
-#. <a class="pts-vp-pi" id="pts-vp-pi3.64"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.64"></a> 
 msgctxt "pi-tv-bu-vb-pj2:164.2"
 msgid "So bhikkhu—“pure sāmikā passantī”ti, theyyacitto aggahesi."
 msgstr "The monk took hold of it, intending to steal it before the owners saw it."
@@ -5526,7 +5526,7 @@ msgctxt "pi-tv-bu-vb-pj2:173.4"
 msgid "(116)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="168"></a><a class="pts-cs" id="Bu-Pj.2.7.38"></a><a class="pts-vp-pi" id="pts-vp-pi3.65"></a> <a class="ms-pa" id="ms.358"></a> 
+#. </p><hr><p><a class="sc" id="168"></a><a class="pts-cs" id="Bu-Pj.2.7.38"></a><a class="pts-vp-pli" id="pts-vp-pli3.65"></a> <a class="ms-pa" id="ms.358"></a> 
 msgctxt "pi-tv-bu-vb-pj2:174.1"
 msgid "Tena kho pana samayena āgantukā bhikkhū saṃghassa ambaṃ bhājāpetvā paribhuñjiṃsu."
 msgstr "On one occasion some visiting monks divided up the mangoes belonging to the Order and ate them."
@@ -5821,7 +5821,7 @@ msgctxt "pi-tv-bu-vb-pj2:182.9"
 msgid "(137–‍142)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="177"></a><a class="pts-cs" id="Bu-Pj.2.7.43"></a><a class="ms-pa" id="ms.367"></a><a class="pts-vp-pi" id="pts-vp-pi3.66"></a> 
+#. </p><hr><p><a class="sc" id="177"></a><a class="pts-cs" id="Bu-Pj.2.7.43"></a><a class="ms-pa" id="ms.367"></a><a class="pts-vp-pli" id="pts-vp-pli3.66"></a> 
 msgctxt "pi-tv-bu-vb-pj2:183.1"
 msgid "Tena kho pana samayena bhikkhū aññatarassa upāsakassa vihāra­pari­bhogaṃ senāsanaṃ aññatra paribhuñjanti."
 msgstr "On one occasion the furniture and dwelling equipment belonging to a certain lay follower were used elsewhere by some monks."
@@ -6031,7 +6031,7 @@ msgid "“dehi me, āvuso ānanda, vinicchayan”ti."
 msgstr "“Ānanda, please investigate.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pi3.67"></a> 
+#. <a class="pts-vp-pli" id="pts-vp-pli3.67"></a> 
 msgctxt "pi-tv-bu-vb-pj2:187.16"
 msgid "Tena kho pana samayena āyasmā upāli āyasmato ajjukassa pakkho hoti."
 msgstr "On that occasion, Venerable Upāli was siding with Ajjuka,"

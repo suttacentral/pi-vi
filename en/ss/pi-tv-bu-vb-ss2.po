@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pi-tv-bu-vb-ss2"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="en"><section class="sutta" id="pli-tv-bu-vb-ss2"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-ss2:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -118,7 +118,7 @@ msgctxt "pi-tv-bu-vb-ss2:6.12"
 msgid "Bhavampi udāyī uḷāro yo evarūpe araññe viharatī”ti."
 msgstr "Venerable Udāyī is superb!”"
 
-#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pi" id="pts-vp-pi3.120"></a><a class="ms-pa" id="ms-pa995"></a> 
+#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli3.120"></a><a class="ms-pa" id="ms-pa995"></a> 
 msgctxt "pi-tv-bu-vb-ss2:7.1"
 msgid "Evaṃ vutte, sā brāhmaṇī taṃ brāhmaṇaṃ etadavoca—"
 msgstr "But the brahmin lady said,"
@@ -282,13 +282,13 @@ msgctxt "pi-tv-bu-vb-ss2:11.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
-#. </p><p><a class="sc" id="8"></a><a class="pts-vp-pi" id="pts-vp-pi3.121"></a><a class="ms-pa" id="ms-pa1000"></a>
+#. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.121"></a><a class="ms-pa" id="ms-pa1000"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ss2:12.1"
 msgid "Otiṇṇo nāma"
 msgstr "Lustful:"
 
-#. </strong><span class="note" hidden>I have rendered <i lang="pi">otiṇṇo vipariṇatena cittena</i> with the single word “lustful.” This means that the definition for <i lang="pi">vipariṇataṃ</i> is missing from my translation. Here is the Pali, followed by a translation: <i lang="pi">Vipariṇatanti rattampi cittaṃ vipariṇataṃ. Duṭṭhampi cittaṃ vipariṇataṃ. Mūḷhampi cittaṃ vipariṇataṃ. Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti</i>; “distorted: a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted. But in this case ‘distorted’ refers to a mind with desire.”</span><span class="gloss"> 
+#. </strong><span class="note" hidden>I have rendered <i lang="pli">otiṇṇo vipariṇatena cittena</i> with the single word “lustful.” This means that the definition for <i lang="pli">vipariṇataṃ</i> is missing from my translation. Here is the Pali, followed by a translation: <i lang="pli">Vipariṇatanti rattampi cittaṃ vipariṇataṃ. Duṭṭhampi cittaṃ vipariṇataṃ. Mūḷhampi cittaṃ vipariṇataṃ. Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti</i>; “distorted: a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted. But in this case ‘distorted’ refers to a mind with desire.”</span><span class="gloss"> 
 msgctxt "pi-tv-bu-vb-ss2:12.2"
 msgid "sāratto apekkhavā paṭi­baddha­citto."
 msgstr "having lust, longing for, in love with."
@@ -645,7 +645,7 @@ msgctxt "pi-tv-bu-vb-ss2:38.3"
 msgid "gaṇhāti chupati, āpatti thullaccayassa."
 msgstr "takes hold of her, contacts her, he commits a serious offense."
 
-#. </p><hr><p><a class="sc" id="35"></a><a class="ms-pa" id="ms-pa1027"></a><a class="pts-vp-pi" id="pts-vp-pi3.122"></a> 
+#. </p><hr><p><a class="sc" id="35"></a><a class="ms-pa" id="ms-pa1027"></a><a class="pts-vp-pli" id="pts-vp-pli3.122"></a> 
 msgctxt "pi-tv-bu-vb-ss2:39.1"
 msgid "Paṇḍako ca hoti paṇḍakasaññī sāratto ca."
 msgstr "It is a sexual non-conformist, he perceives him as a sexual non-conformist, and he has lust."
@@ -959,7 +959,7 @@ msgctxt "pi-tv-bu-vb-ss2:58.1"
 msgid ""
 msgstr "Making direct contact with two beings of different kinds: body to body"
 
-#. </h5><p><a class="sc" id="54"></a><a class="pts-vp-pi" id="pts-vp-pi3.123"></a><a class="pts-cs" id="bu-ss.2.3.3"></a><a class="ms-pa" id="ms-pa1046"></a> 
+#. </h5><p><a class="sc" id="54"></a><a class="pts-vp-pli" id="pts-vp-pli3.123"></a><a class="pts-cs" id="bu-ss.2.3.3"></a><a class="ms-pa" id="ms-pa1046"></a> 
 msgctxt "pi-tv-bu-vb-ss2:58.2"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
@@ -1238,7 +1238,7 @@ msgctxt "pi-tv-bu-vb-ss2:74.4"
 msgid "gaṇhāti chupati, āpatti thullaccayassa … pe …."
 msgstr "takes hold of it, contacts it, he commits a serious offense. …"
 
-#. </p><p><a class="sc" id="71"></a><a class="pts-vp-pi" id="pts-vp-pi3.124"></a><a class="ms-pa" id="ms-pa1063"></a> 
+#. </p><p><a class="sc" id="71"></a><a class="pts-vp-pli" id="pts-vp-pli3.124"></a><a class="ms-pa" id="ms-pa1063"></a> 
 msgctxt "pi-tv-bu-vb-ss2:75.1"
 msgid "Dve itthiyo dvinnaṃ itthīnaṃ itthisaññī sāratto ca."
 msgstr "It is two women, he perceives them both as women, and he has lust."
@@ -1463,7 +1463,7 @@ msgctxt "pi-tv-bu-vb-ss2:94.2"
 msgid "Itthiyo ca naṃ bhikkhussa kāyena kāyaṃ āmasanti parāmasanti omasanti ummasanti olaṅghenti ullaṅghenti ākaḍḍhanti patikaḍḍhanti abhi­nig­gaṇhanti abhinippīḷenti gaṇhanti chupanti, sevanādhippāyo kāyena vāyamati phassaṃ paṭivijānāti, āpatti dvinnaṃ saṃ­ghādi­sesānaṃ … pe …."
 msgstr "If the women make physical contact with the monk, body to body, if they touch him, stroke him downwards, stroke him upwards, pull him down, raise him up, pull him, push him, squeeze him, press him, take hold of him, contact him, and he, aiming at association, makes an effort with the body and experiences contact, he commits two offenses entailing suspension. …"
 
-#. </p><p><a class="sc" id="91"></a><a class="pts-vp-pi" id="pts-vp-pi3.125"></a><a class="ms-pa" id="ms-pa1083"></a> 
+#. </p><p><a class="sc" id="91"></a><a class="pts-vp-pli" id="pts-vp-pli3.125"></a><a class="ms-pa" id="ms-pa1083"></a> 
 msgctxt "pi-tv-bu-vb-ss2:95.1"
 msgid "Itthī ca paṇḍako ca ubhinnaṃ itthisaññī sāratto ca."
 msgstr "It is a woman and a sexual non-conformist, but he perceives both as women, and he has lust."
@@ -1755,7 +1755,7 @@ msgctxt "pi-tv-bu-vb-ss2:118.1"
 msgid "Mokkhādhippāyo kāyena vāyamati, phassaṃ paṭivijānāti, anāpatti."
 msgstr "If, aiming to free himself, he makes an effort with the body and experiences contact, there is no offense."
 
-#. </p><p><a class="sc" id="115"></a><a class="pts-vp-pi" id="pts-vp-pi3.126"></a><a class="ms-pa" id="ms-pa1107"></a> 
+#. </p><p><a class="sc" id="115"></a><a class="pts-vp-pli" id="pts-vp-pli3.126"></a><a class="ms-pa" id="ms-pa1107"></a> 
 msgctxt "pi-tv-bu-vb-ss2:119.1"
 msgid "Mokkhādhippāyo kāyena vāyamati, na ca phassaṃ paṭivijānāti, anāpatti."
 msgstr "If, aiming to free himself, he makes an effort with the body, but does not experience contact, there is no offense."
@@ -2092,7 +2092,7 @@ msgctxt "pi-tv-bu-vb-ss2:136.6"
 msgid "(11)"
 msgstr ""
 
-#. </p><hr><p><a class="sc" id="131"></a><a class="pts-cs" id="bu-ss.2.4.6"></a><a class="ms-pa" id="ms-pa1123"></a><a class="pts-vp-pi" id="pts-vp-pi3.127"></a> 
+#. </p><hr><p><a class="sc" id="131"></a><a class="pts-cs" id="bu-ss.2.4.6"></a><a class="ms-pa" id="ms-pa1123"></a><a class="pts-vp-pli" id="pts-vp-pli3.127"></a> 
 msgctxt "pi-tv-bu-vb-ss2:137.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā abhirūḷhaṃ saṅkamaṃ sāratto sañcālesi."
 msgstr "At one time, a monk, being lustful, shook the bridge on which a woman was standing."

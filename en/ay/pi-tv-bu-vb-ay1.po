@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-ay1"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-ay1"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-ay1:1.1"
 msgid "Theravāda Vinaya"
 msgstr "Theravāda Collection on Monastic Law"
@@ -31,7 +31,7 @@ msgctxt "pi-tv-bu-vb-ay1:4.1"
 msgid "1. Paṭhamaaniyatasikkhāpada"
 msgstr "1. The first training rule"
 
-#. </h1></div><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi3.187"></a><a class="pts-vp-en" id="bd.1.330"></a><a class="ms-pa" id="ms-pa1802"></a> 
+#. </h1></div><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.187"></a><a class="pts-vp-en" id="bd.1.330"></a><a class="ms-pa" id="ms-pa1802"></a> 
 msgctxt "pi-tv-bu-vb-ay1:5.1"
 msgid "Ime kho panāyasmanto dve aniyatā dhammā"
 msgstr "Venerables, these two undetermined rules"
@@ -110,7 +110,7 @@ msgctxt "pi-tv-bu-vb-ay1:6.17"
 msgid "upasaṅkamitvā tassā kumārikāya saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappesi kālayuttaṃ samullapanto kālayuttaṃ dhammaṃ bhaṇanto."
 msgstr "and the two of them sat down alone on a private and concealed seat suitable for doing it. When they were able, they just chatted; otherwise he gave her a teaching."
 
-#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pi" id="pts-vp-pi3.188"></a><a class="ms-pa" id="ms-pa1804"></a><a class="pts-vp-en" id="bd.1.331"></a> 
+#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli3.188"></a><a class="ms-pa" id="ms-pa1804"></a><a class="pts-vp-en" id="bd.1.331"></a> 
 msgctxt "pi-tv-bu-vb-ay1:7.1"
 msgid "Tena kho pana samayena visākhā migāramātā bahuputtā hoti bahunattā arogaputtā aroganattā abhimaṅgalasammatā."
 msgstr "At that time Visākhā Migāramātā had many healthy children and grandchildren, and she was considered very auspicious."
@@ -317,7 +317,7 @@ msgctxt "pi-tv-bu-vb-ay1:14.6"
 msgid "na sakkā hoti pakatikathā sotuṃ."
 msgstr "one is unable to hear ordinary speech."
 
-#. </span></span></p><p><a class="sc" id="11"></a><a class="pts-vp-pi" id="pts-vp-pi3.189"></a><a class="ms-pa" id="ms-pa1812"></a>
+#. </span></span></p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli3.189"></a><a class="ms-pa" id="ms-pa1812"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-ay1:15.1"
 msgid "Paṭicchannaṃ nāma"
@@ -486,7 +486,7 @@ msgctxt "pi-tv-bu-vb-ay1:22.18"
 msgid "na kāretabbo."
 msgstr "then he is not to be dealt with."
 
-#. </p><p><a class="sc" id="19"></a><a class="pts-vp-pi" id="pts-vp-pi3.190"></a><a class="ms-pa" id="ms-pa1820"></a> 
+#. </p><p><a class="sc" id="19"></a><a class="pts-vp-pli" id="pts-vp-pli3.190"></a><a class="ms-pa" id="ms-pa1820"></a> 
 msgctxt "pi-tv-bu-vb-ay1:23.1"
 msgid "Sā ce evaṃ vadeyya—"
 msgstr "If she accuses him thus:"
@@ -730,7 +730,7 @@ msgctxt "pi-tv-bu-vb-ay1:29.5"
 msgid "Gamanaṃ paṭijānāti, nisajjaṃ na paṭijānāti, āpattiṃ na paṭijānāti, na kāretabbo."
 msgstr "If he admits to going, but he does not admit to sitting, nor does he admit to an offense, he is not to be dealt with."
 
-#. </p><p><a class="sc" id="26"></a><a class="pts-vp-pi" id="pts-vp-pi3.191"></a><a class="ms-pa" id="ms-pa1827"></a> 
+#. </p><p><a class="sc" id="26"></a><a class="pts-vp-pli" id="pts-vp-pli3.191"></a><a class="ms-pa" id="ms-pa1827"></a> 
 msgctxt "pi-tv-bu-vb-ay1:30.1"
 msgid "Gamanaṃ na paṭijānāti, nisajjaṃ paṭijānāti, āpattiṃ paṭijānāti, āpattiyā kāretabbo."
 msgstr "If he does not admit to going, but he admits to sitting, and he admits to an offense, he is to be dealt with for the offense."

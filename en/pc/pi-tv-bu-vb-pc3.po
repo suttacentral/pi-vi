@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pi"><section class="sutta" id="pi-tv-bu-vb-pc3"><article><div class="hgroup"><p class="division"> 
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-pc3"><article><div class="hgroup"><p class="division"> 
 msgctxt "pi-tv-bu-vb-pc3:1.1"
 msgid "Theravāda Vinaya"
 msgstr ""
@@ -42,7 +42,7 @@ msgctxt "pi-tv-bu-vb-pc3:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-pi4.12"></a><a class="pts-cs" id="Bu-Pc.3.1"></a><a class="pts-vp-en" id="BD.2.186"></a><a class="wt-pa" id="wt-pa111"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.12"></a><a class="pts-cs" id="Bu-Pc.3.1"></a><a class="pts-vp-en" id="BD.2.186"></a><a class="wt-pa" id="wt-pa111"></a> 
 msgctxt "pi-tv-bu-vb-pc3:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -134,7 +134,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa113"></a>
 #. <strong class="rule">
-#. <span class="note" hidden>This is translated somewhat freely in accordance with the explanation below and in the commentary. According to <span class="ref">MS.2.144</span> (see below) the offense is only incurred when a monk brings the words of another monk to the attention of yet another monk, and thus the translation “between monks.” <span class="ref">Sp.4.740.20</span> supports the plural rendering “monks”: “malicious talebearing of monks,” <i lang="pi">bhikkhūnaṃ pesuññe</i>.</span> 
+#. <span class="note" hidden>This is translated somewhat freely in accordance with the explanation below and in the commentary. According to <span class="ref">MS.2.144</span> (see below) the offense is only incurred when a monk brings the words of another monk to the attention of yet another monk, and thus the translation “between monks.” <span class="ref">Sp.4.740.20</span> supports the plural rendering “monks”: “malicious talebearing of monks,” <i lang="pli">bhikkhūnaṃ pesuññe</i>.</span> 
 msgctxt "pi-tv-bu-vb-pc3:8.2"
 msgid "“Bhikkhupesuññe pācittiyan”ti."
 msgstr "‘If a monk engages in malicious talebearing between monks, he commits an offense entailing confession.’”"
@@ -230,7 +230,7 @@ msgctxt "pi-tv-bu-vb-pc3:10.12"
 msgid "Esā ukkaṭṭhā nāma jāti … pe …."
 msgstr "these are called “high castes.” … <span class=\"add\">To be expanded as in <a href=\"/en/pi-tv-bu-vb-pc2#9\">Pācittiya 2, paragraphs 9–16</a>.</span> …"
 
-#. </span></span></p><p><a class="sc" id="6"></a><a class="pts-vp-pi" id="pts-vp-pi4.13"></a><a class="wt-pa" id="wt-pa116"></a>
+#. </span></span></p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.13"></a><a class="wt-pa" id="wt-pa116"></a>
 #. <strong class="term"> 
 msgctxt "pi-tv-bu-vb-pc3:11.1"
 msgid "Akkoso nāma"
@@ -629,7 +629,7 @@ msgctxt "pi-tv-bu-vb-pc3:37.3"
 msgid "Āpatti vācāya, vācāya dukkaṭassa."
 msgstr "then for every statement, he commits an offense of wrong conduct. …"
 
-#. </p><p><a class="sc" id="33"></a><a class="pts-vp-pi" id="pts-vp-pi4.14"></a><a class="wt-pa" id="wt-pa143"></a> 
+#. </p><p><a class="sc" id="33"></a><a class="pts-vp-pli" id="pts-vp-pli4.14"></a><a class="wt-pa" id="wt-pa143"></a> 
 msgctxt "pi-tv-bu-vb-pc3:38.1"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"

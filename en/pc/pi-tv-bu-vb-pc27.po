@@ -1,0 +1,446 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-06-26 12:52+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-pc27"><article><div class="hgroup"><p class="division"> 
+msgctxt "pi-tv-bu-vb-pc27:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:3.1"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (<i lang=\"pi\">pācittiya</i>)"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:4.1"
+msgid "Ovādavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-pc27:5.1"
+msgid "27. Saṃvidhānasikkhāpada"
+msgstr "Monks’ Confession 27: the training rule on appointments"
+
+#. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-pc27:6.1"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><h3>
+msgctxt "pi-tv-bu-vb-pc27:6.2"
+msgid ""
+msgstr "First sub-story"
+
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.27.1"></a> <a class="pts-vp-en" id="BD.2.288"></a><a class="wt-pa" id="589"></a> 
+msgctxt "pi-tv-bu-vb-pc27:6.3"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pi-tv-bu-vb-pc27:6.4"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjanti."
+msgstr "At that time the monks from the group of six traveled on a main road by appointment with nuns."
+
+msgctxt "pi-tv-bu-vb-pc27:6.5"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr "People complained and criticized them,"
+
+msgctxt "pi-tv-bu-vb-pc27:6.6"
+msgid "“yatheva mayaṃ sapajāpatikā āhiṇḍāma, evamevime samaṇā sakyaputtiyā bhikkhunīhi saddhiṃ saṃvidhāya āhiṇḍantī”ti."
+msgstr "“Just as we go around with our wives, so these Sakyan ascetics go around by appointment with nuns.”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="590"></a> 
+msgctxt "pi-tv-bu-vb-pc27:7.1"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "The monks heard the complaints of those people,"
+
+msgctxt "pi-tv-bu-vb-pc27:7.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pi-tv-bu-vb-pc27:7.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized those monks,"
+
+msgctxt "pi-tv-bu-vb-pc27:7.4"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjissantī”ti … pe …"
+msgstr "“How can the monks from the group of six travel on a main road by appointment with nuns?” …"
+
+msgctxt "pi-tv-bu-vb-pc27:7.5"
+msgid "“saccaṃ kira tumhe, bhikkhave, bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjathā”ti?"
+msgstr "“Is it true, monks, that you do this?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:7.6"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:7.7"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked them, “…"
+
+msgctxt "pi-tv-bu-vb-pc27:7.8"
+msgid "kathañhi nāma tumhe, moghapurisā, bhikkhunīhi saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjissatha."
+msgstr "Foolish men, how can you travel on a main road by appointment with nuns?"
+
+msgctxt "pi-tv-bu-vb-pc27:7.9"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pi-tv-bu-vb-pc27:7.10"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha."
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h3>
+msgctxt "pi-tv-bu-vb-pc27:8.1"
+msgid ""
+msgstr "Preliminary ruling"
+
+#. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="591"></a>
+#. <strong class="rule"> 
+msgctxt "pi-tv-bu-vb-pc27:8.2"
+msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, pācittiyan”ti."
+msgstr "‘If a monk travels on a main road by appointment with a nun, even if just between villages, he commits an offense entailing confession.’”"
+
+#. </strong>
+#. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="592"></a> 
+msgctxt "pi-tv-bu-vb-pc27:9.1"
+msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
+msgstr "In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgctxt "pi-tv-bu-vb-pc27:10.1"
+msgid ""
+msgstr "Second sub-story"
+
+#. </h3><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli4.63"></a><a class="pts-cs" id="Bu-Pc.27.2"></a> <a class="wt-pa" id="593"></a><a class="pts-vp-en" id="BD.2.289"></a> 
+msgctxt "pi-tv-bu-vb-pc27:10.2"
+msgid "Tena kho pana samayena sambahulā bhikkhū ca bhikkhuniyo ca sāketā sāvatthiṃ addhānamaggappaṭipannā honti."
+msgstr "Soon afterwards a number of monks and nuns were traveling from Sāketa to Sāvatthī."
+
+msgctxt "pi-tv-bu-vb-pc27:10.3"
+msgid "Atha kho tā bhikkhuniyo te bhikkhū etadavocuṃ—"
+msgstr "The nuns said to the monks,"
+
+msgctxt "pi-tv-bu-vb-pc27:10.4"
+msgid "“mayampi ayyehi saddhiṃ gamissāmā”ti."
+msgstr "“We’ll go with you.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:10.5"
+msgid "“Na, bhaginī, kappati bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjituṃ."
+msgstr "“Sisters, it’s not allowable for us to travel on a main road by appointment with nuns."
+
+msgctxt "pi-tv-bu-vb-pc27:10.6"
+msgid "Tumhe vā paṭhamaṃ gacchatha mayaṃ vā gamissāmā”ti."
+msgstr "You should go first, or we will.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:10.7"
+msgid "“Ayyā, bhante, aggapurisā."
+msgstr "“Venerables, you have the highest status."
+
+msgctxt "pi-tv-bu-vb-pc27:10.8"
+msgid "Ayyāva paṭhamaṃ gacchantū”ti."
+msgstr "Please go first.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-pc27:10.9"
+msgid "Atha kho tāsaṃ bhikkhunīnaṃ pacchā gacchantīnaṃ antarāmagge corā acchindiṃsu ca dūsesuñca."
+msgstr "But because the nuns went behind, they were robbed and raped by bandits."
+
+msgctxt "pi-tv-bu-vb-pc27:10.10"
+msgid "Atha kho tā bhikkhuniyo sāvatthiṃ gantvā bhikkhunīnaṃ etamatthaṃ ārocesuṃ."
+msgstr "When they arrived at Sāvatthī, they told the nuns there what had happened."
+
+msgctxt "pi-tv-bu-vb-pc27:10.11"
+msgid "Bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
+msgstr "The nuns then told the monks,"
+
+#. <a class="wt-pa" id="594"></a> 
+msgctxt "pi-tv-bu-vb-pc27:10.12"
+msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ."
+msgstr "who in turn told the Master."
+
+#. </p><p><a class="sc" id="6"></a> 
+msgctxt "pi-tv-bu-vb-pc27:11.1"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
+
+#. <strong class="rule"> 
+msgctxt "pi-tv-bu-vb-pc27:11.2"
+msgid "“anujānāmi, bhikkhave, satthagamanīye magge sāsaṅkasammate sappaṭibhaye bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjituṃ."
+msgstr "“Monks, I allow you to travel on a main road by appointment with a nun if it’s a dangerous and frightening road that should be traveled with a group."
+
+#. </strong> 
+msgctxt "pi-tv-bu-vb-pc27:11.3"
+msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "”And so, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-pc27:12.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="595"></a><strong class="rule"> 
+msgctxt "pi-tv-bu-vb-pc27:12.2"
+msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, aññatra samayā, pācittiyaṃ."
+msgstr "‘If a monk travels on a main road by appointment with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+#. <span class="note" hidden><i lang="pli">Sattho</i>, often translated as caravan. According to <span class="ref">Sp-ṭ.2.489</span> this refers either to a caravan of travelers walking on foot or to a caravan of carts: <i lang="pli">satthoti jaṅghasattho sakaṭasattho vā</i>.</span> 
+msgctxt "pi-tv-bu-vb-pc27:12.3"
+msgid "Tatthāyaṃ samayo. Satthagamanīyo hoti maggo sāsaṅkasammato sappaṭibhayo—ayaṃ tattha samayo”ti."
+msgstr "The appropriate reason is that the road is considered dangerous and frightening and should be traveled with a group.’”"
+
+#. </strong> 
+msgctxt "pi-tv-bu-vb-pc27:12.4"
+msgid "(<em>27</em>:<strong>76</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-pc27:13.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="Bu-Pc.27.3"></a><a class="pts-cs" id="Bu-Pc.27.3.1"></a><a class="wt-pa" id="596"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:13.2"
+msgid "Yo panāti"
+msgstr "A:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:13.3"
+msgid "yo yādiso … pe …"
+msgstr "whoever …"
+
+#. </span>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:13.4"
+msgid "bhikkhūti"
+msgstr "Monk:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:13.5"
+msgid "… pe …"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgctxt "pi-tv-bu-vb-pc27:13.6"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case."
+
+#. </span>
+#. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="597"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:14.1"
+msgid "Bhikkhunī nāma"
+msgstr "A nun:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:14.2"
+msgid "ubhatosaṃghe upasampannā."
+msgstr "she has been given the full ordination by both Orders."
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="598"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:15.1"
+msgid "Saddhinti"
+msgstr "With:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:15.2"
+msgid "ekato."
+msgstr "together."
+
+#. </span>
+#. </p><p><a class="sc" id="11"></a><a class="pts-vp-en" id="BD.2.290"></a><a class="wt-pa" id="599"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:16.1"
+msgid "Saṃvidhāyāti—"
+msgstr "By appointment: if he makes an appointment like this:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:16.2"
+msgid "“gacchāma, bhagini, gacchāmāyya; gacchāmāyya, gacchāma, bhagini; ajja vā hiyyo vā pare vā gacchāmā”ti saṃvidahati, āpatti dukkaṭassa."
+msgstr "he says, “Let’s go, Sister,” and she replies, “Yes, let’s go, Venerable;” or she says, “Let’s go, Venerable,” and he replies, “Yes, let’s go, Sister;” or he says, “Let’s go today/tomorrow/the day after tomorrow,” then he commits an offense of wrong conduct."
+
+#. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="600"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:17.1"
+msgid "Antamaso gāmantarampīti"
+msgstr "Even if just between villages:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:17.2"
+msgid "kukkuṭasampāte gāme, gāmantare gāmantare āpatti pācittiyassa."
+msgstr "when the villages are a chicken’s flight apart, then for every village interval he commits an offense entailing confession."
+
+#. <span class="note" hidden>Half a <i lang="pli">yojana</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16). Thus half a <i lang="pli">yojana</i> is just over 6 km.</span> 
+msgctxt "pi-tv-bu-vb-pc27:17.3"
+msgid "Agāmake araññe, addhayojane addhayojane āpatti pācittiyassa."
+msgstr "If it is in an uninhabited area, in the wilderness, then for every six kilometers he commits an offense entailing confession."
+
+#. </span>
+#. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="601"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:18.1"
+msgid "Aññatra samayāti"
+msgstr "Unless there is an appropriate reason:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:18.2"
+msgid "ṭhapetvā samayaṃ."
+msgstr "except at an appropriate time."
+
+#. </span>
+#. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="602"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:19.1"
+msgid "Satthagamanīyo nāma"
+msgstr "The road […] should be traveled with a group:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:19.2"
+msgid "maggo na sakkā hoti vinā satthena gantuṃ."
+msgstr "it is not possible to travel without a group."
+
+#. </span>
+#. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="603"></a> <span class="var" hidden>tasmiṃ magge → yasmiṃ magge (?)</span>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:20.1"
+msgid "Sāsaṅkaṃ nāma"
+msgstr "Dangerous:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:20.2"
+msgid "tasmiṃ magge corānaṃ niviṭṭhokāso dissati, bhuttokāso dissati, ṭhitokāso dissati, nisinnokāso dissati, nipannokāso dissati."
+msgstr "thieves have been seen along that road, camped, eating, standing, seated, or lying down."
+
+#. </span>
+#. </p><p><a class="sc" id="16"></a><a class="pts-vp-pli" id="pts-vp-pli4.64"></a><a class="wt-pa" id="604"></a>
+#. <strong class="term"> 
+msgctxt "pi-tv-bu-vb-pc27:21.1"
+msgid "Sappaṭibhayaṃ nāma"
+msgstr "Frightening:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pi-tv-bu-vb-pc27:21.2"
+msgid "tasmiṃ magge corehi manussā hatā dissanti, viluttā dissanti, ākoṭitā dissanti, sappaṭibhayaṃ gantvā appaṭibhayaṃ dassetvā uyyojetabbā—"
+msgstr "thieves have been seen along that road, injuring, robbing, or beating people. If they go thinking it is frightening, but then see that it is not, the nuns are to be dismissed,"
+
+msgctxt "pi-tv-bu-vb-pc27:21.3"
+msgid "“gacchatha, bhaginiyo”ti."
+msgstr "“Go, Sisters.”"
+
+#. </span>
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-pc27:22.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="17"></a><a class="pts-cs" id="Bu-Pc.27.3.2"></a> <a class="pts-vp-en" id="BD.2.291"></a><a class="wt-pa" id="605"></a> 
+msgctxt "pi-tv-bu-vb-pc27:22.2"
+msgid "Saṃvidahite saṃvidahitasaññī ekaddhānamaggaṃ paṭipajjati, antamaso gāmantarampi, aññatra samayā, āpatti pācittiyassa."
+msgstr "If there is an appointment, and he perceives that there is, and he travels on a main road with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgctxt "pi-tv-bu-vb-pc27:22.3"
+msgid "Saṃvidahite vematiko ekaddhānamaggaṃ paṭipajjati, antamaso gāmantarampi, aññatra samayā, āpatti pācittiyassa."
+msgstr "If there is an appointment, but he is unsure if there is, and he travels on a main road with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgctxt "pi-tv-bu-vb-pc27:22.4"
+msgid "Saṃvidahite, asaṃvidahitasaññī ekaddhānamaggaṃ paṭipajjati, antamaso gāmantarampi, aññatra samayā, āpatti pācittiyassa."
+msgstr "If there is an appointment, but he perceives that there is not, and he travels on a main road with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
+
+#. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="606"></a> 
+msgctxt "pi-tv-bu-vb-pc27:23.1"
+msgid "Bhikkhu saṃvidahati bhikkhunī na saṃvidahati, āpatti dukkaṭassa."
+msgstr "If the monk makes an appointment, but the nun does not express her agreement, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pc27:23.2"
+msgid "Asaṃvidahite saṃvidahitasaññī, āpatti dukkaṭassa."
+msgstr "If there is no appointment, but he perceives that there is, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pc27:23.3"
+msgid "Asaṃvidahite vematiko, āpatti dukkaṭassa."
+msgstr "If there is no appointment, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgctxt "pi-tv-bu-vb-pc27:23.4"
+msgid "Asaṃvidahite asaṃvidahitasaññī, anāpatti."
+msgstr "If there is no appointment, and he perceives that there is not, there is no offense."
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-pc27:24.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="19"></a><a class="pts-cs" id="Bu-Pc.27.3.3"></a><a class="wt-pa" id="607"></a> 
+msgctxt "pi-tv-bu-vb-pc27:24.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pi-tv-bu-vb-pc27:24.3"
+msgid "samaye,"
+msgstr "if there is an appropriate reason;"
+
+msgctxt "pi-tv-bu-vb-pc27:24.4"
+msgid "asaṃvidahitvā gacchati,"
+msgstr "if he goes without an appointment;"
+
+msgctxt "pi-tv-bu-vb-pc27:24.5"
+msgid "bhikkhunī saṃvidahati, bhikkhu na saṃvidahati,"
+msgstr "if the nun has made an appointment, but he has not expressed his agreement;"
+
+msgctxt "pi-tv-bu-vb-pc27:24.6"
+msgid "visaṅketena gacchanti,"
+msgstr "if they go, but not according to the appointment;"
+
+msgctxt "pi-tv-bu-vb-pc27:24.7"
+msgid "āpadāsu,"
+msgstr "if there are dangers;"
+
+msgctxt "pi-tv-bu-vb-pc27:24.8"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pi-tv-bu-vb-pc27:24.9"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="20"></a><a class="wt-pa" id="608"></a> 
+msgctxt "pi-tv-bu-vb-pc27:25.1"
+msgid "Saṃvidhānasikkhāpadaṃ niṭṭhitaṃ sattamaṃ."
+msgstr "The seventh rule, the training rule on appointments, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pi-tv-bu-vb-pc27:25.2"
+msgid ""
+msgstr ""
