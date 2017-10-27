@@ -84,6 +84,7 @@ msgid "“Tena hi, brāhmaṇa, pekkhassū”ti,"
 msgstr "“Well then, brahmin, have a look.”"
 
 #. </p><p>
+#. VAR: avāpuraṇaṃ → apāpuraṇaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:6.5"
 msgid "avāpuraṇaṃ ādāya ghaṭikaṃ ugghāṭetvā kavāṭaṃ paṇāmetvā vihāraṃ pāvisi."
 msgstr "Udāyī took the key, unlatched the bolt, opened the door, and entered the dwelling."
@@ -161,6 +162,8 @@ msgctxt "pli-tv-bu-vb-ss2:7.10"
 msgid "Na hi sakkā kulitthīhi kuladhītāhi kulakumārīhi kulasuṇhāhi kuladāsīhi ārāmaṃ vā vihāraṃ vā gantuṃ."
 msgstr "It’s not possible to go to a monastery or a monk’s dwelling with wives of respectable families, with daughters, girls, daughters-in-law, or female slaves of respectable families."
 
+#. VAR: Sace → sace hi (s1-3)
+#. VAR: kuladhītaro → kuladhītayo (bj) | kuladhītāyo (si, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:7.11"
 msgid "Sace kulitthiyo kuladhītaro kulakumāriyo kulasuṇhāyo kuladāsiyo ārāmaṃ vā vihāraṃ vā gaccheyyuṃ, tāpi samaṇā sakyaputtiyā dūseyyun”ti."
 msgstr "If you do, the Sakyan ascetics might molest them.”"
@@ -237,6 +240,8 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa998"></a><a class="pts-vp-en" id="bd.1.202"></a>
 #. <strong class="rule"> 
+#. VAR: veṇiggāhaṃ → veṇigāhaṃ (bj, s1-3, pts1)
+#. VAR: hatthaggāhaṃ → hatthagāhaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:10.2"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ,"
 msgstr "‘If a lustful monk makes physical contact with a woman—holding her hand or hair, or touching any part of her body—"
@@ -488,6 +493,7 @@ msgid "Ākaḍḍhanā nāma"
 msgstr "Pulling:"
 
 #. </strong><span class="gloss"> 
+#. VAR: āviñchanā → āviñjanā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:27.2"
 msgid "āviñchanā."
 msgstr "drawing to."
@@ -1804,6 +1810,7 @@ msgctxt "pli-tv-bu-vb-ss2:122.8"
 msgid "khittacittassa,"
 msgstr "if he is deranged;"
 
+#. VAR: vedanāṭṭassa → vedanaṭṭassa (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:122.9"
 msgid "vedanāṭṭassa,"
 msgstr "if he is overwhelmed by pain;"
@@ -2066,6 +2073,7 @@ msgid "(10)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="130"></a><a class="pts-cs" id="bu-ss.2.4.5"></a><a class="ms-pa" id="ms-pa1122"></a> 
+#. VAR: ānesuṃ → nesuṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:136.1"
 msgid "Tena kho pana samayena sambahulā itthiyo aññataraṃ bhikkhuṃ sampīḷetvā bāhā­param­parāya ānesuṃ."
 msgstr "At one time, a number of women harassed a monk by leading him about arm-in-arm."
@@ -2173,6 +2181,7 @@ msgid "(15)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="135"></a><a class="pts-cs" id="bu-ss.2.4.9"></a><a class="ms-pa" id="ms-pa1127"></a> 
+#. VAR: āviñchi → āviñji (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:141.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā gahitaṃ rajjuṃ sāratto āviñchi."
 msgstr "At one time, a monk, being lustful, pulled the rope that a woman was holding."
@@ -2194,6 +2203,7 @@ msgid "(16)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="136"></a><a class="ms-pa" id="ms-pa1128"></a> 
+#. VAR: āviñchi → āviñji (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:142.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā gahitaṃ daṇḍaṃ sāratto āviñchi."
 msgstr "At one time, a monk, being lustful, pulled the stick that a woman was holding."
@@ -2274,6 +2284,7 @@ msgid "(20)"
 msgstr ""
 
 #. </p><hr><p class="endsutta"><a class="sc" id="140"></a><a class="ms-pa" id="ms-pa1132"></a> 
+#. VAR: niṭṭhitaṃ dutiyaṃ → niṭṭhitaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:146.1"
 msgid "­Kāyasaṃ­sagga­sikkhā­padaṃ niṭṭhitaṃ dutiyaṃ."
 msgstr "The second rule, the training rule on physical contact, is finished."

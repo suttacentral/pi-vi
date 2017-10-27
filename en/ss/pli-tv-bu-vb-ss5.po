@@ -88,6 +88,7 @@ msgctxt "pli-tv-bu-vb-ss5:5.13"
 msgid "“amukassa kulassa kumārako abhirūpo dassanīyo pāsādiko paṇḍito byatto medhāvī dakkho analaso."
 msgstr "“The young man of such-and-such a family is handsome, intelligent, skilled, and diligent."
 
+#. VAR: Channāyaṃ kumārikā tassa kumārakassā”ti → channo so kumārako imissā kumārikāyāti (s1-3)
 msgctxt "pli-tv-bu-vb-ss5:5.14"
 msgid "Channāyaṃ kumārikā tassa kumārakassā”ti."
 msgstr "He is suitable for your daughter.”"
@@ -135,6 +136,7 @@ msgid "“dehāyye, imaṃ kumārikaṃ amhākaṃ kumārakassā”ti."
 msgstr "“Lady, please give your girl to our boy.”"
 
 #. </p><p>
+#. VAR: khvayyo → khvayyā (bj, s1-3) | khvāyyo (mr)
 msgctxt "pli-tv-bu-vb-ss5:6.4"
 msgid "Sā evamāha—“ahaṃ khvayyo, tumhe na jānāmi—‘ke vā ime kassa vā’ti."
 msgstr "“Sirs, I don’t know who you are."
@@ -504,6 +506,7 @@ msgctxt "pli-tv-bu-vb-ss5:16.1"
 msgid "Yā pana tā itthiyo santuṭṭhā sassūhi vā sasurehi vā sāmikehi vā tā evaṃ āyācanti—"
 msgstr "But those women who were happy with their mothers-in-law, their fathers-in-law, and their husbands wished him well,"
 
+#. VAR: sukhamedho hotu → sukhamedhatu (bj, s1-3) | sukhamedhito hotu (mr)
 msgctxt "pli-tv-bu-vb-ss5:16.2"
 msgid "“evaṃ sukhito hotu ayyo udāyī, evaṃ sajjito hotu ayyo udāyī, evaṃ sukhamedho hotu ayyo udāyī, yathā mayaṃ sukhitā sajjitā sukhamedhā bhaddikāhi sassūhi bhaddakehi sasurehi bhaddakehi sāmikehī”ti."
 msgstr "“May Venerable Udāyī be happy and well, just as we are happy and well because of our good mothers-in-law, good fathers-in-law, and good husbands.”"
@@ -584,6 +587,7 @@ msgid ""
 msgstr "Second sub-story"
 
 #. </h3><p><a class="sc" id="17"></a><a class="pts-cs-empty" id="bu-ss.5.2"></a><a class="pts-cs" id="bu-ss.5.2.1"></a><a class="ms-pa" id="ms-pa1236"></a> 
+#. VAR: aññatarissā → aññatarassā (bj)
 msgctxt "pli-tv-bu-vb-ss5:21.2"
 msgid "Tena kho pana samayena sambahulā dhuttā uyyāne paricārentā aññatarissā vesiyā santike dūtaṃ pāhesuṃ—"
 msgstr "Soon afterwards, a number of low-minded men who were amusing themselves in a pleasure grove sent a messenger to a prostitute:"
@@ -597,6 +601,7 @@ msgctxt "pli-tv-bu-vb-ss5:21.4"
 msgid "Sā evamāha—"
 msgstr "She replied,"
 
+#. VAR: khvayyo → khveyyā (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss5:21.5"
 msgid "“ahaṃ khvayyo, tumhe na jānāmi—‘ke vā ime kassa vā’ti."
 msgstr "“Sirs, I don’t know who you are."
@@ -788,6 +793,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1242"></a><a class="pts-vp-en" id="bd.1.236"></a>
 #. <strong class="rule"> 
+#. VAR: itthimatiṃ → itthīmatiṃ (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss5:27.2"
 msgid "“Yo pana bhikkhu sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāyapi, saṃghādiseso”ti."
 msgstr "‘If a monk mediates a man’s intentions to a woman or a woman’s intentions to a man, for marriage or for an affair, even if just a brief one, he commits an offense entailing suspension.’”"
@@ -1137,6 +1143,7 @@ msgstr "after touching a bowl of water, they live together."
 #. </span>
 #. </p><p><a class="sc" id="49"></a><a class="ms-pa" id="ms-pa1268"></a>
 #. <strong class="term"> 
+#. VAR: Obhaṭacumbaṭā → ohata ... (bj) | obhata (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss5:53.1"
 msgid "Obhaṭacumbaṭā nāma"
 msgstr "The wife through removing the head pad:"
@@ -1206,6 +1213,7 @@ msgid ""
 msgstr "Mediating between a man and a single bought wife"
 
 #. </h5><p><a class="sc" id="54"></a><a class="pts-cs" id="bu-ss.5.4.4"></a><a class="ms-pa" id="ms-pa1273"></a><a class="pts-vp-en" id="bd.1.239"></a> 
+#. VAR: pahiṇati → pahiṇatiṃ (bj)
 msgctxt "pli-tv-bu-vb-ss5:58.3"
 msgid "Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
@@ -1429,6 +1437,7 @@ msgid "Baddhacakkaṃ mūlaṃ saṃkhittaṃ."
 msgstr "The linked permutation series, the basis in brief."
 
 #. </p><p><a class="sc" id="64"></a><a class="ms-pa" id="ms-pa1283"></a> 
+#. VAR: () → () s1-3 potthakesu
 msgctxt "pli-tv-bu-vb-ss5:68.1"
 msgid "() Puriso bhikkhuṃ pahiṇati—"
 msgstr "A man sends a monk, saying,"
@@ -2413,6 +2422,7 @@ msgid "Paṭiggaṇhāti vīmaṃsati paccāharati, āpatti saṃ­ghā­di­ses
 msgstr "If he accepts the mission, finds out the response, and reports back, he commits an offense entailing suspension."
 
 #. </p><p class="endsection"><a class="sc" id="119"></a><a class="ms-pa" id="ms-pa1338"></a> 
+#. VAR: ubhato­vaḍḍha­kaṃ → … vaḍḍhamānaṃ (bj) | … baddhakaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-ss5:123.1"
 msgid "Evaṃ ubhato­vaḍḍha­kaṃ kātabbaṃ."
 msgstr "In this way the increase of both items is to be done."
@@ -2726,6 +2736,7 @@ msgctxt "pli-tv-bu-vb-ss5:142.6"
 msgid "ñātirakkhitāya ñātakā bhikkhuṃ pahiṇanti …"
 msgstr "the relatives of one protected by her relatives send a monk …"
 
+#. VAR: gottā → sagottā (?)
 msgctxt "pli-tv-bu-vb-ss5:142.7"
 msgid "gotta­rak­khi­tāya gottā bhikkhuṃ pahiṇanti …"
 msgstr "the kinsmen of one protected by her kinsmen send a monk …"
@@ -3657,6 +3668,7 @@ msgid "5.2. Vinītavatthu"
 msgstr "Case details"
 
 #. </h3><p><a class="sc" id="193"></a><a class="pts-vp-pli" id="pts-vp-pli3.144"></a><a class="pts-cs-empty" id="bu-ss.5.5"></a><a class="pts-cs" id="bu-ss.5.5.1"></a><a class="pts-vp-en" id="bd.1.244"></a><a class="ms-pa" id="ms-pa1412"></a> 
+#. VAR: āṇāpesi → āṇāpeti (s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-ss5:199.1"
 msgid "Tena kho pana samayena aññataro puriso aññataraṃ bhikkhuṃ āṇāpesi—"
 msgstr "At one time, a man told a monk,"

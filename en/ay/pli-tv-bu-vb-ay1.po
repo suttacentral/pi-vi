@@ -324,6 +324,7 @@ msgid "Paṭicchannaṃ nāma"
 msgstr "Concealed seat:"
 
 #. </strong><span class="gloss"> 
+#. VAR: kuṭṭena vā → kuḍḍena vā (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ay1:15.2"
 msgid "āsanaṃ kuṭṭena vā kavāṭena vā kilañjena vā sāṇipākārena vā rukkhena vā thambhena vā kotthaḷiyā vā yena kenaci paṭicchannaṃ hoti."
 msgstr "it is hidden by a wall, a screen, a door, a screening cloth, a tree, a pillar, a grain container, or anything else."

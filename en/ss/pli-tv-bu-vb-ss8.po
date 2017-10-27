@@ -45,6 +45,7 @@ msgctxt "pli-tv-bu-vb-ss8:5.3"
 msgid "Tena kho pana samayena āyasmatā dabbena mallaputtena jātiyā sattavassena arahattaṃ sacchikataṃ hoti."
 msgstr "At that time Venerable Dabba the Mallian had realized perfection at the age of seven."
 
+#. VAR: Yaṃ kiñci → yañca kiñci (si, mr)
 msgctxt "pli-tv-bu-vb-ss8:5.4"
 msgid "Yaṃ kiñci sāvakena pattabbaṃ sabbaṃ tena anuppattaṃ hoti."
 msgstr "He had realized all there is to be realized by a disciple"
@@ -207,6 +208,7 @@ msgctxt "pli-tv-bu-vb-ss8:11.4"
 msgid "Ye te bhikkhū vinayadharā tesaṃ ekajjhaṃ senāsanaṃ paññapeti—"
 msgstr "And he did likewise for the experts on monastic law, thinking,"
 
+#. VAR: vinicchi­nis­santī”ti → vinicchis­santīti (pts1, mr)
 msgctxt "pli-tv-bu-vb-ss8:11.5"
 msgid "“te aññamaññaṃ vinayaṃ vinicchi­nis­santī”ti."
 msgstr "“They’ll deliberate on the monastic law;”"
@@ -223,10 +225,12 @@ msgctxt "pli-tv-bu-vb-ss8:11.8"
 msgid "Ye te bhikkhū jhāyino tesaṃ ekajjhaṃ senāsanaṃ paññapeti—"
 msgstr "for the meditators, thinking,"
 
+#. VAR: na byābādhissantī”ti → na byā­bāhis­santīti (mr)
 msgctxt "pli-tv-bu-vb-ss8:11.9"
 msgid "“te aññamaññaṃ na byābādhissantī”ti."
 msgstr "“They won’t disturb each other;”"
 
+#. VAR: kāya­daḷhi­bahulā → kāya­daḍḍhi­bahulā (bj) | kāya­daḷhī­bahulā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss8:11.10"
 msgid "Ye te bhikkhū tiracchā­na­ka­thikā kāya­daḷhi­bahulā viharanti tesampi ekajjhaṃ senāsanaṃ paññapeti—"
 msgstr "and for the gossips and the body-builders, thinking,"
@@ -342,6 +346,7 @@ msgstr "Dabba then returned to the Bamboo Grove."
 
 #. </p><p><a class="sc" id="10"></a><a class="pts-cs" id="bu-ss.8.1.5"></a><a class="ms-pa" id="ms-pa1565"></a>
 #. <span class="note" hidden><span class="ref">Sp.3.579.28</span> says, “just Mettiya and Bhūmajaka,” <i lang="pli">mettiyo ceva bhūmajako ca</i>. Thus, according to the commentary, the name of the second monk is Bhūmajaka rather than Bhūmaja. The commentarial explanation also means that the two names refer to just the two monks and not any followers they may have had. See also note to Suspension 13, <span class="ref">MS.1.1753</span>.</span> 
+#. VAR: metti­ya­bhūma­jakā → metti­ya­bhumma­jakā (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss8:14.1"
 msgid "Tena kho pana samayena metti­ya­bhūma­jakā bhikkhū navakā ceva honti appapuññā ca."
 msgstr "At that time the monks Mettiya and Bhūmajaka had recently been given the full ordination."
@@ -506,6 +511,8 @@ msgctxt "pli-tv-bu-vb-ss8:17.6"
 msgid "“nissaṃsayaṃ kho na tāva bhattaṃ siddhaṃ bhavissati."
 msgstr "“The meal can’t be ready,"
 
+#. VAR: mayaṃ koṭṭhake nisīdeyyāmā”ti → nisī­dāpi­yey­yāmāti (bj) | nisīdāpiyāmāti (s1-3) | nisī­dāpeyyā­māti (pts1)
+#. VAR: Yathā → yāva (bj)
 msgctxt "pli-tv-bu-vb-ss8:17.7"
 msgid "Yathā mayaṃ koṭṭhake nisīdeyyāmā”ti."
 msgstr "since we’re given seats on the porch.”"
@@ -525,6 +532,7 @@ msgid "“Mayaṃ kho, bhagini, niccabhattikā”ti."
 msgstr "“But, Sister, we’ve come for the regular meal.”"
 
 #. </p><p>
+#. VAR: nicca­bhatti­kāti → nicca­bhatti­kat­tha (bj) | nicca­bhatti­kāt­tha (c1)
 msgctxt "pli-tv-bu-vb-ss8:17.11"
 msgid "“Jānāmi, ayyā, nicca­bhatti­kāti."
 msgstr "“I know."
@@ -550,6 +558,7 @@ msgctxt "pli-tv-bu-vb-ss8:17.16"
 msgid "“hiyyo kho, āvuso, kal­yāṇa­bhattiko gahapati ārāmaṃ agamāsi dabbassa mallaputtassa santike."
 msgstr "“Yesterday this householder came to the monastery and spoke with Dabba."
 
+#. VAR: antare → santike (bj, s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-ss8:17.17"
 msgid "Nissaṃsayaṃ kho mayaṃ dabbena mallaputtena gahapatino antare paribhinnā”ti."
 msgstr "Dabba must be responsible for this split between us and this householder.”"
@@ -645,6 +654,7 @@ msgctxt "pli-tv-bu-vb-ss8:18.19"
 msgid "Yāyaṃ, bhante, disā abhayā anītikā anupaddavā sāyaṃ disā sabhayā saītikā saupaddavā."
 msgstr "There’s fear, distress, and oppression in this district, where none of these should exist."
 
+#. VAR: savātaṃ → pavātaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss8:18.20"
 msgid "Yato nivātaṃ tato savātaṃ."
 msgstr "From where one would expect security, there’s insecurity."
@@ -841,6 +851,7 @@ msgctxt "pli-tv-bu-vb-ss8:22.2"
 msgid "“Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya—"
 msgstr "‘If a monk who is angry and displeased groundlessly accuses another monk of an offense entailing expulsion,"
 
+#. VAR: appeva nāma → appevanāma (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss8:22.3"
 msgid "‘appeva nāma naṃ imamhā brahmacariyā cāveyyan’ti, tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā amūlakañceva taṃ adhikaraṇaṃ hoti bhikkhu ca dosaṃ patiṭṭhāti, saṃghādiseso”ti."
 msgstr "aiming to make him leave the monastic life, and then after some time, whether he is questioned or not, it is clear that the legal issue is groundless, and he admits to his ill-will, he commits an offense entailing suspension.’”"
@@ -1359,6 +1370,7 @@ msgctxt "pli-tv-bu-vb-ss8:49.1"
 msgid "Diṭṭhassa hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
 msgstr "He has seen someone committing an offense entailing expulsion,"
 
+#. VAR: pamuṭṭho → pammuṭṭho (bj) | sammuṭṭho (pts1)
 msgctxt "pli-tv-bu-vb-ss8:49.2"
 msgid "Diṭṭhe vematiko diṭṭhaṃ no kappeti diṭṭhaṃ nassarati diṭṭhaṃ pamuṭṭho hoti … pe …"
 msgstr "but he is unsure of what he has seen, he does not believe what he has seen, he does not remember what he has seen, he is confused about what he has seen …"

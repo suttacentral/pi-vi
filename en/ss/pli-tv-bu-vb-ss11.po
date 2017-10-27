@@ -58,6 +58,8 @@ msgid "Kathañhi nāma devadatto saṃghabhedāya parakkamissati cakkabhedāyā�
 msgstr "How can he pursue schism in the monastic Order?”"
 
 #. </p><p>
+#. VAR: kokāliko → kokāliko ca (bj)
+#. VAR: samuddadatto → samuddadatto ca (bj)
 msgctxt "pli-tv-bu-vb-ss11:5.7"
 msgid "Evaṃ vutte, kokāliko kaṭa­modaka­tissako khaṇḍadeviyā putto samuddadatto te bhikkhū etadavocuṃ—"
 msgstr "But Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta said to those monks,"
@@ -149,6 +151,7 @@ msgctxt "pli-tv-bu-vb-ss11:7.7"
 msgid "te bhikkhū bhikkhūhi evamassu vacanīyā—"
 msgstr "The monks should say to those monks,"
 
+#. VAR: māyasmanto → mā āyasmanto (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss11:7.8"
 msgid "‘māyasmanto evaṃ avacuttha,"
 msgstr "“Venerables, don’t say that."
@@ -157,6 +160,7 @@ msgctxt "pli-tv-bu-vb-ss11:7.9"
 msgid "na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī,"
 msgstr "This monk does not speak in accordance with the Teaching or the training."
 
+#. VAR: mā­yasman­tānampi → mā āyasmantānampi (bj, s1-3) | māyasmantānaṃ pi (pts1)
 msgctxt "pli-tv-bu-vb-ss11:7.10"
 msgid "­mā­yasman­tānampi saṃghabhedo ruccittha,"
 msgstr "Don’t consent to schism in the monastic Order."
@@ -531,6 +535,7 @@ msgid ""
 msgstr "Permutations"
 
 #. </h2><p><a class="sc" id="18"></a><a class="pts-vp-pli" id="pts-vp-pli3.177"></a><a class="pts-cs-empty" id="bu-ss.11.3"></a><a class="pts-cs" id="bu-ss.11.3.1"></a><a class="ms-pa" id="ms-pa1721"></a> 
+#. VAR: dhamma­kamma­saññī → dhamma­kamma­saññino (si)
 msgctxt "pli-tv-bu-vb-ss11:22.2"
 msgid "Dhammakamme dhamma­kamma­saññī na paṭi­nissaj­janti, āpatti saṃ­ghā­di­sesassa."
 msgstr "If it is a legitimate procedure, and they perceive it as legitimate, but they do not stop, they commit an offense entailing suspension."

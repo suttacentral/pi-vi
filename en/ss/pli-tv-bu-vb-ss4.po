@@ -127,6 +127,7 @@ msgctxt "pli-tv-bu-vb-ss4:6.10"
 msgid "“ko imaṃ vasalaṃ duggandhaṃ āmasissatī”ti,"
 msgstr "“Who would touch this foul-smelling wretch!”"
 
+#. VAR: niṭṭhubhitvā → nuṭṭhuhitvā (s1-3)
 msgctxt "pli-tv-bu-vb-ss4:6.11"
 msgid "niṭṭhubhitvā pakkāmi."
 msgstr "and he departed."
@@ -200,6 +201,7 @@ msgid "“kathañhi nāma āyasmā udāyī mātugāmassa santike attakā­ma­p�
 msgstr "“How can Venerable Udāyī commend the fulfilling of his own desires in the presence of a woman?”"
 
 #. </p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.133"></a><a class="ms-pa" id="ms-pa1185"></a> 
+#. VAR: Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato → atha kho te bhikkhū bhagavato (sī1, syā1-3, pā1)
 msgctxt "pli-tv-bu-vb-ss4:10.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
 msgstr "Those monks rebuked Udāyī in many ways and then informed the Master."
@@ -387,6 +389,7 @@ msgid "Yāti"
 msgstr "She:"
 
 #. </strong><span class="gloss"> 
+#. VAR: khattiyī → khattiyā (bj, s1-3) | khatti (si)
 msgctxt "pli-tv-bu-vb-ss4:19.2"
 msgid "khattiyī vā brāhmaṇī vā vessī vā suddī vā."
 msgstr "a female aristocrat, a female brahmin, a female merchant, or a female worker."

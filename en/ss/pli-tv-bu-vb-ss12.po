@@ -77,6 +77,8 @@ msgctxt "pli-tv-bu-vb-ss12:5.11"
 msgid "amhākaṃ ayyaputtena dhammo abhisamito."
 msgstr "The Truth was realized by the young Master because of me."
 
+#. VAR: ussāreyya → ussādeyya (bj, s1-3)
+#. VAR: tiṇakaṭ­ṭha­paṇṇa­sa­ṭaṃ → tiṇakaṭ­ṭhapaṇṇa­ka­saṭaṃ (mr)
 msgctxt "pli-tv-bu-vb-ss12:5.12"
 msgid "Seyyathāpi nāma mahāvāto vāyanto tiṇakaṭ­ṭha­paṇṇa­sa­ṭaṃ ekato ussāreyya, seyyathā vā pana nadī pabbateyyā saṅ­kha­se­vālapa­ṇa­kaṃ ekato ussāreyya;"
 msgstr "Just as a great wind lifts up grass, sticks, and fallen leaves all at once, just as a mountain stream lifts up the leaves of various water plants all at once,"
@@ -168,6 +170,7 @@ msgctxt "pli-tv-bu-vb-ss12:7.5"
 msgid "so bhikkhu bhikkhūhi evamassa vacanīyo—"
 msgstr "then the monks should correct him in this way:"
 
+#. VAR: vacanīya­mevā­yasmā → vacanīyameva āyasmā (s1-3) | vacanīyaṃ eva āyasmā (pts1)
 msgctxt "pli-tv-bu-vb-ss12:7.6"
 msgid "‘māyasmā attānaṃ avacanīyaṃ akāsi, vacanīya­mevā­yasmā attānaṃ karotu,"
 msgstr "“Venerable, be easy to correct, not incorrigible."
@@ -177,6 +180,7 @@ msgctxt "pli-tv-bu-vb-ss12:7.7"
 msgid "āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena."
 msgstr "And please give legitimate correction to the monks, and the monks will do the same to you."
 
+#. VAR: saṃvaddhā → saṃvaḍḍhā (s1-3)
 msgctxt "pli-tv-bu-vb-ss12:7.8"
 msgid "Evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ añña­mañña­vaca­nena añña­mañña­vuṭṭhā­panenā’ti."
 msgstr "For it’s in this way that the Master’s community has grown, that is, through mutual correction and mutual rehabilitation.”"
@@ -185,6 +189,7 @@ msgctxt "pli-tv-bu-vb-ss12:7.9"
 msgid "Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbo tassa paṭinissaggāya."
 msgstr "If that monk still continues as before, the monks should admonish him up to three times to make him stop."
 
+#. VAR: sama­nubhā­si­yamāno → sama­nubhā­si­yamāno (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss12:7.10"
 msgid "Yāvatatiyañce sama­nubhā­si­yamāno taṃ paṭi­nissaj­jeyya, iccetaṃ kusalaṃ;"
 msgstr "If he then stops, that is good."

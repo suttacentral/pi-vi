@@ -62,6 +62,7 @@ msgctxt "pli-tv-bu-vb-ss7:5.7"
 msgid "“kathañhi nāma samaṇā sakyaputtiyā cetiyarukkhaṃ chedāpessanti gāmapūjitaṃ nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ raṭṭhapūjitaṃ."
 msgstr "“How can the Sakyan ascetics have such a tree felled?"
 
+#. VAR: viheṭhentī → viheṭhessanti (katthaci)
 msgctxt "pli-tv-bu-vb-ss7:5.8"
 msgid "Ekindriyaṃ samaṇā sakyaputtiyā jīvaṃ viheṭhentī”ti."
 msgstr "They are hurting life with one faculty.”"
@@ -879,6 +880,7 @@ msgid "“anārambho ca hotu saparikkamano cā”ti … pe …"
 msgstr "to build one where no harm will be done, and which has a space on all sides. … <span class=\"add\">This paragraph is to be expanded as in <a href=\"/en/pli-tv-bu-vb-ss6#64\">Saṅghādisesa 6, paragraphs 64–75</a>.</span> …"
 
 #. <span class="note" hidden>The last two sets of ellipses points are not found in MS. I have added them for clarification.</span> 
+#. VAR: hotū”ti → hotūti … pe … anārambhaṃ saparikkamanaṃ (bj) | hotūti … pe … (s1-3)
 msgctxt "pli-tv-bu-vb-ss7:38.9"
 msgid "“anārambho hotū”ti."
 msgstr "where no harm will be done. …"

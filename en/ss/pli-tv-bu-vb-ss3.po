@@ -154,6 +154,8 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a>
 #. <strong class="rule"> 
+#. VAR: yathā taṃ → yathātaṃ (s1-3)
+#. VAR: methu­nu­pa­saṃhi­tāhi → methu­nū­pa­sañ­hi­tāhi (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss3:7.2"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya yathā taṃ yuvā yuvatiṃ methu­nu­pa­saṃhi­tāhi, saṃghādiseso”ti."
 msgstr "‘If a lustful monk speaks lewd words connected with sexual intercourse to a woman, as a young man might to a young woman, he commits an offense entailing suspension.’”"
@@ -363,6 +365,7 @@ msgid "Āyācati nāma"
 msgstr "Implores:"
 
 #. </strong><span class="gloss"> 
+#. VAR: kadā → kadā te (s1-3)
 msgctxt "pli-tv-bu-vb-ss3:21.2"
 msgid "kadā te mātā pasīdissati,"
 msgstr "saying, “When will you please your mother?"
@@ -431,6 +434,7 @@ msgctxt "pli-tv-bu-vb-ss3:24.3"
 msgid "“evaṃ dehi."
 msgstr "“Give in this way."
 
+#. VAR: dentā → dentī (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss3:24.4"
 msgid "Evaṃ dentā sāmikassa piyā bhavissati manāpā cā”ti."
 msgstr "When you do, you’ll be dear and pleasing to your husband.”"
@@ -451,6 +455,7 @@ msgctxt "pli-tv-bu-vb-ss3:25.3"
 msgid "“evaṃ dehi."
 msgstr "“Give in this way."
 
+#. VAR: dentā → dentī (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss3:25.4"
 msgid "Evaṃ dentā sāmikassa piyā bhavissati manāpā cā”ti."
 msgstr "When you do, you’ll be dear and pleasing to your husband.”"
@@ -806,6 +811,7 @@ msgctxt "pli-tv-bu-vb-ss3:44.4"
 msgid "Sā na paṭivijāni."
 msgstr "She did not understand and said,"
 
+#. VAR: kharakambalo → kharakambalako (bj, c1) | kakkasakambalo (s1-3)
 msgctxt "pli-tv-bu-vb-ss3:44.5"
 msgid "“Āmāyya, kharakambalo”ti."
 msgstr "“Yes, Venerable, it’s an upper robe of coarse wool.”"
@@ -880,6 +886,7 @@ msgctxt "pli-tv-bu-vb-ss3:46.4"
 msgid "Sā na paṭivijāni."
 msgstr "She did not understand and said,"
 
+#. VAR: kharakambalako → kharakambalo (s1-3)
 msgctxt "pli-tv-bu-vb-ss3:46.5"
 msgid "“Āmāyya, kharakambalako”ti."
 msgstr "“Yes, Venerable, it’s an upper robe of coarse wool.”"
@@ -901,6 +908,7 @@ msgid "(4)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="41"></a><a class="pts-cs" id="bu-ss.3.4.5"></a><a class="ms-pa" id="ms-pa1173"></a> 
+#. VAR: itthī pāvāraṃ → dīghapāvāraṃ (s1-3)
 msgctxt "pli-tv-bu-vb-ss3:47.1"
 msgid "Tena kho pana samayena aññatarā itthī pāvāraṃ pārutā hoti."
 msgstr "At one time, a certain woman was wearing a fleecy upper robe."
@@ -918,6 +926,7 @@ msgctxt "pli-tv-bu-vb-ss3:47.4"
 msgid "Sā na paṭivijāni."
 msgstr "She did not understand and said,"
 
+#. VAR: Āmāyya, pāvāro → dīghapāvāro (s1-3)
 msgctxt "pli-tv-bu-vb-ss3:47.5"
 msgid "“Āmāyya, pāvāro”ti."
 msgstr "“Yes, Venerable, it’s a fleecy upper robe.”"

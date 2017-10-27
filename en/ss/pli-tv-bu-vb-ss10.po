@@ -41,6 +41,7 @@ msgctxt "pli-tv-bu-vb-ss10:5.2"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
 
+#. VAR: kaṭa­modaka­tissako → kaṭa­moraka­tissako (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss10:5.3"
 msgid "Atha kho devadatto yena kokāliko kaṭa­modaka­tissako khaṇḍadeviyā putto samuddadatto tenupasaṅkami;"
 msgstr "Just then Devadatta went to see Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta,"
@@ -72,6 +73,7 @@ msgid "“Etha mayaṃ, āvuso, samaṇaṃ gotamaṃ upasaṅkamitvā pañca va
 msgstr "“Well, let’s go to the ascetic Gotama and request five things:"
 
 #. <a class="pts-vp-en" id="bd.1.297"></a> 
+#. VAR: vīriyā­rambhassa → viriyā­rambhassa (s1-3, pts1) | vīri­yārab­bhassa (c1)
 msgctxt "pli-tv-bu-vb-ss10:5.10"
 msgid "‘bhagavā, bhante, aneka­pariyā­yena appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyā­rambhassa vaṇṇavādī."
 msgstr "‘Venerable Sir, in many ways the Master praises fewness of wishes, contentment, erasing of defilements, ascetic practices, being inspiring, reduction of things, and being energetic."
@@ -143,6 +145,7 @@ msgctxt "pli-tv-bu-vb-ss10:5.25"
 msgid "Sakkā kho, āvuso, imehi pañcahi vatthūhi samaṇassa gotamassa saṃghabhedo kātuṃ cakkabhedo."
 msgstr "Kokālika said, “It might be possible to create a schism in the monastic Order with these five points,"
 
+#. VAR: Lūkhapasannā → lūkhappasannā (bj, s1-3, pts1 4V.343/1)
 msgctxt "pli-tv-bu-vb-ss10:5.26"
 msgid "Lūkhapasannā hi, āvuso, manussā”ti."
 msgstr "for people have confidence in austerity.”"
@@ -367,6 +370,7 @@ msgctxt "pli-tv-bu-vb-ss10:11.2"
 msgid "“Yo pana bhikkhu samaggassa saṃghassa bhedāya parakkameyya, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo—"
 msgstr "‘If a monk pursues schism in a united monastic Order or persists in taking up a legal issue conducive to schism, the monks should say to him,"
 
+#. VAR: māyasmā → mā āyasmā (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss10:11.3"
 msgid "‘māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
 msgstr "“Venerable, don’t pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
@@ -384,6 +388,7 @@ msgctxt "pli-tv-bu-vb-ss10:11.6"
 msgid "Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ sama­nubhā­si­tabbo tassa paṭinissaggāya."
 msgstr "If that monk still continues as before, the monks should admonish him up to three times to make him stop."
 
+#. VAR: paṭi­nissaj­jeyya → paṭinissajeyya (bj)
 msgctxt "pli-tv-bu-vb-ss10:11.7"
 msgid "Yāvatatiyañce sama­nubhā­si­yamāno taṃ paṭi­nissaj­jeyya, iccetaṃ kusalaṃ;"
 msgstr "If he then stops, that is good."
@@ -573,6 +578,7 @@ msgstr "If those who heard about it do not say anything, they commit an offense 
 
 #. </span>
 #. </p><p>
+#. VAR: bhikkhu → bhikkhu bhikkhūti (bj)
 msgctxt "pli-tv-bu-vb-ss10:21.11"
 msgid "So bhikkhu saṃgha­majjhampi ākaḍḍhitvā vattabbo—"
 msgstr "That monk, even if he has to be dragged into the middle of the Order, should be spoken to thus,"

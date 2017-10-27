@@ -213,6 +213,7 @@ msgctxt "pli-tv-bu-vb-ss6:9.4"
 msgid "upasaṅkamitvā kaniṭṭhaṃ isiṃ sattakkhattuṃ bhogehi parikkhipitvā uparimuddhani mahantaṃ phaṇaṃ karitvā aṭṭhāsi."
 msgstr "He encircled him with seven coils and spread his large hood over his head."
 
+#. VAR: bhayā → bhayāmhi (bj)
 msgctxt "pli-tv-bu-vb-ss6:9.5"
 msgid "Atha kho, bhikkhave, kaniṭṭho isi tassa nāgassa bhayā kiso ahosi lūkho dubbaṇṇo uppaṇḍup­paṇḍuka­jāto dhama­ni­san­tha­ta­gatto."
 msgstr "Because of his fear of that dragon, the younger sage became thin, haggard, and pale, his veins protruding all over his limbs."
@@ -256,6 +257,7 @@ msgid "‘Api pana tvaṃ, bho, tassa nāgassa kiñci passasī’ti?"
 msgstr "‘Well then, did you see anything belonging to that dragon?’"
 
 #. </p><p>
+#. VAR: maṇimassa → maṇissa (bj, pts1, mr)
 msgctxt "pli-tv-bu-vb-ss6:9.15"
 msgid "‘Passāmahaṃ, bho, maṇimassa kaṇṭhe pilandhanan’ti."
 msgstr "‘I saw a ornamental jewel on his neck.’"
@@ -406,6 +408,7 @@ msgctxt "pli-tv-bu-vb-ss6:15.2"
 msgid "‘bhikkhu maṇiṃ yācati, bhikkhussa maṇinā attho’ti pakkāmi."
 msgstr "‘The monk is asking for the jewel; he wants the jewel,’"
 
+#. VAR: Tathā pakkantova → tadā pakkanto pakkantova (bj) | tadā pakkantova (pts1, mr)
 msgctxt "pli-tv-bu-vb-ss6:15.3"
 msgid "Tathā pakkantova ahosi, na puna paccāgañchi."
 msgstr "and he departed and never returned."
@@ -436,11 +439,13 @@ msgid "Atha kho, bhikkhave, jeṭṭho isi kaniṭṭhaṃ isiṃ gāthāya ajjh
 msgstr "The older sage then spoke to him in verse:"
 
 #. </p><blockquote class="gatha"><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1428"></a> 
+#. VAR: jigīse → jigiṃse (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss6:16.1"
 msgid "‘Na taṃ yāce yassapiyaṃ jigīse,"
 msgstr "‘One should not beg from those one wishes to be dear to;"
 
 #. <br>
+#. VAR: Videsso → desso (bj) | desso ca (s1-3)
 msgctxt "pli-tv-bu-vb-ss6:16.2"
 msgid "Videsso hoti atiyācanāya;"
 msgstr "One is detested for asking for too much."
@@ -460,6 +465,7 @@ msgctxt "pli-tv-bu-vb-ss6:17.1"
 msgid "Tesañhi nāma, bhikkhave, tiracchā­na­gatā­naṃ pāṇānaṃ amanāpā bhavissati yācanā amanāpā viññatti."
 msgstr "One will be disliked even by animals, monks, for asking and begging,"
 
+#. VAR: Kimaṅgaṃ → kimaṅga (bj, pts1)
 msgctxt "pli-tv-bu-vb-ss6:17.2"
 msgid "Kimaṅgaṃ pana ­manus­sa­bhūtā­naṃ."
 msgstr "let alone by human beings.”"
@@ -685,6 +691,7 @@ msgid "Tasmāhaṃ taṃ na yācāmi,"
 msgstr "That’s why I do not beg from you;"
 
 #. <br>
+#. VAR: videssanā → viddesanā (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss6:22.4"
 msgid "mā me videssanā ahū’ti."
 msgstr "Please don’t hate me for this.’"
@@ -707,6 +714,7 @@ msgctxt "pli-tv-bu-vb-ss6:24.2"
 msgid "Tattha nāma tumhe, moghapurisā, evaṃ dussaṃharesu bhogesu sambhatesupi durakkhiyesu yācanabahulā viññattibahulā viharissatha—"
 msgstr "And still, foolish men, you kept on asking and begging"
 
+#. VAR: parasuṃ → pharasuṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss6:24.3"
 msgid "‘purisaṃ detha, puri­sattha­ka­raṃ detha, goṇaṃ detha, sakaṭaṃ detha, vāsiṃ detha, parasuṃ detha, kuṭhāriṃ detha, kudālaṃ detha, nikhādanaṃ detha, valliṃ detha, veḷuṃ detha, muñjaṃ detha, pabbajaṃ detha, tiṇaṃ detha, mattikaṃ dethā’ti."
 msgstr "for all sorts of things."
@@ -739,14 +747,17 @@ msgctxt "pli-tv-bu-vb-ss6:25.4"
 msgid "Bhikkhū abhinetabbā vatthudesanāya."
 msgstr "He must get monks to approve a site"
 
+#. VAR: vatthu → vatthuṃ (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss6:25.5"
 msgid "Tehi bhikkhūhi vatthu desetabbaṃ—"
 msgstr "where no harm will be done"
 
+#. VAR: anārambhaṃ → anārabbhaṃ (mr)
 msgctxt "pli-tv-bu-vb-ss6:25.6"
 msgid "anārambhaṃ saparikkamanaṃ."
 msgstr "and which has a space on all sides."
 
+#. VAR: Sārambhe → sārabbhe (mr)
 msgctxt "pli-tv-bu-vb-ss6:25.7"
 msgid "Sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṃghādiseso”ti."
 msgstr "If a monk, by means of begging, builds a hut on a site where harm will be done and which lacks a space on all sides, or he does not get monks to approve the site, or he exceeds the size limit, he commits an offense entailing suspension.’”"
@@ -934,6 +945,7 @@ msgctxt "pli-tv-bu-vb-ss6:35.4"
 msgid "Saṃgho itthannāmañca itthannāmañca bhikkhū sammannati itthannāmassa bhikkhuno kuṭivatthuṃ oloketuṃ."
 msgstr "The Order appoints monk so-and-so and monk so-and-so to inspect the site."
 
+#. VAR: sammuti → sammati (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss6:35.5"
 msgid "Yassāyasmato khamati itthannāmassa ca itthannāmassa ca bhikkhūnaṃ sammuti itthannāmassa bhikkhuno kuṭivatthuṃ oloketuṃ, so tuṇhassa;"
 msgstr "Any monk who approves of appointing monk so-and-so and monk so-and-so to inspect the site for the hut should remain silent."
@@ -1065,11 +1077,13 @@ msgid "Sārambhaṃ nāma"
 msgstr "Where harm will be done:"
 
 #. </strong><span class="gloss"> 
+#. VAR: undūrānaṃ → undurānaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss6:41.2"
 msgid "kipillikānaṃ vā āsayo hoti, upacikānaṃ vā āsayo hoti, undūrānaṃ vā āsayo hoti, ahīnaṃ vā āsayo hoti, vicchikānaṃ vā āsayo hoti, satapadīnaṃ vā āsayo hoti, hatthīnaṃ vā āsayo hoti, assānaṃ vā āsayo hoti, sīhānaṃ vā āsayo hoti, byagghānaṃ vā āsayo hoti, dīpīnaṃ vā āsayo hoti, acchānaṃ vā āsayo hoti, taracchānaṃ vā āsayo hoti,"
 msgstr "it is the abode of ants, termites, rats, snakes, scorpions, centipedes, elephants, horses, lions, tigers, leopards, bears, or hyenas, or any other animals;"
 
-#. <a class="pts-vp-en" id="bd.1.257"></a> 
+#. <a class="pts-vp-en" id="bd.1.257"></a>
+#. VAR: saṃsa­ra­ṇa­nissitaṃ vā → sañ­cara­ṇa­nissitaṃ vā (mr)
 msgctxt "pli-tv-bu-vb-ss6:41.3"
 msgid "yesaṃ kesañci tiracchā­na­gatā­naṃ pāṇānaṃ āsayo hoti, pubbaṇ­ṇa­nissitaṃ vā hoti, aparaṇ­ṇa­nissitaṃ vā hoti, abbhā­ghāta­nissitaṃ vā hoti, āghāta­na­nissitaṃ vā hoti, susānanissitaṃ vā hoti, uyyānanissitaṃ vā hoti, rāja­vatthu­nissitaṃ vā hoti, hatthi­sālā­nissitaṃ vā hoti, assasā­lā­nissitaṃ vā hoti, bandha­nā­gāra­nissitaṃ vā hoti, pānāgā­ra­nissitaṃ vā hoti, sūnanissitaṃ vā hoti, racchānissitaṃ vā hoti, cac­cara­nissitaṃ vā hoti, sabhānissitaṃ vā hoti, ­saṃsa­ra­ṇa­nissitaṃ vā hoti."
 msgstr "or it is bordering on a field of grain, a field of vegetables, a slaughtering-place, a place of execution, a charnel ground, a park, a king’s property, an elephant-stable, a horse-stable, a prison, a bar, a slaughterhouse, a vehicle road, a crossroads, an assembly hall, or a cul-de-sac—"
@@ -1102,6 +1116,7 @@ msgid "Anārambhaṃ nāma"
 msgstr "Where no harm will be done:"
 
 #. </strong><span class="gloss"> 
+#. VAR: undūrānaṃ → undurānaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-ss6:43.2"
 msgid "na kipillikānaṃ vā āsayo hoti, na upacikānaṃ vā āsayo hoti, na undūrānaṃ vā āsayo hoti, na ahīnaṃ vā āsayo hoti, na vicchikānaṃ vā āsayo hoti, na satapadīnaṃ vā āsayo hoti … pe …"
 msgstr "it is not the abode of ants, termites, rats, snakes, scorpions, centipedes …"
@@ -1182,6 +1197,7 @@ msgctxt "pli-tv-bu-vb-ss6:48.2"
 msgid "ñattidutiyena kammena kuṭivatthuṃ na desāpetvā,"
 msgstr "if the site for the hut has not been approved through a formal procedure consisting of one motion and three announcements,"
 
+#. VAR: kārāpeti vā, payoge → payoge payoge (bj, c1)
 msgctxt "pli-tv-bu-vb-ss6:48.3"
 msgid "āyāmato vā vitthārato vā antamaso kesag­gamattampi atikkāmetvā karoti vā kārāpeti vā,"
 msgstr "or he builds a hut or gets one built which exceeds the allowable length or breadth even by the width of a hair,"
@@ -2618,6 +2634,7 @@ msgid "Attanā vippakataṃ attanā pariyosāpeti, āpatti saṃ­ghā­di­sesa
 msgstr "If he finishes what he began himself, he commits an offense entailing suspension."
 
 #. </p><p><a class="sc" id="91"></a><a class="ms-pa" id="ms-pa1507"></a> 
+#. VAR: pariyosāpeti → pariyosāvāpeti (mr)
 msgctxt "pli-tv-bu-vb-ss6:95.1"
 msgid "Attanā vippakataṃ parehi pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he gets others to finish what he began himself, he commits an offense entailing suspension."
@@ -2628,6 +2645,7 @@ msgid "Parehi vippakataṃ attanā pariyosāpeti, āpatti saṃ­ghā­di­sesas
 msgstr "If he finishes himself what was begun by others, he commits an offense entailing suspension."
 
 #. </p><p><a class="sc" id="93"></a><a class="ms-pa" id="ms-pa1509"></a> 
+#. VAR: pariyosāpeti → pariyosāvāpeti (mr)
 msgctxt "pli-tv-bu-vb-ss6:97.1"
 msgid "Parehi vippakataṃ parehi pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
 msgstr "If he gets others to finish what was begun by others, he commits an offense entailing suspension."

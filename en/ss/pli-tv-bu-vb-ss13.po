@@ -42,6 +42,7 @@ msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­p
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 #. <span class="note" hidden>These were their names according to <span class="ref">Sp.3.613.26</span>, not Assaji and Punabbasu: “just Assaji and Punabbasuka,” <i lang="pli">assaji ceva punabbasuko ca</i>. By specifying “just,” the commentary understands the two names to refer to those two individuals and not to any group of followers they may have had. This is also clear from the text below, where a <i lang="pli">saṅghakamma</i> is performed against <i lang="pli">assajipunabbasukā bhikkhū</i>, which, due to the nature of <i lang="pli">saṅghakamma</i>, must mean the two monks and not any group led by them. See also <span class="ref">MS.1.1565</span>.</span> 
+#. VAR: nāma → nāma bhikkhū (si, mr)
 msgctxt "pli-tv-bu-vb-ss13:5.3"
 msgid "Tena kho pana samayena assaji­pu­nabba­sukā nāma kīṭāgirismiṃ āvāsikā honti alajjino pāpabhikkhū."
 msgstr "At that time the bad and shameless monks Assaji and Punabbasuka were staying at Kīṭāgiri."
@@ -99,7 +100,7 @@ msgctxt "pli-tv-bu-vb-ss13:5.15"
 msgid "Hatthismimpi sikkhanti, assasmimpi sikkhanti, rathasmimpi sikkhanti, dhanusmimpi sikkhanti, tharusmimpi sikkhanti,"
 msgstr "They trained in elephant riding, in horsemanship, in carriage riding, in archery, in swordsmanship."
 
-msgctxt "pli-tv-bu-vb-ss13:5.16"
+#. VAR: purato → purato dhāvanti (bj, s1-3, pts1)
 msgid "hatthissapi purato dhāvanti, assassapi purato dhāvanti, rathassapi purato dhāvantipi ādhāvantipi,"
 msgstr "And they ran in front of elephants, in front of horses, and in front of carriages, and they ran backwards and forwards."
 
@@ -108,6 +109,7 @@ msgid "usseḷentipi, apphoṭentipi, nibbujjhantipi, muṭṭhīhipi yujjhanti,
 msgstr "They whistled, clapped their hands, wrestled, and boxed."
 
 #. <a class="pts-vp-en" id="bd.1.318"></a> 
+#. VAR: naccakiṃ → naccantiṃ (bj, s1-3)msgctxt "pli-tv-bu-vb-ss13:5.16"
 msgctxt "pli-tv-bu-vb-ss13:5.18"
 msgid "raṅgamajjhepi saṅghāṭiṃ pattharitvā naccakiṃ evaṃ vadanti—"
 msgstr "They spread their outer robe on a stage and said to the dancing girls,"
@@ -393,6 +395,7 @@ msgctxt "pli-tv-bu-vb-ss13:9.10"
 msgid "Te kulitthīnaṃ kuladhītānaṃ kulakumārīnaṃ kulasuṇhānaṃ kuladāsīnaṃ ekato­vaṇ­ṭika­mālaṃ harissantipi hārāpessantipi, ubhato­vaṇ­ṭika­mālaṃ harissantipi hārāpessantipi, mañjarikaṃ harissantipi hārāpessantipi, vidhūtikaṃ harissantipi hārāpessantipi, vaṭaṃsakaṃ harissantipi hārāpessantipi, āveḷaṃ harissantipi hārāpessantipi, uracchadaṃ harissantipi hārāpessantipi."
 msgstr ""
 
+#. VAR: rathassapi purato dhāvissantipi → purato dhāvissanti dhāvissantipi (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss13:9.11"
 msgid "Te kulitthīhi kuladhītāhi kulakumārīhi kulasuṇhāhi kuladāsīhi saddhiṃ ekabhājanepi bhuñjissanti, ekathālakepi pivissanti, ekāsanepi nisīdissanti, ekamañcepi tuvaṭṭissanti, ekattharaṇāpi tuvaṭṭissanti, ekapāvuraṇāpi tuvaṭṭissanti, ekattha­ra­ṇa­pāvu­raṇāpi tuvaṭṭissanti, vikālepi bhuñjissanti, majjampi pivissanti, mālā­gandha­vi­lepa­nampi dhārissanti, naccissantipi gāyissantipi vādessantipi lāsessantipi, naccantiyāpi naccissanti naccantiyāpi gāyissanti naccantiyāpi vādessanti naccantiyāpi lāsessanti, gāyantiyāpi naccissanti gāyantiyāpi gāyissanti gāyantiyāpi vādessanti gāyantiyāpi lāsessanti, vādentiyāpi naccissanti vādentiyāpi gāyissanti vādentiyāpi vādessanti vādentiyāpi lāsessanti, lāsentiyāpi naccissanti lāsentiyāpi gāyissanti lāsentiyāpi vādessanti lāsentiyāpi lāsessanti, aṭṭhapadepi kīḷissanti dasapadepi kīḷissanti, ākāsepi kīḷissanti, pari­hāra­pa­thepi kīḷissanti, santikāyapi kīḷissanti, khalikāyapi kīḷissanti, ghaṭikāyapi kīḷissanti, salāka­hat­thenapi kīḷissanti, akkhenapi kīḷissanti, paṅgacīrenapi kīḷissanti, vaṅkakenapi kīḷissanti, mokkhacikāyapi kīḷissanti, ciṅgulakenapi kīḷissanti, pattāḷhakenapi kīḷissanti, rathakenapi kīḷissanti, dhanukenapi kīḷissanti, akkharikāyapi kīḷissanti, manesikāyapi kīḷissanti, yathāvajjenapi kīḷissanti, hatthismimpi sikkhissanti, assasmimpi sikkhissanti, rathasmimpi sikkhissanti, dhanusmimpi sikkhissanti, tharusmimpi sikkhissanti, hatthissapi purato dhāvissanti, assassapi purato dhāvissanti, rathassapi purato dhāvissantipi ādhāvissantipi, usseḷessantipi, apphoṭes­santipi, nib­bujjhis­santipi, muṭṭhīhipi yujjhissanti, raṅgamajjhepi saṅghāṭiṃ pattharitvā naccakiṃ evaṃ vakkhanti “idha, bhagini, naccassū”ti nalāṭikampi dassanti, vividhampi anācāraṃ ācarissanti."
 msgstr ""
@@ -446,6 +449,7 @@ msgctxt "pli-tv-bu-vb-ss13:10.7"
 msgid "Codetvā sāretabbā."
 msgstr "They should then be made to confess what they have done,"
 
+#. VAR: āpattiṃ → āpatti (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss13:10.8"
 msgid "Sāretvā āpattiṃ ropetabbā."
 msgstr "before they’re declared guilty of an offense."
@@ -548,6 +552,7 @@ msgid "evametaṃ dhārayāmī’”ti."
 msgstr "I will remember it thus.’”"
 
 #. </p></div><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli3.184"></a><a class="pts-cs" id="bu-ss.13.1.8"></a><a class="ms-pa" id="ms-pa1763"></a> 
+#. VAR: kīṭāgirismā → kīṭāgirismiṃ (bj) | kīṭāgirismi (si) | kiṭāgirismā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss13:15.1"
 msgid "Atha kho sāri­putta­mog­gallā­nappa­mukho bhikkhusaṃgho kīṭāgiriṃ gantvā assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammaṃ akāsi—“na assaji­pu­nabba­sukehi bhikkhūhi kīṭāgirismiṃ vatthabban”ti."
 msgstr "Soon afterwards an Order of monks headed by Sāriputta and Moggallāna went there and did the formal procedure to banish those monks from Kīṭāgiri."
@@ -635,6 +640,7 @@ msgctxt "pli-tv-bu-vb-ss13:17.7"
 msgid "Pakkamatāyasmā imamhā āvāsā."
 msgstr "Leave this monastery;"
 
+#. VAR: Alaṃ te → alante (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss13:17.8"
 msgid "Alaṃ te idha vāsenā’ti."
 msgstr "you have stayed here long enough.”"
@@ -761,6 +767,7 @@ msgid "Kuladūsakoti"
 msgstr "A corrupter of families:"
 
 #. </strong><span class="gloss"> 
+#. VAR: vā → veḷunā vā (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss13:21.2"
 msgid "kulāni dūseti pupphena vā phalena vā cuṇṇena vā mattikāya vā dantakaṭṭhena vā veḷuyā vā vejjikāya vā jaṅgha­pe­sani­kena vā."
 msgstr "he corrupts families by means of flowers, fruit, bath powder, soap, toothbrushes, bamboo, medical treatment, or by taking messages on foot."

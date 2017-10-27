@@ -22,6 +22,7 @@ msgid "Mahāvibhaṅga"
 msgstr "Monks’ rules and their analysis"
 
 #. </p><p>
+#. VAR: Saṃ­ghā­di­sesa­kaṇḍa → añña­bhāgi­ya­sikkhā­pada (kaṅkhāvitaraṇī)
 msgctxt "pli-tv-bu-vb-ss9:3.1"
 msgid "Saṃ­ghā­di­sesa­kaṇḍa"
 msgstr "Monks’ Suspension"
@@ -42,6 +43,7 @@ msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
 
 #. <span class="note" hidden>See Suspension 8, <span class="ref">MS.1.1565</span>, for a comment on the present rendering of these names.</span> 
+#. VAR: chagalakaṃ → chakalakaṃ (si, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss9:5.3"
 msgid "Tena kho pana samayena metti­ya­bhūma­jakā bhikkhū gijjhakūṭā pabbatā orohantā addasaṃsu chagalakaṃ ajikāya vippa­ṭi­pajjan­taṃ."
 msgstr "On one occasion the monks Mettiya and Bhūmajaka were descending from Mount Vulture Peak, when they saw two goats copulating."
@@ -460,6 +462,7 @@ msgid "Jātileso nāma"
 msgstr "The pretext of caste:"
 
 #. </strong><span class="gloss"> 
+#. VAR: diṭṭho → ettha \ p dhamma ajjh ma a hi may di
 msgctxt "pli-tv-bu-vb-ss9:20.2"
 msgid "khattiyo diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
 msgstr "a monk sees an aristocrat committing an offense entailing expulsion."
@@ -919,6 +922,7 @@ msgid "Koci deso lesamatto upādinnoti"
 msgstr "Used as a pretext:"
 
 #. </strong><span class="gloss"> 
+#. VAR: tesaṃ lesānaṃ → dasannaṃ lesānaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-ss9:38.2"
 msgid "tesaṃ lesānaṃ aññataro leso upādinno hoti."
 msgstr "he has used a certain pretext among those listed above."
