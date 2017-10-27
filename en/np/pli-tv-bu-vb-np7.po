@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-01-08 09:54-0144\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-np7"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-np7:1.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-np7:2.1"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:3.1"
+msgid "Nissaggiyakaṇḍa"
+msgstr "The chapter on relinquishment"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:4.1"
+msgid "Cīvaravagga"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np7:4.2"
+msgid ""
+msgstr "Monks’ Relinquishment"
+
+#. </p><h1>
+msgctxt "pli-tv-bu-vb-np7:5.1"
+msgid "7. Tatuttarisikkhāpada"
+msgstr "7. The training rule on more than that"
+
+#. </h1></div><h2>
+msgctxt "pli-tv-bu-vb-np7:6.1"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-np.7.1"></a><a class="pts-vp-en" id="bd.2.50"></a><a class="wt-pa" id="1998"></a> 
+msgctxt "pli-tv-bu-vb-np7:6.2"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pli-tv-bu-vb-np7:6.3"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū acchinnacīvarake bhikkhū upasaṅkamitvā evaṃ vadanti—"
+msgstr "At that time monks from the group of six said this to the monks whose robes had been stolen,"
+
+msgctxt "pli-tv-bu-vb-np7:6.4"
+msgid "“bhagavatā, āvuso, anuññātaṃ—"
+msgstr "“The Master"
+
+msgctxt "pli-tv-bu-vb-np7:6.5"
+msgid "‘acchinnacīvarassa vā naṭṭhacīvarassa vā aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpetuṃ’;"
+msgstr "has allowed a monk whose robes have been stolen or destroyed to ask an unrelated householder for robes."
+
+msgctxt "pli-tv-bu-vb-np7:6.6"
+msgid "viññāpetha, āvuso, cīvaran”ti."
+msgstr "You should ask for robes.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:6.7"
+msgid "“Alaṃ, āvuso, laddhaṃ amhehi cīvaran”ti."
+msgstr "“It’s not necessary; we have already obtained robes.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:6.8"
+msgid "“Mayaṃ āyasmantānaṃ viññāpemā”ti."
+msgstr "“We’ll ask for you.”"
+
+#. </p><p>
+#. <span class="note" hidden><i lang="pli">Viññāpetha āvuso</i>, lit.,“Ask, friends.”</span> 
+msgctxt "pli-tv-bu-vb-np7:6.9"
+msgid "“Viññāpetha, āvuso”ti."
+msgstr "“Do as you please.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:6.10"
+msgid "Atha kho chabbaggiyā bhikkhū gahapatike upasaṅkamitvā etadavocuṃ—"
+msgstr "Then those monks from the group of six went to householders and said,"
+
+msgctxt "pli-tv-bu-vb-np7:6.11"
+msgid "“acchinnacīvarakā, āvuso, bhikkhū āgatā."
+msgstr "“Monks have arrived whose robes have been stolen."
+
+msgctxt "pli-tv-bu-vb-np7:6.12"
+msgid "Detha nesaṃ cīvarānī”ti,"
+msgstr "Give robes for them.”"
+
+msgctxt "pli-tv-bu-vb-np7:6.13"
+msgid "bahuṃ cīvaraṃ viññāpesuṃ."
+msgstr "And they asked for many robes."
+
+#. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli3.214"></a><a class="wt-pa" id="1999"></a> 
+msgctxt "pli-tv-bu-vb-np7:7.1"
+msgid "Tena kho pana samayena aññataro puriso sabhāyaṃ nisinno aññataraṃ purisaṃ etadavoca—"
+msgstr "Soon afterwards in the town meeting hall a man said to another,"
+
+msgctxt "pli-tv-bu-vb-np7:7.2"
+msgid "“acchinnacīvarakā ayyo bhikkhū āgatā."
+msgstr "“Sir, monks have arrived whose robes have been stolen."
+
+msgctxt "pli-tv-bu-vb-np7:7.3"
+msgid "Tesaṃ mayā cīvaraṃ dinnan”ti."
+msgstr "I’ve given them robes.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:7.4"
+msgid "Sopi evamāha—“mayāpi dinnan”ti."
+msgstr "“I, too, have given robes.”"
+
+msgctxt "pli-tv-bu-vb-np7:7.5"
+msgid "Aparopi evamāha—“mayāpi dinnan”ti."
+msgstr "And another said the same."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:7.6"
+msgid "Te ujjhāyanti khiyyanti vipācenti—"
+msgstr "They grumbled and complained,"
+
+msgctxt "pli-tv-bu-vb-np7:7.7"
+msgid "“kathañhi nāma samaṇā sakyaputtiyā na mattaṃ jānitvā bahuṃ cīvaraṃ viññāpessanti,"
+msgstr "“How can the Sakyan ascetics have no sense of moderation and ask for many robes?"
+
+msgctxt "pli-tv-bu-vb-np7:7.8"
+msgid "dussavāṇijjaṃ vā samaṇā sakyaputtiyā karissanti, paggāhikasālaṃ vā pasāressantī”ti."
+msgstr "Will they start up as cloth merchants or set up shop?”"
+
+#. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2000"></a><a class="pts-vp-en" id="bd.2.51"></a> 
+msgctxt "pli-tv-bu-vb-np7:8.1"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "Monks heard the complaints of those people,"
+
+msgctxt "pli-tv-bu-vb-np7:8.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-np7:8.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized those monks,"
+
+msgctxt "pli-tv-bu-vb-np7:8.4"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū na mattaṃ jānitvā bahuṃ cīvaraṃ viññāpessantī”ti."
+msgstr "“How can those monks from the group of six not have any sense of moderation and ask for many robes?”"
+
+#. </p><p><a class="sc" id="4"></a><a class="wt-pa" id="2001"></a> 
+msgctxt "pli-tv-bu-vb-np7:9.1"
+msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After criticizing those monks in many ways, they informed the Master …"
+
+msgctxt "pli-tv-bu-vb-np7:9.2"
+msgid "“saccaṃ kira tumhe, bhikkhave, na mattaṃ jānitvā bahuṃ cīvaraṃ viññāpethā”ti?"
+msgstr "“Is it true, monks, that you acted in this way?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:9.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np7:9.4"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked them, “…"
+
+msgctxt "pli-tv-bu-vb-np7:9.5"
+msgid "kathañhi nāma tumhe, moghapurisā, na mattaṃ jānitvā bahuṃ cīvaraṃ viññāpessatha."
+msgstr "Foolish men, how can you not have any sense of moderation and ask for many robes?"
+
+msgctxt "pli-tv-bu-vb-np7:9.6"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-np7:9.7"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np7:10.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2002"></a>
+#. <strong class="rule"> 
+msgctxt "pli-tv-bu-vb-np7:10.2"
+msgid "“Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ."
+msgstr "‘If an unrelated male or female householder invites that monk to take many robes, he should accept at most one lower robe and one upper robe."
+
+msgctxt "pli-tv-bu-vb-np7:10.3"
+msgid "Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyan”ti."
+msgstr "If he accepts more than that, he commits an offense entailing relinquishment and confession.’”"
+
+#. </strong> 
+msgctxt "pli-tv-bu-vb-np7:10.4"
+msgid "(<em>7</em>:<strong>26</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np7:11.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.7.2"></a><a class="pts-cs" id="bu-np.7.2.1"></a><a class="wt-pa" id="2003"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:11.2"
+msgid "Tañceti"
+msgstr "That monk:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:11.3"
+msgid "acchinnacīvarakaṃ bhikkhuṃ."
+msgstr "the monk whose robes have been stolen."
+
+#. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2004"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:12.1"
+msgid "Aññātako nāma"
+msgstr "Unrelated:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:12.2"
+msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
+msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
+
+#. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2005"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:13.1"
+msgid "Gahapati nāma"
+msgstr "A male householder:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:13.2"
+msgid "yo koci agāraṃ ajjhāvasati."
+msgstr "any man who lives in a house."
+
+#. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2006"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:14.1"
+msgid "Gahapatānī nāma"
+msgstr "A female householder:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:14.2"
+msgid "yā kāci agāraṃ ajjhāvasati."
+msgstr "any woman who lives in a house."
+
+#. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2007"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:15.1"
+msgid "Bahūhi cīvarehīti"
+msgstr "Many robes:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:15.2"
+msgid "bahukehi cīvarehi."
+msgstr "a number of robes."
+
+#. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2008"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:16.1"
+msgid "Abhihaṭṭhuṃ pavāreyyāti"
+msgstr "Invites […] to take:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:16.2"
+msgid "yāvatakaṃ icchasi tāvatakaṃ gaṇhāhīti."
+msgstr "saying, “Take as many as you like.”"
+
+#. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2009"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:17.1"
+msgid "Santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbanti"
+msgstr "He should accept at most one lower robe and one upper robe:"
+
+#. </strong><a class="pts-vp-en" id="bd.2.52"></a><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:17.2"
+msgid "sace tīṇi naṭṭhāni honti dve sāditabbāni,"
+msgstr "if three robes are destroyed, he should accept two;"
+
+msgctxt "pli-tv-bu-vb-np7:17.3"
+msgid "dve naṭṭhāni ekaṃ sāditabbaṃ,"
+msgstr "if two robes are destroyed, he should accept one;"
+
+msgctxt "pli-tv-bu-vb-np7:17.4"
+msgid "ekaṃ naṭṭhaṃ na kiñci sāditabbaṃ."
+msgstr "if one robe is destroyed, he should not accept any."
+
+#. </span></p><p><a class="sc" id="13"></a><a class="pts-vp-pli" id="pts-vp-pli3.215"></a><a class="wt-pa" id="2010"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np7:18.1"
+msgid "Tato ce uttari sādiyeyyāti"
+msgstr "If he accepts more than that:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np7:18.2"
+msgid "tatuttari viññāpeti, payoge dukkaṭaṃ."
+msgstr "in the act of asking for more than that, he commit an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np7:18.3"
+msgid "Paṭilābhena nissaggiyaṃ hoti."
+msgstr "When he gets the robe, it becomes subject to relinquishment."
+
+#. </span></p><hr><p>
+msgctxt "pli-tv-bu-vb-np7:18.4"
+msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
+msgstr "The robe should be relinquished to the Order, a group, or an individual."
+
+#. <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-np7:18.5"
+msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
+msgstr "“And, monks, it should be relinquished in this way. …"
+
+#. <span class="add"> 
+msgctxt "pli-tv-bu-vb-np7:18.6"
+msgid "pe …"
+msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
+
+#. </span> 
+msgctxt "pli-tv-bu-vb-np7:18.7"
+msgid "“idaṃ me, bhante, cīvaraṃ aññātakaṃ gahapatikaṃ upasaṅkamitvā tatuttari viññāpitaṃ nissaggiyaṃ."
+msgstr "‘Venerables, this robe which I received after asking an unrelated householder for too much is to be relinquished."
+
+msgctxt "pli-tv-bu-vb-np7:18.8"
+msgid "Imāhaṃ saṃghassa nissajjāmī”ti … pe …"
+msgstr "I relinquish it to the Order.’ …"
+
+msgctxt "pli-tv-bu-vb-np7:18.9"
+msgid "dadeyyāti … pe …"
+msgstr "the Order should give …"
+
+msgctxt "pli-tv-bu-vb-np7:18.10"
+msgid "dadeyyunti … pe …"
+msgstr "you should give …"
+
+msgctxt "pli-tv-bu-vb-np7:18.11"
+msgid "āyasmato dammīti."
+msgstr "‘I give this robe back to you.’”"
+
+#. </span></p><h2>
+msgctxt "pli-tv-bu-vb-np7:19.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="14"></a> 
+msgctxt "pli-tv-bu-vb-np7:19.2"
+msgid "Aññātake aññātakasaññī tatuttari cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If the person is unrelated and the monk perceives them as unrelated, and he asks them for too many robes, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np7:19.3"
+msgid "Aññātake vematiko tatuttari cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If the person is unrelated, but the monk is unsure if they are, and he asks them for too many robes, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np7:19.4"
+msgid "Aññātake ñātakasaññī tatuttari cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If the person is unrelated, but the monk perceives them as related, and he asks them for too many robes, he commits an offense entailing relinquishment and confession."
+
+#. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="2012"></a> 
+msgctxt "pli-tv-bu-vb-np7:20.1"
+msgid "Ñātake aññātakasaññī, āpatti dukkaṭassa."
+msgstr "If the person is related, but the monk perceives them as unrelated, he commit an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np7:20.2"
+msgid "Ñātake vematiko, āpatti dukkaṭassa."
+msgstr "If the person is related, but the monk is unsure if they are, he commit an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np7:20.3"
+msgid "Ñātake ñātakasaññī, anāpatti."
+msgstr "If the person is related and the monk perceives them as related, there is no offense."
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np7:21.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="bu-np.7.2.3"></a><a class="wt-pa" id="2013"></a> 
+msgctxt "pli-tv-bu-vb-np7:21.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+#. <span class="note" hidden>See <span class="ref">Kkh.112,15</span>.</span> 
+msgctxt "pli-tv-bu-vb-np7:21.3"
+msgid "“sesakaṃ āharissāmī”ti haranto gacchati,"
+msgstr "if he takes too much, but with the intention of returning the remainder;"
+
+#. <span class="note" hidden>Presumably this refers to any leftover cloth after the robe(s) have been made.</span> 
+msgctxt "pli-tv-bu-vb-np7:21.4"
+msgid "“sesakaṃ tuyheva hotū”ti denti,"
+msgstr "if they give, saying, “The remainder is for you;”"
+
+msgctxt "pli-tv-bu-vb-np7:21.5"
+msgid "na acchinnakāraṇā denti,"
+msgstr "if they give, but not because his robes were stolen;"
+
+msgctxt "pli-tv-bu-vb-np7:21.6"
+msgid "na naṭṭhakāraṇā denti,"
+msgstr "if they give, but not because his robes were destroyed;"
+
+msgctxt "pli-tv-bu-vb-np7:21.7"
+msgid "ñātakānaṃ,"
+msgstr "if it is from relatives;"
+
+msgctxt "pli-tv-bu-vb-np7:21.8"
+msgid "pavāritānaṃ,"
+msgstr "if it is from those who have given an invitation;"
+
+msgctxt "pli-tv-bu-vb-np7:21.9"
+msgid "attano dhanena,"
+msgstr "if it is by means of his own property;"
+
+msgctxt "pli-tv-bu-vb-np7:21.10"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-np7:21.11"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="17"></a><a class="wt-pa" id="2014"></a> 
+msgctxt "pli-tv-bu-vb-np7:22.1"
+msgid "Tatuttarisikkhāpadaṃ niṭṭhitaṃ sattamaṃ."
+msgstr "The seventh rule, the training rule on more than that, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pli-tv-bu-vb-np7:22.2"
+msgid ""
+msgstr ""

@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-01-08 09:54-0144\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-np15"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-np15:1.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-np15:2.1"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:3.1"
+msgid "Nissaggiyakaṇḍa"
+msgstr "The chapter on relinquishment"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:4.1"
+msgid "Kosiyavagga"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np15:4.2"
+msgid ""
+msgstr "Monks’ Relinquishment"
+
+#. </p><h1>
+msgctxt "pli-tv-bu-vb-np15:5.1"
+msgid "15. Nisīdanasanthatasikkhāpada"
+msgstr "15. The training rule on sitting-blankets"
+
+#. </h1></div><h2>
+msgctxt "pli-tv-bu-vb-np15:6.1"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.230"></a><a class="pts-cs" id="bu-np.15.1"></a><a class="pts-cs" id="bu-np.15.1.1"></a><a class="pts-vp-en" id="bd.2.83"></a><a class="wt-pa" id="2158"></a> 
+msgctxt "pli-tv-bu-vb-np15:6.2"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pli-tv-bu-vb-np15:6.3"
+msgid "Atha kho bhagavā bhikkhū āmantesi—"
+msgstr "There the Master addressed the monks:"
+
+msgctxt "pli-tv-bu-vb-np15:6.4"
+msgid "“icchāmahaṃ, bhikkhave, temāsaṃ paṭisallīyituṃ."
+msgstr "“Monks, I wish to go into solitary retreat for three months."
+
+msgctxt "pli-tv-bu-vb-np15:6.5"
+msgid "Namhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti."
+msgstr "No one is to approach me except the one who brings me almsfood.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:6.6"
+msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paṭissuṇitvā nāssudha koci bhagavantaṃ upasaṅkamati, aññatra ekena piṇḍapātanīhārakena."
+msgstr "“Yes, Master,” they replied, and no one approached him except the one who brought him almsfood."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:6.7"
+msgid "Tena kho pana samayena sāvatthiyā saṃghena katikā katā hoti—"
+msgstr "At that time the Order at Sāvatthī made the following agreement:"
+
+msgctxt "pli-tv-bu-vb-np15:6.8"
+msgid "“icchatāvuso, bhagavā temāsaṃ paṭisallīyituṃ."
+msgstr "“The Master wishes to be on solitary retreat for three months."
+
+msgctxt "pli-tv-bu-vb-np15:6.9"
+msgid "Na bhagavā kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakena."
+msgstr "No one is to approach him except the one who brings him almsfood."
+
+msgctxt "pli-tv-bu-vb-np15:6.10"
+msgid "Yo bhagavantaṃ upasaṅkamati so pācittiyaṃ desāpetabbo”ti."
+msgstr "Anyone who approaches him should be made to acknowledge an offense entailing confession.”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2159"></a> 
+msgctxt "pli-tv-bu-vb-np15:7.1"
+msgid "Atha kho āyasmā upaseno vaṅgantaputto, sapariso yena bhagavā tenupasaṅkami;"
+msgstr "Just then Venerable Upasena Vaṅgantaputta and his followers approached the Master,"
+
+msgctxt "pli-tv-bu-vb-np15:7.2"
+msgid "upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed down to him, and sat down to one side."
+
+#. <a class="pts-vp-en" id="bd.2.84"></a> 
+msgctxt "pli-tv-bu-vb-np15:7.3"
+msgid "Āciṇṇaṃ kho panetaṃ buddhānaṃ bhagavantānaṃ āgantukehi bhikkhūhi saddhiṃ paṭisammodituṃ."
+msgstr "It is the custom for Buddhas to greet visiting monks,"
+
+msgctxt "pli-tv-bu-vb-np15:7.4"
+msgid "Atha kho bhagavā āyasmantaṃ upasenaṃ vaṅgantaputtaṃ etadavoca—"
+msgstr "and so the Master said this to Upasena,"
+
+msgctxt "pli-tv-bu-vb-np15:7.5"
+msgid "“kacci vo, upasena, khamanīyaṃ kacci yāpanīyaṃ,"
+msgstr "“I hope you’re keeping well, Upasena, I hope you’re comfortable;"
+
+msgctxt "pli-tv-bu-vb-np15:7.6"
+msgid "kaccittha appakilamathena addhānaṃ āgatā”ti?"
+msgstr "I hope you’re not tired from traveling.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:7.7"
+msgid "“Khamanīyaṃ, bhagavā, yāpanīyaṃ, bhagavā."
+msgstr "“We’re keeping well, Master, we’re comfortable;"
+
+msgctxt "pli-tv-bu-vb-np15:7.8"
+msgid "Appakilamathena ca mayaṃ, bhante, addhānaṃ āgatā”ti."
+msgstr "we’re not tired from traveling.”"
+
+#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli3.231"></a><a class="wt-pa" id="2160"></a> 
+msgctxt "pli-tv-bu-vb-np15:8.1"
+msgid "Tena kho pana samayena āyasmato upasenassa vaṅgantaputtassa saddhivihāriko bhikkhu bhagavato avidūre nisinno hoti."
+msgstr "One of Upasena’s students was seated not far from the Master,"
+
+msgctxt "pli-tv-bu-vb-np15:8.2"
+msgid "Atha kho bhagavā taṃ bhikkhuṃ etadavoca—"
+msgstr "and the Master said to him,"
+
+msgctxt "pli-tv-bu-vb-np15:8.3"
+msgid "“manāpāni te, bhikkhu, paṃsukūlānī”ti?"
+msgstr "“Do you like rag-robes, monk?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:8.4"
+msgid "“Na kho me, bhante, manāpāni paṃsukūlānī”ti."
+msgstr "“I don’t like rag-robes, Venerable Sir.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:8.5"
+msgid "“Kissa pana tvaṃ, bhikkhu, paṃsukūliko”ti?"
+msgstr "“Why then do you wear them?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:8.6"
+msgid "“Upajjhāyo me, bhante, paṃsukūliko."
+msgstr "“My preceptor wears them,"
+
+msgctxt "pli-tv-bu-vb-np15:8.7"
+msgid "Evaṃ ahampi paṃsukūliko”ti."
+msgstr "and so I do it too.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:8.8"
+msgid "Atha kho bhagavā āyasmantaṃ upasenaṃ vaṅgantaputtaṃ etadavoca—"
+msgstr "And the Master said to Upasena,"
+
+msgctxt "pli-tv-bu-vb-np15:8.9"
+msgid "“pāsādikā kho tyāyaṃ, upasena, parisā."
+msgstr "“Upasena, your followers are inspiring."
+
+msgctxt "pli-tv-bu-vb-np15:8.10"
+msgid "Kathaṃ tvaṃ, upasena, parisaṃ vinesī”ti?"
+msgstr "How do you train them?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:8.11"
+msgid "“Yo maṃ, bhante, upasampadaṃ yācati tamahaṃ evaṃ vadāmi—"
+msgstr "“When anyone asks me for the full ordination, Venerable Sir, I tell them this:"
+
+msgctxt "pli-tv-bu-vb-np15:8.12"
+msgid "‘ahaṃ kho, āvuso, āraññiko piṇḍapātiko paṃsukūliko."
+msgstr "‘I dwell in the forest, I eat almsfood, and I wear rag-robes."
+
+msgctxt "pli-tv-bu-vb-np15:8.13"
+msgid "Sace tvampi āraññiko bhavissasi piṇḍapātiko paṃsukūliko, evāhaṃ taṃ upasampādessāmī’ti."
+msgstr "If you, too, will dwell in the forest, eat almsfood, and wear rag-robes, I will give you the full ordination.’"
+
+msgctxt "pli-tv-bu-vb-np15:8.14"
+msgid "Sace me paṭissuṇāti upasampādemi,"
+msgstr "If they agree, I ordain them;"
+
+msgctxt "pli-tv-bu-vb-np15:8.15"
+msgid "no ce me paṭissuṇāti na upasampādemi."
+msgstr "otherwise I don’t."
+
+msgctxt "pli-tv-bu-vb-np15:8.16"
+msgid "Yo maṃ nissayaṃ yācati tamahaṃ evaṃ vadāmi—"
+msgstr "And I do the same when anyone asks me for support."
+
+msgctxt "pli-tv-bu-vb-np15:8.17"
+msgid "‘ahaṃ kho, āvuso, āraññiko piṇḍapātiko paṃsukūliko."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np15:8.18"
+msgid "Sace tvampi āraññiko bhavissasi piṇḍapātiko paṃsukūliko, evāhaṃ te nissayaṃ dassāmī’ti."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np15:8.19"
+msgid "Sace me paṭissuṇāti nissayaṃ demi, no ce me paṭissuṇāti na nissayaṃ demi."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np15:8.20"
+msgid "Evaṃ kho ahaṃ, bhante, parisaṃ vinemī”ti."
+msgstr "It’s in this way that I train my followers.”"
+
+#. </p><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-np.15.1.2"></a><a class="pts-vp-en" id="bd.2.85"></a><a class="wt-pa" id="2161"></a> 
+msgctxt "pli-tv-bu-vb-np15:9.1"
+msgid "“Sādhu sādhu, upasena."
+msgstr "“Good, Upasena,"
+
+msgctxt "pli-tv-bu-vb-np15:9.2"
+msgid "Sādhu kho tvaṃ, upasena, parisaṃ vinesi."
+msgstr "you train your followers well."
+
+msgctxt "pli-tv-bu-vb-np15:9.3"
+msgid "Jānāsi pana tvaṃ, upasena, sāvatthiyā saṃghassa katikan”ti?"
+msgstr "But do you know the agreement made by the Order at Sāvatthī?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:9.4"
+msgid "“Na kho ahaṃ, bhante, jānāmi sāvatthiyā saṃghassa katikan”ti."
+msgstr "“No.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:9.5"
+msgid "“Sāvatthiyā kho, upasena, saṃghena katikā katā—"
+msgstr "“The Order at Sāvatthī has made the following agreement:"
+
+msgctxt "pli-tv-bu-vb-np15:9.6"
+msgid "‘icchatāvuso, bhagavā temāsaṃ paṭisallīyituṃ."
+msgstr "‘The Master wishes to be on solitary retreat for three months."
+
+msgctxt "pli-tv-bu-vb-np15:9.7"
+msgid "Na bhagavā kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakena."
+msgstr "No one is to approach him except the one who brings him almsfood."
+
+msgctxt "pli-tv-bu-vb-np15:9.8"
+msgid "Yo bhagavantaṃ upasaṅkamati so pācittiyaṃ desāpetabbo’”ti."
+msgstr "Anyone who approaches him should be made to acknowledge an offense entailing confession.’”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:9.9"
+msgid "“Paññāyissati, bhante, sāvatthiyā saṃgho sakāya katikāya,"
+msgstr "“Venerable Sir, the Order at Sāvatthī will become known for this agreement."
+
+msgctxt "pli-tv-bu-vb-np15:9.10"
+msgid "na mayaṃ apaññattaṃ paññapessāma paññattaṃ vā na samucchindissāma,"
+msgstr "We, however, don’t lay down new rules, nor do we abolish the old ones."
+
+msgctxt "pli-tv-bu-vb-np15:9.11"
+msgid "yathāpaññattesu sikkhāpadesu samādāya vattissāmā”ti."
+msgstr "We practice and undertake the training rules as they are.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:9.12"
+msgid "“Sādhu sādhu, upasena,"
+msgstr "“Good, Upasena."
+
+msgctxt "pli-tv-bu-vb-np15:9.13"
+msgid "apaññattaṃ na paññapetabbaṃ, paññattaṃ vā na samucchinditabbaṃ,"
+msgstr "One should not lay down new rules, nor should one abolish the old ones."
+
+msgctxt "pli-tv-bu-vb-np15:9.14"
+msgid "yathāpaññattesu sikkhāpadesu samādāya vattitabbaṃ."
+msgstr "One should practice and undertake the training rules as they are."
+
+#. <strong class="rule"> 
+msgctxt "pli-tv-bu-vb-np15:9.15"
+msgid "Anujānāmi, upasena, ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū”ti."
+msgstr "And, Upasena, I allow those monks who dwell in the forest, who eat almsfood, and who wear rag-robes to come and see me whenever they please.”"
+
+#. </strong></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2162"></a> 
+msgctxt "pli-tv-bu-vb-np15:10.1"
+msgid "Tena kho pana samayena sambahulā bhikkhū bahidvārakoṭṭhake ṭhitā honti—"
+msgstr "Just then many monks were standing outside the entrance, thinking,"
+
+msgctxt "pli-tv-bu-vb-np15:10.2"
+msgid "“mayaṃ āyasmantaṃ upasenaṃ vaṅgantaputtaṃ pācittiyaṃ desāpessāmā”ti."
+msgstr "“We’ll make Venerable Upasena acknowledge an offense entailing confession.”"
+
+msgctxt "pli-tv-bu-vb-np15:10.3"
+msgid "Atha kho āyasmā upaseno vaṅgantaputto sapariso uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
+msgstr "Upasena and his followers rose from their seats, bowed down to the Master, circumambulated him with their right side towards him, and departed."
+
+msgctxt "pli-tv-bu-vb-np15:10.4"
+msgid "Atha kho te bhikkhū āyasmantaṃ upasenaṃ vaṅgantaputtaṃ etadavocuṃ—"
+msgstr "And those monks said to Upasena,"
+
+msgctxt "pli-tv-bu-vb-np15:10.5"
+msgid "“jānāsi tvaṃ, āvuso upasena, sāvatthiyā saṃghassa katikan”ti."
+msgstr "“Upasena, do you know the agreement of the Order at Sāvatthī?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:10.6"
+msgid "“Bhagavāpi maṃ, āvuso, evamāha—"
+msgstr "“The Master asked me"
+
+msgctxt "pli-tv-bu-vb-np15:10.7"
+msgid "‘jānāsi pana tvaṃ, upasena, sāvatthiyā saṃghassa katikan’ti?"
+msgstr "the same question,"
+
+msgctxt "pli-tv-bu-vb-np15:10.8"
+msgid "‘Na kho ahaṃ, bhante, jānāmi sāvatthiyā saṃghassa katikan’ti."
+msgstr "and I replied that I didn’t."
+
+msgctxt "pli-tv-bu-vb-np15:10.9"
+msgid "‘Sāvatthiyā kho, upasena, saṃghena katikā katā—"
+msgstr "He then told me what it was,"
+
+msgctxt "pli-tv-bu-vb-np15:10.10"
+msgid "icchatāvuso, bhagavā temāsaṃ paṭisallīyituṃ."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np15:10.11"
+msgid "Na bhagavā kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakena."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np15:10.12"
+msgid "Yo bhagavantaṃ upasaṅkamati so pācittiyaṃ desāpetabbo’ti."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np15:10.13"
+msgid "‘Paññāyissati, bhante, sāvatthiyā saṃgho sakāya katikāya,"
+msgstr "and I said, ‘Venerable Sir, the Order at Sāvatthī will become known for this agreement."
+
+msgctxt "pli-tv-bu-vb-np15:10.14"
+msgid "na mayaṃ apaññattaṃ paññapessāma paññattaṃ vā na samucchindissāma,"
+msgstr "We, however, don’t lay down new rules, nor do we abolish the old ones."
+
+msgctxt "pli-tv-bu-vb-np15:10.15"
+msgid "yathāpaññattesu sikkhāpadesu samādāya vattissāmā’ti."
+msgstr "We practice and undertake the training rules as they are.’"
+
+#. <a class="pts-vp-en" id="bd.2.86"></a> 
+msgctxt "pli-tv-bu-vb-np15:10.16"
+msgid "Anuññātāvuso, bhagavatā—"
+msgstr "And the Master has allowed"
+
+msgctxt "pli-tv-bu-vb-np15:10.17"
+msgid "‘ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū’”ti."
+msgstr "those monks who dwell in the forest, who eat almsfood, and who wear rag-robes to go and see him whenever they please.”"
+
+#. </p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.232"></a><a class="wt-pa" id="2163"></a> 
+msgctxt "pli-tv-bu-vb-np15:11.1"
+msgid "Atha kho te bhikkhū—"
+msgstr "Those monks thought,"
+
+msgctxt "pli-tv-bu-vb-np15:11.2"
+msgid "“saccaṃ kho āyasmā upaseno āha—"
+msgstr "“It’s true what Venerable Upasena says.”"
+
+msgctxt "pli-tv-bu-vb-np15:11.3"
+msgid "‘na apaññattaṃ paññapetabbaṃ, paññattaṃ vā na samucchinditabbaṃ, yathāpaññattesu sikkhāpadesu samādāya vattitabban’”ti."
+msgstr ""
+
+#. </p><p><a class="pts-cs" id="bu-np.15.1.3"></a> 
+msgctxt "pli-tv-bu-vb-np15:11.4"
+msgid "Assosuṃ kho bhikkhū—"
+msgstr "The monks heard"
+
+msgctxt "pli-tv-bu-vb-np15:11.5"
+msgid "“anuññātā kira bhagavatā—"
+msgstr "that the Master had allowed"
+
+msgctxt "pli-tv-bu-vb-np15:11.6"
+msgid "‘ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū’”ti."
+msgstr "those monks who dwell in the forest, who eat almsfood, and who wear rag-robes to go and see him whenever they please."
+
+msgctxt "pli-tv-bu-vb-np15:11.7"
+msgid "Te bhagavantaṃ dassanaṃ pihentā santhatāni ujjhitvā āraññikaṅgaṃ piṇḍapātikaṅgaṃ paṃsukūlikaṅgaṃ samādiyiṃsu."
+msgstr "Longing to see the Master, they discarded their blankets and undertook the practice of dwelling in the forest, of eating almsfood, and of wearing rag-robes."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np15:11.8"
+msgid "Atha kho bhagavā sambahulehi bhikkhūhi saddhiṃ senāsanacārikaṃ āhiṇḍanto addasa santhatāni tahaṃ tahaṃ ujjhitāni."
+msgstr "Soon afterwards the Master and a number of monks were inspecting the dwellings, and he saw discarded blankets here and there."
+
+msgctxt "pli-tv-bu-vb-np15:11.9"
+msgid "Passitvā bhikkhū āmantesi—"
+msgstr "He asked the monks,"
+
+msgctxt "pli-tv-bu-vb-np15:11.10"
+msgid "“kassimāni, bhikkhave, santhatāni tahaṃ tahaṃ ujjhitānī”ti?"
+msgstr "“Whose are these discarded blankets?”"
+
+#. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="2164"></a> 
+msgctxt "pli-tv-bu-vb-np15:12.1"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
+msgstr "The monks informed the Master."
+
+#. <a class="pts-vp-en" id="bd.2.87"></a> 
+msgctxt "pli-tv-bu-vb-np15:12.2"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr "Soon afterwards he gave a teaching and addressed the monks:"
+
+msgctxt "pli-tv-bu-vb-np15:12.3"
+msgid "“tena hi, bhikkhave, bhikkhūnaṃ sikkhāpadaṃ paññapessāmi dasa atthavase paṭicca—"
+msgstr "“Well then, monks, I will lay down a training rule for the monks for the following ten reasons:"
+
+msgctxt "pli-tv-bu-vb-np15:12.4"
+msgid "saṃghasuṭṭhutāya, saṃghaphāsutāya …"
+msgstr "for the well-being of the Order, for the comfort of the Order …"
+
+#. <span class="add"> 
+msgctxt "pli-tv-bu-vb-np15:12.5"
+msgid "pe …"
+msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-pj1#71\">Expulsion 1, paragraph 71</a>. …"
+
+#. </span> 
+msgctxt "pli-tv-bu-vb-np15:12.6"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np15:13.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="2165"></a>
+#. <strong class="rule">
+#. <span class="note" hidden>That is, one <i lang="pli">sugata-vidatthi</i>, “one <i lang="pli">sugata</i> hand-span.” <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it quite possibly should be understood as referring to a standard, “the standard hand-span.” For the conversion into metric units, I follow the estimate of the <i lang="pli">sugata-vidatthi</i> given in BMC I, pp.565-566.</span>
+#. <span class="note" hidden><i lang="pli">Purāṇasanthatassa sāmantā sugatavidatthi</i>, “a piece of 25 centimeters from the border of an old blanket.” This is based on the analysis and translation provided by Bhikkhu Ñāṇatusita in TAP, p.140. The commentary seems to support this: “<i lang="pli">sāmantā</i> means: having cut a circle or a square from one side, at the place where it is taken a measure of one hand-span is to be taken,” sāmantāti ekapassato vaṭṭaṃ vā caturassaṃ vā chinditvā gahitaṭṭhānaṃ yathā vidatthimattaṃ hoti, evaṃ gahetabbaṃ; see <span class="ref">Sp.3.687.9</span>.</span> 
+msgctxt "pli-tv-bu-vb-np15:13.2"
+msgid "“Nisīdanasanthataṃ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya,"
+msgstr "‘If a monk is getting a sitting-blanket made, he must incorporate a 25 centimeter piece from the border of an old blanket in order to make it ugly."
+
+msgctxt "pli-tv-bu-vb-np15:13.3"
+msgid "anādā ce bhikkhu purāṇasanthatassa sāmantā sugatavidatthiṃ navaṃ nisīdanasanthataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
+msgstr "If he gets a new sitting-blanket made without incorporating a 25 centimeter piece from the border of an old blanket, he commits an offense entailing relinquishment and confession.’”"
+
+#. </strong> 
+msgctxt "pli-tv-bu-vb-np15:13.4"
+msgid "(<em>15</em>:<strong>34</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np15:14.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-np.15.2"></a><a class="wt-pa" id="2166"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np15:14.2"
+msgid "Nisīdanaṃ nāma"
+msgstr "Sitting(-mat):"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np15:14.3"
+msgid "sadasaṃ vuccati."
+msgstr "one with a border is what is meant."
+
+#. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-en" id="bd.2.88"></a><a class="wt-pa" id="2167"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np15:15.1"
+msgid "Santhataṃ nāma"
+msgstr "A blanket:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np15:15.2"
+msgid "santharitvā kataṃ hoti avāyimaṃ."
+msgstr "it is made by spreading out, not by weaving."
+
+#. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2168"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np15:16.1"
+msgid "Kārayamānenāti"
+msgstr "Getting made:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np15:16.2"
+msgid "karonto vā kārāpento vā."
+msgstr "making or getting made."
+
+#. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2169"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np15:17.1"
+msgid "Purāṇasanthataṃ nāma"
+msgstr "An old blanket:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np15:17.2"
+msgid "sakiṃ nivatthampi sakiṃ pārutampi."
+msgstr "even worn once."
+
+#. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2170"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np15:18.1"
+msgid "Sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāyāti"
+msgstr "He must incorporate a 25 centimeter piece from the border […] in order to make it ugly:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np15:18.2"
+msgid "thirabhāvāya vaṭṭaṃ vā caturassaṃ vā chinditvā ekadese vā santharitabbaṃ vijaṭetvā vā santharitabbaṃ."
+msgstr "to make it strong, he cuts out a circle or a four-sided piece, and he then incorporates it in one place or he spreads it out after pulling it apart."
+
+#. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2171"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np15:19.1"
+msgid "Anādā ce bhikkhu purāṇasanthatassa sāmantā sugatavidatthinti"
+msgstr "Without using a 25 centimeter piece from the border of an old blanket:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np15:19.2"
+msgid "anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ navaṃ nisīdanasanthataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ,"
+msgstr "in the act of making a new sitting-blanket, or having one made, without incorporating a 25 centimeter piece from the border of an old blanket, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np15:19.3"
+msgid "paṭilābhena nissaggiyaṃ hoti."
+msgstr "When he gets the sitting-blanket, it becomes subject to relinquishment."
+
+#. </span></p><hr><p>
+msgctxt "pli-tv-bu-vb-np15:19.4"
+msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
+msgstr "The sitting-blanket should be relinquished to an Order, a group, or an individual."
+
+#. <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-np15:19.5"
+msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
+msgstr "“And, monks, it should be relinquished in this way. …"
+
+#. <span class="add"> 
+msgctxt "pli-tv-bu-vb-np15:19.6"
+msgid "pe …"
+msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
+
+#. </span> 
+msgctxt "pli-tv-bu-vb-np15:19.7"
+msgid "“idaṃ me, bhante, nisīdanasanthataṃ anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ kārāpitaṃ nissaggiyaṃ."
+msgstr "‘Venerables, this sitting-blanket which I got made without incorporating a 25 centimeter piece from the border of an old blanket is to be relinquished."
+
+msgctxt "pli-tv-bu-vb-np15:19.8"
+msgid "Imāhaṃ saṃghassa nissajjāmī”ti … pe …"
+msgstr "I relinquish it to the Order.’ …"
+
+msgctxt "pli-tv-bu-vb-np15:19.9"
+msgid "dadeyyāti … pe …"
+msgstr "the Order should give …"
+
+msgctxt "pli-tv-bu-vb-np15:19.10"
+msgid "dadeyyunti … pe …"
+msgstr "you should give …"
+
+msgctxt "pli-tv-bu-vb-np15:19.11"
+msgid "āyasmato dammīti."
+msgstr "‘I give this sitting-blanket back to you.’”"
+
+#. </span></p><h2>
+msgctxt "pli-tv-bu-vb-np15:20.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="15"></a><a class="pts-vp-en" id="bd.2.89"></a><a class="wt-pa" id="2172"></a> 
+msgctxt "pli-tv-bu-vb-np15:20.2"
+msgid "Attanā vippakataṃ attanā pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he finishes what he began himself, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np15:20.3"
+msgid "Attanā vippakataṃ parehi pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he gets others to finish what he began himself, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np15:20.4"
+msgid "Parehi vippakataṃ attanā pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he finishes himself what was begun by others, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np15:20.5"
+msgid "Parehi vippakataṃ parehi pariyosāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he gets others to finish what was begun by others, he commits an offense entailing relinquishment and confession."
+
+#. </p><p><a class="sc" id="16"></a><a class="wt-pa" id="2173"></a> 
+msgctxt "pli-tv-bu-vb-np15:21.1"
+msgid "Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa."
+msgstr "If he makes one, or gets one made, for the sake of another, he commits an offense of wrong conduct."
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np15:22.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli3.233"></a><a class="wt-pa" id="2174"></a> 
+msgctxt "pli-tv-bu-vb-np15:22.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-np15:22.3"
+msgid "purāṇasanthatassa sāmantā sugatavidatthiṃ ādiyitvā karoti,"
+msgstr "if he makes one incorporating a 25 centimeter piece from the border of an old blanket;"
+
+msgctxt "pli-tv-bu-vb-np15:22.4"
+msgid "alabhanto thokataraṃ ādiyitvā karoti,"
+msgstr "if he is not able to obtain such a piece and he makes one incorporating a smaller piece;"
+
+msgctxt "pli-tv-bu-vb-np15:22.5"
+msgid "alabhanto anādiyitvā karoti,"
+msgstr "if he is not able to obtain such a smaller piece and he makes one without;"
+
+msgctxt "pli-tv-bu-vb-np15:22.6"
+msgid "aññena kataṃ paṭilabhitvā paribhuñjati,"
+msgstr "if he obtains what was made by another and then uses it;"
+
+msgctxt "pli-tv-bu-vb-np15:22.7"
+msgid "vitānaṃ vā bhūmattharaṇaṃ vā sāṇipākāraṃ vā bhisiṃ vā bibbohanaṃ vā karoti,"
+msgstr "if he makes a canopy, a floor cover, a screen-wall, a mattress, or a pillow;"
+
+msgctxt "pli-tv-bu-vb-np15:22.8"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-np15:22.9"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="18"></a><a class="wt-pa" id="2175"></a> 
+msgctxt "pli-tv-bu-vb-np15:23.1"
+msgid "Nisīdanasanthatasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ."
+msgstr "The fifth rule, the training rule on sitting-blankets, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pli-tv-bu-vb-np15:23.2"
+msgid ""
+msgstr ""

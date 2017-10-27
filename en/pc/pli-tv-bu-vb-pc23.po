@@ -1,0 +1,473 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-06-26 12:52+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-pc23"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-pc23:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:3.1"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (<i lang=\"pli\">pācittiya</i>)"
+
+#. </p><p> 
+#. VAR: Ovādavagga → ­bhik­khu­nū­passa­ya­sikkhā­padaṃ (bj)
+msgctxt "pli-tv-bu-vb-pc23:4.1"
+msgid "Ovādavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pli-tv-bu-vb-pc23:5.1"
+msgid "23. Bhikkhunupassayasikkhāpada"
+msgstr "Monks’ Confession 23: the training rule on nuns’ dwelling places"
+
+#. </h1></div><h2>
+msgctxt "pli-tv-bu-vb-pc23:6.1"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><h3>
+msgctxt "pli-tv-bu-vb-pc23:6.2"
+msgid ""
+msgstr "First sub-story"
+
+#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.56"></a><a class="pts-cs" id="Bu-Pc.23.1"></a> <a class="pts-vp-en" id="BD.2.276"></a><a class="wt-pa" id="531"></a> 
+msgctxt "pli-tv-bu-vb-pc23:6.3"
+msgid "Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme."
+msgstr "At one time the Buddha was staying in the Sakyan country at Kapilavatthu in the Banyan Tree Monastery."
+
+msgctxt "pli-tv-bu-vb-pc23:6.4"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū bhikkhunupassayaṃ upasaṅkamitvā chabbaggiyā bhikkhuniyo ovadanti."
+msgstr "At that time the monks from the group of six went to the nuns’ dwelling place and instructed the nuns from the group of six."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:6.5"
+msgid "Bhikkhuniyo chabbaggiyā bhikkhuniyo etadavocuṃ—"
+msgstr "Soon afterwards the nuns said to the nuns from the group of six,"
+
+msgctxt "pli-tv-bu-vb-pc23:6.6"
+msgid "“ethāyye, ovādaṃ gamissāmā”ti."
+msgstr "“Come, Venerables, let’s go to the instruction.”"
+
+#. </p><p>
+#. VAR: Yampi → yaṃ hi (pts1, mr)
+msgctxt "pli-tv-bu-vb-pc23:6.7"
+msgid "“Yampi mayaṃ, ayye, gaccheyyāma ovādassa kāraṇā, ayyā chabbaggiyā idheva āgantvā amhe ovadantī”ti."
+msgstr "“There’s no need; the monks from the group of six came and instructed us right here.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:6.8"
+msgid "Bhikkhuniyo ujjhāyanti khiyyanti vipācenti—"
+msgstr "The nuns complained and criticized the monks from the group of six,"
+
+msgctxt "pli-tv-bu-vb-pc23:6.9"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadissantī”ti."
+msgstr "“How can the monks from the group of six go and instruct the nuns at their dwelling place?”"
+
+msgctxt "pli-tv-bu-vb-pc23:6.10"
+msgid "Atha kho tā bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
+msgstr "And those nuns told the monks."
+
+#. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="532"></a> 
+msgctxt "pli-tv-bu-vb-pc23:7.1"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "The monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-pc23:7.2"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized those monks,"
+
+msgctxt "pli-tv-bu-vb-pc23:7.3"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadissantī”ti … pe …"
+msgstr "“How can the monks from the group of six go and instruct the nuns at their dwelling place?”…"
+
+msgctxt "pli-tv-bu-vb-pc23:7.4"
+msgid "“saccaṃ kira tumhe, bhikkhave, bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadathā”ti?"
+msgstr "“Is it true, monks, that you did this?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:7.5"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:7.6"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked them, “…"
+
+msgctxt "pli-tv-bu-vb-pc23:7.7"
+msgid "kathañhi nāma tumhe, moghapurisā, bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadissatha."
+msgstr "Foolish men, how can you go and instruct the nuns at their dwelling place?"
+
+msgctxt "pli-tv-bu-vb-pc23:7.8"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-pc23:7.9"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h3>
+msgctxt "pli-tv-bu-vb-pc23:8.1"
+msgid ""
+msgstr "Preliminary ruling"
+
+#. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="533"></a>
+#. <strong class="rule"> 
+msgctxt "pli-tv-bu-vb-pc23:8.2"
+msgid "“Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, pācittiyan”ti."
+msgstr "‘If a monk goes to a nun’s dwelling place, and then instructs her, he commits an offense entailing confession.’”"
+
+#. </strong>
+#. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="534"></a> 
+msgctxt "pli-tv-bu-vb-pc23:9.1"
+msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
+msgstr "In this way the Master laid down this training rule for the monks."
+
+#. </p><h3>
+msgctxt "pli-tv-bu-vb-pc23:10.1"
+msgid ""
+msgstr "Second sub-story"
+
+#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="Bu-Pc.23.2"></a> <a class="pts-vp-en" id="BD.2.277"></a><a class="wt-pa" id="535"></a> 
+msgctxt "pli-tv-bu-vb-pc23:10.2"
+msgid "Tena kho pana samayena mahāpajāpati gotamī gilānā hoti."
+msgstr "Soon afterwards Mahāpajāpati Gotamī became sick."
+
+msgctxt "pli-tv-bu-vb-pc23:10.3"
+msgid "Therā bhikkhū yena mahāpajāpati gotamī tenupasaṅkamiṃsu;"
+msgstr "The senior monks went to see her"
+
+msgctxt "pli-tv-bu-vb-pc23:10.4"
+msgid "upasaṅkamitvā mahāpajāpatiṃ gotamiṃ etadavocuṃ—“"
+msgstr "and said,"
+
+#. VAR: kacci → kacci te (bj, s1-3)
+msgctxt "pli-tv-bu-vb-pc23:10.5"
+msgid "kacci, gotami, khamanīyaṃ, kacci yāpanīyan”ti?"
+msgstr "“We hope you’re bearing up, Gotamī, we hope you’re getting better?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:10.6"
+msgid "“Na me, ayyā, khamanīyaṃ na yāpanīyaṃ”."
+msgstr "“I’m not bearing up, Venerables, and I’m not getting better."
+
+msgctxt "pli-tv-bu-vb-pc23:10.7"
+msgid "“Iṅghayyā, dhammaṃ desethā”ti."
+msgstr "Please give me a teaching.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:10.8"
+msgid "“Na, bhagini, kappati bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo dhammaṃ desetun”ti kukkuccāyantā na desesuṃ."
+msgstr "“It’s not allowable for us to go and teach a nun at her dwelling place.” And being afraid of wrongdoing, they did not teach her."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:10.9"
+msgid "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena mahāpajāpati gotamī tenupasaṅkami;"
+msgstr "Soon afterwards, the Master robed up in the morning, took his bowl and robe, and went to Mahāpajāpati Gotamī,"
+
+msgctxt "pli-tv-bu-vb-pc23:10.10"
+msgid "upasaṅkamitvā paññatte āsane nisīdi."
+msgstr "where he sat down on a prepared seat."
+
+msgctxt "pli-tv-bu-vb-pc23:10.11"
+msgid "Nisajja kho bhagavā mahāpajāpatiṃ gotamiṃ etadavoca—"
+msgstr "And he said to her,"
+
+msgctxt "pli-tv-bu-vb-pc23:10.12"
+msgid "“kacci, gotami, khamanīyaṃ, kacci yāpanīyan”ti?"
+msgstr "“I hope you’re bearing up, Gotamī, I hope you’re getting better?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:10.13"
+msgid "“Pubbe me, bhante, therā bhikkhū āgantvā dhammaṃ desenti."
+msgstr "“Previously, Venerable Sir, the senior monks would come and teach me,"
+
+msgctxt "pli-tv-bu-vb-pc23:10.14"
+msgid "Tena me phāsu hoti."
+msgstr "and because of that I would be comfortable."
+
+msgctxt "pli-tv-bu-vb-pc23:10.15"
+msgid "Idāni pana—‘bhagavatā paṭikkhittan’ti, kukkuccāyantā na desenti."
+msgstr "But now they don’t teach because they’re afraid of wrongdoing, saying, ‘It’s been prohibited by the Master.’"
+
+msgctxt "pli-tv-bu-vb-pc23:10.16"
+msgid "Tena me na phāsu hotī”ti."
+msgstr "And because of that I’m not comfortable.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-pc23:10.17"
+msgid "Atha kho bhagavā mahāpajāpatiṃ gotamiṃ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṃsetvā uṭṭhāyāsanā pakkāmi."
+msgstr "After instructing, inspiring, and gladdening her with a teaching, the Master rose from his seat and departed."
+
+msgctxt "pli-tv-bu-vb-pc23:10.18"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
+
+#. <strong class="rule"> 
+msgctxt "pli-tv-bu-vb-pc23:10.19"
+msgid "“anujānāmi, bhikkhave, bhikkhunupassayaṃ upasaṅkamitvā gilānaṃ bhikkhuniṃ ovadituṃ."
+msgstr "“Monks, I allow you to go and instruct a sick nun at her dwelling place."
+
+#. </strong> 
+msgctxt "pli-tv-bu-vb-pc23:10.20"
+msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And so, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc23:11.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.57"></a><a class="wt-pa" id="536"></a>
+#. <strong class="rule"> 
+msgctxt "pli-tv-bu-vb-pc23:11.2"
+msgid "“Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, aññatra samayā, pācittiyaṃ."
+msgstr "‘If a monk goes to the nuns’ dwelling place and then instructs them, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc23:11.3"
+msgid "Tatthāyaṃ samayo. Gilānā hoti bhikkhunī—ayaṃ tattha samayo”ti."
+msgstr "The appropriate reason is that a nun is sick.’”"
+
+#. </strong> 
+msgctxt "pli-tv-bu-vb-pc23:11.4"
+msgid "(<em>23</em>:<strong>72</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc23:12.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.23.3"></a><a class="pts-cs" id="Bu-Pc.23.3.1"></a><a class="wt-pa" id="537"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:12.2"
+msgid "Yo panāti"
+msgstr "A:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc23:12.3"
+msgid "yo yādiso … pe …"
+msgstr "whoever …"
+
+#. </span>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:12.4"
+msgid "bhikkhūti"
+msgstr "Monk:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc23:12.5"
+msgid "… pe …"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgctxt "pli-tv-bu-vb-pc23:12.6"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case."
+
+#. </span>
+#. </p><p><a class="sc" id="8"></a><a class="pts-vp-en" id="BD.2.278"></a><a class="wt-pa" id="538"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:13.1"
+msgid "Bhikkhunupassayo nāma"
+msgstr "The nuns’ dwelling place:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc23:13.2"
+msgid "yattha bhikkhuniyo ekarattampi vasanti."
+msgstr "where nuns stay for even a single night."
+
+#. </span>
+#. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="539"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:14.1"
+msgid "Upasaṅkamitvāti"
+msgstr "Goes to:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc23:14.2"
+msgid "tattha gantvā."
+msgstr "goes there."
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="540"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:15.1"
+msgid "Bhikkhunī nāma"
+msgstr "Them:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc23:15.2"
+msgid "ubhatosaṃghe upasampannā."
+msgstr "they have been given the full ordination by both Orders."
+
+#. </span>
+#. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="541"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:16.1"
+msgid "Ovadeyyāti"
+msgstr "Instructs:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc23:16.2"
+msgid "aṭṭhahi garudhammehi ovadati, āpatti pācittiyassa."
+msgstr "if he instructs about the eight rules to be respected, he commits an offense entailing confession."
+
+#. </span>
+#. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="542"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:17.1"
+msgid "Aññatra samayāti"
+msgstr "Unless there is an appropriate reason:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc23:17.2"
+msgid "ṭhapetvā samayaṃ."
+msgstr "except at an appropriate time."
+
+#. </span>
+#. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="543"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc23:18.1"
+msgid "Gilānā nāma"
+msgstr "A sick nun:"
+
+#. </strong><span class="gloss">
+#. <span class="note" hidden>A formal meeting of the community,” <i lang="pli">saṃvāsa</i>, is defined at <i lang="pli">pācittiya</i> 69, <span class="ref">MS.2.1274</span>, as the observance day ceremony, the invitation ceremony, or a procedure.</span> 
+msgctxt "pli-tv-bu-vb-pc23:18.2"
+msgid "bhikkhunī na sakkoti ovādāya vā saṃvāsāya vā gantuṃ."
+msgstr "she is not able to go to the instruction or to a formal meeting of the community."
+
+#. </span>
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc23:19.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="Bu-Pc.23.3.2"></a><a class="wt-pa" id="544"></a> 
+msgctxt "pli-tv-bu-vb-pc23:19.2"
+msgid "Upasampannāya upasampannasaññī bhikkhunupassayaṃ upasaṅkamitvā aññatra samayā ovadati, āpatti pācittiyassa."
+msgstr "If she is fully ordained, and he perceives her as fully ordained, and he goes to her dwelling place and then instructs her, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc23:19.3"
+msgid "Upasampannāya vematiko bhikkhunupassayaṃ upasaṅkamitvā aññatra samayā ovadati, āpatti pācittiyassa."
+msgstr "If she is fully ordained, but he is unsure if she is, and he goes to her dwelling place and then instructs her, unless there is an appropriate reason, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc23:19.4"
+msgid "Upasampannāya anupasampannasaññī bhikkhunupassayaṃ upasaṅkamitvā aññatra samayā ovadati, āpatti pācittiyassa."
+msgstr "If she is fully ordained, but he perceives her as not fully ordained, and he goes to her dwelling place and then instructs her, unless there is an appropriate reason, he commits an offense entailing confession."
+
+#. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="545"></a> 
+msgctxt "pli-tv-bu-vb-pc23:20.1"
+msgid "Aññena dhammena ovadati, āpatti dukkaṭassa."
+msgstr "If he instructs her with another teaching, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc23:20.2"
+msgid "Ekatoupasampannāya ovadati, āpatti dukkaṭassa."
+msgstr "If he instructs a nun who is fully ordained only on one side, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc23:20.3"
+msgid "Anupasampannāya upasampannasaññī, āpatti dukkaṭassa."
+msgstr "If she is not fully ordained, but he perceives her as fully ordained, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc23:20.4"
+msgid "Anupasampannāya vematiko, āpatti dukkaṭassa."
+msgstr "If she is not fully ordained, but he is unsure of it, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc23:20.5"
+msgid "Anupasampannāya anupasampannasaññī, anāpatti."
+msgstr "If she is not fully ordained, and he perceives her as not fully ordained, there is no offense."
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc23:21.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="Bu-Pc.23.3.3"></a><a class="wt-pa" id="546"></a> 
+msgctxt "pli-tv-bu-vb-pc23:21.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-pc23:21.3"
+msgid "samaye,"
+msgstr "if there is an appropriate reason;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.4"
+msgid "uddesaṃ dento,"
+msgstr "if he gives a summary;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.5"
+msgid "paripucchaṃ dento,"
+msgstr "if he questions them;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.6"
+msgid "“osārehi ayyā”ti vuccamāno osāreti,"
+msgstr "if he recites when asked to do so;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.7"
+msgid "pañhaṃ pucchati,"
+msgstr "if he asks a question;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.8"
+msgid "pañhaṃ puṭṭho katheti,"
+msgstr "if he replies when asked a question;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.9"
+msgid "aññassatthāya bhaṇantaṃ bhikkhuniyo suṇanti,"
+msgstr "if he is speaking for the benefit of someone else and the nuns listen in;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.10"
+msgid "sikkhamānāya,"
+msgstr "if it is to a trainee nun;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.11"
+msgid "sāmaṇeriyā,"
+msgstr "if it is to a novice nun;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.12"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-pc23:21.13"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="17"></a><a class="wt-pa" id="547"></a> 
+msgctxt "pli-tv-bu-vb-pc23:22.1"
+msgid "Bhikkhunupassayasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ."
+msgstr "The third rule, the training rule on nuns’ dwelling places, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pli-tv-bu-vb-pc23:22.2"
+msgid ""
+msgstr ""

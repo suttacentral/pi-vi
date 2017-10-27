@@ -1,0 +1,387 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-06-26 12:52+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-pc19"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-pc19:1.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. </p><p> 
+msgctxt "pli-tv-bu-vb-pc19:2.1"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. </p><p> 
+msgctxt "pli-tv-bu-vb-pc19:3.1"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession (<i lang=\"pli\">pācittiya</i>)"
+
+#. </p><p> 
+msgctxt "pli-tv-bu-vb-pc19:4.1"
+msgid "Bhūtagāmavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "pli-tv-bu-vb-pc19:5.1"
+msgid "19. Mahallakavihārasikkhāpada"
+msgstr "Monks’ Confession 19: the training rule on large dwellings"
+
+#. </h1></div><h2>
+msgctxt "pli-tv-bu-vb-pc19:6.1"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.47"></a><a class="pts-cs" id="Bu-Pc.19.1"></a><a class="pts-vp-en" id="BD.2.257"></a><a class="wt-pa" id="wt-pa457"></a> 
+msgctxt "pli-tv-bu-vb-pc19:6.2"
+msgid "Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme."
+msgstr "At one time the Buddha was staying at Kosambī in Ghosita’s Monastery."
+
+msgctxt "pli-tv-bu-vb-pc19:6.3"
+msgid "Tena kho pana samayena āyasmato channassa upaṭṭhāko mahāmatto āyasmato channassa vihāraṃ kārāpeti."
+msgstr "At that time a minister who was Venerable Channa’s supporter was making him a dwelling."
+
+msgctxt "pli-tv-bu-vb-pc19:6.4"
+msgid "Atha kho āyasmā channo katapariyositaṃ vihāraṃ punappunaṃ chādāpeti, punappunaṃ lepāpeti."
+msgstr "When the dwelling was finished, Channa had it roofed and plastered again and again."
+
+msgctxt "pli-tv-bu-vb-pc19:6.5"
+msgid "Atibhārito vihāro paripati."
+msgstr "Being overloaded, the dwelling collapsed."
+
+msgctxt "pli-tv-bu-vb-pc19:6.6"
+msgid "Atha kho āyasmā channo tiṇañca kaṭṭhañca saṅkaḍḍhanto aññatarassa brāhmaṇassa yavakhettaṃ dūsesi."
+msgstr "Then, while collecting grass and sticks, Channa spoiled the barley field belonging to a certain brahmin."
+
+msgctxt "pli-tv-bu-vb-pc19:6.7"
+msgid "Atha kho so brāhmaṇo ujjhāyati khiyyati vipāceti—"
+msgstr "That brahmin grumbled and complained,"
+
+msgctxt "pli-tv-bu-vb-pc19:6.8"
+msgid "“kathañhi nāma bhadantā amhākaṃ yavakhettaṃ dūsessantī”ti."
+msgstr "“How can the Venerables spoil my barley field?”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="wt-pa458"></a> 
+msgctxt "pli-tv-bu-vb-pc19:7.1"
+msgid "Assosuṃ kho bhikkhū tassa brāhmaṇassa ujjhāyantassa khiyyantassa vipācentassa."
+msgstr "The monks heard the complaints of that brahmin,"
+
+msgctxt "pli-tv-bu-vb-pc19:7.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-pc19:7.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized Channa,"
+
+msgctxt "pli-tv-bu-vb-pc19:7.4"
+msgid "“kathañhi nāma āyasmā channo katapariyositaṃ vihāraṃ punappunaṃ chādāpessati, punappunaṃ lepāpessati, atibhārito vihāro paripatī”ti."
+msgstr "“How can Venerable Channa get a finished dwelling roofed and plastered again and again, so that it collapsed from overloading?”"
+
+#. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa459"></a> 
+msgctxt "pli-tv-bu-vb-pc19:8.1"
+msgid "Atha kho te bhikkhū āyasmantaṃ channaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After criticizing him in many ways, they told the Master.…"
+
+msgctxt "pli-tv-bu-vb-pc19:8.2"
+msgid "“saccaṃ kira tvaṃ, channa, katapariyositaṃ vihāraṃ punappunaṃ chādāpesi, punappunaṃ lepāpesi, atibhārito vihāro paripatī”ti?"
+msgstr "“Is it true, Channa, that you did this?”"
+
+#. </p><p> 
+msgctxt "pli-tv-bu-vb-pc19:8.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p> 
+msgctxt "pli-tv-bu-vb-pc19:8.4"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked him, “…"
+
+msgctxt "pli-tv-bu-vb-pc19:8.5"
+msgid "kathañhi nāma tvaṃ, moghapurisa, katapariyositaṃ vihāraṃ punappunaṃ chādāpessasi, punappunaṃ lepāpessasi, atibhārito vihāro paripati."
+msgstr "Foolish man, how can you get a finished dwelling roofed and plastered again and again, so that it collapses from overloading?"
+
+msgctxt "pli-tv-bu-vb-pc19:8.6"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-pc19:8.7"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc19:9.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa460"></a><a class="pts-vp-en" id="BD.2.258"></a>
+#. <span class="note" hidden><i lang="pli">Dvatticchadanassa pariyāyaṃ […] adhiṭṭhātabbaṃ,</i> “a succession of two or three coverings may be applied.”</span>
+#. <strong class="rule">
+#. VAR: appaharite → apaharite (s2)
+msgctxt "pli-tv-bu-vb-pc19:9.2"
+msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ."
+msgstr "‘When a monk is building a large dwelling, then standing where there are no cultivated plants, he may apply two or three courses of covering, taking it as far as the door frame and using it for fixing the door bolt and for treating the window shutters."
+
+#. VAR: uttari → uttariṃ (bj, s1-3)
+msgctxt "pli-tv-bu-vb-pc19:9.3"
+msgid "Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya pācittiyan”ti."
+msgstr "If he applies more than that, even if he stands where there are no cultivated plants, he commits an offense entailing confession.’”"
+
+#. </strong> 
+msgctxt "pli-tv-bu-vb-pc19:9.4"
+msgid "(<em>19</em>:<strong>68</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc19:10.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="Bu-Pc.19.2"></a>
+#. <a class="pts-cs" id="Bu-Pc.19.2.1"></a><a class="wt-pa" id="wt-pa461"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:10.2"
+msgid "Mahallako nāma"
+msgstr "A large dwelling:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc19:10.3"
+msgid "vihāro sassāmiko vuccati."
+msgstr "one with an owner is what is meant."
+
+#. </span>
+#. </p><p><a class="sc" id="6"></a>
+#. <a class="wt-pa" id="wt-pa462"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:11.1"
+msgid "Vihāro nāma"
+msgstr "A dwelling:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc19:11.2"
+msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
+msgstr "plastered inside or plastered outside or plastered both inside and outside."
+
+#. </span>
+#. </p><p><a class="sc" id="7"></a>
+#. <a class="wt-pa" id="wt-pa463"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:12.1"
+msgid "Kārayamānenāti"
+msgstr "Building:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc19:12.2"
+msgid "karonto vā kārāpento vā."
+msgstr "building or getting built."
+
+#. </span>
+#. </p><p><a class="sc" id="8"></a>
+#. <a class="wt-pa" id="wt-pa464"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:13.1"
+msgid "Yāva dvārakosāti"
+msgstr "As far as the door frame:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc19:13.2"
+msgid "piṭṭhasaṅghāṭassa samantā hatthapāsā."
+msgstr "a distance of an arm’s reach next to the lintel and the door-posts."
+
+#. </span>
+#. </p><p><a class="sc" id="9"></a>
+#. <a class="wt-pa" id="wt-pa465"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:14.1"
+msgid "Aggaḷaṭṭhapanāyāti"
+msgstr "For fixing the door bolt:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc19:14.2"
+msgid "dvāraṭṭhapanāya."
+msgstr "for the fixing of the door."
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a>
+#. <a class="wt-pa" id="wt-pa466"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:15.1"
+msgid "Ālokasandhiparikammāyāti"
+msgstr "For treating the window shutters:"
+
+#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.259"></a><span class="note" hidden><i lang="pli">Makaradantaka</i>. Lit. “Like the teeth of a <i lang="pli">makara</i>.” In later Buddhism the <i lang="pli">makara</i> is the name of a mythological marine animal, but what it refers to in this context is not clear. According to Sp-yoj.3.243 <i lang="pli">makara</i> is the name of a certain species of fish:" <i lang="pli">Makaradantaketi makaranāmakassa macchassa dantasadise dante</i>. “Swordfish” is merely a tentative rendering taken from PED.</span><span class="note" hidden><i lang="pli">Pañcapaṭika</i>. Vmv.4.299(VRI): <i lang="pli">Pāḷiyaṃ pañcapaṭikanti jātiādipañcappakāravaṇṇamaṭṭhaṃ</i>, “<i lang="pli">Pañcapaṭika</i> in the canonical text means the five-fold appearance, starting with jasmine.” The meaning is not clear, especially of <i lang="pli">jāti</i>.</span> 
+msgctxt "pli-tv-bu-vb-pc19:15.2"
+msgid "vātapānaparikammāya setavaṇṇaṃ kāḷavaṇṇaṃ gerukaparikammaṃ mālākammaṃ latākammaṃ makaradantakaṃ pañcapaṭikaṃ."
+msgstr "for treating the windows there is white color, black color, treating with red ocher, making a garland pattern, making a creeper pattern, a pattern of sword-fish teeth, the five-cloth pattern."
+
+#. </span>
+#. </p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli4.48"></a>
+#. <a class="wt-pa" id="wt-pa467"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:16.1"
+msgid "Dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbanti—"
+msgstr "Standing where there are no cultivated plants, he may apply two or three courses of covering:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc19:16.2"
+msgid "haritaṃ nāma pubbaṇṇaṃ aparaṇṇaṃ."
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-pc19:16.3"
+msgid "Sace harite ṭhito adhiṭṭhāti, āpatti dukkaṭassa."
+msgstr "if he applies it while standing where there are cultivated plants, he commits an offense of wrong conduct."
+
+#. <span class="note" hidden><i lang="pli">Maggena</i>, explained by the commentary (<span class="ref">Sp.4.785.12</span>) as, “not encircling, just straight covering,” <i lang="pli">aparikkhipitvā ujukameva chādanaṃ</i>.</span><span class="note" hidden><i lang="pli">Dve magge</i>, “two lines.” The context requires that this must refer to lines on top of each other rather than next to each other.</span><span class="note" hidden><i lang="pli">Pakkamitabbaṃ</i>. The point, according to <span class="ref">Sp.4.785.21</span>, seems to be that he may not keep on asking: “If he does not depart, he should stand in silence,” <i lang="pli">sace na pakkamati, tuṇhībhūtena ṭhātabbaṃ</i>.</span> 
+msgctxt "pli-tv-bu-vb-pc19:16.4"
+msgid "Maggena chādentassa dve magge adhiṭṭhahitvā tatiyaṃ maggaṃ āṇāpetvā pakkamitabbaṃ."
+msgstr "For someone covering in lines, after covering with two layers, he may ask for a third layer, and he should then depart."
+
+msgctxt "pli-tv-bu-vb-pc19:16.5"
+msgid "Pariyāyena chādentassa dve pariyāye adhiṭṭhahitvā tatiyaṃ pariyāyaṃ āṇāpetvā pakkamitabbaṃ."
+msgstr "For someone covering in circles, after covering with two layers, he may ask for a third layer, and he should then depart."
+
+#. </span></p><p><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:16.6"
+msgid ""
+msgstr "Cultivated plants"
+
+#. </strong><span class="gloss"><span class="note" hidden>I have moved this last definition from the beginning of the paragraph to the end to make the translation clearer.</span> 
+msgctxt "pli-tv-bu-vb-pc19:16.7"
+msgid ""
+msgstr "vegetables and grains."
+
+#. </span></p><p><a class="sc" id="12"></a>
+#. <a class="wt-pa" id="wt-pa468"></a><strong class="term"> 
+msgctxt "pli-tv-bu-vb-pc19:17.1"
+msgid "Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyyāti"
+msgstr "If he applies more than that, even if he stands where there are no cultivated plants:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-pc19:17.2"
+msgid "iṭṭhakāya chādentassa iṭṭhakiṭṭhakāya āpatti pācittiyassa."
+msgstr "if he is covering with bricks, then for every brick, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc19:17.3"
+msgid "Silāya chādentassa silāya silāya āpatti pācittiyassa."
+msgstr "If he is covering with rocks, then for every rock, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc19:17.4"
+msgid "Sudhāya chādentassa piṇḍe piṇḍe āpatti pācittiyassa."
+msgstr "If he is covering with plaster, then for every lump, he commits an offense entailing confession."
+
+#. <a class="pts-vp-en" id="BD.2.260"></a> 
+msgctxt "pli-tv-bu-vb-pc19:17.5"
+msgid "Tiṇena chādentassa karaḷe karaḷe āpatti pācittiyassa."
+msgstr "If he is covering with grass, then for every handful, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc19:17.6"
+msgid "Paṇṇena chādentassa paṇṇe paṇṇe āpatti pācittiyassa."
+msgstr "If he is covering with leaves, then for every leaf, he commits an offense entailing confession."
+
+#. </span>
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc19:18.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="13"></a><a class="pts-cs" id="Bu-Pc.19.2.2"></a><a class="wt-pa" id="wt-pa469"></a> 
+msgctxt "pli-tv-bu-vb-pc19:18.2"
+msgid "Atirekadvattipariyāye atirekasaññī adhiṭṭhāti, āpatti pācittiyassa."
+msgstr "If it is more than two or three courses, and he perceives it as more, and he applies it, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc19:18.3"
+msgid "Atirekadvattipariyāye vematiko adhiṭṭhāti, āpatti pācittiyassa."
+msgstr "If it is more than two or three courses, but he is unsure if it is, and he applies it, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc19:18.4"
+msgid "Atirekadvattipariyāye ūnakasaññī adhiṭṭhāti, āpatti pācittiyassa."
+msgstr "If it is more than two or three courses, but he perceives it as less, and he applies it, he commits an offense entailing confession."
+
+#. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa470"></a> 
+msgctxt "pli-tv-bu-vb-pc19:19.1"
+msgid "Ūnakadvattipariyāye atirekasaññī, āpatti dukkaṭassa."
+msgstr "If it is less than two or three courses, but he perceives it as more, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc19:19.2"
+msgid "Ūnakadvattipariyāye vematiko, āpatti dukkaṭassa."
+msgstr "If it is less than two or three courses, but he is unsure if it is, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc19:19.3"
+msgid "Ūnakadvattipariyāye ūnakasaññī, anāpatti."
+msgstr "If it is less than two or three courses, and he perceives it as less, there is no offense."
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-pc19:20.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="Bu-Pc.19.2.3"></a><a class="wt-pa" id="wt-pa471"></a> 
+msgctxt "pli-tv-bu-vb-pc19:20.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-pc19:20.3"
+msgid "dvattipariyāye,"
+msgstr "if he applies two or three courses;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.4"
+msgid "ūnakadvattipariyāye,"
+msgstr "if he applies less than two or three courses;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.5"
+msgid "leṇe,"
+msgstr "if it is a shelter;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.6"
+msgid "guhāya,"
+msgstr "if it is a cave;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.7"
+msgid "tiṇakuṭikāya,"
+msgstr "if it is a grass hut;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.8"
+msgid "aññassatthāya,"
+msgstr "if it is for the benefit of someone else;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.9"
+msgid "attano dhanena,"
+msgstr "if it is by means of his own property;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.10"
+msgid "vāsāgāraṃ ṭhapetvā sabbattha anāpatti,"
+msgstr "if it is anything other than a place to dwell in;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.11"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-pc19:20.12"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa472"></a> 
+msgctxt "pli-tv-bu-vb-pc19:21.1"
+msgid "Mahallakavihārasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
+msgstr "The ninth rule, the training rule on large dwellings, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pli-tv-bu-vb-pc19:21.2"
+msgid ""
+msgstr ""

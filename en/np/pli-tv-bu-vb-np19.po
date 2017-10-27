@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-01-08 09:54-0144\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-np19"><article><div class="hgroup"><p class="division"> 
+msgctxt "pli-tv-bu-vb-np19:1.1"
+msgid "Theravāda Vinaya"
+msgstr "Theravāda Collection on Monastic Law"
+
+#. </p><p class="division"> 
+msgctxt "pli-tv-bu-vb-np19:2.1"
+msgid "Mahāvibhaṅga"
+msgstr "Monks’ rules and their analysis"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:3.1"
+msgid "Nissaggiyakaṇḍa"
+msgstr "The chapter on relinquishment"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:4.1"
+msgid "Kosiyavagga"
+msgstr ""
+
+msgctxt "pli-tv-bu-vb-np19:4.2"
+msgid ""
+msgstr "Monks’ Relinquishment"
+
+#. </p><h1>
+msgctxt "pli-tv-bu-vb-np19:5.1"
+msgid "19. Rūpiyasaṃvohārasikkhāpada"
+msgstr "19. The training rule on trading with money"
+
+#. </h1></div><h2>
+msgctxt "pli-tv-bu-vb-np19:6.1"
+msgid ""
+msgstr "Origin story"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-np.19.1"></a><a class="pts-vp-en" id="bd.2.106"></a><a class="wt-pa" id="2222"></a> 
+msgctxt "pli-tv-bu-vb-np19:6.2"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pli-tv-bu-vb-np19:6.3"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjanti."
+msgstr "At that time monks from the group of six traded with money in various ways."
+
+msgctxt "pli-tv-bu-vb-np19:6.4"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr "People grumbled and complained,"
+
+msgctxt "pli-tv-bu-vb-np19:6.5"
+msgid "“kathañhi nāma samaṇā sakyaputtiyā nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjissanti, seyyathāpi gihī kāmabhogino”ti."
+msgstr "“How can the Sakyan ascetics trade with money in various ways, just like householders who indulge in sensual pleasures?”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2223"></a> 
+msgctxt "pli-tv-bu-vb-np19:7.1"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "Monks heard the complaints of those people,"
+
+msgctxt "pli-tv-bu-vb-np19:7.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "and the monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-np19:7.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized those monks,"
+
+msgctxt "pli-tv-bu-vb-np19:7.4"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjissantī”ti."
+msgstr "“How can those monks from the group of six act in this way?”"
+
+#. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2224"></a> 
+msgctxt "pli-tv-bu-vb-np19:8.1"
+msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "After criticizing those monks in many ways, they informed the Master. …"
+
+msgctxt "pli-tv-bu-vb-np19:8.2"
+msgid "“saccaṃ kira tumhe, bhikkhave, nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjathā”ti?"
+msgstr "“Is it true, monks, that you do this?”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:8.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:8.4"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked them: “…"
+
+msgctxt "pli-tv-bu-vb-np19:8.5"
+msgid "kathañhi nāma tumhe, moghapurisā, nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjissatha."
+msgstr "Foolish men, how can you trade with money in various ways?"
+
+msgctxt "pli-tv-bu-vb-np19:8.6"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-np19:8.7"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:"
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np19:9.1"
+msgid ""
+msgstr "Final ruling"
+
+#. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="2225"></a>
+#. <strong class="rule"> 
+msgctxt "pli-tv-bu-vb-np19:9.2"
+msgid "“Yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyan”ti."
+msgstr "‘If a monk trades with money in various ways, he commits an offense entailing relinquishment and confession.’”"
+
+#. </strong> 
+msgctxt "pli-tv-bu-vb-np19:9.3"
+msgid "(<em>19</em>:<strong>38</strong>)"
+msgstr ""
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np19:10.1"
+msgid ""
+msgstr "Definitions"
+
+#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-np.19.2"></a><a class="wt-pa" id="2226"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:10.2"
+msgid "Yo panāti"
+msgstr "A:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np19:10.3"
+msgid "yo yādiso … pe …"
+msgstr "whoever …"
+
+#. </span><strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:10.4"
+msgid "bhikkhūti"
+msgstr "Monk:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np19:10.5"
+msgid "… pe …"
+msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+
+msgctxt "pli-tv-bu-vb-np19:10.6"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case."
+
+#. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-en" id="bd.2.107"></a><a class="wt-pa" id="2227"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:11.1"
+msgid "Nānappakārakaṃ nāma"
+msgstr "Various ways:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np19:11.2"
+msgid "katampi akatampi katākatampi."
+msgstr "what is shaped, what is not shaped, and what is both shaped and not shaped."
+
+#. </span><strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:11.3"
+msgid "Kataṃ nāma"
+msgstr "What is shaped:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np19:11.4"
+msgid "sīsūpagaṃ gīvūpagaṃ hatthūpagaṃ pādūpagaṃ kaṭūpagaṃ."
+msgstr "what is meant for the head, what is meant for the neck, what is meant for the hands, what is meant for the feet, what is meant for the waist."
+
+#. </span><strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:11.5"
+msgid "Akataṃ nāma"
+msgstr "What is not shaped:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np19:11.6"
+msgid "ghanakataṃ vuccati."
+msgstr "what is shaped in a lump is what is meant."
+
+#. </span><strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:11.7"
+msgid "Katākataṃ nāma"
+msgstr "What is both shaped and not shaped:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np19:11.8"
+msgid "tadubhayaṃ."
+msgstr "both of them."
+
+#. </span></p><p><a class="sc" id="7"></a><a class="pts-vp-pli" id="pts-vp-pli3.240"></a><a class="wt-pa" id="2228"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:12.1"
+msgid "Rūpiyaṃ nāma"
+msgstr "Money:"
+
+#. </strong><span class="gloss"> 
+msgctxt "pli-tv-bu-vb-np19:12.2"
+msgid "satthuvaṇṇo kahāpaṇo, lohamāsako, dārumāsako, jatumāsako ye vohāraṃ gacchanti."
+msgstr "a golden <i lang=\"pli\">kahāpaṇa</i> coin, a copper <i lang=\"pli\">māsaka</i> coin, a wooden <i lang=\"pli\">māsaka</i> coin, a resin <i lang=\"pli\">māsaka</i> coin; whatever is used in commerce."
+
+#. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2229"></a>
+#. <strong class="term"> 
+msgctxt "pli-tv-bu-vb-np19:13.1"
+msgid "Samāpajjeyyāti"
+msgstr "Trades:"
+
+#. </strong></p><div class="gloss"><p> 
+msgctxt "pli-tv-bu-vb-np19:13.2"
+msgid "katena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "if he exchanges what is shaped with what is shaped, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:13.3"
+msgid "Katena akataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is not shaped with what is shaped, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:13.4"
+msgid "Katena katākataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is both shaped and not shaped with what is shaped, he commits an offense entailing relinquishment and confession."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:13.5"
+msgid "Akatena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is shaped with what is not shaped, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:13.6"
+msgid "Akatena akataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is not shaped with what is not shaped, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:13.7"
+msgid "Akatena katākataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is both shaped and not shaped with what is not shaped, he commits an offense entailing relinquishment and confession."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:13.8"
+msgid "Katākatena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is shaped with what is both shaped and not shaped, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:13.9"
+msgid "Katākatena akataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is not shaped with what is both shaped and not shaped, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:13.10"
+msgid "Katākatena katākataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If he exchanges what is both shaped and not shaped with what is both shaped and not shaped, he commits an offense entailing relinquishment and confession."
+
+#. </p></div><hr><p>
+msgctxt "pli-tv-bu-vb-np19:13.11"
+msgid "Saṃghamajjhe nissajjitabbaṃ."
+msgstr "It should be relinquished in the midst of the Order."
+
+#. <span class="kamma"> 
+msgctxt "pli-tv-bu-vb-np19:13.12"
+msgid "Evañca pana, bhikkhave, nissajjitabbaṃ."
+msgstr "“And, monks, it should be relinquished in this way."
+
+#. <a class="pts-vp-en" id="bd.2.108"></a> 
+msgctxt "pli-tv-bu-vb-np19:13.13"
+msgid "Tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr "After approaching the Order, that monk should put his upper robe over one shoulder and pay respect at the feet of the senior monks. He should then squat on his heels, put the palms of his hands together, and say,"
+
+msgctxt "pli-tv-bu-vb-np19:13.14"
+msgid "“ahaṃ, bhante, nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjiṃ."
+msgstr "‘Venerables, I have traded with money in various ways."
+
+msgctxt "pli-tv-bu-vb-np19:13.15"
+msgid "Idaṃ me nissaggiyaṃ."
+msgstr "This is to be relinquished."
+
+msgctxt "pli-tv-bu-vb-np19:13.16"
+msgid "Imāhaṃ saṃghassa nissajjāmī”ti."
+msgstr "I relinquish it to the Order.’”"
+
+#. </span> 
+msgctxt "pli-tv-bu-vb-np19:13.17"
+msgid "Nissajjitvā āpatti desetabbā."
+msgstr "After relinquishing it, he is to acknowledge the offense."
+
+msgctxt "pli-tv-bu-vb-np19:13.18"
+msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
+msgstr "The acknowledgment should be received by a competent and capable monk."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:13.19"
+msgid "Sace tattha āgacchati ārāmiko vā upāsako vā so vattabbo—"
+msgstr "If a monastery attendant or a lay follower is available, you should tell him,"
+
+msgctxt "pli-tv-bu-vb-np19:13.20"
+msgid "“āvuso, imaṃ jānāhī”ti."
+msgstr "“Look into this.”"
+
+msgctxt "pli-tv-bu-vb-np19:13.21"
+msgid "Sace so bhaṇati—"
+msgstr "If he says,"
+
+msgctxt "pli-tv-bu-vb-np19:13.22"
+msgid "“iminā kiṃ āhariyyatū”ti,"
+msgstr "“What can I get you with this?”,"
+
+msgctxt "pli-tv-bu-vb-np19:13.23"
+msgid "na vattabbo—"
+msgstr "you should not say,"
+
+msgctxt "pli-tv-bu-vb-np19:13.24"
+msgid "“imaṃ vā imaṃ vā āharā”ti."
+msgstr "“Get this or that;”"
+
+msgctxt "pli-tv-bu-vb-np19:13.25"
+msgid "Kappiyaṃ ācikkhitabbaṃ—"
+msgstr "you should point out what is allowable:"
+
+msgctxt "pli-tv-bu-vb-np19:13.26"
+msgid "sappi vā telaṃ vā madhu vā phāṇitaṃ vā."
+msgstr "ghee, oil, honey, or sugar."
+
+msgctxt "pli-tv-bu-vb-np19:13.27"
+msgid "Sace so tena parivattetvā kappiyaṃ āharati, rūpiyacetāpakaṃ ṭhapetvā, sabbeheva paribhuñjitabbaṃ."
+msgstr "If he makes a purchase and brings back what is allowable, everyone may enjoy it except the one who did the exchange into money."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:13.28"
+msgid "Evañcetaṃ labhetha, iccetaṃ kusalaṃ;"
+msgstr "If this is what happens, that is good."
+
+msgctxt "pli-tv-bu-vb-np19:13.29"
+msgid "no ce labhetha, so vattabbo—"
+msgstr "If not, you should tell him,"
+
+msgctxt "pli-tv-bu-vb-np19:13.30"
+msgid "“āvuso, imaṃ chaḍḍehī”ti."
+msgstr "“Discard this.”"
+
+msgctxt "pli-tv-bu-vb-np19:13.31"
+msgid "Sace so chaḍḍeti, iccetaṃ kusalaṃ;"
+msgstr "If he discards it, that is good."
+
+msgctxt "pli-tv-bu-vb-np19:13.32"
+msgid "no ce chaḍḍeti, pañcahaṅgehi samannāgato bhikkhu rūpiyachaḍḍako sammannitabbo—"
+msgstr "If he does not, a monk who has five qualities should be appointed as the money-discarder:"
+
+msgctxt "pli-tv-bu-vb-np19:13.33"
+msgid "yo na chandāgatiṃ gaccheyya, na dosāgatiṃ gaccheyya, na mohāgatiṃ gaccheyya, na bhayāgatiṃ gaccheyya, chaḍḍitāchaḍḍitañca jāneyya."
+msgstr "one who is not swayed by desire, ill will, confusion, or fear, and who knows the meaning of discarding and not discarding."
+
+#. </p><p>
+msgctxt "pli-tv-bu-vb-np19:13.34"
+msgid "“Evañca pana, bhikkhave, sammannitabbo."
+msgstr "“And, monks, this is how he should be appointed."
+
+msgctxt "pli-tv-bu-vb-np19:13.35"
+msgid "Paṭhamaṃ bhikkhu yācitabbo."
+msgstr "First the monk should be asked"
+
+msgctxt "pli-tv-bu-vb-np19:13.36"
+msgid "Yācitvā byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr "and then a competent and capable monk should inform the Order:"
+
+#. </p><div class="kamma"><p><a class="sc" id="9"></a><a class="wt-pa" id="2230"></a> 
+msgctxt "pli-tv-bu-vb-np19:14.1"
+msgid "‘Suṇātu me, bhante, saṃgho."
+msgstr "‘Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-np19:14.2"
+msgid "Yadi saṃghassa pattakallaṃ, saṃgho itthannāmaṃ bhikkhuṃ rūpiyachaḍḍakaṃ sammanneyya."
+msgstr "If it seems appropriate to the Order, it should appoint monk so-and-so as the money-discarder."
+
+msgctxt "pli-tv-bu-vb-np19:14.3"
+msgid "Esā ñatti."
+msgstr "This is the motion."
+
+#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="2231"></a> 
+msgctxt "pli-tv-bu-vb-np19:15.1"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr "Venerables, let the Order listen to me."
+
+msgctxt "pli-tv-bu-vb-np19:15.2"
+msgid "Saṃgho itthannāmaṃ bhikkhuṃ rūpiyachaḍḍakaṃ sammannati."
+msgstr "The Order appoints monk so-and-so as the money-discarder."
+
+msgctxt "pli-tv-bu-vb-np19:15.3"
+msgid "Yassāyasmato khamati itthannāmassa bhikkhuno rūpiyachaḍḍakassa sammuti, so tuṇhassa;"
+msgstr "Any monk who agrees to appointing monk so-and-so as the money-discarder should remain silent."
+
+msgctxt "pli-tv-bu-vb-np19:15.4"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Any monk who does not agree should say so."
+
+#. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="2232"></a> 
+msgctxt "pli-tv-bu-vb-np19:16.1"
+msgid "Sammato saṃghena itthannāmo bhikkhu rūpiyachaḍḍako."
+msgstr "The Order has appointed monk so-and-so as the money-discarder."
+
+msgctxt "pli-tv-bu-vb-np19:16.2"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr "The Order approves and is therefore silent."
+
+msgctxt "pli-tv-bu-vb-np19:16.3"
+msgid "evametaṃ dhārayāmī’”ti."
+msgstr "I will remember it thus.’”"
+
+#. </p></div><p><a class="sc" id="12"></a><a class="wt-pa" id="2233"></a>
+#. <strong class="rule"> 
+msgctxt "pli-tv-bu-vb-np19:17.1"
+msgid "Tena sammatena bhikkhunā animittaṃ katvā pātetabbaṃ."
+msgstr "The appointed monk should drop it without taking note of the location."
+
+msgctxt "pli-tv-bu-vb-np19:17.2"
+msgid "Sace nimittaṃ katvā pāteti, āpatti dukkaṭassa."
+msgstr "If he takes note of where he drops it, he commits an offense of wrong conduct."
+
+#. </strong></p><h2>
+msgctxt "pli-tv-bu-vb-np19:18.1"
+msgid ""
+msgstr "Permutations"
+
+#. </h2><p><a class="sc" id="13"></a><a class="wt-pa" id="2234"></a>
+#. <span class="note" hidden>The commentarial explanation makes it clear that what is meant here is that one exchanges money into money. The same is true for the next two cases. See <span class="ref">Sp.3.696.30</span>: “For one who is exchanging a relinquishable object with a relinquishable object, in accordance with the cases spoken of in the previous training rule,” <i lang="pli">purimasikkhāpade vuttavatthūsu nissaggiyavatthunā nissaggiyavatthuṃ cetāpentassa</i>.</span> 
+msgctxt "pli-tv-bu-vb-np19:18.2"
+msgid "Rūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is money, and he perceives it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:18.3"
+msgid "Rūpiye vematiko rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is money, but he is unsure if it is, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:18.4"
+msgid "Rūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is money, but he does not perceive it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
+
+#. </p><p>
+#. <span class="note" hidden>The commentarial explanation makes it clear that what is meant here is that one exchanges what is not money into money, that is, one is selling something and therefore ending up with money. The same is true for the next two cases. See <span class="ref">Sp.3.697.7</span>: “One exchanges one’s own non-money for someone else’s money,” <i lang="pli">attano vā hi arūpiyena parassa rūpiyaṃ cetāpeyya</i>.</span> 
+msgctxt "pli-tv-bu-vb-np19:18.5"
+msgid "Arūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is not money, but he perceives it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:18.6"
+msgid "Arūpiye vematiko rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is not money, but he is unsure if it is, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
+
+msgctxt "pli-tv-bu-vb-np19:18.7"
+msgid "Arūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr "If it is not money, and he does not perceive it as money, but he exchanges it into money, he commits an offense entailing relinquishment and confession."
+
+#. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="2235"></a> 
+msgctxt "pli-tv-bu-vb-np19:19.1"
+msgid "Arūpiye rūpiyasaññī, āpatti dukkaṭassa."
+msgstr "If it is not money, but he perceives it as money, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np19:19.2"
+msgid "Arūpiye vematiko, āpatti dukkaṭassa."
+msgstr "If it is not money, but he is unsure if it is, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-np19:19.3"
+msgid "Arūpiye arūpiyasaññī, anāpatti."
+msgstr "If it is not money, and he does not perceive it as money, there is no offense."
+
+#. </p><h2>
+msgctxt "pli-tv-bu-vb-np19:20.1"
+msgid ""
+msgstr "Non-offenses"
+
+#. </h2><p><a class="sc" id="15"></a><a class="wt-pa" id="2236"></a> 
+msgctxt "pli-tv-bu-vb-np19:20.2"
+msgid "Anāpatti—"
+msgstr "There is no offense:"
+
+msgctxt "pli-tv-bu-vb-np19:20.3"
+msgid "ummattakassa,"
+msgstr "if he is insane;"
+
+msgctxt "pli-tv-bu-vb-np19:20.4"
+msgid "ādikammikassāti."
+msgstr "if he is the first offender."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="16"></a><a class="wt-pa" id="2237"></a> 
+msgctxt "pli-tv-bu-vb-np19:21.1"
+msgid "Rūpiyasaṃvohārasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
+msgstr "The ninth rule, the training rule on trading with money, is finished."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The Book of the Discipline</cite>, can be downloaded <a href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons Attribution-NonCommercial 3.0 licence (<a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
+#. </div></body></html> 
+msgctxt "pli-tv-bu-vb-np19:21.2"
+msgid ""
+msgstr ""
+
