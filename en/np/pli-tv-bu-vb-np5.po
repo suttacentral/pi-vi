@@ -93,6 +93,7 @@ msgctxt "pli-tv-bu-vb-np5:6.12"
 msgid "aññena maggena agamāsi."
 msgstr "and he took a different path."
 
+#. VAR: paṇṇapuṭaṃ → paṇṇena puṭaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-np5:6.13"
 msgid "Atha kho so coragāmaṇiko maṃse pakke varamaṃsāni gahetvā paṇṇapuṭaṃ bandhitvā uppalavaṇṇāya bhikkhuniyā avidūre rukkhe ālaggetvā—"
 msgstr "Soon afterwards, when the meat was cooked, he took some of the best meat, tied it up in a palm-leaf packet, hung it from a tree not far from Uppalavaṇṇā, and said,"
@@ -114,6 +115,7 @@ msgctxt "pli-tv-bu-vb-np5:6.17"
 msgid "Atha kho uppalavaṇṇā bhikkhunī taṃ maṃsaṃ gahetvā upassayaṃ agamāsi."
 msgstr "She took the meat and returned to her dwelling place."
 
+#. VAR: paccuṭṭhāsi → paccupaṭṭhāsi (?)
 msgctxt "pli-tv-bu-vb-np5:6.18"
 msgid "Atha kho uppalavaṇṇā bhikkhunī tassā rattiyā accayena taṃ maṃsaṃ sampādetvā uttarāsaṅgena bhaṇḍikaṃ bandhitvā vehāsaṃ abbhuggantvā veḷuvane paccuṭṭhāsi."
 msgstr "When the night was over, she prepared the meat and made it into a bundle with her upper robe. She then rose into the air and appeared in the Bamboo Grove."
@@ -172,10 +174,12 @@ msgid "Nāhaṃ dassāmī”ti."
 msgstr "I can’t give it away.”"
 
 #. </p><p>
+#. VAR: sajjeyya → vissajjeyya (s1-3)
 msgctxt "pli-tv-bu-vb-np5:7.13"
 msgid "“Seyyathāpi, bhagini, puriso hatthiṃ datvā kacche sajjeyya;"
 msgstr "“Sister, just as a man giving an elephant might decorate its girth,"
 
+#. VAR: antaravāsake sajjasī”ti → antaravāsakaṃ na sajjasīti (si, mr) | mayhaṃ antaravāsakaṃ vissajjehīti (s1-3) | antaravāsakaṃ na sajjesīti (pts1)
 msgctxt "pli-tv-bu-vb-np5:7.14"
 msgid "evameva kho tvaṃ, bhagini, bhagavato maṃsaṃ datvā mayi antaravāsake sajjasī”ti."
 msgstr "so you giving meat to the Master should decorate me with your lower robe.”"
@@ -337,6 +341,7 @@ msgstr "Final ruling"
 #. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="1963"></a>
 #. <strong class="rule">
 #. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context. Sometimes, as here, it refers to both, and I then render it as robe(-cloth).</span> 
+#. VAR: pārivattakā → pārivaṭṭakā (s1-3)
 msgctxt "pli-tv-bu-vb-np5:13.2"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya, aññatra pārivattakā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk receives a robe(-cloth) from the hand of an unrelated nun, unless it is an exchange, he commits an offense entailing relinquishment and confession.’”"

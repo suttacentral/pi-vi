@@ -1143,7 +1143,7 @@ msgstr "after touching a bowl of water, they live together."
 #. </span>
 #. </p><p><a class="sc" id="49"></a><a class="ms-pa" id="ms-pa1268"></a>
 #. <strong class="term"> 
-#. VAR: Obhaṭacumbaṭā → ohata ... (bj) | obhata (s1-3, pts1)
+#. VAR: Obhaṭacumbaṭā → ohata … (bj) | obhata (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss5:53.1"
 msgid "Obhaṭacumbaṭā nāma"
 msgstr "The wife through removing the head pad:"

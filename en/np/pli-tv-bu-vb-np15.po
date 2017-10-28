@@ -165,6 +165,7 @@ msgid "Kathaṃ tvaṃ, upasena, parisaṃ vinesī”ti?"
 msgstr "How do you train them?”"
 
 #. </p><p>
+#. VAR: tamahaṃ → tāhaṃ (bj, pts1, mr)
 msgctxt "pli-tv-bu-vb-np15:8.11"
 msgid "“Yo maṃ, bhante, upasampadaṃ yācati tamahaṃ evaṃ vadāmi—"
 msgstr "“When anyone asks me for the full ordination, Venerable Sir, I tell them this:"
@@ -185,6 +186,7 @@ msgctxt "pli-tv-bu-vb-np15:8.15"
 msgid "no ce me paṭissuṇāti na upasampādemi."
 msgstr "otherwise I don’t."
 
+#. VAR: tamahaṃ → tāhaṃ (bj, pts1, mr)
 msgctxt "pli-tv-bu-vb-np15:8.16"
 msgid "Yo maṃ nissayaṃ yācati tamahaṃ evaṃ vadāmi—"
 msgstr "And I do the same when anyone asks me for support."
@@ -368,6 +370,7 @@ msgctxt "pli-tv-bu-vb-np15:11.6"
 msgid "‘ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū’”ti."
 msgstr "those monks who dwell in the forest, who eat almsfood, and who wear rag-robes to go and see him whenever they please."
 
+#. VAR: dassanaṃ pihentā → dassanāya pihayantā (s1-3) | dassanaṃ pihantā (pts1)
 msgctxt "pli-tv-bu-vb-np15:11.7"
 msgid "Te bhagavantaṃ dassanaṃ pihentā santhatāni ujjhitvā āraññikaṅgaṃ piṇḍapātikaṅgaṃ paṃsukūlikaṅgaṃ samādiyiṃsu."
 msgstr "Longing to see the Master, they discarded their blankets and undertook the practice of dwelling in the forest, of eating almsfood, and of wearing rag-robes."

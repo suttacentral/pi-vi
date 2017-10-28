@@ -215,6 +215,7 @@ msgid "Samāpajjeyyāti"
 msgstr "Trades:"
 
 #. </strong></p><div class="gloss"><p> 
+#. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np19:13.2"
 msgid "katena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he exchanges what is shaped with what is shaped, he commits an offense entailing relinquishment and confession."

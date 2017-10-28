@@ -130,6 +130,7 @@ msgctxt "pli-tv-bu-vb-np7:7.7"
 msgid "“kathañhi nāma samaṇā sakyaputtiyā na mattaṃ jānitvā bahuṃ cīvaraṃ viññāpessanti,"
 msgstr "“How can the Sakyan ascetics have no sense of moderation and ask for many robes?"
 
+#. VAR: paggāhikasālaṃ → paṭag­gāhi­kasā­laṃ (?)
 msgctxt "pli-tv-bu-vb-np7:7.8"
 msgid "dussavāṇijjaṃ vā samaṇā sakyaputtiyā karissanti, paggāhikasālaṃ vā pasāressantī”ti."
 msgstr "Will they start up as cloth merchants or set up shop?”"
@@ -189,10 +190,12 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2002"></a>
 #. <strong class="rule"> 
+#. VAR: tena → … paramantena (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np7:10.2"
 msgid "“Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ."
 msgstr "‘If an unrelated male or female householder invites that monk to take many robes, he should accept at most one lower robe and one upper robe."
 
+#. VAR: uttari → uttariṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np7:10.3"
 msgid "Tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he accepts more than that, he commits an offense entailing relinquishment and confession.’”"

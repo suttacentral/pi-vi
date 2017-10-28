@@ -337,6 +337,7 @@ msgid "pe …"
 msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span> 
+#. VAR: vippavutthaṃ → vippavuṭṭhaṃ (c1, c2)
 msgctxt "pli-tv-bu-vb-np29:22.6"
 msgid "idaṃ me, bhante, cīvaraṃ atirekachārattaṃ vippavutthaṃ, aññatra bhikkhusammutiyā, nissaggiyaṃ."
 msgstr "‘Venerables, this robe which I have stayed apart from for more than six days without the permission of the monks is to be relinquished."

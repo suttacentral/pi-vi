@@ -58,6 +58,7 @@ msgctxt "pli-tv-bu-vb-pc13:6.4"
 msgid "Tena kho pana samayena āyasmā dabbo mallaputto saṃghassa senāsanañca paññapeti bhattāni ca uddisati."
 msgstr "At that time Venerable Dabba the Mallian assigned the dwellings and designated the meals,"
 
+#. VAR: mettiyabhūmajakā → metti­ya­bhumma­jakā (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc13:6.5"
 msgid "Tena kho pana samayena mettiyabhūmajakā bhikkhū navakā ceva honti appapuññā ca."
 msgstr "and the monks Mettiya and Bhūmajaka had recently been given the full ordination."
@@ -291,6 +292,7 @@ msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. </p><hr><p class="endsutta"><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa379"></a> 
+#. VAR: Ujjhāpanakasikkhāpadaṃ → ujjhāpa­na­sikkhā­padaṃ (bj)
 msgctxt "pli-tv-bu-vb-pc13:15.1"
 msgid "Ujjhāpanakasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ."
 msgstr "The third rule, the training rule on complaining, is finished."

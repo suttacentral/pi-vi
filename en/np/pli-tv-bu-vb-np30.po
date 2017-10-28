@@ -81,6 +81,7 @@ msgid "Amhākaṃ saṃghassa anuvassaṃ sacīvarabhikkhā paññattā”ti."
 msgstr "We’ve prepared our annual alms-offering together with robes for the Order.”"
 
 #. </p><p>
+#. VAR: bhattā → bhaddā (bj, mr)
 msgctxt "pli-tv-bu-vb-np30:6.10"
 msgid "“Bahū, āvuso, saṃghassa dāyakā, bahū saṃghassa bhattā."
 msgstr "“The Order has many donors and supporters."

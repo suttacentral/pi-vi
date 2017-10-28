@@ -51,6 +51,7 @@ msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakaniv�
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
 
 #. <span class="note" hidden>From the origin story to <i lang="pli">pācittiya</i> 32 it seems <i lang="pli">cīvarakārasamaya</i> refers to any time one is making a robe, see <span class="ref">MS.2.729</span>.</span> 
+#. VAR: bahuṃ suttaṃ → bahusuttaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np26:6.3"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū cīvarakārasamaye bahuṃ suttaṃ viññāpesuṃ."
 msgstr "At that time monks from the group of six were making robes, and they asked for a large amount of thread."
@@ -223,6 +224,7 @@ msgid "Tantavāyehīti"
 msgstr "Weavers:"
 
 #. </strong><span class="gloss"> 
+#. VAR: payoge payoge dukkaṭaṃ → payoge dukkaṭaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np26:13.2"
 msgid "pesakārehi vāyāpeti, payoge payoge dukkaṭaṃ."
 msgstr "for every action to get it woven by weavers, he commits an offense of wrong conduct."
@@ -321,6 +323,7 @@ msgctxt "pli-tv-bu-vb-np26:16.5"
 msgid "kāyabandhane,"
 msgstr "if it is for a waistband;"
 
+#. VAR: aṃsabaddhake → aṃsavaṭṭake (bj) | aṃsabandhake (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np26:16.6"
 msgid "aṃsabaddhake,"
 msgstr "if it is for a shoulder-strap;"

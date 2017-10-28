@@ -1955,7 +1955,7 @@ msgctxt "pli-tv-bu-vb-pj1:25.2"
 msgid "tatiyampi kho āyasmato sudinnassa mātā āyasmantaṃ sudinnaṃ etadavoca—"
 msgstr "She then said,"
 
-#. VAR: pahūta­dhana­dhaññaṃ → pahūta­dhana­dhaññaṃ ( ...pe... carāmīti)
+#. VAR: pahūta­dhana­dhaññaṃ → pahūta­dhana­dhaññaṃ ( … pe … carāmīti)
 msgctxt "pli-tv-bu-vb-pj1:25.3"
 msgid "“idaṃ, tāta sudinna, kulaṃ aḍḍhaṃ mahaddhanaṃ mahābhogaṃ pahūta­jāta­rūpa­rajataṃ pahūta­vit­tūpaka­ra­ṇaṃ pahūta­dhana­dhaññaṃ."
 msgstr "“This family, Sudinna, is rich."

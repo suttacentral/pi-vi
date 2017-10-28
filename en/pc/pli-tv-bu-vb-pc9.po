@@ -134,6 +134,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa297"></a>
 #. <strong class="rule"> 
+#. VAR: bhikkhusammutiyā → bhik­khu­samma­tiyā (s1-3)
 msgctxt "pli-tv-bu-vb-pc9:8.2"
 msgid "“Yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya, aññatra bhikkhusammutiyā, pācittiyan”ti."
 msgstr "‘If a monk informs a person who is not fully ordained about another monk’s serious offense, except if the monks have agreed, he commits an offense entailing confession.’”"

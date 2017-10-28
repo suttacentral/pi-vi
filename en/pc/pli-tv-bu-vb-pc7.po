@@ -335,6 +335,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="13"></a>
 #. <strong class="rule"> 
+#. VAR: uttarichappañcavācāhi → uttariṃ ­chappañ­cavācāhi (s1-3)
 msgctxt "pli-tv-bu-vb-pc7:18.2"
 msgid "“Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā purisaviggahena, pācittiyan”ti."
 msgstr "‘If a monk gives a teaching of more than five or six sentences to a woman, except in the presence of a man who understands, he commits an offense entailing confession.’”"

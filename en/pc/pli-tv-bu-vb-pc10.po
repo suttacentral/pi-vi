@@ -303,6 +303,7 @@ msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. </p><hr><p class="endsutta"><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa335"></a> 
+#. VAR: Pathavīkhaṇanasikkhāpadaṃ → paṭha­vi­kha­ṇa­na­sikkhā­padaṃ (bj)
 msgctxt "pli-tv-bu-vb-pc10:20.1"
 msgid "Pathavīkhaṇanasikkhāpadaṃ niṭṭhitaṃ dasamaṃ."
 msgstr "The tenth rule, the training rule on digging the earth, is finished."

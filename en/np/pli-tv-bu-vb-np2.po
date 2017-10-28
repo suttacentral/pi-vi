@@ -316,6 +316,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="10"></a><a class="wt-pa" id="1892"></a>
 #. <strong class="rule"> 
+#. VAR: bhikkhusammutiyā → … sammatiyā (s1-3)
 msgctxt "pli-tv-bu-vb-np2:15.2"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘When his robe is finished and the robe-making season has ended, if a monk stays apart from his three robes even for a single day, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”"
@@ -383,6 +384,7 @@ msgid "Nissaggiyaṃ hotīti"
 msgstr "Entailing relinquishment:"
 
 #. </strong><span class="gloss"> 
+#. VAR: aruṇuggamanā → aruṇuggamanena (bj, s1-3)
 msgctxt "pli-tv-bu-vb-np2:20.2"
 msgid "saha aruṇuggamanā nissaggiyaṃ hoti."
 msgstr "entailing relinquishment at dawn."
@@ -403,6 +405,7 @@ msgid "pe …"
 msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span><a class="pts-vp-en" id="bd.2.16"></a> 
+#. VAR: rattivippavutthaṃ → rattiṃ vippavutthaṃ (bj, pts1)
 msgctxt "pli-tv-bu-vb-np2:20.6"
 msgid "“idaṃ me, bhante, cīvaraṃ rattivippavutthaṃ aññatra bhikkhusammutiyā nissaggiyaṃ,"
 msgstr "‘Venerables, this robe which I have stayed apart from for one day without the permission of the monks is to be relinquished."
@@ -448,6 +451,7 @@ msgctxt "pli-tv-bu-vb-np2:21.5"
 msgid "Nivesanaṃ ekūpacāraṃ nānūpacāraṃ."
 msgstr "a house may have a single entrance or many;"
 
+#. VAR: Udosito → uddosito (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np2:21.6"
 msgid "Udosito ekūpacāro nānūpacāro."
 msgstr "an outbuilding may have a single entrance or many;"
@@ -611,6 +615,7 @@ msgstr "one must stay in the room where the robe is kept, or not go beyond arm�
 
 #. </span></p><p><a class="sc" id="21"></a><a class="pts-vp-pli" id="pts-vp-pli3.201"></a><a class="pts-cs" id="bu-np.2.3.5"></a><a class="wt-pa" id="1903"></a><strong class="term">
 #. <span class="note" hidden><i lang="pli">Uddosita</i>. Explained in the commentary as “a hall for goods such as vehicles, etc,” <i lang="pli">yānādīnaṃ bhaṇḍānaṃ sālā</i>, see <span class="ref">Sp.3.654.10</span>.</span> 
+#. VAR: udosito → uddosito (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np2:26.1"
 msgid "Ekakulassa udosito hoti parikkhitto ca, nānāgabbhā nānāovarakā."
 msgstr "An enclosed outbuilding belonging to one clan and having many rooms:"

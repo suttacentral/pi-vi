@@ -27,6 +27,7 @@ msgid "Nissaggiyakaṇḍa"
 msgstr "The chapter on relinquishment"
 
 #. </p><p>
+#. VAR: Cīvaravagga → akāla­cīvara­sikkhā­pada (kaṅkhāvitāraṇī)
 msgctxt "pli-tv-bu-vb-np3:4.1"
 msgid "Cīvaravagga"
 msgstr ""
@@ -204,10 +205,12 @@ msgctxt "pli-tv-bu-vb-np3:9.3"
 msgid "Paṭiggahetvā khippameva kāretabbaṃ."
 msgstr "If he receives it, he should quickly make a robe."
 
+#. VAR: māsaparamaṃ tena → māsa­paraman­tena (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np3:9.4"
 msgid "No cassa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya."
 msgstr "If there is not enough cloth, but he is expecting more, he should keep it at most one month to make up the lack."
 
+#. VAR: uttari → uttariṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np3:9.5"
 msgid "Tato ce uttari nikkhipeyya, satiyāpi paccāsāya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he keeps it beyond that, even if he expects more cloth, he commits an offense entailing relinquishment and confession.’”"

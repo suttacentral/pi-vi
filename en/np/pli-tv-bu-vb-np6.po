@@ -55,6 +55,7 @@ msgctxt "pli-tv-bu-vb-np6:6.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
+#. VAR: paṭṭo → paṭṭho (s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-np6:6.4"
 msgid "Tena kho pana samayena āyasmā upanando sakyaputto paṭṭo hoti dhammiṃ kathaṃ kātuṃ."
 msgstr "At that time Venerable Upananda the Sakyan was skilled at teaching."
@@ -160,6 +161,7 @@ msgctxt "pli-tv-bu-vb-np6:9.6"
 msgid "“mahicchā ime samaṇā sakyaputtiyā asantuṭṭhā."
 msgstr "“These Sakyan ascetics have great desires; they are not content."
 
+#. VAR: Nayimesaṃ sukarā dhammanimantanāpi kātuṃ → nayime sukarā dhamma­ni­manta­nāya kātuṃ (s1-3)
 msgctxt "pli-tv-bu-vb-np6:9.7"
 msgid "Nayimesaṃ sukarā dhammanimantanāpi kātuṃ."
 msgstr "Even to make them an appropriate offer isn’t easy."

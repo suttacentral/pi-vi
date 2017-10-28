@@ -122,6 +122,7 @@ msgid "Tāni cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhanti."
 msgstr "and stored them beyond the robe season, in bundles on a bamboo robe-rack."
 
 #. </p><p>
+#. VAR: Addasa → addasā (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np28:8.5"
 msgid "Addasa kho āyasmā ānando senāsanacārikaṃ āhiṇḍanto tāni cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhante disvā bhikkhū etadavoca—"
 msgstr "While inspecting the dwellings, Venerable Ānanda saw that cloth, and he asked the monks,"
@@ -192,14 +193,17 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2389"></a>
 #. <strong class="rule"> 
+#. VAR: kattikatemāsikapuṇṇamaṃ → kat­ti­ka­te­māsi­puṇṇamaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-np28:10.2"
 msgid "“Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuno paneva accekacīvaraṃ uppajjeyya, accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ,"
 msgstr "‘When there are ten days left to the Kattika full moon that ends the first rains residence and haste-cloth becomes available to a monk,"
 
+#. VAR: yāva cīvarakālasamayaṃ → yāvacīvara … (s1-3)
 msgctxt "pli-tv-bu-vb-np28:10.3"
 msgid "paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ."
 msgstr "he may receive it if he regards it as urgent."
 
+#. VAR: uttari → uttariṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np28:10.4"
 msgid "Tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he stores it beyond that, he commits an offense entailing relinquishment and confession.’”"
@@ -297,6 +301,7 @@ msgid "Tato ce uttari nikkhipeyyāti"
 msgstr "If he stores it beyond that:"
 
 #. </strong><span class="gloss"> 
+#. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np28:16.2"
 msgid "anatthate kathine vassānassa pacchimaṃ divasaṃ atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "for one who has not done the robe-making ceremony, if he goes beyond the last day of the rainy season, he commits an offense entailing relinquishment and confession."
@@ -418,6 +423,7 @@ msgctxt "pli-tv-bu-vb-np28:19.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
+#. VAR: antosamaye → antosamayaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np28:19.3"
 msgid "antosamaye adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṃ gaṇhanti,"
 msgstr "if within the robe season the haste-cloth is determined, transferred, given away, lost, destroyed, burnt, stolen, or taken on trust;"

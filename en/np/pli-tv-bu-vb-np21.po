@@ -523,6 +523,7 @@ msgctxt "pli-tv-bu-vb-np21:24.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
+#. VAR: adhiṭṭheti → adhiṭṭhāti (bj)
 msgctxt "pli-tv-bu-vb-np21:24.3"
 msgid "antodasāhaṃ adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, bhijjati, acchinditvā gaṇhanti, vissāsaṃ gaṇhanti,"
 msgstr "if within ten days it has been determined, transferred, given away, lost, destroyed, broken, stolen, or taken on trust;"

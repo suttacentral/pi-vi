@@ -158,6 +158,7 @@ msgid "“suttena, ayye, attho”ti."
 msgstr "“Madam, I need more thread.”"
 
 #. </p><p>
+#. VAR: ayyo → ayya (s1-3)
 msgctxt "pli-tv-bu-vb-np27:8.4"
 msgid "“Nanu tvaṃ ayyo mayā vutto—"
 msgstr "“But, Sir, didn’t I tell you"
@@ -251,6 +252,7 @@ msgctxt "pli-tv-bu-vb-np27:8.25"
 msgid "Nayime sukarā cīvarena acchādetuṃ."
 msgstr "It’s no easy matter to give them robe-cloth."
 
+#. VAR: upanando mayā pubbe appavārito tantavāye → gahapatikassa tantavāye (pts1, mr)
 msgctxt "pli-tv-bu-vb-np27:8.26"
 msgid "Kathañhi nāma ayyo upanando mayā pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjissatī”ti."
 msgstr "How could Venerable Upananda go to the weavers and specify the kind of robe-cloth he wanted without first being invited by me?”"
@@ -325,6 +327,7 @@ msgctxt "pli-tv-bu-vb-np27:11.2"
 msgid "“Bhikkhuṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya—"
 msgstr "‘If a male or female householder is getting robe-cloth woven by weavers for an unrelated monk and, without first being invited, that monk goes to those weavers and specifies the kind of robe-cloth he wants, saying,"
 
+#. VAR: viyyati → vīyati (s1-3)
 msgctxt "pli-tv-bu-vb-np27:11.3"
 msgid "‘idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati."
 msgstr "‘Sirs, this robe-cloth that you are weaving for me,"

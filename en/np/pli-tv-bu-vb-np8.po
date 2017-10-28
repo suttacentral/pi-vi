@@ -102,6 +102,7 @@ msgid "“saccaṃ kira maṃ tvaṃ, āvuso, cīvarena acchādetukāmosī”ti?
 msgstr "“Is it true that you desire to give me a robe?”"
 
 #. </p><p>
+#. VAR: meyya → mayya (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np8:7.4"
 msgid "“Api meyya, evaṃ hoti—"
 msgstr "“Indeed,"
@@ -158,6 +159,7 @@ msgctxt "pli-tv-bu-vb-np8:9.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ upanandaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "After criticizing him in many ways, they informed the Master …"
 
+#. VAR: gahapatikaṃ → gahapatiṃ (bj)
 msgctxt "pli-tv-bu-vb-np8:9.2"
 msgid "“saccaṃ kira tvaṃ, upananda, pubbe appavārito gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpajjasī”ti?"
 msgstr "“Is it true, Upananda, that you acted in this way?”"
@@ -201,6 +203,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2019"></a>
 #. <strong class="rule"> 
+#. VAR: cīvaracetāpannaṃ → cīvara­ce­tāpanaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np8:10.2"
 msgid "“Bhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti—"
 msgstr "‘If a male or female householder has set aside a robe fund for an unrelated monk, thinking,"
@@ -423,6 +426,7 @@ msgid "Kalyāṇakamyataṃ upādāyāti"
 msgstr "Because he wants something nice:"
 
 #. </strong><span class="gloss"> 
+#. VAR: sādhatthiko → sādhutthiko (s1-3)
 msgctxt "pli-tv-bu-vb-np8:27.2"
 msgid "sādhatthiko mahagghatthiko."
 msgstr "wanting something nice, wanting something expensive."

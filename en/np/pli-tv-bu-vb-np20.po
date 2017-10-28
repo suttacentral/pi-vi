@@ -127,6 +127,7 @@ msgid "soyeva te paṭo varo”ti."
 msgstr "That robe of yours was better.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2239"></a> 
+#. VAR: saṅghāṭi → saṅghāṭiṃ (s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-np20:7.1"
 msgid "Atha kho so paribbājako—“saccaṃ kho paribbājakā āhaṃsu—‘katihipi myāyaṃ saṅghāṭi bhavissati. Soyeva me paṭo varo’”ti"
 msgstr "The wanderer realized they were right,"

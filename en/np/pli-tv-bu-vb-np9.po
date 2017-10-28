@@ -54,6 +54,7 @@ msgctxt "pli-tv-bu-vb-np9:6.3"
 msgid "Tena kho pana samayena aññataro puriso aññataraṃ purisaṃ etadavoca—"
 msgstr "At that time a certain man said to another man,"
 
+#. VAR: ayyaṃ → ahaṃ ayyaṃ (bj, pts1)
 msgctxt "pli-tv-bu-vb-np9:6.4"
 msgid "“ayyaṃ upanandaṃ cīvarena acchādessāmī”ti."
 msgstr "“I“ll give a robe to Venerable Upananda.”"
@@ -217,6 +218,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2045"></a>
 #. <strong class="rule"> 
+#. VAR: paccekacīvaracetāpannāni upakkhaṭāni → … cetāpannā upakkhaṭā (bj) | … cetāpanā upakkhaṭā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np9:10.2"
 msgid "“Bhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti—"
 msgstr "‘If two male or female householders have set aside separate robe funds for an unrelated monk, thinking,"

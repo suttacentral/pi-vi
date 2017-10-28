@@ -74,6 +74,7 @@ msgctxt "pli-tv-bu-vb-np11:6.8"
 msgid "‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṃ santhataṃ kātun’ti."
 msgstr "such a thing?"
 
+#. VAR: pāṇe → pāṇake (bj)
 msgctxt "pli-tv-bu-vb-np11:6.9"
 msgid "Amhākampi alābhā, amhākampi dulladdhaṃ, ye mayaṃ ājīvassa hetu puttadārassa kāraṇā bahū khuddake pāṇe saṅghātaṃ āpādemā”ti."
 msgstr "It’s our misfortune that we must cause the death of many small creatures because of our livelihood and because of our wives and children.”"

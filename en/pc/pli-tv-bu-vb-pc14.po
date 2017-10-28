@@ -126,6 +126,7 @@ msgid "Disvāna etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā
 msgstr "and after giving a teaching, he addressed the monks,"
 
 #. <strong class="rule"> 
+#. VAR: aṭṭha māse avassikasaṅkete → vasituṃ avassi­ka­saṃ­kete (itipi)
 msgctxt "pli-tv-bu-vb-pc14:10.5"
 msgid "“anujānāmi, bhikkhave, aṭṭha māse avassikasaṅkete maṇḍape vā rukkhamūle vā yattha kākā vā kulalā vā na ūhadanti tattha senāsanaṃ nikkhipitun”ti."
 msgstr "“Monks, during the eight months outside of the rainy season, I allow you  to store furniture under a roof-cover or at the foot of a tree or wherever crows or ravens donʼt leave droppings.”"

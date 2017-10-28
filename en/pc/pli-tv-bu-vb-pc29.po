@@ -98,6 +98,7 @@ msgctxt "pli-tv-bu-vb-pc29:7.1"
 msgid "“Ke pana te, ayye, mahānāgā”ti?"
 msgstr "“Who are these great monks?”"
 
+#. VAR: kaṭamodakatissako → kaṭa­moraka­tissako (bj, pts1) | kata­moraka­tissako (s1-3)
 msgctxt "pli-tv-bu-vb-pc29:7.2"
 msgid "“Ayyo devadatto ayyo kokāliko ayyo kaṭamodakatissako ayyo khaṇḍadeviyā putto ayyo samuddadatto”ti."
 msgstr "“Venerable Devadatta, Venerable Kokālika, Venerable Kaṭamodakatissaka, Venerable Khaṇḍadeviyā-putta, and Venerable Samuddadatta.”"
@@ -241,8 +242,9 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="636"></a>
-#. VAR: gihisamārambhā → gihīsamārambhā (bj)
 #. <strong class="rule"> 
+#. VAR: gihisamārambhā → gihīsamārambhā (bj)
+#. VAR: bhikkhuniparipācitaṃ → bhikkhunī … (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc29:13.2"
 msgid "“Yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya, aññatra pubbe gihisamārambhā, pācittiyan”ti."
 msgstr "‘If a monk eats almsfood knowing that a nun got it prepared, unless the lay person had already intended to prepare it, he commits an offense entailing confession.’”"

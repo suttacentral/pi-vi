@@ -263,6 +263,7 @@ msgid "Acchindeyyāti"
 msgstr "Takes […] back:"
 
 #. </strong><span class="gloss"> 
+#. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np25:14.2"
 msgid "sayaṃ acchindati, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he takes it back himself, he commits an offense entailing relinquishment and confession."

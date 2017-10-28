@@ -375,6 +375,7 @@ msgctxt "pli-tv-bu-vb-np10:12.16"
 msgid "upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessatī’ti,"
 msgstr "please approach him at the right time and he will give you a robe,’"
 
+#. VAR: dvattikkhattuṃ → dvittikkhattuṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np10:12.17"
 msgid "cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo—"
 msgstr "then, if that monk needs a robe, he should approach that service-provider and prompt him and remind him two or three times, saying,"
@@ -387,14 +388,17 @@ msgctxt "pli-tv-bu-vb-np10:12.19"
 msgid "Dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ;"
 msgstr "If he then gets a robe, that is good."
 
+#. VAR: chakkhattuparamaṃ → chakkhattuṃ paramaṃ (bj)
 msgctxt "pli-tv-bu-vb-np10:12.20"
 msgid "no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ."
 msgstr "If he does not get it, he should stand in silence for it at most six times."
 
+#. VAR: kusalaṃ; tato → kusalaṃ no ce abhi­nip­phā­deyya tato (syā2, syā3)
 msgctxt "pli-tv-bu-vb-np10:12.21"
 msgid "Catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ;"
 msgstr "If he then gets a robe, that is good."
 
+#. VAR: uttari → uttariṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np10:12.22"
 msgid "tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he makes any further effort and then gets a robe, he commits an offense entailing relinquishment and confession."

@@ -77,6 +77,7 @@ msgctxt "pli-tv-bu-vb-pc23:6.8"
 msgid "Bhikkhuniyo ujjhāyanti khiyyanti vipācenti—"
 msgstr "The nuns complained and criticized the monks from the group of six,"
 
+#. VAR: chabbaggiyā bhikkhū bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadissantī”ti → chabbaggiyā bhikkhuniyo ovādaṃ na gacchissantīti (bj) | chabbaggiyā bhikkhū ­bhik­khu­nū­passa­yaṃ upasaṅkamitvā bhikkhuniyo ovadantīti (s1-3)
 msgctxt "pli-tv-bu-vb-pc23:6.9"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadissantī”ti."
 msgstr "“How can the monks from the group of six go and instruct the nuns at their dwelling place?”"
@@ -238,6 +239,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.57"></a><a class="wt-pa" id="536"></a>
 #. <strong class="rule"> 
+#. VAR: bhikkhunupassayaṃ → bhik­khu­nū­passa­yaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc23:11.2"
 msgid "“Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk goes to the nuns’ dwelling place and then instructs them, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -450,6 +452,7 @@ msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. </p><hr><p class="endsutta"><a class="sc" id="17"></a><a class="wt-pa" id="547"></a> 
+#. VAR: Bhikkhunupassayasikkhāpadaṃ → bhik­khu­nū­passa­ya­sikkhā­padaṃ (bj)
 msgctxt "pli-tv-bu-vb-pc23:22.1"
 msgid "Bhikkhunupassayasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ."
 msgstr "The third rule, the training rule on nuns’ dwelling places, is finished."

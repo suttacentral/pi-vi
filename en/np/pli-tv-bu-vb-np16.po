@@ -153,6 +153,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="2178"></a>
 #. <strong class="rule"> 
+#. VAR: addhānamaggappaṭipannassa → … magga­paṭi­pannassa (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np16:8.2"
 msgid "“Bhikkhuno paneva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ."
 msgstr "‘If wool becomes available to a monk who is traveling, he may receive it if he wishes."
@@ -162,10 +163,12 @@ msgid "Ākaṅkhamānena bhikkhunā paṭiggahetabbāni."
 msgstr "If he receives it"
 
 #. <span class="note" hidden>Three <i lang="pli">yojanas</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or approximately 13 kilometers (see ACMC, p.16). Thus 3 <i lang="pli">yojanas</i> is close to 40 km, which seems like a suitably round number given the uncertainty in the estimate.</span> 
+#. VAR: haritabbāni → hāretabbāni (si, s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-np16:8.4"
 msgid "Paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni, asante hārake."
 msgstr "and there is no one else to carry it, he may carry it himself for at most 40 kilometers."
 
+#. VAR: uttari → uttariṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np16:8.5"
 msgid "Tato ce uttari hareyya, asantepi hārake, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he carries it further than that, even if there is no one else to carry it, he commits an offense entailing relinquishment and confession.’”"
@@ -247,10 +250,12 @@ msgid "paṭhamaṃ pādaṃ tiyojanaṃ atikkāmeti, āpatti dukkaṭassa."
 msgstr "when he goes beyond 40 kilometers with the first foot, he commits an offense of wrong conduct."
 
 #. <a class="pts-vp-en" id="bd.2.92"></a> 
+#. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyāni honti (s1-3)
 msgctxt "pli-tv-bu-vb-np16:14.3"
 msgid "Dutiyaṃ pādaṃ atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "When he goes beyond with the second foot, he commits an offense entailing relinquishment and confession."
 
+#. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyāni honti (s1-3)
 msgctxt "pli-tv-bu-vb-np16:14.4"
 msgid "Antotiyojane ṭhito bahitiyojanaṃ pāteti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he stands within the 40 kilometer limit, but drops it beyond the 40 kilometer limit, he commits an offense entailing relinquishment and confession."
@@ -301,14 +306,17 @@ msgid ""
 msgstr "Permutations"
 
 #. </h2><p><a class="sc" id="10"></a><a class="wt-pa" id="2185"></a> 
+#. VAR: atirekasaññī atikkāmeti → tiyojanaṃ atikkāmeti (s1-3)
 msgctxt "pli-tv-bu-vb-np16:15.2"
 msgid "Atirekatiyojane atirekasaññī atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he takes it more than 40 kilometers and he perceives it as more, he commits an offense entailing relinquishment and confession."
 
+#. VAR: vematiko atikkāmeti → tiyojanaṃ atikkāmeti (s1-3)
 msgctxt "pli-tv-bu-vb-np16:15.3"
 msgid "Atirekatiyojane vematiko atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he takes it more than 40 kilometers, but he is unsure if he has, he commits an offense entailing relinquishment and confession."
 
+#. VAR: ūnakasaññī atikkāmeti → tiyojanaṃ atikkāmeti (s1-3)
 msgctxt "pli-tv-bu-vb-np16:15.4"
 msgid "Atirekatiyojane ūnakasaññī atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If he takes it more than 40 kilometers, but he perceives it as less, he commits an offense entailing relinquishment and confession."

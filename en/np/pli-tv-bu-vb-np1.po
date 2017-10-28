@@ -27,6 +27,7 @@ msgid "Nissaggiyakaṇḍa"
 msgstr "The chapter on relinquishment"
 
 #. </p><p>
+#. VAR: Cīvaravagga → kathinavagga (^pi-tv-pvr1.1#82 [Kattha­paññat­ti­vāra/4. Kathinavagga] ^pi-tv-pvr1.2#20 [Katāpattivāra/4. Kathinavagga])
 msgctxt "pli-tv-bu-vb-np1:4.1"
 msgid "Cīvaravagga"
 msgstr ""
@@ -211,6 +212,7 @@ msgstr "Final ruling"
 #. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="1867"></a><a class="pts-vp-en" id="bd.2.5"></a>
 #. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> below it also refers to pieces of robe-cloth. This means that I have to vary my translation depending on the context. Sometimes, such as here, the meaning is both robe and robe-cloth, and I then render it as robe(-cloth).</span>
 #. <strong class="rule"> 
+#. VAR: kathine → kaṭhine (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np1:12.2"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ."
 msgstr "‘When his robe is finished and the robe-making season has ended, a monk should keep an extra robe(-cloth) for ten days at the most."
@@ -260,6 +262,7 @@ msgid "Dasāhaparamanti"
 msgstr "For ten days at the most:"
 
 #. </strong><span class="gloss"> 
+#. VAR: dasāhaparamatā → dasāha­parama­tāya (si)
 msgctxt "pli-tv-bu-vb-np1:15.2"
 msgid "dasāhaparamatā dhāretabbaṃ."
 msgstr "it should be kept for ten days at a maximum."
@@ -333,6 +336,7 @@ msgctxt "pli-tv-bu-vb-np1:18.9"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
 msgstr "The acknowledgment should be received by a competent and capable monk."
 
+#. VAR: dātabbaṃ → hotīti idaṃ padaṃ sabba­pottha­kesu atthi, sikkhāpade pana natthi,
 msgctxt "pli-tv-bu-vb-np1:18.10"
 msgid "Nissaṭṭhacīvaraṃ dātabbaṃ—"
 msgstr "The relinquished robe(-cloth) is then to be given back:"
@@ -520,6 +524,7 @@ msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They informed the Master."
 
 #. <a class="pts-vp-en" id="bd.2.11"></a><strong class="rule"> 
+#. VAR: () → () s1-3 potthakesu
 msgctxt "pli-tv-bu-vb-np1:26.3"
 msgid "() “Na, bhikkhave, nissaṭṭhacīvaraṃ na dātabbaṃ."
 msgstr "“Monks, relinquished robe(-cloth) should be given back."

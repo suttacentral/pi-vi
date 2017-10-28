@@ -706,6 +706,7 @@ msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. </p><hr><p class="endsutta"><a class="sc" id="28"></a><a class="wt-pa" id="wt-pa28"></a> 
+#. Musāvādasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ → paṭha­ma­sikkhā­padaṃ niṭṭhitaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-pc1:33.1"
 msgid "Musāvādasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on lying, is finished."

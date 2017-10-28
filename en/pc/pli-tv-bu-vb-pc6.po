@@ -443,6 +443,7 @@ msgctxt "pli-tv-bu-vb-pc6:19.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
+#. VAR: sabbaaparicchanne, sabbaparicchanne sabbaacchanne → anāpatti sabbaacchanne sabba­apa­ricchanne (bj)
 msgctxt "pli-tv-bu-vb-pc6:19.3"
 msgid "sabbacchanne sabbaaparicchanne,"
 msgstr "if it is fully roofed, but not walled;"

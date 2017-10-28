@@ -127,6 +127,7 @@ msgstr "Final ruling"
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa460"></a><a class="pts-vp-en" id="BD.2.258"></a>
 #. <span class="note" hidden><i lang="pli">Dvatticchadanassa pariyāyaṃ […] adhiṭṭhātabbaṃ,</i> “a succession of two or three coverings may be applied.”</span>
 #. <strong class="rule">
+#. VAR: aggaḷaṭṭhapanāya → aggalaṭ­ṭhapa­nāya (bj, s1, s3)
 #. VAR: appaharite → apaharite (s2)
 msgctxt "pli-tv-bu-vb-pc19:9.2"
 msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ."
@@ -189,6 +190,7 @@ msgctxt "pli-tv-bu-vb-pc19:13.1"
 msgid "Yāva dvārakosāti"
 msgstr "As far as the door frame:"
 
+#. VAR: piṭṭhasaṅghāṭassa → pīṭha­saṃ­ghāṭassa (itipi) | piṭṭhi­saṅghā­ṭassa (s1-3)
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:13.2"
 msgid "piṭṭhasaṅghāṭassa samantā hatthapāsā."

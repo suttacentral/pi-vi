@@ -174,6 +174,7 @@ msgid "“Kīvaciraṃ nu kho, bhaṇe, ito hi taṃ hotī”ti?"
 msgstr "“How long is it since we made that promise?”"
 
 #. </p><p>
+#. VAR: gaṇetvā → vigaṇetvā (bj, pts1, mr)
 msgctxt "pli-tv-bu-vb-np23:7.16"
 msgid "Atha kho so mahāmatto rattiyo gaṇetvā rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ etadavoca—"
 msgstr "The minister counted the days and said,"
@@ -193,6 +194,7 @@ msgid "“Evaṃ, devā”ti"
 msgstr "“Yes, sir.”"
 
 #. </p><p><a class="pts-vp-en" id="bd.2.128"></a> 
+#. VAR: pādāsi → adāsi (s1-3)
 msgctxt "pli-tv-bu-vb-np23:7.20"
 msgid "kho so mahāmatto rañño māgadhassa seniyassa bimbisārassa paṭissuṇitvā āyasmato pilindavacchassa pañca ārāmikasatāni pādāsi, pāṭiyekko gāmo nivisi."
 msgstr "The minister provided Pilindavaccha with five hundred monastery workers, and a separate village was established."
@@ -397,6 +399,7 @@ msgctxt "pli-tv-bu-vb-np23:10.1"
 msgid "Manussā—"
 msgstr "People were saying,"
 
+#. VAR: uttarimanussadhammaṃ → uttari­manus­sa­dhammā (bj)
 msgctxt "pli-tv-bu-vb-np23:10.2"
 msgid "“ayyena kira pilindavacchena sarājikāya parisāya uttarimanussadhammaṃ iddhipāṭihāriyaṃ dassitan”ti,"
 msgstr "“It seems Venerable Pilindavaccha has shown a superhuman ability, a wonder of supernormal power, to the king and his court!”"
@@ -534,6 +537,7 @@ msgid "sappi nāma"
 msgstr "Ghee:"
 
 #. </strong><a class="pts-vp-en" id="bd.2.132"></a><span class="gloss"> 
+#. VAR: mahiṃsasappi → mahisasappi (bj, s1-3) | mahisaṃ vā sappi (pts1)
 msgctxt "pli-tv-bu-vb-np23:14.4"
 msgid "gosappi vā ajikāsappi vā mahiṃsasappi vā yesaṃ maṃsaṃ kappati tesaṃ sappi."
 msgstr "ghee from cows, ghee from goats, ghee from buffaloes, or ghee from whatever animal whose meat is allowable."

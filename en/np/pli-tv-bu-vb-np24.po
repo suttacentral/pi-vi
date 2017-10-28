@@ -58,6 +58,7 @@ msgctxt "pli-tv-bu-vb-np24:6.4"
 msgid "Chabbaggiyā bhikkhū—“bhagavatā vassikasāṭikā anuññātā”ti,"
 msgstr "Knowing that this was the case, monks from the group of six"
 
+#. VAR: paṭikacceva → paṭigacceva (bj, pts1)
 msgctxt "pli-tv-bu-vb-np24:6.5"
 msgid "paṭikacceva vassikasāṭikacīvaraṃ pariyesanti,"
 msgstr "went looking for cloth for their rainy-season robes early."
@@ -133,10 +134,12 @@ msgctxt "pli-tv-bu-vb-np24:8.2"
 msgid "“‘Māso seso gimhānan’ti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ;"
 msgstr "‘When there is a month left of the hot season, a monk may go looking for cloth for his rainy-season robe."
 
+#. VAR: addhamāso → aḍdhamāso (s1-3)
 msgctxt "pli-tv-bu-vb-np24:8.3"
 msgid "‘addhamāso seso gimhānan’ti katvā nivāsetabbaṃ."
 msgstr "When there is a half-month left, he may sew it and then wear it."
 
+#. VAR: orenaddhamāso → orenaḍdhamāso (s1-3)
 msgctxt "pli-tv-bu-vb-np24:8.4"
 msgid "‘Orena ce māso seso gimhānan’ti vassikasāṭikacīvaraṃ pariyeseyya, ‘orenaddhamāso seso gimhānan’ti katvā nivāseyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he goes looking for cloth for his rainy-season robe when there is more than a month left of the hot season, or if he sews it and then wears it when there is more than a half-month left, he commits an offense entailing relinquishment and confession.’”"

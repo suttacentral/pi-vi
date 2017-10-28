@@ -275,6 +275,7 @@ msgctxt "pli-tv-bu-vb-np22:14.2"
 msgid "“Yo pana bhikkhu ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
 msgstr "‘If a monk gets a new bowl in exchange for a bowl with less than five mends, he commits an offense entailing relinquishment and confession."
 
+#. VAR: so → so ca (s1-3)
 msgctxt "pli-tv-bu-vb-np22:14.3"
 msgid "Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo."
 msgstr "That monk should relinquish that bowl to an assembly of monks."
@@ -284,6 +285,7 @@ msgctxt "pli-tv-bu-vb-np22:14.4"
 msgid "Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo—"
 msgstr "He should then be given the last bowl belonging to that assembly:"
 
+#. VAR: ayaṃ te → ayante (s1-3)
 msgctxt "pli-tv-bu-vb-np22:14.5"
 msgid "‘ayaṃ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti."
 msgstr "‘Monk, this bowl is yours; keep it until it breaks.’"
