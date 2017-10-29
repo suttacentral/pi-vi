@@ -222,7 +222,7 @@ msgctxt "pli-tv-bu-vb-pc25:12.3"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <span class="rule"> 
+#. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-pc25:12.4"
 msgid "“anujānāmi, bhikkhave, pañcannaṃ pārivattakaṃ dātuṃ."
 msgstr "“Monks, if it is part of an exchange, I allow you to give things to five groups of people:"
@@ -235,7 +235,7 @@ msgctxt "pli-tv-bu-vb-pc25:12.6"
 msgid "anujānāmi, bhikkhave, imesaṃ pañcannaṃ pārivattakaṃ dātuṃ."
 msgstr ""
 
-#. </span> 
+#. </strong> 
 msgctxt "pli-tv-bu-vb-pc25:12.7"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
