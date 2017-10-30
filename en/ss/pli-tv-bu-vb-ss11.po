@@ -43,7 +43,7 @@ msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the
 
 msgctxt "pli-tv-bu-vb-ss11:5.3"
 msgid "Tena kho pana samayena devadatto saṃghabhedāya parakkamati cakkabhedāya."
-msgstr "At that time Devadatta was pursuing schism in the monastic Order, a break in transmission."
+msgstr "At that time Devadatta was pursuing schism in the Order, a break in transmission."
 
 msgctxt "pli-tv-bu-vb-ss11:5.4"
 msgid "Bhikkhū evamāhaṃsu—"
@@ -55,7 +55,7 @@ msgstr "“Devadatta doesn’t speak in accordance with the Teaching or the trai
 
 msgctxt "pli-tv-bu-vb-ss11:5.6"
 msgid "Kathañhi nāma devadatto saṃghabhedāya parakkamissati cakkabhedāyā”ti."
-msgstr "How can he pursue schism in the monastic Order?”"
+msgstr "How can he pursue schism in the Order?”"
 
 #. </p><p>
 #. VAR: kokāliko → kokāliko ca (bj)
@@ -87,12 +87,12 @@ msgstr "complained and criticized them,"
 
 msgctxt "pli-tv-bu-vb-ss11:5.13"
 msgid "“kathañhi nāma bhikkhū devadattassa saṃghabhedāya parakka­man­tassa anuvattakā bhavissanti vaggavādakā”ti."
-msgstr "“How can these monks support Devadatta’s pursuit of schism in the monastic Order?”"
+msgstr "“How can these monks support Devadatta’s pursuit of schism in the Order?”"
 
 #. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1705"></a> 
 msgctxt "pli-tv-bu-vb-ss11:6.1"
 msgid "Atha kho te bhikkhū te anuvattake bhikkhū aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "They rebuked those monks in many ways and then informed the Master. …"
+msgstr "They rebuked those monks in many ways and then told the Master. …"
 
 msgctxt "pli-tv-bu-vb-ss11:6.2"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū devadattassa saṃghabhedāya parakka­man­tassa anuvattakā honti vaggavādakā”ti?"
@@ -106,7 +106,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss11:6.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha criticized them: “…"
+msgstr "The Buddha criticized them, “…"
 
 msgctxt "pli-tv-bu-vb-ss11:6.5"
 msgid "kathañhi nāma te, bhikkhave, moghapurisā devadattassa saṃghabhedāya parakka­man­tassa anuvattakā bhavissanti vaggavādakā."
@@ -163,7 +163,7 @@ msgstr "This monk does not speak in accordance with the Teaching or the training
 #. VAR: mā­yasman­tānampi → mā āyasmantānampi (bj, s1-3) | māyasmantānaṃ pi (pts1)
 msgctxt "pli-tv-bu-vb-ss11:7.10"
 msgid "­mā­yasman­tānampi saṃghabhedo ruccittha,"
-msgstr "Don’t consent to schism in the monastic Order."
+msgstr "Don’t consent to schism in the Order."
 
 msgctxt "pli-tv-bu-vb-ss11:7.11"
 msgid "­same­tā­yasman­tānaṃ saṃghena,"
@@ -183,7 +183,7 @@ msgstr "If they then stop, that is good."
 
 msgctxt "pli-tv-bu-vb-ss11:7.15"
 msgid "no ce paṭi­nissaj­jey­yuṃ, saṃghādiseso”ti."
-msgstr "If not, they incur an offense entailing suspension.’”"
+msgstr "If not, they commit an offense entailing suspension.’”"
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-ss11:7.16"
@@ -204,7 +204,7 @@ msgstr "That:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:8.3"
 msgid "tassa saṃgha­bheda­kassa bhikkhuno."
-msgstr "that monk who is pursuing schism in the monastic Order."
+msgstr "that monk who is pursuing schism in the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa1708"></a>
@@ -311,7 +311,7 @@ msgstr "This monk does not speak in accordance with the Teaching or the training
 
 msgctxt "pli-tv-bu-vb-ss11:15.4"
 msgid "­Mā­yasman­tānampi saṃghabhedo ruccittha."
-msgstr "Don’t consent to schism in the monastic Order."
+msgstr "Don’t consent to schism in the Order."
 
 msgctxt "pli-tv-bu-vb-ss11:15.5"
 msgid "Same­tā­yasman­tānaṃ saṃghena."
@@ -360,7 +360,7 @@ msgstr "This monk does not speak in accordance with the Teaching or the training
 
 msgctxt "pli-tv-bu-vb-ss11:15.15"
 msgid "­Mā­yasman­tānampi saṃghabhedo ruccittha."
-msgstr "Don’t consent to schism in the monastic Order."
+msgstr "Don’t consent to schism in the Order."
 
 msgctxt "pli-tv-bu-vb-ss11:15.16"
 msgid "Same­tā­yasman­tānaṃ saṃghena."
@@ -410,7 +410,7 @@ msgstr "‘Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-ss11:16.2"
 msgid "Itthannāmo ca itthanāmo ca bhikkhū itthannāmassa bhikkhuno saṃghabhedāya parakka­man­tassa anuvattakā vaggavādakā."
-msgstr "Monks so-and-so and so-and-so are taking sides with and supporting monk so-and-so who is pursuing schism in the monastic Order."
+msgstr "Monks so-and-so and so-and-so are taking sides with and supporting monk so-and-so who is pursuing schism in the Order."
 
 msgctxt "pli-tv-bu-vb-ss11:16.3"
 msgid "Te taṃ vatthuṃ na paṭi­nissaj­janti."
@@ -431,7 +431,7 @@ msgstr "Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-ss11:17.2"
 msgid "Itthannāmo ca itthannāmo ca bhikkhū itthannāmassa bhikkhuno saṃghabhedāya parakka­man­tassa anuvattakā vaggavādakā."
-msgstr "Monks so-and-so and so-and-so are taking sides with and supporting monk so-and-so who is pursuing schism in the monastic Order."
+msgstr "Monks so-and-so and so-and-so are taking sides with and supporting monk so-and-so who is pursuing schism in the Order."
 
 msgctxt "pli-tv-bu-vb-ss11:17.3"
 msgid "Te taṃ vatthuṃ na paṭi­nissaj­janti."
@@ -464,7 +464,7 @@ msgstr "Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-ss11:18.4"
 msgid "Itthannāmo ca itthannāmo ca bhikkhū itthannāmassa bhikkhuno saṃghabhedāya parakka­man­tassa anuvattakā vaggavādakā."
-msgstr "Monks so-and-so and so-and-so are taking sides with and supporting monk so-and-so who is pursuing schism in the monastic Order."
+msgstr "Monks so-and-so and so-and-so are taking sides with and supporting monk so-and-so who is pursuing schism in the Order."
 
 msgctxt "pli-tv-bu-vb-ss11:18.5"
 msgid "Te taṃ vatthuṃ na paṭi­nissaj­janti."
@@ -521,7 +521,7 @@ msgstr "Two or three can be admonished together, but not more than that."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:21.1"
 msgid "Saṃghādisesoti"
-msgstr "They incur an offense entailing suspension:"
+msgstr "They commit an offense entailing suspension:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:21.2"

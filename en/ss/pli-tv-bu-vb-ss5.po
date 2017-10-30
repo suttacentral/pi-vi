@@ -44,7 +44,7 @@ msgstr "First sub-story"
 #. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.135"></a><a class="pts-vp-en" id="bd.1.229"></a><a class="pts-cs-empty" id="bu-ss.5.1"></a><a class="pts-cs" id="bu-ss.5.1.1"></a><a class="ms-pa" id="ms-pa1220"></a> 
 msgctxt "pli-tv-bu-vb-ss5:5.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
-msgstr "At one time, the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 msgctxt "pli-tv-bu-vb-ss5:5.4"
 msgid "Tena kho pana samayena āyasmā udāyī sāvatthiyaṃ kulūpako hoti."
@@ -125,7 +125,7 @@ msgstr "and for marriage."
 #. </p><p><a class="sc" id="2"></a><a class="pts-cs" id="bu-ss.5.1.2"></a><a class="ms-pa" id="ms-pa1221"></a> 
 msgctxt "pli-tv-bu-vb-ss5:6.1"
 msgid "Tena kho pana samayena aññatarissā purāṇagaṇakiyā dhītā abhirūpā hoti dassanīyā pāsādikā."
-msgstr "At this time, there was a certain former courtesan who had a beautiful daughter."
+msgstr "At that time there was a certain former courtesan who had a beautiful daughter."
 
 msgctxt "pli-tv-bu-vb-ss5:6.2"
 msgid "Tirogāmakā ājīvakasāvakā āgantvā taṃ gaṇakiṃ etadavocuṃ—"
@@ -277,7 +277,7 @@ msgstr "Come, mum, and take me home.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss5:9.6"
 msgid "Atha kho sā gaṇakī yena te ājīvakasāvakā tenupasaṅkami;"
-msgstr "Soon afterwards, the courtesan went to those Ājīvakas"
+msgstr "Soon afterwards the courtesan went to those Ājīvakas"
 
 msgctxt "pli-tv-bu-vb-ss5:9.7"
 msgid "upasaṅkamitvā te ājīvakasāvake etadavoca—"
@@ -531,7 +531,7 @@ msgstr "“How can Venerable Udāyī act as a matchmaker?”"
 #. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1233"></a> 
 msgctxt "pli-tv-bu-vb-ss5:18.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. <a class="pts-vp-en" id="bd.1.234"></a> 
 msgctxt "pli-tv-bu-vb-ss5:18.2"
@@ -590,11 +590,11 @@ msgstr "Second sub-story"
 #. VAR: aññatarissā → aññatarassā (bj)
 msgctxt "pli-tv-bu-vb-ss5:21.2"
 msgid "Tena kho pana samayena sambahulā dhuttā uyyāne paricārentā aññatarissā vesiyā santike dūtaṃ pāhesuṃ—"
-msgstr "Soon afterwards, a number of low-minded men who were amusing themselves in a pleasure grove sent a messenger to a prostitute:"
+msgstr "Soon afterwards a number of low-minded men who were amusing themselves in a park sent a messenger to a prostitute:"
 
 msgctxt "pli-tv-bu-vb-ss5:21.3"
 msgid "“āgacchatu uyyāne paricāressāmā”ti."
-msgstr "“Please come; let’s enjoy ourselves in the pleasure grove.”"
+msgstr "“Please come; let’s enjoy ourselves in the park.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss5:21.4"
@@ -667,7 +667,7 @@ msgstr "and said,"
 
 msgctxt "pli-tv-bu-vb-ss5:23.3"
 msgid "“idha mayaṃ, bhante, uyyāne paricārentā asukāya nāma vesiyā santike dūtaṃ pahiṇimhā—"
-msgstr "“Venerable, while we were enjoying ourselves in the pleasure grove, we sent a message to such-and-such a prostitute,"
+msgstr "“Venerable, while we were enjoying ourselves in the park, we sent a message to such-and-such a prostitute,"
 
 msgctxt "pli-tv-bu-vb-ss5:23.4"
 msgid "‘āgacchatu uyyāne paricāressāmā’ti."
@@ -727,7 +727,7 @@ msgstr "“If you know them, Venerable, I’ll go.”"
 
 msgctxt "pli-tv-bu-vb-ss5:24.9"
 msgid "Atha kho te dhuttā taṃ vesiṃ ādāya uyyānaṃ agamaṃsu."
-msgstr "And those men took her to the pleasure grove."
+msgstr "And those men took her to the park."
 
 #. </p><p><a class="pts-cs" id="bu-ss.5.2.2"></a> 
 msgctxt "pli-tv-bu-vb-ss5:24.10"
@@ -758,7 +758,7 @@ msgstr "“How can Venerable Udāyī act as a matchmaker for a brief affair?”"
 #. </p><p><a class="sc" id="22"></a><a class="pts-vp-pli" id="pts-vp-pli3.139"></a><a class="ms-pa" id="ms-pa1241"></a> 
 msgctxt "pli-tv-bu-vb-ss5:26.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "They rebuked Udāyī in many ways and then informed the Master. …"
+msgstr "They rebuked Udāyī in many ways and then told the Master. …"
 
 msgctxt "pli-tv-bu-vb-ss5:26.2"
 msgid "“saccaṃ kira tvaṃ, udāyi, taṅkhaṇikaṃ sañcarittaṃ samāpajjasī”ti?"
@@ -828,7 +828,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:28.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1244"></a>
@@ -3598,7 +3598,7 @@ msgstr "If he fulfills the agreement when he goes, but not when he returns, he c
 #. </p><p><a class="sc" id="188"></a><a class="ms-pa" id="ms-pa1407"></a> 
 msgctxt "pli-tv-bu-vb-ss5:192.1"
 msgid "Gacchanto visaṃvādeti, āgacchanto sampādeti, āpatti thullaccayassa."
-msgstr "If he does not fulfill the agreement when he goes, but he does when he returns, he commits a serious offense."
+msgstr "If he does not fulfil the agreement when he goes, but he does when he returns, he commits a serious offense."
 
 #. </p><p><a class="sc" id="189"></a><a class="ms-pa" id="ms-pa1408"></a> 
 msgctxt "pli-tv-bu-vb-ss5:193.1"
@@ -3622,7 +3622,7 @@ msgstr "There is no offense:"
 
 msgctxt "pli-tv-bu-vb-ss5:195.3"
 msgid "saṃghassa vā cetiyassa vā gilānassa vā karaṇīyena gacchati, ummattakassa, ādi­kammi­kas­sāti."
-msgstr "if he goes because of business for the monastic Order, for a shrine, or for one who is ill;"
+msgstr "if he goes because of business for the Order, for a shrine, or for one who is ill;"
 
 msgctxt "pli-tv-bu-vb-ss5:195.4"
 msgid "ummattakassa,"
@@ -3671,7 +3671,7 @@ msgstr "Case details"
 #. VAR: āṇāpesi → āṇāpeti (s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-ss5:199.1"
 msgid "Tena kho pana samayena aññataro puriso aññataraṃ bhikkhuṃ āṇāpesi—"
-msgstr "At one time, a man told a monk,"
+msgstr "At one time a man told a monk,"
 
 msgctxt "pli-tv-bu-vb-ss5:199.2"
 msgid "“gaccha, bhante, itthannāmaṃ itthiṃ vīmaṃsā”ti."
@@ -3705,7 +3705,7 @@ msgstr "Could it be that I’ve committed an offense entailing suspension?”"
 
 msgctxt "pli-tv-bu-vb-ss5:199.9"
 msgid "Bhagavato etamatthaṃ ārocesi—"
-msgstr "He informed the Master, and the Master said,"
+msgstr "He told the Master, and the Master said,"
 
 msgctxt "pli-tv-bu-vb-ss5:199.10"
 msgid "“Anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
@@ -3722,7 +3722,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="194"></a><a class="pts-cs" id="bu-ss.5.5.2"></a><a class="ms-pa" id="ms-pa1413"></a> 
 msgctxt "pli-tv-bu-vb-ss5:200.1"
 msgid "Tena kho pana samayena aññataro puriso aññataraṃ bhikkhuṃ āṇāpesi—"
-msgstr "At one time, a man told a monk,"
+msgstr "At one time a man told a monk,"
 
 msgctxt "pli-tv-bu-vb-ss5:200.2"
 msgid "“gaccha, bhante, itthannāmaṃ itthiṃ vīmaṃsā”ti."
@@ -3773,7 +3773,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="195"></a><a class="pts-cs" id="bu-ss.5.5.3"></a><a class="ms-pa" id="ms-pa1414"></a> 
 msgctxt "pli-tv-bu-vb-ss5:201.1"
 msgid "Tena kho pana samayena aññatarā itthī sāmikena saha bhaṇḍitvā mātugharaṃ agamāsi."
-msgstr "At one time, a woman quarreled with her husband and went to her mother’s house."
+msgstr "At one time a woman quarreled with her husband and went to her mother’s house."
 
 msgctxt "pli-tv-bu-vb-ss5:201.2"
 msgid "Kulūpako bhikkhu sammodanīyaṃ akāsi."
@@ -3804,7 +3804,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="196"></a><a class="pts-cs" id="bu-ss.5.5.4"></a><a class="pts-vp-en" id="bd.1.245"></a><a class="ms-pa" id="ms-pa1415"></a> 
 msgctxt "pli-tv-bu-vb-ss5:202.1"
 msgid "Tena kho pana samayena aññataro bhikkhu paṇḍake sañcarittaṃ samāpajji."
-msgstr "At one time, a monk acted as a mediator for sexual nonconformists."
+msgstr "At one time a monk acted as a mediator for sexual nonconformists."
 
 msgctxt "pli-tv-bu-vb-ss5:202.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"

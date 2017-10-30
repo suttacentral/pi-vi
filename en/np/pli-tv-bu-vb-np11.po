@@ -52,7 +52,7 @@ msgstr "At one time the Buddha was staying at Āḷavī at the Aggāḷava Shrin
 
 msgctxt "pli-tv-bu-vb-np11:6.3"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṃ vadanti—"
-msgstr "At that time monks from the group of six approached some silk-makers and said,"
+msgstr "At that time the monks from the group of six approached some silk-makers and said,"
 
 msgctxt "pli-tv-bu-vb-np11:6.4"
 msgid "“bahū, āvuso, kosakārake pacatha, amhākampi dassatha,"
@@ -82,7 +82,7 @@ msgstr "It’s our misfortune that we must cause the death of many small creatur
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2099"></a> 
 msgctxt "pli-tv-bu-vb-np11:7.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those silk-makers,"
+msgstr "The monks heard the complaints of those silk-makers,"
 
 msgctxt "pli-tv-bu-vb-np11:7.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -94,7 +94,7 @@ msgstr "complained and criticized those monks,"
 
 msgctxt "pli-tv-bu-vb-np11:7.4"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṃ vakkhanti—"
-msgstr "“How can those monks from the group of six approach silk-makers and say"
+msgstr "“How can the monks from the group of six approach silk-makers and say"
 
 msgctxt "pli-tv-bu-vb-np11:7.5"
 msgid "‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṃ santhataṃ kātun’”ti."
@@ -103,7 +103,7 @@ msgstr "such a thing?”"
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2100"></a> 
 msgctxt "pli-tv-bu-vb-np11:8.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing them in many ways, they informed the Master. …"
+msgstr "After criticizing them in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np11:8.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, kosiyakārake upasaṅkamitvā evaṃ vadetha—"
@@ -125,7 +125,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np11:8.6"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them:"
+msgstr "The Buddha rebuked them,"
 
 msgctxt "pli-tv-bu-vb-np11:8.7"
 msgid "kathañhi nāma tumhe, moghapurisā, kosiyakārake upasaṅkamitvā evaṃ vakkhatha—"
@@ -184,7 +184,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np11:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np11:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -210,7 +210,7 @@ msgstr "Gets made:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np11:12.2"
 msgid "ekenapi kosiyaṃsunā missitvā karoti vā kārāpeti vā, payoge dukkaṭaṃ."
-msgstr "in the effort of making a blanket that contains even one thread of silk, or in getting one made, he commits an offense of wrong conduct."
+msgstr "for the act of making a blanket that contains even one thread of silk, or in getting one made, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np11:12.3"
 msgid "Paṭilābhena nissaggiyaṃ hoti."

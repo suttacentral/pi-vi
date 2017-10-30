@@ -52,7 +52,7 @@ msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anā
 
 msgctxt "pli-tv-bu-vb-np13:6.3"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā paṭikkhittaṃ suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpetun”ti, te thokaññeva odātaṃ ante ādiyitvā tatheva suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpenti."
-msgstr "At that time, when monks from the group of six knew that the Master had prohibited getting blankets made entirely of black wool, they added just a little bit of white on the edge. In this way they got blankets made entirely of black wool."
+msgstr "At that time, when the monks from the group of six knew that the Master had prohibited getting blankets made entirely of black wool, they added just a little bit of white on the edge. In this way they got blankets made entirely of black wool."
 
 msgctxt "pli-tv-bu-vb-np13:6.4"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -64,12 +64,12 @@ msgstr "complained and criticized them,"
 
 msgctxt "pli-tv-bu-vb-np13:6.6"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū thokaññeva odātaṃ ante ādiyitvā tatheva suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpessantī”ti."
-msgstr "“How can those monks from the group of six act in this way?”"
+msgstr "“How can the monks from the group of six act like this?”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2122"></a> 
 msgctxt "pli-tv-bu-vb-np13:7.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np13:7.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, thokaññeva odātaṃ ante ādiyitvā tatheva suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpethā”ti?"
@@ -83,7 +83,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np13:7.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 msgctxt "pli-tv-bu-vb-np13:7.5"
 msgid "kathañhi nāma tumhe, moghapurisā, thokaññeva odātaṃ ante ādiyitvā tatheva suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpessatha."
@@ -198,7 +198,7 @@ msgstr "Without using two parts of entirely black wool, a third part of white, a
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:15.2"
 msgid "Anādiyitvā dve tule suddhakāḷakānaṃ eḷakalomānaṃ tulaṃ odātānaṃ tulaṃ gocariyānaṃ navaṃ santhataṃ karoti vā kārāpeti vā payoge dukkaṭaṃ,"
-msgstr "in the act of making it, or getting it made, without using two measures of entirely black wool, one measure of white, and one measure of brown, he commits an offense of wrong conduct."
+msgstr "for the act of making it, or getting it made, without using two measures of entirely black wool, one measure of white, and one measure of brown, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np13:15.3"
 msgid "paṭilābhena nissaggiyaṃ hoti."

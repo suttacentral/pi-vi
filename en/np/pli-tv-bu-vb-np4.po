@@ -69,7 +69,7 @@ msgstr "And Udāyī shared his meals with that nun."
 #. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli3.206"></a><a class="wt-pa" id="1942"></a> 
 msgctxt "pli-tv-bu-vb-np4:7.1"
 msgid "Atha kho āyasmā udāyī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena sā bhikkhunī tenupasaṅkami;"
-msgstr "After dressing one morning, Udāyī took his bowl and robe and went to her."
+msgstr "One morning Udāyī robed up, took his bowl and robe, and went to her."
 
 msgctxt "pli-tv-bu-vb-np4:7.2"
 msgid "upasaṅkamitvā tassā bhikkhuniyā purato aṅgajātaṃ vivaritvā āsane nisīdi."
@@ -142,7 +142,7 @@ msgstr "“How can Venerable Udāyī get a nun to wash a used robe?”"
 
 msgctxt "pli-tv-bu-vb-np4:7.18"
 msgid "Atha kho tā bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
-msgstr "They then informed the monks."
+msgstr "They then told the monks."
 
 msgctxt "pli-tv-bu-vb-np4:7.19"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -159,7 +159,7 @@ msgstr "“How can Venerable Udāyī get a nun to wash a used robe?”"
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="1943"></a> 
 msgctxt "pli-tv-bu-vb-np4:8.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master. …"
+msgstr "After criticizing him in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np4:8.2"
 msgid "“saccaṃ kira tvaṃ, udāyi, bhikkhuniyā purāṇacīvaraṃ dhovāpesī”ti?"
@@ -206,7 +206,7 @@ msgstr "Final ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np4:9.2"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyan”ti."
-msgstr "‘If a monk gets an unrelated nun to wash, dye, or beat a used robe, he commits an offense entailing relinquishment and confession.’”"
+msgstr "‘If a monk gets an unrelated nun to wash, dye, or beat a used robe, he commits and offense entailing relinquishment and confession.’”"
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-np4:9.3"
@@ -237,7 +237,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np4:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np4:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -263,7 +263,7 @@ msgstr "A nun:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np4:12.2"
 msgid "ubhatosaṃghe upasampannā."
-msgstr "she has been given the full ordination by both monastic Orders."
+msgstr "she has been given the full ordination by both Orders."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="1948"></a>
 #. <strong class="term"> 
@@ -291,7 +291,7 @@ msgstr "If he tells her to dye it, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np4:14.4"
 msgid "Rattaṃ nissaggiyaṃ hoti."
-msgstr "When it has been dyed, it becomes subject to relinquishment."
+msgstr "When it has been died, it becomes subject to relinquishment."
 
 msgctxt "pli-tv-bu-vb-np4:14.5"
 msgid "Ākoṭehīti āṇāpeti, āpatti dukkaṭassa."
@@ -304,7 +304,7 @@ msgstr "When she has struck it once with her hand or with an implement, it becom
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np4:14.7"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
-msgstr "The robe should be relinquished to the Order, a group, or an individual."
+msgstr "The robe should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np4:14.8"
@@ -314,7 +314,7 @@ msgstr "“And, monks, it should be relinquished in this way. …"
 #. <span class="add"> 
 msgctxt "pli-tv-bu-vb-np4:14.9"
 msgid "pe …"
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
+msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1/23-29\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span> 
 msgctxt "pli-tv-bu-vb-np4:14.10"

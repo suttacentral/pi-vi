@@ -45,7 +45,7 @@ msgstr "First sub-story"
 #. </h3><p><a class="sc" id="1"></a><a class="pts-cs-empty" id="Bu-Pj.4"></a><a class="pts-cs-empty" id="Bu-Pj.4.1"></a><a class="pts-cs" id="Bu-Pj.4.1.1"></a><a class="pts-vp-en" id="bd.1.151"></a><a class="pts-vp-pli" id="pts-vp-pli3.87"></a> <a class="ms-pa" id="ms.534"></a> 
 msgctxt "pli-tv-bu-vb-pj4:5.3"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭā­gāra­sālāyaṃ."
-msgstr "At one time, the Buddha was staying near Vesālī in the hall with the peaked roof in the Great Wood."
+msgstr "At one time the Buddha was staying near Vesālī in the hall with the peaked roof in the Great Wood."
 
 msgctxt "pli-tv-bu-vb-pj4:5.4"
 msgid "Tena kho pana samayena sambahulā sandiṭṭhā sambhattā bhikkhū vaggumudāya nadiyā tīre vassaṃ upagacchiṃsu."
@@ -79,7 +79,7 @@ msgstr "Some said,"
 
 msgctxt "pli-tv-bu-vb-pj4:6.2"
 msgid "“handa mayaṃ, āvuso, gihīnaṃ kammantaṃ adhiṭṭhema,"
-msgstr "“We could work for the householders,"
+msgstr "“We could work for the lay people,"
 
 msgctxt "pli-tv-bu-vb-pj4:6.3"
 msgid "evaṃ te amhākaṃ dātuṃ maññissanti."
@@ -100,7 +100,7 @@ msgstr "Some said,"
 
 msgctxt "pli-tv-bu-vb-pj4:7.2"
 msgid "“alaṃ, āvuso, kiṃ gihīnaṃ kammantaṃ adhiṭṭhitena."
-msgstr "“There’s no need to work for the householders."
+msgstr "“There’s no need to work for the lay people."
 
 #. <a class="pts-vp-en" id="bd.1.152"></a> 
 msgctxt "pli-tv-bu-vb-pj4:7.3"
@@ -126,7 +126,7 @@ msgstr "Some said,"
 
 msgctxt "pli-tv-bu-vb-pj4:8.2"
 msgid "“alaṃ, āvuso, kiṃ gihīnaṃ kammantaṃ adhiṭṭhitena."
-msgstr "“There’s no need to work for the householders,"
+msgstr "“There’s no need to work for the lay people,"
 
 msgctxt "pli-tv-bu-vb-pj4:8.3"
 msgid "Kiṃ gihīnaṃ dūteyyaṃ haṭena."
@@ -135,7 +135,7 @@ msgstr "nor to take messages for them."
 #. VAR: bhāsissāma → bhāsāma (bj)
 msgctxt "pli-tv-bu-vb-pj4:8.4"
 msgid "Handa mayaṃ, āvuso, gihīnaṃ aññamaññassa uttari­manus­sa­dhammassa vaṇṇaṃ bhāsissāma—"
-msgstr "Let’s instead praise one another’s super-human qualities to the householders:"
+msgstr "Let’s instead praise one another’s superhuman qualities to the lay people:"
 
 msgctxt "pli-tv-bu-vb-pj4:8.5"
 msgid "‘asuko bhikkhu paṭhamassa jhānassa lābhī,"
@@ -175,7 +175,7 @@ msgstr "such a monk has the three true insights,"
 
 msgctxt "pli-tv-bu-vb-pj4:8.14"
 msgid "asuko bhikkhu chaḷabhiñño’ti."
-msgstr "and such the six higher knowledges.’"
+msgstr "and such the six direct knowledges.’"
 
 msgctxt "pli-tv-bu-vb-pj4:8.15"
 msgid "Evaṃ te amhākaṃ dātuṃ maññissanti."
@@ -192,12 +192,12 @@ msgstr "and have no problems getting almsfood."
 
 msgctxt "pli-tv-bu-vb-pj4:8.18"
 msgid "“Esoyeva kho, āvuso, seyyo yo amhākaṃ gihīnaṃ aññamaññassa uttari­manus­sa­dhammassa vaṇṇo bhāsito”ti."
-msgstr "Indeed, this is the better way, that we praise one another’s super-human qualities to the householders.”"
+msgstr "Indeed, this is the better way, that we praise one another’s superhuman qualities to the lay people.”"
 
 #. </p><p><a class="sc" id="5"></a><a class="ms-pa" id="ms.538"></a> 
 msgctxt "pli-tv-bu-vb-pj4:9.1"
 msgid "Atha kho te bhikkhū gihīnaṃ aññamaññassa uttari­manus­sa­dhammassa vaṇṇaṃ bhāsiṃsu—"
-msgstr "Then those monks praised one another’s super-human qualities to the householders:"
+msgstr "Then those monks praised one another’s superhuman qualities to the lay people:"
 
 msgctxt "pli-tv-bu-vb-pj4:9.2"
 msgid "“asuko bhikkhu paṭhamassa jhānassa lābhī … pe …"
@@ -205,7 +205,7 @@ msgstr "“Such a monk has the first absorption …"
 
 msgctxt "pli-tv-bu-vb-pj4:9.3"
 msgid "asuko bhikkhu chaḷabhiñño”ti."
-msgstr "such a monk has the six higher knowledges.”"
+msgstr "such a monk has the six direct knowledges.”"
 
 msgctxt "pli-tv-bu-vb-pj4:9.4"
 msgid "Atha kho te manussā—"
@@ -240,7 +240,7 @@ msgstr "Now it was the custom for monks who had finished keeping the rains resid
 
 msgctxt "pli-tv-bu-vb-pj4:10.2"
 msgid "Atha kho te bhikkhū vassaṃvuṭṭhā temāsaccayena senāsanaṃ saṃsāmetvā pattacīvaraṃ ādāya yena vesālī tena pakkamiṃsu."
-msgstr "So when the rainy-season residence was completed and the three months had elapsed, those monks put their lodgings in order, took their bowls and robes, and departed for Vesālī."
+msgstr "So when the rainy-season residence was completed and the three months had elapsed, those monks put their dwellings in order, took their bowls and robes, and departed for Vesālī."
 
 msgctxt "pli-tv-bu-vb-pj4:10.3"
 msgid "Anupubbena yena vesālī mahāvanaṃ kūṭāgārasālā yena bhagavā tenu­pasaṅka­miṃsu;"
@@ -261,7 +261,7 @@ msgstr "But the monks from the banks of the Vaggumudā were handsome, with round
 
 msgctxt "pli-tv-bu-vb-pj4:11.3"
 msgid "Āciṇṇaṃ kho panetaṃ buddhānaṃ bhagavantānaṃ āgantukehi bhikkhūhi saddhiṃ paṭisammodituṃ."
-msgstr "It is the custom for Buddhas to greet visiting monks,"
+msgstr "It is the custom for Buddhas to greet newly arrived monks,"
 
 msgctxt "pli-tv-bu-vb-pj4:11.4"
 msgid "Atha kho bhagavā vaggu­mudā­tīriye bhikkhū etadavoca—"
@@ -313,12 +313,12 @@ msgstr "“In what way, monks, did you spend the rains at ease, without having a
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:12.3"
 msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
-msgstr "Then those monks informed the Master."
+msgstr "Then those monks told the Master."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:12.4"
 msgid "“Kacci pana vo, bhikkhave, bhūtan”ti?"
-msgstr "“But had you really achieved those super-human qualities?”"
+msgstr "“But had you really achieved those superhuman qualities?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:12.5"
@@ -328,7 +328,7 @@ msgstr "“No, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:12.6"
 msgid "Vigarahi buddho bhagavā—"
-msgstr "The Buddha rebuked them:"
+msgstr "The Buddha rebuked them,"
 
 #. <a class="pts-vp-en" id="bd.1.155"></a> 
 msgctxt "pli-tv-bu-vb-pj4:12.7"
@@ -337,12 +337,12 @@ msgstr "“It’s unsuitable, foolish men, it’s not proper, it’s not fitting
 
 msgctxt "pli-tv-bu-vb-pj4:12.8"
 msgid "Kathañhi nāma tumhe, moghapurisā, udarassa kāraṇā gihīnaṃ aññamaññassa uttari­manus­sa­dhammassa vaṇṇaṃ bhāsissatha."
-msgstr "How can you for the sake of your stomachs praise one another’s super-human qualities to householders?"
+msgstr "How can you for the sake of your stomachs praise one another’s superhuman qualities to lay people?"
 
 #. VAR: govikantanena → govikattanena (bj, pts1, mr) | govikatthanena (si)
 msgctxt "pli-tv-bu-vb-pj4:12.9"
 msgid "Varaṃ tumhehi, moghapurisā, tiṇhena govikantanena kucchi parikanto, na tveva udarassa kāraṇā gihīnaṃ aññamaññassa uttari­manus­sa­dhammassa vaṇṇo bhāsito."
-msgstr "It would be better for your bellies to be cut open with a sharp butcher’s knife than for you to praise one another’s super-human qualities to householders."
+msgstr "It would be better for your bellies to be cut open with a sharp butcher’s knife than for you to praise one another’s superhuman qualities to lay people."
 
 msgctxt "pli-tv-bu-vb-pj4:12.10"
 msgid "Taṃ kissa hetu?"
@@ -408,11 +408,11 @@ msgstr "Just so, monks, a bad monk thinks like this:"
 #. <a class="pts-vp-en" id="bd.1.156"></a> 
 msgctxt "pli-tv-bu-vb-pj4:13.10"
 msgid "‘kudāssu nāmāhaṃ satena vā sahassena vā parivuto gāmani­gama­rāja­dhānīsu cārikaṃ carissāmi sakkato garukato mānito pūjito apacito gahaṭ­ṭhā­nañ­ceva pabbajitānañca,"
-msgstr "‘Oh when will I, with a following of a hundred or a thousand people, go wandering among villages, towns, and royal capitals; be honored, respected, and revered by both householders and those gone forth;"
+msgstr "‘Oh when will I, with a following of a hundred or a thousand people, go wandering among villages, towns, and royal capitals; be honored, respected, and revered by both lay people and those gone forth;"
 
 msgctxt "pli-tv-bu-vb-pj4:13.11"
 msgid "lābhī cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rā­nan’ti."
-msgstr "and obtain robes, almsfood, lodging, and medicines?’"
+msgstr "and obtain robe-cloth, almsfood, dwellings, and medicines?’"
 
 #. <a class="pts-vp-pli" id="pts-vp-pli3.90"></a> 
 msgctxt "pli-tv-bu-vb-pj4:13.12"
@@ -456,7 +456,7 @@ msgstr ""
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms.545"></a> 
 msgctxt "pli-tv-bu-vb-pj4:16.1"
 msgid "Puna caparaṃ, bhikkhave, idhekacco pāpabhikkhu yāni tāni saṃghassa garubhaṇḍāni garu­parik­khā­rāni, seyyathidaṃ—"
-msgstr "Again, a bad monk takes valuable goods and equipment belonging to the monastic Order—"
+msgstr "Again, a bad monk takes valuable goods and equipment belonging to the Order—"
 
 #. <span class="note" hidden>I have rendered <i lang="pli">muñja</i>-reed and <i lang="pli">pabbaja</i>-reed with the single word “reed.” I am not aware that these two types of reed can be distinguished in English.</span>
 #. VAR: bibbohanaṃ → bimbohanaṃ (bj, s1-3, pts1)
@@ -467,7 +467,7 @@ msgstr "a monastery, the land of a monastery, a dwelling, the land of a dwelling
 
 msgctxt "pli-tv-bu-vb-pj4:16.3"
 msgid "tehi gihiṃ saṅgaṇhāti upalāpeti."
-msgstr "and uses them to win over and create a following among householders."
+msgstr "and uses them to win over and create a following among lay people."
 
 msgctxt "pli-tv-bu-vb-pj4:16.4"
 msgid "Ayaṃ, bhikkhave, catuttho mahācoro santo saṃvijjamāno lokasmiṃ."
@@ -480,7 +480,7 @@ msgstr ""
 #. </p><p><a class="sc" id="13"></a><a class="pts-vp-en" id="bd.1.157"></a><a class="ms-pa" id="ms.546"></a> 
 msgctxt "pli-tv-bu-vb-pj4:17.1"
 msgid "Sadevake, bhikkhave, loke samārake sabrahmake ­sassama­ṇab­rāhma­ṇiyā pajāya sade­va­manus­sāya ayaṃ aggo mahācoro yo asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapati."
-msgstr "But in this world with its gods, its lords of death, and its supreme beings, in this population with its ascetics and brahmins, its gods and humans, this is the greatest gangster: he who untruthfully and groundlessly boasts about a super-human quality."
+msgstr "But in this world with its gods, its lords of death, and its supreme beings, in this population with its ascetics and brahmins, its gods and humans, this is the greatest gangster: he who untruthfully and groundlessly boasts about a superhuman quality."
 
 msgctxt "pli-tv-bu-vb-pj4:17.2"
 msgid "Taṃ kissa hetu?"
@@ -573,7 +573,7 @@ msgstr "Preliminary ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-pj4:22.2"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
-msgstr "‘If a monk falsely claims for himself a super-human quality, knowledge and vision worthy of the noble ones, saying,"
+msgstr "‘If a monk falsely claims for himself a superhuman quality, knowledge and vision worthy of the noble ones, saying,"
 
 msgctxt "pli-tv-bu-vb-pj4:22.3"
 msgid "‘iti jānāmi iti passāmī’ti,"
@@ -598,7 +598,7 @@ msgstr "what I said was empty and false,”"
 
 msgctxt "pli-tv-bu-vb-pj4:22.8"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "he too is expelled and not in communion.’”"
+msgstr "he too is expelled and excluded from the community.’”"
 
 #. </strong>
 #. </p><p class="endsection"><a class="sc" id="19"></a><a class="ms-pa" id="ms.552"></a> 
@@ -638,11 +638,11 @@ msgstr "Could it be that we’ve committed an offense entailing expulsion?”"
 
 msgctxt "pli-tv-bu-vb-pj4:24.8"
 msgid "Te āyasmato ānandassa etamatthaṃ ārocesuṃ."
-msgstr "They informed Venerable Ānanda,"
+msgstr "They told Venerable Ānanda,"
 
 msgctxt "pli-tv-bu-vb-pj4:24.9"
 msgid "Āyasmā ānando bhagavato etamatthaṃ ārocesi."
-msgstr "who informed the Master."
+msgstr "who told the Master."
 
 #. <a class="pts-vp-en" id="bd.1.159"></a> 
 #. VAR: ānanda → honti te ānanda (bj) | honti yevānanda (s1) | hontiyevānanda (s2, s3)
@@ -669,7 +669,7 @@ msgstr "Final ruling"
 #. VAR: attupanāyikaṃ → attūpanāyikaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pj4:26.2"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
-msgstr "‘If a monk falsely claims for himself a super-human quality, knowledge and vision worthy of the noble ones, saying,"
+msgstr "‘If a monk falsely claims for himself a superhuman quality, knowledge and vision worthy of the noble ones, saying,"
 
 msgctxt "pli-tv-bu-vb-pj4:26.3"
 msgid "‘iti jānāmi iti passāmī’ti,"
@@ -699,7 +699,7 @@ msgstr "unless it is due to overestimation,"
 
 msgctxt "pli-tv-bu-vb-pj4:26.9"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "he too is expelled and not in communion.’”"
+msgstr "he too is expelled and excluded from the community.’”"
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-pj4:26.10"
@@ -731,7 +731,7 @@ msgstr "Monk:"
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:27.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-pj4:27.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -758,7 +758,7 @@ msgstr "he says, “I have this wholesome quality.”"
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms.558"></a><strong class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:29.1"
 msgid "Uttari­manus­sa­dhammo nāma"
-msgstr "A super-human quality:"
+msgstr "A superhuman quality:"
 
 #. </strong>
 #. <span class="gloss"> 
@@ -816,7 +816,7 @@ msgstr "Claims:"
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:32.2"
 msgid "āroceyya itthiyā vā purisassa vā gahaṭṭhassa vā pabbajitassa vā."
-msgstr "announces to a woman or a man, to a householder or one gone forth."
+msgstr "announces to a woman or a man, to a lay person or one gone forth."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms.562"></a>
@@ -864,7 +864,7 @@ msgstr "He is questioned:"
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:35.2"
 msgid "yaṃ vatthu paṭiññātaṃ hoti tasmiṃ vatthusmiṃ sama­nug­gāhīya­māno—"
-msgstr "he is questioned in regard to what he has claimed:"
+msgstr "he is questioned in regard to what he has admitted:"
 
 msgctxt "pli-tv-bu-vb-pj4:35.3"
 msgid "“kinte adhigataṃ,"
@@ -914,7 +914,7 @@ msgstr "Having committed the offense:"
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:37.2"
 msgid "pāpiccho icchāpakato asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapitvā pārājikaṃ āpattiṃ āpanno hoti."
-msgstr "having bad desires, overcome by desire, claiming a non-existent, unreal super-human quality, he has committed an offense entailing expulsion."
+msgstr "having bad desires, overcome by desire, claiming a non-existent, unreal superhuman quality, he has committed an offense entailing expulsion."
 
 #. </span>
 #. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms.567"></a>
@@ -927,7 +927,7 @@ msgstr "Desiring purification:"
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:38.2"
 msgid "gihī vā hotukāmo upāsako vā hotukāmo ārāmiko vā hotukāmo sāmaṇero vā hotukāmo."
-msgstr "he desires to be a householder, a lay follower, a monastery attendant, or a novice monk."
+msgstr "he desires to be a lay person, a lay follower, a monastery attendant, or a novice monk."
 
 #. </span>
 #. </p><p><a class="sc" id="35"></a><a class="ms-pa" id="ms.568"></a>
@@ -1021,7 +1021,7 @@ msgstr "just as a palm tree with its crown cut off is incapable of further growt
 
 msgctxt "pli-tv-bu-vb-pj4:43.3"
 msgid "evameva bhikkhu pāpiccho icchāpakato asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapitvā assamaṇo hoti asakyaputtiyo."
-msgstr "so too a monk with bad desires, overcome by desire, who has claimed a non-existent, unreal super-human quality, is not an ascetic, not a son of the Sakyan—"
+msgstr "so too a monk with bad desires, overcome by desire, who has claimed a non-existent, unreal superhuman quality, is not an ascetic, not a son of the Sakyan—"
 
 msgctxt "pli-tv-bu-vb-pj4:43.4"
 msgid "Tena vuccati—"
@@ -1036,23 +1036,23 @@ msgstr "“he is expelled.”"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:44.1"
 msgid "Asaṃvāsoti"
-msgstr "Not in communion:"
+msgstr "Excluded from the community:"
 
 #. </strong>
 #. <span class="gloss"><strong class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:44.2"
 msgid "saṃvāso nāma"
-msgstr "Communion:"
+msgstr "Community:"
 
 #. </strong>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:44.3"
 msgid "ekakammaṃ ekuddeso samasikkhatā—"
-msgstr "common formal procedures, the same recital, the same training—"
+msgstr "common procedures, the same recital, the same training—"
 
 msgctxt "pli-tv-bu-vb-pj4:44.4"
 msgid "eso saṃvāso nāma."
-msgstr "this is called “communion.”"
+msgstr "this is called “community.”"
 
 #. </span> 
 msgctxt "pli-tv-bu-vb-pj4:44.5"
@@ -1065,7 +1065,7 @@ msgstr "therefore it is called"
 
 msgctxt "pli-tv-bu-vb-pj4:44.7"
 msgid "“asaṃvāso”ti."
-msgstr "“not in communion.”"
+msgstr "“excluded from the community.”"
 
 #. </span>
 #. </p><h2>
@@ -1081,7 +1081,7 @@ msgstr "Summary"
 #. </h4><p><a class="sc" id="41"></a><a class="pts-cs-empty" id="Bu-Pj.4.4"></a><a class="pts-cs" id="Bu-Pj.4.4.1"></a><a class="ms-pa" id="ms.574"></a> 
 msgctxt "pli-tv-bu-vb-pj4:45.3"
 msgid "Uttari­manus­sa­dhammo nāma"
-msgstr "A super-human quality:"
+msgstr "A superhuman quality:"
 
 msgctxt "pli-tv-bu-vb-pj4:45.4"
 msgid "jhānaṃ vimokkho samādhi samāpatti ñāṇadassanaṃ maggabhāvanā phala­sacchi­kiriyā kilesappahānaṃ vinīvaraṇatā cittassa suññāgāre abhirati."
@@ -4534,7 +4534,7 @@ msgstr "The remainder should be given in detail in the same way:"
 #. </p><p><a class="sc" id="167"></a><a class="pts-cs" id="Bu-Pj.4.6.2"></a><a class="ms-pa" id="ms.700"></a> 
 msgctxt "pli-tv-bu-vb-pj4:171.1"
 msgid "Tīhākārehi … pe … sattahākārehi yo te cīvaraṃ paribhuñji …"
-msgstr "If he lies in full awareness, saying, “The monk who made use of your robes …"
+msgstr "If he lies in full awareness, saying, “The monk who made use of your robe-cloth …"
 
 msgctxt "pli-tv-bu-vb-pj4:171.2"
 msgid "yo te piṇḍapātaṃ paribhuñji …"
@@ -4542,7 +4542,7 @@ msgstr "who made use of your almsfood …"
 
 msgctxt "pli-tv-bu-vb-pj4:171.3"
 msgid "yo te senāsanaṃ paribhuñji …"
-msgstr "who made use of your dwelling equipment …"
+msgstr "who made use of your dwelling …"
 
 #. <a class="pts-vp-en" id="bd.1.171"></a> 
 msgctxt "pli-tv-bu-vb-pj4:171.4"
@@ -4584,7 +4584,7 @@ msgstr "If he lies in full awareness, saying, “The monk who has made use of yo
 
 msgctxt "pli-tv-bu-vb-pj4:172.2"
 msgid "yena te cīvaraṃ paribhuttaṃ …"
-msgstr "who has made use of your robes …"
+msgstr "who has made use of your robe-cloth …"
 
 msgctxt "pli-tv-bu-vb-pj4:172.3"
 msgid "yena te piṇḍapāto paribhutto …"
@@ -4592,7 +4592,7 @@ msgstr "who has made use of your almsfood …"
 
 msgctxt "pli-tv-bu-vb-pj4:172.4"
 msgid "yena te senāsanaṃ paribhuttaṃ …"
-msgstr "who has made use of your dwelling equipment …"
+msgstr "who has made use of your dwelling …"
 
 msgctxt "pli-tv-bu-vb-pj4:172.5"
 msgid "yena te gilā­nappac­caya­bhesaj­ja­parik­khāro paribhutto …"
@@ -4638,7 +4638,7 @@ msgstr "If he lies in full awareness, saying, “The monk to whom you gave a dwe
 
 msgctxt "pli-tv-bu-vb-pj4:173.2"
 msgid "cīvaraṃ adāsi …"
-msgstr "to whom you gave robes …"
+msgstr "to whom you gave robe-cloth …"
 
 msgctxt "pli-tv-bu-vb-pj4:173.3"
 msgid "piṇḍapātaṃ adāsi …"
@@ -4646,7 +4646,7 @@ msgstr "to whom you gave almsfood …"
 
 msgctxt "pli-tv-bu-vb-pj4:173.4"
 msgid "senāsanaṃ adāsi …"
-msgstr "to whom you gave dwelling equipment …"
+msgstr "to whom you gave a dwelling …"
 
 msgctxt "pli-tv-bu-vb-pj4:173.5"
 msgid "gilā­nappac­caya­bhesaj­ja­parik­khā­raṃ adāsi so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji …"
@@ -4718,7 +4718,7 @@ msgstr "The exposition of the section on that connected with requisites is finis
 #. <br>
 msgctxt "pli-tv-bu-vb-pj4:174.3"
 msgid "Uttari­manus­sa­dhamma­cakka­peyyā­laṃ niṭṭhitaṃ."
-msgstr "The successive permutation series on super-human qualities is finished."
+msgstr "The successive permutation series on superhuman qualities is finished."
 
 #. </p><h2>
 msgctxt "pli-tv-bu-vb-pj4:175.1"
@@ -4949,7 +4949,7 @@ msgstr "Could it be that I’ve committed an offense entailing expulsion?”"
 
 msgctxt "pli-tv-bu-vb-pj4:186.5"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master."
+msgstr "He told the Master."
 
 msgctxt "pli-tv-bu-vb-pj4:186.6"
 msgid "“Anāpatti, bhikkhu, adhimānenā”ti."
@@ -5149,7 +5149,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="186"></a><a class="pts-cs" id="Bu-Pj.4.8.5"></a><a class="ms-pa" id="ms.719"></a> 
 msgctxt "pli-tv-bu-vb-pj4:192.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññatarassa bhikkhuno uttari­manus­sa­dhammaṃ ullapati."
-msgstr "At one time a monk claimed a super-human quality to another monk:"
+msgstr "At one time a monk claimed a superhuman quality to another monk:"
 
 msgctxt "pli-tv-bu-vb-pj4:192.2"
 msgid "Sopi evamāha—“mayhampi, āvuso, saṃyojanā pahīnā”ti."
@@ -5170,11 +5170,11 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="187"></a><a class="pts-cs" id="Bu-Pj.4.8.6"></a><a class="ms-pa" id="ms.720"></a> 
 msgctxt "pli-tv-bu-vb-pj4:193.1"
 msgid "Tena kho pana samayena aññataro bhikkhu rahogato uttari­manus­sa­dhammaṃ ullapati."
-msgstr "At one time a monk claimed a super-human quality in private."
+msgstr "At one time a monk claimed a superhuman quality in private."
 
 msgctxt "pli-tv-bu-vb-pj4:193.2"
 msgid "Paracittavidū bhikkhu taṃ bhikkhuṃ apasādesi—"
-msgstr "Another monk, knowing the mind of that monk, criticized him:"
+msgstr "Another monk, knowing the mind of that monk, criticized him,"
 
 msgctxt "pli-tv-bu-vb-pj4:193.3"
 msgid "“mā, āvuso, evarūpaṃ abhaṇi."
@@ -5203,12 +5203,12 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="188"></a><a class="ms-pa" id="ms.721"></a><a class="pts-vp-pli" id="pts-vp-pli3.102"></a> 
 msgctxt "pli-tv-bu-vb-pj4:194.1"
 msgid "Tena kho pana samayena aññataro bhikkhu rahogato uttari­manus­sa­dhammaṃ ullapati."
-msgstr "At one time a monk claimed a super-human quality in private."
+msgstr "At one time a monk claimed a superhuman quality in private."
 
 #. <a class="pts-vp-en" id="bd.1.175"></a> 
 msgctxt "pli-tv-bu-vb-pj4:194.2"
 msgid "Devatā taṃ bhikkhuṃ apasādesi—"
-msgstr "A god criticized him:"
+msgstr "A god criticized him,"
 
 msgctxt "pli-tv-bu-vb-pj4:194.3"
 msgid "“mā, bhante, evarūpaṃ abhaṇi."
@@ -5280,7 +5280,7 @@ msgstr "At one time a monk said to a lay follower,"
 
 msgctxt "pli-tv-bu-vb-pj4:196.2"
 msgid "“yaṃ tvaṃ, āvuso, upaṭṭhesi cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rena so bhikkhu arahā”ti."
-msgstr "“The one you attend on with robes, almsfood, dwelling equipment, and medicines, he is a perfected one.”"
+msgstr "“The one you attend on with robe-cloth, almsfood, dwellings, and medicines, he is a perfected one.”"
 
 msgctxt "pli-tv-bu-vb-pj4:196.3"
 msgid "So ca taṃ upaṭṭheti cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rena."
@@ -5323,7 +5323,7 @@ msgstr "The monks said to him,"
 
 msgctxt "pli-tv-bu-vb-pj4:197.3"
 msgid "“atthāyasmato uttari­manus­sa­dhammo”ti?"
-msgstr "“Venerable, do you have any super-human quality?”"
+msgstr "“Venerable, do you have any superhuman quality?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:197.4"
@@ -5349,7 +5349,7 @@ msgstr "Could it be that I’ve committed an offense entailing expulsion?”"
 
 msgctxt "pli-tv-bu-vb-pj4:197.9"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master."
+msgstr "He told the Master."
 
 msgctxt "pli-tv-bu-vb-pj4:197.10"
 msgid "“Kiṃcitto tvaṃ, bhikkhū”ti?"
@@ -5381,12 +5381,12 @@ msgstr "The monks said to him,"
 
 msgctxt "pli-tv-bu-vb-pj4:198.3"
 msgid "“atthāyasmato uttari­manus­sa­dhammo”ti?"
-msgstr "“Venerable, do you have any super-human quality?”"
+msgstr "“Venerable, do you have any superhuman quality?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:198.4"
 msgid "“Ārādhanīyo kho, āvuso, dhammo ārad­dha­vīri­yenā”ti."
-msgstr "“A super-human quality is to be reached by one who’s energetic.”"
+msgstr "“A superhuman quality is to be reached by one who’s energetic.”"
 
 msgctxt "pli-tv-bu-vb-pj4:198.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5475,12 +5475,12 @@ msgstr "The monks said to him,"
 
 msgctxt "pli-tv-bu-vb-pj4:201.3"
 msgid "“atthāyasmato uttari­manus­sa­dhammo”ti?"
-msgstr "“Venerable, do you have any super-human quality?”"
+msgstr "“Venerable, do you have any superhuman quality?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:201.4"
 msgid "“Ārādhanīyo kho, āvuso, dhammo sammāpayuttenā”ti."
-msgstr "“A super-human quality is to be reached by one who applies himself rightly.”"
+msgstr "“A superhuman quality is to be reached by one who applies himself rightly.”"
 
 msgctxt "pli-tv-bu-vb-pj4:201.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5506,12 +5506,12 @@ msgstr "The monks said to him,"
 
 msgctxt "pli-tv-bu-vb-pj4:202.3"
 msgid "“atthāyasmato uttari­manus­sa­dhammo”ti?"
-msgstr "“Venerable, do you have any super-human quality?”"
+msgstr "“Venerable, do you have any superhuman quality?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:202.4"
 msgid "“Ārādhanīyo kho, āvuso, dhammo ārad­dha­vīri­yenā”ti."
-msgstr "“A super-human quality is to be reached by one who’s energetic.”"
+msgstr "“A superhuman quality is to be reached by one who’s energetic.”"
 
 msgctxt "pli-tv-bu-vb-pj4:202.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5537,12 +5537,12 @@ msgstr "The monks said to him,"
 
 msgctxt "pli-tv-bu-vb-pj4:203.3"
 msgid "“atthāyasmato uttari­manus­sa­dhammo”ti?"
-msgstr "“Venerable, do you have any super-human quality?”"
+msgstr "“Venerable, do you have any superhuman quality?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:203.4"
 msgid "“Ārādhanīyo kho, āvuso, dhammo yuttayogenā”ti."
-msgstr "“A super-human quality is to be reached by one who exerts himself.”"
+msgstr "“A superhuman quality is to be reached by one who exerts himself.”"
 
 msgctxt "pli-tv-bu-vb-pj4:203.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -5663,7 +5663,7 @@ msgstr "What should we do?”"
 
 msgctxt "pli-tv-bu-vb-pj4:206.7"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:206.8"
@@ -5714,7 +5714,7 @@ msgstr "What should we do?”"
 
 msgctxt "pli-tv-bu-vb-pj4:207.10"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:207.11"
@@ -5728,7 +5728,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="202"></a><a class="pts-cs" id="Bu-Pj.4.8.12"></a><a class="ms-pa" id="ms.735"></a> 
 msgctxt "pli-tv-bu-vb-pj4:208.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññatarassa bhikkhuno uttari­manus­sa­dhammaṃ ullapati."
-msgstr "At one time a monk claimed a super-human quality to another monk:"
+msgstr "At one time a monk claimed a superhuman quality to another monk:"
 
 msgctxt "pli-tv-bu-vb-pj4:208.2"
 msgid "Sopi evamāha—“mayhampi, āvuso, āsavā pahīnā”ti."
@@ -5749,7 +5749,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="203"></a><a class="ms-pa" id="ms.736"></a><a class="pts-vp-pli" id="pts-vp-pli3.104"></a> 
 msgctxt "pli-tv-bu-vb-pj4:209.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññatarassa bhikkhuno uttari­manus­sa­dhammaṃ ullapati."
-msgstr "At one time a monk claimed a super-human quality to another monk:"
+msgstr "At one time a monk claimed a superhuman quality to another monk:"
 
 msgctxt "pli-tv-bu-vb-pj4:209.2"
 msgid "Sopi evamāha—“mayhampi, āvuso, ete dhammā saṃvijjantī”ti."
@@ -5770,7 +5770,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="204"></a><a class="ms-pa" id="ms.737"></a> 
 msgctxt "pli-tv-bu-vb-pj4:210.1"
 msgid "Tena kho pana samayena aññataro bhikkhu aññatarassa bhikkhuno uttari­manus­sa­dhammaṃ ullapati."
-msgstr "At one time a monk claimed a super-human quality to another monk:"
+msgstr "At one time a monk claimed a superhuman quality to another monk:"
 
 msgctxt "pli-tv-bu-vb-pj4:210.2"
 msgid "Sopi evamāha—“ahampāvuso, tesu dhammesu sandissāmī”ti."
@@ -5876,7 +5876,7 @@ msgstr "Could it be that I’ve committed an offense entailing expulsion?”"
 
 msgctxt "pli-tv-bu-vb-pj4:213.8"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master."
+msgstr "He told the Master."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:213.9"
@@ -5940,7 +5940,7 @@ msgstr "Case details, part 2"
 #. </h3><div class="parallel"><p><a class="sc" id="209"></a><a class="pts-cs-empty" id="Bu-Pj.4.9"></a><a class="pts-cs" id="Bu-Pj.4.9.1"></a><a class="ms-pa" id="ms.742"></a> 
 msgctxt "pli-tv-bu-vb-pj4:215.2"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
-msgstr "At one time, the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary,"
+msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary,"
 
 #. <a class="pts-vp-en" id="bd.1.181"></a> 
 msgctxt "pli-tv-bu-vb-pj4:215.3"
@@ -5949,7 +5949,7 @@ msgstr "while Venerable Lakkhaṇa and Venerable Mahāmoggallāna were staying o
 
 msgctxt "pli-tv-bu-vb-pj4:215.4"
 msgid "Atha kho āyasmā mahāmoggallāno pubbaṇ­ha­samayaṃ nivāsetvā pattacīvaraṃ ādāya yenāyasmā lakkhaṇo tenupasaṅkami;"
-msgstr "Then, one morning, Mahāmoggallāna dressed, took his bowl and robe, approached Lakkhaṇa,"
+msgstr "One morning Mahāmoggallāna robed up, took his bowl and robe, approached Lakkhaṇa,"
 
 msgctxt "pli-tv-bu-vb-pj4:215.5"
 msgid "upasaṅkamitvā āyasmantaṃ lakkhaṇaṃ etadavoca—"
@@ -6043,11 +6043,11 @@ msgstr "such a state of existence.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:217.13"
 msgid "Bhikkhū ujjhāyanti khiyyanti vipācenti—"
-msgstr "The monks complained and criticized him:"
+msgstr "The monks complained and criticized him,"
 
 msgctxt "pli-tv-bu-vb-pj4:217.14"
 msgid "“uttari­manus­sa­dhammaṃ āyasmā mahāmoggallāno ullapatī”ti."
-msgstr "“Venerable Mahāmoggallāna is claiming a super-human ability.”"
+msgstr "“Venerable Mahāmoggallāna is claiming a superhuman ability.”"
 
 #. </p><p><a class="sc" id="212"></a><a class="ms-pa" id="ms.745"></a> 
 msgctxt "pli-tv-bu-vb-pj4:218.1"
@@ -6336,7 +6336,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="222"></a><a class="ms-pa" id="ms.755"></a> 
 msgctxt "pli-tv-bu-vb-pj4:228.1"
 msgid "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ purisaṃ gūthakūpe sasīsakaṃ nimuggaṃ … pe …"
-msgstr "“As I was coming down from Mount Vulture Peak, I saw a man, head and all, submerged in a pit of dung …”"
+msgstr "“As I was coming down from Mount Vulture Peak, I saw a man sunk over his head in a pit of dung …”"
 
 #. </p><p>
 #. <a class="pts-vp-en" id="bd.1.186"></a> 
@@ -6351,7 +6351,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="223"></a><a class="ms-pa" id="ms.756"></a><a class="pts-vp-pli" id="pts-vp-pli3.107"></a> 
 msgctxt "pli-tv-bu-vb-pj4:229.1"
 msgid "“Idhāhaṃ, āvuso, gijjhakūṭā pabbatā orohanto addasaṃ purisaṃ gūthakūpe sasīsakaṃ nimuggaṃ ubhohi hatthehi gūthaṃ khādantaṃ … pe …"
-msgstr "“As I was coming down from Mount Vulture Peak, I saw a man, head and all, submerged in a pit of dung, eating dung with both hands …”"
+msgstr "“As I was coming down from Mount Vulture Peak, I saw a man sunk over his head in a pit of dung, eating dung with both hands …”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:229.2"
@@ -6471,7 +6471,7 @@ msgstr "“As I was coming down from Mount Vulture Peak, I saw a monk flying thr
 
 msgctxt "pli-tv-bu-vb-pj4:234.2"
 msgid "Tassa saṅghāṭipi ādittā sampajjalitā sajotibhūtā, pattopi āditto sampajjalito sajotibhūto, kāya­bandha­nampi ādittaṃ sampajjalitaṃ sajotibhūtaṃ, kāyopi āditto sampajjalito sajotibhūto."
-msgstr "His outer robe was ablaze and burning, as were his bowl, his waistband, and his body."
+msgstr "His outer robe was ablaze and burning, as were his bowl, his belt, and his body."
 
 msgctxt "pli-tv-bu-vb-pj4:234.3"
 msgid "So sudaṃ aṭṭassaraṃ karoti … pe …"
@@ -6505,7 +6505,7 @@ msgstr "I saw a novice nun flying through the air."
 
 msgctxt "pli-tv-bu-vb-pj4:235.5"
 msgid "Tassā saṅghāṭipi ādittā sampajjalitā sajotibhūtā, pattopi āditto sampajjalito sajotibhūto, kāya­bandha­nampi ādittaṃ sampajjalitaṃ sajotibhūtaṃ, kāyopi āditto sampajjalito sajotibhūto."
-msgstr "Her outer robe was ablaze and burning, as were her bowl, her waistband, and her body."
+msgstr "Her outer robe was ablaze and burning, as were her bowl, her belt, and her body."
 
 msgctxt "pli-tv-bu-vb-pj4:235.6"
 msgid "Sā sudaṃ aṭṭassaraṃ karoti."
@@ -6530,11 +6530,11 @@ msgstr "such a state of existence.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:235.11"
 msgid "Bhikkhū ujjhāyanti khiyyanti vipācenti—"
-msgstr "The monks complained and criticized him:"
+msgstr "The monks complained and criticized him,"
 
 msgctxt "pli-tv-bu-vb-pj4:235.12"
 msgid "“uttari­manus­sa­dhammaṃ āyasmā mahāmoggallāno ullapatī”ti."
-msgstr "“Venerable Moggallāna is claiming a super-human ability.”"
+msgstr "“Venerable Moggallāna is claiming a superhuman ability.”"
 
 #. </p><p><a class="sc" id="230"></a><a class="ms-pa" id="ms.763"></a> 
 msgctxt "pli-tv-bu-vb-pj4:236.1"
@@ -6598,7 +6598,7 @@ msgstr "Venerable Mahāmoggallāna said to the monks,"
 
 msgctxt "pli-tv-bu-vb-pj4:237.2"
 msgid "“yatāyaṃ, āvuso, tapodā sandati so daho acchodako sītodako sātodako setako suppatittho ramaṇīyo pahūta­maccha­kacchapo cakkamattāni ca padumāni pupphantī”ti."
-msgstr "“This stream, the Tapodā, flows from a lake with beautiful waters—cool, sweat, and pure—with smooth and pleasant banks, with an abundance of fish and turtles, and with blooming lotuses the size of wheels.”"
+msgstr "“This stream, the Tapodā, flows from a lake with beautiful waters—cool, sweet, and pure—with smooth and pleasant banks, with an abundance of fish and turtles, and with blooming lotuses the size of wheels.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:237.3"
@@ -6616,15 +6616,15 @@ msgstr "such a thing?"
 #. VAR: kuthitā → kuṭṭhitā (s2, s3)
 msgctxt "pli-tv-bu-vb-pj4:237.6"
 msgid "Atha ca panāyaṃ tapodā kuthitā sandati."
-msgstr "On the the contrary, the Tapodā is hot."
+msgstr "On the contrary, the Tapodā is hot."
 
 msgctxt "pli-tv-bu-vb-pj4:237.7"
 msgid "Uttari­manus­sa­dhammaṃ āyasmā mahāmoggallāno ullapatī”ti."
-msgstr "Venerable Mahāmoggallāna is claiming a super-human ability.”"
+msgstr "Venerable Mahāmoggallāna is claiming a superhuman ability.”"
 
 msgctxt "pli-tv-bu-vb-pj4:237.8"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "And they informed the Master."
+msgstr "And they told the Master."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:237.9"
@@ -6682,7 +6682,7 @@ msgstr "“The King was defeated by the Licchavīs.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:238.7"
 msgid "Bhikkhū ujjhāyanti khiyyanti vipācenti—"
-msgstr "The monks complained and criticized him:"
+msgstr "The monks complained and criticized him,"
 
 msgctxt "pli-tv-bu-vb-pj4:238.8"
 msgid "“kathañhi nāma āyasmā mahāmoggallāno evaṃ vakkhati—"
@@ -6702,11 +6702,11 @@ msgstr "and the word is spreading that the Licchavīs have been defeated by the 
 
 msgctxt "pli-tv-bu-vb-pj4:238.12"
 msgid "Uttari­manus­sa­dhammaṃ āyasmā mahāmoggallāno ullapatī”ti."
-msgstr "Venerable Mahāmoggallāna is claiming a super-human ability.”"
+msgstr "Venerable Mahāmoggallāna is claiming a superhuman ability.”"
 
 msgctxt "pli-tv-bu-vb-pj4:238.13"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli3.109"></a> 
@@ -6742,7 +6742,7 @@ msgstr "“After attaining an imperturbable stillness on the banks of the river 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:239.3"
 msgid "Bhikkhū ujjhāyanti khiyyanti vipācenti—"
-msgstr "The monks complained and criticized him:"
+msgstr "The monks complained and criticized him,"
 
 #. <a class="pts-vp-en" id="bd.1.190"></a> 
 msgctxt "pli-tv-bu-vb-pj4:239.4"
@@ -6751,11 +6751,11 @@ msgstr "“How can Venerable Mahāmoggallāna say such a thing?"
 
 msgctxt "pli-tv-bu-vb-pj4:239.5"
 msgid "Uttari­manus­sa­dhammaṃ āyasmā mahāmoggallāno ullapatī”ti."
-msgstr "He’s claiming a super-human ability.”"
+msgstr "He’s claiming a superhuman ability.”"
 
 msgctxt "pli-tv-bu-vb-pj4:239.6"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:239.7"
@@ -6786,7 +6786,7 @@ msgstr "“I can recall five hundred eons.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:240.3"
 msgid "Bhikkhū ujjhāyanti khiyyanti vipācenti—"
-msgstr "The monks complained and criticized him:"
+msgstr "The monks complained and criticized him,"
 
 msgctxt "pli-tv-bu-vb-pj4:240.4"
 msgid "“kathañhi nāma āyasmā sobhito evaṃ vakkhati—"
@@ -6798,11 +6798,11 @@ msgstr "that he can recall five hundred eons?"
 
 msgctxt "pli-tv-bu-vb-pj4:240.6"
 msgid "Uttari­manus­sa­dhammaṃ āyasmā sobhito ullapatī”ti."
-msgstr "He’s claiming a super-human ability.”"
+msgstr "He’s claiming a superhuman ability.”"
 
 msgctxt "pli-tv-bu-vb-pj4:240.7"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj4:240.8"
@@ -6837,11 +6837,11 @@ msgstr "“Venerables, the four rules entailing expulsion have been recited."
 
 msgctxt "pli-tv-bu-vb-pj4:242.2"
 msgid "yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhūhi saddhiṃ saṃvāsaṃ,"
-msgstr "If a monk commits any one of them, he is no longer in communion with the monks."
+msgstr "If a monk commits any one of them, he is no longer part of the community of monks."
 
 msgctxt "pli-tv-bu-vb-pj4:242.3"
 msgid "yathā pure tathā pacchā, pārājiko hoti asaṃvāso."
-msgstr "As before, so after, he’s expelled and not in communion."
+msgstr "As before, so after, he’s expelled and excluded from the community."
 
 msgctxt "pli-tv-bu-vb-pj4:242.4"
 msgid "Tatthāyasmante pucchāmi—"

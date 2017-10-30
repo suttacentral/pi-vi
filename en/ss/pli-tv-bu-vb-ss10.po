@@ -29,7 +29,7 @@ msgstr "Monks’ Suspension"
 #. </p><h1>
 msgctxt "pli-tv-bu-vb-ss10:4.1"
 msgid "Saṃ­gha­bhe­da­sikkhā­pada"
-msgstr "10. The training rule on schism in the monastic Order"
+msgstr "10. The training rule on schism in the Order"
 
 #. </h1></div><h2>
 msgctxt "pli-tv-bu-vb-ss10:5.1"
@@ -44,7 +44,7 @@ msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the
 #. VAR: kaṭa­modaka­tissako → kaṭa­moraka­tissako (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss10:5.3"
 msgid "Atha kho devadatto yena kokāliko kaṭa­modaka­tissako khaṇḍadeviyā putto samuddadatto tenupasaṅkami;"
-msgstr "Just then Devadatta went to see Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta,"
+msgstr "At that time Devadatta went to see Kokālika, Kaṭamodakatissaka, Khaṇḍadeviyā-putta, and Samuddadatta,"
 
 msgctxt "pli-tv-bu-vb-ss10:5.4"
 msgid "upasaṅkamitvā kokālikaṃ kaṭa­modaka­tis­sakaṃ khaṇḍadeviyā puttaṃ samuddadattaṃ etadavoca—"
@@ -52,7 +52,7 @@ msgstr "and he said to them,"
 
 msgctxt "pli-tv-bu-vb-ss10:5.5"
 msgid "“etha mayaṃ, āvuso, samaṇassa gotamassa saṃghabhedaṃ karissāma cakkabhedan”ti."
-msgstr "“Come, let’s create a schism in the monastic Order of the ascetic Gotama, a break in transmission.”"
+msgstr "“Come, let’s create a schism in the Order of the ascetic Gotama, a break in transmission.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss10:5.6"
@@ -143,7 +143,7 @@ msgstr "We’ll then be able to win people over with these five points.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss10:5.25"
 msgid "Sakkā kho, āvuso, imehi pañcahi vatthūhi samaṇassa gotamassa saṃghabhedo kātuṃ cakkabhedo."
-msgstr "Kokālika said, “It might be possible to create a schism in the monastic Order with these five points,"
+msgstr "Kokālika said, “It might be possible to create a schism in the Order with these five points,"
 
 #. VAR: Lūkhapasannā → lūkhappasannā (bj, s1-3, pts1 4V.343/1)
 msgctxt "pli-tv-bu-vb-ss10:5.26"
@@ -309,7 +309,7 @@ msgstr "But the wise people who had faith and confidence complained and criticiz
 
 msgctxt "pli-tv-bu-vb-ss10:8.5"
 msgid "“kathañhi nāma devadatto bhagavato saṃghabhedāya parakkamissati cakkabhedāyā”ti."
-msgstr "“How can Devadatta act to create a schism in the monastic Order of the Master?”"
+msgstr "“How can Devadatta act to create a schism in the Order of the Master?”"
 
 #. </p><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa1677"></a> 
 msgctxt "pli-tv-bu-vb-ss10:9.1"
@@ -331,7 +331,7 @@ msgstr "in the same way."
 #. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa1678"></a> 
 msgctxt "pli-tv-bu-vb-ss10:10.1"
 msgid "Atha kho te bhikkhū devadattaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After rebuking Devadatta in many ways, they informed the Master. …"
+msgstr "After rebuking Devadatta in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-ss10:10.2"
 msgid "“saccaṃ kira tvaṃ, devadatta, saṃghabhedāya parakkamasi cakkabhedāyā”ti?"
@@ -345,7 +345,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss10:10.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked him: “…"
+msgstr "The Buddha rebuked him, “…"
 
 msgctxt "pli-tv-bu-vb-ss10:10.5"
 msgid "kathañhi nāma tvaṃ, moghapurisa, saṃghabhedāya parakkamissasi cakkabhedāya."
@@ -368,12 +368,12 @@ msgstr "Final ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-ss10:11.2"
 msgid "“Yo pana bhikkhu samaggassa saṃghassa bhedāya parakkameyya, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo—"
-msgstr "‘If a monk pursues schism in a united monastic Order or persists in taking up a legal issue conducive to schism, the monks should say to him,"
+msgstr "‘If a monk pursues schism in a united Order or persists in taking up a legal issue conducive to schism, the monks should say to him,"
 
 #. VAR: māyasmā → mā āyasmā (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss10:11.3"
 msgid "‘māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
-msgstr "“Venerable, don’t pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
+msgstr "“Venerable, don’t pursue schism in the united Order or persist in taking up a legal issue conducive to schism."
 
 #. <a class="pts-vp-en" id="bd.1.300"></a> 
 msgctxt "pli-tv-bu-vb-ss10:11.4"
@@ -427,7 +427,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:12.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-ss10:12.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -438,12 +438,12 @@ msgstr "this sort of monk is meant in this case."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:13.1"
 msgid "Samaggo nāma saṃgho"
-msgstr "A united monastic Order:"
+msgstr "A united Order:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:13.2"
 msgid "samā­nasaṃ­vāsako samānasīmāyaṃ ṭhito."
-msgstr "having the same communion, staying within the same boundary."
+msgstr "belonging to the same community, staying within the same boundary."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1682"></a>
@@ -517,7 +517,7 @@ msgstr "Him:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:19.2"
 msgid "yo so saṃghabhedako bhikkhu."
-msgstr "the monk who is pursuing schism in the monastic Order."
+msgstr "the monk who is pursuing schism in the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1688"></a>
@@ -544,7 +544,7 @@ msgstr "They should say,"
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-ss10:21.3"
 msgid "“māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
-msgstr "“Venerable, don’t pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
+msgstr "“Venerable, don’t pursue schism in the united Order or persist in taking up a legal issue conducive to schism."
 
 msgctxt "pli-tv-bu-vb-ss10:21.4"
 msgid "Sametāyasmā saṃghena."
@@ -586,7 +586,7 @@ msgstr "That monk, even if he has to be dragged into the middle of the Order, sh
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-ss10:21.12"
 msgid "“māyasmā samaggassa saṃghassa bhedāya parakkami, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi."
-msgstr "“Venerable, don’t pursue schism in the united monastic Order or persist in taking up a legal issue conducive to schism."
+msgstr "“Venerable, don’t pursue schism in the united Order or persist in taking up a legal issue conducive to schism."
 
 msgctxt "pli-tv-bu-vb-ss10:21.13"
 msgid "Sametāyasmā saṃghena."
@@ -635,7 +635,7 @@ msgstr "‘Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-ss10:22.2"
 msgid "Ayaṃ itthannāmo bhikkhu samaggassa saṃghassa bhedāya parakkamati."
-msgstr "This monk so-and-so is pursuing schism in the united monastic Order."
+msgstr "This monk so-and-so is pursuing schism in the united Order."
 
 msgctxt "pli-tv-bu-vb-ss10:22.3"
 msgid "So taṃ vatthuṃ na paṭinissajjati."
@@ -656,7 +656,7 @@ msgstr "Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-ss10:23.2"
 msgid "Ayaṃ itthannāmo bhikkhu samaggassa saṃghassa bhedāya parakkamati."
-msgstr "This monk so-and-so is pursuing schism in the united monastic Order."
+msgstr "This monk so-and-so is pursuing schism in the united Order."
 
 msgctxt "pli-tv-bu-vb-ss10:23.3"
 msgid "So taṃ vatthuṃ na paṭinissajjati."
@@ -690,7 +690,7 @@ msgstr "Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-ss10:24.4"
 msgid "Ayaṃ itthannāmo bhikkhu samaggassa saṃghassa bhedāya parakkamati."
-msgstr "This monk so-and-so is pursuing schism in the united monastic Order."
+msgstr "This monk so-and-so is pursuing schism in the united Order."
 
 msgctxt "pli-tv-bu-vb-ss10:24.5"
 msgid "So taṃ vatthuṃ na paṭinissajjati."
@@ -822,7 +822,7 @@ msgstr "if he is the first offender."
 #. </p><hr><p class="endsutta"><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1703"></a> 
 msgctxt "pli-tv-bu-vb-ss10:35.1"
 msgid "Saṃ­gha­bhe­da­sikkhā­padaṃ niṭṭhitaṃ dasamaṃ."
-msgstr "The tenth rule, the training rule on schism in the monastic Order, is finished."
+msgstr "The tenth rule, the training rule on schism in the Order, is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>

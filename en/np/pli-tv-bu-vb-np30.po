@@ -52,16 +52,16 @@ msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anā
 
 msgctxt "pli-tv-bu-vb-np30:6.3"
 msgid "Tena kho pana samayena sāvatthiyaṃ aññatarassa pūgassa saṃghassa sacīvarabhattaṃ paṭiyattaṃ hoti—"
-msgstr "At that time an association had prepared a meal together with robes for the Order,"
+msgstr "At that time an association had prepared a meal together with robe-cloth for the Order,"
 
 msgctxt "pli-tv-bu-vb-np30:6.4"
 msgid "“bhojetvā cīvarena acchādessāmā”ti."
-msgstr "intending to offer the robes after giving the meal."
+msgstr "intending to offer the robe-cloth after giving the meal."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np30:6.5"
 msgid "Atha kho chabbaggiyā bhikkhū yena so pūgo tenupasaṅkamiṃsu;"
-msgstr "But monks from the group of six went to that association"
+msgstr "But the monks from the group of six went to that association"
 
 msgctxt "pli-tv-bu-vb-np30:6.6"
 msgid "upasaṅkamitvā taṃ pūgaṃ etadavocuṃ—"
@@ -69,7 +69,7 @@ msgstr "and said,"
 
 msgctxt "pli-tv-bu-vb-np30:6.7"
 msgid "“dethāvuso, amhākaṃ imāni cīvarānī”ti."
-msgstr "“Sirs, give these robes to us.”"
+msgstr "“Sirs, give this robe-cloth to us.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np30:6.8"
@@ -78,7 +78,7 @@ msgstr "“Venerables, we can’t do that."
 
 msgctxt "pli-tv-bu-vb-np30:6.9"
 msgid "Amhākaṃ saṃghassa anuvassaṃ sacīvarabhikkhā paññattā”ti."
-msgstr "We’ve prepared our annual alms-offering together with robes for the Order.”"
+msgstr "We’ve prepared our annual alms-offering together with robe-cloth for the Order.”"
 
 #. </p><p>
 #. VAR: bhattā → bhaddā (bj, mr)
@@ -96,29 +96,29 @@ msgstr "If you don’t give to us, then who will?"
 
 msgctxt "pli-tv-bu-vb-np30:6.13"
 msgid "Dethāvuso, amhākaṃ imāni cīvarānī”ti."
-msgstr "So give us these robes.”"
+msgstr "So give us this robe-cloth.”"
 
 msgctxt "pli-tv-bu-vb-np30:6.14"
 msgid "Atha kho so pūgo chabbaggiyehi bhikkhūhi nippīḷiyamāno yathāpaṭiyattaṃ cīvaraṃ chabbaggiyānaṃ bhikkhūnaṃ datvā saṃghaṃ bhattena parivisi."
-msgstr "Being pressured by those monks from the group of six, that association gave the prepared robes to them and served the food to the Order."
+msgstr "Being pressured by the monks from the group of six, that association gave the prepared robe-cloth to them and served the food to the Order."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np30:6.15"
 msgid "Ye te bhikkhū jānanti saṃghassa sacīvarabhattaṃ paṭiyattaṃ, na ca jānanti chabbaggiyānaṃ bhikkhūnaṃ dinnanti, te evamāhaṃsu—"
-msgstr "The monks who knew that a meal together with robes had been prepared for the Order, but who did not know that the robes had been given to those monks from the group six, said,"
+msgstr "The monks who knew that a meal together with robe-cloth had been prepared for the Order, but who did not know that the robe-cloth had been given to those monks from the group six, said,"
 
 msgctxt "pli-tv-bu-vb-np30:6.16"
 msgid "“oṇojethāvuso, saṃghassa cīvaran”ti."
-msgstr "“You may offer the robes.”"
+msgstr "“You may offer the robe-cloth.”"
 
 #. </p><p><a class="pts-vp-en" id="bd.2.161"></a> 
 msgctxt "pli-tv-bu-vb-np30:6.17"
 msgid "“Natthi, bhante."
-msgstr "“Venerables, there aren’t any."
+msgstr "“Venerables, there isn’t any."
 
 msgctxt "pli-tv-bu-vb-np30:6.18"
 msgid "Yathāpaṭiyattaṃ cīvaraṃ ayyā chabbaggiyā attano pariṇāmesun”ti."
-msgstr "The robes we had prepared were diverted by the monks from the group of six to themselves.”"
+msgstr "The robe-cloth we had prepared were diverted by the monks from the group of six to themselves.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np30:6.19"
@@ -131,12 +131,12 @@ msgstr "complained and criticized those monks,"
 
 msgctxt "pli-tv-bu-vb-np30:6.21"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū jānaṃ saṃghikaṃ lābhaṃ pariṇataṃ attano pariṇāmessantī”ti."
-msgstr "“How can those monks from the group of six divert to themselves things they know were intended for the Order?”"
+msgstr "“How can the monks from the group of six divert to themselves things they know were intended for the Order?”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2422"></a> 
 msgctxt "pli-tv-bu-vb-np30:7.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np30:7.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, jānaṃ saṃghikaṃ lābhaṃ pariṇataṃ attano pariṇāmethā”ti?"
@@ -150,7 +150,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np30:7.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 msgctxt "pli-tv-bu-vb-np30:7.5"
 msgid "kathañhi nāma tumhe, moghapurisā, jānaṃ saṃghikaṃ lābhaṃ pariṇataṃ attano pariṇāmessatha."
@@ -204,7 +204,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np30:9.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np30:9.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -217,10 +217,10 @@ msgid "Jānāti nāma"
 msgstr "He knows:"
 
 #. </strong><span class="gloss">
-#. <span class="note" hidden>The meaning of the last of these three ways of knowing, <i lang="pli">so vā āroceti</i>, is not clear. CPD suggests: “<i lang="pli">sa (sā) āroceti</i> (?). Perhaps this last form is conformable to sa. [Sanskrit] <i lang="pli">ārocayate</i> med. caus. [middle voice causative] in the meaning: he or she makes inquiries (of others).” However, this does not fit with the parallel usage at Confession 29 <span class="ref">MS.2.638</span> where the text says that she informs (<i lang="pli">sā vā āroceti</i>) him, presumably referring to the nun informing the monk. In this case <i lang="pli">āroceti</i> cannot refer to the monk making inquiries. The commentaries are silent, and I therefore assume that a straight-forward meaning is the most likely one. I would suggest, then, that it simply refers to the donor informing the monk directly.</span> 
+#. <span class="note" hidden>The meaning of the last of these three ways of knowing, <i lang="pli">so vā āroceti</i>, is not clear. CPD suggests: “<i lang="pli">sa (sā) āroceti</i> (?). Perhaps this last form is conformable to sa. [Sanskrit] <i lang="pli">ārocayate</i> med. caus. [middle voice causative] in the meaning: he or she makes inquiries (of others).” However, this does not fit with the parallel usage at Confession 29 <span class="ref">MS.2.638</span> where the text says that she tells (<i lang="pli">sā vā āroceti</i>) him, presumably referring to the nun telling the monk. In this case <i lang="pli">āroceti</i> cannot refer to the monk making inquiries. The commentaries are silent, and I therefore assume that a straight-forward meaning is the most likely one. I would suggest, then, that it simply refers to the donor telling the monk directly.</span> 
 msgctxt "pli-tv-bu-vb-np30:10.2"
 msgid "sāmaṃ vā jānāti aññe vā tassa ārocenti so vā āroceti."
-msgstr "he knows by himself or others have informed him or the donor has informed him."
+msgstr "he knows by himself or others have told him or the donor has told him."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.266"></a><a class="wt-pa" id="2426"></a>
 #. <strong class="term"> 
@@ -242,7 +242,7 @@ msgstr "Something:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np30:12.2"
 msgid "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā."
-msgstr "robes, almsfood, dwellings, and medicines;"
+msgstr "robe-cloth, almsfood, dwellings, and medicines;"
 
 msgctxt "pli-tv-bu-vb-np30:12.3"
 msgid "Antamaso cuṇṇapiṇḍopi, dantakaṭṭhampi, dasikasuttampi."
@@ -262,7 +262,7 @@ msgstr "they have said, “We will give/we will prepare.”"
 #. </span></p><hr><p><a class="sc" id="9"></a><a class="wt-pa" id="2429"></a> 
 msgctxt "pli-tv-bu-vb-np30:14.1"
 msgid "Attano pariṇāmeti, payoge dukkaṭaṃ."
-msgstr "In the act of diverting it to himself, he commits an offense of wrong conduct."
+msgstr "For the act of diverting it to himself, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np30:14.2"
 msgid "Paṭilābhena nissaggiyaṃ hoti."
@@ -343,7 +343,7 @@ msgstr "If it is not intended for the Order, but he perceives it as intended for
 
 msgctxt "pli-tv-bu-vb-np30:16.7"
 msgid "Apariṇate vematiko, āpatti dukkaṭassa."
-msgstr "If it is not intended for the Order, but he is unsure if it is, he commits an offense of wrong conduct."
+msgstr "If it is not intended for the Order, but he is unsure of it, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np30:16.8"
 msgid "Apariṇate apariṇatasaññī, anāpatti."

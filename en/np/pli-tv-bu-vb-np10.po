@@ -224,7 +224,7 @@ msgstr "You’ve just lost fifty coins.”"
 #. </p><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli3.221"></a><a class="wt-pa" id="2073"></a> 
 msgctxt "pli-tv-bu-vb-np10:9.1"
 msgid "Atha kho so upāsako tesaṃ manussānaṃ etamatthaṃ ārocesi."
-msgstr "That lay follower informed them of what had happened."
+msgstr "That lay follower told them what had happened."
 
 msgctxt "pli-tv-bu-vb-np10:9.2"
 msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
@@ -249,7 +249,7 @@ msgstr "to wait for a day?”"
 #. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="2074"></a> 
 msgctxt "pli-tv-bu-vb-np10:10.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those people,"
+msgstr "The monks heard the complaints of those people,"
 
 msgctxt "pli-tv-bu-vb-np10:10.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -270,7 +270,7 @@ msgstr "to wait for a day?”"
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="2075"></a> 
 msgctxt "pli-tv-bu-vb-np10:11.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ upanandaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master …"
+msgstr "After criticizing him in many ways, they told the Master …"
 
 #. <a class="pts-vp-en" id="bd.2.65"></a> 
 msgctxt "pli-tv-bu-vb-np10:11.2"
@@ -279,7 +279,7 @@ msgstr "“Is it true, Upananda,"
 
 msgctxt "pli-tv-bu-vb-np10:11.3"
 msgid "‘ajjaṇho, bhante, āgamehī’ti vuccamāno nāgamesī”ti?"
-msgstr "that you acted in this way?”"
+msgstr "that you acted like this?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np10:11.4"
@@ -289,7 +289,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np10:11.5"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked him:"
+msgstr "The Buddha rebuked him,"
 
 msgctxt "pli-tv-bu-vb-np10:11.6"
 msgid "kathañhi nāma tvaṃ, moghapurisa, upāsakena—"
@@ -690,7 +690,7 @@ msgstr "When he gets the robe, it becomes subject to relinquishment."
 #. </p><p><a class="pts-vp-en" id="bd.2.69"></a> 
 msgctxt "pli-tv-bu-vb-np10:25.8"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
-msgstr "The robe should be relinquished to the Order, a group, or an individual."
+msgstr "The robe should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np10:25.9"

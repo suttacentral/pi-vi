@@ -56,7 +56,7 @@ msgstr "At that time the Master had allowed the rainy-season robe for the monks.
 
 msgctxt "pli-tv-bu-vb-np24:6.4"
 msgid "Chabbaggiyā bhikkhū—“bhagavatā vassikasāṭikā anuññātā”ti,"
-msgstr "Knowing that this was the case, monks from the group of six"
+msgstr "Knowing that this was the case, the monks from the group of six"
 
 #. VAR: paṭikacceva → paṭigacceva (bj, pts1)
 msgctxt "pli-tv-bu-vb-np24:6.5"
@@ -82,12 +82,12 @@ msgstr "complained and criticized them,"
 
 msgctxt "pli-tv-bu-vb-np24:6.10"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū paṭikacceva vassikasāṭikacīvaraṃ pariyesissanti, paṭikacceva katvā nivāsessanti, jiṇṇāya vassikasāṭikāya naggā kāyaṃ ovassāpessantī”ti."
-msgstr "“How can those monks from the group of six go looking for cloth for their rainy-season robes early, sew them early, and then wear them, and then, because their rainy-season robes are worn, bathe naked in the rain?”"
+msgstr "“How can the monks from the group of six go looking for cloth for their rainy-season robes early, sew them early, and then wear them, and then, because their rainy-season robes are worn, bathe naked in the rain?”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2324"></a><a class="pts-vp-en" id="bd.2.135"></a> 
 msgctxt "pli-tv-bu-vb-np24:7.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks from the group of six in many ways, they informed the Master. …"
+msgstr "After criticizing the monks from the group of six in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np24:7.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, paṭikacceva vassikasāṭikacīvaraṃ pariyesatha?"
@@ -109,7 +109,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np24:7.6"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 msgctxt "pli-tv-bu-vb-np24:7.7"
 msgid "kathañhi nāma tumhe moghapurisā, paṭikacceva vassikasāṭikacīvaraṃ pariyesissatha, paṭikacceva katvā nivāsessatha, jiṇṇāya vassikasāṭikāya naggā kāyaṃ ovassāpessatha."

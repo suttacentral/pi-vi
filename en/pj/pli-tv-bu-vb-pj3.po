@@ -49,7 +49,7 @@ msgstr "First sub-story"
 #. </h3><p><a class="sc" id="1"></a><a class="pts-cs-empty" id="Bu-Pj.3"></a><a class="pts-cs-empty" id="Bu-Pj.3.1"></a><a class="pts-cs" id="Bu-Pj.3.1.1"></a><a class="pts-vp-en" id="bd.1.116"></a><a class="pts-vp-pli" id="pts-vp-pli3.68"></a> <a class="ms-pa" id="ms.376"></a> 
 msgctxt "pli-tv-bu-vb-pj3:5.3"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭā­gāra­sālāyaṃ."
-msgstr "At one time, the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
+msgstr "At one time the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
 
 msgctxt "pli-tv-bu-vb-pj3:5.4"
 msgid "Tena kho pana samayena bhagavā bhikkhūnaṃ aneka­pariyā­yena asubhakathaṃ katheti,"
@@ -70,7 +70,7 @@ msgstr "and in praise of the attainment of unattractiveness."
 #. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms.377"></a> 
 msgctxt "pli-tv-bu-vb-pj3:6.1"
 msgid "Atha kho bhagavā bhikkhū āmantesi—"
-msgstr "The Master then addressed the monks:"
+msgstr "The Master then addressed the monks,"
 
 msgctxt "pli-tv-bu-vb-pj3:6.2"
 msgid "“icchāmahaṃ, bhikkhave, addhamāsaṃ paṭisallīyituṃ."
@@ -123,13 +123,13 @@ msgstr "“Please kill us."
 
 msgctxt "pli-tv-bu-vb-pj3:7.9"
 msgid "Idaṃ te pattacīvaraṃ bhavissatī”ti."
-msgstr "This bowl and robe will be yours.”"
+msgstr "This bowl and these robe will be yours.”"
 
 #. <a class="pts-vp-en" id="bd.1.118"></a> 
 #. VAR: lohitakaṃ → lohitagataṃ (pts1, mr)
 msgctxt "pli-tv-bu-vb-pj3:7.10"
 msgid "Atha kho migalaṇḍiko samaṇakuttako pattacīvarehi bhaṭo sambahule bhikkhū jīvitā voropetvā lohitakaṃ asiṃ ādāya yena vaggumudā nadī tenupasaṅkami."
-msgstr "And hired for a bowl and robe, Migalaṇḍika killed many monks."
+msgstr "And hired for a bowl and robes, Migalaṇḍika killed many monks."
 
 #. </p><p><a class="sc" id="4"></a><a class="ms-pa" id="ms.379"></a> 
 msgctxt "pli-tv-bu-vb-pj3:8.1"
@@ -290,9 +290,7 @@ msgstr "“Monks, when stillness by mindfulness of breathing is developed and cu
 #. VAR: uhataṃ → ūhataṃ (bj, s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-pj3:13.2"
 msgid "Seyyathāpi, bhikkhave, gimhānaṃ pacchime māse uhataṃ rajojallaṃ tamenaṃ mahāakālamegho ṭhānaso antaradhāpeti vūpasameti;"
-msgstr ""
-"Just as a great storm out of season, in the last month of summer, stops and "
-"settles the dust and dirt in the air,"
+msgstr "Just as a great, unseasonal storm in the last month of the hot season stops and settles the dust and dirt in the air,"
 
 msgctxt "pli-tv-bu-vb-pj3:13.3"
 msgid "evameva kho, bhikkhave, ānā­pā­nassa­ti­samā­dhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti."
@@ -468,7 +466,7 @@ msgstr "“Is it true, monks, that some monks have taken their own lives, have k
 
 msgctxt "pli-tv-bu-vb-pj3:19.3"
 msgid "‘sādhu no, āvuso, jīvitā voropehi, idaṃ te pattacīvaraṃ bhavissatī’”ti?"
-msgstr "‘Please kill us; this bowl and robe will be yours’?”"
+msgstr "‘Please kill us; this bowl and these robes will be yours’?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj3:19.4"
@@ -478,7 +476,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj3:19.5"
 msgid "Vigarahi buddho bhagavā—"
-msgstr "The Buddha criticized them:"
+msgstr "The Buddha criticized them,"
 
 msgctxt "pli-tv-bu-vb-pj3:19.6"
 msgid "“ananucchavikaṃ, bhikkhave, tesaṃ bhikkhūnaṃ ananulomikaṃ appaṭirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
@@ -490,7 +488,7 @@ msgstr "How could those monks take their own lives, kill one another, and say to
 
 msgctxt "pli-tv-bu-vb-pj3:19.8"
 msgid "‘sādhu no, āvuso, jīvitā voropehi, idaṃ te pattacīvaraṃ bhavissatī’ti."
-msgstr "‘Please kill us; this bowl and robe will be yours’?"
+msgstr "‘Please kill us; this bowl and these robes will be yours’?"
 
 msgctxt "pli-tv-bu-vb-pj3:19.9"
 msgid "Netaṃ, bhikkhave, appasannānaṃ vā pasādāya … pe …"
@@ -509,7 +507,7 @@ msgstr "Preliminary ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-pj3:20.2"
 msgid "“Yo pana bhikkhu sañcicca manus­savig­gahaṃ jīvitā voropeyya satthahārakaṃ vāssa pariyeseyya, ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "‘If a monk intentionally kills a human being or seeks an instrument of death for him, he too is expelled and not in communion.’”"
+msgstr "‘If a monk intentionally kills a human being or seeks an instrument of death for him, he too is expelled and excluded from the community.’”"
 
 #. </strong>
 #. </p><p class="endsection"><a class="sc" id="17"></a><a class="ms-pa" id="ms.392"></a> 
@@ -533,7 +531,7 @@ msgstr "He had a beautiful and pleasant wife,"
 
 msgctxt "pli-tv-bu-vb-pj3:22.4"
 msgid "Chabbaggiyā bhikkhū tassā itthiyā paṭi­baddha­cittā honti."
-msgstr "and monks from the group of six had fallen in love with her."
+msgstr "and the monks from the group of six had fallen in love with her."
 
 #. <a class="pts-vp-pli" id="pts-vp-pli3.72"></a> 
 msgctxt "pli-tv-bu-vb-pj3:22.5"
@@ -562,6 +560,7 @@ msgctxt "pli-tv-bu-vb-pj3:22.10"
 msgid "“tvaṃ khosi, upāsaka, katakalyāṇo katakusalo katabhīruttāṇo akatapāpo akataluddo akatakibbiso."
 msgstr "“You’ve done what’s good and wholesome; you’ve made a shelter against fear. You haven’t done anything bad:"
 
+#. <a class="pts-vp-en" id="bd.1.124"></a> 
 msgctxt "pli-tv-bu-vb-pj3:22.11"
 msgid "Kataṃ tayā kalyāṇaṃ, akataṃ tayā pāpaṃ."
 msgstr "you haven’t been greedy or immoral."
@@ -631,7 +630,7 @@ msgstr "and died."
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj3:23.12"
 msgid "Tassa pajāpati ujjhāyati khiyyati vipāceti—"
-msgstr "But his wife complained and criticized those monks:"
+msgstr "But his wife complained and criticized those monks,"
 
 #. <a class="pts-vp-en" id="bd.1.125"></a> 
 msgctxt "pli-tv-bu-vb-pj3:23.13"
@@ -694,7 +693,7 @@ msgstr "Those monks who had few desires and a sense of conscience, who were cont
 
 msgctxt "pli-tv-bu-vb-pj3:24.3"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
-msgstr "complained and criticized those monks:"
+msgstr "complained and criticized those monks,"
 
 msgctxt "pli-tv-bu-vb-pj3:24.4"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū upāsakassa maraṇavaṇṇaṃ saṃvaṇṇissantī”ti."
@@ -703,7 +702,7 @@ msgstr "“How could they praise death to that lay follower?”"
 #. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms.396"></a><a class="pts-vp-pli" id="pts-vp-pli3.73"></a> 
 msgctxt "pli-tv-bu-vb-pj3:25.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in various ways, they informed the Master …"
+msgstr "After criticizing those monks in various ways, they told the Master …"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj3:25.2"
@@ -718,7 +717,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj3:25.4"
 msgid "Vigarahi buddho bhagavā—"
-msgstr "The Buddha rebuked them:"
+msgstr "The Buddha rebuked them,"
 
 msgctxt "pli-tv-bu-vb-pj3:25.5"
 msgid "“ananucchavikaṃ, moghapurisā, ananulomikaṃ appaṭirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ."
@@ -763,7 +762,7 @@ msgstr "thinking and intending thus, if he praises death in various ways or inci
 
 msgctxt "pli-tv-bu-vb-pj3:26.6"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
-msgstr "he too is expelled and not in communion.’”"
+msgstr "he too is expelled and excluded from the community.’”"
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-pj3:26.7"
@@ -797,7 +796,7 @@ msgstr "Monk:"
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj3:27.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms.399"></a>
@@ -1054,23 +1053,23 @@ msgstr "“he is expelled.”"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pj3:44.1"
 msgid "Asaṃvāsoti"
-msgstr "Not in communion:"
+msgstr "Excluded from the community:"
 
 #. </strong>
 #. <span class="gloss"><strong class="term"> 
 msgctxt "pli-tv-bu-vb-pj3:44.2"
 msgid "saṃvāso nāma"
-msgstr "Communion:"
+msgstr "Community:"
 
 #. </strong>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj3:44.3"
 msgid "ekakammaṃ ekuddeso samasikkhatā—"
-msgstr "common formal procedures, the same recital, the same training—"
+msgstr "common procedures, the same recital, the same training—"
 
 msgctxt "pli-tv-bu-vb-pj3:44.4"
 msgid "eso saṃvāso nāma."
-msgstr "this is called “communion.”"
+msgstr "this is called “community.”"
 
 #. </span> 
 msgctxt "pli-tv-bu-vb-pj3:44.5"
@@ -1079,7 +1078,7 @@ msgstr "He does not take part in this—"
 
 msgctxt "pli-tv-bu-vb-pj3:44.6"
 msgid "tena vuccati asaṃvāsoti."
-msgstr "therefore it is called “not in communion.”"
+msgstr "therefore it is called “excluded from the community.”"
 
 #. </span>
 #. </p><h2>
@@ -1138,7 +1137,7 @@ msgstr "he praises by means of writing."
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pj3:45.13"
 msgid "opātaṃ apassenaṃ, upanikkhipanaṃ, bhesajjaṃ, rūpūpahāro, saddūpahāro, gandhūpahāro, rasūpahāro, ­phoṭṭhab­bū­pahāro, dhammūpahāro, ācikkhanā, anusāsanī, saṅketakammaṃ, nimitta­kammanti."
-msgstr "A pit, a piece of furniture, placing near, medicine, arranging a sight, arranging a sound, arranging a smell, arranging a taste, arranging a touch, arranging a mental state, information, instruction, an arranged action, making a sign."
+msgstr "A pit, a piece of furniture, placing near, medicine, arranging a sight, arranging a sound, arranging a smell, arranging a taste, arranging a touch, arranging a mental state, information, instruction, an action by appointment, making a sign."
 
 #. </p><h4>
 msgctxt "pli-tv-bu-vb-pj3:46.1"
@@ -1294,7 +1293,7 @@ msgstr "he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-pj3:52.5"
 msgid "So itarassa āroceti,"
-msgstr "In informing the next person,"
+msgstr "In telling the next person,"
 
 msgctxt "pli-tv-bu-vb-pj3:52.6"
 msgid "āpatti dukkaṭassa."
@@ -2421,7 +2420,7 @@ msgstr "if, being asked, a monk says,"
 
 msgctxt "pli-tv-bu-vb-pj3:74.3"
 msgid "“evaṃ marassu."
-msgstr "“Die in this way;"
+msgstr "“Die like this;"
 
 msgctxt "pli-tv-bu-vb-pj3:74.4"
 msgid "Yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
@@ -2462,7 +2461,7 @@ msgstr "if, without being asked, a monk says,"
 
 msgctxt "pli-tv-bu-vb-pj3:75.3"
 msgid "“evaṃ marassu."
-msgstr "“Die in this way;"
+msgstr "“Die like this;"
 
 msgctxt "pli-tv-bu-vb-pj3:75.4"
 msgid "Yo evaṃ marati so dhanaṃ vā labhati yasaṃ vā labhati saggaṃ vā gacchatī”ti,"
@@ -2493,18 +2492,18 @@ msgstr "the monk commits an offense entailing expulsion."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pj3:76.1"
 msgid "Saṅketakammaṃ nāma"
-msgstr "An arranged action:"
+msgstr "An action by appointment:"
 
 #. </strong>
 #. <a class="pts-vp-en" id="bd.1.136"></a>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj3:76.2"
 msgid "saṅketaṃ karoti purebhattaṃ vā pacchābhattaṃ vā rattiṃ vā divā vā—"
-msgstr "if a monk makes an arrangement for before the meal or for after the meal, for the night or for the day, telling another person,"
+msgstr "if a monk makes an appointment for before the meal or for after the meal, for the night or for the day, telling another person,"
 
 msgctxt "pli-tv-bu-vb-pj3:76.3"
 msgid "“tena saṅketena taṃ jīvitā voropehī”ti,"
-msgstr "“Kill that person according to this arrangement,”"
+msgstr "“Kill that person according to this appointment,”"
 
 #. </span> 
 msgctxt "pli-tv-bu-vb-pj3:76.4"
@@ -2513,7 +2512,7 @@ msgstr "he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-pj3:76.5"
 msgid "Tena saṅketena taṃ jīvitā voropeti,"
-msgstr "If the other person kills that person according to that arrangement,"
+msgstr "If the other person kills that person according to that appointment,"
 
 msgctxt "pli-tv-bu-vb-pj3:76.6"
 msgid "āpatti ubhinnaṃ pārājikassa."
@@ -2521,7 +2520,7 @@ msgstr "there is an offense entailing expulsion for both."
 
 msgctxt "pli-tv-bu-vb-pj3:76.7"
 msgid "Taṃ saṅketaṃ pure vā pacchā vā taṃ jīvitā voropeti,"
-msgstr "If he kills him before or after the arranged time,"
+msgstr "If he kills him before or after the time of the appointment,"
 
 msgctxt "pli-tv-bu-vb-pj3:76.8"
 msgid "mūlaṭṭhassa anāpatti,"
@@ -2763,7 +2762,7 @@ msgstr "They became remorseful and said, “Could it be that we’ve committed a
 
 msgctxt "pli-tv-bu-vb-pj3:88.5"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master,"
+msgstr "They told the Master,"
 
 msgctxt "pli-tv-bu-vb-pj3:88.6"
 msgid "“Āpattiṃ tumhe, bhikkhave, āpannā pārājikan”ti."
@@ -2776,7 +2775,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="83"></a><a class="pts-cs" id="Bu-Pj.3.5.2"></a><a class="ms-pa" id="ms.458"></a> 
 msgctxt "pli-tv-bu-vb-pj3:89.1"
 msgid "Tena kho pana samayena aññataro piṇḍacāriko bhikkhu pīṭhake pilotikāya paṭicchannaṃ dārakaṃ nisīdanto ottharitvā māresi."
-msgstr "On one occasion a monk who was an almsgoer sat down on a bench, crushing a boy who was concealed by a rag. The boy died."
+msgstr "On one occasion a monk who was an almsgoer sat down on a bench, crushing a boy who was concealed by a piece of cloth. The boy died."
 
 #. <a class="pts-vp-en" id="bd.1.138"></a> 
 msgctxt "pli-tv-bu-vb-pj3:89.2"
@@ -2785,7 +2784,7 @@ msgstr "The monk became remorseful and thought, “Could it be that I’ve commi
 
 msgctxt "pli-tv-bu-vb-pj3:89.3"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master, and he said,"
+msgstr "He told the Master, and the Master said,"
 
 msgctxt "pli-tv-bu-vb-pj3:89.4"
 msgid "“Anāpatti, bhikkhu, pārājikassa."
@@ -2868,7 +2867,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="86"></a><a class="pts-cs" id="Bu-Pj.3.5.4"></a><a class="ms-pa" id="ms.461"></a> 
 msgctxt "pli-tv-bu-vb-pj3:92.1"
 msgid "Tena kho pana samayena pitāputtā bhikkhūsu pabbajitā honti."
-msgstr "At one time, there was a father and son who had gone forth with the monks."
+msgstr "At one time there was a father and son who had gone forth with the monks."
 
 #. <span class="note" hidden>“For a certain event” is not found in the Pali, but has been added to make the Pali idiom clearer.</span> 
 msgctxt "pli-tv-bu-vb-pj3:92.2"
@@ -2914,7 +2913,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="87"></a><a class="ms-pa" id="ms.462"></a> 
 msgctxt "pli-tv-bu-vb-pj3:93.1"
 msgid "Tena kho pana samayena pitāputtā bhikkhūsu pabbajitā honti."
-msgstr "At one time, there was a father and son who had gone forth with the monks."
+msgstr "At one time there was a father and son who had gone forth with the monks."
 
 msgctxt "pli-tv-bu-vb-pj3:93.2"
 msgid "Kāle ārocite putto pitaraṃ etadavoca—"
@@ -2947,7 +2946,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="88"></a><a class="ms-pa" id="ms.463"></a> 
 msgctxt "pli-tv-bu-vb-pj3:94.1"
 msgid "Tena kho pana samayena pitāputtā bhikkhūsu pabbajitā honti."
-msgstr "At one time, there was a father and son who had gone forth with the monks."
+msgstr "At one time there was a father and son who had gone forth with the monks."
 
 msgctxt "pli-tv-bu-vb-pj3:94.2"
 msgid "Kāle ārocite putto pitaraṃ etadavoca—"
@@ -3584,7 +3583,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="107"></a><a class="ms-pa" id="ms.482"></a> 
 msgctxt "pli-tv-bu-vb-pj3:113.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū gijjhakūṭaṃ pabbataṃ abhiruhitvā davāya silaṃ pavijjhiṃsu."
-msgstr "On one occasion monks from the group of six climbed Mount Vulture Peak and threw down a stone for fun."
+msgstr "On one occasion the monks from the group of six climbed Mount Vulture Peak and threw down a stone for fun."
 
 msgctxt "pli-tv-bu-vb-pj3:113.2"
 msgid "Sā aññataraṃ gopālakaṃ ottharitvā māresi."
@@ -3678,7 +3677,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="110"></a><a class="pts-cs" id="Bu-Pj.3.5.15"></a><a class="ms-pa" id="ms.485"></a><a class="pts-vp-pli" id="pts-vp-pli3.83"></a> 
 msgctxt "pli-tv-bu-vb-pj3:116.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno sīsābhitāpo hoti."
-msgstr "On one occasion a monk had a headache."
+msgstr "On one occasion a monk had a severe headache."
 
 msgctxt "pli-tv-bu-vb-pj3:116.2"
 msgid "Tassa bhikkhū natthuṃ adaṃsu."
@@ -3703,7 +3702,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="111"></a><a class="ms-pa" id="ms.486"></a> 
 msgctxt "pli-tv-bu-vb-pj3:117.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno sīsābhitāpo hoti."
-msgstr "On one occasion a certain monk had a headache."
+msgstr "On one occasion a certain monk had a severe headache."
 
 msgctxt "pli-tv-bu-vb-pj3:117.2"
 msgid "Tassa bhikkhū maraṇādhippāyā natthuṃ adaṃsu."
@@ -4179,7 +4178,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="127"></a><a class="pts-cs" id="Bu-Pj.3.5.18"></a><a class="ms-pa" id="ms.502"></a> 
 msgctxt "pli-tv-bu-vb-pj3:133.1"
 msgid "Tena kho pana samayena aññatarassa purisassa dve pajāpatiyo honti—"
-msgstr "At one time, there was a man had two wives,"
+msgstr "At one time there was a man had two wives,"
 
 msgctxt "pli-tv-bu-vb-pj3:133.2"
 msgid "ekā vañjhā, ekā vijāyinī."
@@ -4228,7 +4227,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="128"></a><a class="ms-pa" id="ms.503"></a> 
 msgctxt "pli-tv-bu-vb-pj3:134.1"
 msgid "Tena kho pana samayena aññatarassa purisassa dve pajāpatiyo honti—"
-msgstr "At one time, there was a man had two wives,"
+msgstr "At one time there was a man had two wives,"
 
 msgctxt "pli-tv-bu-vb-pj3:134.2"
 msgid "ekā vañjhā, ekā vijāyinī."
@@ -4283,7 +4282,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="129"></a><a class="pts-vp-en" id="bd.1.145"></a><a class="ms-pa" id="ms.504"></a> 
 msgctxt "pli-tv-bu-vb-pj3:135.1"
 msgid "Tena kho pana samayena aññatarassa purisassa dve pajāpatiyo honti—"
-msgstr "At one time, there was a man had two wives,"
+msgstr "At one time there was a man had two wives,"
 
 msgctxt "pli-tv-bu-vb-pj3:135.2"
 msgid "ekā vañjhā, ekā vijāyinī."
@@ -4464,7 +4463,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="134"></a><a class="pts-cs" id="Bu-Pj.3.5.22"></a><a class="ms-pa" id="ms.509"></a> 
 msgctxt "pli-tv-bu-vb-pj3:140.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū satta­rasa­vaggi­yaṃ bhikkhuṃ aṅguli­patoda­kena hāsesuṃ."
-msgstr "On one occasion monks from the group of six used their fingers to tickle a monk from the group of seventeen to make him laugh."
+msgstr "On one occasion the monks from the group of six used their fingers to tickle a monk from the group of seventeen to make him laugh."
 
 #. <a class="pts-vp-en" id="bd.1.146"></a> 
 #. VAR: uttanto → uttasanto (bj, s1-3)
@@ -4486,10 +4485,10 @@ msgid "(69)"
 msgstr ""
 
 #. </p><hr><p><a class="sc" id="135"></a><a class="pts-cs" id="Bu-Pj.3.5.23"></a><a class="ms-pa" id="ms.510"></a>
-#. <span class="note" hidden>The text doesn’t say what the formal procedure, the <i lang="pli">saṅghakamma</i>, was about, but it seems implied that it was against that monk. This is also the position of the subcommentary: “Aiming at a formal procedure: aiming at doing a formal procedure of censure, etc.” (<i lang="pli">Kammādhippāyāti: tajjanīyādikammakaraṇādhippāyā</i>; <span class="ref">Sp-ṭ.2.187</span>.) The monks from the group of seventeen were in regular conflict with the monks from the group of six.</span> 
+#. <span class="note" hidden>The text doesn’t say what the procedure, the <i lang="pli">saṅghakamma</i>, was about, but it seems implied that it was against that monk. This is also the position of the subcommentary: “Aiming at a procedure: aiming at doing a procedure of censure, etc.” (<i lang="pli">Kammādhippāyāti: tajjanīyādikammakaraṇādhippāyā</i>; <span class="ref">Sp-ṭ.2.187</span>.) The monks from the group of seventeen were in regular conflict with the monks from the group of six.</span> 
 msgctxt "pli-tv-bu-vb-pj3:141.1"
 msgid "Tena kho pana samayena satta­rasa­vaggiyā bhikkhū chabbaggiyaṃ bhikkhuṃ kammaṃ karissāmāti ottharitvā māresuṃ."
-msgstr "On one occasion monks from the group of seventeen overpowered a monk from the group of six, thinking, “We’ll do a formal procedure against him.” He died."
+msgstr "On one occasion monks from the group of seventeen overpowered a monk from the group of six, thinking, “We’ll do a procedure against him.” He died."
 
 msgctxt "pli-tv-bu-vb-pj3:141.2"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
@@ -4877,7 +4876,7 @@ msgstr "“Fell it while standing here.”"
 
 msgctxt "pli-tv-bu-vb-pj3:156.4"
 msgid "Taṃ tatraṭṭhitaṃ chindantaṃ rukkho ottharitvā māresi."
-msgstr "He did. The tree fell on him, and he died"
+msgstr "He did. The tree fell on him, and he died."
 
 msgctxt "pli-tv-bu-vb-pj3:156.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -4932,7 +4931,7 @@ msgstr ""
 #. VAR: ālimpesuṃ → āḷimpesuṃ (mr)
 msgctxt "pli-tv-bu-vb-pj3:158.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū dāyaṃ ālimpesuṃ;"
-msgstr "On one occasion monks from the group of six set fire to a forest grove."
+msgstr "On one occasion the monks from the group of six set fire to a forest grove."
 
 msgctxt "pli-tv-bu-vb-pj3:158.2"
 msgid "manussā daḍḍhā kālamakaṃsu."
@@ -4953,7 +4952,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="153"></a><a class="ms-pa" id="ms.528"></a> 
 msgctxt "pli-tv-bu-vb-pj3:159.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū maraṇādhippāyā dāyaṃ ālimpesuṃ."
-msgstr "On one occasion monks from the group of six, meaning to cause death, set fire to a forest grove."
+msgstr "On one occasion the monks from the group of six, meaning to cause death, set fire to a forest grove."
 
 msgctxt "pli-tv-bu-vb-pj3:159.2"
 msgid "Manussā daḍḍhā kālamakaṃsu … pe …"
@@ -5132,15 +5131,15 @@ msgstr "The nun became remorseful. …"
 #. <a class="pts-vp-en" id="bd.1.150"></a> 
 msgctxt "pli-tv-bu-vb-pj3:163.9"
 msgid "Atha kho sā bhikkhunī bhikkhunīnaṃ etamatthaṃ ārocesi."
-msgstr "She then informed the nuns,"
+msgstr "She then told the nuns,"
 
 msgctxt "pli-tv-bu-vb-pj3:163.10"
 msgid "Bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
-msgstr "who in turn informed the monks,"
+msgstr "who in turn told the monks,"
 
 msgctxt "pli-tv-bu-vb-pj3:163.11"
 msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ."
-msgstr "who then informed the Master."
+msgstr "who then told the Master."
 
 msgctxt "pli-tv-bu-vb-pj3:163.12"
 msgid "“Āpattiṃ sā, bhikkhave, bhikkhunī āpannā pārājikan”ti."

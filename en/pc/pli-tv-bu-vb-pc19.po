@@ -131,7 +131,7 @@ msgstr "Final ruling"
 #. VAR: appaharite → apaharite (s2)
 msgctxt "pli-tv-bu-vb-pc19:9.2"
 msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ."
-msgstr "‘When a monk is building a large dwelling, then standing where there are no cultivated plants, he may apply two or three courses of covering, taking it as far as the door frame and using it for fixing the door bolt and for treating the window shutters."
+msgstr "‘When a monk is building a large dwelling, then standing where there are no cultivated plants, he may apply two or three courses of covering, taking it as far as the door frame and using it for fixing the door and for treating the window shutters."
 
 #. VAR: uttari → uttariṃ (bj, s1-3)
 msgctxt "pli-tv-bu-vb-pc19:9.3"
@@ -201,7 +201,7 @@ msgstr "a distance of an arm’s reach next to the lintel and the door-posts."
 #. <a class="wt-pa" id="wt-pa465"></a><strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:14.1"
 msgid "Aggaḷaṭṭhapanāyāti"
-msgstr "For fixing the door bolt:"
+msgstr "For fixing the door:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:14.2"
@@ -218,7 +218,7 @@ msgstr "For treating the window shutters:"
 #. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.259"></a><span class="note" hidden><i lang="pli">Makaradantaka</i>. Lit. “Like the teeth of a <i lang="pli">makara</i>.” In later Buddhism the <i lang="pli">makara</i> is the name of a mythological marine animal, but what it refers to in this context is not clear. According to Sp-yoj.3.243 <i lang="pli">makara</i> is the name of a certain species of fish:" <i lang="pli">Makaradantaketi makaranāmakassa macchassa dantasadise dante</i>. “Swordfish” is merely a tentative rendering taken from PED.</span><span class="note" hidden><i lang="pli">Pañcapaṭika</i>. Vmv.4.299(VRI): <i lang="pli">Pāḷiyaṃ pañcapaṭikanti jātiādipañcappakāravaṇṇamaṭṭhaṃ</i>, “<i lang="pli">Pañcapaṭika</i> in the canonical text means the five-fold appearance, starting with jasmine.” The meaning is not clear, especially of <i lang="pli">jāti</i>.</span> 
 msgctxt "pli-tv-bu-vb-pc19:15.2"
 msgid "vātapānaparikammāya setavaṇṇaṃ kāḷavaṇṇaṃ gerukaparikammaṃ mālākammaṃ latākammaṃ makaradantakaṃ pañcapaṭikaṃ."
-msgstr "for treating the windows there is white color, black color, treating with red ocher, making a garland pattern, making a creeper pattern, a pattern of sword-fish teeth, the five-cloth pattern."
+msgstr "for treating the windows there is white color, black color, and treating with red ocher; making a garland pattern, a creeper pattern, a pattern of sword-fish teeth, and the fivefold pattern."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli4.48"></a>

@@ -140,7 +140,7 @@ msgstr "How can Venerable Upananda come to me and specify the kind of robe he wa
 #. </p><p><a class="sc" id="3"></a><a class="pts-vp-en" id="bd.2.54"></a><a class="wt-pa" id="2017"></a> 
 msgctxt "pli-tv-bu-vb-np8:8.1"
 msgid "Assosuṃ kho bhikkhū tassa purisassa ujjhāyantassa khiyyantassa vipācentassa."
-msgstr "Monks heard the complaints of that man,"
+msgstr "The monks heard the complaints of that man,"
 
 msgctxt "pli-tv-bu-vb-np8:8.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -152,17 +152,17 @@ msgstr "complained and criticized him,"
 
 msgctxt "pli-tv-bu-vb-np8:8.4"
 msgid "“kathañhi nāma āyasmā upanando sakyaputto pubbe appavārito gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpajjissatī”ti."
-msgstr "“How can Venerable Upananda approach a householder and specify the kind of robe he wants without first being invited?”"
+msgstr "“How can Venerable Upananda approach a lay person and specify the kind of robe he wants without first being invited?”"
 
 #. </p><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli3.216"></a><a class="wt-pa" id="2018"></a> 
 msgctxt "pli-tv-bu-vb-np8:9.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ upanandaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master …"
+msgstr "After criticizing him in many ways, they told the Master …"
 
 #. VAR: gahapatikaṃ → gahapatiṃ (bj)
 msgctxt "pli-tv-bu-vb-np8:9.2"
 msgid "“saccaṃ kira tvaṃ, upananda, pubbe appavārito gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpajjasī”ti?"
-msgstr "“Is it true, Upananda, that you acted in this way?”"
+msgstr "“Is it true, Upananda, that you acted like this?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np8:9.3"
@@ -186,7 +186,7 @@ msgstr "“Foolish man, people who are not related don’t know what’s appropr
 
 msgctxt "pli-tv-bu-vb-np8:9.7"
 msgid "Tattha nāma tvaṃ, moghapurisa, pubbe appavārito aññātakaṃ gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpajjissasi."
-msgstr "And still you went to an unrelated householder and specified the kind of robe you wanted without first being invited."
+msgstr "And still you went to an unrelated lay person and specified the kind of robe you wanted without first being invited."
 
 msgctxt "pli-tv-bu-vb-np8:9.8"
 msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
@@ -206,7 +206,7 @@ msgstr "Final ruling"
 #. VAR: cīvaracetāpannaṃ → cīvara­ce­tāpanaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np8:10.2"
 msgid "“Bhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti—"
-msgstr "‘If a male or female householder has set aside a robe fund for an unrelated monk, thinking,"
+msgstr "‘If a layman or laywoman has set aside a robe fund for an unrelated monk, thinking,"
 
 msgctxt "pli-tv-bu-vb-np8:10.3"
 msgid "‘iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī’ti;"
@@ -261,7 +261,7 @@ msgstr "anyone who is not a descendant of one’s male ancestors going back seve
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np8:13.1"
 msgid "Gahapati nāma"
-msgstr "A male householder:"
+msgstr "A layman:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np8:13.2"
@@ -272,7 +272,7 @@ msgstr "any man who lives in a house."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np8:14.1"
 msgid "Gahapatānī nāma"
-msgstr "A female householder:"
+msgstr "A laywoman:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np8:14.2"
@@ -434,7 +434,7 @@ msgstr "wanting something nice, wanting something expensive."
 #. </span></p><hr><p>
 msgctxt "pli-tv-bu-vb-np8:27.3"
 msgid "Tassa vacanena āyataṃ vā vitthataṃ vā appitaṃ vā saṇhaṃ vā cetāpeti, payoge dukkaṭaṃ."
-msgstr "If that householder buys a robe that is long, wide, closely woven, or soft because of the monk’s statement, then for the act of making the statement, he commits an offense of wrong conduct."
+msgstr "If that lay person buys a robe that is long, wide, closely woven, or soft because of the monk’s statement, then for the act of making the statement, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np8:27.4"
 msgid "Paṭilābhena nissaggiyaṃ hoti."
@@ -443,7 +443,7 @@ msgstr "When he gets the robe, it becomes subject to relinquishment."
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np8:27.5"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
-msgstr "The robe should be relinquished to the Order, a group, or an individual."
+msgstr "The robe should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np8:27.6"
@@ -458,7 +458,7 @@ msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 
 #. </span> 
 msgctxt "pli-tv-bu-vb-np8:27.8"
 msgid "“idaṃ me, bhante, cīvaraṃ pubbe appavārito aññātakaṃ gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpannaṃ nissaggiyaṃ,"
-msgstr "‘Venerables, this robe which I received after approaching an unrelated householder and specifying the kind of robe I wanted without first being invited is to be relinquished."
+msgstr "‘Venerables, this robe which I received after approaching an unrelated lay person and specifying the kind of robe I wanted without first being invited is to be relinquished."
 
 msgctxt "pli-tv-bu-vb-np8:27.9"
 msgid "imāhaṃ saṃghassa nissajjāmī”ti … pe …"
@@ -484,29 +484,29 @@ msgstr "Permutations"
 #. </h2><p><a class="sc" id="23"></a><a class="pts-cs" id="bu-np.8.2.2"></a><a class="wt-pa" id="2037"></a> 
 msgctxt "pli-tv-bu-vb-np8:28.2"
 msgid "Aññātake aññātakasaññī pubbe appavārito gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
-msgstr "If the householder is unrelated and the monk perceives them as unrelated, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
+msgstr "If the lay person is unrelated and the monk perceives them as unrelated, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np8:28.3"
 msgid "Aññātake vematiko pubbe appavārito gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
-msgstr "If the householder is unrelated, but the monk is unsure if they are, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
+msgstr "If the lay person is unrelated, but the monk is unsure if they are, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np8:28.4"
 msgid "Aññātake ñātakasaññī pubbe appavārito gahapatikaṃ upasaṅkamitvā cīvare vikappaṃ āpajjati, nissaggiyaṃ pācittiyaṃ."
-msgstr "If the householder is unrelated, but the monk perceives them as related, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
+msgstr "If the lay person is unrelated, but the monk perceives them as related, and, without first being invited, he approaches them and specifies the kind of robe he wants, he commits an offense entailing relinquishment and confession."
 
 #. </p><p><a class="sc" id="24"></a><a class="wt-pa" id="2038"></a> 
 msgctxt "pli-tv-bu-vb-np8:29.1"
 msgid "Ñātake aññātakasaññī, āpatti dukkaṭassa."
-msgstr "If the householder is related, but the monk perceives them as unrelated, he commit an offense of wrong conduct."
+msgstr "If the lay person is related, but the monk perceives them as unrelated, he commit an offense of wrong conduct."
 
 #. <a class="pts-vp-en" id="bd.2.57"></a> 
 msgctxt "pli-tv-bu-vb-np8:29.2"
 msgid "Ñātake vematiko, āpatti dukkaṭassa."
-msgstr "If the householder is related, but the monk is unsure if they are, he commit an offense of wrong conduct."
+msgstr "If the lay person is related, but the monk is unsure if they are, he commit an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np8:29.3"
 msgid "Ñātake ñātakasaññī, anāpatti."
-msgstr "If the householder is related and the monk perceives them as related, there is no offense."
+msgstr "If the lay person is related and the monk perceives them as related, there is no offense."
 
 #. </p><h2>
 msgctxt "pli-tv-bu-vb-np8:30.1"
@@ -536,7 +536,7 @@ msgstr "if it is by means of his own property;"
 
 msgctxt "pli-tv-bu-vb-np8:30.7"
 msgid "mahagghaṃ cetāpetukāmassa appagghaṃ cetāpeti,"
-msgstr "if the householder wishes to buy something expensive, but the monk gets them to buy something inexpensive;"
+msgstr "if the lay person wishes to buy something expensive, but the monk gets them to buy something inexpensive;"
 
 msgctxt "pli-tv-bu-vb-np8:30.8"
 msgid "ummattakassa,"

@@ -60,7 +60,7 @@ msgstr "One of those families had given their daughter in marriage to the son of
 
 msgctxt "pli-tv-bu-vb-ay1:6.5"
 msgid "Atha kho āyasmā udāyī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena taṃ kulaṃ tenupasaṅkami;"
-msgstr "Just then, after dressing one morning, Venerable Udāyī took his bowl and robe and went to the first of those families."
+msgstr "Just then, after robing up one morning, Venerable Udāyī took his bowl and robe and went to the first of those families."
 
 msgctxt "pli-tv-bu-vb-ay1:6.6"
 msgid "upasaṅkamitvā manusse pucchi—"
@@ -145,7 +145,7 @@ msgstr "But Udāyī did not listen."
 
 msgctxt "pli-tv-bu-vb-ay1:7.9"
 msgid "Atha kho visākhā migāramātā nikkhamitvā bhikkhūnaṃ etamatthaṃ ārocesi."
-msgstr "After leaving, Visākhā informed the monks about what had happened."
+msgstr "After leaving, Visākhā told the monks about what had happened."
 
 msgctxt "pli-tv-bu-vb-ay1:7.10"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -162,7 +162,7 @@ msgstr "“How can Venerable Udāyī sit alone with a woman on a private and con
 #. </p><p><a class="sc" id="4"></a><a class="ms-pa" id="ms-pa1805"></a> 
 msgctxt "pli-tv-bu-vb-ay1:8.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After rebuking Udāyī in many ways, they informed the Master …"
+msgstr "After rebuking Udāyī in many ways, they told the Master …"
 
 msgctxt "pli-tv-bu-vb-ay1:8.2"
 msgid "“saccaṃ kira tvaṃ, udāyi, mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappesī”ti?"
@@ -176,7 +176,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ay1:8.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked him: “…"
+msgstr "The Buddha rebuked him, “…"
 
 msgctxt "pli-tv-bu-vb-ay1:8.5"
 msgid "kathañhi nāma tvaṃ, moghapurisa, mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappessasi."
@@ -243,7 +243,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ay1:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order of monks through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-ay1:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -327,7 +327,7 @@ msgstr "Concealed seat:"
 #. VAR: kuṭṭena vā → kuḍḍena vā (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ay1:15.2"
 msgid "āsanaṃ kuṭṭena vā kavāṭena vā kilañjena vā sāṇipākārena vā rukkhena vā thambhena vā kotthaḷiyā vā yena kenaci paṭicchannaṃ hoti."
-msgstr "it is hidden by a wall, a screen, a door, a screening cloth, a tree, a pillar, a grain container, or anything else."
+msgstr "it is concealed by a wall, a screen, a door, a screening cloth, a tree, a pillar, a grain container, or anything else."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1813"></a><a class="pts-vp-en" id="bd.1.333"></a>
 #. <strong class="term"> 
@@ -379,7 +379,7 @@ msgstr "Female lay follower:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ay1:19.2"
 msgid "buddhaṃ saraṇaṃ gatā, dhammaṃ saraṇaṃ gatā, saṃghaṃ saraṇaṃ gatā."
-msgstr "she has gone for refuge to the Buddha, the Teaching, and the monastic Order."
+msgstr "she has gone for refuge to the Buddha, the Teaching, and the Order."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1817"></a>
 #. <strong class="term"> 

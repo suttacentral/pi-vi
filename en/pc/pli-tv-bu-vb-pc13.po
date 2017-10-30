@@ -53,7 +53,6 @@ msgctxt "pli-tv-bu-vb-pc13:6.3"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
 
-#. <span class="note" hidden>This rule is a follow on from Suspension 8 and 9. The comments made there on the names Mettiya and Bhūmajaka, see <span class="ref">MS.1.1565</span>, also apply for this rule.</span> 
 msgctxt "pli-tv-bu-vb-pc13:6.4"
 msgid "Tena kho pana samayena āyasmā dabbo mallaputto saṃghassa senāsanañca paññapeti bhattāni ca uddisati."
 msgstr "At that time Venerable Dabba the Mallian assigned the dwellings and designated the meals,"

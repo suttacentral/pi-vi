@@ -50,11 +50,11 @@ msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anā
 #. VAR: janapade → janapadesu (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc6:6.3"
 msgid "Tena kho pana samayena āyasmā anuruddho kosalesu janapade sāvatthiṃ gacchanto sāyaṃ aññataraṃ gāmaṃ upagacchi."
-msgstr "Just then, while Venerable Anuruddha was walking through the Kosalan country on his way to Sāvatthī, one evening he arrived at a certain village."
+msgstr "At that time, while Venerable Anuruddha was walking through the Kosalan country on his way to Sāvatthī, one evening he arrived at a certain village."
 
 msgctxt "pli-tv-bu-vb-pc6:6.4"
 msgid "Tena kho pana samayena tasmiṃ gāme aññatarissā itthiyā āvasathāgāraṃ paññattaṃ hoti."
-msgstr "Just then a woman in that village had prepared her rest house."
+msgstr "Just then a woman in that village had prepared her guest house."
 
 msgctxt "pli-tv-bu-vb-pc6:6.5"
 msgid "Atha kho āyasmā anuruddho yena sā itthī tenupasaṅkami; upasaṅkamitvā taṃ itthiṃ etadavoca—"
@@ -62,7 +62,7 @@ msgstr "Anuruddha approached that woman and said,"
 
 msgctxt "pli-tv-bu-vb-pc6:6.6"
 msgid "“sace te, bhagini, agaru, vaseyyāma ekarattaṃ āvasathāgāre”ti."
-msgstr "“If it’s not inconvenient for you, I’d like to stay in your rest house for one night.”"
+msgstr "“If it’s not inconvenient for you, I’d like to stay in your guest house for one night.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pc6:6.7"
@@ -76,7 +76,7 @@ msgstr "Other travelers also approached that woman and said,"
 
 msgctxt "pli-tv-bu-vb-pc6:6.9"
 msgid "“sace te, ayye, agaru vaseyyāma ekarattaṃ āvasathāgāre”ti."
-msgstr "“Madam, if it’s not troublesome for you, we’d like to stay in your rest house for one night.”"
+msgstr "“Madam, if it’s not troublesome for you, we’d like to stay in your guest house for one night.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pc6:6.10"
@@ -94,7 +94,7 @@ msgstr "Those travelers then approached Anuruddha and said,"
 
 msgctxt "pli-tv-bu-vb-pc6:6.13"
 msgid "“sace te, bhante, agaru, vaseyyāma ekarattaṃ āvasathāgāre”ti."
-msgstr "“Venerable, if it’s not troublesome for you, we’d like to stay one night in the rest house.”"
+msgstr "“Venerable, if it’s not troublesome for you, we’d like to stay one night in the guest house.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pc6:6.14"
@@ -188,11 +188,11 @@ msgstr "But this ascetic, even when begged by me, does not want me and all this 
 #. <a class="pts-vp-en" id="BD.2.200"></a> 
 msgctxt "pli-tv-bu-vb-pc6:7.21"
 msgid "sāṭakaṃ nivāsetvā āyasmato anuruddhassa pādesu sirasā nipatitvā āyasmantaṃ anuruddhaṃ etadavoca—"
-msgstr "After dressing, she fell down with her head at the feet of Anuruddha and said,"
+msgstr "After dressing, she bowed down with her head at Anuruddha’s feet and said,"
 
 msgctxt "pli-tv-bu-vb-pc6:7.22"
 msgid "“accayo maṃ, bhante, accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ yāhaṃ evamakāsiṃ."
-msgstr "“Venerable, I’ve committed an offense, in that foolishly, confused, and unskillfully I acted in this way."
+msgstr "“Venerable, I’ve committed an offense, in that foolishly, confused, and unskillfully I acted like this."
 
 msgctxt "pli-tv-bu-vb-pc6:7.23"
 msgid "Tassā me, bhante, ayyo accayaṃ accayato paṭiggaṇhātu āyatiṃ saṃvarāyā”ti."
@@ -201,7 +201,7 @@ msgstr "Venerable, please forgive me for my offense so that I may restrain mysel
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pc6:7.24"
 msgid "“Taggha tvaṃ, bhagini, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ yā tvaṃ evamakāsi."
-msgstr "“Certainly you have committed an offense, in that foolishly, confused, and unskillfully you acted in this way."
+msgstr "“Certainly you have committed an offense, in that foolishly, confused, and unskillfully you acted like this."
 
 msgctxt "pli-tv-bu-vb-pc6:7.25"
 msgid "Yato ca kho tvaṃ, bhagini, accayaṃ accayato disvā yathādhammaṃ paṭikarosi, taṃ te mayaṃ paṭiggaṇhāma."
@@ -248,7 +248,7 @@ msgstr "Please accept me as a lay follower who from today has gone for refuge fo
 #. </p><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa185"></a> 
 msgctxt "pli-tv-bu-vb-pc6:9.1"
 msgid "Atha kho āyasmā anuruddho sāvatthiṃ gantvā bhikkhūnaṃ etamatthaṃ ārocesi."
-msgstr "Soon afterwards, after arriving at Sāvatthī, Anuruddha informed the monks of what had happened."
+msgstr "Soon afterwards, after arriving at Sāvatthī, Anuruddha told the monks about what had happened."
 
 msgctxt "pli-tv-bu-vb-pc6:9.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -265,7 +265,7 @@ msgstr "“How can Venerable Anuruddha sleep in the same sleeping place as a wom
 #. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa186"></a> 
 msgctxt "pli-tv-bu-vb-pc6:10.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ anuruddhaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master. …"
+msgstr "After criticizing him in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-pc6:10.2"
 msgid "“saccaṃ kira tvaṃ, anuruddha, mātugāmena sahaseyyaṃ kappesī”ti?"
@@ -329,7 +329,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc6:12.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa189"></a>
 #. <strong class="term"> 

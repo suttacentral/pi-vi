@@ -92,7 +92,7 @@ msgstr "“How can those monks sleep in the same sleeping place as people who ar
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa166"></a> 
 msgctxt "pli-tv-bu-vb-pc5:8.1"
 msgid "Atha kho te bhikkhū te navake bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those newly ordained monks in many ways, they informed the Master. …"
+msgstr "After criticizing those newly ordained monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-pc5:8.2"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū anupasampannena sahaseyyaṃ kappentī”ti?"
@@ -195,7 +195,7 @@ msgstr "“Why are you sitting here, Rāhula?”"
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa170"></a><a class="pts-vp-en" id="BD.2.196"></a> 
 msgctxt "pli-tv-bu-vb-pc5:12.1"
 msgid "Atha kho āyasmā rāhulo bhagavato etamatthaṃ ārocesi."
-msgstr "Rāhula informed the Master of what had happened."
+msgstr "Rāhula told the Master what had happened."
 
 msgctxt "pli-tv-bu-vb-pc5:12.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
@@ -253,7 +253,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc5:14.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa173"></a>
 #. <strong class="term"> 

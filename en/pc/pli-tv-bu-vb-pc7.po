@@ -58,7 +58,7 @@ msgstr "At that time Venerable Udāyī was associating with and visiting a numbe
 
 msgctxt "pli-tv-bu-vb-pc7:6.5"
 msgid "Atha kho āyasmā udāyī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena aññataraṃ kulaṃ tenupasaṅkami."
-msgstr "Then, after dressing one morning, he took his bowl and robe and went to a certain family."
+msgstr "One morning he robed up, took his bowl and robe, and went to a certain family."
 
 msgctxt "pli-tv-bu-vb-pc7:6.6"
 msgid "Tena kho pana samayena gharaṇī nivesanadvāre nisinnā hoti, gharasuṇhā āvasathadvāre nisinnā hoti."
@@ -149,7 +149,7 @@ msgstr "“How can Venerable Udāyī give teachings to women?”"
 #. </p><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa200"></a> 
 msgctxt "pli-tv-bu-vb-pc7:9.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master. …"
+msgstr "After criticizing him in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-pc7:9.2"
 msgid "“saccaṃ kira tvaṃ, udāyi, mātugāmassa dhammaṃ desesī”ti?"
@@ -243,7 +243,7 @@ msgstr "The monks heard the complaints of those female lay followers,"
 
 msgctxt "pli-tv-bu-vb-pc7:13.2"
 msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
-msgstr "and they informed the Master."
+msgstr "and they told the Master."
 
 msgctxt "pli-tv-bu-vb-pc7:13.3"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
@@ -299,7 +299,7 @@ msgstr "“How can the monks from the group of six teach women more than five or
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="wt-pa208"></a> 
 msgctxt "pli-tv-bu-vb-pc7:17.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-pc7:17.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, aviññuṃ purisaviggahaṃ upanisīdāpetvā mātugāmassa uttarichappañcavācāhi dhammaṃ desethā”ti?"
@@ -369,7 +369,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:19.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "…The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "…The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa211"></a>
 #. <strong class="term"> 

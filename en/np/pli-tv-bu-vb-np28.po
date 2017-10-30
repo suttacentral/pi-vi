@@ -90,15 +90,15 @@ msgstr "It’s hard to know whether I will live or die.”"
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2386"></a> 
 msgctxt "pli-tv-bu-vb-np28:7.1"
 msgid "Assosuṃ kho bhikkhū tassa mahāmattassa ujjhāyantassa khiyyantassa vipācentassa."
-msgstr "Monks heard the complaints of that minister,"
+msgstr "The monks heard the complaints of that minister,"
 
 msgctxt "pli-tv-bu-vb-np28:7.2"
 msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
-msgstr "and they informed the Master."
+msgstr "and they told the Master."
 
 msgctxt "pli-tv-bu-vb-np28:7.3"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
-msgstr "Soon afterwards the Master gave a teaching and addressed the monks:"
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
 msgctxt "pli-tv-bu-vb-np28:7.4"
 msgid "“anujānāmi, bhikkhave, accekacīvaraṃ paṭiggahetvā nikkhipitun”ti."
@@ -115,7 +115,7 @@ msgstr ""
 
 msgctxt "pli-tv-bu-vb-np28:8.3"
 msgid "accekacīvarāni paṭiggahetvā cīvarakālasamayaṃ atikkāmenti."
-msgstr "monks received haste-cloths"
+msgstr "monks received haste-cloth"
 
 msgctxt "pli-tv-bu-vb-np28:8.4"
 msgid "Tāni cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhanti."
@@ -125,7 +125,7 @@ msgstr "and stored them beyond the robe season, in bundles on a bamboo robe-rack
 #. VAR: Addasa → addasā (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np28:8.5"
 msgid "Addasa kho āyasmā ānando senāsanacārikaṃ āhiṇḍanto tāni cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhante disvā bhikkhū etadavoca—"
-msgstr "While inspecting the dwellings, Venerable Ānanda saw that cloth, and he asked the monks,"
+msgstr "While touring the dwellings, Venerable Ānanda saw that cloth, and he asked the monks,"
 
 msgctxt "pli-tv-bu-vb-np28:8.6"
 msgid "“kassimāni, āvuso, cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhantī”ti?"
@@ -144,7 +144,7 @@ msgstr "“How long have you stored it?”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np28:8.9"
 msgid "Atha kho te bhikkhū āyasmato ānandassa yathānikkhittaṃ ārocesuṃ."
-msgstr "They informed him,"
+msgstr "They told him,"
 
 msgctxt "pli-tv-bu-vb-np28:8.10"
 msgid "Āyasmā ānando ujjhāyati khiyyati vipāceti—"
@@ -157,12 +157,12 @@ msgstr "“How can these monks receive haste-cloth and then store it beyond the 
 #. </p><p><a class="sc" id="4"></a><a class="wt-pa" id="2388"></a> 
 msgctxt "pli-tv-bu-vb-np28:9.1"
 msgid "Atha kho āyasmā ānando te bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesi … pe …—"
-msgstr "After criticizing those monks in many ways, Ānanda informed the Master. …"
+msgstr "After criticizing those monks in many ways, Ānanda told the Master. …"
 
 #. <a class="pts-vp-en" id="bd.2.153"></a> 
 msgctxt "pli-tv-bu-vb-np28:9.2"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū accekacīvaraṃ paṭiggahetvā cīvarakālasamayaṃ atikkāmentī”ti?"
-msgstr "“Is it true, monks, that some monks are doing this?”"
+msgstr "“Is it true, monks, that some monks do this?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np28:9.3"
@@ -172,7 +172,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np28:9.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha criticized them: “…"
+msgstr "The Buddha criticized them, “…"
 
 msgctxt "pli-tv-bu-vb-np28:9.5"
 msgid "kathañhi nāma te, bhikkhave, moghapurisā accekacīvaraṃ paṭiggahetvā cīvarakālasamayaṃ atikkāmessanti."
@@ -196,7 +196,7 @@ msgstr "Final ruling"
 #. VAR: kattikatemāsikapuṇṇamaṃ → kat­ti­ka­te­māsi­puṇṇamaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-np28:10.2"
 msgid "“Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuno paneva accekacīvaraṃ uppajjeyya, accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ,"
-msgstr "‘When there are ten days left to the Kattika full moon that ends the first rains residence and haste-cloth becomes available to a monk,"
+msgstr "‘When there are ten days left to the Kattika full moon that ends the first rains residence and haste-cloth is given to a monk,"
 
 #. VAR: yāva cīvarakālasamayaṃ → yāvacīvara … (s1-3)
 msgctxt "pli-tv-bu-vb-np28:10.3"
@@ -276,7 +276,7 @@ msgstr "He may then store it until the end of the robe season:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np28:14.3"
 msgid "saññāṇaṃ katvā nikkhipitabbaṃ—“idaṃ accekacīvaran”ti."
-msgstr "establishing the perception of it as a haste-robe, he may store it."
+msgstr "establishing the perception of it as a haste-cloth, he may store it."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2394"></a>
 #. <strong class="term"> 
@@ -407,7 +407,7 @@ msgstr "If it is not haste-cloth, but he perceives it as haste-cloth, he commits
 
 msgctxt "pli-tv-bu-vb-np28:18.3"
 msgid "Anaccekacīvare vematiko, āpatti dukkaṭassa."
-msgstr "If it is not haste-cloth, but he is unsure if it is, he commits an offense of wrong conduct."
+msgstr "If it is not haste-cloth, but he is unsure of it, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np28:18.4"
 msgid "Anaccekacīvare anaccekacīvarasaññī, anāpatti."

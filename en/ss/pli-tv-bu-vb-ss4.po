@@ -39,11 +39,11 @@ msgstr "Origin story"
 #. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.132"></a><a class="pts-vp-en" id="bd.1.222"></a><a class="pts-cs-empty" id="bu-ss.4.1"></a><a class="pts-cs" id="bu-ss.4.1.1"></a><a class="ms-pa" id="ms-pa1180"></a> 
 msgctxt "pli-tv-bu-vb-ss4:5.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
-msgstr "At one time, the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 msgctxt "pli-tv-bu-vb-ss4:5.3"
 msgid "Tena kho pana samayena āyasmā udāyī sāvatthiyaṃ kulūpako hoti, bahukāni kulāni upasaṅkamati."
-msgstr "At that time, Venerable Udāyī was associating with and visiting a number of families in Sāvatthī."
+msgstr "At that time Venerable Udāyī was associating with and visiting a number of families in Sāvatthī."
 
 msgctxt "pli-tv-bu-vb-ss4:5.4"
 msgid "Tena kho pana samayena aññatarā itthī matapatikā abhirūpā hoti dassanīyā pāsādikā."
@@ -51,7 +51,7 @@ msgstr ""
 
 msgctxt "pli-tv-bu-vb-ss4:5.5"
 msgid "Atha kho āyasmā udāyī pubbaṇ­ha­samayaṃ nivāsetvā patta­cīvara­mādāya yena tassā itthiyā nivesanaṃ tenupasaṅkami;"
-msgstr "Then, after dressing one morning, Udāyī took his bowl and robe and went to the house of a beautiful widow,"
+msgstr "One morning Udāyī robed up, took his bowl and robe, and went to the house of a beautiful widow,"
 
 msgctxt "pli-tv-bu-vb-ss4:5.6"
 msgid "upasaṅkamitvā paññatte āsane nisīdi."
@@ -79,7 +79,7 @@ msgstr "“Venerable, please say what you need."
 
 msgctxt "pli-tv-bu-vb-ss4:5.12"
 msgid "Paṭibalā mayaṃ ayyassa dātuṃ yadidaṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­ran”ti."
-msgstr "I’m able to give robes, almsfood, dwelling equipment, and medicines.”"
+msgstr "I’m able to give robe-cloth, almsfood, dwellings, and medicines.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1181"></a> 
 msgctxt "pli-tv-bu-vb-ss4:6.1"
@@ -204,7 +204,7 @@ msgstr "“How can Venerable Udāyī commend the fulfilling of his own desires i
 #. VAR: Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato → atha kho te bhikkhū bhagavato (sī1, syā1-3, pā1)
 msgctxt "pli-tv-bu-vb-ss4:10.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
-msgstr "Those monks rebuked Udāyī in many ways and then informed the Master."
+msgstr "Those monks rebuked Udāyī in many ways and then told the Master."
 
 msgctxt "pli-tv-bu-vb-ss4:10.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ udāyiṃ paṭipucchi—"
@@ -294,7 +294,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:12.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-ss4:12.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -634,7 +634,7 @@ msgstr "There is no offense:"
 
 msgctxt "pli-tv-bu-vb-ss4:35.3"
 msgid "“cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rena upaṭṭhahā”ti bhaṇati,"
-msgstr "if he says, “Attend on us with robes, almsfood, dwelling equipment, and medicines;”"
+msgstr "if he says, “Attend on us with robe-cloth, almsfood, dwellings, and medicines;”"
 
 msgctxt "pli-tv-bu-vb-ss4:35.4"
 msgid "ummattakassa"

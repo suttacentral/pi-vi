@@ -1,4 +1,3 @@
-#Translation Template For SuttaCentral
 msgid ""
 msgstr ""
 "Project-Id-Version: suttas 1\n"
@@ -1068,7 +1067,7 @@ msgctxt "pli-tv-bu-vb-intro:43.2"
 msgid "Atha kho verañjo brāhmaṇo buddhappamukhaṃ bhikkhusaṃghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ ticīvarena acchādesi, ekamekañca bhikkhuṃ ekamekena dussayugena acchādesi."
 msgstr "With his own hands the brahmin served various kinds of fine food to the Order of monks headed by the Buddha. When they were satisfied and the Master had finished his meal, the brahmin gave a set of three robes to the Master and two pieces of cloth to each monk."
 
-msgctxt "pli-tv-bu-vb-intro:43.4"
+msgctxt "pli-tv-bu-vb-intro:43.3"
 msgid "Atha kho bhagavā verañjaṃ brāhmaṇaṃ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṃsetvā uṭṭhāyāsanā pakkāmi."
 msgstr "The Master instructed, inspired, and gladdened him with a teaching, and then rose from his seat and departed."
 

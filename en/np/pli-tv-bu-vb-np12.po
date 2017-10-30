@@ -52,7 +52,7 @@ msgstr "At one time the Buddha was staying at Vesālī in the hall with the peak
 
 msgctxt "pli-tv-bu-vb-np12:6.3"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpenti."
-msgstr "At that time monks from the group of six were getting blankets made entirely of black wool."
+msgstr "At that time the monks from the group of six were getting blankets made entirely of black wool."
 
 msgctxt "pli-tv-bu-vb-np12:6.4"
 msgid "Manussā vihāracārikaṃ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti—"
@@ -60,12 +60,12 @@ msgstr "People who were touring the dwellings grumbled and complained,"
 
 msgctxt "pli-tv-bu-vb-np12:6.5"
 msgid "“kathañhi nāma samaṇā sakyaputtiyā suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpessanti, seyyathāpi gihī kāmabhogino”ti."
-msgstr "“How can the Sakyan ascetics get blankets made entirely of black wool, just like householders who indulge in sensual pleasures?”"
+msgstr "“How can the Sakyan ascetics get blankets made entirely of black wool, just like lay people who indulge in sensual pleasures?”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2110"></a> 
 msgctxt "pli-tv-bu-vb-np12:7.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those people,"
+msgstr "The monks heard the complaints of those people,"
 
 msgctxt "pli-tv-bu-vb-np12:7.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -77,12 +77,12 @@ msgstr "complained and criticized those monks,"
 
 msgctxt "pli-tv-bu-vb-np12:7.4"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpessantī”ti."
-msgstr "“How can those monks from the group of six get blankets made entirely of black wool?”"
+msgstr "“How can the monks from the group of six get blankets made entirely of black wool?”"
 
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2111"></a> 
 msgctxt "pli-tv-bu-vb-np12:8.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np12:8.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpethā”ti?"
@@ -96,7 +96,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np12:8.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 msgctxt "pli-tv-bu-vb-np12:8.5"
 msgid "kathañhi nāma tumhe, moghapurisā, suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpessatha."
@@ -150,7 +150,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np12:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np12:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -191,7 +191,7 @@ msgstr "Gets made:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np12:13.2"
 msgid "karoti vā kārāpeti vā, payoge dukkaṭaṃ."
-msgstr "in the act of making the blanket, or getting it made, he commits an offense of wrong conduct."
+msgstr "for the act of making the blanket, or getting it made, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np12:13.3"
 msgid "Paṭilābhena nissaggiyaṃ hoti."

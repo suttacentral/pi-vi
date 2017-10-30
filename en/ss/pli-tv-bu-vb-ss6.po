@@ -81,7 +81,7 @@ msgstr "he stayed at the Aggāḷava Shrine."
 
 msgctxt "pli-tv-bu-vb-ss6:6.4"
 msgid "Atha kho āyasmā mahākassapo pubbaṇ­ha­samayaṃ nivāsetvā patta­cīvara­mādāya āḷaviṃ piṇḍāya pāvisi."
-msgstr "Then, after dressing one morning, Venerable Mahākassapa took his bowl and robe and entered Āḷavī for alms."
+msgstr "In the morning Venerable Mahākassapa robed up, took his bowl and robe, and entered Āḷavī for alms."
 
 msgctxt "pli-tv-bu-vb-ss6:6.5"
 msgid "Manussā āyasmantaṃ mahākassapaṃ passitvā ubbijjantipi uttasantipi palāyantipi aññenapi gacchanti aññenapi mukhaṃ karonti dvārampi thakenti."
@@ -133,7 +133,7 @@ msgstr "bowed down to him, and sat down to one side."
 
 msgctxt "pli-tv-bu-vb-ss6:7.6"
 msgid "Ekamantaṃ nisinno kho āyasmā mahākassapo bhagavato etamatthaṃ ārocesi."
-msgstr "And he informed the Master of what had happened."
+msgstr "And he told the Master what had happened."
 
 #. </p><p><a class="sc" id="4"></a><a class="ms-pa" id="ms-pa1420"></a> 
 msgctxt "pli-tv-bu-vb-ss6:8.1"
@@ -142,7 +142,7 @@ msgstr "The Master then had the Order of monks assembled and questioned the monk
 
 msgctxt "pli-tv-bu-vb-ss6:8.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, saññācikāyo kuṭiyo kārāpetha assāmikāyo attuddesikāyo appamāṇikāyo."
-msgstr "“Is it true, monks, that you’re building huts through begging, huts intended for yourself, without a sponsoring owner, and inappropriate in size?"
+msgstr "“Is it true, monks, that you are building huts through begging, huts intended for yourself, without a sponsoring owner, and inappropriate in size?"
 
 msgctxt "pli-tv-bu-vb-ss6:8.3"
 msgid "Tāyo na niṭṭhānaṃ gacchanti."
@@ -168,11 +168,11 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss6:8.8"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 msgctxt "pli-tv-bu-vb-ss6:8.9"
 msgid "kathañhi nāma tumhe, moghapurisā, saṃyācikāyo kuṭiyo kārāpessatha assāmikāyo attuddesikāyo appamāṇikāyo."
-msgstr "Foolish men, how can you act in this way?"
+msgstr "Foolish men, how can you act like this?"
 
 msgctxt "pli-tv-bu-vb-ss6:8.10"
 msgid "Tāyo na niṭṭhānaṃ gacchanti."
@@ -202,7 +202,7 @@ msgstr "Jataka"
 #. </h5><div class="jataka"><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli3.146"></a><a class="pts-cs" id="bu-ss.6.1.3"></a><a class="ms-pa" id="ms-pa1421"></a> 
 msgctxt "pli-tv-bu-vb-ss6:9.2"
 msgid "“Bhūtapubbaṃ, bhikkhave, dve bhātaro isayo gaṅgaṃ nadiṃ upanissāya vihariṃsu."
-msgstr "“Once upon a time, monks, two sages who were brothers lived near the river Ganges."
+msgstr "“At one time, monks, two sages who were brothers lived near the river Ganges."
 
 #. <a class="pts-vp-en" id="bd.1.249"></a> 
 msgctxt "pli-tv-bu-vb-ss6:9.3"
@@ -260,7 +260,7 @@ msgstr "‘Well then, did you see anything belonging to that dragon?’"
 #. VAR: maṇimassa → maṇissa (bj, pts1, mr)
 msgctxt "pli-tv-bu-vb-ss6:9.15"
 msgid "‘Passāmahaṃ, bho, maṇimassa kaṇṭhe pilandhanan’ti."
-msgstr "‘I saw a ornamental jewel on his neck.’"
+msgstr "‘I saw an ornamental jewel on his neck.’"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss6:9.16"
@@ -478,7 +478,7 @@ msgstr "Story"
 #. </h5></div><div class="story"><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli3.148"></a><a class="pts-cs" id="bu-ss.6.1.4"></a><a class="ms-pa" id="ms-pa1430"></a> 
 msgctxt "pli-tv-bu-vb-ss6:18.2"
 msgid "Bhūtapubbaṃ, bhikkhave, aññataro bhikkhu himavantapasse viharati aññatarasmiṃ vanasaṇḍe."
-msgstr "“Once upon a time, monks, a certain monk lived in a forest grove on the slopes of the Himalayas."
+msgstr "“At one time, monks, a certain monk lived in a forest grove on the slopes of the Himalayas."
 
 msgctxt "pli-tv-bu-vb-ss6:18.3"
 msgid "Tassa kho, bhikkhave, vanasaṇḍassa avidūre mahantaṃ ninnaṃ pallalaṃ."
@@ -555,7 +555,7 @@ msgstr "‘I would, Master.’"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss6:18.20"
 msgid "‘Tena hi tvaṃ, bhikkhu, tattha gantvā taṃ vanasaṇḍaṃ ajjhogāhetvā rattiyā paṭhamaṃ yāmaṃ tikkhattuṃ sad­da­manus­sā­vehi—"
-msgstr "‘Well then, go back to that forest grove. In the first watch of the night, call out three times,"
+msgstr "‘Well then, go back to that forest grove. In the first part of the night, call out three times,"
 
 msgctxt "pli-tv-bu-vb-ss6:18.21"
 msgid "suṇantu me, bhonto sakuṇā,"
@@ -575,7 +575,7 @@ msgstr "And in the second"
 
 msgctxt "pli-tv-bu-vb-ss6:18.25"
 msgid "rattiyā pacchimaṃ yāmaṃ tikkhattuṃ sad­da­manus­sā­vehi—"
-msgstr "and third watch of the night do the same thing.’"
+msgstr "and third part of the night do the same thing.’"
 
 msgctxt "pli-tv-bu-vb-ss6:18.26"
 msgid "‘suṇantu me, bhonto sakuṇā,"
@@ -699,7 +699,7 @@ msgstr "Please don’t hate me for this.’"
 #. </p></blockquote><p><a class="sc" id="19"></a><a class="pts-vp-en" id="bd.1.253"></a><a class="ms-pa" id="ms-pa1435"></a> 
 msgctxt "pli-tv-bu-vb-ss6:23.1"
 msgid "So hi nāma, bhikkhave, raṭṭhapālo kulaputto sakaṃ pitaraṃ evaṃ vakkhati."
-msgstr "If Raṭṭhapāla, who came from a good family, could speak in this way to his own father,"
+msgstr "If Raṭṭhapāla, who came from a good family, could speak like this to his own father,"
 
 msgctxt "pli-tv-bu-vb-ss6:23.2"
 msgid "Kimaṅgaṃ pana jano janaṃ."
@@ -708,7 +708,7 @@ msgstr "how much more, then, can people do so to each other."
 #. </p><p><a class="sc" id="20"></a><a class="pts-vp-pli" id="pts-vp-pli3.149"></a><a class="pts-cs" id="bu-ss.6.1.6"></a><a class="ms-pa" id="ms-pa1436"></a> 
 msgctxt "pli-tv-bu-vb-ss6:24.1"
 msgid "Gihīnaṃ, bhikkhave, dussaṃharāni bhogāni sambhatānipi durakkhiyāni."
-msgstr "it’s hard, monks, for householders to acquire and protect their possessions."
+msgstr "it’s hard, monks, for lay people to acquire and protect their possessions."
 
 msgctxt "pli-tv-bu-vb-ss6:24.2"
 msgid "Tattha nāma tumhe, moghapurisā, evaṃ dussaṃharesu bhogesu sambhatesupi durakkhiyesu yācanabahulā viññattibahulā viharissatha—"
@@ -738,7 +738,7 @@ msgctxt "pli-tv-bu-vb-ss6:25.2"
 msgid "“Saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā."
 msgstr "‘When a monk, by means of begging, builds a hut without a sponsoring owner and intended for himself,"
 
-#. <span class="note" hidden>That is, twelve <i lang="pli">sugata-vidatthis</i> long and seven <i lang="pli">sugata-vidatthis</i> wide inside. A <i lang="pli">vidatthi</i> is often translated as a hand-span. <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it quite possibly should be understood as referring to a standard, “the standard hand-span.” The commentary, <span class="ref">Sp.3.567.21</span>, says that, “Here the <i lang="pli">sugata vidatthi</i> is equal to three <i lang="pli">vidatthis</i> of an average man,” <i lang="pli">sugatavidatthi nāma idāni majjhimassa purisassa tisso vidatthiyo</i>. This does not need to be understood as the Buddha being three times the size of an ordinary person, but just that the standard hand-span is three times the regular length. For the conversion into metric units I nevertheless follow the estimate of the <i lang="pli">sugata-vidatthi</i> in BMC, pp.565-566. For an explanation of the rendering “sponsoring owner,” see note to the following rule, <span class="ref">MS.1.1515</span>.</span> 
+#. <span class="note" hidden>That is, twelve <i lang="pli">sugata-vidatthis</i> long and seven <i lang="pli">sugata-vidatthis</i> wide inside. A <i lang="pli">vidatthi</i> is often translated as a hand-span. <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it is used to designate a standard measure, “the standard hand-span.” The commentary, <span class="ref">Sp.3.567.21</span>, says that, “Here the <i lang="pli">sugata vidatthi</i> is equal to three <i lang="pli">vidatthis</i> of an average man,” <i lang="pli">sugatavidatthi nāma idāni majjhimassa purisassa tisso vidatthiyo</i>. This does not need to be understood as the Buddha being three times the size of an ordinary person, but just that the standard hand-span is three times the regular length. For the conversion into metric units I nevertheless follow the estimate of the <i lang="pli">sugata-vidatthi</i> in BMC, pp.565-566. For an explanation of the rendering “sponsoring owner,” see note to the following rule, <span class="ref">MS.1.1515</span>.</span> 
 msgctxt "pli-tv-bu-vb-ss6:25.3"
 msgid "Tatridaṃ pamāṇaṃ—dīghaso dvādasa vidatthiyo, sugata­vidat­thiyā; tiriyaṃ sattantarā."
 msgstr "it is to be no more than 3 meters long and 1.75 meters wide inside."
@@ -817,7 +817,7 @@ msgstr "Without a sponsoring owner:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:29.2"
 msgid "na añño koci sāmiko hoti, itthī vā puriso vā gahaṭṭho vā pabbajito vā."
-msgstr "there is no other owner, either a woman or a man, either a householder or one gone forth."
+msgstr "there is no other owner, either a woman or a man, either a lay person or one gone forth."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1442"></a>
@@ -869,7 +869,7 @@ msgstr "He must get monks to approve a site:"
 #. </strong></p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss6:33.2"
 msgid "tena kuṭikārakena bhikkhunā kuṭivatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "The monk who wishes to build a hut should clear a site. He should then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
+msgstr "The monk who wishes to build a hut should clear a site. He should then approach the Order, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, put the palms of hands together, and say,"
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-ss6:33.3"
@@ -1195,7 +1195,7 @@ msgstr "Or he does not get monks to approve the site, or he exceeds the size lim
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:48.2"
 msgid "ñattidutiyena kammena kuṭivatthuṃ na desāpetvā,"
-msgstr "if the site for the hut has not been approved through a formal procedure consisting of one motion and three announcements,"
+msgstr "if the site for the hut has not been approved through a procedure consisting of one motion and three announcements,"
 
 #. VAR: kārāpeti vā, payoge → payoge payoge (bj, c1)
 msgctxt "pli-tv-bu-vb-ss6:48.3"
@@ -1204,7 +1204,7 @@ msgstr "or he builds a hut or gets one built which exceeds the allowable length 
 
 msgctxt "pli-tv-bu-vb-ss6:48.4"
 msgid "payoge dukkaṭaṃ."
-msgstr "he commits an offense of wrong conduct for the effort."
+msgstr "he commits an offense of wrong conduct for the action."
 
 msgctxt "pli-tv-bu-vb-ss6:48.5"
 msgid "Ekaṃ piṇḍaṃ anāgate āpatti thullaccayassa."
@@ -1504,7 +1504,7 @@ msgstr "where no harm will be done, and which has a space on all sides, there is
 #. </p><h5>
 msgctxt "pli-tv-bu-vb-ss6:62.1"
 msgid ""
-msgstr "Departing without informing of proper building procedure"
+msgstr "Departing without informing of the proper building procedure"
 
 #. </h5><p><a class="sc" id="58"></a><a class="pts-cs" id="bu-ss.6.3.6"></a><a class="ms-pa" id="ms-pa1474"></a> 
 msgctxt "pli-tv-bu-vb-ss6:62.2"
@@ -2662,7 +2662,7 @@ msgstr "There is no offense:"
 
 msgctxt "pli-tv-bu-vb-ss6:98.3"
 msgid "leṇe"
-msgstr "if it is an overhang shelter;"
+msgstr "if it is a shelter;"
 
 msgctxt "pli-tv-bu-vb-ss6:98.4"
 msgid "guhāya"

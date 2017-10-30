@@ -88,7 +88,7 @@ msgstr "“The Master hasn’t allowed monastery workers.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np23:6.11"
 msgid "“Tena hi, bhante, bhagavantaṃ paṭipucchitvā mama āroceyyāthā”ti."
-msgstr "“Well then, Venerable, please ask the Master and inform me of the outcome.”"
+msgstr "“Well then, Venerable, please ask the Master and tell me the outcome.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np23:6.12"
@@ -120,7 +120,7 @@ msgstr "What should I do?”"
 
 msgctxt "pli-tv-bu-vb-np23:7.4"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
-msgstr "The Master then gave a teaching and addressed the monks:"
+msgstr "The Master then gave a teaching and addressed the monks,"
 
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np23:7.5"
@@ -211,7 +211,7 @@ msgstr "And Pilindavaccha began associating with the families in that village."
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np23:8.2"
 msgid "Atha kho āyasmā pilindavaccho pubbaṇhasamayaṃ nivāsetvā pattacīvaraṃ ādāya pilindagāmakaṃ piṇḍāya pāvisi."
-msgstr "After dressing one morning, he took his bowl and robe and entered Pilinda Village for almsfood."
+msgstr "After robing up one morning, he took his bowl and robe and entered Pilinda Village for almsfood."
 
 msgctxt "pli-tv-bu-vb-np23:8.3"
 msgid "Tena kho pana samayena tasmiṃ gāmake ussavo hoti."
@@ -285,7 +285,7 @@ msgstr "Even the royal compound had nothing like it."
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np23:8.20"
 msgid "Manussā rañño māgadhassa seniyassa bimbisārassa ārocesuṃ—"
-msgstr "People informed King Bimbisāra,"
+msgstr "People told King Bimbisāra,"
 
 msgctxt "pli-tv-bu-vb-np23:8.21"
 msgid "“amukassa, deva, ārāmikassa ghare suvaṇṇamālā abhirūpā dassanīyā pāsādikā."
@@ -310,7 +310,7 @@ msgstr "And King Bimbisāra had that family imprisoned."
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np23:8.26"
 msgid "Dutiyampi kho āyasmā pilindavaccho pubbaṇhasamayaṃ nivāsetvā pattacīvaraṃ ādāya pilindagāmakaṃ piṇḍāya pāvisi."
-msgstr "Once again Pilindavaccha dressed in the morning, took his bowl and robe, and entered Pilinda Village for almsfood."
+msgstr "Once again Pilindavaccha robed up in the morning, took his bowl and robe, and entered Pilinda Village for almsfood."
 
 msgctxt "pli-tv-bu-vb-np23:8.27"
 msgid "Pilindagāmake sapadānaṃ piṇḍāya caramāno yena tassa ārāmikassa nivesanaṃ tenupasaṅkami;"
@@ -426,7 +426,7 @@ msgstr "And his followers acquired an abundance of tonics."
 
 msgctxt "pli-tv-bu-vb-np23:10.8"
 msgid "Laddhaṃ laddhaṃ kolambepi ghaṭepi pūretvā paṭisāmeti, parissāvanānipi thavikāyopi pūretvā vātapānesu laggeti."
-msgstr "After filling up jars and pitchers and setting these aside, they filled their water-strainers and bags and hung these in the windows."
+msgstr "After filling up jars and pitchers and setting these aside, they filled their water filters and bags and hung these in the windows."
 
 #. <a class="pts-vp-en" id="bd.2.131"></a> 
 msgctxt "pli-tv-bu-vb-np23:10.9"
@@ -448,7 +448,7 @@ msgstr "“These Sakyan ascetics are hoarding goods indoors, just like King Seni
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="2312"></a> 
 msgctxt "pli-tv-bu-vb-np23:11.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those people,"
+msgstr "The monks heard the complaints of those people,"
 
 msgctxt "pli-tv-bu-vb-np23:11.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -465,11 +465,11 @@ msgstr "“How can these monks choose to live in such abundance?”"
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="2313"></a> 
 msgctxt "pli-tv-bu-vb-np23:12.1"
 msgid "Atha kho te bhikkhū te anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np23:12.2"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū evarūpāya bāhullāya cetentī”ti?"
-msgstr "“Is it true, monks, that some monks are living in this way?”"
+msgstr "“Is it true, monks, that some monks are living like this?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np23:12.3"

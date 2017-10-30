@@ -52,7 +52,7 @@ msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anā
 
 msgctxt "pli-tv-bu-vb-np19:6.3"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjanti."
-msgstr "At that time monks from the group of six traded with money in various ways."
+msgstr "At that time the monks from the group of six traded with money in various ways."
 
 msgctxt "pli-tv-bu-vb-np19:6.4"
 msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
@@ -60,12 +60,12 @@ msgstr "People grumbled and complained,"
 
 msgctxt "pli-tv-bu-vb-np19:6.5"
 msgid "“kathañhi nāma samaṇā sakyaputtiyā nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjissanti, seyyathāpi gihī kāmabhogino”ti."
-msgstr "“How can the Sakyan ascetics trade with money in various ways, just like householders who indulge in sensual pleasures?”"
+msgstr "“How can the Sakyan ascetics trade with money in various ways, just like lay people who indulge in sensual pleasures?”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2223"></a> 
 msgctxt "pli-tv-bu-vb-np19:7.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those people,"
+msgstr "The monks heard the complaints of those people,"
 
 msgctxt "pli-tv-bu-vb-np19:7.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -77,12 +77,12 @@ msgstr "complained and criticized those monks,"
 
 msgctxt "pli-tv-bu-vb-np19:7.4"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjissantī”ti."
-msgstr "“How can those monks from the group of six act in this way?”"
+msgstr "“How can the monks from the group of six act like this?”"
 
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2224"></a> 
 msgctxt "pli-tv-bu-vb-np19:8.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np19:8.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjathā”ti?"
@@ -96,7 +96,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np19:8.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 msgctxt "pli-tv-bu-vb-np19:8.5"
 msgid "kathañhi nāma tumhe, moghapurisā, nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjissatha."
@@ -150,7 +150,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np19:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -284,11 +284,11 @@ msgstr "I relinquish it to the Order.’”"
 #. </span> 
 msgctxt "pli-tv-bu-vb-np19:13.17"
 msgid "Nissajjitvā āpatti desetabbā."
-msgstr "After relinquishing it, he is to acknowledge the offense."
+msgstr "After relinquishing it, he is to confess the offense."
 
 msgctxt "pli-tv-bu-vb-np19:13.18"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
-msgstr "The acknowledgment should be received by a competent and capable monk."
+msgstr "The confession should be received by a competent and capable monk."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np19:13.19"
@@ -350,7 +350,7 @@ msgstr "If he does not, a monk who has five qualities should be appointed as the
 
 msgctxt "pli-tv-bu-vb-np19:13.33"
 msgid "yo na chandāgatiṃ gaccheyya, na dosāgatiṃ gaccheyya, na mohāgatiṃ gaccheyya, na bhayāgatiṃ gaccheyya, chaḍḍitāchaḍḍitañca jāneyya."
-msgstr "one who is not swayed by desire, ill will, confusion, or fear, and who knows the meaning of discarding and not discarding."
+msgstr "one who is not swayed by desire, ill will, confusion, or fear, and who understands the meaning of discarded and not discarded."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np19:13.34"
@@ -458,7 +458,7 @@ msgstr "If it is not money, but he perceives it as money, he commits an offense 
 
 msgctxt "pli-tv-bu-vb-np19:19.2"
 msgid "Arūpiye vematiko, āpatti dukkaṭassa."
-msgstr "If it is not money, but he is unsure if it is, he commits an offense of wrong conduct."
+msgstr "If it is not money, but he is unsure of it, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np19:19.3"
 msgid "Arūpiye arūpiyasaññī, anāpatti."

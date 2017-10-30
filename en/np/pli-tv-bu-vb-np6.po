@@ -84,7 +84,7 @@ msgstr "“Venerable, please tell me what you need."
 
 msgctxt "pli-tv-bu-vb-np6:6.10"
 msgid "Paṭibalā mayaṃ ayyassa dātuṃ yadidaṃ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāran”ti."
-msgstr "I’m able to give you robes, almsfood, dwellings, and medicines.”"
+msgstr "I’m able to give you robe-cloth, almsfood, dwellings, and medicines.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np6:6.11"
@@ -173,7 +173,7 @@ msgstr "How can they take his robe when the merchant’s son was making an appro
 #. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="1978"></a> 
 msgctxt "pli-tv-bu-vb-np6:10.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those people,"
+msgstr "The monks heard the complaints of those people,"
 
 msgctxt "pli-tv-bu-vb-np6:10.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -190,11 +190,11 @@ msgstr "“How can Venerable Upananda ask the merchant’s son for a robe?”"
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="1979"></a> 
 msgctxt "pli-tv-bu-vb-np6:11.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ upanandaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master. …"
+msgstr "After criticizing him in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np6:11.2"
 msgid "“saccaṃ kira tvaṃ, upananda, seṭṭhiputtaṃ cīvaraṃ viññāpesī”ti?"
-msgstr "“Is it true, Upananda, that you acted in this way?”"
+msgstr "“Is it true, Upananda, that you acted like this?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np6:11.3"
@@ -238,7 +238,7 @@ msgstr "Preliminary ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np6:12.2"
 msgid "“Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya, nissaggiyaṃ pācittiyan”ti."
-msgstr "‘If a monk asks an unrelated male or female householder for a robe(-cloth), he commits an offense entailing relinquishment and confession.’”"
+msgstr "‘If a monk asks an unrelated layman or laywoman for robe-cloth, he commits an offense entailing relinquishment and confession.’”"
 
 #. </strong>
 #. </p><p class="endsection"><a class="sc" id="8"></a><a class="wt-pa" id="1981"></a> 
@@ -270,7 +270,7 @@ msgstr "that the Master had laid down this training rule"
 
 msgctxt "pli-tv-bu-vb-np6:14.6"
 msgid "kukkuccāyantā na viññāpesuṃ."
-msgstr "and being afraid of wrongdoing, they did not ask for robes."
+msgstr "and being afraid of wrongdoing, they did not ask for robe-cloth."
 
 msgctxt "pli-tv-bu-vb-np6:14.7"
 msgid "Yathānaggāva sāvatthiṃ gantvā bhikkhū abhivādenti."
@@ -305,7 +305,7 @@ msgstr "“Upāli, please examine them.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np6:14.14"
 msgid "Atha kho āyasmatā upālinā anuyuñjiyamānā te bhikkhū etamatthaṃ ārocesuṃ."
-msgstr "The naked monks then informed Upāli of what had happened,"
+msgstr "The naked monks then told Upāli what had happened,"
 
 msgctxt "pli-tv-bu-vb-np6:14.15"
 msgid "Atha kho āyasmā upāli te bhikkhū anuyuñjitvā bhikkhū etadavoca—"
@@ -339,17 +339,17 @@ msgstr "Shouldn’t they have covered up with grass and leaves?”"
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="1983"></a> 
 msgctxt "pli-tv-bu-vb-np6:15.1"
 msgid "Atha kho te bhikkhū te anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
-msgstr "After criticizing those monks in many ways, they informed the Master."
+msgstr "After criticizing those monks in many ways, they told the Master."
 
 #. <a class="pts-vp-en" id="bd.2.46"></a> 
 msgctxt "pli-tv-bu-vb-np6:15.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
-msgstr "Soon afterwards he gave a teaching and addressed the monks:"
+msgstr "Soon afterwards he gave a teaching and addressed the monks,"
 
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np6:15.3"
 msgid "“anujānāmi, bhikkhave, acchinnacīvarassa vā naṭṭhacīvarassa vā aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpetuṃ."
-msgstr "“Monks, if a monk’s robes are stolen or destroyed, I allow him to ask an unrelated householder for robes."
+msgstr "“Monks, if a monk’s robes are stolen or destroyed, I allow him to ask an unrelated lay person for robe-cloth."
 
 #. <a class="pts-vp-en" id="bd.2.47"></a> 
 msgctxt "pli-tv-bu-vb-np6:15.4"
@@ -384,10 +384,10 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="11"></a><a class="wt-pa" id="1984"></a>
 #. <strong class="rule">
-#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context. Sometimes, such as here, it means both, and I then render it as robe(-cloth).</span> 
+#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.</span> 
 msgctxt "pli-tv-bu-vb-np6:16.2"
 msgid "“Yo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya, aññatra samayā, nissaggiyaṃ pācittiyaṃ."
-msgstr "‘If a monk asks an unrelated male or female householder for a robe(-cloth), unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
+msgstr "‘If a monk asks an unrelated layman or laywoman for robe-cloth, unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np6:16.3"
 msgid "Tatthāyaṃ samayo—"
@@ -430,7 +430,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np6:17.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np6:17.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -451,7 +451,7 @@ msgstr "anyone who is not a descendant of one’s male ancestors going back seve
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np6:19.1"
 msgid "Gahapati nāma"
-msgstr "A male householder:"
+msgstr "A layman:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np6:19.2"
@@ -462,7 +462,7 @@ msgstr "any man who lives in a house."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np6:20.1"
 msgid "Gahapatānī nāma"
-msgstr "A female householder:"
+msgstr "A laywoman:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np6:20.2"
@@ -473,14 +473,14 @@ msgstr "any woman who lives in a house."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np6:21.1"
 msgid "Cīvaraṃ nāma"
-msgstr "Robe(-cloth):"
+msgstr "Robe-cloth:"
 
 #. </strong><span class="gloss">
-#. <span class="note" hidden>The six are linen, cotton, silk, wool, jute, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
-#. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pli">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
+#. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
+#. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
 msgctxt "pli-tv-bu-vb-np6:21.2"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
-msgstr "one of the six kinds of robe(-cloth), but not smaller than what can be transferred."
+msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="1990"></a>
 #. <strong class="term"> 
@@ -518,16 +518,16 @@ msgstr "a monk’s robe is burnt by fire, carried away by water, eaten by rats o
 #. </span></p><hr><p><a class="sc" id="20"></a><a class="pts-cs" id="bu-np.6.3.2"></a><a class="wt-pa" id="1993"></a> 
 msgctxt "pli-tv-bu-vb-np6:25.1"
 msgid "Aññatra samayā viññāpeti, payoge dukkaṭaṃ."
-msgstr "In the act of asking, unless there is an appropriate reason, he commit an offense of wrong conduct."
+msgstr "For the act of asking, unless there is an appropriate reason, he commit an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np6:25.2"
 msgid "Paṭilābhena nissaggiyaṃ hoti."
-msgstr "When he gets the robe(-cloth), it becomes subject to relinquishment."
+msgstr "When he gets the robe-cloth, it becomes subject to relinquishment."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np6:25.3"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
-msgstr "The robe(-cloth) should be relinquished to the Order, a group, or an individual."
+msgstr "The robe-cloth should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np6:25.4"
@@ -537,12 +537,12 @@ msgstr "“And, monks, it should be relinquished in this way. …"
 #. <span class="add"> 
 msgctxt "pli-tv-bu-vb-np6:25.5"
 msgid "pe …"
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
+msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1/23-29\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span> 
 msgctxt "pli-tv-bu-vb-np6:25.6"
 msgid "idaṃ me, bhante, cīvaraṃ aññātakaṃ gahapatikaṃ, aññatra samayā viññāpitaṃ, nissaggiyaṃ."
-msgstr "‘Venerables, this robe(-cloth) which I received after asking an unrelated householder without an appropriate reason is to be relinquished."
+msgstr "‘Venerables, this robe-cloth which I received after asking an unrelated lay person without an appropriate reason is to be relinquished."
 
 msgctxt "pli-tv-bu-vb-np6:25.7"
 msgid "Imāhaṃ saṃghassa nissajjāmīti … pe …"
@@ -558,7 +558,7 @@ msgstr "you should give …"
 
 msgctxt "pli-tv-bu-vb-np6:25.10"
 msgid "āyasmato dammīti."
-msgstr "‘I give this robe(-cloth) back to you.’”"
+msgstr "‘I give this robe-cloth back to you.’”"
 
 #. </span></p><h2>
 msgctxt "pli-tv-bu-vb-np6:26.1"
@@ -568,15 +568,15 @@ msgstr "Permutations"
 #. </h2><p><a class="sc" id="21"></a><a class="pts-cs" id="bu-np.6.3.3"></a><a class="wt-pa" id="1994"></a> 
 msgctxt "pli-tv-bu-vb-np6:26.2"
 msgid "Aññātake aññātakasaññī aññatra samayā cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
-msgstr "If the person is unrelated and the monk perceives them as unrelated, and he asks them for a robe(-cloth), unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
+msgstr "If the person is unrelated and the monk perceives them as unrelated, and he asks them for a robe-cloth, unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np6:26.3"
 msgid "Aññātake vematiko aññatra samayā cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
-msgstr "If the person is unrelated, but the monk is unsure if they are, and he asks them for a robe(-cloth), unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
+msgstr "If the person is unrelated, but the monk is unsure if they are, and he asks them for a robe-cloth, unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np6:26.4"
 msgid "Aññātake ñātakasaññī aññatra samayā cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
-msgstr "If the person is unrelated, but the monk perceives them as related, and he asks them for a robe(-cloth), unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
+msgstr "If the person is unrelated, but the monk perceives them as related, and he asks them for a robe-cloth, unless there is an appropriate reason, he commits an offense entailing relinquishment and confession."
 
 #. </p><p><a class="sc" id="22"></a><a class="wt-pa" id="1995"></a> 
 msgctxt "pli-tv-bu-vb-np6:27.1"

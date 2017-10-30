@@ -54,7 +54,7 @@ msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the
 #. VAR: bahuṃ suttaṃ → bahusuttaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np26:6.3"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū cīvarakārasamaye bahuṃ suttaṃ viññāpesuṃ."
-msgstr "At that time monks from the group of six were making robes, and they asked for a large amount of thread."
+msgstr "At that time the monks from the group of six were making robes, and they asked for a large amount of thread."
 
 msgctxt "pli-tv-bu-vb-np26:6.4"
 msgid "Katepi cīvare bahuṃ suttaṃ avasiṭṭhaṃ hoti."
@@ -99,7 +99,7 @@ msgstr "“How can the Sakyan ascetics ask for thread and then get weavers to we
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2351"></a> 
 msgctxt "pli-tv-bu-vb-np26:7.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those people,"
+msgstr "The monks heard the complaints of those people,"
 
 msgctxt "pli-tv-bu-vb-np26:7.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -111,12 +111,12 @@ msgstr "complained and criticized those monks,"
 
 msgctxt "pli-tv-bu-vb-np26:7.4"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpessantī”ti."
-msgstr "“How can those monks from the group of six ask for thread and then get weavers to weave them robe-cloth?”"
+msgstr "“How can the monks from the group of six ask for thread and then get weavers to weave them robe-cloth?”"
 
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2352"></a> 
 msgctxt "pli-tv-bu-vb-np26:8.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np26:8.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpethā”ti?"
@@ -130,7 +130,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np26:8.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 #. <a class="pts-vp-en" id="bd.2.143"></a> 
 msgctxt "pli-tv-bu-vb-np26:8.5"
@@ -185,7 +185,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np26:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np26:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -215,7 +215,7 @@ msgstr "there are six kinds of thread:"
 
 msgctxt "pli-tv-bu-vb-np26:12.3"
 msgid "khomaṃ kappāsikaṃ koseyyaṃ kambalaṃ sāṇaṃ bhaṅgaṃ."
-msgstr "linen, cotton, silk, wool, jute, and hemp."
+msgstr "linen, cotton, silk, wool, sunn hemp, and hemp."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.257"></a><a class="wt-pa" id="2357"></a>
 #. <strong class="term"> 
@@ -227,7 +227,7 @@ msgstr "Weavers:"
 #. VAR: payoge payoge dukkaṭaṃ → payoge dukkaṭaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np26:13.2"
 msgid "pesakārehi vāyāpeti, payoge payoge dukkaṭaṃ."
-msgstr "for every action to get it woven by weavers, he commits an offense of wrong conduct."
+msgstr "for every effort to get it woven by weavers, he commits an offense of wrong conduct."
 
 #. <a class="pts-vp-en" id="bd.2.144"></a> 
 msgctxt "pli-tv-bu-vb-np26:13.3"
@@ -315,26 +315,27 @@ msgctxt "pli-tv-bu-vb-np26:16.3"
 msgid "cīvaraṃ sibbetuṃ,"
 msgstr "if it is to sew a robe;"
 
+#. <span class="note" hidden>Āyoga. Used as a support for the pallattikā sitting posture. See TAP p.259 (ad. sek.26).</span>
 msgctxt "pli-tv-bu-vb-np26:16.4"
 msgid "āyoge,"
-msgstr "if it is for a bandage;"
+msgstr "if it is for a back-and-knee strap;"
 
 msgctxt "pli-tv-bu-vb-np26:16.5"
 msgid "kāyabandhane,"
-msgstr "if it is for a waistband;"
+msgstr "if it is for a belt;"
 
 #. VAR: aṃsabaddhake → aṃsavaṭṭake (bj) | aṃsabandhake (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np26:16.6"
 msgid "aṃsabaddhake,"
-msgstr "if it is for a shoulder-strap;"
+msgstr "if it is for a shoulder strap;"
 
 msgctxt "pli-tv-bu-vb-np26:16.7"
-msgid "parissāvane,"
+msgid "pattatthavikāya,"
 msgstr "if it is for a bowl-bag;"
 
 msgctxt "pli-tv-bu-vb-np26:16.8"
-msgid "pattatthavikāya,"
-msgstr "if it is for a water-strainer;"
+msgid "parissāvane,"
+msgstr "if it is for a water filter;"
 
 msgctxt "pli-tv-bu-vb-np26:16.9"
 msgid "ñātakānaṃ,"

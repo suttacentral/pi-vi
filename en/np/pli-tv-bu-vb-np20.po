@@ -56,7 +56,7 @@ msgstr "At that time Venerable Upananda the Sakyan had become skilled at making 
 
 msgctxt "pli-tv-bu-vb-np20:6.4"
 msgid "So paṭapilotikānaṃ saṅghāṭiṃ karitvā surattaṃ suparikammakataṃ katvā pārupi."
-msgstr "He made an outer robe of rags, well-dyed and beautifully executed, and he wore it."
+msgstr "He made an outer robe from pieces of cloth, well-dyed and beautifully executed, and he wore it."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np20:6.5"
@@ -168,7 +168,7 @@ msgstr "Then that wanderer grumbled and complained,"
 
 msgctxt "pli-tv-bu-vb-np20:7.10"
 msgid "“gihīpi naṃ gihissa vippaṭisārissa denti,"
-msgstr "“Even householders give things back to a householder who has regrets."
+msgstr "“Even lay people give back to other lay people who have regrets."
 
 msgctxt "pli-tv-bu-vb-np20:7.11"
 msgid "kiṃ pana pabbajito pabbajitassa na dassatī”ti."
@@ -177,7 +177,7 @@ msgstr "How then can an ascetic not give back to another ascetic?”"
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2240"></a> 
 msgctxt "pli-tv-bu-vb-np20:8.1"
 msgid "Assosuṃ kho bhikkhū tassa paribbājakassa ujjhāyantassa khiyyantassa vipācentassa."
-msgstr "Monks heard the complaints of that wanderer,"
+msgstr "The monks heard the complaints of that wanderer,"
 
 msgctxt "pli-tv-bu-vb-np20:8.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -194,7 +194,7 @@ msgstr "“How can Venerable Upananda barter with a wanderer?”"
 #. </p><p><a class="sc" id="4"></a><a class="wt-pa" id="2241"></a> 
 msgctxt "pli-tv-bu-vb-np20:9.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ upanandaṃ sakyaputtaṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master. …"
+msgstr "After criticizing him in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np20:9.2"
 msgid "“saccaṃ kira tvaṃ, upananda, paribbājakena saddhiṃ kayavikkayaṃ samāpajjasī”ti?"
@@ -208,7 +208,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np20:9.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked him: “…"
+msgstr "The Buddha rebuked him, “…"
 
 msgctxt "pli-tv-bu-vb-np20:9.5"
 msgid "kathañhi nāma tvaṃ, moghapurisa, paribbājakena saddhiṃ kayavikkayaṃ samāpajjissasi."
@@ -263,7 +263,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np20:11.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np20:11.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -278,7 +278,7 @@ msgstr "Various ways:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np20:12.2"
 msgid "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā, antamaso cuṇṇapiṇḍopi dantakaṭṭhampi dasikasuttampi."
-msgstr "robes, almsfood, dwellings, or medicines; even bath powder, a toothbrush, or a piece of thread."
+msgstr "robe-cloth, almsfood, dwellings, or medicines; even bath powder, a toothbrush, or a piece of thread."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.242"></a><a class="wt-pa" id="2245"></a>
 #. <strong class="term"> 
@@ -364,7 +364,7 @@ msgstr "If it is not bartering, but he perceives it as bartering, he commits an 
 
 msgctxt "pli-tv-bu-vb-np20:15.2"
 msgid "Nakayavikkaye vematiko, āpatti dukkaṭassa."
-msgstr "If it is not bartering, but he is unsure if it is, he commits an offense of wrong conduct."
+msgstr "If it is not bartering, but he is unsure of it, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np20:15.3"
 msgid "Nakayavikkaye nakayavikkayasaññī, anāpatti."

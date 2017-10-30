@@ -39,11 +39,11 @@ msgstr "Origin story"
 #. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.128"></a><a class="pts-vp-en" id="bd.1.214"></a><a class="pts-cs-empty" id="bu-ss.3.1"></a><a class="pts-cs" id="bu-ss.3.1.1"></a><a class="ms-pa" id="ms-pa1133"></a> 
 msgctxt "pli-tv-bu-vb-ss3:5.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
-msgstr "At one time, the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 msgctxt "pli-tv-bu-vb-ss3:5.2"
 msgid "Tena kho pana samayena āyasmā udāyī araññe viharati."
-msgstr "At that time, Venerable Udāyī was staying in the wilderness,"
+msgstr "At that time Venerable Udāyī was staying in the wilderness,"
 
 msgctxt "pli-tv-bu-vb-ss3:5.3"
 msgid "Tassāyasmato vihāro abhirūpo hoti dassanīyo pāsādiko."
@@ -103,7 +103,7 @@ msgstr "“How can Venerable Udāyī speak lewdly to women?”"
 #. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1134"></a> 
 msgctxt "pli-tv-bu-vb-ss3:6.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They rebuked Udāyī in many ways and informed the Master."
+msgstr "They rebuked Udāyī in many ways and told the Master."
 
 msgctxt "pli-tv-bu-vb-ss3:6.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ udāyiṃ paṭipucchi—"
@@ -190,7 +190,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss3:8.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-ss3:8.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -412,11 +412,11 @@ msgstr "Enquires:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss3:23.2"
 msgid "evaṃ kira tvaṃ sāmikassa desi,"
-msgstr "saying, “So in this way you give to your husband;"
+msgstr "saying, “So you give to your husband like this,"
 
 msgctxt "pli-tv-bu-vb-ss3:23.3"
 msgid "evaṃ jārassa desīti."
-msgstr "in this way you give to your lover?”"
+msgstr "and to your lover like this?”"
 
 #. </span>
 #. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1152"></a>
@@ -432,7 +432,7 @@ msgstr "having been asked, he says,"
 
 msgctxt "pli-tv-bu-vb-ss3:24.3"
 msgid "“evaṃ dehi."
-msgstr "“Give in this way."
+msgstr "“Give like this."
 
 #. VAR: dentā → dentī (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss3:24.4"
@@ -453,7 +453,7 @@ msgstr "not having been asked, he says,"
 
 msgctxt "pli-tv-bu-vb-ss3:25.3"
 msgid "“evaṃ dehi."
-msgstr "“Give in this way."
+msgstr "“Give like this."
 
 #. VAR: dentā → dentī (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss3:25.4"
@@ -756,7 +756,7 @@ msgstr "Case details"
 #. </h3><p><a class="sc" id="37"></a><a class="pts-cs-empty" id="bu-ss.3.4"></a><a class="pts-cs" id="bu-ss.3.4.1"></a><a class="pts-vp-en" id="bd.1.219"></a><a class="ms-pa" id="ms-pa1169"></a> 
 msgctxt "pli-tv-bu-vb-ss3:43.1"
 msgid "Tena kho pana samayena aññatarā itthī navarattaṃ kambalaṃ pārutā hoti."
-msgstr "At one time, a certain woman was wearing a newly dyed upper robe of wool."
+msgstr "At one time a certain woman was wearing a newly dyed upper robe of wool."
 
 msgctxt "pli-tv-bu-vb-ss3:43.2"
 msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
@@ -780,7 +780,7 @@ msgstr "He became remorseful and thought, “The Master has laid down a training
 
 msgctxt "pli-tv-bu-vb-ss3:43.7"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master, and the Master said,"
+msgstr "He told the Master, and the Master said,"
 
 msgctxt "pli-tv-bu-vb-ss3:43.8"
 msgid "“Anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
@@ -797,7 +797,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="38"></a><a class="pts-cs" id="bu-ss.3.4.2"></a><a class="ms-pa" id="ms-pa1170"></a> 
 msgctxt "pli-tv-bu-vb-ss3:44.1"
 msgid "Tena kho pana samayena aññatarā itthī kharakambalaṃ pārutā hoti."
-msgstr "At one time, a certain woman was wearing an upper robe of coarse wool."
+msgstr "At one time a certain woman was wearing an upper robe of coarse wool."
 
 msgctxt "pli-tv-bu-vb-ss3:44.2"
 msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
@@ -835,7 +835,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="39"></a><a class="pts-cs" id="bu-ss.3.4.3"></a><a class="ms-pa" id="ms-pa1171"></a> 
 msgctxt "pli-tv-bu-vb-ss3:45.1"
 msgid "Tena kho pana samayena aññatarā itthī navāvutaṃ kambalaṃ pārutā hoti."
-msgstr "At one time, a certain woman was wearing a newly woven upper robe of wool."
+msgstr "At one time a certain woman was wearing a newly woven upper robe of wool."
 
 msgctxt "pli-tv-bu-vb-ss3:45.2"
 msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
@@ -872,7 +872,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="40"></a><a class="pts-cs" id="bu-ss.3.4.4"></a><a class="ms-pa" id="ms-pa1172"></a> 
 msgctxt "pli-tv-bu-vb-ss3:46.1"
 msgid "Tena kho pana samayena aññatarā itthī kha­ra­kam­balakaṃ pārutā hoti."
-msgstr "At one time, a certain woman was wearing an upper robe of coarse wool."
+msgstr "At one time a certain woman was wearing an upper robe of coarse wool."
 
 msgctxt "pli-tv-bu-vb-ss3:46.2"
 msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
@@ -911,7 +911,7 @@ msgstr ""
 #. VAR: itthī pāvāraṃ → dīghapāvāraṃ (s1-3)
 msgctxt "pli-tv-bu-vb-ss3:47.1"
 msgid "Tena kho pana samayena aññatarā itthī pāvāraṃ pārutā hoti."
-msgstr "At one time, a certain woman was wearing a fleecy upper robe."
+msgstr "At one time a certain woman was wearing a fleecy upper robe."
 
 #. <a class="pts-vp-en" id="bd.1.220"></a> 
 msgctxt "pli-tv-bu-vb-ss3:47.2"
@@ -950,7 +950,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="42"></a><a class="pts-cs" id="bu-ss.3.4.6"></a><a class="ms-pa" id="ms-pa1174"></a><a class="pts-vp-pli" id="pts-vp-pli3.131"></a> 
 msgctxt "pli-tv-bu-vb-ss3:48.1"
 msgid "Tena kho pana samayena aññatarā itthī khettaṃ vapāpetvā āgacchati."
-msgstr "At one time, a woman was returning after having had a field sown."
+msgstr "At one time a woman was returning after having had a field sown."
 
 msgctxt "pli-tv-bu-vb-ss3:48.2"
 msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"
@@ -987,7 +987,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="43"></a><a class="pts-cs" id="bu-ss.3.4.7"></a><a class="ms-pa" id="ms-pa1175"></a> 
 msgctxt "pli-tv-bu-vb-ss3:49.1"
 msgid "Tena kho pana samayena aññataro bhikkhu paribbājikaṃ paṭipathe passitvā sāratto taṃ paribbājikaṃ etadavoca—"
-msgstr "At one time, a monk saw a female wanderer coming in the opposite direction, and being lustful he said to her,"
+msgstr "At one time a monk saw a female wanderer coming in the opposite direction, and being lustful he said to her,"
 
 msgctxt "pli-tv-bu-vb-ss3:49.2"
 msgid "“kacci, bhagini, maggo saṃsīdatī”ti?"
@@ -1020,7 +1020,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="44"></a><a class="pts-cs" id="bu-ss.3.4.8"></a><a class="ms-pa" id="ms-pa1176"></a> 
 msgctxt "pli-tv-bu-vb-ss3:50.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sāratto aññataraṃ itthiṃ etadavoca—"
-msgstr "At one time, a monk, being lustful, said to a woman,"
+msgstr "At one time a monk, being lustful, said to a woman,"
 
 msgctxt "pli-tv-bu-vb-ss3:50.2"
 msgid "“saddhāsi tvaṃ, bhagini."
@@ -1055,7 +1055,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="45"></a><a class="pts-cs" id="bu-ss.3.4.9"></a><a class="ms-pa" id="ms-pa1177"></a> 
 msgctxt "pli-tv-bu-vb-ss3:51.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sāratto aññataraṃ itthiṃ etadavoca—"
-msgstr "At one time, a monk, being lustful, said to a woman,"
+msgstr "At one time a monk, being lustful, said to a woman,"
 
 msgctxt "pli-tv-bu-vb-ss3:51.2"
 msgid "“saddhāsi tvaṃ, bhagini."
@@ -1090,7 +1090,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="46"></a><a class="pts-cs" id="bu-ss.3.4.10"></a><a class="ms-pa" id="ms-pa1178"></a> 
 msgctxt "pli-tv-bu-vb-ss3:52.1"
 msgid "Tena kho pana samayena aññatarā itthī kammaṃ karoti."
-msgstr "At one time, a woman was doing some work."
+msgstr "At one time a woman was doing some work."
 
 msgctxt "pli-tv-bu-vb-ss3:52.2"
 msgid "Aññataro bhikkhu sāratto taṃ itthiṃ etadavoca—"

@@ -41,7 +41,6 @@ msgctxt "pli-tv-bu-vb-ss13:5.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
-#. <span class="note" hidden>These were their names according to <span class="ref">Sp.3.613.26</span>, not Assaji and Punabbasu: “just Assaji and Punabbasuka,” <i lang="pli">assaji ceva punabbasuko ca</i>. By specifying “just,” the commentary understands the two names to refer to those two individuals and not to any group of followers they may have had. This is also clear from the text below, where a <i lang="pli">saṅghakamma</i> is performed against <i lang="pli">assajipunabbasukā bhikkhū</i>, which, due to the nature of <i lang="pli">saṅghakamma</i>, must mean the two monks and not any group led by them. See also <span class="ref">MS.1.1565</span>.</span> 
 #. VAR: nāma → nāma bhikkhū (si, mr)
 msgctxt "pli-tv-bu-vb-ss13:5.3"
 msgid "Tena kho pana samayena assaji­pu­nabba­sukā nāma kīṭāgirismiṃ āvāsikā honti alajjino pāpabhikkhū."
@@ -93,16 +92,17 @@ msgstr "While the women were dancing, singing, playing instruments, and performi
 #. </p><p><a class="pts-cs" id="bu-ss.13.1.2"></a><a class="pts-vp-en" id="bd.1.316"></a><a class="pts-vp-en" id="bd.1.317"></a> 
 msgctxt "pli-tv-bu-vb-ss13:5.14"
 msgid "aṭṭhapadepi kīḷanti, dasapadepi kīḷanti, ākāsepi kīḷanti, pari­hāra­pa­thepi kīḷanti, santikāyapi kīḷanti, khalikāyapi kīḷanti, ghaṭikāyapi kīḷanti, salāka­hat­thenapi kīḷanti, akkhenapi kīḷanti, paṅgacīrenapi kīḷanti, vaṅkakenapi kīḷanti, mokkhacikāyapi kīḷanti, ciṅgulakenapi kīḷanti, pattāḷhakenapi kīḷanti, rathakenapi kīḷanti, dhanukenapi kīḷanti, akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti."
-msgstr "They played various games: board games with eight or ten rows, imaginary board games, hopscotch, spillikins, dice games, tip-cat, painting-with-the-hand games, ball games, toy pipe games, toy plow games, turning somersaults, toy windmill games, toy measure games, toy chariot games, toy bow games, letter-guessing games, thought-guessing games, games of mimicking deformities."
+msgstr "They played various games: board games with eight or ten rows, imaginary board games, hopscotch, spillikins, dice games, tip-cat, painting-with-the-hand games, ball games, toy-plipe games, toy-plow games, turning somersaults, toy-windmill games, toy-measure games, toy-chariot games, toy-bow games, letter-guessing games, thought-guessing games, games of mimicking deformities."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss13:5.15"
 msgid "Hatthismimpi sikkhanti, assasmimpi sikkhanti, rathasmimpi sikkhanti, dhanusmimpi sikkhanti, tharusmimpi sikkhanti,"
 msgstr "They trained in elephant riding, in horsemanship, in carriage riding, in archery, in swordsmanship."
 
+msgctxt "pli-tv-bu-vb-ss13:5.16"
 #. VAR: purato → purato dhāvanti (bj, s1-3, pts1)
 msgid "hatthissapi purato dhāvanti, assassapi purato dhāvanti, rathassapi purato dhāvantipi ādhāvantipi,"
-msgstr "And they ran in front of elephants, in front of horses, and in front of carriages, and they ran backwards and forwards."
+msgstr "And they ran in front of elephants, horses, and carriages, and they ran backwards and forwards."
 
 msgctxt "pli-tv-bu-vb-ss13:5.17"
 msgid "usseḷentipi, apphoṭentipi, nibbujjhantipi, muṭṭhīhipi yujjhanti,"
@@ -133,7 +133,7 @@ msgstr "Just then a certain monk who had spent the rainy-season residence in Kā
 
 msgctxt "pli-tv-bu-vb-ss13:6.2"
 msgid "Atha kho so bhikkhu pubbaṇ­ha­samayaṃ nivāsetvā patta­cīvara­mādāya kīṭāgiriṃ piṇḍāya pāvisi pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena okkhittacakkhu iriyā­patha­sam­panno."
-msgstr "After dressing in the morning, he took his bowl and robe and entered Kīṭāgiri to collect almsfood. He was pleasing in the way he entered and returned, in looking towards and in looking away, in drawing in and stretching out his arms; his eyes were lowered, and he was perfect in deportment."
+msgstr "In the morning he robed up, took his bowl and robe, and entered Kīṭāgiri to collect almsfood. He was pleasing in the way he entered and returned, in looking towards and in looking away, in bending and stretching out his arms; his eyes were lowered, and he was perfect in deportment."
 
 msgctxt "pli-tv-bu-vb-ss13:6.3"
 msgid "Manussā taṃ bhikkhuṃ passitvā evamāhaṃsu—"
@@ -190,7 +190,7 @@ msgstr "“Where are you going, Venerable?”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss13:7.9"
 msgid "“Sāvatthiṃ kho ahaṃ, āvuso, gamissāmi bhagavantaṃ dassanāyā”ti."
-msgstr "“I’m going to Sāvatthī to see the Master.”"
+msgstr "“I am going to Sāvatthī to see the Master.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss13:7.10"
@@ -223,7 +223,7 @@ msgstr "Those people who previously had faith and confidence have now lost it,"
 
 msgctxt "pli-tv-bu-vb-ss13:7.17"
 msgid "Yānipi tāni saṃghassa pubbe dānapathāni tānipi etarahi upacchinnāni."
-msgstr "and there’s no longer any support for the monastic Order."
+msgstr "and there is no longer any support for the Order."
 
 msgctxt "pli-tv-bu-vb-ss13:7.18"
 msgid "Riñcanti pesalā bhikkhū, nivasanti pāpabhikkhū."
@@ -248,7 +248,7 @@ msgstr "He bowed down to the Master and sat down to one side."
 
 msgctxt "pli-tv-bu-vb-ss13:8.4"
 msgid "Āciṇṇaṃ kho panetaṃ buddhānaṃ bhagavantānaṃ āgantukehi bhikkhūhi saddhiṃ paṭisammodituṃ."
-msgstr "It is the custom for Buddhas to greet visiting monks,"
+msgstr "It is the custom for Buddhas to greet newly arrived monks,"
 
 msgctxt "pli-tv-bu-vb-ss13:8.5"
 msgid "Atha kho bhagavā taṃ bhikkhuṃ etadavoca—"
@@ -256,15 +256,15 @@ msgstr "and so the Master said to him,"
 
 msgctxt "pli-tv-bu-vb-ss13:8.6"
 msgid "“kacci, bhikkhu, khamanīyaṃ kacci yāpanīyaṃ,"
-msgstr "“I hope you’re keeping well, monk, I hope you’re comfortable;"
+msgstr "“I hope you are keeping well, monk, I hope you are comfortable;"
 
 msgctxt "pli-tv-bu-vb-ss13:8.7"
 msgid "“kaccisi appa­kila­ma­thena addhānaṃ āgato,"
-msgstr "I hope you’re not tired from traveling."
+msgstr "I hope you are not tired from traveling."
 
 msgctxt "pli-tv-bu-vb-ss13:8.8"
 msgid "kuto ca tvaṃ, bhikkhu, āgacchasī”ti?"
-msgstr "Where have you come from?”"
+msgstr "And where have you come from?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss13:8.9"
@@ -367,7 +367,7 @@ msgstr "And is it true that those people who previously had faith and confidence
 
 msgctxt "pli-tv-bu-vb-ss13:9.4"
 msgid "yānipi tāni saṃghassa pubbe dānapathāni tānipi etarahi upacchinnāni;"
-msgstr "that there’s no longer any support for the monastic Order,"
+msgstr "that there is no longer any support for the Order,"
 
 msgctxt "pli-tv-bu-vb-ss13:9.5"
 msgid "riñcanti pesalā bhikkhū nivasanti pāpabhikkhū”ti?"
@@ -407,11 +407,11 @@ msgstr "This will not give rise to confidence in those without it …” …"
 
 msgctxt "pli-tv-bu-vb-ss13:9.13"
 msgid "vigarahitvā dhammiṃ kathaṃ katvā sāri­putta­mog­gallāne āmantesi—"
-msgstr "After criticizing them, he gave a teaching and then addressed Sāriputta and Moggallāna,"
+msgstr "After criticizing them, he gave a teaching and addressed Sāriputta and Moggallāna,"
 
 msgctxt "pli-tv-bu-vb-ss13:9.14"
 msgid "“gacchatha tumhe, sāriputtā, kīṭāgiriṃ gantvā assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammaṃ karotha."
-msgstr "“Sāriputta, the two of you should go and do a formal procedure to banish the monks Assaji and Punabbasuka from Kīṭāgiri."
+msgstr "“Sāriputta, the two of you should go and do a procedure to banish the monks Assaji and Punabbasuka from Kīṭāgiri."
 
 msgctxt "pli-tv-bu-vb-ss13:9.15"
 msgid "Tumhākaṃ ete saddhivihārikā”ti."
@@ -420,7 +420,7 @@ msgstr "They are your students.”"
 #. </p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.183"></a><a class="ms-pa" id="ms-pa1758"></a> 
 msgctxt "pli-tv-bu-vb-ss13:10.1"
 msgid "“Kathaṃ mayaṃ, bhante, assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammaṃ karoma?"
-msgstr "“Venerable Sir, how can we do a formal procedure to banish these monks from Kīṭāgiri?"
+msgstr "“Venerable Sir, how can we do a procedure to banish these monks from Kīṭāgiri?"
 
 msgctxt "pli-tv-bu-vb-ss13:10.2"
 msgid "Caṇḍā te bhikkhū pharusā”ti."
@@ -434,7 +434,7 @@ msgstr "“Well, take many monks.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss13:10.4"
 msgid "“Evaṃ, bhante”ti kho sāri­putta­mog­gallānā bhagavato paccassosuṃ."
-msgstr "“Ok.”"
+msgstr "““Yes.”"
 
 #. </p><p><a class="pts-cs" id="bu-ss.13.1.7"></a> 
 msgctxt "pli-tv-bu-vb-ss13:10.5"
@@ -447,12 +447,12 @@ msgstr "First you should accuse the monks Assaji and Punabbasuka."
 
 msgctxt "pli-tv-bu-vb-ss13:10.7"
 msgid "Codetvā sāretabbā."
-msgstr "They should then be made to confess what they have done,"
+msgstr "They should then be reminded of what they have done,"
 
 #. VAR: āpattiṃ → āpatti (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss13:10.8"
 msgid "Sāretvā āpattiṃ ropetabbā."
-msgstr "before they’re declared guilty of an offense."
+msgstr "before they are charged with an offense."
 
 msgctxt "pli-tv-bu-vb-ss13:10.9"
 msgid "Āpattiṃ ropetvā byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
@@ -478,7 +478,7 @@ msgstr "and the families corrupted by them are seen and heard about."
 
 msgctxt "pli-tv-bu-vb-ss13:11.5"
 msgid "Yadi saṃghassa pattakallaṃ, saṃgho assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammaṃ kareyya—“na assaji­pu­nabba­sukehi bhikkhūhi kīṭāgirismiṃ vatthabban”ti."
-msgstr "If it seems appropriate to the Order, the Order should do a formal procedure to banish them from Kīṭāgiri."
+msgstr "If it seems appropriate to the Order, the Order should do a procedure to banish them from Kīṭāgiri, declaring that the monks Assaji and Punabbasuka cannot stay at Kīṭāgiri."
 
 msgctxt "pli-tv-bu-vb-ss13:11.6"
 msgid "Esā ñatti."
@@ -503,7 +503,7 @@ msgstr "and the families corrupted by them are seen and heard about."
 
 msgctxt "pli-tv-bu-vb-ss13:12.5"
 msgid "Saṃgho assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammaṃ karoti—"
-msgstr "The Order is doing a formal procedure to banish them,"
+msgstr "The Order is doing a procedure to banish them,"
 
 msgctxt "pli-tv-bu-vb-ss13:12.6"
 msgid "“na assaji­pu­nabba­sukehi bhikkhūhi kīṭāgirismiṃ vatthabban”ti."
@@ -511,7 +511,7 @@ msgstr "declaring that the monks Assaji and Punabbasuka cannot stay at Kīṭāg
 
 msgctxt "pli-tv-bu-vb-ss13:12.7"
 msgid "Yassāyasmato khamati assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammassa karaṇaṃ—“na assaji­pu­nabba­sukehi bhikkhūhi kīṭāgirismiṃ vatthabban”ti, so tuṇhassa;"
-msgstr "Any monk who approves of doing a formal procedure to banish them from Kīṭāgiri should remain silent."
+msgstr "Any monk who approves of doing a procedure to banish them from Kīṭāgiri should remain silent."
 
 msgctxt "pli-tv-bu-vb-ss13:12.8"
 msgid "yassa nakkhamati, so bhāseyya."
@@ -537,7 +537,7 @@ msgstr "should say so."
 #. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1762"></a> 
 msgctxt "pli-tv-bu-vb-ss13:14.1"
 msgid "Kataṃ saṃghena assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammaṃ—"
-msgstr "The Order has performed the formal procedure to banish them,"
+msgstr "The Order has done the procedure to banish them,"
 
 msgctxt "pli-tv-bu-vb-ss13:14.2"
 msgid "“na assaji­pu­nabba­sukehi bhikkhūhi kīṭāgirismiṃ vatthabban”ti."
@@ -555,12 +555,12 @@ msgstr "I will remember it thus.’”"
 #. VAR: kīṭāgirismā → kīṭāgirismiṃ (bj) | kīṭāgirismi (si) | kiṭāgirismā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss13:15.1"
 msgid "Atha kho sāri­putta­mog­gallā­nappa­mukho bhikkhusaṃgho kīṭāgiriṃ gantvā assa­ji­punab­basukā­naṃ bhikkhūnaṃ kīṭāgirismā pab­bājanī­ya­kammaṃ akāsi—“na assaji­pu­nabba­sukehi bhikkhūhi kīṭāgirismiṃ vatthabban”ti."
-msgstr "Soon afterwards an Order of monks headed by Sāriputta and Moggallāna went there and did the formal procedure to banish those monks from Kīṭāgiri."
+msgstr "Soon afterwards an Order of monks headed by Venerable Sāriputta and Venerable Moggallāna went to Kīṭāgiri and did the procedure to banish those monks, declaring that they cannot stay at Kīṭāgiri."
 
 #. <a class="pts-vp-en" id="bd.1.323"></a> 
 msgctxt "pli-tv-bu-vb-ss13:15.2"
 msgid "Te saṃghena pab­bājanī­ya­kamma­katā na sammā vattanti, na lomaṃ pātenti, na netthāraṃ vattanti, na bhikkhū khamāpenti,"
-msgstr "After the Order had performed the formal procedure, those monks did not behave properly or suitably so as to deserve to be cleared, nor did they ask the monks for forgiveness."
+msgstr "After the Order had done the procedure, those monks did not behave properly or suitably so as to deserve to be released, nor did they ask the monks for forgiveness."
 
 msgctxt "pli-tv-bu-vb-ss13:15.3"
 msgid "akkosanti paribhāsanti chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpenti,"
@@ -581,16 +581,16 @@ msgstr "complained and criticized them,"
 #. <a class="pts-vp-en" id="bd.1.324"></a> 
 msgctxt "pli-tv-bu-vb-ss13:15.7"
 msgid "“kathañhi nāma assaji­pu­nabba­sukā bhikkhū saṃghena pab­bājanī­ya­kamma­katā na sammā vattissanti, na lomaṃ pātessanti, na netthāraṃ vattissanti, na bhikkhū khamāpessanti, akkosissanti pari­bhāsis­santi, chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpessanti pakka­mis­santipi vib­bha­mis­santipī”ti."
-msgstr "“When the Order has performed a formal procedure to banish them, how can these monks act in this way?”"
+msgstr "“When the Order has done a procedure to banish them, how can these monks act like this?”"
 
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1764"></a> 
 msgctxt "pli-tv-bu-vb-ss13:16.1"
 msgid "Atha kho te bhikkhū assaji­pu­nabba­suke bhikkhū aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "They rebuked the monks Assaji and Punabbasuka in many ways and then informed the Master. …"
+msgstr "They rebuked the monks Assaji and Punabbasuka in many ways and then told the Master. …"
 
 msgctxt "pli-tv-bu-vb-ss13:16.2"
 msgid "“saccaṃ kira, bhikkhave, assaji­pu­nabba­sukā bhikkhū saṃghena pab­bājanī­ya­kamma­katā na sammā vattanti … pe …"
-msgstr "He said, “Is it true, monks, that when the Order had performed a formal procedure to banish them, the monks Assaji and Punabbasuka did not act properly …"
+msgstr "He said, “Is it true, monks, that when the Order had done a procedure to banish them, the monks Assaji and Punabbasuka did not act properly …"
 
 msgctxt "pli-tv-bu-vb-ss13:16.3"
 msgid "vibbhamantipī”ti?"
@@ -741,7 +741,7 @@ msgstr "Lives supported by:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:19.2"
 msgid "tattha paṭibaddhā honti cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khārā."
-msgstr "robes, almsfood, lodging requisites, and medicines can be obtained in that place."
+msgstr "robe-cloth, almsfood, dwellings, and medicines can be obtained in that place."
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="pts-vp-pli" id="pts-vp-pli3.185"></a><a class="ms-pa" id="ms-pa1768"></a>
@@ -920,7 +920,7 @@ msgstr "Him:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:29.2"
 msgid "yo so kammakato bhikkhu."
-msgstr "that monk who is having a formal procedure done against him."
+msgstr "that monk who is having a procedure done against him."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1778"></a>
@@ -996,7 +996,7 @@ msgstr "If those who hear about it do not say anything, they commit an offense o
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss13:32.4"
 msgid "So bhikkhu saṃgha­majjhampi ākaḍḍhitvā vattabbo—"
-msgstr "That monk, even if he has to be dragged into the middle of the Order of monks, should be corrected in this way:"
+msgstr "That monk, even if he has to be dragged into the middle of the Order, should be corrected in this way:"
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-ss13:32.5"
@@ -1067,7 +1067,7 @@ msgstr "‘Venerables, let the Order listen to me."
 #. <a class="pts-vp-en" id="bd.1.327"></a> 
 msgctxt "pli-tv-bu-vb-ss13:34.2"
 msgid "Ayaṃ itthannāmo bhikkhu saṃghena pab­bājanī­ya­kamma­kato bhikkhū chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpeti."
-msgstr "This monk so-and-so, who has had a formal procedure of banishment done against him, is defaming the monks as acting out of desire, ill-will, confusion, and fear."
+msgstr "This monk so-and-so, who has had a procedure of banishment done against him, is defaming the monks as acting out of desire, ill-will, confusion, and fear."
 
 msgctxt "pli-tv-bu-vb-ss13:34.3"
 msgid "So taṃ vatthuṃ na paṭinissajjati."
@@ -1088,7 +1088,7 @@ msgstr "Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-ss13:35.2"
 msgid "Ayaṃ itthannāmo bhikkhu saṃghena pab­bājanī­ya­kamma­kato bhikkhū chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpeti."
-msgstr "This monk so-and-so, who has had a formal procedure of banishment done against him, is defaming the monks as acting out of desire, ill-will, confusion, and fear."
+msgstr "This monk so-and-so, who has had a procedure of banishment done against him, is defaming the monks as acting out of desire, ill-will, confusion, and fear."
 
 msgctxt "pli-tv-bu-vb-ss13:35.3"
 msgid "So taṃ vatthuṃ na paṭinissajjati."
@@ -1154,7 +1154,7 @@ msgstr "He commits an offense entailing suspension:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:39.2"
 msgid "saṃghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti;"
-msgstr "only the monastic Order gives probation for that offense, sends back to the beginning, places under deference, and rehabilitates—"
+msgstr "only the Order gives probation for that offense, sends back to the beginning, gives a trial period, and rehabilitates—"
 
 msgctxt "pli-tv-bu-vb-ss13:39.3"
 msgid "na sambahulā, na ekapuggalo."
@@ -1254,7 +1254,7 @@ msgstr "If a monk commits any one of them, he is to undergo probation for the sa
 
 msgctxt "pli-tv-bu-vb-ss13:48.3"
 msgid "Pari­vuttha­pari­vāsena bhikkhunā uttari chārattaṃ ­bhik­khu­mānattāya paṭi­pajji­tabbaṃ."
-msgstr "When this is completed, he must practice deference for a further six days."
+msgstr "When this is completed, he must be on trial for a further six days."
 
 msgctxt "pli-tv-bu-vb-ss13:48.4"
 msgid "Ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṃgho tattha so bhikkhu abbhetabbo."

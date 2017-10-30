@@ -185,6 +185,7 @@ msgctxt "pli-tv-bu-vb-pc14:13.2"
 msgid "cattāro mañcā—"
 msgstr "there are four kinds of beds:"
 
+#. <span class="note" hidden><i lang="pli">Masāraka</i>. Sp.2.111(VRI): <i lang="pli">Masārakoti mañcapāde vijjhitvā tattha aṭaniyo pavesetvā kato</i>—“<i lang="pli">Masāraka</i>: it is made by making a hole in the legs of the bed and then inserting the rails of the frame there.”</span>
 msgctxt "pli-tv-bu-vb-pc14:13.3"
 msgid "masārako, bundikābaddho, kuḷīrapādako, āhaccapādako."
 msgstr "one with legs and frame called <i lang=\"pli\">masāraka</i>, one with legs and frame called <i lang=\"pli\">bundikābaddha</i>, one with crooked legs, one with detachable legs."
@@ -317,10 +318,10 @@ msgctxt "pli-tv-bu-vb-pc14:22.4"
 msgid "saṃghike puggalikasaññī ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, āpatti pācittiyassa."
 msgstr "If it belongs to the Order, but he perceives it as belonging to an individual, and he puts it out in the open or gets it put out, and he then leaves without putting it away or getting it put away or telling anyone, he commits an offense entailing confession."
 
-#. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa397"></a><a class="pts-vp-en" id="BD.2.242"></a> 
+#. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa397"></a><a class="pts-vp-en" id="BD.2.242"></a><span class="note" hidden><i lang="pli">Cimilikā</i>. Sp.2.112(VRI): <i lang="pli">Cimilikā nāma sudhādiparikammakatāya bhūmiyā vaṇṇānurakkhaṇatthaṃ katā hoti, taṃ heṭṭhā pattharitvā upari kaṭasārakaṃ pattharanti</i>—“A <i lang="pli">cimilikā</i> is made to protect the color of a floor that has been plastered, etc. It is spread out underneath, with a straw-mat spread out on top.”</span>
 msgctxt "pli-tv-bu-vb-pc14:23.1"
 msgid "Cimilikaṃ vā uttarattharaṇaṃ vā bhūmattharaṇaṃ vā taṭṭikaṃ vā cammakhaṇḍaṃ vā pādapuñchaniṃ vā phalakapīṭhaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, āpatti dukkaṭassa."
-msgstr "If it is a mat underlay, a blanket, a floor cover, a straw mat, a leather covering, a foot-wiping cloth, or a bench made of wood, and he puts it out or gets it put out in the open, and he then leaves without putting it away or getting it put away or telling anyone, he commits an offense of wrong conduct."
+msgstr "If it is a mat underlay, a blanket, a floor cover, a straw mat, a leather covering, a foot-wiping cloth, or a wooden bench, and he puts it out or gets it put out in the open, and he then leaves without putting it away or getting it put away or telling anyone, he commits an offense of wrong conduct."
 
 #. </p><p> 
 msgctxt "pli-tv-bu-vb-pc14:23.2"

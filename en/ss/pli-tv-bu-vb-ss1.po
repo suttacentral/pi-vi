@@ -50,7 +50,7 @@ msgstr "First sub-story"
 #. </h3><p><a class="sc" id="2"></a><a class="pts-cs-empty" id="bu-ss.1.1"></a><a class="pts-cs" id="bu-ss.1.1.1"></a><a class="ms-pa" id="ms-pa775"></a> 
 msgctxt "pli-tv-bu-vb-ss1:6.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
-msgstr "At one time, the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 msgctxt "pli-tv-bu-vb-ss1:6.4"
 msgid "Tena kho pana samayena āyasmā seyyasako anabhirato brahmacariyaṃ carati."
@@ -149,7 +149,7 @@ msgstr "and whenever I become discontent and sensual desire overwhelms me, I emi
 #. <a class="pts-cs" id="bu-ss.1.1.2"></a> 
 msgctxt "pli-tv-bu-vb-ss1:7.11"
 msgid "“Kiṃ pana tvaṃ, āvuso seyyasaka, yeneva hatthena saddhādeyyaṃ bhuñjasi teneva hatthena upakkamitvā asuciṃ mocesī”ti?"
-msgstr "“Do you eat the almsfood of the faithful with the same hand you use to emit semen?”"
+msgstr "“Do you eat the food given in faith with the same hand you use to emit semen?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss1:7.12"
@@ -173,7 +173,7 @@ msgstr "“How can Venerable Seyyasaka emit semen with his hand?”"
 #. </p><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli3.112"></a><a class="ms-pa" id="ms-pa777"></a> 
 msgctxt "pli-tv-bu-vb-ss1:8.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ seyyasakaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They rebuked Seyyasaka in many ways and then informed the Master."
+msgstr "They rebuked Seyyasaka in many ways and then told the Master."
 
 msgctxt "pli-tv-bu-vb-ss1:8.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ seyyasakaṃ paṭipucchi—"
@@ -268,7 +268,7 @@ msgstr "Second sub-story"
 #. </h3><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-ss.1.2"></a><a class="pts-cs" id="bu-ss.1.2.1"></a><a class="ms-pa" id="ms-pa780"></a> 
 msgctxt "pli-tv-bu-vb-ss1:11.2"
 msgid "Tena kho pana samayena bhikkhū paṇīta­bhoja­nāni bhuñjitvā muṭṭhassatī asampajānā niddaṃ okkamanti."
-msgstr "At one time, monks ate delicious food, fell asleep without mindfulness and clear awareness,"
+msgstr "At one time monks ate fine foods, fell asleep without mindfulness and clear awareness,"
 
 msgctxt "pli-tv-bu-vb-ss1:11.3"
 msgid "Tesaṃ muṭṭhassatīnaṃ asampajānānaṃ niddaṃ okkamantānaṃ supinantena asuci muccati."
@@ -301,7 +301,7 @@ msgstr "Could it be that we’ve committed an offense entailing suspension?”"
 
 msgctxt "pli-tv-bu-vb-ss1:11.10"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 msgctxt "pli-tv-bu-vb-ss1:11.11"
 msgid "“Atthesā, bhikkhave, cetanā;"
@@ -394,14 +394,14 @@ msgstr "An offense entailing suspension:"
 #. <span class="note" hidden><i lang="pli">Mānattaṃ deti</i>.For the meaning of <i lang="pli">mānatta</i> see TAP 123.</span> 
 msgctxt "pli-tv-bu-vb-ss1:17.2"
 msgid "saṃghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti;"
-msgstr "only the monastic Order gives probation for that offense, sends back to the beginning, places under deference, and rehabilitates—"
+msgstr "only the Order gives probation for that offense, sends back to the beginning, gives a trial period, and rehabilitates—"
 
 #. <a class="pts-vp-en" id="bd.1.197"></a> 
 msgctxt "pli-tv-bu-vb-ss1:17.3"
 msgid "na sambahulā, na ekapuggalo."
 msgstr "not several monks, not an individual."
 
-#. <span class="note" hidden>The point here, which can only be understood from the Pali, is that the word <i lang="pli">saṅghādisesa</i> (<i lang="pli">saṅgha</i> + <i lang="pli">ādisesa</i>) is derived from the fact that only the <i lang="pli">sangha</i> can do the formal procedures required when a monastic commits this offense.</span> 
+#. <span class="note" hidden>The point here, which can only be understood from the Pali, is that the word <i lang="pli">saṅghādisesa</i> (<i lang="pli">saṅgha</i> + <i lang="pli">ādisesa</i>) is derived from the fact that only the <i lang="pli">sangha</i> can do the procedures required when a monastic commits this offense.</span> 
 msgctxt "pli-tv-bu-vb-ss1:17.4"
 msgid "Tena vuccati—“saṃghādiseso”ti."
 msgstr "Therefore it is called “an offense entailing suspension."
@@ -2711,7 +2711,7 @@ msgstr "“Could it be that I’ve committed an offense entailing suspension?”
 
 msgctxt "pli-tv-bu-vb-ss1:178.4"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master, and the Master said,"
+msgstr "He told the Master, and the Master said,"
 
 msgctxt "pli-tv-bu-vb-ss1:178.5"
 msgid "“Anāpatti, bhikkhu, supinantenā”ti."
@@ -2850,7 +2850,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="179"></a><a class="pts-cs" id="bu-ss.1.5.5"></a><a class="ms-pa" id="ms-pa952"></a> 
 msgctxt "pli-tv-bu-vb-ss1:185.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti."
-msgstr "At one time, a monk had a sore on his penis."
+msgstr "At one time a monk had a sore on his penis."
 
 #. VAR: Bhesajjena → tassa bhesajjena (?)
 msgctxt "pli-tv-bu-vb-ss1:185.2"
@@ -2872,7 +2872,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="180"></a><a class="ms-pa" id="ms-pa953"></a> 
 msgctxt "pli-tv-bu-vb-ss1:186.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti."
-msgstr "At one time, a monk had a sore on his penis."
+msgstr "At one time a monk had a sore on his penis."
 
 #. VAR: Moca­nādhip­pāyassa → tassa moca­nādhip­pāyassa (s1-3)
 msgctxt "pli-tv-bu-vb-ss1:186.2"
@@ -3071,7 +3071,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="189"></a><a class="ms-pa" id="ms-pa962"></a> 
 msgctxt "pli-tv-bu-vb-ss1:195.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno jantāghare upajjhāyassa piṭṭhi­pari­kammaṃ karontassa asuci mucci."
-msgstr "On one occasion a monk was rubbing his preceptor’s back in the sauna, and semen was emitted."
+msgstr "On one occasion a monk was massaging his preceptor’s back in the sauna, and semen was emitted."
 
 msgctxt "pli-tv-bu-vb-ss1:195.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -3088,7 +3088,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="190"></a><a class="ms-pa" id="ms-pa963"></a> 
 msgctxt "pli-tv-bu-vb-ss1:196.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno moca­nādhip­pāyassa jantāghare upajjhāyassa piṭṭhi­pari­kammaṃ karontassa asuci mucci … pe …"
-msgstr "On one occasion a monk, aiming at emission, rubbed his preceptor’s back in the sauna, and semen was emitted. …"
+msgstr "On one occasion a monk, aiming at emission, massaged his preceptor’s back in the sauna, and semen was emitted. …"
 
 msgctxt "pli-tv-bu-vb-ss1:196.2"
 msgid "asuci na mucci."
@@ -3755,7 +3755,7 @@ msgstr "Could it be that I’ve committed an offense entailing suspension?”"
 
 msgctxt "pli-tv-bu-vb-ss1:224.6"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master, and the Master said,"
+msgstr "He told the Master, and the Master said,"
 
 msgctxt "pli-tv-bu-vb-ss1:224.7"
 msgid "“Anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"

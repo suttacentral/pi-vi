@@ -75,7 +75,7 @@ msgstr "those lay followers becoming disrespectful, undeferential, and rude towa
 #. </p><p><a class="sc" id="2"></a> 
 msgctxt "pli-tv-bu-vb-pc4:7.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-pc4:7.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, upāsake padaso dhammaṃ vācetha;"
@@ -150,7 +150,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:9.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="pts-vp-en" id="BD.2.191"></a><a class="wt-pa" id="wt-pa154"></a>
 #. <strong class="term"> 

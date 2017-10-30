@@ -39,7 +39,7 @@ msgstr "Origin story"
 #. </h2><p><a class="sc" id="1"></a><a class="pts-vp-en" id="bd.1.199"></a><a class="pts-cs-empty" id="bu-ss.2.1"></a><a class="pts-cs" id="bu-ss.2.1.1"></a><a class="ms-pa" id="ms-pa993"></a> 
 msgctxt "pli-tv-bu-vb-ss2:5.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha­piṇḍi­kassa ārāme."
-msgstr "At one time, the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 msgctxt "pli-tv-bu-vb-ss2:5.3"
 msgid "Tena kho pana samayena āyasmā udāyī araññe viharati."
@@ -87,7 +87,7 @@ msgstr "“Well then, brahmin, have a look.”"
 #. VAR: avāpuraṇaṃ → apāpuraṇaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:6.5"
 msgid "avāpuraṇaṃ ādāya ghaṭikaṃ ugghāṭetvā kavāṭaṃ paṇāmetvā vihāraṃ pāvisi."
-msgstr "Udāyī took the key, unlatched the bolt, opened the door, and entered the dwelling."
+msgstr "Udāyī took the key, unlocked the bolt, opened the door, and entered the dwelling."
 
 msgctxt "pli-tv-bu-vb-ss2:6.6"
 msgid "Sopi kho brāhmaṇo āyasmato udāyissa piṭṭhito pāvisi."
@@ -188,7 +188,7 @@ msgstr "“How can Venerable Udāyī make physical contact with a woman?”"
 #. </p><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa997"></a> 
 msgctxt "pli-tv-bu-vb-ss2:9.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They then informed the Master."
+msgstr "They then told the Master."
 
 msgctxt "pli-tv-bu-vb-ss2:9.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā āyasmantaṃ udāyiṃ paṭipucchi—"
@@ -280,7 +280,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:11.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 #. </span> 
 msgctxt "pli-tv-bu-vb-ss2:11.6"
@@ -1877,7 +1877,7 @@ msgstr "Case details"
 #. </h3><p><a class="sc" id="121"></a><a class="pts-cs-empty" id="bu-ss.2.4"></a><a class="pts-cs" id="bu-ss.2.4.1"></a><a class="ms-pa" id="ms-pa1113"></a> 
 msgctxt "pli-tv-bu-vb-ss2:127.1"
 msgid "Tena kho pana samayena aññataro bhikkhu mātuyā mātupemena āmasi."
-msgstr "At one time, a monk touched his mother out of affection."
+msgstr "At one time a monk touched his mother out of affection."
 
 msgctxt "pli-tv-bu-vb-ss2:127.2"
 msgid "Tassa kukkuccaṃ ahosi—"
@@ -1893,7 +1893,7 @@ msgstr "Could it be that I’ve committed an offense entailing suspension?”"
 
 msgctxt "pli-tv-bu-vb-ss2:127.5"
 msgid "Bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master, and the Master said,"
+msgstr "He told the Master, and the Master said,"
 
 msgctxt "pli-tv-bu-vb-ss2:127.6"
 msgid "“Anāpatti, bhikkhu, saṃ­ghā­di­sesassa;"
@@ -1910,7 +1910,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="122"></a><a class="ms-pa" id="ms-pa1114"></a> 
 msgctxt "pli-tv-bu-vb-ss2:128.1"
 msgid "Tena kho pana samayena aññataro bhikkhu dhītuyā dhītupemena āmasi … pe …"
-msgstr "At one time, a monk touched his daughter out of affection …"
+msgstr "At one time a monk touched his daughter out of affection …"
 
 msgctxt "pli-tv-bu-vb-ss2:128.2"
 msgid "bhaginiyā bhaginipemena āmasi."
@@ -1935,7 +1935,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="123"></a><a class="pts-cs" id="bu-ss.2.4.2"></a><a class="ms-pa" id="ms-pa1115"></a> 
 msgctxt "pli-tv-bu-vb-ss2:129.1"
 msgid "Tena kho pana samayena aññataro bhikkhu purāṇa­duti­yikāya kāyasaṃsaggaṃ samāpajji."
-msgstr "At one time, a monk made physical contact with his former wife."
+msgstr "At one time a monk made physical contact with his former wife."
 
 msgctxt "pli-tv-bu-vb-ss2:129.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -1952,7 +1952,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="124"></a><a class="pts-cs" id="bu-ss.2.4.3"></a><a class="ms-pa" id="ms-pa1116"></a> 
 msgctxt "pli-tv-bu-vb-ss2:130.1"
 msgid "Tena kho pana samayena aññataro bhikkhu yakkhiniyā kāyasaṃsaggaṃ samāpajji."
-msgstr "At one time, a monk made physical contact with a female spirit."
+msgstr "At one time a monk made physical contact with a female spirit."
 
 msgctxt "pli-tv-bu-vb-ss2:130.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -1974,7 +1974,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="125"></a><a class="ms-pa" id="ms-pa1117"></a> 
 msgctxt "pli-tv-bu-vb-ss2:131.1"
 msgid "Tena kho pana samayena aññataro bhikkhu paṇḍakassa kāyasaṃsaggaṃ samāpajji."
-msgstr "At one time, a monk made physical contact with a sexual non-conformist."
+msgstr "At one time a monk made physical contact with a sexual non-conformist."
 
 msgctxt "pli-tv-bu-vb-ss2:131.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -1995,7 +1995,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="126"></a><a class="pts-cs" id="bu-ss.2.4.4"></a><a class="ms-pa" id="ms-pa1118"></a> 
 msgctxt "pli-tv-bu-vb-ss2:132.1"
 msgid "Tena kho pana samayena aññataro bhikkhu suttitthiyā kāyasaṃsaggaṃ samāpajji."
-msgstr "At one time, a monk made physical contact with a sleeping woman."
+msgstr "At one time a monk made physical contact with a sleeping woman."
 
 msgctxt "pli-tv-bu-vb-ss2:132.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2012,7 +2012,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="127"></a><a class="ms-pa" id="ms-pa1119"></a> 
 msgctxt "pli-tv-bu-vb-ss2:133.1"
 msgid "Tena kho pana samayena aññataro bhikkhu matitthiyā kāyasaṃsaggaṃ samāpajji."
-msgstr "At one time, a monk made physical contact with a dead woman."
+msgstr "At one time a monk made physical contact with a dead woman."
 
 msgctxt "pli-tv-bu-vb-ss2:133.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2033,7 +2033,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="128"></a><a class="ms-pa" id="ms-pa1120"></a> 
 msgctxt "pli-tv-bu-vb-ss2:134.1"
 msgid "Tena kho pana samayena aññataro bhikkhu tiracchā­na­ga­titthiyā kāyasaṃsaggaṃ samāpajji."
-msgstr "At one time, a monk made physical contact with a female animal."
+msgstr "At one time a monk made physical contact with a female animal."
 
 msgctxt "pli-tv-bu-vb-ss2:134.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2054,7 +2054,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="129"></a><a class="ms-pa" id="ms-pa1121"></a> 
 msgctxt "pli-tv-bu-vb-ss2:135.1"
 msgid "Tena kho pana samayena aññataro bhikkhu dāru­dhīta­likāya kāyasaṃsaggaṃ samāpajji."
-msgstr "At one time, a monk made physical contact with a wooden doll."
+msgstr "At one time a monk made physical contact with a wooden doll."
 
 msgctxt "pli-tv-bu-vb-ss2:135.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2076,7 +2076,7 @@ msgstr ""
 #. VAR: ānesuṃ → nesuṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:136.1"
 msgid "Tena kho pana samayena sambahulā itthiyo aññataraṃ bhikkhuṃ sampīḷetvā bāhā­param­parāya ānesuṃ."
-msgstr "At one time, a number of women harassed a monk by leading him about arm-in-arm."
+msgstr "At one time a number of women harassed a monk by leading him about arm-in-arm."
 
 msgctxt "pli-tv-bu-vb-ss2:136.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2103,7 +2103,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="131"></a><a class="pts-cs" id="bu-ss.2.4.6"></a><a class="ms-pa" id="ms-pa1123"></a><a class="pts-vp-pli" id="pts-vp-pli3.127"></a> 
 msgctxt "pli-tv-bu-vb-ss2:137.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā abhirūḷhaṃ saṅkamaṃ sāratto sañcālesi."
-msgstr "At one time, a monk, being lustful, shook the bridge on which a woman was standing."
+msgstr "At one time a monk, being lustful, shook the bridge on which a woman was standing."
 
 msgctxt "pli-tv-bu-vb-ss2:137.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2124,7 +2124,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="132"></a><a class="pts-cs" id="bu-ss.2.4.7"></a><a class="ms-pa" id="ms-pa1124"></a> 
 msgctxt "pli-tv-bu-vb-ss2:138.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiṃ paṭipathe passitvā sāratto aṃsakūṭena pahāraṃ adāsi."
-msgstr "At one time, a monk saw a woman coming in the opposite direction, and being lustful, he gave her a blow with the shoulder."
+msgstr "At one time a monk saw a woman coming in the opposite direction, and being lustful, he gave her a blow with the shoulder."
 
 msgctxt "pli-tv-bu-vb-ss2:138.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2141,7 +2141,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="133"></a><a class="pts-cs" id="bu-ss.2.4.8"></a><a class="pts-vp-en" id="bd.1.213"></a><a class="ms-pa" id="ms-pa1125"></a> 
 msgctxt "pli-tv-bu-vb-ss2:139.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā abhirūḷhaṃ rukkhaṃ sāratto sañcālesi."
-msgstr "At one time, a monk, being lustful, shook the tree that a woman had climbed."
+msgstr "At one time a monk, being lustful, shook the tree that a woman had climbed."
 
 msgctxt "pli-tv-bu-vb-ss2:139.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2162,7 +2162,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="134"></a><a class="ms-pa" id="ms-pa1126"></a> 
 msgctxt "pli-tv-bu-vb-ss2:140.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā abhirūḷhaṃ nāvaṃ sāratto sañcālesi."
-msgstr "At one time, a monk, being lustful, shook the boat that a woman had boarded."
+msgstr "At one time a monk, being lustful, shook the boat that a woman had boarded."
 
 msgctxt "pli-tv-bu-vb-ss2:140.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2184,7 +2184,7 @@ msgstr ""
 #. VAR: āviñchi → āviñji (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:141.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā gahitaṃ rajjuṃ sāratto āviñchi."
-msgstr "At one time, a monk, being lustful, pulled the rope that a woman was holding."
+msgstr "At one time a monk, being lustful, pulled the rope that a woman was holding."
 
 msgctxt "pli-tv-bu-vb-ss2:141.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2206,7 +2206,7 @@ msgstr ""
 #. VAR: āviñchi → āviñji (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:142.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā gahitaṃ daṇḍaṃ sāratto āviñchi."
-msgstr "At one time, a monk, being lustful, pulled the stick that a woman was holding."
+msgstr "At one time a monk, being lustful, pulled the stick that a woman was holding."
 
 msgctxt "pli-tv-bu-vb-ss2:142.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2227,7 +2227,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="137"></a><a class="pts-cs" id="bu-ss.2.4.10"></a><a class="ms-pa" id="ms-pa1129"></a> 
 msgctxt "pli-tv-bu-vb-ss2:143.1"
 msgid "Tena kho pana samayena aññataro bhikkhu sāratto itthiṃ pattena paṇāmesi."
-msgstr "At one time, a monk, being lustful, pushed a woman with his bowl."
+msgstr "At one time a monk, being lustful, pushed a woman with his bowl."
 
 msgctxt "pli-tv-bu-vb-ss2:143.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2248,7 +2248,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="138"></a><a class="pts-cs" id="bu-ss.2.4.11"></a><a class="ms-pa" id="ms-pa1130"></a> 
 msgctxt "pli-tv-bu-vb-ss2:144.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiyā vandantiyā sāratto pādaṃ uccāresi."
-msgstr "At one time, a monk, being lustful, raised his foot when a woman was paying respect to him."
+msgstr "At one time a monk, being lustful, raised his foot when a woman was paying respect to him."
 
 msgctxt "pli-tv-bu-vb-ss2:144.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
@@ -2265,7 +2265,7 @@ msgstr ""
 #. </p><hr><p><a class="sc" id="139"></a><a class="ms-pa" id="ms-pa1131"></a> 
 msgctxt "pli-tv-bu-vb-ss2:145.1"
 msgid "Tena kho pana samayena aññataro bhikkhu itthiṃ gahessāmīti vāyamitvā na chupi."
-msgstr "At one time, a monk, thinking, “I’ll take hold of a woman,” exerted himself, but did not make contact."
+msgstr "At one time a monk, thinking, “I’ll take hold of a woman,” exerted himself, but did not make contact."
 
 msgctxt "pli-tv-bu-vb-ss2:145.2"
 msgid "Tassa kukkuccaṃ ahosi … pe …"

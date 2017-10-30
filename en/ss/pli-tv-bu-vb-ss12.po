@@ -75,7 +75,7 @@ msgstr "The Buddha is mine; the Teaching is mine."
 
 msgctxt "pli-tv-bu-vb-ss12:5.11"
 msgid "amhākaṃ ayyaputtena dhammo abhisamito."
-msgstr "The Truth was realized by the young Master because of me."
+msgstr "The Master realized the Truth because of me."
 
 #. VAR: ussāreyya → ussādeyya (bj, s1-3)
 #. VAR: tiṇakaṭ­ṭha­paṇṇa­sa­ṭaṃ → tiṇakaṭ­ṭhapaṇṇa­ka­saṭaṃ (mr)
@@ -101,7 +101,7 @@ msgstr "The Buddha is mine; the Teaching is mine."
 
 msgctxt "pli-tv-bu-vb-ss12:5.17"
 msgid "amhākaṃ ayyaputtena dhammo abhisamito”ti."
-msgstr "The Truth was realized by the young Master because of me.”"
+msgstr "The Master realized the Truth because of me.”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss12:5.18"
@@ -120,11 +120,11 @@ msgstr "“How can Venerable Channa make himself incorrigible when he’s legiti
 #. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli3.178"></a><a class="ms-pa" id="ms-pa1730"></a> 
 msgctxt "pli-tv-bu-vb-ss12:6.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ channaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "They rebuked Venerable Channa in many ways and then informed the Master. …"
+msgstr "They rebuked Venerable Channa in many ways and then told the Master. …"
 
 msgctxt "pli-tv-bu-vb-ss12:6.2"
 msgid "“saccaṃ kira tvaṃ, channa, bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karosī”ti?"
-msgstr "He said, “Is it true, Channa, that you make yourself incorrigible when you’re legitimately corrected by the monks?"
+msgstr "He said, “Is it true, Channa, that you make yourself incorrigible when you are legitimately corrected by the monks?"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss12:6.3"
@@ -134,11 +134,11 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss12:6.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked him: “…"
+msgstr "The Buddha rebuked him, “…"
 
 msgctxt "pli-tv-bu-vb-ss12:6.5"
 msgid "kathañhi nāma tvaṃ, moghapurisa, bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karissasi."
-msgstr "Foolish man, how can you act in this way?"
+msgstr "Foolish man, how can you act like this?"
 
 msgctxt "pli-tv-bu-vb-ss12:6.6"
 msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
@@ -342,7 +342,7 @@ msgstr "If those who hear about it do not say anything, they commit an offense o
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss12:14.13"
 msgid "So bhikkhu saṃgha­majjhampi ākaḍḍhitvā vattabbo—"
-msgstr "That monk, even if he has to be dragged into the middle of the Order of monks, should be spoken to thus:"
+msgstr "That monk, even if he has to be dragged into the middle of the Order, should be spoken to thus:"
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-ss12:14.14"

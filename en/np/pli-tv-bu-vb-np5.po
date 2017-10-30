@@ -38,7 +38,7 @@ msgstr "Monks’ Relinquishment"
 #. </p><h1>
 msgctxt "pli-tv-bu-vb-np5:5.1"
 msgid "5. Cīvarapaṭiggahaṇasikkhāpada"
-msgstr "5. The training rule on receiving robe(-cloth)"
+msgstr "5. The training rule on receiving robe-cloth"
 
 #. </h1></div><h2>
 msgctxt "pli-tv-bu-vb-np5:6.1"
@@ -61,7 +61,7 @@ msgstr "At that time the nun Uppalavaṇṇā was staying at Sāvatthī."
 
 msgctxt "pli-tv-bu-vb-np5:6.5"
 msgid "Atha kho uppalavaṇṇā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi."
-msgstr "After dressing one morning, she took her bowl and robe and entered Sāvatthī to collect almsfood."
+msgstr "One morning she robed up, took her bowl and robe, and entered Sāvatthī to collect almsfood."
 
 msgctxt "pli-tv-bu-vb-np5:6.6"
 msgid "Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami divāvihārāya."
@@ -118,7 +118,7 @@ msgstr "She took the meat and returned to her dwelling place."
 #. VAR: paccuṭṭhāsi → paccupaṭṭhāsi (?)
 msgctxt "pli-tv-bu-vb-np5:6.18"
 msgid "Atha kho uppalavaṇṇā bhikkhunī tassā rattiyā accayena taṃ maṃsaṃ sampādetvā uttarāsaṅgena bhaṇḍikaṃ bandhitvā vehāsaṃ abbhuggantvā veḷuvane paccuṭṭhāsi."
-msgstr "When the night was over, she prepared the meat and made it into a bundle with her upper robe. She then rose into the air and appeared in the Bamboo Grove."
+msgstr "When the night was over, she prepared the meat and made it into a bundle with her upper robe. She then rose into the air and landed in the Bamboo Grove."
 
 #. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli3.209"></a><a class="pts-cs" id="bu-np.5.1.2"></a><a class="wt-pa" id="1957"></a> 
 msgctxt "pli-tv-bu-vb-np5:7.1"
@@ -212,7 +212,7 @@ msgstr "“How can Venerable Udāyī receive a robe from a nun? It’s hard for 
 #. </p><p><a class="pts-vp-en" id="bd.2.39"></a> 
 msgctxt "pli-tv-bu-vb-np5:7.21"
 msgid "Atha kho tā bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
-msgstr "Those nuns informed the monks."
+msgstr "Those nuns told the monks."
 
 msgctxt "pli-tv-bu-vb-np5:7.22"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -229,7 +229,7 @@ msgstr "“How can Venerable Udāyī receive a robe from a nun?”"
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="1958"></a> 
 msgctxt "pli-tv-bu-vb-np5:8.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ udāyiṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing him in many ways, they informed the Master. …"
+msgstr "After criticizing him in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np5:8.2"
 msgid "“saccaṃ kira tvaṃ, udāyi, bhikkhuniyā cīvaraṃ paṭiggahesī”ti?"
@@ -276,7 +276,7 @@ msgstr "Preliminary ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np5:9.2"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya, nissaggiyaṃ pācittiyan”ti."
-msgstr "‘If a monk receives a robe(-cloth) from the hand of an unrelated nun, he commits an offense entailing relinquishment and confession.’”"
+msgstr "‘If a monk receives a robe-cloth from the hand of an unrelated nun, he commits an offense entailing relinquishment and confession.’”"
 
 #. </strong>
 #. </p><p class="endsection"><a class="sc" id="5"></a><a class="wt-pa" id="1960"></a> 
@@ -292,7 +292,7 @@ msgstr "Second sub-story"
 #. </h3><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.5.2"></a><a class="wt-pa" id="1961"></a> 
 msgctxt "pli-tv-bu-vb-np5:11.2"
 msgid "Tena kho pana samayena bhikkhū kukkuccāyantā bhikkhunīnaṃ pārivattakacīvaraṃ na paṭiggaṇhanti."
-msgstr "Then, being afraid of wrongdoing, the monks did not receive robes from nuns even in exchange."
+msgstr "Then, being afraid of wrongdoing, the monks did not receive robe-cloth from nuns even in exchange."
 
 msgctxt "pli-tv-bu-vb-np5:11.3"
 msgid "Bhikkhuniyo ujjhāyanti khiyyanti vipācenti—"
@@ -300,16 +300,16 @@ msgstr "The nuns complained and criticized them,"
 
 msgctxt "pli-tv-bu-vb-np5:11.4"
 msgid "“kathañhi nāma ayyā amhākaṃ pārivattakacīvaraṃ na paṭiggahessantī”ti."
-msgstr "“How can they not receive a robe from us in exchange?”"
+msgstr "“How can they not receive robe-cloth from us in exchange?”"
 
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="1962"></a> 
 msgctxt "pli-tv-bu-vb-np5:12.1"
 msgid "Assosuṃ kho bhikkhū tāsaṃ bhikkhunīnaṃ ujjhāyantīnaṃ khiyyantīnaṃ vipācentīnaṃ."
-msgstr "Monks heard the criticism of those nuns"
+msgstr "The monks heard the criticism of those nuns"
 
 msgctxt "pli-tv-bu-vb-np5:12.2"
 msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
-msgstr "and they informed the Master."
+msgstr "and they told the Master."
 
 msgctxt "pli-tv-bu-vb-np5:12.3"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
@@ -340,11 +340,11 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="1963"></a>
 #. <strong class="rule">
-#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context. Sometimes, as here, it refers to both, and I then render it as robe(-cloth).</span> 
+#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.</span> 
 #. VAR: pārivattakā → pārivaṭṭakā (s1-3)
 msgctxt "pli-tv-bu-vb-np5:13.2"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya, aññatra pārivattakā, nissaggiyaṃ pācittiyan”ti."
-msgstr "‘If a monk receives a robe(-cloth) from the hand of an unrelated nun, unless it is an exchange, he commits an offense entailing relinquishment and confession.’”"
+msgstr "‘If a monk receives a robe-cloth from the hand of an unrelated nun, unless it is an exchange, he commits an offense entailing relinquishment and confession.’”"
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-np5:13.3"
@@ -375,7 +375,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np5:14.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np5:14.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
@@ -401,20 +401,20 @@ msgstr "A nun:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np5:16.2"
 msgid "ubhatosaṃghe upasampannā."
-msgstr "she has been given the full ordination by both monastic Orders."
+msgstr "she has been given the full ordination by both Orders."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="pts-vp-pli" id="pts-vp-pli3.210"></a><a class="wt-pa" id="1967"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np5:17.1"
 msgid "Cīvaraṃ nāma"
-msgstr "A robe-(cloth):"
+msgstr "Robe-cloth:"
 
 #. </strong><span class="gloss">
-#. <span class="note" hidden>The six are linen, cotton, silk, wool, jute, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
-#. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pli">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
+#. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
+#. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
 msgctxt "pli-tv-bu-vb-np5:17.2"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
-msgstr "one of the six kinds of robe(-cloth), but not smaller than what can be transferred."
+msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="1968"></a>
 #. <strong class="term"> 
@@ -430,16 +430,16 @@ msgstr "except if it is an exchange."
 #. </span></p><hr><p><a class="sc" id="14"></a><a class="wt-pa" id="1969"></a> 
 msgctxt "pli-tv-bu-vb-np5:19.1"
 msgid "Paṭiggaṇhāti, payoge dukkaṭaṃ."
-msgstr "In the act of accepting it, he commits an offense of wrong conduct."
+msgstr "For the act of accepting it, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np5:19.2"
 msgid "Paṭilābhena nissaggiyaṃ hoti."
-msgstr "When he gets the robe(-cloth), it becomes subject to relinquishment."
+msgstr "When he gets the robe-cloth, it becomes subject to relinquishment."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np5:19.3"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
-msgstr "The robe(-cloth) should be relinquished to the Order, a group, or an individual."
+msgstr "The robe-cloth should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np5:19.4"
@@ -454,7 +454,7 @@ msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 
 #. </span> 
 msgctxt "pli-tv-bu-vb-np5:19.6"
 msgid "idaṃ me, bhante, cīvaraṃ aññātikāya bhikkhuniyā hatthato paṭiggahitaṃ, aññatra pārivattakā, nissaggiyaṃ."
-msgstr "‘Venerables, this robe(-cloth) which I received from the hand of an unrelated nun is to be relinquished."
+msgstr "‘Venerables, this robe-cloth which I received from the hand of an unrelated nun is to be relinquished."
 
 msgctxt "pli-tv-bu-vb-np5:19.7"
 msgid "Imāhaṃ saṃghassa nissajjāmīti … pe …"
@@ -470,7 +470,7 @@ msgstr "you should give …"
 
 msgctxt "pli-tv-bu-vb-np5:19.10"
 msgid "āyasmato dammīti."
-msgstr "‘I give this robe(-cloth) back to you.’”"
+msgstr "‘I give this robe-cloth back to you.’”"
 
 #. </span>
 #. </p><h2>
@@ -481,21 +481,21 @@ msgstr "Permutations"
 #. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="bu-np.5.3.2"></a><a class="wt-pa" id="1970"></a> 
 msgctxt "pli-tv-bu-vb-np5:20.2"
 msgid "Aññātikāya aññātikasaññī cīvaraṃ paṭiggaṇhāti, aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ."
-msgstr "If she is unrelated and he perceives her as unrelated, and he receives a robe(-cloth) from her, unless it is an exchange, he commits an offense entailing relinquishment and confession."
+msgstr "If she is unrelated and he perceives her as unrelated, and he receives robe-cloth from her, unless it is an exchange, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np5:20.3"
 msgid "Aññātikāya vematiko cīvaraṃ paṭiggaṇhāti, aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ."
-msgstr "If she is unrelated, but he is unsure if she is, and he receives a robe(-cloth) from her, unless it is an exchange, he commits an offense entailing relinquishment and confession."
+msgstr "If she is unrelated, but he is unsure if she is, and he receives robe-cloth from her, unless it is an exchange, he commits an offense entailing relinquishment and confession."
 
 #. <a class="pts-vp-en" id="bd.2.41"></a> 
 msgctxt "pli-tv-bu-vb-np5:20.4"
 msgid "Aññātikāya ñātikasaññī cīvaraṃ paṭiggaṇhāti, aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ."
-msgstr "If she is unrelated, but he perceives her as related, and he receives a robe(-cloth) from her, unless it is an exchange, he commits an offense entailing relinquishment and confession."
+msgstr "If she is unrelated, but he perceives her as related, and he receives robe-cloth from her, unless it is an exchange, he commits an offense entailing relinquishment and confession."
 
 #. </p><p><a class="sc" id="16"></a><a class="wt-pa" id="1971"></a> 
 msgctxt "pli-tv-bu-vb-np5:21.1"
 msgid "Ekatoupasampannāya hatthato cīvaraṃ paṭiggaṇhāti, aññatra pārivattakā, āpatti dukkaṭassa."
-msgstr "If he receives a robe(-cloth) from the hand of a nun who is fully ordained only on one side, he commits an offense of wrong conduct."
+msgstr "If he receives robe-cloth from the hand of a nun who is fully ordained only on one side, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np5:21.2"
 msgid "Ñātikāya aññātikasaññī, āpatti dukkaṭassa."
@@ -537,7 +537,7 @@ msgstr "if he borrows it;"
 
 msgctxt "pli-tv-bu-vb-np5:22.7"
 msgid "cīvaraṃ ṭhapetvā aññaṃ parikkhāraṃ gaṇhāti,"
-msgstr "if he receives any requisite apart from a robe-(cloth);"
+msgstr "if he receives any requisite apart from robe-cloth;"
 
 msgctxt "pli-tv-bu-vb-np5:22.8"
 msgid "sikkhamānāya,"
@@ -558,7 +558,7 @@ msgstr "if he is the first offender."
 #. </p><hr><p class="endsutta"><a class="sc" id="18"></a><a class="wt-pa" id="1973"></a> 
 msgctxt "pli-tv-bu-vb-np5:23.1"
 msgid "Cīvarapaṭiggahaṇasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ."
-msgstr "The fifth rule, the training rule on receiving robe(-cloth), is finished."
+msgstr "The fifth rule, the training rule on receiving robe-cloth, is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>

@@ -52,11 +52,11 @@ msgstr "At one time the Buddha was staying in the Sakyan country at Kapilavatthu
 
 msgctxt "pli-tv-bu-vb-np17:6.3"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū bhikkhunīhi eḷakalomāni dhovāpentipi rajāpentipi vijaṭāpentipi."
-msgstr "At that time monks from the group of six got nuns to wash, dye, and comb wool."
+msgstr "At that time the monks from the group of six got nuns to wash, dye, and comb wool."
 
 msgctxt "pli-tv-bu-vb-np17:6.4"
 msgid "Bhikkhuniyo eḷakalomāni dhovantiyo rajantiyo vijaṭentiyo riñcanti uddesaṃ paripucchaṃ adhisīlaṃ adhicittaṃ adhipaññaṃ."
-msgstr "Because of this work, the nuns neglected recitation, questioning, the higher morality, the higher mind, and the higher wisdom."
+msgstr "Because of this work, the nuns neglected recitation, enquiry, the higher morality, the higher mind, and the higher wisdom."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np17:6.5"
@@ -104,7 +104,7 @@ msgstr "Soon afterwards the Master had the Order assembled and questioned the mo
 
 msgctxt "pli-tv-bu-vb-np17:8.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, bhikkhunīhi eḷakalomāni dhovāpethapi rajāpethapi vijaṭāpethapī”ti?"
-msgstr "“Is it true, monks, that you are doing this?”"
+msgstr "“Is it true, monks, that you do this?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np17:8.3"
@@ -178,7 +178,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np17:10.5"
 msgid "… pe …"
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
 msgctxt "pli-tv-bu-vb-np17:10.6"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."

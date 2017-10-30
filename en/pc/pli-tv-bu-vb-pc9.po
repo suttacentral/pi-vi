@@ -35,7 +35,7 @@ msgstr ""
 #. </p><h1>
 msgctxt "pli-tv-bu-vb-pc9:5.1"
 msgid "9. Duṭṭhullārocanasikkhāpada"
-msgstr "Monks’ Confession 9: the training rule on informing about what is serious"
+msgstr "Monks’ Confession 9: the training rule on telling about what is serious"
 
 #. </h1></div><h2>
 msgctxt "pli-tv-bu-vb-pc9:6.1"
@@ -99,7 +99,7 @@ msgstr "complained and criticized them,"
 
 msgctxt "pli-tv-bu-vb-pc9:7.3"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa ārocessantī”ti … pe …"
-msgstr "“How can the monks from the group of six inform a person who’s not fully ordained about a monk’s serious offense?” …"
+msgstr "“How can the monks from the group of six tell a person who’s not fully ordained about a monk’s serious offense?” …"
 
 msgctxt "pli-tv-bu-vb-pc9:7.4"
 msgid "“saccaṃ kira tumhe, bhikkhave, bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa ārocethā”ti?"
@@ -117,7 +117,7 @@ msgstr "The Buddha rebuked them, “…"
 
 msgctxt "pli-tv-bu-vb-pc9:7.7"
 msgid "kathañhi nāma tumhe, moghapurisā, bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa ārocessatha."
-msgstr "Foolish men, how can you inform a person who’s not fully ordained about a monk’s serious offense?"
+msgstr "Foolish men, how can you tell a person who’s not fully ordained about a monk’s serious offense?"
 
 msgctxt "pli-tv-bu-vb-pc9:7.8"
 msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
@@ -137,7 +137,7 @@ msgstr "Final ruling"
 #. VAR: bhikkhusammutiyā → bhik­khu­samma­tiyā (s1-3)
 msgctxt "pli-tv-bu-vb-pc9:8.2"
 msgid "“Yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya, aññatra bhikkhusammutiyā, pācittiyan”ti."
-msgstr "‘If a monk informs a person who is not fully ordained about another monk’s serious offense, except if the monks have agreed, he commits an offense entailing confession.’”"
+msgstr "‘If a monk tells a person who is not fully ordained about another monk’s serious offense, except if the monks have agreed, he commits an offense entailing confession.’”"
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-pc9:8.3"
@@ -168,7 +168,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc9:9.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa299"></a>
 #. <strong class="term"> 
@@ -207,12 +207,12 @@ msgstr "anyone except a fully ordained monk and a fully ordained nun."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc9:13.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc9:13.2"
 msgid "āroceyya itthiyā vā purisassa vā gahaṭṭhassa vā pabbajitassa vā."
-msgstr "informs a woman or a man or a householder or a monastic."
+msgstr "tells a woman or a man or a lay person or a monastic."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa303"></a>
 #. <strong class="term"> 
@@ -323,17 +323,17 @@ msgstr "Exposition"
 #. </h4><p><a class="sc" id="13"></a><a class="wt-pa" id="wt-pa307"></a> 
 msgctxt "pli-tv-bu-vb-pc9:18.2"
 msgid "Āpattipariyante yā āpattiyo pariggahitāyo honti, tā āpattiyo ṭhapetvā aññāhi āpattīhi āroceti, āpatti pācittiyassa."
-msgstr "When there is a limit on offenses, if he informs about other offenses than those that are specified, he commits an offense entailing confession."
+msgstr "When there is a limit on offenses, if he tells about other offenses than those that are specified, he commits an offense entailing confession."
 
 #. </p><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli4.32"></a><a class="wt-pa" id="wt-pa308"></a> 
 msgctxt "pli-tv-bu-vb-pc9:19.1"
 msgid "Kulapariyante yāni kulāni pariggahitāni honti, tāni kulāni ṭhapetvā aññesu kulesu āroceti, āpatti pācittiyassa."
-msgstr "When there is a limit on families, if he informs other families than those that are specified, he commits an offense entailing confession."
+msgstr "When there is a limit on families, if he tells other families than those that are specified, he commits an offense entailing confession."
 
 #. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa309"></a> 
 msgctxt "pli-tv-bu-vb-pc9:20.1"
 msgid "Āpattipariyante ca kulapariyante ca yā āpattiyo pariggahitāyo honti, tā āpattiyo ṭhapetvā yāni kulāni pariggahitāni honti, tāni kulāni ṭhapetvā aññāhi āpattīhi aññesu kulesu āroceti, āpatti pācittiyassa."
-msgstr "When there is a limit both on offenses and on families, if he informs about other offenses than those that are specified and he informs other families than those that are specified, he commits an offense entailing confession."
+msgstr "When there is a limit both on offenses and on families, if he tells about other offenses than those that are specified and he tells other families than those that are specified, he commits an offense entailing confession."
 
 #. </p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa310"></a> 
 msgctxt "pli-tv-bu-vb-pc9:21.1"
@@ -348,27 +348,27 @@ msgstr "Permutations part 2"
 #. </h3><p><a class="sc" id="17"></a><a class="pts-cs" id="Bu-Pc.9.2.2"></a><a class="wt-pa" id="wt-pa311"></a> 
 msgctxt "pli-tv-bu-vb-pc9:22.2"
 msgid "Duṭṭhullāya āpattiyā duṭṭhullāpattisaññī anupasampannassa āroceti, aññatra bhikkhusammutiyā, āpatti pācittiyassa."
-msgstr "If the offense is serious, and he perceives it as serious, and he informs a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession."
+msgstr "If the offense is serious, and he perceives it as serious, and he tells a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession."
 
 #. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa312"></a> 
 msgctxt "pli-tv-bu-vb-pc9:23.1"
 msgid "Duṭṭhullāya āpattiyā vematiko anupasampannassa āroceti, aññatra bhikkhusammutiyā, āpatti pācittiyassa."
-msgstr "If the offense is serious, but he is unsure if it is, and he informs a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession."
+msgstr "If the offense is serious, but he is unsure if it is, and he tells a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession."
 
 #. </p><p><a class="sc" id="19"></a><a class="wt-pa" id="wt-pa313"></a> 
 msgctxt "pli-tv-bu-vb-pc9:24.1"
 msgid "Duṭṭhullāya āpattiyā aduṭṭhullāpattisaññī anupasampannassa āroceti, aññatra bhikkhusammutiyā, āpatti pācittiyassa."
-msgstr "If the offense is serious, but he perceives it as not serious, and he informs a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession."
+msgstr "If the offense is serious, but he perceives it as not serious, and he tells a person who is not fully ordained, then, except if the monks have agreed, he commits an offense entailing confession."
 
 #. </p><p><a class="sc" id="20"></a><a class="wt-pa" id="wt-pa314"></a> 
 msgctxt "pli-tv-bu-vb-pc9:25.1"
 msgid "Aduṭṭhullaṃ āpattiṃ āroceti, āpatti dukkaṭassa."
-msgstr "If he informs about an offense that is not serious, he commits an offense of wrong conduct."
+msgstr "If he tells about an offense that is not serious, he commits an offense of wrong conduct."
 
 #. </p><p><a class="sc" id="21"></a><a class="wt-pa" id="wt-pa315"></a><a class="pts-vp-en" id="BD.2.222"></a> 
 msgctxt "pli-tv-bu-vb-pc9:26.1"
 msgid "Anupasampannassa duṭṭhullaṃ vā aduṭṭhullaṃ vā ajjhācāraṃ āroceti, āpatti dukkaṭassa."
-msgstr "If he informs about the misconduct of a person who is not fully ordained, whether serious or not, he commits an offense of wrong conduct."
+msgstr "If he tells about the misconduct of a person who is not fully ordained, whether serious or not, he commits an offense of wrong conduct."
 
 #. </p><p><a class="sc" id="22"></a><a class="wt-pa" id="wt-pa316"></a> 
 msgctxt "pli-tv-bu-vb-pc9:27.1"
@@ -397,11 +397,11 @@ msgstr "There is no offense:"
 
 msgctxt "pli-tv-bu-vb-pc9:30.3"
 msgid "vatthuṃ āroceti no āpattiṃ,"
-msgstr "if he informs about the action which was the basis for the offense, but not the class of offense;"
+msgstr "if he tells about the action which was the basis for the offense, but not the class of offense;"
 
 msgctxt "pli-tv-bu-vb-pc9:30.4"
 msgid "āpattiṃ āroceti no vatthuṃ,"
-msgstr "if he informs about the class of offense, but not the action that was the basis for the offense;"
+msgstr "if he tells about the class of offense, but not the action that was the basis for the offense;"
 
 msgctxt "pli-tv-bu-vb-pc9:30.5"
 msgid "bhikkhusammutiyā,"
@@ -418,7 +418,7 @@ msgstr "if he is the first offender."
 #. </p><hr><p class="endsutta"><a class="sc" id="26"></a><a class="wt-pa" id="wt-pa320"></a> 
 msgctxt "pli-tv-bu-vb-pc9:31.1"
 msgid "Duṭṭhullārocanasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
-msgstr "The ninth rule, the training rule on informing about what is serious, is finished."
+msgstr "The ninth rule, the training rule on telling about what is serious, is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>

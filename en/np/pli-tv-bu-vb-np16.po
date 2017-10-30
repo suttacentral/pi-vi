@@ -72,7 +72,7 @@ msgstr "How much will the profit be?”"
 
 msgctxt "pli-tv-bu-vb-np16:6.8"
 msgid "So bhikkhu tehi manussehi uppaṇḍiyamāno maṅku ahosi."
-msgstr "As a result he was embarrassed."
+msgstr "As a result he was humiliated."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np16:6.9"
@@ -118,7 +118,7 @@ msgstr "“How can a monk carry wool more than 40 kilometers?”"
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2177"></a> 
 msgctxt "pli-tv-bu-vb-np16:7.1"
 msgid "Atha kho te bhikkhū taṃ bhikkhuṃ anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing that monk in many ways, they informed the Master. …"
+msgstr "After criticizing that monk in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np16:7.2"
 msgid "“saccaṃ kira tvaṃ, bhikkhu, atirekatiyojanaṃ eḷakalomāni āharī”ti?"
@@ -132,7 +132,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np16:7.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked him: “…"
+msgstr "The Buddha rebuked him, “…"
 
 msgctxt "pli-tv-bu-vb-np16:7.5"
 msgid "kathañhi nāma tvaṃ, moghapurisa, atirekatiyojanaṃ eḷakalomāni āharissasi."
@@ -156,7 +156,7 @@ msgstr "Final ruling"
 #. VAR: addhānamaggappaṭipannassa → … magga­paṭi­pannassa (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np16:8.2"
 msgid "“Bhikkhuno paneva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ."
-msgstr "‘If wool becomes available to a monk who is traveling, he may receive it if he wishes."
+msgstr "‘If wool is given to a monk who is traveling, he may receive it if he wishes."
 
 msgctxt "pli-tv-bu-vb-np16:8.3"
 msgid "Ākaṅkhamānena bhikkhunā paṭiggahetabbāni."
@@ -198,12 +198,12 @@ msgstr "one walking on a road."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np16:10.1"
 msgid "Eḷakalomāni uppajjeyyunti"
-msgstr "If wool becomes available:"
+msgstr "If wool is given:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:10.2"
 msgid "uppajjeyyuṃ saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
-msgstr "if it becomes available from the Order, from a group, from a relative, from a friend, or if discarded wool becomes available, or if it becomes available by means of his own property."
+msgstr "if it is given by the Order, by a group, by a relative, by a friend, or if it is discarded wool, or if it is by means of his own property."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2181"></a>
 #. <strong class="term"> 
@@ -236,7 +236,7 @@ msgstr "There is no one else to carry it:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:13.2"
 msgid "nāñño koci hārako hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
-msgstr "there is no other person who can carry it, either a woman or a man, either a householder or a monastic."
+msgstr "there is no other person who can carry it, either a woman or a man, either a lay person or a monastic."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2184"></a>
 #. <strong class="term"> 

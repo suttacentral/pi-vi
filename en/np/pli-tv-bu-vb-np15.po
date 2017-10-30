@@ -52,7 +52,7 @@ msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anā
 
 msgctxt "pli-tv-bu-vb-np15:6.3"
 msgid "Atha kho bhagavā bhikkhū āmantesi—"
-msgstr "There the Master addressed the monks:"
+msgstr "There the Master addressed the monks,"
 
 msgctxt "pli-tv-bu-vb-np15:6.4"
 msgid "“icchāmahaṃ, bhikkhave, temāsaṃ paṭisallīyituṃ."
@@ -82,7 +82,7 @@ msgstr "No one is to approach him except the one who brings him almsfood."
 
 msgctxt "pli-tv-bu-vb-np15:6.10"
 msgid "Yo bhagavantaṃ upasaṅkamati so pācittiyaṃ desāpetabbo”ti."
-msgstr "Anyone who approaches him should be made to acknowledge an offense entailing confession.”"
+msgstr "Anyone who approaches him should be made to confess an offense entailing confession.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2159"></a> 
 msgctxt "pli-tv-bu-vb-np15:7.1"
@@ -96,7 +96,7 @@ msgstr "bowed down to him, and sat down to one side."
 #. <a class="pts-vp-en" id="bd.2.84"></a> 
 msgctxt "pli-tv-bu-vb-np15:7.3"
 msgid "Āciṇṇaṃ kho panetaṃ buddhānaṃ bhagavantānaṃ āgantukehi bhikkhūhi saddhiṃ paṭisammodituṃ."
-msgstr "It is the custom for Buddhas to greet visiting monks,"
+msgstr "It is the custom for Buddhas to greet newly arrived monks,"
 
 msgctxt "pli-tv-bu-vb-np15:7.4"
 msgid "Atha kho bhagavā āyasmantaṃ upasenaṃ vaṅgantaputtaṃ etadavoca—"
@@ -172,11 +172,11 @@ msgstr "“When anyone asks me for the full ordination, Venerable Sir, I tell th
 
 msgctxt "pli-tv-bu-vb-np15:8.12"
 msgid "‘ahaṃ kho, āvuso, āraññiko piṇḍapātiko paṃsukūliko."
-msgstr "‘I dwell in the forest, I eat almsfood, and I wear rag-robes."
+msgstr "‘I dwell in the wilderness, I walk for alms, and I wear rag-robes."
 
 msgctxt "pli-tv-bu-vb-np15:8.13"
 msgid "Sace tvampi āraññiko bhavissasi piṇḍapātiko paṃsukūliko, evāhaṃ taṃ upasampādessāmī’ti."
-msgstr "If you, too, will dwell in the forest, eat almsfood, and wear rag-robes, I will give you the full ordination.’"
+msgstr "If you, too, will dwell in the wilderness, walk for alms, and wear rag-robes, I will give you the full ordination.’"
 
 msgctxt "pli-tv-bu-vb-np15:8.14"
 msgid "Sace me paṭissuṇāti upasampādemi,"
@@ -240,7 +240,7 @@ msgstr "No one is to approach him except the one who brings him almsfood."
 
 msgctxt "pli-tv-bu-vb-np15:9.8"
 msgid "Yo bhagavantaṃ upasaṅkamati so pācittiyaṃ desāpetabbo’”ti."
-msgstr "Anyone who approaches him should be made to acknowledge an offense entailing confession.’”"
+msgstr "Anyone who approaches him should be made to confess an offense entailing confession.’”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np15:9.9"
@@ -271,7 +271,7 @@ msgstr "One should practice and undertake the training rules as they are."
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np15:9.15"
 msgid "Anujānāmi, upasena, ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū”ti."
-msgstr "And, Upasena, I allow those monks who dwell in the forest, who eat almsfood, and who wear rag-robes to come and see me whenever they please.”"
+msgstr "And, Upasena, I allow those monks who dwell in the wilderness, who walk for alms, and who wear rag-robes to come and see me whenever they please.”"
 
 #. </strong></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2162"></a> 
 msgctxt "pli-tv-bu-vb-np15:10.1"
@@ -280,7 +280,7 @@ msgstr "Just then many monks were standing outside the entrance, thinking,"
 
 msgctxt "pli-tv-bu-vb-np15:10.2"
 msgid "“mayaṃ āyasmantaṃ upasenaṃ vaṅgantaputtaṃ pācittiyaṃ desāpessāmā”ti."
-msgstr "“We’ll make Venerable Upasena acknowledge an offense entailing confession.”"
+msgstr "“We’ll make Venerable Upasena confess an offense entailing confession.”"
 
 msgctxt "pli-tv-bu-vb-np15:10.3"
 msgid "Atha kho āyasmā upaseno vaṅgantaputto sapariso uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
@@ -342,7 +342,7 @@ msgstr "And the Master has allowed"
 
 msgctxt "pli-tv-bu-vb-np15:10.17"
 msgid "‘ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū’”ti."
-msgstr "those monks who dwell in the forest, who eat almsfood, and who wear rag-robes to go and see him whenever they please.”"
+msgstr "those monks who dwell in the wilderness, who walk for alms, and who wear rag-robes to go and see him whenever they please.”"
 
 #. </p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.232"></a><a class="wt-pa" id="2163"></a> 
 msgctxt "pli-tv-bu-vb-np15:11.1"
@@ -368,17 +368,17 @@ msgstr "that the Master had allowed"
 
 msgctxt "pli-tv-bu-vb-np15:11.6"
 msgid "‘ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū’”ti."
-msgstr "those monks who dwell in the forest, who eat almsfood, and who wear rag-robes to go and see him whenever they please."
+msgstr "those monks who dwell in the wilderness, who walk for alms, and who wear rag-robes to go and see him whenever they please."
 
 #. VAR: dassanaṃ pihentā → dassanāya pihayantā (s1-3) | dassanaṃ pihantā (pts1)
 msgctxt "pli-tv-bu-vb-np15:11.7"
 msgid "Te bhagavantaṃ dassanaṃ pihentā santhatāni ujjhitvā āraññikaṅgaṃ piṇḍapātikaṅgaṃ paṃsukūlikaṅgaṃ samādiyiṃsu."
-msgstr "Longing to see the Master, they discarded their blankets and undertook the practice of dwelling in the forest, of eating almsfood, and of wearing rag-robes."
+msgstr "Longing to see the Master, they discarded their blankets and undertook the practice of dwelling in the wilderness, of walking for alms, and of wearing rag-robes."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np15:11.8"
 msgid "Atha kho bhagavā sambahulehi bhikkhūhi saddhiṃ senāsanacārikaṃ āhiṇḍanto addasa santhatāni tahaṃ tahaṃ ujjhitāni."
-msgstr "Soon afterwards the Master and a number of monks were inspecting the dwellings, and he saw discarded blankets here and there."
+msgstr "Soon afterwards the Master and a number of monks were touring the dwellings, and he saw discarded blankets here and there."
 
 msgctxt "pli-tv-bu-vb-np15:11.9"
 msgid "Passitvā bhikkhū āmantesi—"
@@ -391,28 +391,22 @@ msgstr "“Whose are these discarded blankets?”"
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="2164"></a> 
 msgctxt "pli-tv-bu-vb-np15:12.1"
 msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
-msgstr "The monks informed the Master."
+msgstr "The monks told the Master."
 
 #. <a class="pts-vp-en" id="bd.2.87"></a> 
 msgctxt "pli-tv-bu-vb-np15:12.2"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
-msgstr "Soon afterwards he gave a teaching and addressed the monks:"
+msgstr "Soon afterwards he gave a teaching and addressed the monks,"
 
 msgctxt "pli-tv-bu-vb-np15:12.3"
 msgid "“tena hi, bhikkhave, bhikkhūnaṃ sikkhāpadaṃ paññapessāmi dasa atthavase paṭicca—"
-msgstr "“Well then, monks, I will lay down a training rule for the monks for the following ten reasons:"
+msgstr "“Well then, monks, I will lay down a training rule for the following ten reasons:"
 
 msgctxt "pli-tv-bu-vb-np15:12.4"
 msgid "saṃghasuṭṭhutāya, saṃghaphāsutāya …"
-msgstr "for the well-being of the Order, for the comfort of the Order …"
+msgstr "for the well-being of the Order, for the comfort of the Order, for the restraint of bad people, for the ease of well-behaved monks, for the restraint of corruptions in the present life, for avoiding corruptions in future lives, to give rise to confidence in those without it, to increase the confidence of those who have it, for the continuation of the true Teaching, and for supporting the training."
 
-#. <span class="add"> 
 msgctxt "pli-tv-bu-vb-np15:12.5"
-msgid "pe …"
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-pj1#71\">Expulsion 1, paragraph 71</a>. …"
-
-#. </span> 
-msgctxt "pli-tv-bu-vb-np15:12.6"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
@@ -423,7 +417,7 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="2165"></a>
 #. <strong class="rule">
-#. <span class="note" hidden>That is, one <i lang="pli">sugata-vidatthi</i>, “one <i lang="pli">sugata</i> hand-span.” <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it quite possibly should be understood as referring to a standard, “the standard hand-span.” For the conversion into metric units, I follow the estimate of the <i lang="pli">sugata-vidatthi</i> given in BMC I, pp.565-566.</span>
+#. <span class="note" hidden>That is, one <i lang="pli">sugata-vidatthi</i>, “one <i lang="pli">sugata</i> hand-span.” <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it is used to designate a standard measure, “the standard hand-span.” For the conversion into metric units, I follow the estimate of the <i lang="pli">sugata-vidatthi</i> given in BMC I, pp.565-566.</span>
 #. <span class="note" hidden><i lang="pli">Purāṇasanthatassa sāmantā sugatavidatthi</i>, “a piece of 25 centimeters from the border of an old blanket.” This is based on the analysis and translation provided by Bhikkhu Ñāṇatusita in TAP, p.140. The commentary seems to support this: “<i lang="pli">sāmantā</i> means: having cut a circle or a square from one side, at the place where it is taken a measure of one hand-span is to be taken,” sāmantāti ekapassato vaṭṭaṃ vā caturassaṃ vā chinditvā gahitaṭṭhānaṃ yathā vidatthimattaṃ hoti, evaṃ gahetabbaṃ; see <span class="ref">Sp.3.687.9</span>.</span> 
 msgctxt "pli-tv-bu-vb-np15:13.2"
 msgid "“Nisīdanasanthataṃ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya,"
@@ -507,7 +501,7 @@ msgstr "Without using a 25 centimeter piece from the border of an old blanket:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np15:19.2"
 msgid "anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ navaṃ nisīdanasanthataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ,"
-msgstr "in the act of making a new sitting-blanket, or having one made, without incorporating a 25 centimeter piece from the border of an old blanket, he commits an offense of wrong conduct."
+msgstr "for the act of making a new sitting-blanket, or having one made, without incorporating a 25 centimeter piece from the border of an old blanket, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np15:19.3"
 msgid "paṭilābhena nissaggiyaṃ hoti."

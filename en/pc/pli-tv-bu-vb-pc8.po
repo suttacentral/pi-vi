@@ -35,7 +35,7 @@ msgstr ""
 #. </p><h1>
 msgctxt "pli-tv-bu-vb-pc8:5.1"
 msgid "8. Bhūtārocanasikkhāpada"
-msgstr "Monks’ Confession 8: the training rule on informing truthfully"
+msgstr "Monks’ Confession 8: the training rule on telling truthfully"
 
 #. </h1></div><h2>
 msgctxt "pli-tv-bu-vb-pc8:6.1"
@@ -49,7 +49,7 @@ msgstr "At one time the Buddha was staying at Vesālī in the hall with the peak
 
 msgctxt "pli-tv-bu-vb-pc8:6.3"
 msgid "Tena kho pana samayena sambahulā sandiṭṭhā sambhattā bhikkhū vaggumudāya nadiyā tīre vassaṃ upagacchiṃsu."
-msgstr "Just then a number of monks who were friends had entered the rains on the banks of the river Vaggumudā."
+msgstr "At that time a number of monks who were friends had entered the rains on the banks of the river Vaggumudā."
 
 msgctxt "pli-tv-bu-vb-pc8:6.4"
 msgid "Tena kho pana samayena vajjī dubbhikkhā hoti—dvīhitikā setaṭṭhikā salākāvuttā, na sukarā uñchena paggahena yāpetuṃ."
@@ -71,7 +71,7 @@ msgstr "Some said,"
 
 msgctxt "pli-tv-bu-vb-pc8:6.8"
 msgid "“handa mayaṃ, āvuso, gihīnaṃ kammantaṃ adhiṭṭhema."
-msgstr "“We could do work for the householders,"
+msgstr "“We could do work for the lay people,"
 
 msgctxt "pli-tv-bu-vb-pc8:6.9"
 msgid "Evaṃ te amhākaṃ dātuṃ maññissanti."
@@ -88,7 +88,7 @@ msgstr "Some said,"
 
 msgctxt "pli-tv-bu-vb-pc8:6.12"
 msgid "“alaṃ, āvuso, kiṃ gihīnaṃ kammantaṃ adhiṭṭhitena?"
-msgstr "“There’s no need to do work for the householders."
+msgstr "“There’s no need to do work for the lay people."
 
 msgctxt "pli-tv-bu-vb-pc8:6.13"
 msgid "Handa mayaṃ, āvuso, gihīnaṃ dūteyyaṃ harāma."
@@ -109,7 +109,7 @@ msgstr "Some said,"
 
 msgctxt "pli-tv-bu-vb-pc8:6.17"
 msgid "“alaṃ, āvuso; kiṃ gihīnaṃ kammantaṃ adhiṭṭhitena."
-msgstr "“There’s no need to do work for the householders,"
+msgstr "“There’s no need to do work for the lay people,"
 
 msgctxt "pli-tv-bu-vb-pc8:6.18"
 msgid "Kiṃ gihīnaṃ dūteyyaṃ haṭena."
@@ -118,7 +118,7 @@ msgstr "nor to take messages for them."
 #. <a class="pts-vp-en" id="BD.2.209"></a> 
 msgctxt "pli-tv-bu-vb-pc8:6.19"
 msgid "Handa mayaṃ, āvuso, gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇaṃ bhāsissāma—"
-msgstr "Let’s instead praise one another’s superhuman qualities to the householders, "
+msgstr "Let’s instead praise one another’s superhuman qualities to the lay people, "
 
 msgctxt "pli-tv-bu-vb-pc8:6.20"
 msgid "‘asuko bhikkhu paṭhamassa jhānassa lābhī, asuko bhikkhu dutiyassa jhānassa lābhī, asuko bhikkhu tatiyassa jhānassa lābhī, asuko bhikkhu catutthassa jhānassa lābhī, asuko bhikkhu sotāpanno, asuko bhikkhu sakadāgāmī, asuko bhikkhu anāgāmī, asuko bhikkhu arahā, asuko bhikkhu tevijjo, asuko bhikkhu chaḷabhiñño’ti."
@@ -134,12 +134,12 @@ msgstr "In this way we’ll be united and in harmony, and we’ll spend the rain
 
 msgctxt "pli-tv-bu-vb-pc8:6.23"
 msgid "“Eso yeva kho, āvuso, seyyo, yo amhākaṃ gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇo bhāsito”ti."
-msgstr "Indeed, this is the better way, that we praise one another’s superhuman qualities to the householders.”"
+msgstr "Indeed, this is the better way, that we praise one another’s superhuman qualities to the lay people.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="wt-pa221"></a> 
 msgctxt "pli-tv-bu-vb-pc8:7.1"
 msgid "Atha kho te bhikkhū gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇaṃ bhāsiṃsu—"
-msgstr "Then they praised each other’s superhuman qualities to the householders,"
+msgstr "Then they praised each other’s superhuman qualities to the lay people,"
 
 msgctxt "pli-tv-bu-vb-pc8:7.2"
 msgid "“asuko bhikkhu paṭhamassa jhānassa lābhī … pe … asuko bhikkhu chaḷabhiñño”ti."
@@ -196,7 +196,7 @@ msgstr "But the monks from the banks of the Vaggumudā were handsome, with round
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pc8:8.7"
 msgid "Āciṇṇaṃ kho panetaṃ buddhānaṃ bhagavantānaṃ āgantukehi bhikkhūhi saddhiṃ paṭisammodituṃ."
-msgstr "It is the custom for Buddhas to greet visiting monks,"
+msgstr "It is the custom for Buddhas to greet newly arrived monks,"
 
 msgctxt "pli-tv-bu-vb-pc8:8.8"
 msgid "Atha kho bhagavā vaggumudātīriye bhikkhū etadavoca—"
@@ -252,7 +252,7 @@ msgstr "“In what way, monks, did you spend the rains at ease, without having a
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pc8:9.3"
 msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
-msgstr "And they informed the Master of what had happened."
+msgstr "And they told the Master what had happened."
 
 #. </p><p><a class="pts-vp-en" id="BD.2.211"></a> 
 msgctxt "pli-tv-bu-vb-pc8:9.4"
@@ -271,7 +271,7 @@ msgstr "The Buddha rebuked them,"
 
 msgctxt "pli-tv-bu-vb-pc8:9.7"
 msgid "kathañhi nāma tumhe, bhikkhave, udarassa kāraṇā gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇaṃ bhāsissatha."
-msgstr "“Monks, how can you for the sake of your stomachs praise one another’s superhuman qualities to householders?"
+msgstr "“Monks, how can you for the sake of your stomachs praise one another’s superhuman qualities to lay people?"
 
 msgctxt "pli-tv-bu-vb-pc8:9.8"
 msgid "Netaṃ, bhikkhave, appasannānaṃ vā pasādāya … pe …"
@@ -290,7 +290,7 @@ msgstr "Final ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-pc8:10.2"
 msgid "“Yo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya bhūtasmiṃ, pācittiyan”ti."
-msgstr "‘If a monk truthfully informs a person who is not fully ordained of a superhuman quality, he commits an offense entailing confession.’”"
+msgstr "‘If a monk truthfully tells a person who is not fully ordained of a superhuman quality, he commits an offense entailing confession.’”"
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-pc8:10.3"
@@ -321,7 +321,7 @@ msgstr "Monk:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:11.5"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
-msgstr "… The monk who has been given the full ordination by a complete Order through a formal procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
+msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa226"></a>
 #. <strong class="term"> 
@@ -484,7 +484,7 @@ msgstr "First absorption"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:24.3"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:24.4"
@@ -495,7 +495,7 @@ msgstr "if a monk says to a person who is not fully ordained, “I attained the 
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:25.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:25.2"
@@ -506,7 +506,7 @@ msgstr "if a monk says to a person who is not fully ordained, “I’m attaining
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:26.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:26.2"
@@ -517,7 +517,7 @@ msgstr "if a monk says to a person who is not fully ordained, “I’ve attained
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:27.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:27.2"
@@ -528,7 +528,7 @@ msgstr "if a monk says to a person who is not fully ordained, “I obtain the fi
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:28.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:28.2"
@@ -539,7 +539,7 @@ msgstr "if a monk says to a person who is not fully ordained, “I master the fi
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:29.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:29.2"
@@ -555,7 +555,7 @@ msgstr "Other individual attainments"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:30.2"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:30.3"
@@ -586,7 +586,7 @@ msgstr "I’ve realized the fourth absorption,” he commits an offense entailin
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:31.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:31.2"
@@ -630,7 +630,7 @@ msgstr "I’ve realized the desireless stillness,” he commits an offense entai
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:32.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:32.2"
@@ -661,7 +661,7 @@ msgstr "I’ve realized the desireless attainment,” he commits an offense enta
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:33.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:33.2"
@@ -684,7 +684,7 @@ msgstr "I’ve realized the three true insights,” he commits an offense entail
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:34.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:34.2"
@@ -715,7 +715,7 @@ msgstr "I’ve realized the four bases for supernormal power,” he commits an o
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:35.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:35.2"
@@ -742,7 +742,7 @@ msgstr "I’ve realized the five spiritual powers,” he commits an offense enta
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:36.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:36.2"
@@ -765,7 +765,7 @@ msgstr "I’ve realized the seven factors of awakening,” he commits an offense
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:37.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:37.2"
@@ -788,7 +788,7 @@ msgstr "I’ve realized the noble eightfold path,” he commits an offense entai
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:38.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:38.2"
@@ -825,7 +825,7 @@ msgstr "I’ve realized perfection,” he commits an offense entailing confessio
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:39.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:39.2"
@@ -848,7 +848,7 @@ msgstr "I’ve given up confusion, I’ve renounced it, I’ve let it go, I’ve
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:40.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:40.2"
@@ -871,7 +871,7 @@ msgstr "My mind is free from the hindrance of confusion,” he commits an offens
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:41.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:41.2"
@@ -911,7 +911,7 @@ msgstr "Combinations of two attainments"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:42.2"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:42.3"
@@ -934,7 +934,7 @@ msgstr "I’ve realized the first absorption and the second absorption,” he co
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:43.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:43.2"
@@ -961,7 +961,7 @@ msgstr "I’ve realized the first absorption and the fourth absorption,” he co
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:44.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:44.2"
@@ -1004,7 +1004,7 @@ msgstr "I’ve realized the first absorption and the desireless stillness,” he
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:45.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:45.2"
@@ -1035,7 +1035,7 @@ msgstr "I’ve realized the first absorption and the desireless attainment,” h
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:46.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:46.2"
@@ -1059,7 +1059,7 @@ msgstr "I’ve realized the first absorption and the three true insights,” he 
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:47.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:47.2"
@@ -1090,7 +1090,7 @@ msgstr "I’ve realized the first absorption and the four bases for supernormal 
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:48.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:48.2"
@@ -1117,7 +1117,7 @@ msgstr "I’ve realized the first absorption and the five spiritual powers,” h
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:49.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:49.2"
@@ -1140,7 +1140,7 @@ msgstr "I’ve realized the first absorption and the seven factors of awakening,
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:50.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:50.2"
@@ -1163,7 +1163,7 @@ msgstr "I’ve realized the first absorption and the noble eightfold path,” he
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:51.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:51.2"
@@ -1200,7 +1200,7 @@ msgstr "I’ve realized the first absorption and perfection,” he commits an of
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:52.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:52.2"
@@ -1209,7 +1209,7 @@ msgstr "if a monk says to a person who is not fully ordained,"
 
 msgctxt "pli-tv-bu-vb-pc8:52.3"
 msgid "“paṭhamañca jhānaṃ samāpajjiṃ, samāpajjāmi, samāpanno … pe … rāgo ca me catto … doso ca me catto …"
-msgstr "“I attained the first absorption and I’ve given up sensual desire … and I’ve given up ill-will … and I’ve given up confusion … I’m attaining … I’ve attained …  I obtain … I master …"
+msgstr "“I attained the first absorption and I’ve given up sensual desire … and I’ve given up ill-will … and I’ve given up confusion … I’m attaining … I’ve attained … I obtain … I master …"
 
 msgctxt "pli-tv-bu-vb-pc8:52.4"
 msgid "moho ca me catto, vanto, mutto, pahīno, paṭinissaṭṭho, ukkheṭito, samukkheṭito”ti bhaṇantassa āpatti pācittiyassa."
@@ -1219,7 +1219,7 @@ msgstr "I’ve realized the first absorption and I’ve given up confusion,” h
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:53.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:53.2"
@@ -1238,7 +1238,7 @@ msgstr "I’ve realized the first absorption and my mind is free from the hindra
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:54.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:54.2"
@@ -1265,7 +1265,7 @@ msgstr "I’ve realized the second absorption and the fourth absorption,” he c
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:55.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:55.2"
@@ -1284,7 +1284,7 @@ msgstr "and my mind is free from the hindrance of confusion,” he commits an of
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:56.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:56.2"
@@ -1312,7 +1312,7 @@ msgstr "The basis in brief."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:58.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:58.2"
@@ -1336,7 +1336,7 @@ msgstr "My mind is free from the hindrance of confusion and I’ve realized the 
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:59.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:59.2"
@@ -1356,7 +1356,7 @@ msgstr "Combination of all attainments"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:60.2"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:60.3"
@@ -1381,7 +1381,7 @@ msgstr "Meaning to say one thing, but saying something else"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:61.2"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:61.3"
@@ -1397,7 +1397,7 @@ msgstr "“I attained the first absorption,” while actually saying, “I attai
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:62.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:62.2"
@@ -1426,7 +1426,7 @@ msgstr "my mind is free from the hindrance of sensual desire … my mind is free
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:63.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:63.2"
@@ -1441,7 +1441,7 @@ msgstr "“I attained the second absorption” … while actually saying, “My 
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:64.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:64.2"
@@ -1461,7 +1461,7 @@ msgstr "The basis in brief."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:66.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:66.2"
@@ -1476,7 +1476,7 @@ msgstr "“My mind is free from the hindrance of confusion,” while actually sa
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:67.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:67.2"
@@ -1491,7 +1491,7 @@ msgstr "“My mind is free from the hindrance of confusion,” while actually sa
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:68.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:68.2"
@@ -1506,7 +1506,7 @@ msgstr "“I attained the first absorption and the second absorption and the thi
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:69.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:69.2"
@@ -1526,7 +1526,7 @@ msgstr "Gross hinting"
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:70.2"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:70.3"
@@ -1550,7 +1550,7 @@ msgstr "has realized the first absorption,” he commits an offense of wrong con
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:71.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:71.2"
@@ -1577,7 +1577,7 @@ msgstr "has realized the fourth absorption,” he commits an offense of wrong co
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:72.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:72.2"
@@ -1604,7 +1604,7 @@ msgstr "has realized the desireless stillness,” he commits an offense of wrong
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:73.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:73.2"
@@ -1631,7 +1631,7 @@ msgstr "has realized the desireless attainment,” he commits an offense of wron
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:74.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:74.2"
@@ -1659,7 +1659,7 @@ msgstr "has a mind free from the hindrance of sensual desire … has a mind free
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:75.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:75.2"
@@ -1686,7 +1686,7 @@ msgstr "has realized the fourth absorption in an empty dwelling,” he commits a
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:76.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:76.2"
@@ -1695,7 +1695,7 @@ msgstr "if a monk says to a person who is not fully ordained,"
 
 msgctxt "pli-tv-bu-vb-pc8:76.3"
 msgid "“yo te cīvaraṃ paribhuñji, yo te piṇḍapātaṃ paribhuñji, yo te senāsanaṃ paribhuñji, yo te gilānappaccayabhesajjaparikkhāraṃ paribhuñji so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji, samāpajjati, samāpanno;"
-msgstr "“The monk who made use of your robes … who made use of your almsfood … who made use of your dwelling … who made use of your medicines attained the fourth absorption in an empty dwelling … is attaining … has attained …"
+msgstr "“The monk who made use of your robe-cloth … who made use of your almsfood … who made use of your dwelling … who made use of your medicines attained the fourth absorption in an empty dwelling … is attaining … has attained …"
 
 msgctxt "pli-tv-bu-vb-pc8:76.4"
 msgid "so bhikkhu suññāgāre catutthassa jhānassa lābhī, vasī;"
@@ -1709,7 +1709,7 @@ msgstr "has realized the fourth absorption in an empty dwelling,” he commits a
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:77.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:77.2"
@@ -1718,7 +1718,7 @@ msgstr "if a monk says to a person who is not fully ordained,"
 
 msgctxt "pli-tv-bu-vb-pc8:77.3"
 msgid "“yena te vihāro paribhutto … pe … yena te cīvaraṃ paribhuttaṃ, yena te piṇḍapāto paribhutto, yena te senāsanaṃ paribhuttaṃ, yena te gilānappaccayabhesajjaparikkhāro paribhutto so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji, samāpajjati, samāpanno;"
-msgstr "“The monk who has made use of your dwelling … who has made use of your robes … who has made use of your almsfood … who has made use of your dwelling … who has made use of your medicines attained the fourth absorption in an empty dwelling … is attaining … has attained …"
+msgstr "“The monk who has made use of your dwelling … who has made use of your robe-cloth … who has made use of your almsfood … who has made use of your dwelling … who has made use of your medicines attained the fourth absorption in an empty dwelling … is attaining … has attained …"
 
 msgctxt "pli-tv-bu-vb-pc8:77.4"
 msgid "so bhikkhu suññāgāre catutthassa jhānassa lābhī, vasī;"
@@ -1732,7 +1732,7 @@ msgstr "has realized the fourth absorption in an empty dwelling,” he commits a
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:78.1"
 msgid "Āroceyyāti"
-msgstr "Informs:"
+msgstr "Tells:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:78.2"
@@ -1741,7 +1741,7 @@ msgstr "if a monk says to a person who is not fully ordained,"
 
 msgctxt "pli-tv-bu-vb-pc8:78.3"
 msgid "“yaṃ tvaṃ āgamma vihāraṃ adāsi … pe … cīvaraṃ adāsi, piṇḍapātaṃ adāsi, senāsanaṃ adāsi, gilānappaccayabhesajjaparikkhāraṃ adāsi so bhikkhu suññāgāre catutthaṃ jhānaṃ samāpajji, samāpajjati, samāpanno;"
-msgstr "“The monk to whom you gave a dwelling … to whom you gave robes … to whom you gave almsfood … to whom you gave a dwelling … to whom you gave medicines … he attained the fourth absorption in an empty dwelling … is attaining … has attained …"
+msgstr "“The monk to whom you gave a dwelling … to whom you gave robe-cloth … to whom you gave almsfood … to whom you gave a dwelling … to whom you gave medicines … he attained the fourth absorption in an empty dwelling … is attaining … has attained …"
 
 msgctxt "pli-tv-bu-vb-pc8:78.4"
 msgid "so bhikkhu suññāgāre catutthassa jhānassa lābhī, vasī;"
@@ -1763,7 +1763,7 @@ msgstr "There is no offense:"
 
 msgctxt "pli-tv-bu-vb-pc8:79.3"
 msgid "upasampannassa, bhūtaṃ āroceti,"
-msgstr "if he truthfully informs one who is fully ordained;"
+msgstr "if he truthfully tells one who is fully ordained;"
 
 msgctxt "pli-tv-bu-vb-pc8:79.4"
 msgid "ādikammikassāti."
@@ -1772,7 +1772,7 @@ msgstr "if he is the first offender."
 #. </p><hr><p class="endsutta"><a class="sc" id="75"></a><a class="wt-pa" id="wt-pa294"></a> 
 msgctxt "pli-tv-bu-vb-pc8:80.1"
 msgid "Bhūtārocanasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ."
-msgstr "The eighth rule, the training rule on informing truthfully, is finished."
+msgstr "The eighth rule, the training rule on telling truthfully, is finished."
 
 #. </p></article><aside id="metaarea"><p>Translated by <span class="author">Bhikkhu Brahmali.</span></p>
 #. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya Vimala</span>.</p>

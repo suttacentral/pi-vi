@@ -69,7 +69,7 @@ msgstr "At that time the Master had allowed the three robes for the monks."
 #. <a class="pts-vp-en" id="bd.2.2"></a> 
 msgctxt "pli-tv-bu-vb-np1:7.5"
 msgid "Chabbaggiyā bhikkhū—“bhagavatā ticīvaraṃ anuññātan”ti aññeneva ticīvarena gāmaṃ pavisanti, aññena ticīvarena ārāme acchanti, aññena ticīvarena nahānaṃ otaranti."
-msgstr "Knowing that this was the case, monks from the group of six entered the village in one set of three robes, stayed in the monastery in another set, and went to bathe in yet another set."
+msgstr "Knowing that this was the case, the monks from the group of six entered the village in one set of three robes, stayed in the monastery in another set, and went to bathe in yet another set."
 
 msgctxt "pli-tv-bu-vb-np1:7.6"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -81,16 +81,16 @@ msgstr "complained and criticized them,"
 
 msgctxt "pli-tv-bu-vb-np1:7.8"
 msgid "“kathañhi nāma chabbaggiyā bhikkhū atirekacīvaraṃ dhāressantī”ti."
-msgstr "“How can those monks from the group of six keep extra robes?”"
+msgstr "“How can the monks from the group of six have extra robes?”"
 
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="1863"></a> 
 msgctxt "pli-tv-bu-vb-np1:8.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np1:8.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, atirekacīvaraṃ dhārethā”ti?"
-msgstr "“Is it true, monks, that you keep extra robes?”"
+msgstr "“Is it true, monks, that you have extra robes?”"
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np1:8.3"
@@ -100,12 +100,12 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np1:8.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked them: “…"
+msgstr "The Buddha rebuked them, “…"
 
 #. <a class="pts-vp-en" id="bd.2.3"></a> 
 msgctxt "pli-tv-bu-vb-np1:8.5"
 msgid "kathañhi nāma tumhe, moghapurisā, atirekacīvaraṃ dhāressatha."
-msgstr "Foolish men, how can you keep extra robes?"
+msgstr "Foolish men, how can you have extra robes?"
 
 msgctxt "pli-tv-bu-vb-np1:8.6"
 msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
@@ -124,7 +124,7 @@ msgstr "Preliminary ruling"
 #. <strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np1:9.2"
 msgid "“Yo pana bhikkhu atirekacīvaraṃ dhāreyya, nissaggiyaṃ pācittiyan”ti."
-msgstr "‘If a monk keeps an extra robe(-cloth), he commits an offense entailing relinquishment and confession.’”"
+msgstr "‘If a monk has extra robe-cloth, he commits an offense entailing relinquishment and confession.’”"
 
 #. </strong>
 #. </p><p><a class="sc" id="5"></a><a class="pts-vp-en" id="bd.2.4"></a><a class="wt-pa" id="1865"></a> 
@@ -140,7 +140,7 @@ msgstr "Second sub-story"
 #. </h3><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.196"></a> 
 msgctxt "pli-tv-bu-vb-np1:11.2"
 msgid "Tena kho pana samayena āyasmato ānandassa atirekacīvaraṃ uppannaṃ hoti."
-msgstr "Soon afterwards a robe was offered to Venerable Ānanda."
+msgstr "Soon afterwards robe-cloth was given to Venerable Ānanda."
 
 msgctxt "pli-tv-bu-vb-np1:11.3"
 msgid "Āyasmā ca ānando taṃ cīvaraṃ āyasmato sāriputtassa dātukāmo hoti."
@@ -152,7 +152,7 @@ msgstr "who was staying at Sāketa."
 
 msgctxt "pli-tv-bu-vb-np1:11.5"
 msgid "Atha kho āyasmato ānandassa etadahosi—"
-msgstr "Knowing that the Buddha had laid down a rule against keeping an extra robe, Ānanda thought,"
+msgstr "Knowing that the Buddha had laid down a rule against having extra robe-cloth, Ānanda thought,"
 
 msgctxt "pli-tv-bu-vb-np1:11.6"
 msgid "“bhagavatā sikkhāpadaṃ paññattaṃ—"
@@ -180,7 +180,7 @@ msgstr "“What should I do in this situation?”"
 
 msgctxt "pli-tv-bu-vb-np1:11.12"
 msgid "Atha kho āyasmā ānando bhagavato etamatthaṃ ārocesi."
-msgstr "He informed the Master, and the Master said,"
+msgstr "He told the Master, and the Master said,"
 
 msgctxt "pli-tv-bu-vb-np1:11.13"
 msgid "“Kīvaciraṃ panānanda, sāriputto āgacchissatī”ti?"
@@ -198,7 +198,7 @@ msgstr "Soon afterwards the Master gave a teaching and addressed the monks:"
 
 msgctxt "pli-tv-bu-vb-np1:11.16"
 msgid "“anujānāmi, bhikkhave, dasāhaparamaṃ atirekacīvaraṃ dhāretuṃ."
-msgstr "“Monks, you should keep an extra robe for ten days at the most."
+msgstr "“Monks, you should keep extra robe-cloth for ten days at the most."
 
 msgctxt "pli-tv-bu-vb-np1:11.17"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
@@ -210,12 +210,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="1867"></a><a class="pts-vp-en" id="bd.2.5"></a>
-#. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> below it also refers to pieces of robe-cloth. This means that I have to vary my translation depending on the context. Sometimes, such as here, the meaning is both robe and robe-cloth, and I then render it as robe(-cloth).</span>
+#. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> below it also refers to pieces of robe-cloth. This means that I have to vary my translation depending on the context.</span>
 #. <strong class="rule"> 
 #. VAR: kathine → kaṭhine (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np1:12.2"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ."
-msgstr "‘When his robe is finished and the robe-making season has ended, a monk should keep an extra robe(-cloth) for ten days at the most."
+msgstr "‘When his robe is finished and the robe-making season has ended, a monk should keep extra robe-cloth for ten days at the most."
 
 msgctxt "pli-tv-bu-vb-np1:12.3"
 msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
@@ -271,23 +271,23 @@ msgstr "it should be kept for ten days at a maximum."
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np1:16.1"
 msgid "Atirekacīvaraṃ nāma"
-msgstr "An extra robe(-cloth):"
+msgstr "Extra robe-cloth:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>“Transferred” is a rendering of <i lang="pli">vikappita</i>. The explanation given at <i lang="pli">pācittiya</i> 59 seems to make it clear that <i lang="pli">vikappanā</i> refers to a change in ownership. The word commentary specifically says that the item is given to someone else and that the monk giving it up may use it only if he takes their belonging on trust.</span> 
 msgctxt "pli-tv-bu-vb-np1:16.2"
 msgid "anadhiṭṭhitaṃ avikappitaṃ."
-msgstr "a robe(-cloth) that is not determined, nor transferred."
+msgstr "robe-cloth that is not determined, nor transferred."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="1872"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np1:17.1"
 msgid "Cīvaraṃ nāma"
-msgstr "A robe(-cloth):"
+msgstr "Robe-cloth:"
 
 #. </strong><span class="gloss">
-#. <span class="note" hidden>The six are linen, cotton, silk, wool, jute, and hemp, see <span class="ref">Mv.8.3.1</span>.</span>
-#. <span class="note" hidden>This means not smaller than 8 by 4 <i lang="pli">sugata</i> finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
+#. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp, see <span class="ref">Mv.8.3.1</span>.</span>
+#. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
 msgctxt "pli-tv-bu-vb-np1:17.2"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
@@ -299,15 +299,15 @@ msgid "Taṃ atikkāmayato nissaggiyaṃ hotīti"
 msgstr "If he keeps it beyond that […] entailing relinquishment:"
 
 #. </strong><span class="gloss">
-#. <span class="note" hidden>According to the commentary this means the tenth dawn after one received the robe(-cloth), see <span class="ref">Sp.3.639.27</span></span> 
+#. <span class="note" hidden>According to the commentary this means the tenth dawn after one received the robe(cloth, see <span class="ref">Sp.3.639.27</span></span> 
 msgctxt "pli-tv-bu-vb-np1:18.2"
 msgid "ekādase aruṇuggamane nissaggiyaṃ hoti."
-msgstr "entailing relinquishment at dawn on the eleventh day."
+msgstr "it becomes subject to relinquishment at dawn on the eleventh day."
 
 #. </span></p><hr><p>
 msgctxt "pli-tv-bu-vb-np1:18.3"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
-msgstr "The robe(-cloth) should be relinquished to the Order, a group, or an individual."
+msgstr "The robe-cloth should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np1:18.4"
@@ -321,7 +321,7 @@ msgstr "After approaching the Order, that monk should put his upper robe over on
 
 msgctxt "pli-tv-bu-vb-np1:18.6"
 msgid "“idaṃ me, bhante, cīvaraṃ dasāhātikkantaṃ nissaggiyaṃ,"
-msgstr "‘Venerables, this robe(-cloth) which I have kept over ten days is to be relinquished."
+msgstr "‘Venerables, this robe-cloth that I have kept over ten days is to be relinquished."
 
 msgctxt "pli-tv-bu-vb-np1:18.7"
 msgid "imāhaṃ saṃghassa nissajjāmī”ti."
@@ -330,16 +330,16 @@ msgstr "I relinquish it to the Order.’"
 #. </span> 
 msgctxt "pli-tv-bu-vb-np1:18.8"
 msgid "Nissajjitvā āpatti desetabbā."
-msgstr "After relinquishing it, he is to acknowledge the offense."
+msgstr "After relinquishing it, he should confess the offense."
 
 msgctxt "pli-tv-bu-vb-np1:18.9"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
-msgstr "The acknowledgment should be received by a competent and capable monk."
+msgstr "The confession should be received by a competent and capable monk."
 
 #. VAR: dātabbaṃ → hotīti idaṃ padaṃ sabba­pottha­kesu atthi, sikkhāpade pana natthi,
 msgctxt "pli-tv-bu-vb-np1:18.10"
 msgid "Nissaṭṭhacīvaraṃ dātabbaṃ—"
-msgstr "The relinquished robe(-cloth) is then to be given back:"
+msgstr "The relinquished robe-cloth is then to be given back:"
 
 #. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="1874"></a><span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np1:19.1"
@@ -348,11 +348,11 @@ msgstr "‘Venerables, let the Order listen to me."
 
 msgctxt "pli-tv-bu-vb-np1:19.2"
 msgid "Idaṃ cīvaraṃ itthannāmassa bhikkhuno nissaggiyaṃ saṃghassa nissaṭṭhaṃ."
-msgstr "This robe(-cloth) which was to be relinquished by monk so-and-so has been relinquished to the Order."
+msgstr "This robe-cloth that was to be relinquished by monk so-and-so has been relinquished to the Order."
 
 msgctxt "pli-tv-bu-vb-np1:19.3"
 msgid "Yadi saṃghassa pattakallaṃ, saṃgho imaṃ cīvaraṃ itthannāmassa bhikkhuno dadeyyā”ti."
-msgstr "If it seems appropriate to the Order, the Order should give this robe(-cloth) back to monk so-and-so.’"
+msgstr "If it seems appropriate to the Order, the Order should give this robe-cloth back to monk so-and-so.’"
 
 #. </span></p><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli3.197"></a><a class="wt-pa" id="1875"></a><span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np1:20.1"
@@ -361,7 +361,7 @@ msgstr "After approaching several monks, that monk should put his upper robe ove
 
 msgctxt "pli-tv-bu-vb-np1:20.2"
 msgid "“idaṃ me, bhante, cīvaraṃ dasāhātikkantaṃ nissaggiyaṃ."
-msgstr "‘Venerables, this robe(-cloth) which I have kept over ten days is to be relinquished."
+msgstr "‘Venerables, this robe-cloth that I have kept over ten days is to be relinquished."
 
 msgctxt "pli-tv-bu-vb-np1:20.3"
 msgid "Imāhaṃ āyasmantānaṃ nissajjāmī”ti."
@@ -370,15 +370,15 @@ msgstr "I relinquish it to the venerables.’"
 #. </span> 
 msgctxt "pli-tv-bu-vb-np1:20.4"
 msgid "Nissajjitvā āpatti desetabbā."
-msgstr "After relinquishing it, he is to acknowledge the offense."
+msgstr "After relinquishing it, he should confess the offense."
 
 msgctxt "pli-tv-bu-vb-np1:20.5"
 msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
-msgstr "The acknowledgment should be received by a competent and capable monk."
+msgstr "The confession should be received by a competent and capable monk."
 
 msgctxt "pli-tv-bu-vb-np1:20.6"
 msgid "Nissaṭṭhacīvaraṃ dātabbaṃ—"
-msgstr "The relinquished robe(-cloth) is then to be given back:"
+msgstr "The relinquished robe-cloth is then to be given back:"
 
 #. </p><p><a class="sc" id="16"></a><a class="wt-pa" id="1876"></a><span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np1:21.1"
@@ -387,12 +387,12 @@ msgstr "‘Let the venerables listen to me."
 
 msgctxt "pli-tv-bu-vb-np1:21.2"
 msgid "Idaṃ cīvaraṃ itthannāmassa bhikkhuno nissaggiyaṃ āyasmantānaṃ nissaṭṭhaṃ."
-msgstr "This robe(-cloth) which was to be relinquished by monk so-and-so has been relinquished to you."
+msgstr "This robe-cloth that was to be relinquished by monk so-and-so has been relinquished to you."
 
 #. <a class="pts-vp-en" id="bd.2.9"></a> 
 msgctxt "pli-tv-bu-vb-np1:21.3"
 msgid "Yadāyasmantānaṃ pattakallaṃ, āyasmantā imaṃ cīvaraṃ itthannāmassa bhikkhuno dadeyyun”ti."
-msgstr "If it seems appropriate to you, you should give this robe(-cloth) back to monk so-and-so.’"
+msgstr "If it seems appropriate to you, you should give this robe-cloth back to monk so-and-so.’"
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="1877"></a><span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np1:22.1"
@@ -401,7 +401,7 @@ msgstr "After approaching a single monk, that monk should put his upper robe ove
 
 msgctxt "pli-tv-bu-vb-np1:22.2"
 msgid "“idaṃ me, āvuso, cīvaraṃ dasāhātikkantaṃ nissaggiyaṃ."
-msgstr "‘This robe(-cloth) which I have kept over ten days is to be relinquished."
+msgstr "‘This robe-cloth that I have kept over ten days is to be relinquished."
 
 msgctxt "pli-tv-bu-vb-np1:22.3"
 msgid "Imāhaṃ āyasmato nissajjāmī”ti."
@@ -410,20 +410,20 @@ msgstr "I relinquish it to you.’"
 #. </span> 
 msgctxt "pli-tv-bu-vb-np1:22.4"
 msgid "Nissajjitvā āpatti desetabbā."
-msgstr "After relinquishing it, he is to acknowledge the offense."
+msgstr "After relinquishing it, he should confess the offense."
 
 msgctxt "pli-tv-bu-vb-np1:22.5"
 msgid "Tena bhikkhunā āpatti paṭiggahetabbā."
-msgstr "The acknowledgment should be received by that monk."
+msgstr "The confession should be received by that monk."
 
 msgctxt "pli-tv-bu-vb-np1:22.6"
 msgid "Nissaṭṭhacīvaraṃ dātabbaṃ—"
-msgstr "The relinquished robe(-cloth) is then to be given back:"
+msgstr "The relinquished robe-cloth is then to be given back:"
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np1:22.7"
 msgid "“imaṃ cīvaraṃ āyasmato dammī”ti."
-msgstr "‘I give this robe(-cloth) back to you.’”"
+msgstr "‘I give this robe-cloth back to you.’”"
 
 #. </span>
 #. </p><h2>
@@ -447,37 +447,37 @@ msgstr "If it is more than ten days, but he perceives it as less than ten days, 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np1:23.5"
 msgid "Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is undetermined, but he perceives it as determined, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been determined, but he perceives it as determined, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np1:23.6"
 msgid "Avikappite vikappitasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is not transferred, but he perceives it as transferred, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been transferred, but he perceives it as transferred, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np1:23.7"
 msgid "Avissajjite vissajjitasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is not given away, but he perceives it as given away, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been given away, but he perceives it as given away, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np1:23.8"
 msgid "Anaṭṭhe naṭṭhasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is not lost, but he perceives it as lost, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been lost, but he perceives it as lost, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np1:23.9"
 msgid "Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is not destroyed, but he perceives it as destroyed, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been destroyed, but he perceives it as destroyed, he commits an offense entailing relinquishment and confession."
 
 #. <a class="pts-vp-en" id="bd.2.10"></a> 
 msgctxt "pli-tv-bu-vb-np1:23.10"
 msgid "Adaḍḍhe daḍḍhasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is not burnt, but he perceives it as burnt, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been burnt, but he perceives it as burnt, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np1:23.11"
 msgid "Avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is not stolen, but he perceives it as stolen, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been stolen, but he perceives it as stolen, he commits an offense entailing relinquishment and confession."
 
 #. </p><p><a class="sc" id="19"></a><a class="wt-pa" id="1879"></a><strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np1:24.1"
 msgid "Nissaggiyaṃ cīvaraṃ anissajjitvā paribhuñjati, āpatti dukkaṭassa."
-msgstr "If he uses a robe(-cloth) which should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
+msgstr "If he uses a robe-cloth that should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
 
 #. </strong> 
 msgctxt "pli-tv-bu-vb-np1:24.2"
@@ -517,17 +517,17 @@ msgstr "if he is the first offender."
 #. </p><hr><p><a class="sc" id="21"></a><a class="pts-cs" id="bu-np.1.5"></a><a class="wt-pa" id="1881"></a> 
 msgctxt "pli-tv-bu-vb-np1:26.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū nissaṭṭhacīvaraṃ na denti."
-msgstr "At that time monks from the group six did not give back relinquished robe(-cloth)."
+msgstr "At that time monks from the group six did not give back relinquished robe-cloth."
 
 msgctxt "pli-tv-bu-vb-np1:26.2"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. <a class="pts-vp-en" id="bd.2.11"></a><strong class="rule"> 
 #. VAR: () → () s1-3 potthakesu
 msgctxt "pli-tv-bu-vb-np1:26.3"
 msgid "() “Na, bhikkhave, nissaṭṭhacīvaraṃ na dātabbaṃ."
-msgstr "“Monks, relinquished robe(-cloth) should be given back."
+msgstr "“Monks, relinquished robe-cloth should be given back."
 
 msgctxt "pli-tv-bu-vb-np1:26.4"
 msgid "Yo na dadeyya, āpatti dukkaṭassā”ti."

@@ -43,7 +43,7 @@ msgstr "At one time the Buddha was staying at Kosambī in Ghosita’s Monastery.
 
 msgctxt "pli-tv-bu-vb-ss7:5.3"
 msgid "Tena kho pana samayena āyasmato channassa upaṭṭhāko gahapati āyasmantaṃ channaṃ etadavoca—"
-msgstr "At that time a householder who was a supporter of Venerable Channa said to him,"
+msgstr "At that time a lay person who was a supporter of Venerable Channa said to him,"
 
 msgctxt "pli-tv-bu-vb-ss7:5.4"
 msgid "“vihāravatthuṃ, bhante, jānāhi ayyassa vihāraṃ kārāpessāmī”ti."
@@ -88,7 +88,7 @@ msgstr "Venerable Channa in the same manner."
 #. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms-pa1514"></a> 
 msgctxt "pli-tv-bu-vb-ss7:7.1"
 msgid "Atha kho te bhikkhū āyasmantaṃ channaṃ aneka­pariyā­yena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing Venerable Channa in various ways, they informed the Master. …"
+msgstr "After criticizing Venerable Channa in various ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-ss7:7.2"
 msgid "“saccaṃ kira tvaṃ, channa, cetiyarukkhaṃ chedāpesi gāmapūjitaṃ … pe … raṭṭhapūjitan”ti?"
@@ -102,7 +102,7 @@ msgstr "“It’s true, Master.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss7:7.4"
 msgid "Vigarahi buddho bhagavā … pe …"
-msgstr "The Buddha rebuked him:"
+msgstr "The Buddha rebuked him,"
 
 msgctxt "pli-tv-bu-vb-ss7:7.5"
 msgid "kathañhi nāma tvaṃ, moghapurisa, cetiyarukkhaṃ chedāpessasi gāmapūjitaṃ nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ raṭṭhapūjitaṃ."
@@ -194,7 +194,7 @@ msgstr "With a sponsoring owner:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:12.2"
 msgid "añño koci sāmiko hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
-msgstr "there is another owner, either a woman or a man, either a householder or one gone forth."
+msgstr "there is another owner, either a woman or a man, either a lay person or one gone forth."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1520"></a>
@@ -219,7 +219,7 @@ msgstr "He must get monks to approve a site:"
 #. </p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss7:14.2"
 msgid "tena vihārakārakena bhikkhunā vihāravatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "The monk who is building a dwelling should clear a site, then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
+msgstr "The monk who is building a dwelling should clear a site, then approach the Order, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, put the palms of his hands together, and say,"
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-ss7:14.3"
@@ -249,7 +249,7 @@ msgstr "If the whole Order is not able to inspect the site,"
 
 msgctxt "pli-tv-bu-vb-ss7:14.9"
 msgid "ye tattha honti bhikkhū byattā paṭibalā sārambhaṃ anārambhaṃ saparikkamanaṃ aparikkamanaṃ jānituṃ te yācitvā sammannitabbā."
-msgstr "then those monks there who are competent and capable—who know where harm will be done and where no harm will be done, and who knows what is meant by a space on all sides and a lacks a space on all sides—should be asked and then appointed."
+msgstr "then those monks there who are competent and capable—who know where harm will be done and where no harm will be done, and who understands the meaning of space on all sides and a lacks a space on all sides—should be asked and then appointed."
 
 #. </p><p>
 msgctxt "pli-tv-bu-vb-ss7:14.10"
@@ -346,7 +346,7 @@ msgstr "‘No harm will be done and it has a space on all sides.’"
 
 msgctxt "pli-tv-bu-vb-ss7:18.7"
 msgid "Tena vihārakārakena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
-msgstr "The monk who is building the dwelling should then approach the Order, put his robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels with his palms together, and say,"
+msgstr "The monk who is building the dwelling should then approach the Order, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, put the palms of his hands together, and say,"
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-ss7:18.8"
@@ -590,7 +590,7 @@ msgstr "Or he does not get monks to approve the site:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:29.2"
 msgid "ñattidutiyena kammena vihāravatthuṃ na desāpetvā karoti vā kārāpeti vā, payoge dukkaṭaṃ."
-msgstr "if the site has not been approved through a formal procedure consisting of one motion and three announcements, and he then builds a dwelling or gets one built, he commits an offense of wrong conduct for the effort."
+msgstr "if the site has not been approved through a procedure consisting of one motion and three announcements, and he then builds a dwelling or gets one built, he commits an offense of wrong conduct for the action."
 
 msgctxt "pli-tv-bu-vb-ss7:29.3"
 msgid "Ekaṃ piṇḍaṃ anāgate, āpatti thullaccayassa."
@@ -724,7 +724,7 @@ msgstr "where no harm will be done, and which has a space on all sides, there is
 #. </p><h5>
 msgctxt "pli-tv-bu-vb-ss7:35.1"
 msgid ""
-msgstr "Departing without informing of proper building procedure"
+msgstr "Departing without informing of the proper building procedure"
 
 #. </h5><p><a class="sc" id="31"></a><a class="pts-cs" id="bu-ss.7.3.3"></a><a class="ms-pa" id="ms-pa1542"></a> 
 msgctxt "pli-tv-bu-vb-ss7:35.2"
@@ -1073,7 +1073,7 @@ msgstr "There is no offense:"
 
 msgctxt "pli-tv-bu-vb-ss7:47.3"
 msgid "leṇe guhāya tiṇakuṭikāya"
-msgstr "if it is an overhang shelter, if it is a cave, if it is a grass hut;"
+msgstr "if it is a shelter, if it is a cave, if it is a grass hut;"
 
 msgctxt "pli-tv-bu-vb-ss7:47.4"
 msgid "aññassatthāya vāsāgāraṃ ṭhapetvā"

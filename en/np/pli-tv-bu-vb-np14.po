@@ -98,7 +98,7 @@ msgstr ""
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2136"></a> 
 msgctxt "pli-tv-bu-vb-np14:7.1"
 msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
-msgstr "Monks heard the complaints of those people,"
+msgstr "The monks heard the complaints of those people,"
 
 msgctxt "pli-tv-bu-vb-np14:7.2"
 msgid "Ye te bhikkhū appicchā … pe …"
@@ -110,7 +110,7 @@ msgstr "complained and criticized those monks,"
 
 msgctxt "pli-tv-bu-vb-np14:7.4"
 msgid "“kathañhi nāma bhikkhū anuvassaṃ santhataṃ kārāpessanti, yācanabahulā viññattibahulā viharissanti—"
-msgstr "“How can those monks act in this way?”"
+msgstr "“How can those monks act like this?”"
 
 msgctxt "pli-tv-bu-vb-np14:7.5"
 msgid "‘eḷakalomāni detha, eḷakalomehi attho’”ti."
@@ -119,11 +119,11 @@ msgstr ""
 #. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli3.228"></a><a class="wt-pa" id="2137"></a> 
 msgctxt "pli-tv-bu-vb-np14:8.1"
 msgid "Atha kho te bhikkhū te anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np14:8.2"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū anuvassaṃ santhataṃ kārāpenti, yācanabahulā viññattibahulā viharanti—"
-msgstr "“Is it true, monks, that some monks are acting in this way?”"
+msgstr "“Is it true, monks, that some monks are acting like this?”"
 
 msgctxt "pli-tv-bu-vb-np14:8.3"
 msgid "‘eḷakalomāni detha, eḷakalomehi attho’”ti?"
@@ -229,12 +229,12 @@ msgstr "I cannot go.”"
 #. </p><p><a class="wt-pa" id="2141"></a> 
 msgctxt "pli-tv-bu-vb-np14:11.13"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
-msgstr "They informed the Master."
+msgstr "They told the Master."
 
 #. </p><p><a class="sc" id="7"></a> 
 msgctxt "pli-tv-bu-vb-np14:12.1"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
-msgstr "Soon afterwards he gave a teaching and addressed the monks:"
+msgstr "Soon afterwards he gave a teaching and addressed the monks,"
 
 msgctxt "pli-tv-bu-vb-np14:12.2"
 msgid "“anujānāmi, bhikkhave, gilānassa bhikkhuno santhatasammutiṃ dātuṃ."
@@ -449,7 +449,7 @@ msgstr "except if the monks have agreed:"
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:25.2"
 msgid "ṭhapetvā bhikkhusammutiṃ aññaṃ navaṃ santhataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ."
-msgstr "in the act of making another new blanket, or getting one made, unless he has the permission of the monks, he commits an offense of wrong conduct."
+msgstr "for the act of making another new blanket, or getting one made, unless he has the permission of the monks, he commits an offense of wrong conduct."
 
 msgctxt "pli-tv-bu-vb-np14:25.3"
 msgid "Paṭilābhena nissaggiyaṃ hoti."

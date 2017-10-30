@@ -83,7 +83,7 @@ msgstr "and in this way create new quarrels and make existing quarrels worse?”
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="wt-pa112"></a> 
 msgctxt "pli-tv-bu-vb-pc3:7.1"
 msgid "Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
-msgstr "After criticizing those monks in many ways, they informed the Master. …"
+msgstr "After criticizing those monks in many ways, they told the Master. …"
 
 msgctxt "pli-tv-bu-vb-pc3:7.2"
 msgid "“saccaṃ kira tumhe, bhikkhave, bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ pesuññaṃ upasaṃharatha, imassa sutvā amussa akkhāyatha, imassa bhedāya, amussa sutvā imassa akkhāyatha, amussa bhedāya?"

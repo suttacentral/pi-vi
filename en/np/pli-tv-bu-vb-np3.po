@@ -53,7 +53,7 @@ msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anā
 
 msgctxt "pli-tv-bu-vb-np3:6.3"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno akālacīvaraṃ uppannaṃ hoti."
-msgstr "At that time a monk had been offered robe-cloth outside the robe season."
+msgstr "At that time a monk had been given robe-cloth outside the robe season."
 
 msgctxt "pli-tv-bu-vb-np3:6.4"
 msgid "Tassa taṃ cīvaraṃ kayiramānaṃ nappahoti."
@@ -67,7 +67,7 @@ msgstr "Lifting it up, he smoothed it out again and again."
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np3:6.6"
 msgid "Addasā kho bhagavā senāsanacārikaṃ āhiṇḍanto taṃ bhikkhuṃ taṃ cīvaraṃ ussāpetvā punappunaṃ vimajjantaṃ."
-msgstr "While inspecting the dwellings, the Master saw that monk acting in this way."
+msgstr "While touring the dwellings, the Master saw that monk acting in this way."
 
 msgctxt "pli-tv-bu-vb-np3:6.7"
 msgid "Disvāna yena so bhikkhu tenupasaṅkami;"
@@ -107,7 +107,7 @@ msgstr "“I am.”"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np3:6.15"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā, bhikkhū āmantesi—"
-msgstr "Soon afterwards the Master gave a teaching and addressed the monks:"
+msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
 msgctxt "pli-tv-bu-vb-np3:6.16"
 msgid "“anujānāmi, bhikkhave, akālacīvaraṃ paṭiggahetvā cīvarapaccāsā nikkhipitun”ti."
@@ -124,7 +124,7 @@ msgstr "in a bundle on a bamboo robe-rack."
 
 msgctxt "pli-tv-bu-vb-np3:7.3"
 msgid "Addasā kho āyasmā ānando senāsanacārikaṃ āhiṇḍanto tāni cīvarāni cīvaravaṃse bhaṇḍikābaddhāni tiṭṭhante."
-msgstr "While inspecting the dwellings Venerable Ānanda saw that robe-cloth,"
+msgstr "While touring the dwellings, Venerable Ānanda saw that robe-cloth,"
 
 msgctxt "pli-tv-bu-vb-np3:7.4"
 msgid "Disvāna bhikkhū āmantesi—"
@@ -161,7 +161,7 @@ msgstr "“How can these monks keep out-of-season robe-cloth for over a month?�
 #. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="1923"></a> 
 msgctxt "pli-tv-bu-vb-np3:8.1"
 msgid "Atha kho āyasmā ānando te bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesi … pe …"
-msgstr "After criticizing those monks in many ways, Venerable Ānanda informed the Master. …"
+msgstr "After criticizing those monks in many ways, Venerable Ānanda told the Master. …"
 
 msgctxt "pli-tv-bu-vb-np3:8.2"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū akālacīvaraṃ paṭiggahetvā atirekamāsaṃ nikkhipantī”ti?"
@@ -196,10 +196,10 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="1924"></a><a class="pts-vp-en" id="bd.2.26"></a>
 #. <strong class="rule">
-#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context. Sometimes it means both, and I then render it as robe(-cloth).</span> 
+#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.</span> 
 msgctxt "pli-tv-bu-vb-np3:9.2"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno paneva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ."
-msgstr "‘When his robe is finished and the robe-making season has ended, if out-of-season robe-cloth becomes available to a monk, he may receive it if he wishes."
+msgstr "‘When his robe is finished and the robe-making season has ended, if out-of-season robe-cloth is given to a monk, he may receive it if he wishes."
 
 msgctxt "pli-tv-bu-vb-np3:9.3"
 msgid "Paṭiggahetvā khippameva kāretabbaṃ."
@@ -259,12 +259,12 @@ msgstr "Out-of-season robe-cloth:"
 #. <span class="note" hidden>That is, in-season robe-cloth is cloth obtained during the last month of the rainy season, while out-of-season robe-cloth is cloth obtained during the remaining eleven months of the year. See <span class="ref">Kkh. 101.28</span>.</span> 
 msgctxt "pli-tv-bu-vb-np3:12.2"
 msgid "anatthate kathine ekādasamāse uppannaṃ,"
-msgstr "if the robe-making ceremony has not been performed, robe-cloth that becomes available during the eleven months."
+msgstr "if the robe-making ceremony has not been done, robe-cloth that is given during the eleven months."
 
 #. <span class="note" hidden>That is, in-season robe-cloth is cloth obtained during the last month of the rainy season or during the cold season, while out-of-season robe-cloth is cloth obtained during the remaining seven months of the year. See <span class="ref">Kkh.101.28</span>.</span> 
 msgctxt "pli-tv-bu-vb-np3:12.3"
 msgid "atthate kathine sattamāse uppannaṃ,"
-msgstr "If the robe-making ceremony has been performed, robe-cloth that becomes available during the seven months."
+msgstr "If the robe-making ceremony has been done, robe-cloth that is given during the seven months."
 
 #. <span class="note" hidden>See <span class="ref">Kkh.102.1</span>.</span> 
 msgctxt "pli-tv-bu-vb-np3:12.4"
@@ -275,12 +275,12 @@ msgstr "Also, if it is given in the robe season, but it is designated as out-of-
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-np3:13.1"
 msgid "Uppajjeyyāti"
-msgstr "Becomes available:"
+msgstr "Is given:"
 
 #. </strong><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np3:13.2"
 msgid "uppajjeyya saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
-msgstr "becomes available from the Order, from a group, from a relative, or from a friend, or if rags become available, or it becomes available by means his own property."
+msgstr "Is given by the Order, by a group, by a relative, or by a friend, or there are rags, or it is by means of his own property."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="1929"></a>
 #. <strong class="term"> 
@@ -487,7 +487,7 @@ msgstr "If he does not determine it, transfer it, or give it away, it becomes su
 #. </span></p><hr><p>
 msgctxt "pli-tv-bu-vb-np3:20.33"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
-msgstr "The robe-cloth should be relinquished to the Order, a group, or an individual."
+msgstr "The robe-cloth should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np3:20.34"
@@ -546,32 +546,32 @@ msgstr "If it is more than a month, but he perceives it as less than a month, he
 #. </p><p>
 msgctxt "pli-tv-bu-vb-np3:22.5"
 msgid "Anadhiṭṭhite adhiṭṭhitasaññī … pe …"
-msgstr "If it is undetermined, but he perceives it as determined, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been determined, but he perceives it as determined, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np3:22.6"
 msgid "avikappite vikappitasaññī …"
-msgstr "If it is not transferred, but he perceives it as transferred, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been transferred, but he perceives it as transferred, he commits an offense entailing relinquishment and confession."
 
 #. <a class="pts-vp-en" id="bd.2.29"></a> 
 msgctxt "pli-tv-bu-vb-np3:22.7"
 msgid "avissajjite vissajjitasaññī …"
-msgstr "If it is not given away, but he perceives it as given away, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been given away, but he perceives it as given away, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np3:22.8"
 msgid "anaṭṭhe naṭṭhasaññī …"
-msgstr "If it is not lost, but he perceives it as lost, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been lost, but he perceives it as lost, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np3:22.9"
 msgid "avinaṭṭhe vinaṭṭhasaññī …"
-msgstr "If it is not destroyed, but he perceives it as destroyed, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been destroyed, but he perceives it as destroyed, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np3:22.10"
 msgid "adaḍḍhe daḍḍhasaññī …"
-msgstr "If it is not burnt, but he perceives it as burnt, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been burnt, but he perceives it as burnt, he commits an offense entailing relinquishment and confession."
 
 msgctxt "pli-tv-bu-vb-np3:22.11"
 msgid "avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ."
-msgstr "If it is not stolen, but he perceives it as stolen, he commits an offense entailing relinquishment and confession."
+msgstr "If it has not been stolen, but he perceives it as stolen, he commits an offense entailing relinquishment and confession."
 
 #. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="1938"></a><strong class="rule"> 
 msgctxt "pli-tv-bu-vb-np3:23.1"
