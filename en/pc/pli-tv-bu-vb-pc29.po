@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc29:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.29.1"></a> <a class="pts-vp-en" id="BD.2.295"></a><a class="wt-pa" id="629"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.29.1"></a> <a class="pts-vp-en" id="BD.2.295"></a><a class="wt-pa" id="629"></a> 
 msgctxt "pli-tv-bu-vb-pc29:6.3"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
@@ -182,7 +182,7 @@ msgctxt "pli-tv-bu-vb-pc29:11.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="6"></a><a class="pts-cs" id="Bu-Pc.29.2"></a><a class="wt-pa" id="634"></a> 
+#. </h3><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-pc.29.2"></a><a class="wt-pa" id="634"></a> 
 msgctxt "pli-tv-bu-vb-pc29:11.2"
 msgid "Tena kho pana samayena aññataro bhikkhu rājagahā pabbajito ñātikulaṃ agamāsi."
 msgstr "Soon afterwards a monk who had earlier left Rājagaha returned to see his family."
@@ -259,7 +259,7 @@ msgctxt "pli-tv-bu-vb-pc29:14.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pc.29.3"></a><a class="pts-cs" id="Bu-Pc.29.3.1"></a><a class="wt-pa" id="637"></a>
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.29.3"></a><a class="pts-cs" id="bu-pc.29.3.1"></a><a class="wt-pa" id="637"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:14.2"
 msgid "Yo panāti"
@@ -376,7 +376,7 @@ msgctxt "pli-tv-bu-vb-pc29:22.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli4.68"></a><a class="pts-cs" id="Bu-Pc.29.3.2"></a><a class="wt-pa" id="645"></a> 
+#. </h2><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli4.68"></a><a class="pts-cs" id="bu-pc.29.3.2"></a><a class="wt-pa" id="645"></a> 
 msgctxt "pli-tv-bu-vb-pc29:22.2"
 msgid "Paripācite paripācitasaññī bhuñjati, aññatra pubbe gihisamārambhā, āpatti pācittiyassa."
 msgstr "If a nun got it prepared, and he perceives that she did, and he eats it, unless the lay person had already intended to prepare it, he commits an offense entailing confession."
@@ -412,7 +412,7 @@ msgctxt "pli-tv-bu-vb-pc29:23.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="18"></a><a class="pts-cs" id="Bu-Pc.29.3.3"></a><a class="wt-pa" id="646"></a> 
+#. </h2><p><a class="sc" id="18"></a><a class="pts-cs" id="bu-pc.29.3.3"></a><a class="wt-pa" id="646"></a> 
 msgctxt "pli-tv-bu-vb-pc29:23.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

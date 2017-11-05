@@ -42,7 +42,7 @@ msgctxt "pli-tv-bu-vb-pc2:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.5"></a><a class="pts-cs" id="Bu-Pc.2.1"></a><a class="pts-cs" id="Bu-Pc.2.1.1"></a><a class="pts-vp-en" id="BD.2.171"></a><a class="wt-pa" id="wt-pa29"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.5"></a><a class="pts-cs" id="bu-pc.2.1"></a><a class="pts-cs" id="bu-pc.2.1.1"></a><a class="pts-vp-en" id="BD.2.171"></a><a class="wt-pa" id="wt-pa29"></a> 
 msgctxt "pli-tv-bu-vb-pc2:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -114,7 +114,7 @@ msgctxt "pli-tv-bu-vb-pc2:8.1"
 msgid ""
 msgstr "Jataka"
 
-#. </h5><p><a class="sc" id="3"></a><div class="jataka"><p><a class="pts-cs" id="Bu-Pc.2.1.2"></a><a class="wt-pa" id="wt-pa31"></a> 
+#. </h5><p><a class="sc" id="3"></a><div class="jataka"><p><a class="pts-cs" id="bu-pc.2.1.2"></a><a class="wt-pa" id="wt-pa31"></a> 
 #. VAR: takkasilāyaṃ → takkasīlāyaṃ (mr)
 msgctxt "pli-tv-bu-vb-pc2:8.2"
 msgid "“Bhūtapubbaṃ, bhikkhave, takkasilāyaṃ aññatarassa brāhmaṇassa nandivisālo nāma balībaddo ahosi."
@@ -278,7 +278,7 @@ msgctxt "pli-tv-bu-vb-pc2:12.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.2.2"></a><a class="pts-cs" id="Bu-Pc.2.2.1"></a><a class="wt-pa" id="wt-pa35"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.2.2"></a><a class="pts-cs" id="bu-pc.2.2.1"></a><a class="wt-pa" id="wt-pa35"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:12.2"
 msgid "Omasavādo nāma"
@@ -643,7 +643,7 @@ msgctxt "pli-tv-bu-vb-pc2:23.2"
 msgid ""
 msgstr "Abuse about caste"
 
-#. </h5><p><a class="sc" id="18"></a><a class="pts-cs" id="Bu-Pc.2.2.2"></a><a class="wt-pa" id="wt-pa46"></a> 
+#. </h5><p><a class="sc" id="18"></a><a class="pts-cs" id="bu-pc.2.2.2"></a><a class="wt-pa" id="wt-pa46"></a> 
 msgctxt "pli-tv-bu-vb-pc2:23.3"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, caṇḍālaṃ venaṃ nesādaṃ rathakāraṃ pukkusaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—an outcast/a bamboo worker/a hunter/a chariot-maker/a waste-remover—"
@@ -1057,7 +1057,7 @@ msgctxt "pli-tv-bu-vb-pc2:63.1"
 msgid ""
 msgstr "Indirect abuse"
 
-#. </h5><p><a class="sc" id="58"></a><a class="pts-cs" id="Bu-Pc.2.2.3"></a><a class="wt-pa" id="wt-pa86"></a> 
+#. </h5><p><a class="sc" id="58"></a><a class="pts-cs" id="bu-pc.2.2.3"></a><a class="wt-pa" id="wt-pa86"></a> 
 msgctxt "pli-tv-bu-vb-pc2:63.2"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo evaṃ vadeti, “santi idhekacce caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa."
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says this, “There are outcasts/bamboo workers/hunters/chariot-makers/waste-removers, right here,” then for every statement, he commits an offense of wrong conduct."
@@ -1145,7 +1145,7 @@ msgctxt "pli-tv-bu-vb-pc2:66.1"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo evaṃ vadeti, “santi idhekacce paṇḍitā byattā, medhāvī bahussutā dhammakathikā, natthi tesaṃ duggati, sugatiyeva tesaṃ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa."
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says this, “There are wise ones/competent ones/intelligent ones/learned ones/expounders of the Teaching/those who are not going to a bad destination/those who can only expect a good destination, right here,” then for every statement, he commits an offense of wrong conduct."
 
-#. </p><hr><p><a class="sc" id="62"></a><a class="pts-cs" id="Bu-Pc.2.2.4"></a><a class="pts-vp-en" id="BD.2.183"></a><a class="wt-pa" id="wt-pa90"></a> 
+#. </p><hr><p><a class="sc" id="62"></a><a class="pts-cs" id="bu-pc.2.2.4"></a><a class="pts-vp-en" id="BD.2.183"></a><a class="wt-pa" id="wt-pa90"></a> 
 msgctxt "pli-tv-bu-vb-pc2:67.1"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo evaṃ vadeti, “ye nūna caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa … pe …."
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says this, “Perhaps these are outcasts/bamboo workers/hunters/chariot-makers/waste-removers,” then for every statement, he commits an offense of wrong conduct. …"
@@ -1155,7 +1155,7 @@ msgctxt "pli-tv-bu-vb-pc2:68.1"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo evaṃ vadeti, “ye nūna paṇḍitā byattā medhāvī bahussutā dhammakathikā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa."
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says this, “Perhaps these are wise ones/competent ones/intelligent ones/learned ones/expounders of the Teaching,” then for every statement, he commits an offense of wrong conduct."
 
-#. </p><hr><p><a class="sc" id="64"></a><a class="pts-cs" id="Bu-Pc.2.2.5"></a><a class="wt-pa" id="wt-pa92"></a> 
+#. </p><hr><p><a class="sc" id="64"></a><a class="pts-cs" id="bu-pc.2.2.5"></a><a class="wt-pa" id="wt-pa92"></a> 
 msgctxt "pli-tv-bu-vb-pc2:69.1"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo evaṃ vadeti, “na mayaṃ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati … pe …."
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says this, “We’re not outcasts/bamboo workers/hunters/chariot-makers/waste-removers” …"
@@ -1174,7 +1174,7 @@ msgctxt "pli-tv-bu-vb-pc2:70.1"
 msgid ""
 msgstr "Abuse of one who is not fully ordained"
 
-#. </h5><p><a class="sc" id="65"></a><a class="pts-cs" id="Bu-Pc.2.2.6"></a><a class="wt-pa" id="wt-pa93"></a> 
+#. </h5><p><a class="sc" id="65"></a><a class="pts-cs" id="bu-pc.2.2.6"></a><a class="wt-pa" id="wt-pa93"></a> 
 msgctxt "pli-tv-bu-vb-pc2:70.2"
 msgid "Upasampanno anupasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti … pe …"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate someone who is not fully ordained, says what is low to one who is low …"
@@ -1231,7 +1231,7 @@ msgctxt "pli-tv-bu-vb-pc2:74.1"
 msgid ""
 msgstr "Not intending to abuse, direct speech"
 
-#. </h5><p><a class="sc" id="69"></a><a class="pts-cs" id="Bu-Pc.2.2.7"></a><a class="wt-pa" id="wt-pa97"></a><a class="pts-vp-en" id="BD.2.184"></a> 
+#. </h5><p><a class="sc" id="69"></a><a class="pts-cs" id="bu-pc.2.2.7"></a><a class="wt-pa" id="wt-pa97"></a><a class="pts-vp-en" id="BD.2.184"></a> 
 msgctxt "pli-tv-bu-vb-pc2:74.2"
 msgid "Upasampanno upasampannaṃ na khuṃsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā hīnena hīnaṃ vadeti, caṇḍālaṃ venaṃ nesādaṃ rathakāraṃ pukkusaṃ—"
 msgstr "If one who is fully ordained, not wishing to revile, not wishing to insult, not wishing to humiliate another who is fully ordained, but wanting to have fun, says what is low to one who is low—an outcast/a bamboo worker/a hunter/a chariot-maker/a waste-remover—"
@@ -1329,7 +1329,7 @@ msgctxt "pli-tv-bu-vb-pc2:82.1"
 msgid ""
 msgstr "Not intending to abuse one who is not fully ordained"
 
-#. </h5><p><a class="sc" id="77"></a><a class="pts-cs" id="Bu-Pc.2.2.8"></a><a class="wt-pa" id="wt-pa105"></a> 
+#. </h5><p><a class="sc" id="77"></a><a class="pts-cs" id="bu-pc.2.2.8"></a><a class="wt-pa" id="wt-pa105"></a> 
 msgctxt "pli-tv-bu-vb-pc2:82.2"
 msgid "Upasampanno anupasampannaṃ na khuṃsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā hīnena hīnaṃ vadeti … pe …"
 msgstr "If one who is fully ordained, not wishing to revile, not wishing to insult, not wishing to humiliate someone who is not fully ordained, but wanting to have fun, says what is low to one who is low …"
@@ -1382,7 +1382,7 @@ msgctxt "pli-tv-bu-vb-pc2:86.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="81"></a><a class="pts-cs" id="Bu-Pc.2.2.9"></a><a class="wt-pa" id="wt-pa109"></a> 
+#. </h2><p><a class="sc" id="81"></a><a class="pts-cs" id="bu-pc.2.2.9"></a><a class="wt-pa" id="wt-pa109"></a> 
 msgctxt "pli-tv-bu-vb-pc2:86.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

@@ -42,7 +42,7 @@ msgctxt "pli-tv-bu-vb-pc38:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.38.1"></a><a class="pts-vp-en" id="BD.2.338"></a><a class="wt-pa" id="wt-pa812"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.38.1"></a><a class="pts-vp-en" id="BD.2.338"></a><a class="wt-pa" id="wt-pa812"></a> 
 msgctxt "pli-tv-bu-vb-pc38:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -143,7 +143,7 @@ msgctxt "pli-tv-bu-vb-pc38:9.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="Bu-Pc.38.2"></a><a class="pts-cs" id="Bu-Pc.38.2.1"></a><a class="wt-pa" id="wt-pa815"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.38.2"></a><a class="pts-cs" id="bu-pc.38.2.1"></a><a class="wt-pa" id="wt-pa815"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc38:9.2"
 msgid "Yo panāti"
@@ -224,7 +224,7 @@ msgctxt "pli-tv-bu-vb-pc38:14.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pc.38.2.2"></a><a class="wt-pa" id="wt-pa820"></a> 
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.38.2.2"></a><a class="wt-pa" id="wt-pa820"></a> 
 msgctxt "pli-tv-bu-vb-pc38:14.2"
 msgid "Sannidhikārake sannidhikārakasaññī khādanīyaṃ vā bhojanīyaṃ vā khādati vā bhuñjati vā, āpatti pācittiyassa."
 msgstr "If it has been stored, and he perceives that it has been stored, and he eats the staple or non-staple food, he commits an offense entailing confession."
@@ -264,7 +264,7 @@ msgctxt "pli-tv-bu-vb-pc38:16.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="11"></a><a class="pts-cs" id="Bu-Pc.38.2.3"></a><a class="wt-pa" id="wt-pa822"></a> 
+#. </h2><p><a class="sc" id="11"></a><a class="pts-cs" id="bu-pc.38.2.3"></a><a class="wt-pa" id="wt-pa822"></a> 
 msgctxt "pli-tv-bu-vb-pc38:16.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

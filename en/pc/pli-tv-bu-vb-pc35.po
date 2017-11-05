@@ -48,7 +48,7 @@ msgctxt "pli-tv-bu-vb-pc35:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.35.1"></a><a class="pts-vp-en" id="BD.2.326"></a><a class="wt-pa" id="wt-pa765"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.35.1"></a><a class="pts-vp-en" id="BD.2.326"></a><a class="wt-pa" id="wt-pa765"></a> 
 msgctxt "pli-tv-bu-vb-pc35:6.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -163,7 +163,7 @@ msgctxt "pli-tv-bu-vb-pc35:11.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="6"></a><a class="pts-cs" id="Bu-Pc.35.2"></a><a class="wt-pa" id="wt-pa770"></a> 
+#. </h3><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-pc.35.2"></a><a class="wt-pa" id="wt-pa770"></a> 
 msgctxt "pli-tv-bu-vb-pc35:11.2"
 msgid "Tena kho pana samayena bhikkhū gilānānaṃ bhikkhūnaṃ paṇīte piṇḍapāte nīharanti."
 msgstr "Soon afterwards the monks were bringing back fine almsfood for the sick monks."
@@ -248,7 +248,7 @@ msgctxt "pli-tv-bu-vb-pc35:13.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="Bu-Pc.35.3"></a><a class="pts-cs" id="Bu-Pc.35.3.1"></a><a class="wt-pa" id="wt-pa772"></a>
+#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-pc.35.3"></a><a class="pts-cs" id="bu-pc.35.3.1"></a><a class="wt-pa" id="wt-pa772"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:13.2"
 msgid "Yo panāti"
@@ -426,7 +426,7 @@ msgctxt "pli-tv-bu-vb-pc35:21.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="Bu-Pc.35.3.2"></a><a class="pts-vp-en" id="BD.2.331"></a><a class="wt-pa" id="wt-pa780"></a> 
+#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="bu-pc.35.3.2"></a><a class="pts-vp-en" id="BD.2.331"></a><a class="wt-pa" id="wt-pa780"></a> 
 msgctxt "pli-tv-bu-vb-pc35:21.2"
 msgid "Anatiritte anatirittasaññī khādanīyaṃ vā bhojanīyaṃ vā khādati vā bhuñjati vā, āpatti pācittiyassa."
 msgstr "If it is not leftover, and he does not perceive it as leftover, and he eats staple or non-staple food, he commits an offense entailing confession."
@@ -466,7 +466,7 @@ msgctxt "pli-tv-bu-vb-pc35:23.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="18"></a><a class="pts-cs" id="Bu-Pc.35.3.3"></a><a class="wt-pa" id="wt-pa782"></a> 
+#. </h2><p><a class="sc" id="18"></a><a class="pts-cs" id="bu-pc.35.3.3"></a><a class="wt-pa" id="wt-pa782"></a> 
 msgctxt "pli-tv-bu-vb-pc35:23.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

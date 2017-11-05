@@ -42,7 +42,7 @@ msgctxt "pli-tv-bu-vb-pc37:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.37.1"></a><a class="pts-vp-en" id="BD.2.335"></a><a class="wt-pa" id="wt-pa800"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.37.1"></a><a class="pts-vp-en" id="BD.2.335"></a><a class="wt-pa" id="wt-pa800"></a> 
 msgctxt "pli-tv-bu-vb-pc37:6.2"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
@@ -159,7 +159,7 @@ msgctxt "pli-tv-bu-vb-pc37:9.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli4.86"></a><a class="pts-cs" id="Bu-Pc.37.2"></a><a class="pts-cs" id="Bu-Pc.37.2.1"></a><a class="wt-pa" id="wt-pa803"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli4.86"></a><a class="pts-cs" id="bu-pc.37.2"></a><a class="pts-cs" id="bu-pc.37.2.1"></a><a class="wt-pa" id="wt-pa803"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc37:9.2"
 msgid "Yo panāti"
@@ -240,7 +240,7 @@ msgctxt "pli-tv-bu-vb-pc37:14.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pc.37.2.2"></a><a class="wt-pa" id="wt-pa808"></a> 
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.37.2.2"></a><a class="wt-pa" id="wt-pa808"></a> 
 msgctxt "pli-tv-bu-vb-pc37:14.2"
 msgid "Vikāle vikālasaññī khādanīyaṃ vā bhojanīyaṃ vā khādati vā bhuñjati vā, āpatti pācittiyassa."
 msgstr "If it is the wrong time, and he perceives it as the wrong time, and he eats staple or non-staple food, he commits an offense entailing confession."
@@ -280,7 +280,7 @@ msgctxt "pli-tv-bu-vb-pc37:16.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="11"></a><a class="pts-cs" id="Bu-Pc.37.2.3"></a><a class="wt-pa" id="wt-pa810"></a> 
+#. </h2><p><a class="sc" id="11"></a><a class="pts-cs" id="bu-pc.37.2.3"></a><a class="wt-pa" id="wt-pa810"></a> 
 msgctxt "pli-tv-bu-vb-pc37:16.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

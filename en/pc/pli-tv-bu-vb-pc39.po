@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc39:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.39.1"></a><a class="pts-vp-en" id="BD.2.341"></a><a class="wt-pa" id="wt-pa824"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.39.1"></a><a class="pts-vp-en" id="BD.2.341"></a><a class="wt-pa" id="wt-pa824"></a> 
 msgctxt "pli-tv-bu-vb-pc39:6.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -139,7 +139,7 @@ msgctxt "pli-tv-bu-vb-pc39:10.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="Bu-Pc.39.2"></a><a class="wt-pa" id="wt-pa828"></a> 
+#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.39.2"></a><a class="wt-pa" id="wt-pa828"></a> 
 msgctxt "pli-tv-bu-vb-pc39:10.2"
 msgid "Tena kho pana samayena bhikkhū gilānā honti."
 msgstr "At one time a number of monks were sick."
@@ -210,7 +210,7 @@ msgctxt "pli-tv-bu-vb-pc39:12.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.39.3"></a><a class="pts-cs" id="Bu-Pc.39.3.1"></a><a class="wt-pa" id="wt-pa830"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.39.3"></a><a class="pts-cs" id="bu-pc.39.3.1"></a><a class="wt-pa" id="wt-pa830"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc39:12.2"
 msgid "Yāni kho pana tāni paṇītabhojanānī</strong>ti <strong>sappi nāma"
@@ -406,7 +406,7 @@ msgctxt "pli-tv-bu-vb-pc39:26.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="21"></a><a class="pts-cs" id="Bu-Pc.39.3.2"></a><a class="wt-pa" id="wt-pa844"></a> 
+#. </h2><p><a class="sc" id="21"></a><a class="pts-cs" id="bu-pc.39.3.2"></a><a class="wt-pa" id="wt-pa844"></a> 
 msgctxt "pli-tv-bu-vb-pc39:26.2"
 msgid "Agilāno agilānasaññī paṇītabhojanāni attano atthāya viññāpetvā bhuñjati, āpatti pācittiyassa."
 msgstr "If he is not sick, and he does not perceive himself as sick, and he eats fine foods after asking for them for himself, he commits an offense entailing confession."
@@ -437,7 +437,7 @@ msgctxt "pli-tv-bu-vb-pc39:28.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="23"></a><a class="pts-cs" id="Bu-Pc.39.3.3"></a><a class="wt-pa" id="wt-pa846"></a> 
+#. </h2><p><a class="sc" id="23"></a><a class="pts-cs" id="bu-pc.39.3.3"></a><a class="wt-pa" id="wt-pa846"></a> 
 msgctxt "pli-tv-bu-vb-pc39:28.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

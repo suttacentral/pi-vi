@@ -43,7 +43,7 @@ msgctxt "pli-tv-bu-vb-pc10:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.10.1"></a><a class="pts-vp-en" id="BD.2.223"></a><a class="wt-pa" id="wt-pa321"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.10.1"></a><a class="pts-vp-en" id="BD.2.223"></a><a class="wt-pa" id="wt-pa321"></a> 
 msgctxt "pli-tv-bu-vb-pc10:6.2"
 msgid "Tena samayena buddho bhagavā āḷaviyaṃ viharati aggāḷave cetiye."
 msgstr "At one time the Buddha was staying at Āḷavī at the Aggāḷava Shrine."
@@ -134,7 +134,7 @@ msgctxt "pli-tv-bu-vb-pc10:9.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="Bu-Pc.10.2"></a><a class="pts-cs" id="Bu-Pc.10.2.1"></a><a class="wt-pa" id="wt-pa324"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.10.2"></a><a class="pts-cs" id="bu-pc.10.2.1"></a><a class="wt-pa" id="wt-pa324"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc10:9.2"
 msgid "Yo panāti"
@@ -239,7 +239,7 @@ msgctxt "pli-tv-bu-vb-pc10:15.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="10"></a><a class="pts-cs" id="Bu-Pc.10.2.2"></a><a class="wt-pa" id="wt-pa330"></a></p><p><a class="wt-pa" id="wt-pa331"></a> 
+#. </h2><p><a class="sc" id="10"></a><a class="pts-cs" id="bu-pc.10.2.2"></a><a class="wt-pa" id="wt-pa330"></a></p><p><a class="wt-pa" id="wt-pa331"></a> 
 msgctxt "pli-tv-bu-vb-pc10:15.2"
 msgid "Pathaviyā pathavisaññī khaṇati vā khaṇāpeti vā, bhindati vā bhedāpeti vā, dahati vā dahāpeti vā, āpatti pācittiyassa."
 msgstr "If it is earth, and he perceives it as earth, and he digs it or gets it dug, or he breaks it or gets it broken, or he burns it or gets it burnt, he commits an offense entailing confession."
@@ -272,7 +272,7 @@ msgctxt "pli-tv-bu-vb-pc10:19.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="Bu-Pc.10.2.3"></a><a class="wt-pa" id="wt-pa334"></a> 
+#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="bu-pc.10.2.3"></a><a class="wt-pa" id="wt-pa334"></a> 
 msgctxt "pli-tv-bu-vb-pc10:19.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

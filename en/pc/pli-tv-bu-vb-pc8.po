@@ -42,7 +42,7 @@ msgctxt "pli-tv-bu-vb-pc8:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.24"></a><a class="pts-cs" id="Bu-Pc.8.1"></a><a class="pts-cs" id="Bu-Pc.8.1.1"></a><a class="pts-vp-en" id="BD.2.208"></a><a class="wt-pa" id="wt-pa220"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.24"></a><a class="pts-cs" id="bu-pc.8.1"></a><a class="pts-cs" id="bu-pc.8.1.1"></a><a class="pts-vp-en" id="BD.2.208"></a><a class="wt-pa" id="wt-pa220"></a> 
 msgctxt "pli-tv-bu-vb-pc8:6.2"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ."
 msgstr "At one time the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
@@ -166,7 +166,7 @@ msgctxt "pli-tv-bu-vb-pc8:7.7"
 msgid "Atha kho te bhikkhū vaṇṇavā ahesuṃ pīṇindriyā pasannamukhavaṇṇā vippasannachavivaṇṇā."
 msgstr "In this way those monks became handsome, with rounded features, bright faces, and clear skin."
 
-#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli4.25"></a><a class="pts-cs" id="Bu-Pc.8.1.2"></a><a class="wt-pa" id="wt-pa222"></a> 
+#. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli4.25"></a><a class="pts-cs" id="bu-pc.8.1.2"></a><a class="wt-pa" id="wt-pa222"></a> 
 msgctxt "pli-tv-bu-vb-pc8:8.1"
 msgid "Āciṇṇaṃ kho panetaṃ vassaṃvuṭṭhānaṃ bhikkhūnaṃ bhagavantaṃ dassanāya upasaṅkamituṃ."
 msgstr "Now it was the custom for monks who had finished keeping the rains to go and see the Master."
@@ -302,7 +302,7 @@ msgctxt "pli-tv-bu-vb-pc8:11.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="Bu-Pc.8.2"></a><a class="pts-cs" id="Bu-Pc.8.2.1"></a><a class="wt-pa" id="wt-pa225"></a>
+#. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-pc.8.2"></a><a class="pts-cs" id="bu-pc.8.2.1"></a><a class="wt-pa" id="wt-pa225"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:11.2"
 msgid "Yo panāti"
@@ -480,7 +480,7 @@ msgctxt "pli-tv-bu-vb-pc8:24.2"
 msgid ""
 msgstr "First absorption"
 
-#. </h5><p><a class="sc" id="19"></a><a class="pts-cs" id="Bu-Pc.8.2.2"></a><a class="wt-pa" id="wt-pa238"></a>
+#. </h5><p><a class="sc" id="19"></a><a class="pts-cs" id="bu-pc.8.2.2"></a><a class="wt-pa" id="wt-pa238"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:24.3"
 msgid "Āroceyyāti"
@@ -907,7 +907,7 @@ msgctxt "pli-tv-bu-vb-pc8:42.1"
 msgid ""
 msgstr "Combinations of two attainments"
 
-#. </h5><p><a class="sc" id="37"></a><a class="pts-cs" id="Bu-Pc.8.2.3"></a><a class="wt-pa" id="wt-pa256"></a>
+#. </h5><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-pc.8.2.3"></a><a class="wt-pa" id="wt-pa256"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:42.2"
 msgid "Āroceyyāti"
@@ -1377,7 +1377,7 @@ msgctxt "pli-tv-bu-vb-pc8:61.1"
 msgid ""
 msgstr "Meaning to say one thing, but saying something else"
 
-#. </h5><p><a class="sc" id="56"></a><a class="pts-cs" id="Bu-Pc.8.2.4"></a><a class="wt-pa" id="wt-pa275"></a>
+#. </h5><p><a class="sc" id="56"></a><a class="pts-cs" id="bu-pc.8.2.4"></a><a class="wt-pa" id="wt-pa275"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:61.2"
 msgid "Āroceyyāti"
@@ -1522,7 +1522,7 @@ msgctxt "pli-tv-bu-vb-pc8:70.1"
 msgid ""
 msgstr "Gross hinting"
 
-#. </h5><p><a class="sc" id="65"></a><a class="pts-cs" id="Bu-Pc.8.2.5"></a><a class="wt-pa" id="wt-pa284"></a>
+#. </h5><p><a class="sc" id="65"></a><a class="pts-cs" id="bu-pc.8.2.5"></a><a class="wt-pa" id="wt-pa284"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:70.2"
 msgid "Āroceyyāti"
@@ -1756,7 +1756,7 @@ msgctxt "pli-tv-bu-vb-pc8:79.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="74"></a><a class="pts-cs" id="Bu-Pc.8.2.6"></a><a class="wt-pa" id="wt-pa293"></a> 
+#. </h2><p><a class="sc" id="74"></a><a class="pts-cs" id="bu-pc.8.2.6"></a><a class="wt-pa" id="wt-pa293"></a> 
 msgctxt "pli-tv-bu-vb-pc8:79.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

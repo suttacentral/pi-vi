@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc33:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.76"></a><a class="pts-cs" id="Bu-Pc.33.1"></a><a class="pts-vp-en" id="BD.2.315"></a><a class="wt-pa" id="wt-pa716"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.76"></a><a class="pts-cs" id="bu-pc.33.1"></a><a class="pts-vp-en" id="BD.2.315"></a><a class="wt-pa" id="wt-pa716"></a> 
 msgctxt "pli-tv-bu-vb-pc33:6.3"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ."
 msgstr "At one time the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
@@ -288,7 +288,7 @@ msgctxt "pli-tv-bu-vb-pc33:13.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="8"></a><a class="pts-cs" id="Bu-Pc.33.2"></a><a class="pts-vp-en" id="BD.2.318"></a><a class="wt-pa" id="wt-pa723"></a> 
+#. </h3><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-pc.33.2"></a><a class="pts-vp-en" id="BD.2.318"></a><a class="wt-pa" id="wt-pa723"></a> 
 msgctxt "pli-tv-bu-vb-pc33:13.2"
 msgid "Tena kho pana samayena aññataro bhikkhu gilāno hoti."
 msgstr "Soon afterwards a cetain monk became sick."
@@ -362,7 +362,7 @@ msgctxt "pli-tv-bu-vb-pc33:16.1"
 msgid ""
 msgstr "Third sub-story"
 
-#. </h3><p><a class="sc" id="11"></a><a class="pts-cs" id="Bu-Pc.33.3"></a><a class="wt-pa" id="wt-pa726"></a> 
+#. </h3><p><a class="sc" id="11"></a><a class="pts-cs" id="bu-pc.33.3"></a><a class="wt-pa" id="wt-pa726"></a> 
 #. VAR: paṭiyādetvā → paṭiyādāpetvā (si, pts1)
 msgctxt "pli-tv-bu-vb-pc33:16.2"
 msgid "Tena kho pana samayena manussā cīvaradānasamaye sacīvarabhattaṃ paṭiyādetvā bhikkhū nimantenti—"
@@ -478,7 +478,7 @@ msgctxt "pli-tv-bu-vb-pc33:22.1"
 msgid ""
 msgstr "Fifth sub-story"
 
-#. </h3><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli4.78"></a><a class="pts-cs" id="Bu-Pc.33.4"></a><a class="wt-pa" id="wt-pa732"></a> 
+#. </h3><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli4.78"></a><a class="pts-cs" id="bu-pc.33.4"></a><a class="wt-pa" id="wt-pa732"></a> 
 msgctxt "pli-tv-bu-vb-pc33:22.2"
 msgid "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya āyasmatā ānandena pacchāsamaṇena yena aññataraṃ kulaṃ tenupasaṅkami;"
 msgstr "Soon afterwards the Master robed up in the morning, took his bowl and  robe, and went to a certain family with Venerable Ānanda as his attendant."
@@ -536,7 +536,7 @@ msgctxt "pli-tv-bu-vb-pc33:23.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="18"></a><a class="pts-cs" id="Bu-Pc.33.5"></a><a class="pts-cs" id="Bu-Pc.33.5.1"></a><a class="wt-pa" id="wt-pa733"></a>
+#. </h2><p><a class="sc" id="18"></a><a class="pts-cs" id="bu-pc.33.5"></a><a class="pts-cs" id="bu-pc.33.5.1"></a><a class="wt-pa" id="wt-pa733"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc33:23.2"
 msgid "Paramparabhojanaṃ nāma"
@@ -618,7 +618,7 @@ msgctxt "pli-tv-bu-vb-pc33:29.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="24"></a><a class="pts-cs" id="Bu-Pc.33.5.2"></a><a class="wt-pa" id="wt-pa739"></a> 
+#. </h2><p><a class="sc" id="24"></a><a class="pts-cs" id="bu-pc.33.5.2"></a><a class="wt-pa" id="wt-pa739"></a> 
 msgctxt "pli-tv-bu-vb-pc33:29.2"
 msgid "Paramparabhojane paramparabhojanasaññī, aññatra samayā, bhuñjati, āpatti pācittiyassa."
 msgstr "If it is a meal before another, and he perceives it as a meal before another, and he eats it, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -649,7 +649,7 @@ msgctxt "pli-tv-bu-vb-pc33:31.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="26"></a><a class="pts-cs" id="Bu-Pc.33.5.3"></a><a class="wt-pa" id="wt-pa741"></a> 
+#. </h2><p><a class="sc" id="26"></a><a class="pts-cs" id="bu-pc.33.5.3"></a><a class="wt-pa" id="wt-pa741"></a> 
 msgctxt "pli-tv-bu-vb-pc33:31.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

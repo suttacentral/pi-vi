@@ -48,7 +48,7 @@ msgctxt "pli-tv-bu-vb-pc13:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.38"></a><a class="pts-cs" id="Bu-Pc.13.1"></a><a class="pts-vp-en" id="BD.2.235"></a><a class="wt-pa" id="wt-pa370"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.38"></a><a class="pts-cs" id="bu-pc.13.1"></a><a class="pts-vp-en" id="BD.2.235"></a><a class="wt-pa" id="wt-pa370"></a> 
 msgctxt "pli-tv-bu-vb-pc13:6.3"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
@@ -135,7 +135,7 @@ msgctxt "pli-tv-bu-vb-pc13:10.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="Bu-Pc.13.2"></a><a class="pts-vp-en" id="BD.2.236"></a><a class="wt-pa" id="wt-pa374"></a> 
+#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.13.2"></a><a class="pts-vp-en" id="BD.2.236"></a><a class="wt-pa" id="wt-pa374"></a> 
 msgctxt "pli-tv-bu-vb-pc13:10.2"
 msgid "Tena kho pana samayena mettiyabhūmajakā bhikkhū—“‘"
 msgstr "Knowing that the Master had prohibited complaining, the monks Mettiya and Bhūmajaka considered other ways of getting the monks to hear about their grievances."
@@ -210,8 +210,8 @@ msgctxt "pli-tv-bu-vb-pc13:12.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.13.3"></a>
-#. <a class="pts-cs" id="Bu-Pc.13.3.1"></a><a class="wt-pa" id="wt-pa376"></a><strong class="term"> 
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.13.3"></a>
+#. <a class="pts-cs" id="bu-pc.13.3.1"></a><a class="wt-pa" id="wt-pa376"></a><strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc13:12.2"
 msgid "Ujjhāpanakaṃ nāma"
 msgstr "Complaining:"
@@ -240,7 +240,7 @@ msgctxt "pli-tv-bu-vb-pc13:12.7"
 msgid "Dhammakamme adhammakammasaññī ujjhāpanake khiyyanake āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, but he perceives it as illegitimate, and he complains or denounces, he commits an offense entailing confession."
 
-#. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli4.39"></a><a class="pts-cs" id="Bu-Pc.13.3.2"></a><a class="wt-pa" id="wt-pa377"></a> 
+#. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli4.39"></a><a class="pts-cs" id="bu-pc.13.3.2"></a><a class="wt-pa" id="wt-pa377"></a> 
 msgctxt "pli-tv-bu-vb-pc13:13.1"
 msgid "Anupasampannaṃ ujjhāpeti vā khiyyati vā, āpatti dukkaṭassa."
 msgstr "If he complains or denounces to one who is not fully ordained, he commits an offense of wrong conduct."
@@ -273,7 +273,7 @@ msgctxt "pli-tv-bu-vb-pc13:14.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pc.13.3.3"></a><a class="wt-pa" id="wt-pa378"></a> 
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.13.3.3"></a><a class="wt-pa" id="wt-pa378"></a> 
 msgctxt "pli-tv-bu-vb-pc13:14.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

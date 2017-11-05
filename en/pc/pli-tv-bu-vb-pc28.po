@@ -48,7 +48,7 @@ msgctxt "pli-tv-bu-vb-pc28:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.28.1"></a> <a class="pts-vp-en" id="BD.2.292"></a><a class="wt-pa" id="609"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.28.1"></a> <a class="pts-vp-en" id="BD.2.292"></a><a class="wt-pa" id="609"></a> 
 msgctxt "pli-tv-bu-vb-pc28:6.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -133,7 +133,7 @@ msgctxt "pli-tv-bu-vb-pc28:10.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli4.65"></a><a class="pts-cs" id="Bu-Pc.28.2"></a><a class="wt-pa" id="613"></a> 
+#. </h3><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli4.65"></a><a class="pts-cs" id="bu-pc.28.2"></a><a class="wt-pa" id="613"></a> 
 msgctxt "pli-tv-bu-vb-pc28:10.2"
 msgid "Tena kho pana samayena sambahulā bhikkhū ca bhikkhuniyo ca sāketā sāvatthiṃ addhānamaggappaṭipannā honti."
 msgstr "Soon afterwards a number of monks and nuns were traveling from Sāketa to Sāvatthī."
@@ -227,7 +227,7 @@ msgctxt "pli-tv-bu-vb-pc28:13.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="Bu-Pc.28.3"></a><a class="pts-cs" id="Bu-Pc.28.3.1"></a><a class="wt-pa" id="616"></a>
+#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-pc.28.3"></a><a class="pts-cs" id="bu-pc.28.3.1"></a><a class="wt-pa" id="616"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc28:13.2"
 msgid "Yo panāti"
@@ -354,7 +354,7 @@ msgctxt "pli-tv-bu-vb-pc28:22.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli4.66"></a><a class="pts-cs" id="Bu-Pc.28.3.2"></a><a class="wt-pa" id="625"></a> 
+#. </h2><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli4.66"></a><a class="pts-cs" id="bu-pc.28.3.2"></a><a class="wt-pa" id="625"></a> 
 msgctxt "pli-tv-bu-vb-pc28:22.2"
 msgid "Saṃvidahite saṃvidahitasaññī ekaṃ nāvaṃ abhiruhati uddhaṅgāminiṃ vā adhogāminiṃ vā, aññatra tiriyaṃ taraṇāya, āpatti pācittiyassa."
 msgstr "If there is an appointment, and he perceives that there is, and he boards a boat with a nun, either to go upstream or downstream, unless it is for the purpose of crossing, he commits an offense entailing confession."
@@ -389,7 +389,7 @@ msgctxt "pli-tv-bu-vb-pc28:24.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="19"></a><a class="pts-cs" id="Bu-Pc.28.3.3"></a><a class="wt-pa" id="627"></a> 
+#. </h2><p><a class="sc" id="19"></a><a class="pts-cs" id="bu-pc.28.3.3"></a><a class="wt-pa" id="627"></a> 
 msgctxt "pli-tv-bu-vb-pc28:24.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

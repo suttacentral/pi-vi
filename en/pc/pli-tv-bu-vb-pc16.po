@@ -42,7 +42,7 @@ msgctxt "pli-tv-bu-vb-pc16:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.16.1"></a><a class="pts-vp-en" id="BD.2.247"></a><a class="wt-pa" id="wt-pa415"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.16.1"></a><a class="pts-vp-en" id="BD.2.247"></a><a class="wt-pa" id="wt-pa415"></a> 
 msgctxt "pli-tv-bu-vb-pc16:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -140,8 +140,8 @@ msgctxt "pli-tv-bu-vb-pc16:9.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="Bu-Pc.16.2"></a>
-#. <a class="pts-cs" id="Bu-Pc.16.2.1"></a><a class="wt-pa" id="wt-pa418"></a><strong class="term"> 
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.16.2"></a>
+#. <a class="pts-cs" id="bu-pc.16.2.1"></a><a class="wt-pa" id="wt-pa418"></a><strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:9.2"
 msgid "Yo panāti"
 msgstr "A:"
@@ -234,7 +234,7 @@ msgctxt "pli-tv-bu-vb-pc16:15.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="10"></a><a class="pts-cs" id="Bu-Pc.16.2.2"></a><a class="wt-pa" id="wt-pa424"></a> 
+#. </h2><p><a class="sc" id="10"></a><a class="pts-cs" id="bu-pc.16.2.2"></a><a class="wt-pa" id="wt-pa424"></a> 
 msgctxt "pli-tv-bu-vb-pc16:15.2"
 msgid "Saṃghike saṃghikasaññī anupakhajja seyyaṃ kappeti, āpatti pācittiyassa."
 msgstr "If it belongs to the Order, and he perceives it as belonging to the Order, and he arranges his sleeping place there in a way that encroaches, he commits an offense entailing confession."
@@ -286,7 +286,7 @@ msgctxt "pli-tv-bu-vb-pc16:17.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="12"></a><a class="pts-cs" id="Bu-Pc.16.2.3"></a><a class="wt-pa" id="wt-pa426"></a> 
+#. </h2><p><a class="sc" id="12"></a><a class="pts-cs" id="bu-pc.16.2.3"></a><a class="wt-pa" id="wt-pa426"></a> 
 msgctxt "pli-tv-bu-vb-pc16:17.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

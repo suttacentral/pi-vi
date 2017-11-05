@@ -52,7 +52,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs1.0a"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="3"></a><a class="pts-cs" id="Bu-Pc.1.1"></a><a class="wt-pa" id="wt-pa3"></a> 
+#. </h2><p><a class="sc" id="3"></a><a class="pts-cs" id="bu-pc.1.1"></a><a class="wt-pa" id="wt-pa3"></a> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs1.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -158,7 +158,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.1.2"></a><a class="pts-cs" id="Bu-Pc.1.2.1"></a><a class="wt-pa" id="wt-pa7"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.1.2"></a><a class="pts-cs" id="bu-pc.1.2.1"></a><a class="wt-pa" id="wt-pa7"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.1"
 msgid "Sampajānamusāvādo nāma"
@@ -279,7 +279,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.2.0b"
 msgid ""
 msgstr "Falsely claiming to have experienced what he has not experienced: a single sense door"
 
-#. </h5><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pc.1.2.2"></a><a class="wt-pa" id="wt-pa9"></a> 
+#. </h5><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.1.2.2"></a><a class="wt-pa" id="wt-pa9"></a> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.2.1"
 msgid "Tīhākārehi “adiṭṭhaṃ diṭṭhaṃ me”ti sampajānamusā bhaṇantassa āpatti pācittiyassa—"
 msgstr "If he lies in full awareness, saying that he has seen what he has not seen, he commits an offense entailing confession when three conditions are fulfilled:"
@@ -367,7 +367,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.3.0a"
 msgid ""
 msgstr "Falsely claiming to have experienced what he has not experienced: multiple sense doors"
 
-#. </h5><p><a class="sc" id="16"></a><a class="pts-cs" id="Bu-Pc.1.2.3"></a><a class="wt-pa" id="wt-pa16"></a> 
+#. </h5><p><a class="sc" id="16"></a><a class="pts-cs" id="bu-pc.1.2.3"></a><a class="wt-pa" id="wt-pa16"></a> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.3.1"
 msgid "Tīhākārehi “adiṭṭhaṃ diṭṭhañca me sutañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
 msgstr "If he lies in full awareness, saying that he has seen and heard what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
@@ -473,7 +473,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.4.0a"
 msgid ""
 msgstr "Falsely claiming not to have experienced what he has experienced"
 
-#. </h5><p><a class="sc" id="20"></a><a class="pts-cs" id="Bu-Pc.1.2.4"></a><a class="wt-pa" id="wt-pa20"></a> 
+#. </h5><p><a class="sc" id="20"></a><a class="pts-cs" id="bu-pc.1.2.4"></a><a class="wt-pa" id="wt-pa20"></a> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.4.1"
 msgid "Tīhākārehi diṭṭhaṃ “adiṭṭhaṃ me”ti … pe …"
 msgstr "If he lies in full awareness, saying that he has not seen what he has seen, he commits an offense entailing confession when three conditions are fulfilled …"
@@ -495,7 +495,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.5.0a"
 msgid ""
 msgstr "Falsely claiming to have experienced with one sense what he has experienced with another"
 
-#. </h5><p><a class="sc" id="21"></a><a class="pts-vp-pli" id="pts-vp-pli4.4"></a><a class="pts-cs" id="Bu-Pc.1.2.5"></a><a class="wt-pa" id="wt-pa21"></a><a class="pts-vp-en" id="BD.2.169"></a> 
+#. </h5><p><a class="sc" id="21"></a><a class="pts-vp-pli" id="pts-vp-pli4.4"></a><a class="pts-cs" id="bu-pc.1.2.5"></a><a class="wt-pa" id="wt-pa21"></a><a class="pts-vp-en" id="BD.2.169"></a> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.5.1"
 msgid "Tīhākārehi diṭṭhaṃ “sutaṃ me”ti … pe …"
 msgstr "If he lies in full awareness, saying that he has heard what he has seen, he commits an offense entailing confession when three conditions are fulfilled …"
@@ -601,7 +601,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.6.0a"
 msgid ""
 msgstr "Making claims while having doubts"
 
-#. </h5><p><a class="sc" id="25"></a><a class="pts-cs" id="Bu-Pc.1.2.6"></a><a class="wt-pa" id="wt-pa25"></a> 
+#. </h5><p><a class="sc" id="25"></a><a class="pts-cs" id="bu-pc.1.2.6"></a><a class="wt-pa" id="wt-pa25"></a> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.6.1"
 msgid "Tīhākārehi diṭṭhe vematiko diṭṭhaṃ nokappeti, diṭṭhaṃ nassarati, diṭṭhaṃ pamuṭṭho hoti … pe …"
 msgstr "If he has doubts about what he has seen, is not sure about what he has seen, does not remember what he has seen, is confused about what he has seen …"
@@ -666,7 +666,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.7.0a"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="27"></a><a class="pts-cs" id="Bu-Pc.1.2.7"></a><a class="wt-pa" id="wt-pa27"></a> 
+#. </h2><p><a class="sc" id="27"></a><a class="pts-cs" id="bu-pc.1.2.7"></a><a class="wt-pa" id="wt-pa27"></a> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.7.1"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc40:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.40.1"></a><a class="pts-vp-en" id="BD.2.344"></a><a class="wt-pa" id="wt-pa848"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.40.1"></a><a class="pts-vp-en" id="BD.2.344"></a><a class="wt-pa" id="wt-pa848"></a> 
 msgctxt "pli-tv-bu-vb-pc40:6.3"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ."
 msgstr "At one time the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
@@ -139,7 +139,7 @@ msgctxt "pli-tv-bu-vb-pc40:10.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="Bu-Pc.40.2"></a><a class="wt-pa" id="wt-pa852"></a>
+#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.40.2"></a><a class="wt-pa" id="wt-pa852"></a>
 #. VAR: udakadantapone → udakadantapoṇe (s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-pc40:10.2"
 msgid "Tena kho pana samayena bhikkhū udakadantapone kukkuccāyanti."
@@ -181,7 +181,7 @@ msgctxt "pli-tv-bu-vb-pc40:12.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.40.3"></a><a class="pts-cs" id="Bu-Pc.40.3.1"></a><a class="wt-pa" id="wt-pa854"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.40.3"></a><a class="pts-cs" id="bu-pc.40.3.1"></a><a class="wt-pa" id="wt-pa854"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc40:12.2"
 msgid "Yo panāti"
@@ -270,7 +270,7 @@ msgctxt "pli-tv-bu-vb-pc40:18.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="13"></a><a class="pts-cs" id="Bu-Pc.40.3.2"></a><a class="wt-pa" id="wt-pa860"></a> 
+#. </h2><p><a class="sc" id="13"></a><a class="pts-cs" id="bu-pc.40.3.2"></a><a class="wt-pa" id="wt-pa860"></a> 
 msgctxt "pli-tv-bu-vb-pc40:18.2"
 msgid "Appaṭiggahitake appaṭiggahitakasaññī adinnaṃ mukhadvāraṃ āhāraṃ āhāreti, aññatra udakadantaponā, āpatti pācittiyassa."
 msgstr "If it has not been received, and he does not perceive it as received, and he eats it, except for water and tooth-cleaners, he commits an offense entailing confession."
@@ -301,7 +301,7 @@ msgctxt "pli-tv-bu-vb-pc40:20.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="Bu-Pc.40.3.3"></a><a class="wt-pa" id="wt-pa862"></a> 
+#. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="bu-pc.40.3.3"></a><a class="wt-pa" id="wt-pa862"></a> 
 msgctxt "pli-tv-bu-vb-pc40:20.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

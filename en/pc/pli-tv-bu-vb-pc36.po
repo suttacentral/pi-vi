@@ -43,7 +43,7 @@ msgctxt "pli-tv-bu-vb-pc36:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.84"></a><a class="pts-cs" id="Bu-Pc.36.1"></a><a class="pts-vp-en" id="BD.2.332"></a><a class="wt-pa" id="wt-pa784"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.84"></a><a class="pts-cs" id="bu-pc.36.1"></a><a class="pts-vp-en" id="BD.2.332"></a><a class="wt-pa" id="wt-pa784"></a> 
 msgctxt "pli-tv-bu-vb-pc36:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -191,7 +191,7 @@ msgctxt "pli-tv-bu-vb-pc36:9.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="Bu-Pc.36.2"></a><a class="pts-cs" id="Bu-Pc.36.2.1"></a><a class="wt-pa" id="wt-pa787"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.36.2"></a><a class="pts-cs" id="bu-pc.36.2.1"></a><a class="wt-pa" id="wt-pa787"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc36:9.2"
 msgid "Yo panāti"
@@ -380,7 +380,7 @@ msgctxt "pli-tv-bu-vb-pc36:19.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli4.85"></a><a class="pts-cs" id="Bu-Pc.36.2.2"></a><a class="wt-pa" id="wt-pa797"></a> 
+#. </h2><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli4.85"></a><a class="pts-cs" id="bu-pc.36.2.2"></a><a class="wt-pa" id="wt-pa797"></a> 
 msgctxt "pli-tv-bu-vb-pc36:19.2"
 msgid "Pavārite pavāritasaññī anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreti, āpatti pācittiyassa."
 msgstr "If the other monk has expressed his satisfaction, and he perceives that he has, and he invites him to eat staple or non-staple food which is not leftover, he commits an offense entailing confession."
@@ -424,7 +424,7 @@ msgctxt "pli-tv-bu-vb-pc36:20.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="Bu-Pc.36.2.3"></a><a class="wt-pa" id="wt-pa798"></a> 
+#. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="bu-pc.36.2.3"></a><a class="wt-pa" id="wt-pa798"></a> 
 msgctxt "pli-tv-bu-vb-pc36:20.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

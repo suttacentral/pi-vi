@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc5:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.5.1"></a><a class="pts-vp-en" id="BD.2.194"></a><a class="wt-pa" id="wt-pa164"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.5.1"></a><a class="pts-vp-en" id="BD.2.194"></a><a class="wt-pa" id="wt-pa164"></a> 
 msgctxt "pli-tv-bu-vb-pc5:6.3"
 msgid "Tena samayena buddho bhagavā āḷaviyaṃ viharati aggāḷave cetiye."
 msgstr "At one time the Buddha was staying at Āḷavī at the Aggāḷava Shrine."
@@ -142,7 +142,7 @@ msgctxt "pli-tv-bu-vb-pc5:11.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="6"></a><a class="pts-cs" id="Bu-Pc.5.2"></a><a class="wt-pa" id="wt-pa169"></a> 
+#. </h3><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-pc.5.2"></a><a class="wt-pa" id="wt-pa169"></a> 
 msgctxt "pli-tv-bu-vb-pc5:11.2"
 msgid "Atha kho bhagavā āḷaviyaṃ yathābhirantaṃ viharitvā yena kosambī tena cārikaṃ pakkāmi."
 msgstr "After staying at Āḷavī for as long as he wanted, the Master set out for Kosambī."
@@ -328,7 +328,7 @@ msgctxt "pli-tv-bu-vb-pc5:20.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="Bu-Pc.5.3.2"></a><a class="pts-vp-en" id="BD.2.197"></a><a class="wt-pa" id="wt-pa178"></a> 
+#. </h2><p><a class="sc" id="15"></a><a class="pts-cs" id="bu-pc.5.3.2"></a><a class="pts-vp-en" id="BD.2.197"></a><a class="wt-pa" id="wt-pa178"></a> 
 msgctxt "pli-tv-bu-vb-pc5:20.2"
 msgid "Anupasampanne anupasampannasaññī uttaridirattatirattaṃ sahaseyyaṃ kappeti, āpatti pācittiyassa."
 msgstr "If it is someone who is not fully ordained, and the monk perceives him as not fully ordained, and he sleeps in the same sleeping place as him for more than two or three nights, he commits an offense entailing confession."
@@ -363,7 +363,7 @@ msgctxt "pli-tv-bu-vb-pc5:22.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="17"></a><a class="pts-cs" id="Bu-Pc.5.3.3"></a><a class="wt-pa" id="wt-pa180"></a> 
+#. </h2><p><a class="sc" id="17"></a><a class="pts-cs" id="bu-pc.5.3.3"></a><a class="wt-pa" id="wt-pa180"></a> 
 msgctxt "pli-tv-bu-vb-pc5:22.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

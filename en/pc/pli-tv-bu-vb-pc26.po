@@ -42,7 +42,7 @@ msgctxt "pli-tv-bu-vb-pc26:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.61"></a><a class="pts-cs" id="Bu-Pc.26.1"></a> <a class="pts-vp-en" id="BD.2.285"></a><a class="wt-pa" id="575"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.61"></a><a class="pts-cs" id="bu-pc.26.1"></a> <a class="pts-vp-en" id="BD.2.285"></a><a class="wt-pa" id="575"></a> 
 msgctxt "pli-tv-bu-vb-pc26:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -192,7 +192,7 @@ msgctxt "pli-tv-bu-vb-pc26:10.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="Bu-Pc.26.2"></a><a class="pts-cs" id="Bu-Pc.26.2.1"></a><a class="wt-pa" id="579"></a>
+#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.26.2"></a><a class="pts-cs" id="bu-pc.26.2.1"></a><a class="wt-pa" id="579"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc26:10.2"
 msgid "Yo panāti"
@@ -288,7 +288,7 @@ msgctxt "pli-tv-bu-vb-pc26:16.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="11"></a><a class="pts-cs" id="Bu-Pc.26.2.2"></a><a class="wt-pa" id="585"></a> 
+#. </h2><p><a class="sc" id="11"></a><a class="pts-cs" id="bu-pc.26.2.2"></a><a class="wt-pa" id="585"></a> 
 msgctxt "pli-tv-bu-vb-pc26:16.2"
 msgid "Aññātikāya aññātikasaññī cīvaraṃ sibbati vā sibbāpeti vā, āpatti pācittiyassa."
 msgstr "If she is unrelated and he perceives her as unrelated, and he sews her a robe or gets one sewn, he commits an offense entailing confession."
@@ -323,7 +323,7 @@ msgctxt "pli-tv-bu-vb-pc26:18.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="13"></a><a class="pts-cs" id="Bu-Pc.26.2.3"></a><a class="wt-pa" id="587"></a> 
+#. </h2><p><a class="sc" id="13"></a><a class="pts-cs" id="bu-pc.26.2.3"></a><a class="wt-pa" id="587"></a> 
 msgctxt "pli-tv-bu-vb-pc26:18.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

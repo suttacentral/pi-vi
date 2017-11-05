@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc32:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.32.1"></a><a class="pts-vp-en" id="BD.2.306"></a><a class="wt-pa" id="wt-pa678"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.32.1"></a><a class="pts-vp-en" id="BD.2.306"></a><a class="wt-pa" id="wt-pa678"></a> 
 msgctxt "pli-tv-bu-vb-pc32:6.3"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
@@ -133,7 +133,7 @@ msgctxt "pli-tv-bu-vb-pc32:10.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli4.72"></a><a class="pts-cs" id="Bu-Pc.32.2"></a><a class="wt-pa" id="wt-pa682"></a> 
+#. </h3><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli4.72"></a><a class="pts-cs" id="bu-pc.32.2"></a><a class="wt-pa" id="wt-pa682"></a> 
 msgctxt "pli-tv-bu-vb-pc32:10.2"
 msgid "Tena kho pana samayena manussā gilāne bhikkhū bhattena nimantenti."
 msgstr "Soon afterwards people invited sick monks to a meal."
@@ -188,7 +188,7 @@ msgctxt "pli-tv-bu-vb-pc32:13.1"
 msgid ""
 msgstr "Third sub-story"
 
-#. </h3><p><a class="sc" id="8"></a><a class="pts-cs" id="Bu-Pc.32.3"></a><a class="wt-pa" id="wt-pa685"></a> 
+#. </h3><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-pc.32.3"></a><a class="wt-pa" id="wt-pa685"></a> 
 msgctxt "pli-tv-bu-vb-pc32:13.2"
 msgid "Tena kho pana samayena manussā cīvaradānasamaye sacīvarabhattaṃ paṭiyādetvā bhikkhū nimantenti—"
 msgstr "Soon afterwards, during the robe-giving season, people prepared a meal together with robe-cloth and then invited the monks, saying,"
@@ -249,7 +249,7 @@ msgctxt "pli-tv-bu-vb-pc32:16.1"
 msgid ""
 msgstr "Fourth sub-story"
 
-#. </h3><p><a class="sc" id="11"></a><a class="pts-cs" id="Bu-Pc.32.4"></a><a class="wt-pa" id="wt-pa688"></a> 
+#. </h3><p><a class="sc" id="11"></a><a class="pts-cs" id="bu-pc.32.4"></a><a class="wt-pa" id="wt-pa688"></a> 
 msgctxt "pli-tv-bu-vb-pc32:16.2"
 msgid "Tena kho pana samayena manussā cīvarakārake bhikkhū bhattena nimantenti."
 msgstr "Soon afterwards people invited monks who were making a robe for a meal."
@@ -300,7 +300,7 @@ msgctxt "pli-tv-bu-vb-pc32:19.1"
 msgid ""
 msgstr "Fifth sub-story"
 
-#. </h3><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli4.73"></a><a class="pts-cs" id="Bu-Pc.32.5"></a><a class="wt-pa" id="wt-pa691"></a> 
+#. </h3><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli4.73"></a><a class="pts-cs" id="bu-pc.32.5"></a><a class="wt-pa" id="wt-pa691"></a> 
 msgctxt "pli-tv-bu-vb-pc32:19.2"
 msgid "Tena kho pana samayena bhikkhū manussehi saddhiṃ addhānaṃ gacchanti."
 msgstr "Soon afterwards monks went traveling on a main road with some people."
@@ -368,7 +368,7 @@ msgctxt "pli-tv-bu-vb-pc32:22.1"
 msgid ""
 msgstr "Sixth sub-story"
 
-#. </h3><p><a class="sc" id="17"></a><a class="pts-cs" id="Bu-Pc.32.6"></a><a class="wt-pa" id="wt-pa694"></a> 
+#. </h3><p><a class="sc" id="17"></a><a class="pts-cs" id="bu-pc.32.6"></a><a class="wt-pa" id="wt-pa694"></a> 
 msgctxt "pli-tv-bu-vb-pc32:22.2"
 msgid "Tena kho pana samayena bhikkhū manussehi saddhiṃ nāvāya gacchanti."
 msgstr "Soon afterwards monks boarded a boat with some people."
@@ -435,7 +435,7 @@ msgctxt "pli-tv-bu-vb-pc32:25.1"
 msgid ""
 msgstr "Seventh sub-story"
 
-#. </h3><p class="endsection"><a class="sc" id="20"></a><a class="pts-cs" id="Bu-Pc.32.7"></a><a class="wt-pa" id="wt-pa697"></a> 
+#. </h3><p class="endsection"><a class="sc" id="20"></a><a class="pts-cs" id="bu-pc.32.7"></a><a class="wt-pa" id="wt-pa697"></a> 
 msgctxt "pli-tv-bu-vb-pc32:25.2"
 msgid "Tena kho pana samayena disāsu vassaṃvuṭṭhā bhikkhū rājagahaṃ āgacchanti bhagavantaṃ dassanāya."
 msgstr "Soon afterwards monks who had completed the rainy-season residence in various regions were coming to Rājagaha to see the Master."
@@ -491,7 +491,7 @@ msgctxt "pli-tv-bu-vb-pc32:28.1"
 msgid ""
 msgstr "Eighth sub-story"
 
-#. </h3><p><a class="sc" id="23"></a><a class="pts-vp-pli" id="pts-vp-pli4.74"></a><a class="pts-cs" id="Bu-Pc.32.8"></a><a class="wt-pa" id="wt-pa700"></a> 
+#. </h3><p><a class="sc" id="23"></a><a class="pts-vp-pli" id="pts-vp-pli4.74"></a><a class="pts-cs" id="bu-pc.32.8"></a><a class="wt-pa" id="wt-pa700"></a> 
 msgctxt "pli-tv-bu-vb-pc32:28.2"
 msgid "Tena kho pana samayena rañño māgadhassa seniyassa bimbisārassa ñātisālohito ājīvakesu pabbajito hoti."
 msgstr "Soon afterwards a relative of King Seniya Bimbisāra of Magadha who had gone forth with the Ājīvaka ascetics"
@@ -608,7 +608,7 @@ msgctxt "pli-tv-bu-vb-pc32:30.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="25"></a><a class="pts-cs" id="Bu-Pc.32.9"></a><a class="pts-cs" id="Bu-Pc.32.9.1"></a><a class="wt-pa" id="wt-pa702"></a>
+#. </h2><p><a class="sc" id="25"></a><a class="pts-cs" id="bu-pc.32.9"></a><a class="pts-cs" id="bu-pc.32.9.1"></a><a class="wt-pa" id="wt-pa702"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:30.2"
 msgid "Gaṇabhojanaṃ nāma"
@@ -751,7 +751,7 @@ msgctxt "pli-tv-bu-vb-pc32:40.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="35"></a><a class="pts-cs" id="Bu-Pc.32.9.2"></a><a class="wt-pa" id="wt-pa712"></a> 
+#. </h2><p><a class="sc" id="35"></a><a class="pts-cs" id="bu-pc.32.9.2"></a><a class="wt-pa" id="wt-pa712"></a> 
 msgctxt "pli-tv-bu-vb-pc32:40.2"
 msgid "Gaṇabhojane gaṇabhojanasaññī, aññatra samayā, bhuñjati, āpatti pācittiyassa."
 msgstr "If it is a group meal, and he perceives it as a group meal, and he eats, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -783,7 +783,7 @@ msgctxt "pli-tv-bu-vb-pc32:42.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="37"></a><a class="pts-cs" id="Bu-Pc.32.9.3"></a><a class="wt-pa" id="wt-pa714"></a> 
+#. </h2><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-pc.32.9.3"></a><a class="wt-pa" id="wt-pa714"></a> 
 msgctxt "pli-tv-bu-vb-pc32:42.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

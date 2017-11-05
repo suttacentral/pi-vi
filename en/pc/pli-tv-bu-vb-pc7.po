@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc7:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.7.1"></a><a class="pts-vp-en" id="BD.2.203"></a><a class="wt-pa" id="wt-pa197"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.7.1"></a><a class="pts-vp-en" id="BD.2.203"></a><a class="wt-pa" id="wt-pa197"></a> 
 msgctxt "pli-tv-bu-vb-pc7:6.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -199,7 +199,7 @@ msgctxt "pli-tv-bu-vb-pc7:12.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.7.2"></a><a class="pts-vp-en" id="BD.2.205"></a><a class="wt-pa" id="wt-pa203"></a> 
+#. </h3><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.7.2"></a><a class="pts-vp-en" id="BD.2.205"></a><a class="wt-pa" id="wt-pa203"></a> 
 msgctxt "pli-tv-bu-vb-pc7:12.2"
 msgid "Tena kho pana samayena upāsikā bhikkhū passitvā etadavocuṃ—"
 msgstr "Soon afterwards some female lay followers saw some monks and said to them,"
@@ -279,7 +279,7 @@ msgctxt "pli-tv-bu-vb-pc7:16.1"
 msgid ""
 msgstr "Third sub-story"
 
-#. </h3><p><a class="sc" id="11"></a><a class="pts-cs" id="Bu-Pc.7.3"></a><a class="wt-pa" id="wt-pa207"></a> 
+#. </h3><p><a class="sc" id="11"></a><a class="pts-cs" id="bu-pc.7.3"></a><a class="wt-pa" id="wt-pa207"></a> 
 msgctxt "pli-tv-bu-vb-pc7:16.2"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā anuññātaṃ mātugāmassa chappañcavācāhi dhammaṃ desetun”ti te aviññuṃ purisaviggahaṃ upanisīdāpetvā mātugāmassa uttarichappañcavācāhi dhammaṃ desenti."
 msgstr "When the monks from the group of six knew that the Master had made this allowance, they taught women more than five or six sentences in the presence of a man who did not understand."
@@ -450,7 +450,7 @@ msgctxt "pli-tv-bu-vb-pc7:25.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="20"></a><a class="pts-cs" id="Bu-Pc.7.4.2"></a><a class="wt-pa" id="wt-pa216"></a> 
+#. </h2><p><a class="sc" id="20"></a><a class="pts-cs" id="bu-pc.7.4.2"></a><a class="wt-pa" id="wt-pa216"></a> 
 msgctxt "pli-tv-bu-vb-pc7:25.2"
 msgid "Mātugāme mātugāmasaññī uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, āpatti pācittiyassa."
 msgstr "If it is a woman, and he perceives her as a woman, and he teaches her more than five or six sentences, except in the presence of a man who understands, he commits an offense entailing confession."
@@ -486,7 +486,7 @@ msgctxt "pli-tv-bu-vb-pc7:27.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="22"></a><a class="pts-cs" id="Bu-Pc.7.4.3"></a><a class="wt-pa" id="wt-pa218"></a> 
+#. </h2><p><a class="sc" id="22"></a><a class="pts-cs" id="bu-pc.7.4.3"></a><a class="wt-pa" id="wt-pa218"></a> 
 msgctxt "pli-tv-bu-vb-pc7:27.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc12:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="Bu-Pc.12.1"></a><a class="pts-vp-en" id="BD.2.230"></a><a class="wt-pa" id="wt-pa350"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.12.1"></a><a class="pts-vp-en" id="BD.2.230"></a><a class="wt-pa" id="wt-pa350"></a> 
 msgctxt "pli-tv-bu-vb-pc12:6.3"
 msgid "Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme."
 msgstr "At one time the Buddha was staying at Kosambī in Ghosita’s Monastery."
@@ -205,7 +205,7 @@ msgctxt "pli-tv-bu-vb-pc12:14.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pc.12.2"></a><a class="wt-pa" id="wt-pa358"></a> 
+#. </h3><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.12.2"></a><a class="wt-pa" id="wt-pa358"></a> 
 msgctxt "pli-tv-bu-vb-pc12:14.2"
 msgid "Tena kho pana samayena āyasmā channo saṃghamajjhe āpattiyā anuyuñjīyamāno aññenaññaṃ paṭicaranto—"
 msgstr "Later, when Channa was again being examined about an offense in the midst of the Order, he thought,"
@@ -346,7 +346,7 @@ msgctxt "pli-tv-bu-vb-pc12:20.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli4.37"></a><a class="pts-cs" id="Bu-Pc.12.3"></a><a class="pts-cs" id="Bu-Pc.12.3.1"></a><a class="wt-pa" id="wt-pa364"></a>
+#. </h2><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli4.37"></a><a class="pts-cs" id="bu-pc.12.3"></a><a class="pts-cs" id="bu-pc.12.3.1"></a><a class="wt-pa" id="wt-pa364"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc12:20.2"
 msgid "Aññavādako nāma"
@@ -414,7 +414,7 @@ msgctxt "pli-tv-bu-vb-pc12:22.7"
 msgid "Ropite vihesake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo tuṇhībhūto saṃghaṃ viheseti, āpatti pācittiyassa."
 msgstr "If he has been charged with harassment, and he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then harasses the Order by remaining silent because he does not want to talk about it or reveal it, then he commits an offense entailing confession."
 
-#. </p><hr><p><a class="sc" id="18"></a><a class="pts-cs" id="Bu-Pc.12.3.2"></a><a class="wt-pa" id="wt-pa367"></a> 
+#. </p><hr><p><a class="sc" id="18"></a><a class="pts-cs" id="bu-pc.12.3.2"></a><a class="wt-pa" id="wt-pa367"></a> 
 msgctxt "pli-tv-bu-vb-pc12:23.1"
 msgid "Dhammakamme dhammakammasaññī aññavādake vihesake, āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, and he perceives it as legitimate, and he speaks evasively and he harasses, he commits an offense entailing confession."
@@ -445,7 +445,7 @@ msgctxt "pli-tv-bu-vb-pc12:24.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="19"></a><a class="pts-cs" id="Bu-Pc.12.3.3"></a><a class="wt-pa" id="wt-pa368"></a> 
+#. </h2><p><a class="sc" id="19"></a><a class="pts-cs" id="bu-pc.12.3.3"></a><a class="wt-pa" id="wt-pa368"></a> 
 msgctxt "pli-tv-bu-vb-pc12:24.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

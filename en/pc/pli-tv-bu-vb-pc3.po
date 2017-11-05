@@ -42,7 +42,7 @@ msgctxt "pli-tv-bu-vb-pc3:6.1"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.12"></a><a class="pts-cs" id="Bu-Pc.3.1"></a><a class="pts-vp-en" id="BD.2.186"></a><a class="wt-pa" id="wt-pa111"></a> 
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.12"></a><a class="pts-cs" id="bu-pc.3.1"></a><a class="pts-vp-en" id="BD.2.186"></a><a class="wt-pa" id="wt-pa111"></a> 
 msgctxt "pli-tv-bu-vb-pc3:6.2"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -149,7 +149,7 @@ msgctxt "pli-tv-bu-vb-pc3:9.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="Bu-Pc.3.2"></a><a class="pts-cs" id="Bu-Pc.3.2.1"></a><a class="pts-vp-en" id="BD.2.187"></a><a class="wt-pa" id="wt-pa114"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.3.2"></a><a class="pts-cs" id="bu-pc.3.2.1"></a><a class="pts-vp-en" id="BD.2.187"></a><a class="wt-pa" id="wt-pa114"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc3:9.2"
 msgid "Pesuññaṃ nāma"
@@ -284,7 +284,7 @@ msgctxt "pli-tv-bu-vb-pc3:12.2"
 msgid ""
 msgstr "Direct abuse"
 
-#. </h5><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.3.2.2"></a><a class="wt-pa" id="wt-pa117"></a> 
+#. </h5><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.3.2.2"></a><a class="wt-pa" id="wt-pa117"></a> 
 msgctxt "pli-tv-bu-vb-pc3:12.3"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati—"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing by saying to yet another who is fully ordained,"
@@ -649,7 +649,7 @@ msgctxt "pli-tv-bu-vb-pc3:39.1"
 msgid ""
 msgstr "Permutations part 2"
 
-#. </h3><p><a class="sc" id="34"></a><a class="pts-cs" id="Bu-Pc.3.2.3"></a><a class="wt-pa" id="wt-pa144"></a> 
+#. </h3><p><a class="sc" id="34"></a><a class="pts-cs" id="bu-pc.3.2.3"></a><a class="wt-pa" id="wt-pa144"></a> 
 msgctxt "pli-tv-bu-vb-pc3:39.2"
 msgid "Upasampanno upasampannassa sutvā upasampannassa pesuññaṃ upasaṃharati;"
 msgstr "If one who is fully ordained, after hearing it from another who is fully ordained, engages in malicious talebearing to yet another who is fully ordained,"
@@ -678,7 +678,7 @@ msgctxt "pli-tv-bu-vb-pc3:43.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="38"></a><a class="pts-cs" id="Bu-Pc.3.2.4"></a><a class="wt-pa" id="wt-pa148"></a> 
+#. </h2><p><a class="sc" id="38"></a><a class="pts-cs" id="bu-pc.3.2.4"></a><a class="wt-pa" id="wt-pa148"></a> 
 msgctxt "pli-tv-bu-vb-pc3:43.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

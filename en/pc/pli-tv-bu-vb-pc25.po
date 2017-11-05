@@ -47,7 +47,7 @@ msgctxt "pli-tv-bu-vb-pc25:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.59"></a><a class="pts-cs" id="Bu-Pc.25.1"></a> <a class="pts-vp-en" id="BD.2.282"></a><a class="wt-pa" id="558"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.59"></a><a class="pts-cs" id="bu-pc.25.1"></a> <a class="pts-vp-en" id="BD.2.282"></a><a class="wt-pa" id="558"></a> 
 msgctxt "pli-tv-bu-vb-pc25:6.3"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
@@ -195,7 +195,7 @@ msgctxt "pli-tv-bu-vb-pc25:11.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.60"></a><a class="pts-cs" id="Bu-Pc.25.2"></a><a class="wt-pa" id="563"></a> 
+#. </h3><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.60"></a><a class="pts-cs" id="bu-pc.25.2"></a><a class="wt-pa" id="563"></a> 
 #. VAR: pārivattakaṃ → pārivaṭṭakaṃ (bj, s1-3)
 msgctxt "pli-tv-bu-vb-pc25:11.2"
 msgid "Tena kho pana samayena bhikkhū kukkuccāyantā bhikkhunīnaṃ pārivattakaṃ cīvaraṃ na denti."
@@ -261,7 +261,7 @@ msgctxt "pli-tv-bu-vb-pc25:14.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="Bu-Pc.25.3"></a><a class="pts-cs" id="Bu-Pc.25.3.1"></a><a class="wt-pa" id="566"></a>
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.25.3"></a><a class="pts-cs" id="bu-pc.25.3.1"></a><a class="wt-pa" id="566"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc25:14.2"
 msgid "Yo panāti"
@@ -342,7 +342,7 @@ msgctxt "pli-tv-bu-vb-pc25:19.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="Bu-Pc.25.3.2"></a><a class="wt-pa" id="571"></a> 
+#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="bu-pc.25.3.2"></a><a class="wt-pa" id="571"></a> 
 msgctxt "pli-tv-bu-vb-pc25:19.2"
 msgid "Aññātikāya aññātikasaññī cīvaraṃ deti, aññatra pārivattakā, āpatti pācittiyassa."
 msgstr "If she is unrelated and he perceives her as unrelated, and he gives her robe-cloth, unless it is an exchange, he commits an offense entailing confession."
@@ -377,7 +377,7 @@ msgctxt "pli-tv-bu-vb-pc25:21.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="Bu-Pc.25.3.3"></a><a class="wt-pa" id="573"></a> 
+#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="bu-pc.25.3.3"></a><a class="wt-pa" id="573"></a> 
 msgctxt "pli-tv-bu-vb-pc25:21.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"

@@ -48,7 +48,7 @@ msgctxt "pli-tv-bu-vb-pc23:6.2"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.56"></a><a class="pts-cs" id="Bu-Pc.23.1"></a> <a class="pts-vp-en" id="BD.2.276"></a><a class="wt-pa" id="531"></a> 
+#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.56"></a><a class="pts-cs" id="bu-pc.23.1"></a> <a class="pts-vp-en" id="BD.2.276"></a><a class="wt-pa" id="531"></a> 
 msgctxt "pli-tv-bu-vb-pc23:6.3"
 msgid "Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme."
 msgstr "At one time the Buddha was staying in the Sakyan country at Kapilavatthu in the Banyan Tree Monastery."
@@ -147,7 +147,7 @@ msgctxt "pli-tv-bu-vb-pc23:10.1"
 msgid ""
 msgstr "Second sub-story"
 
-#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="Bu-Pc.23.2"></a> <a class="pts-vp-en" id="BD.2.277"></a><a class="wt-pa" id="535"></a> 
+#. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.23.2"></a> <a class="pts-vp-en" id="BD.2.277"></a><a class="wt-pa" id="535"></a> 
 msgctxt "pli-tv-bu-vb-pc23:10.2"
 msgid "Tena kho pana samayena mahāpajāpati gotamī gilānā hoti."
 msgstr "Soon afterwards Mahāpajāpati Gotamī became sick."
@@ -258,7 +258,7 @@ msgctxt "pli-tv-bu-vb-pc23:12.1"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="Bu-Pc.23.3"></a><a class="pts-cs" id="Bu-Pc.23.3.1"></a><a class="wt-pa" id="537"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.23.3"></a><a class="pts-cs" id="bu-pc.23.3.1"></a><a class="wt-pa" id="537"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:12.2"
 msgid "Yo panāti"
@@ -363,7 +363,7 @@ msgctxt "pli-tv-bu-vb-pc23:19.1"
 msgid ""
 msgstr "Permutations"
 
-#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="Bu-Pc.23.3.2"></a><a class="wt-pa" id="544"></a> 
+#. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="bu-pc.23.3.2"></a><a class="wt-pa" id="544"></a> 
 msgctxt "pli-tv-bu-vb-pc23:19.2"
 msgid "Upasampannāya upasampannasaññī bhikkhunupassayaṃ upasaṅkamitvā aññatra samayā ovadati, āpatti pācittiyassa."
 msgstr "If she is fully ordained, and he perceives her as fully ordained, and he goes to her dwelling place and then instructs her, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -402,7 +402,7 @@ msgctxt "pli-tv-bu-vb-pc23:21.1"
 msgid ""
 msgstr "Non-offenses"
 
-#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="Bu-Pc.23.3.3"></a><a class="wt-pa" id="546"></a> 
+#. </h2><p><a class="sc" id="16"></a><a class="pts-cs" id="bu-pc.23.3.3"></a><a class="wt-pa" id="546"></a> 
 msgctxt "pli-tv-bu-vb-pc23:21.2"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
