@@ -13,286 +13,286 @@ msgstr ""
 "Generated-By: Babel 1.3\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500" name="description"><title></title></head><body><div id="text" lang="pli"><section class="sutta" id="pli-tv-bu-vb-pc13"><article><div class="hgroup"><p class="division"> 
-msgctxt "pli-tv-bu-vb-pc13:1.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs0.1"
 msgid "Theravāda Vinaya"
 msgstr ""
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:2.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs0.2"
 msgid "Mahāvibhaṅga"
 msgstr ""
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:3.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs0.3"
 msgid "Pācittiyakaṇḍa"
 msgstr "The chapter on confession (<i lang=\"pli\">pācittiya</i>)"
 
 #. </p><p> 
 #. VAR: Bhūtagāmavagga → ujjhāpa­na­sikkhā­padaṃ (bj)
-msgctxt "pli-tv-bu-vb-pc13:4.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs0.4"
 msgid "Bhūtagāmavagga"
 msgstr ""
 
 #. </p><h1>
-msgctxt "pli-tv-bu-vb-pc13:5.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs0.5"
 msgid "13. Ujjhāpanakasikkhāpada"
 msgstr "Monks’ Confession 13: the training rule on complaining"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc13:6.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.0a"
 msgid ""
 msgstr "Origin story"
 
 #. </h2><h3>
-msgctxt "pli-tv-bu-vb-pc13:6.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.0b"
 msgid ""
 msgstr "First sub-story"
 
 #. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.38"></a><a class="pts-cs" id="bu-pc.13.1"></a><a class="pts-vp-en" id="BD.2.235"></a><a class="wt-pa" id="wt-pa370"></a> 
-msgctxt "pli-tv-bu-vb-pc13:6.3"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.1"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary."
 
-msgctxt "pli-tv-bu-vb-pc13:6.4"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.2"
 msgid "Tena kho pana samayena āyasmā dabbo mallaputto saṃghassa senāsanañca paññapeti bhattāni ca uddisati."
 msgstr "At that time Venerable Dabba the Mallian assigned the dwellings and designated the meals,"
 
 #. VAR: mettiyabhūmajakā → metti­ya­bhumma­jakā (bj, s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pc13:6.5"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.3"
 msgid "Tena kho pana samayena mettiyabhūmajakā bhikkhū navakā ceva honti appapuññā ca."
 msgstr "and the monks Mettiya and Bhūmajaka had recently been given the full ordination."
 
-msgctxt "pli-tv-bu-vb-pc13:6.6"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.4"
 msgid "Yāni saṃghassa lāmakāni senāsanāni tāni tesaṃ pāpuṇanti lāmakāni ca bhattāni."
 msgstr "They had little merit,  and they obtained inferior dwellings and meals."
 
-msgctxt "pli-tv-bu-vb-pc13:6.7"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.5"
 msgid "Te āyasmantaṃ dabbaṃ mallaputtaṃ bhikkhū ujjhāpenti—"
 msgstr "They then complained about Dabba to other monks,"
 
-msgctxt "pli-tv-bu-vb-pc13:6.8"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.6"
 msgid "“chandāya dabbo mallaputto senāsanaṃ paññapeti, chandāya ca bhattāni uddisatī”ti."
 msgstr "“Dabba the Mallian assigns dwellings and designates meals based on favoritism.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="wt-pa371"></a> 
-msgctxt "pli-tv-bu-vb-pc13:7.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.7"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pli-tv-bu-vb-pc13:7.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.8"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized them,"
 
-msgctxt "pli-tv-bu-vb-pc13:7.3"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.9"
 msgid "“kathañhi nāma mettiyabhūmajakā bhikkhū āyasmantaṃ dabbaṃ mallaputtaṃ bhikkhū ujjhāpessantī”ti … pe …"
 msgstr "“How can the monks Mettiya and Bhūmajaka complain about Venerable Dabba to other monks?”…"
 
-msgctxt "pli-tv-bu-vb-pc13:7.4"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.10"
 msgid "“saccaṃ kira tumhe, bhikkhave, dabbaṃ mallaputtaṃ bhikkhū ujjhāpethā”ti?"
 msgstr "“Is it true, monks, that you do this?”"
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:7.5"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.11"
 msgid "“Saccaṃ, bhagavā”ti."
 msgstr "“It’s true, Master.”"
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:7.6"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.12"
 msgid "Vigarahi buddho bhagavā … pe …"
 msgstr "The Buddha rebuked them, “…"
 
-msgctxt "pli-tv-bu-vb-pc13:7.7"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.13"
 msgid "kathañhi nāma tumhe, moghapurisā, dabbaṃ mallaputtaṃ bhikkhū ujjhāpessatha."
 msgstr "Foolish men, how can you complain about Dabba to other monks?"
 
-msgctxt "pli-tv-bu-vb-pc13:7.8"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.14"
 msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
 msgstr "This will not give rise to confidence in those without it …"
 
-msgctxt "pli-tv-bu-vb-pc13:7.9"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.15"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. </p><h3>
-msgctxt "pli-tv-bu-vb-pc13:8.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.15a"
 msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa372"></a>
 #. <strong class="rule"> 
-msgctxt "pli-tv-bu-vb-pc13:8.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.16"
 msgid "“Ujjhāpanake pācittiyan”ti."
 msgstr "‘If a monk complains, he commits an offense entailing confession.’”"
 
 #. </strong>
 #. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa373"></a> 
-msgctxt "pli-tv-bu-vb-pc13:9.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs1.17"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
 #. </p><h3>
-msgctxt "pli-tv-bu-vb-pc13:10.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.0a"
 msgid ""
 msgstr "Second sub-story"
 
 #. </h3><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.13.2"></a><a class="pts-vp-en" id="BD.2.236"></a><a class="wt-pa" id="wt-pa374"></a> 
-msgctxt "pli-tv-bu-vb-pc13:10.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.1"
 msgid "Tena kho pana samayena mettiyabhūmajakā bhikkhū—“‘"
 msgstr "Knowing that the Master had prohibited complaining, the monks Mettiya and Bhūmajaka considered other ways of getting the monks to hear about their grievances."
 
 #. VAR: bhikkhū sossantī’”ti → vihesissantīti (itipi)
-msgctxt "pli-tv-bu-vb-pc13:10.3"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.2"
 msgid "bhagavatā ujjhāpanakaṃ paṭikkhittan’ti ‘ettāvatā bhikkhū sossantī’”ti bhikkhūnaṃ sāmantā āyasmantaṃ dabbaṃ mallaputtaṃ khiyyanti—"
 msgstr "They then denounced Dabba the Mallian in the vicinity of other monks,"
 
-msgctxt "pli-tv-bu-vb-pc13:10.4"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.3"
 msgid "“chandāya dabbo mallaputto senāsanaṃ paññapeti, chandāya ca bhattāni uddisatī”ti."
 msgstr "“Dabba assigns dwellings and designates meals based on favoritism.”"
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:10.5"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.4"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pli-tv-bu-vb-pc13:10.6"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.5"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized them,"
 
-msgctxt "pli-tv-bu-vb-pc13:10.7"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.6"
 msgid "“kathañhi nāma mettiyabhūmajakā bhikkhū āyasmantaṃ dabbaṃ mallaputtaṃ khiyyissantī”ti … pe …"
 msgstr "“How can the monks Mettiya and Bhūmajaka denounce Venerable Dabba?”…"
 
-msgctxt "pli-tv-bu-vb-pc13:10.8"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.7"
 msgid "“saccaṃ kira tumhe, bhikkhave, dabbaṃ mallaputtaṃ khiyyathā”ti?"
 msgstr "“Is it true, monks, that you do this?”"
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:10.9"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.8"
 msgid "“Saccaṃ, bhagavā”ti."
 msgstr "“It’s true, Master.”"
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:10.10"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.9"
 msgid "Vigarahi buddho bhagavā … pe …"
 msgstr "The Buddha rebuked them, “…"
 
-msgctxt "pli-tv-bu-vb-pc13:10.11"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.10"
 msgid "kathañhi nāma tumhe, moghapurisā, dabbaṃ mallaputtaṃ khiyyissatha."
 msgstr "Foolish men, how can you denounce Dabba?"
 
-msgctxt "pli-tv-bu-vb-pc13:10.12"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.11"
 msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
 msgstr "This will not give rise to confidence in those without it …"
 
-msgctxt "pli-tv-bu-vb-pc13:10.13"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.12"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc13:11.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.12a"
 msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa375"></a>
 #. <strong class="rule"> 
 #. VAR: khiyyanake → khīyanake (s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pc13:11.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.13"
 msgid "“Ujjhāpanake khiyyanake pācittiyan”ti."
 msgstr "‘If a monk complains or denounces, he commits an offense entailing confession.’”"
 
 #. </strong> 
-msgctxt "pli-tv-bu-vb-pc13:11.3"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs2.14"
 msgid "(<em>13</em>:<strong>62</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc13:12.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.13.3"></a>
 #. <a class="pts-cs" id="bu-pc.13.3.1"></a><a class="wt-pa" id="wt-pa376"></a><strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc13:12.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.1"
 msgid "Ujjhāpanakaṃ nāma"
 msgstr "Complaining:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden><i lang="pli">Khajjaka</i>. According to <span class="ref">Sp.4.893.16</span> (commenting on the <i lang="pli">sekhiya</i> rules) this refers to all non-staple foods: <i lang="pli">ettha mūlakhādanīyādi sabbaṃ gahetabbaṃ</i>, “Here the non-staple foods which are roots, etc., may all be taken.”</span> 
-msgctxt "pli-tv-bu-vb-pc13:12.3"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.2"
 msgid "upasampannaṃ saṃghena sammataṃ senāsanapaññāpakaṃ vā bhattuddesakaṃ vā yāgubhājakaṃ vā phalabhājakaṃ vā khajjabhājakaṃ vā appamattakavissajjakaṃ vā avaṇṇaṃ kattukāmo, ayasaṃ kattukāmo, maṅkukattukāmo, upasampannaṃ ujjhāpeti vā khiyyati vā, āpatti pācittiyassa."
 msgstr "when someone who is fully ordained is the assigner of dwellings or the designator of meals or the distributor of rice-porridge or the distributor of fruit or the distributor of non-staple food or the distributor of small requisites, and he has been agreed upon by the Order as such, then if a monk complains about him or denounces him to one who is fully ordained—desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—he commits an offense entailing confession."
 
 #. </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc13:12.4"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.2a"
 msgid ""
 msgstr "Permutations"
 
 #. </h2><p><a class="pts-vp-en" id="BD.2.237"></a> 
-msgctxt "pli-tv-bu-vb-pc13:12.5"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.3"
 msgid "Dhammakamme dhammakammasaññī ujjhāpanake khiyyanake āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, and he perceives it as legitimate, and he complains or denounces, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc13:12.6"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.4"
 msgid "Dhammakamme vematiko ujjhāpanake khiyyanake āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, but he is unsure if it is, and he complains or denounces, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc13:12.7"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.5"
 msgid "Dhammakamme adhammakammasaññī ujjhāpanake khiyyanake āpatti pācittiyassa."
 msgstr "If it is a legitimate procedure, but he perceives it as illegitimate, and he complains or denounces, he commits an offense entailing confession."
 
 #. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli4.39"></a><a class="pts-cs" id="bu-pc.13.3.2"></a><a class="wt-pa" id="wt-pa377"></a> 
-msgctxt "pli-tv-bu-vb-pc13:13.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.2.1"
 msgid "Anupasampannaṃ ujjhāpeti vā khiyyati vā, āpatti dukkaṭassa."
 msgstr "If he complains or denounces to one who is not fully ordained, he commits an offense of wrong conduct."
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:13.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.2.2"
 msgid "Upasampannaṃ saṃghena asammataṃ senāsanapaññāpakaṃ vā bhattuddesakaṃ vā yāgubhājakaṃ vā phalabhājakaṃ vā khajjabhājakaṃ vā appamattakavissajjakaṃ vā avaṇṇaṃ kattukāmo, ayasaṃ kattukāmo, maṅkukattukāmo, upasampannaṃ vā anupasampannaṃ vā ujjhāpeti vā khiyyati vā, āpatti dukkaṭassa."
 msgstr "When someone who is fully ordained is the assigner of dwellings or the designator of meals or the distributor of rice-porridge or the distributor of fruit or the distributor of non-staple food or the distributor of small requisites, but he has not been agreed upon by the Order as such, then if a monk complains about him or denounces him to one who is fully ordained or to one who is not fully ordained—desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—he commits an offense of wrong conduct."
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:13.3"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.2.3"
 msgid "Anupasampannaṃ saṃghena sammataṃ vā asammataṃ vā senāsanapaññāpakaṃ vā bhattuddesakaṃ vā yāgubhājakaṃ vā phalabhājakaṃ vā khajjabhājakaṃ vā appamattakavissajjakaṃ vā avaṇṇaṃ kattukāmo, ayasaṃ kattukāmo, maṅkukattukāmo, upasampannaṃ vā anupasampannaṃ vā ujjhāpeti vā khiyyati vā, āpatti dukkaṭassa."
 msgstr "When someone who is not fully ordained is the assigner of dwellings or the designator of meals or the distributor of rice-porridge or the distributor of fruit or the distributor of non-staple food or the distributor of small requisites, whether he has been agreed upon by the Order as such or not, then if a monk complains about him or denounces him to one who is fully ordained or to one who is not fully ordained—desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—he commits an offense of wrong conduct."
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc13:13.4"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.2.4"
 msgid "Adhammakamme dhammakammasaññī, āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, but he perceives it as legitimate, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-pc13:13.5"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.2.5"
 msgid "Adhammakamme vematiko, āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, but he is unsure if it is, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-pc13:13.6"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.2.6"
 msgid "Adhammakamme adhammakammasaññī āpatti dukkaṭassa."
 msgstr "If it is an illegitimate procedure, and he perceives it as illegitimate, he commits an offense of wrong conduct."
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc13:14.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.3.0a"
 msgid ""
 msgstr "Non-offenses"
 
 #. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pc.13.3.3"></a><a class="wt-pa" id="wt-pa378"></a> 
-msgctxt "pli-tv-bu-vb-pc13:14.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.3.1"
 msgid "Anāpatti—"
 msgstr "There is no offense:"
 
-msgctxt "pli-tv-bu-vb-pc13:14.3"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.3.2"
 msgid "pakatiyā chandā dosā mohā bhayā karontaṃ ujjhāpeti vā khiyyati vā,"
 msgstr "if he complains about or denounces one who normally acts from desire, ill-will, confusion, or fear;"
 
-msgctxt "pli-tv-bu-vb-pc13:14.4"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.3.3"
 msgid "ummattakassa,"
 msgstr "if he is insane;"
 
-msgctxt "pli-tv-bu-vb-pc13:14.5"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.3.4"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
 #. </p><hr><p class="endsutta"><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa379"></a> 
 #. VAR: Ujjhāpanakasikkhāpadaṃ → ujjhāpa­na­sikkhā­padaṃ (bj)
-msgctxt "pli-tv-bu-vb-pc13:15.1"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.3.5"
 msgid "Ujjhāpanakasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ."
 msgstr "The third rule, the training rule on complaining, is finished."
 
@@ -310,7 +310,7 @@ msgstr "The third rule, the training rule on complaining, is finished."
 #. <li><strong>NonCommercial</strong> — You may not use the material for commercial purposes.</li>
 #. <li><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li></ul></aside></section>
 #. </div></body></html> 
-msgctxt "pli-tv-bu-vb-pc13:15.2"
+msgctxt "pli-tv-bu-vb-pc13:pts-cs3.3.6"
 msgid ""
 msgstr ""
 
