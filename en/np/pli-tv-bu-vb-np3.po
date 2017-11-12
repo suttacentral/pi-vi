@@ -42,74 +42,74 @@ msgid "3. Tatiyakathinasikkhāpada"
 msgstr "3. The third training rule on the robe-making season"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.0a"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.0a"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.203"></a><a class="pts-cs" id="bu-np.3.1"></a><a class="pts-cs" id="bu-np.3.1.1"></a><a class="pts-vp-en" id="bd.2.24"></a><a class="wt-pa" id="1921"></a> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.1"
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.203"></a><a class="pts-cs-empty" id="bu-np.3.1"></a><a class="pts-cs" id="bu-np.3.1.1"></a><a class="pts-vp-en" id="bd.2.24"></a><a class="wt-pa" id="1921"></a> 
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.2"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.2"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno akālacīvaraṃ uppannaṃ hoti."
 msgstr "At that time a monk had been given robe-cloth outside the robe season."
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.3"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.3"
 msgid "Tassa taṃ cīvaraṃ kayiramānaṃ nappahoti."
 msgstr "While he was making the robe, he realized there was not enough cloth."
 
 #. <span class="note" hidden>The point, according to the commentary, is that he was trying to increase its size.</span> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.4"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.4"
 msgid "Atha kho so bhikkhu taṃ cīvaraṃ ussāpetvā punappunaṃ vimajjati."
 msgstr "Lifting it up, he smoothed it out again and again."
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.5"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.5"
 msgid "Addasā kho bhagavā senāsanacārikaṃ āhiṇḍanto taṃ bhikkhuṃ taṃ cīvaraṃ ussāpetvā punappunaṃ vimajjantaṃ."
 msgstr "While touring the dwellings, the Master saw that monk acting in this way."
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.6"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.6"
 msgid "Disvāna yena so bhikkhu tenupasaṅkami;"
 msgstr "He approached him"
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.7"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.7"
 msgid "upasaṅkamitvā taṃ bhikkhuṃ etadavoca—"
 msgstr "and said,"
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.8"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.8"
 msgid "“kissa tvaṃ, bhikkhu, imaṃ cīvaraṃ ussāpetvā punappunaṃ vimajjasī”ti?"
 msgstr "“What are you doing, monk?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.9"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.9"
 msgid "“Idaṃ me, bhante, akālacīvaraṃ uppannaṃ."
 msgstr "“Venerable Sir, I have received this robe-cloth outside the robe season,"
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.10"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.10"
 msgid "Kayiramānaṃ nappahoti."
 msgstr "but it’s not enough to make a robe."
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.11"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.11"
 msgid "Tenāhaṃ imaṃ cīvaraṃ ussāpetvā punappunaṃ vimajjāmī”ti."
 msgstr "That’s why I lift it up and smooth it out again and again.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.12"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.12"
 msgid "“Atthi pana te, bhikkhu, cīvarapaccāsā”ti?"
 msgstr "“Are you expecting to receive more cloth?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.13"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.13"
 msgid "“Atthi, bhagavā”ti."
 msgstr "“I am.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.14"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.14"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā, bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-msgctxt "pli-tv-bu-vb-np3:pts-cs1.15"
+msgctxt "pli-tv-bu-vb-np3:pts-cs1.1.15"
 msgid "“anujānāmi, bhikkhave, akālacīvaraṃ paṭiggahetvā cīvarapaccāsā nikkhipitun”ti."
 msgstr "“Monks, I allow you to keep out-of-season robe-cloth if you are expecting to receive more.”"
 
@@ -221,131 +221,131 @@ msgid "(<em>3</em>:<strong>22</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.0a"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli3.204"></a><a class="pts-cs" id="bu-np.3.2"></a><a class="pts-cs" id="bu-np.3.2.1"></a><a class="wt-pa" id="1925"></a>
+#. </h2><p><a class="sc" id="5"></a><a class="pts-vp-pli" id="pts-vp-pli3.204"></a><a class="pts-cs-empty" id="bu-np.3.2"></a><a class="pts-cs" id="bu-np.3.2.1"></a><a class="wt-pa" id="1925"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.1"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.1"
 msgid "Niṭṭhitacīvarasminti"
 msgstr "When his robe is finished:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>This refers to robe-cloth received during the robe-making season. For details see <span class="ref">Mv.7.2-7.12</span>.</span> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.2"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.2"
 msgid "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
 msgstr "the monk has made a robe, or the robe-cloth has been lost, destroyed, or burnt, or he has abandoned his expectation of receiving further robe-cloth."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="1926"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.3"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.3"
 msgid "Ubbhatasmiṃ kathineti"
 msgstr "The robe-making season has ended:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>For an explanation of this see <span class="ref">Mv.7.1.7</span> and <span class="ref">Mv.7.2-7.12</span>.</span> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.4"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.4"
 msgid "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
 msgstr "it has ended according to one of the eight headings or the Order has ended it, whichever comes first."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="1927"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.5"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.5"
 msgid "Akālacīvaraṃ nāma"
 msgstr "Out-of-season robe-cloth:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>That is, in-season robe-cloth is cloth obtained during the last month of the rainy season, while out-of-season robe-cloth is cloth obtained during the remaining eleven months of the year. See <span class="ref">Kkh. 101.28</span>.</span> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.6"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.6"
 msgid "anatthate kathine ekādasamāse uppannaṃ,"
 msgstr "if the robe-making ceremony has not been done, robe-cloth that is given during the eleven months."
 
 #. <span class="note" hidden>That is, in-season robe-cloth is cloth obtained during the last month of the rainy season or during the cold season, while out-of-season robe-cloth is cloth obtained during the remaining seven months of the year. See <span class="ref">Kkh.101.28</span>.</span> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.7"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.7"
 msgid "atthate kathine sattamāse uppannaṃ,"
 msgstr "If the robe-making ceremony has been done, robe-cloth that is given during the seven months."
 
 #. <span class="note" hidden>See <span class="ref">Kkh.102.1</span>.</span> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.8"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.8"
 msgid "kālepi ādissa dinnaṃ, etaṃ akālacīvaraṃ nāma."
 msgstr "Also, if it is given in the robe season, but it is designated as out-of-season cloth, it is called “out-of-season robe-cloth.”"
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-en" id="bd.2.27"></a><a class="wt-pa" id="1928"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.9"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.9"
 msgid "Uppajjeyyāti"
 msgstr "Is given:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.10"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.10"
 msgid "uppajjeyya saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
 msgstr "Is given by the Order, by a group, by a relative, or by a friend, or there are rags, or it is by means of his own property."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="1929"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.11"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.11"
 msgid "Ākaṅkhamānenāti"
 msgstr "If he wishes:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.12"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.12"
 msgid "icchamānena paṭiggahetabbaṃ."
 msgstr "if he desires, he may receive it."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="1930"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.13"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.13"
 msgid "Paṭiggahetvā khippameva kāretabbanti"
 msgstr "If he receives it, he should quickly make a robe:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>That is, in accordance with the first rule of this section, <span class="ref">Relinquishment 1</span>.</span> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.14"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.14"
 msgid "dasāhā kāretabbaṃ."
 msgstr "it should be made within ten days."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="1931"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.15"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.15"
 msgid "No cassa pāripūrīti"
 msgstr "If there is not enough cloth:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.16"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.16"
 msgid "kayiramānaṃ nappahoti."
 msgstr "if there is not enough cloth when the robe is being made."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="1932"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.17"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.17"
 msgid "Māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbanti"
 msgstr "He should keep it at most one month:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.18"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.18"
 msgid "māsaparamatā nikkhipitabbaṃ."
 msgstr "he should keep it for one month at the maximum."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="1933"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.19"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.19"
 msgid "Ūnassa pāripūriyāti"
 msgstr "To make up the lack:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.20"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.20"
 msgid "ūnassa pāripūratthāya."
 msgstr "for the purpose of making up the lack."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="1934"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.21"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.21"
 msgid "Satiyā paccāsāyāti"
 msgstr "But he is expecting more:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np3:pts-cs2.22"
+msgctxt "pli-tv-bu-vb-np3:pts-cs2.1.22"
 msgid "paccāsā hoti saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
 msgstr "he is expecting more from the Order, from a group, from a relative, or from a friend, or he is expecting to get rags, or he is expecting to get it by means of his own property."
 

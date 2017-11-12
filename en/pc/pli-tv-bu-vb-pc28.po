@@ -223,129 +223,129 @@ msgid "(<em>28</em>:<strong>77</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.0a"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-pc.28.3"></a><a class="pts-cs" id="bu-pc.28.3.1"></a><a class="wt-pa" id="616"></a>
+#. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-pc.28.3"></a><a class="pts-cs" id="bu-pc.28.3.1"></a><a class="wt-pa" id="616"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.2"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.3"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.4"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… he monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.5"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.5"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="617"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.6"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.6"
 msgid "Bhikkhunī nāma"
 msgstr "A nun:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.7"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.7"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both Orders."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="618"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.8"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.8"
 msgid "Saddhinti"
 msgstr "With:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.9"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.9"
 msgid "ekato."
 msgstr "together."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="619"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.10"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.10"
 msgid "Saṃvidhāyāti"
 msgstr "By appointment:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.11"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.11"
 msgid "“abhiruhāma, bhagini, abhiruhāmāyya; abhiruhāmāyya, abhiruhāma, bhagini; ajja vā hiyyo vā pare vā abhiruhāmā”ti saṃvidahati āpatti dukkaṭassa."
 msgstr "if he makes an appointment like this: he says, “Let’s board, Sister,” and she replies, “Yes, let’s board, Venerable;” or she says, “Lets’s board, Venerable,” and he replies, “Yes, let’s board, Sister;” or he says, “Let’s board today/tomorrow/the day after tomorrow,” then he commits an offense of wrong conduct."
 
 #. </span>
 #. </p><hr><p><a class="sc" id="12"></a><a class="wt-pa" id="620"></a> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.12"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.12"
 msgid "Bhikkhuniyā abhiruḷhe bhikkhu abhiruhati, āpatti pācittiyassa."
 msgstr "If the monk boards when the nun has already boarded, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.13"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.13"
 msgid "Bhikkhumhi abhiruḷhe bhikkhunī abhiruhati, āpatti pācittiyassa."
 msgstr "If the nun boards when the monks has already boarded, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.14"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.14"
 msgid "Ubho vā abhiruhanti, āpatti pācittiyassa."
 msgstr "If they both board together, he commits an offense entailing confession."
 
 #. </p><hr><p><a class="sc" id="13"></a><a class="wt-pa" id="621"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.15"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.15"
 msgid "Uddhaṅgāmininti"
 msgstr "To go upstream:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.16"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.16"
 msgid "ujjavanikāya."
 msgstr "for the purpose of going against the stream."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="pts-vp-en" id="BD.2.294"></a><a class="wt-pa" id="622"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.17"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.17"
 msgid "Adhogāmininti"
 msgstr "To go downstream:"
 
 #. </strong><span class="gloss"><a class="wt-pa" id="623"></a> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.18"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.18"
 msgid "ojavanikāya."
 msgstr "for the purpose of going with the stream."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.19"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.19"
 msgid "Aññatra tiriyaṃ taraṇāyāti"
 msgstr "Unless it is for the purpose of crossing:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.20"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.20"
 msgid "ṭhapetvā tiriyaṃ taraṇaṃ."
 msgstr "except to go across."
 
 #. </span>
 #. </p><hr><p><a class="sc" id="16"></a><a class="wt-pa" id="624"></a> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.21"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.21"
 msgid "Kukkuṭasampāte gāme, gāmantare gāmantare āpatti pācittiyassa."
 msgstr "When the villages are a chicken’s flight apart, then for every village interval he commits an offense entailing confession."
 
 #. <span class="note" hidden>Half a <i lang="pli">yojana</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16). Thus half a <i lang="pli">yojana</i> is just over 6 km.</span> 
-msgctxt "pli-tv-bu-vb-pc28:pts-cs3.22"
+msgctxt "pli-tv-bu-vb-pc28:pts-cs3.1.22"
 msgid "Agāmake araññe, aḍḍhayojane aḍḍhayojane āpatti pācittiyassa."
 msgstr "If it is in an uninhabited area, in the wilderness, then for every six kilometers he commits an offense entailing confession."
 

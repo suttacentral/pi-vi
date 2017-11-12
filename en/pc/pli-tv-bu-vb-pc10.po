@@ -130,107 +130,107 @@ msgid "(<em>10</em>:<strong>59</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.0a"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.10.2"></a><a class="pts-cs" id="bu-pc.10.2.1"></a><a class="wt-pa" id="wt-pa324"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.10.2"></a><a class="pts-cs" id="bu-pc.10.2.1"></a><a class="wt-pa" id="wt-pa324"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.2"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.3"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.4"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.4"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand— this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa325"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.5"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.5"
 msgid "Pathavī nāma"
 msgstr "The earth:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.6"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.6"
 msgid "dve pathaviyo—"
 msgstr "there are two kinds of earth:"
 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.7"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.7"
 msgid "jātā ca pathavī ajātā ca pathavī."
 msgstr "productive earth and unproductive earth."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa326"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.8"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.8"
 msgid "Jātā nāma"
 msgstr "Productive earth:"
 
 #. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.224"></a> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.9"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.9"
 msgid "pathavī—suddhapaṃsu suddhamattikā appapāsāṇā appasakkharā appakaṭhalā appamarumbā appavālikā, yebhuyyenapaṃsukā, yebhuyyenamattikā."
 msgstr "pure soil, pure clay, with few stones, with few pebbles, with few potsherds, with little gravel, with little sand; mostly soil, mostly clay."
 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.10"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.10"
 msgid "Adaḍḍhāpi vuccati jātā pathavī."
 msgstr "If it is unburnt, it is also called “productive earth.”"
 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.11"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.11"
 msgid "Yopi paṃsupuñjo vā mattikāpuñjo vā atirekacātumāsaṃ ovaṭṭho, ayampi vuccati jātā pathavī."
 msgstr "A pile of soil or a pile of clay that has been rained upon for more than four months, this too is called “productive earth.”"
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa327"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.12"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.12"
 msgid "Ajātā nāma"
 msgstr "Unproductive earth:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.13"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.13"
 msgid "pathavī—suddhapāsāṇā suddhasakkharā suddhakaṭhalā suddhamarumbā suddhavālikā appapaṃsukā appamattikā, yebhuyyenapāsāṇā, yebhuyyenasakkharā, yebhuyyenakaṭhalā, yebhuyyenamarumbā, yebhuyyenavālikā."
 msgstr "just stones, just pebbles, just potsherds, just gravel, just sand, with little soil, with little clay; mostly stones, mostly pebbles, mostly potsherds, mostly gravel, mostly sand."
 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.14"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.14"
 msgid "Daḍḍhāpi vuccati ajātā pathavī."
 msgstr "If it is burnt, it is also called “unproductive earth.”"
 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.15"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.15"
 msgid "Yopi paṃsupuñjo vā mattikāpuñjo vā omakacātumāsaṃ ovaṭṭho, ayampi vuccati ajātā pathavī."
 msgstr "A pile of soil or a pile of clay that has been rained upon for less than four months, this too is called “unproductive earth.”"
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa328"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.16"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.16"
 msgid "Khaṇeyyāti"
 msgstr "Digs:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.17"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.17"
 msgid "sayaṃ khaṇati, āpatti pācittiyassa."
 msgstr "if he digs it himself, he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa329"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.18"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.18"
 msgid "Khaṇāpeyyāti"
 msgstr "Gets dug:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.19"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.19"
 msgid "aññaṃ āṇāpeti, āpatti pācittiyassa."
 msgstr "if he asks another, he commits an offense entailing confession."
 
-msgctxt "pli-tv-bu-vb-pc10:pts-cs2.20"
+msgctxt "pli-tv-bu-vb-pc10:pts-cs2.1.20"
 msgid "Sakiṃ āṇatto bahukampi khaṇati, āpatti pācittiyassa."
 msgstr "If he only asks once, then even if the other digs many times, he commits one offense entailing confession."
 

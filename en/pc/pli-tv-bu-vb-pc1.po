@@ -158,7 +158,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.1.2"></a><a class="pts-cs" id="bu-pc.1.2.1"></a><a class="wt-pa" id="wt-pa7"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-pc.1.2"></a><a class="pts-cs" id="bu-pc.1.2.1"></a><a class="wt-pa" id="wt-pa7"></a>
 #. <strong class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.1"
 msgid "Sampajānamusāvādo nāma"

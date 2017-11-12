@@ -127,61 +127,61 @@ msgid "(<em>24</em>:<strong>73</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.0a"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.24.2"></a><a class="pts-cs" id="bu-pc.24.2.1"></a><a class="wt-pa" id="551"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.24.2"></a><a class="pts-cs" id="bu-pc.24.2.1"></a><a class="wt-pa" id="551"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.2"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.3"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.4"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.5"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.5"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="pts-vp-en" id="BD.2.280"></a><a class="wt-pa" id="552"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.6"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.6"
 msgid "Āmisahetūti"
 msgstr "For the sake of worldly gain:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.7"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.7"
 msgid "cīvarahetu piṇḍapātahetu senāsanahetu gilānappaccayabhesajjaparikkhārahetu sakkārahetu garukārahetu mānanahetu vandanahetu pūjanahetu."
 msgstr "for the sake of robe-cloth, for the sake of almsfood, for the sake of a dwelling, for the sake of medicines, for the sake of honor, for the sake of respect, for the sake of deference, for the sake of veneration, for the sake of worship."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="553"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.8"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.8"
 msgid "Evaṃ vadeyyāti"
 msgstr "Says:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.9"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.9"
 msgid "upasampannaṃ saṃghena sammataṃ bhikkhunovādakaṃ avaṇṇaṃ kattukāmo ayasaṃ kattukāmo maṅkukattukāmo evaṃ vadeti—"
 msgstr "if, concerning one who is fully ordained and who has been agreed upon by the Order as an instructor of nuns—desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—he says,"
 
-msgctxt "pli-tv-bu-vb-pc24:pts-cs2.10"
+msgctxt "pli-tv-bu-vb-pc24:pts-cs2.1.10"
 msgid "“cīvarahetu piṇḍapātahetu senāsanahetu gilānappaccayabhesajjaparikkhārahetu sakkārahetu garukārahetu mānanahetu vandanahetu pūjanahetu ovadatī”ti bhaṇati, āpatti pācittiyassa."
 msgstr "“He instructs for the sake of robe-cloth/for the sake of almsfood/for the sake of a dwelling/for the sake of medicines/for the sake of honor/for the sake of respect/for the sake of deference/for the sake of veneration/for the sake of worship,” he commits an offense entailing confession."
 

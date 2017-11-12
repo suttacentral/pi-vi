@@ -145,131 +145,131 @@ msgid "(<em>3</em>:<strong>52</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.0a"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.3.2"></a><a class="pts-cs" id="bu-pc.3.2.1"></a><a class="pts-vp-en" id="BD.2.187"></a><a class="wt-pa" id="wt-pa114"></a>
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.3.2"></a><a class="pts-cs" id="bu-pc.3.2.1"></a><a class="pts-vp-en" id="BD.2.187"></a><a class="wt-pa" id="wt-pa114"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.1"
 msgid "Pesuññaṃ nāma"
 msgstr "Malicious talebearing:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.2"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.2"
 msgid "dvīhākārehi pesuññaṃ hoti—"
 msgstr "there is malicious talebearing in two ways:"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.3"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.3"
 msgid "piyakamyassa vā bhedādhippāyassa vā."
 msgstr "for one wanting to endear himself or for one aiming at division."
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.4"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.4"
 msgid "Dasahākārehi pesuññaṃ upasaṃharati—"
 msgstr "One engages in malicious talebearing in ten ways:"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.5"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.5"
 msgid "jātitopi, nāmatopi, gottatopi, kammatopi, sippatopi, ābādhatopi, liṅgatopi, kilesatopi, āpattitopi, akkosatopi."
 msgstr "about caste, about name, about family, about work, about craft, about illnesses, about physical traits, about defilements, about offenses, and by insulting."
 
 #. </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.5a"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.5a"
 msgid ""
 msgstr "Permutations"
 
 #. </h2><h3>
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.5b"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.5b"
 msgid ""
 msgstr "Permutations part 1"
 
 #. </h3><h4>
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.5c"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.5c"
 msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa115"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.6"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.6"
 msgid "Jāti nāma"
 msgstr "Caste:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.7"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.7"
 msgid "dve jātiyo—"
 msgstr "there are two kinds of castes:"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.8"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.8"
 msgid "hīnā ca jāti ukkaṭṭhā ca jāti."
 msgstr "low castes and high castes."
 
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.9"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.9"
 msgid "Hīnā nāma"
 msgstr "Low castes:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.10"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.10"
 msgid "jāti—caṇḍālajāti venajāti nesādajāti rathakārajāti pukkusajāti."
 msgstr "outcasts, bamboo workers, hunters, chariot-makers, waste-removers—"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.11"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.11"
 msgid "Esā hīnā nāma jāti."
 msgstr "these are called “low castes.”"
 
 #. </span><strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.12"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.12"
 msgid "Ukkaṭṭhā nāma"
 msgstr "High castes:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.13"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.13"
 msgid "jāti—khattiyajāti brāhmaṇajāti."
 msgstr "aristocrats and brahmins—"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.14"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.14"
 msgid "Esā ukkaṭṭhā nāma jāti … pe …."
 msgstr "these are called “high castes.” … <span class=\"add\">To be expanded as in <a href=\"/en/pli-tv-bu-vb-pc2#9\">Pācittiya 2, paragraphs 9–16</a>.</span> …"
 
 #. </span></span></p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.13"></a><a class="wt-pa" id="wt-pa116"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.15"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.15"
 msgid "Akkoso nāma"
 msgstr "Insults:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.16"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.16"
 msgid "dve akkosā—"
 msgstr "there are two kinds of insults:"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.17"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.17"
 msgid "hīno ca akkoso ukkaṭṭho ca akkoso."
 msgstr "low insults and high insults."
 
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.18"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.18"
 msgid "Hīno nāma"
 msgstr "Low insults:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.19"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.19"
 msgid "akkoso—“oṭṭhosi, meṇḍosi, goṇosi, gadrabhosi, tiracchānagatosi, nerayikosi; natthi tuyhaṃ sugati; duggatiyeva tuyhaṃ pāṭikaṅkhā”ti, yakārena vā bhakārena vā kāṭakoṭacikāya vā."
 msgstr "“you’re a camel/you’re a ram/you’re an ox/you’re a donkey/you’re an animal/you’re bound for hell/you’re not going to a good destination/you can only expect a bad destination,” or adding the disparaging endings <i lang=\"pli\">ya</i> or <i lang=\"pli\">bha</i> to someone’s name, or calling someone words for the male and female genitals—"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.20"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.20"
 msgid "Eso hīno nāma akkoso."
 msgstr "these are called “low insults.”"
 
 #. </span><strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.21"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.21"
 msgid "Ukkaṭṭho nāma"
 msgstr "High insults:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.22"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.22"
 msgid "akkoso—“paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi; natthi tuyhaṃ duggati; sugatiyeva tuyhaṃ pāṭikaṅkhā”ti."
 msgstr "“you’re wise/you’re competent/you’re intelligent/you’re learned/you’re an expounder of the Teaching/you’re not going to a bad destination/you can only expect a good destination”—"
 
-msgctxt "pli-tv-bu-vb-pc3:pts-cs2.23"
+msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.23"
 msgid "Eso ukkaṭṭho nāma akkoso."
 msgstr "these are called “high insults.”"
 

@@ -41,37 +41,37 @@ msgid "29. Sāsaṅkasikkhāpada"
 msgstr "29. The training rule on what is risky"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.0a"
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.0a"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-np.29.1"></a><a class="pts-cs" id="bu-np.29.1.1"></a><a class="pts-vp-en" id="bd.2.156"></a><a class="wt-pa" id="2400"></a> 
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.1"
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs-empty" id="bu-np.29.1"></a><a class="pts-cs" id="bu-np.29.1.1"></a><a class="pts-vp-en" id="bd.2.156"></a><a class="wt-pa" id="2400"></a> 
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.2"
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.2"
 msgid "Tena kho pana samayena bhikkhū vutthavassā āraññakesu senāsanesu viharanti."
 msgstr "At that time monks who had completed the rains residence were staying in wilderness dwellings."
 
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.3"
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.3"
 msgid "Kattikacorakā bhikkhū—"
 msgstr "Thieves who were active during the month of Kattika attacked the monks, thinking,"
 
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.4"
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.4"
 msgid "“laddhalābhā”ti paripātenti."
 msgstr "“They have obtained things.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.5"
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.5"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "The monks told the Master."
 
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.6"
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.6"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-msgctxt "pli-tv-bu-vb-np29:pts-cs1.7"
+msgctxt "pli-tv-bu-vb-np29:pts-cs1.1.7"
 msgid "“anujānāmi, bhikkhave, āraññakesu senāsanesu viharantena tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipitun”ti."
 msgstr "“Monks, I allow monks who are staying in wilderness dwellings to store one of their three robes in an inhabited area.”"
 

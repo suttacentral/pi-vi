@@ -41,169 +41,169 @@ msgid "15. Nisīdanasanthatasikkhāpada"
 msgstr "15. The training rule on sitting-blankets"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.0a"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.0a"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.230"></a><a class="pts-cs" id="bu-np.15.1"></a><a class="pts-cs" id="bu-np.15.1.1"></a><a class="pts-vp-en" id="bd.2.83"></a><a class="wt-pa" id="2158"></a> 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.1"
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.230"></a><a class="pts-cs-empty" id="bu-np.15.1"></a><a class="pts-cs" id="bu-np.15.1.1"></a><a class="pts-vp-en" id="bd.2.83"></a><a class="wt-pa" id="2158"></a> 
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.2"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.2"
 msgid "Atha kho bhagavā bhikkhū āmantesi—"
 msgstr "There the Master addressed the monks,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.3"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.3"
 msgid "“icchāmahaṃ, bhikkhave, temāsaṃ paṭisallīyituṃ."
 msgstr "“Monks, I wish to go into solitary retreat for three months."
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.4"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.4"
 msgid "Namhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti."
 msgstr "No one is to approach me except the one who brings me almsfood.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.5"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.5"
 msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paṭissuṇitvā nāssudha koci bhagavantaṃ upasaṅkamati, aññatra ekena piṇḍapātanīhārakena."
 msgstr "“Yes, Master,” they replied, and no one approached him except the one who brought him almsfood."
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.6"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.6"
 msgid "Tena kho pana samayena sāvatthiyā saṃghena katikā katā hoti—"
 msgstr "At that time the Order at Sāvatthī made the following agreement:"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.7"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.7"
 msgid "“icchatāvuso, bhagavā temāsaṃ paṭisallīyituṃ."
 msgstr "“The Master wishes to be on solitary retreat for three months."
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.8"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.8"
 msgid "Na bhagavā kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakena."
 msgstr "No one is to approach him except the one who brings him almsfood."
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.9"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.9"
 msgid "Yo bhagavantaṃ upasaṅkamati so pācittiyaṃ desāpetabbo”ti."
 msgstr "Anyone who approaches him should be made to confess an offense entailing confession.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2159"></a> 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.10"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.10"
 msgid "Atha kho āyasmā upaseno vaṅgantaputto, sapariso yena bhagavā tenupasaṅkami;"
 msgstr "Just then Venerable Upasena Vaṅgantaputta and his followers approached the Master,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.11"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.11"
 msgid "upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi."
 msgstr "bowed down to him, and sat down to one side."
 
 #. <a class="pts-vp-en" id="bd.2.84"></a> 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.12"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.12"
 msgid "Āciṇṇaṃ kho panetaṃ buddhānaṃ bhagavantānaṃ āgantukehi bhikkhūhi saddhiṃ paṭisammodituṃ."
 msgstr "It is the custom for Buddhas to greet newly arrived monks,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.13"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.13"
 msgid "Atha kho bhagavā āyasmantaṃ upasenaṃ vaṅgantaputtaṃ etadavoca—"
 msgstr "and so the Master said this to Upasena,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.14"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.14"
 msgid "“kacci vo, upasena, khamanīyaṃ kacci yāpanīyaṃ,"
 msgstr "“I hope you’re keeping well, Upasena, I hope you’re comfortable;"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.15"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.15"
 msgid "kaccittha appakilamathena addhānaṃ āgatā”ti?"
 msgstr "I hope you’re not tired from traveling.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.16"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.16"
 msgid "“Khamanīyaṃ, bhagavā, yāpanīyaṃ, bhagavā."
 msgstr "“We’re keeping well, Master, we’re comfortable;"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.17"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.17"
 msgid "Appakilamathena ca mayaṃ, bhante, addhānaṃ āgatā”ti."
 msgstr "we’re not tired from traveling.”"
 
 #. </p><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli3.231"></a><a class="wt-pa" id="2160"></a> 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.18"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.18"
 msgid "Tena kho pana samayena āyasmato upasenassa vaṅgantaputtassa saddhivihāriko bhikkhu bhagavato avidūre nisinno hoti."
 msgstr "One of Upasena’s students was seated not far from the Master,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.19"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.19"
 msgid "Atha kho bhagavā taṃ bhikkhuṃ etadavoca—"
 msgstr "and the Master said to him,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.20"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.20"
 msgid "“manāpāni te, bhikkhu, paṃsukūlānī”ti?"
 msgstr "“Do you like rag-robes, monk?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.21"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.21"
 msgid "“Na kho me, bhante, manāpāni paṃsukūlānī”ti."
 msgstr "“I don’t like rag-robes, Venerable Sir.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.22"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.22"
 msgid "“Kissa pana tvaṃ, bhikkhu, paṃsukūliko”ti?"
 msgstr "“Why then do you wear them?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.23"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.23"
 msgid "“Upajjhāyo me, bhante, paṃsukūliko."
 msgstr "“My preceptor wears them,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.24"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.24"
 msgid "Evaṃ ahampi paṃsukūliko”ti."
 msgstr "and so I do it too.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.25"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.25"
 msgid "Atha kho bhagavā āyasmantaṃ upasenaṃ vaṅgantaputtaṃ etadavoca—"
 msgstr "And the Master said to Upasena,"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.26"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.26"
 msgid "“pāsādikā kho tyāyaṃ, upasena, parisā."
 msgstr "“Upasena, your followers are inspiring."
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.27"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.27"
 msgid "Kathaṃ tvaṃ, upasena, parisaṃ vinesī”ti?"
 msgstr "How do you train them?”"
 
 #. </p><p>
 #. VAR: tamahaṃ → tāhaṃ (bj, pts1, mr)
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.28"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.28"
 msgid "“Yo maṃ, bhante, upasampadaṃ yācati tamahaṃ evaṃ vadāmi—"
 msgstr "“When anyone asks me for the full ordination, Venerable Sir, I tell them this:"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.29"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.29"
 msgid "‘ahaṃ kho, āvuso, āraññiko piṇḍapātiko paṃsukūliko."
 msgstr "‘I dwell in the wilderness, I walk for alms, and I wear rag-robes."
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.30"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.30"
 msgid "Sace tvampi āraññiko bhavissasi piṇḍapātiko paṃsukūliko, evāhaṃ taṃ upasampādessāmī’ti."
 msgstr "If you, too, will dwell in the wilderness, walk for alms, and wear rag-robes, I will give you the full ordination.’"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.31"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.31"
 msgid "Sace me paṭissuṇāti upasampādemi,"
 msgstr "If they agree, I ordain them;"
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.32"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.32"
 msgid "no ce me paṭissuṇāti na upasampādemi."
 msgstr "otherwise I don’t."
 
 #. VAR: tamahaṃ → tāhaṃ (bj, pts1, mr)
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.33"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.33"
 msgid "Yo maṃ nissayaṃ yācati tamahaṃ evaṃ vadāmi—"
 msgstr "And I do the same when anyone asks me for support."
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.34"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.34"
 msgid "‘ahaṃ kho, āvuso, āraññiko piṇḍapātiko paṃsukūliko."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.35"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.35"
 msgid "Sace tvampi āraññiko bhavissasi piṇḍapātiko paṃsukūliko, evāhaṃ te nissayaṃ dassāmī’ti."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.36"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.36"
 msgid "Sace me paṭissuṇāti nissayaṃ demi, no ce me paṭissuṇāti na nissayaṃ demi."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np15:pts-cs1.37"
+msgctxt "pli-tv-bu-vb-np15:pts-cs1.1.37"
 msgid "Evaṃ kho ahaṃ, bhante, parisaṃ vinemī”ti."
 msgstr "It’s in this way that I train my followers.”"
 

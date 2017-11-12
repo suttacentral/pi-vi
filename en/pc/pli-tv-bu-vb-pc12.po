@@ -342,75 +342,75 @@ msgid "(<em>12</em>:<strong>61</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.0a"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli4.37"></a><a class="pts-cs" id="bu-pc.12.3"></a><a class="pts-cs" id="bu-pc.12.3.1"></a><a class="wt-pa" id="wt-pa364"></a>
+#. </h2><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli4.37"></a><a class="pts-cs-empty" id="bu-pc.12.3"></a><a class="pts-cs" id="bu-pc.12.3.1"></a><a class="wt-pa" id="wt-pa364"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.1"
 msgid "Aññavādako nāma"
 msgstr "One who speaks evasively:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.2"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.2"
 msgid "saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo aññenaññaṃ paṭicarati—"
 msgstr "when being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, he speaks evasively because he does not want to talk about it or reveal it, saying,"
 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.3"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.3"
 msgid "“ko āpanno, kiṃ āpanno, kismiṃ āpanno, kathaṃ āpanno, kaṃ bhaṇatha, kiṃ bhaṇathā”ti."
 msgstr "“Who has committed an offense? What offense has been committed? In regard to what has an offense has been committed? How has an offense been committed? Who are you talking about? What are you talking about?”—"
 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.4"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.4"
 msgid "Eso aññavādako nāma."
 msgstr "this is called “one who speaks evasively.”"
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa365"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.5"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.5"
 msgid "Vihesako nāma"
 msgstr "One who harasses:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.6"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.6"
 msgid "saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo tuṇhībhūto saṃghaṃ viheseti."
 msgstr "when being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, he harasses the Order by remaining silent because he does not want to talk about it or reveal it—"
 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.7"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.7"
 msgid "Eso vihesako nāma."
 msgstr "this is called “one who harasses.”"
 
 #. </span></p><h2>
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.7a"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.7a"
 msgid ""
 msgstr "Permutations"
 
 #. </h2><p><a class="sc" id="17"></a><a class="wt-pa" id="wt-pa366"></a> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.8"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.8"
 msgid "Aropite aññavādake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo aññenaññaṃ paṭicarati—"
 msgstr "If he has not been charged with evasive speech, but he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then speaks evasively because he does not want to talk about it or reveal it, saying,"
 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.9"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.9"
 msgid "“ko āpanno, kiṃ āpanno, kismiṃ āpanno, kathaṃ āpanno, kaṃ bhaṇatha, kiṃ bhaṇathā”ti, āpatti dukkaṭassa."
 msgstr "“Who has committed an offense? What offense has been committed? In regard to what has an offense has been committed? How has an offense been committed? Who are you talking about? What are you talking about?” then he commits an offense of wrong conduct."
 
 #. </p><p><a class="pts-vp-en" id="BD.2.233"></a> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.10"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.10"
 msgid "Aropite vihesake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo tuṇhībhūto saṃghaṃ viheseti, āpatti dukkaṭassa."
 msgstr "If he has not been charged with harassment, but he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then harasses the Order by remaining silent because he does not want to talk about it or reveal it, then he commits an offense of wrong conduct."
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.11"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.11"
 msgid "Ropite aññavādake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo aññenaññaṃ paṭicarati—"
 msgstr "If he has been charged with evasive speech, and he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then speaks evasively because he does not want to talk about it or reveal it, saying,"
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.12"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.12"
 msgid "“ko āpanno, kiṃ āpanno, kismiṃ āpanno, kathaṃ āpanno, kaṃ bhaṇatha, kiṃ bhaṇathā”ti, āpatti pācittiyassa."
 msgstr "“Who has committed an offense? What offense has been committed? In regard to what has an offense has been committed? How has an offense been committed? Who are you talking about? What are you talking about?” then he commits an offense entailing confession."
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc12:pts-cs3.13"
+msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.13"
 msgid "Ropite vihesake saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo tuṇhībhūto saṃghaṃ viheseti, āpatti pācittiyassa."
 msgstr "If he has been charged with harassment, and he is being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, and he then harasses the Order by remaining silent because he does not want to talk about it or reveal it, then he commits an offense entailing confession."
 

@@ -244,180 +244,180 @@ msgid "(<em>35</em>:<strong>84</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.0a"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-pc.35.3"></a><a class="pts-cs" id="bu-pc.35.3.1"></a><a class="wt-pa" id="wt-pa772"></a>
+#. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-pc.35.3"></a><a class="pts-cs" id="bu-pc.35.3.1"></a><a class="wt-pa" id="wt-pa772"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.2"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.3"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.4"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.5"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.5"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa773"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.6"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.6"
 msgid "Bhuttāvī nāma"
 msgstr "Who has eaten:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.7"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.7"
 msgid "pañcannaṃ bhojanānaṃ aññataraṃ bhojanaṃ antamaso kusaggenapi bhuttaṃ hoti."
 msgstr "who has eaten any of the five staple foods, even just what fits on the tip of a blade of grass."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa774"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.8"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.8"
 msgid "Pavārito nāma"
 msgstr "Expressed his satisfaction:"
 
 #. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.329"></a> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.9"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.9"
 msgid "asanaṃ paññāyati, bhojanaṃ paññāyati, hatthapāse ṭhito abhiharati, paṭikkhepo paññāyati."
 msgstr "there is eating; there is staple food; it is offered by one standing within arm’s reach; there is a refusal."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="wt-pa775"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.10"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.10"
 msgid "Anatirittaṃ nāma"
 msgstr "Not left over:"
 
 #. </strong><span class="gloss"><span class="note" hidden><i lang="pli">Akappiyakataṃ hoti</i>, literally, “It is done with what is not allowable.”The “it,” both here and below, refers to the ceremony of making it allowable, and the “what” refers to the food.</span>"
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.11"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.11"
 msgid "akappiyakataṃ hoti,"
 msgstr "the making it leftover is done with food that is not allowable;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.12"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.12"
 msgid "appaṭiggahitakataṃ hoti,"
 msgstr "it is done with food that has not been received;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.13"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.13"
 msgid "anuccāritakataṃ hoti,"
 msgstr "it is done with food that is not held in hand;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.14"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.14"
 msgid "ahatthapāse kataṃ hoti,"
 msgstr "it is done by one who is not within arm’s reach;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.15"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.15"
 msgid "abhuttāvinā kataṃ hoti,"
 msgstr "it is done by one who has not finished eating;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.16"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.16"
 msgid "bhuttāvinā pavāritena āsanā vuṭṭhitena kataṃ hoti,"
 msgstr "it is done by one who has finished eating, who has expressed his satisfaction, but who has risen from his seat;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.17"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.17"
 msgid "“alametaṃ sabban”ti avuttaṃ hoti,"
 msgstr "“I’ve had enough of all of this,” has not been said;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.18"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.18"
 msgid "na gilānātirittaṃ hoti—"
 msgstr "it is not leftover from one who is sick—"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.19"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.19"
 msgid "etaṃ anatirittaṃ nāma."
 msgstr "this is called “not leftover.”"
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="wt-pa776"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.20"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.20"
 msgid "Atirittaṃ nāma"
 msgstr "Left over:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.21"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.21"
 msgid "kappiyakataṃ hoti,"
 msgstr "the making it leftover is done with food that is allowable;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.22"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.22"
 msgid "paṭiggahitakataṃ hoti,"
 msgstr "it is done with food that has been received;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.23"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.23"
 msgid "uccāritakataṃ hoti,"
 msgstr "it is done with food that is held in hand;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.24"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.24"
 msgid "hatthapāse kataṃ hoti,"
 msgstr "it is done by one who is within arm’s reach;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.25"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.25"
 msgid "bhuttāvinā kataṃ hoti,"
 msgstr "it is done by one who has finished eating;"
 
 #. <a class="pts-vp-en" id="BD.2.330"></a> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.26"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.26"
 msgid "bhuttāvinā pavāritena āsanā avuṭṭhitena kataṃ hoti,"
 msgstr "it is done by one who has finished eating, who has expressed his satisfaction, and who has not risen from his seat;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.27"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.27"
 msgid "“alametaṃ sabban”ti vuttaṃ hoti,"
 msgstr "“I’ve had enough of all of this,” has been said;"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.28"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.28"
 msgid "gilānātirittaṃ hoti—"
 msgstr "it is leftover from one who is sick—"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.29"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.29"
 msgid "etaṃ atirittaṃ nāma."
 msgstr "this is called “leftover.”"
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="pts-vp-pli" id="pts-vp-pli4.83"></a><a class="wt-pa" id="wt-pa777"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.30"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.30"
 msgid "Khādanīyaṃ nāma"
 msgstr "Non-staple food:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.31"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.31"
 msgid "pañca bhojanāni—yāmakālikaṃ sattāhakālikaṃ yāvajīvikaṃ ṭhapetvā avasesaṃ khādanīyaṃ nāma."
 msgstr "apart from the five staple foods, the post-midday tonics, the seven-day tonics, and the lifetime tonics—the rest is called “non-staple food.”"
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa778"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.32"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.32"
 msgid "Bhojanīyaṃ nāma"
 msgstr "Staple food:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.33"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.33"
 msgid "pañca bhojanāni—"
 msgstr "there are five kinds of staple food:"
 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.34"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.34"
 msgid "odano, kummāso, sattu, maccho, maṃsaṃ."
 msgstr "cooked grain, porridge, flour, fish, and meat."
 
 #. </span>
 #. </p><hr><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa779"></a> 
-msgctxt "pli-tv-bu-vb-pc35:pts-cs3.35"
+msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.35"
 msgid "“Khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa ajjhohāre ajjhohāre āpatti pācittiyassa."
 msgstr "If he receives it intending to eat it, he commits an offense of wrong conduct. For every mouthful, he commits an offense entailing confession."
 

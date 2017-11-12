@@ -38,131 +38,131 @@ msgid "8. Bhūtārocanasikkhāpada"
 msgstr "Monks’ Confession 8: the training rule on telling truthfully"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.0a"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.0a"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.24"></a><a class="pts-cs" id="bu-pc.8.1"></a><a class="pts-cs" id="bu-pc.8.1.1"></a><a class="pts-vp-en" id="BD.2.208"></a><a class="wt-pa" id="wt-pa220"></a> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1"
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli4.24"></a><a class="pts-cs-empty" id="bu-pc.8.1"></a><a class="pts-cs" id="bu-pc.8.1.1"></a><a class="pts-vp-en" id="BD.2.208"></a><a class="wt-pa" id="wt-pa220"></a> 
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.1"
 msgid "Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ."
 msgstr "At one time the Buddha was staying at Vesālī in the hall with the peaked roof in the Great Wood."
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.2"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.2"
 msgid "Tena kho pana samayena sambahulā sandiṭṭhā sambhattā bhikkhū vaggumudāya nadiyā tīre vassaṃ upagacchiṃsu."
 msgstr "At that time a number of monks who were friends had entered the rains on the banks of the river Vaggumudā."
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.3"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.3"
 msgid "Tena kho pana samayena vajjī dubbhikkhā hoti—dvīhitikā setaṭṭhikā salākāvuttā, na sukarā uñchena paggahena yāpetuṃ."
 msgstr "Just then Vajjī was short of food and afflicted with hunger, with crops blighted and turned to straw, and it was not easy to get by on almsfood."
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.4"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.4"
 msgid "Atha kho tesaṃ bhikkhūnaṃ etadahosi—“etarahi kho vajjī dubbhikkhā—dvīhitikā setaṭṭhikā salākāvuttā, na sukarā uñchena paggahena yāpetuṃ."
 msgstr "The monks considered the difficult circumstances, and they thought,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.5"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.5"
 msgid "Kena nu kho mayaṃ upāyena samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vaseyyāma, na ca piṇḍakena kilameyyāmā”ti?"
 msgstr "“How can we remain united and in harmony, have a comfortable rains, and get almsfood without problems?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.6"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.6"
 msgid "Ekacce evamāhaṃsu—"
 msgstr "Some said,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.7"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.7"
 msgid "“handa mayaṃ, āvuso, gihīnaṃ kammantaṃ adhiṭṭhema."
 msgstr "“We could do work for the lay people,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.8"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.8"
 msgid "Evaṃ te amhākaṃ dātuṃ maññissanti."
 msgstr "and they’ll give something in return."
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.9"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.9"
 msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasissāma, na ca piṇḍakena kilamissāmā”ti."
 msgstr "In this way we’ll be united and in harmony, and we’ll spend the rains in comfort and have no problems getting almsfood.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.10"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.10"
 msgid "Ekacce evamāhaṃsu—"
 msgstr "Some said,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.11"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.11"
 msgid "“alaṃ, āvuso, kiṃ gihīnaṃ kammantaṃ adhiṭṭhitena?"
 msgstr "“There’s no need to do work for the lay people."
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.12"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.12"
 msgid "Handa mayaṃ, āvuso, gihīnaṃ dūteyyaṃ harāma."
 msgstr "Let’s instead take messages for them,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.13"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.13"
 msgid "Evaṃ te amhākaṃ dātuṃ maññissanti."
 msgstr "and they’ll give something in return."
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.14"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.14"
 msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasissāma, na ca piṇḍakena kilamissāmā”ti."
 msgstr "In this way we’ll be united and in harmony, and we’ll spend the rains in comfort and have no problems getting almsfood.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.15"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.15"
 msgid "Ekacce evamāhaṃsu—"
 msgstr "Some said,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.16"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.16"
 msgid "“alaṃ, āvuso; kiṃ gihīnaṃ kammantaṃ adhiṭṭhitena."
 msgstr "“There’s no need to do work for the lay people,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.17"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.17"
 msgid "Kiṃ gihīnaṃ dūteyyaṃ haṭena."
 msgstr "nor to take messages for them."
 
 #. <a class="pts-vp-en" id="BD.2.209"></a> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.18"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.18"
 msgid "Handa mayaṃ, āvuso, gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇaṃ bhāsissāma—"
 msgstr "Let’s instead praise one another’s superhuman qualities to the lay people, "
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.19"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.19"
 msgid "‘asuko bhikkhu paṭhamassa jhānassa lābhī, asuko bhikkhu dutiyassa jhānassa lābhī, asuko bhikkhu tatiyassa jhānassa lābhī, asuko bhikkhu catutthassa jhānassa lābhī, asuko bhikkhu sotāpanno, asuko bhikkhu sakadāgāmī, asuko bhikkhu anāgāmī, asuko bhikkhu arahā, asuko bhikkhu tevijjo, asuko bhikkhu chaḷabhiñño’ti."
 msgstr "‘Such a monk has the first absorption, such a monk the second absorption, such a monk the third, such a monk the fourth; such a monk is a stream-enterer, such a monk a once-returner, such a non-returner, such a perfected one; such a monk has the three true insights, and such the six direct knowledges.’"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.20"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.20"
 msgid "Evaṃ te amhākaṃ dātuṃ maññissanti."
 msgstr "Then they’ll give to us."
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.21"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.21"
 msgid "Evaṃ mayaṃ samaggā sammodamānā avivadamānā phāsukaṃ vassaṃ vasissāma, na ca piṇḍakena kilamissāmā”ti."
 msgstr "In this way we’ll be united and in harmony, and we’ll spend the rains in comfort and have no problems getting almsfood."
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.22"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.22"
 msgid "“Eso yeva kho, āvuso, seyyo, yo amhākaṃ gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇo bhāsito”ti."
 msgstr "Indeed, this is the better way, that we praise one another’s superhuman qualities to the lay people.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="wt-pa221"></a> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.23"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.23"
 msgid "Atha kho te bhikkhū gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇaṃ bhāsiṃsu—"
 msgstr "Then they praised each other’s superhuman qualities to the lay people,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.24"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.24"
 msgid "“asuko bhikkhu paṭhamassa jhānassa lābhī … pe … asuko bhikkhu chaḷabhiñño”ti."
 msgstr "“Such a monk has the first absorption … such a monk has the six direct knowledges.”"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.25"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.25"
 msgid "Atha kho te manussā—"
 msgstr "And those people thought,"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.26"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.26"
 msgid "“lābhā vata no, suladdhaṃ vata no, yesaṃ no evarūpā bhikkhū vassaṃ upagatā, na vata no ito pubbe evarūpā bhikkhū vassaṃ upagatā, yathayime bhikkhū sīlavanto kalyāṇadhammā”ti."
 msgstr "“We’re fortunate that such monks have come to us for the rains. Such monks as these, who are virtuous and of good character, have never before entered the rains with us.”"
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.27"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.27"
 msgid "Te na tādisāni bhojanāni attanā bhuñjanti, mātāpitūnaṃ denti puttadārassa denti dāsakammakaraporisassa denti mittāmaccānaṃ denti ñātisālohitānaṃ denti yādisāni bhikkhūnaṃ denti."
 msgstr "And they gave such food and drink to those monks that they did not even eat and drink themselves, or give to their parents, to their wives and children, to their slaves, servants, and workers, to their friends and companions, or to their relatives. "
 
 #. VAR: sāyanti pivanti → attanā pivanti (bj, s1-3, pts1, mr)
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.28"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.28"
 msgid "Na tādisāni khādanīyāni sāyanīyāni pānāni attanā khādanti sāyanti pivanti mātāpitūnaṃ denti puttadārassa denti dāsakammakaraporisassa denti mittāmaccānaṃ denti ñātisālohitānaṃ denti, yādisāni bhikkhūnaṃ denti."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs1.29"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs1.1.29"
 msgid "Atha kho te bhikkhū vaṇṇavā ahesuṃ pīṇindriyā pasannamukhavaṇṇā vippasannachavivaṇṇā."
 msgstr "In this way those monks became handsome, with rounded features, bright faces, and clear skin."
 
@@ -298,174 +298,174 @@ msgid "(<em>8</em>:<strong>57</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.0a"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-pc.8.2"></a><a class="pts-cs" id="bu-pc.8.2.1"></a><a class="wt-pa" id="wt-pa225"></a>
+#. </h2><p><a class="sc" id="6"></a><a class="pts-cs-empty" id="bu-pc.8.2"></a><a class="pts-cs" id="bu-pc.8.2.1"></a><a class="wt-pa" id="wt-pa225"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span><strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.4"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa226"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.5"
 msgid "Anupasampanno nāma"
 msgstr "A person who is not fully ordained:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.6"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.6"
 msgid "bhikkhuñca bhikkhuniñca ṭhapetvā, avaseso anupasampanno nāma."
 msgstr "anyone except a fully ordained monk and a fully ordained nun."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa227"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.7"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.7"
 msgid "Uttarimanussadhammo nāma"
 msgstr "A superhuman quality:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.8"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.8"
 msgid "jhānaṃ, vimokkho, samādhi, samāpatti, ñāṇadassanaṃ, maggabhāvanā, phalasacchikiriyā, kilesappahānaṃ, vinīvaraṇatā cittassa, suññāgāre abhirati."
 msgstr "absorption, release, stillness, attainment, knowledge and vision, development of the path, realization of the fruits, abandoning the defilements, a mind without hindrances, delighting in solitude."
 
 #. </span>
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.8a"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.8a"
 msgid ""
 msgstr "Permutations"
 
 #. </h2><h4>
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.8b"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.8b"
 msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa228"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.9"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.9"
 msgid "Jhānanti"
 msgstr "Absorption:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.10"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.10"
 msgid "paṭhamaṃ jhānaṃ, dutiyaṃ jhānaṃ, tatiyaṃ jhānaṃ, catutthaṃ jhānaṃ."
 msgstr "the first absorption, the second absorption, the third absorption, the fourth absorption."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa229"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.11"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.11"
 msgid "Vimokkhoti"
 msgstr "Release:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.12"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.12"
 msgid "suññato vimokkho, animitto vimokkho, appaṇihito vimokkho."
 msgstr "emptiness release, signless release, desireless release."
 
 #. </span></p><p><a class="sc" id="11"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.13"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.13"
 msgid "Samādhīti"
 msgstr "Stillness:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.14"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.14"
 msgid "suññato samādhi, animitto samādhi, appaṇihito samādhi."
 msgstr "emptiness stillness, signless stillness, desireless stillness."
 
 #. </span></p><p><a class="sc" id="12"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.15"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.15"
 msgid "Samāpattīti"
 msgstr "Attainment:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.16"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.16"
 msgid "suññatā samāpatti, animittā samāpatti, appaṇihitā samāpatti."
 msgstr "emptiness attainment, signless attainment, desireless attainment."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="pts-vp-pli" id="pts-vp-pli4.26"></a><a class="wt-pa" id="wt-pa232"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.17"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.17"
 msgid "Ñāṇadassananti"
 msgstr "Knowledge and vision:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.18"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.18"
 msgid "tisso vijjā."
 msgstr "the three true insights."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa233"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.19"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.19"
 msgid "Maggabhāvanāti"
 msgstr "Development of the path:"
 
 #. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.212"></a> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.20"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.20"
 msgid "cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo."
 msgstr "the four applications of mindfulness, the four right efforts, the four bases of supernormal power, the five spiritual faculties, the five spiritual powers, the seven factors of awakening, the noble eightfold path."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa234"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.21"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.21"
 msgid "Phalasacchikiriyāti"
 msgstr "Realization of the fruits:"
 
 #. </strong><span class="gloss"> 
 #. VAR: arahattassa → arahat­ta­phalassa (s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.22"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.22"
 msgid "sotāpattiphalassa sacchikiriyā, sakadāgāmiphalassa sacchikiriyā, anāgāmiphalassa sacchikiriyā, arahattassa sacchikiriyā."
 msgstr "realization of the fruit of stream-entry, realization of the fruit of once-returning, realization of the fruit of non-returning, realization of perfection."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa235"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.23"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.23"
 msgid "Kilesappahānanti"
 msgstr "Abandoning the defilements:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.24"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.24"
 msgid "rāgassa pahānaṃ, dosassa pahānaṃ, mohassa pahānaṃ."
 msgstr "the abandoning of sensual desire, the abandoning of ill-will, the abandoning of confusion."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="wt-pa236"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.25"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.25"
 msgid "Vinīvaraṇatā cittassāti"
 msgstr "A mind without hindrances:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.26"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.26"
 msgid "rāgā cittaṃ vinīvaraṇatā, dosā cittaṃ vinīvaraṇatā, mohā cittaṃ vinīvaraṇatā."
 msgstr "a mind without sensual desire, a mind without ill-will, a mind without confusion."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa237"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.27"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.27"
 msgid "Suññāgāre abhiratīti"
 msgstr "Delighting in solitude:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc8:pts-cs2.28"
+msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.28"
 msgid "paṭhamena jhānena suññāgāre abhirati, dutiyena jhānena suññāgāre abhirati, tatiyena jhānena suññāgāre abhirati, catutthena jhānena suññāgāre abhirati."
 msgstr "because of the first absorption there is delight in solitude, because of the second absorption there is delight in solitude, because of the third absorption there is delight in solitude, because of the fourth absorption there is delight in solitude."
 

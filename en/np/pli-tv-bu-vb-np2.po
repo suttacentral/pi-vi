@@ -327,102 +327,102 @@ msgid "(<em>2</em>:<strong>21</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.0a"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="11"></a><a class="pts-cs" id="bu-np.2.3"></a><a class="pts-cs" id="bu-np.2.3.1"></a><a class="wt-pa" id="1893"></a>
+#. </h2><p><a class="sc" id="11"></a><a class="pts-cs-empty" id="bu-np.2.3"></a><a class="pts-cs" id="bu-np.2.3.1"></a><a class="wt-pa" id="1893"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.1"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.1"
 msgid "Niṭṭhitacīvarasminti"
 msgstr "When his robe is finished:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>This refers to robe-cloth received during the robe-making season. For details see <span class="ref">Mv.7.2-7.12</span>.</span> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.2"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.2"
 msgid "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
 msgstr "the monk has made a robe, or the robe-cloth has been lost, destroyed, or burnt, or he has abandoned his expectation of receiving further robe-cloth."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="1894"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.3"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.3"
 msgid "Ubbhatasmiṃ kathineti"
 msgstr "The robe-making season has ended:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>For an explanation of this see <span class="ref">Mv.7.1.7</span> and <span class="ref">Mv.7.2-7.12</span>.</span> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.4"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.4"
 msgid "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
 msgstr "it has ended according to one of the eight headings or the Order has ended it, whichever comes first."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="1895"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.5"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.5"
 msgid "Ekarattampi ce bhikkhu ticīvarena vippavaseyyāti"
 msgstr "If a monk stays apart from his three robes even for a single day:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.6"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.6"
 msgid "saṅghāṭiyā vā uttarāsaṅgena vā antaravāsakena vā."
 msgstr "from the outer robe, from the upper robe, or from the lower robe."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="1896"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.7"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.7"
 msgid "Aññatra bhikkhusammutiyāti"
 msgstr "Except if the monks have agreed:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.8"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.8"
 msgid "ṭhapetvā bhikkhusammutiṃ."
 msgstr "unless he has the permission of the monks."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli3.200"></a><a class="wt-pa" id="1897"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.9"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.9"
 msgid "Nissaggiyaṃ hotīti"
 msgstr "Entailing relinquishment:"
 
 #. </strong><span class="gloss"> 
 #. VAR: aruṇuggamanā → aruṇuggamanena (bj, s1-3)
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.10"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.10"
 msgid "saha aruṇuggamanā nissaggiyaṃ hoti."
 msgstr "it becomes subject to relinquishment at dawn."
 
 #. </span></p><hr><p>
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.11"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.11"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
 msgstr "The robe should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.12"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.12"
 msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
 msgstr "“And, monks, it should be relinquished in this way. …"
 
 #. <span class="add"> 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.13"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.13"
 msgid "pe …"
 msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1/23-29\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span><a class="pts-vp-en" id="bd.2.16"></a> 
 #. VAR: rattivippavutthaṃ → rattiṃ vippavutthaṃ (bj, pts1)
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.14"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.14"
 msgid "“idaṃ me, bhante, cīvaraṃ rattivippavutthaṃ aññatra bhikkhusammutiyā nissaggiyaṃ,"
 msgstr "‘Venerables, this robe which I have stayed apart from for one day without the permission of the monks is to be relinquished."
 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.15"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.15"
 msgid "imāhaṃ saṃghassa nissajjāmī”ti … pe …"
 msgstr "I relinquish it to the Order.’ …"
 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.16"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.16"
 msgid "dadeyyāti … pe …"
 msgstr "the Order should give …"
 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.17"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.17"
 msgid "dadeyyunti … pe …"
 msgstr "you should give …"
 
-msgctxt "pli-tv-bu-vb-np2:pts-cs3.18"
+msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.18"
 msgid "āyasmato dammīti."
 msgstr "‘I give this robe back to you.’”"
 

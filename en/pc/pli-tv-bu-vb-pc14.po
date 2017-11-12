@@ -38,72 +38,72 @@ msgid "14. Senāsanasikkhāpada"
 msgstr "Monks’ Confession 14: the training rule on furniture"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.0a"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.0a"
 msgid ""
 msgstr "Origin story"
 
 #. </h2><h3>
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.0b"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.0b"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-pc.14.1"></a><a class="pts-cs" id="bu-pc.14.1.1"></a><a class="pts-vp-en" id="BD.2.238"></a><a class="wt-pa" id="wt-pa380"></a> 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1"
+#. </h3><p><a class="sc" id="1"></a><a class="pts-cs-empty" id="bu-pc.14.1"></a><a class="pts-cs" id="bu-pc.14.1.1"></a><a class="pts-vp-en" id="BD.2.238"></a><a class="wt-pa" id="wt-pa380"></a> 
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.2"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.2"
 msgid "Tena kho pana samayena bhikkhū hemantike kāle ajjhokāse senāsanaṃ paññapetvā kāyaṃ otāpentā kāle ārocite taṃ pakkamantā neva uddhariṃsu na uddharāpesuṃ, anāpucchā pakkamiṃsu."
 msgstr "At that time it was winter, and the monks put furniture out in the open in order to warm themselves in the sun. But when the time for departure was announced, they left without putting it away, getting it put away, or telling anyone."
 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.3"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.3"
 msgid "Senāsanaṃ ovaṭṭhaṃ hoti."
 msgstr "And the furniture was rained on."
 
 #. </p><p> 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.4"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.4"
 msgid "Ye te bhikkhū appicchā … pe …"
 msgstr "The monks of few desires …"
 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.5"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.5"
 msgid "te ujjhāyanti khiyyanti vipācenti—"
 msgstr "complained and criticized them,"
 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.6"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.6"
 msgid "“kathaṃ hi nāma bhikkhū ajjhokāse senāsanaṃ paññapetvā taṃ pakkamantā neva uddharissanti na uddharāpessanti, anāpucchā pakkamissanti, senāsanaṃ ovaṭṭhan”ti."
 msgstr "“How can those monks put furniture out in the open and then leave without putting it away, getting it put away, or telling anyone? The furniture was rained on.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="wt-pa381"></a> 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.7"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.7"
 msgid "Atha kho te bhikkhū te anekapariyāyena vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "After criticizing those monks in many ways, they told the Master.…"
 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.8"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.8"
 msgid "“saccaṃ kira, bhikkhave, bhikkhū ajjhokāse … pe …"
 msgstr "“Is it true, monks, that you did this?…"
 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.9"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.9"
 msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And, monks, this training rule should be recited thus:"
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.9a"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.9a"
 msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa382"></a><a class="pts-vp-en" id="BD.2.239"></a>
 #. <strong class="rule"> 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.10"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.10"
 msgid "“Yo pana bhikkhu saṃghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk takes a bed, a bench, a mattress, or a stool belonging to the Order and puts it out in the open or gets it put out, and he then leaves without putting it away, getting it put away, or telling anyone, he commits an offense entailing confession.’”"
 
 #. </strong> 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.11"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.11"
 msgid "(<em>14</em>:<strong>63</strong>)"
 msgstr ""
 
 #. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa383"></a> 
-msgctxt "pli-tv-bu-vb-pc14:pts-cs1.12"
+msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.12"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 

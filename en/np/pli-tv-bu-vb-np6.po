@@ -41,102 +41,102 @@ msgid "6. Aññātakaviññattisikkhāpada"
 msgstr "6. The training rule on asking non-relations"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.0a"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.0a"
 msgid ""
 msgstr "Origin story"
 
 #. </h2><h3>
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.0b"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.0b"
 msgid ""
 msgstr "First sub-story"
 
-#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.211"></a><a class="pts-cs" id="bu-np.6.1"></a><a class="pts-cs" id="bu-np.6.1.1"></a><a class="pts-vp-en" id="bd.2.42"></a><a class="wt-pa" id="1974"></a> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.1"
+#. </h3><p><a class="sc" id="1"></a><a class="pts-vp-pli" id="pts-vp-pli3.211"></a><a class="pts-cs-empty" id="bu-np.6.1"></a><a class="pts-cs" id="bu-np.6.1.1"></a><a class="pts-vp-en" id="bd.2.42"></a><a class="wt-pa" id="1974"></a> 
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
 #. VAR: paṭṭo → paṭṭho (s1-3, pts1, mr)
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.2"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.2"
 msgid "Tena kho pana samayena āyasmā upanando sakyaputto paṭṭo hoti dhammiṃ kathaṃ kātuṃ."
 msgstr "At that time Venerable Upananda the Sakyan was skilled at teaching."
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.3"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.3"
 msgid "Atha kho aññataro seṭṭhiputto yenāyasmā upanando sakyaputto tenupasaṅkami;"
 msgstr "On one occasion the son of a prominent merchant approached Upananda,"
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.4"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.4"
 msgid "upasaṅkamitvā āyasmantaṃ upanandaṃ sakyaputtaṃ abhivādetvā ekamantaṃ nisīdi."
 msgstr "bowed down to him, and sat down to one side."
 
 #. <a class="pts-vp-en" id="bd.2.43"></a> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.5"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.5"
 msgid "Ekamantaṃ nisinnaṃ kho taṃ seṭṭhiputtaṃ āyasmā upanando sakyaputto dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi."
 msgstr "And Upananda instructed, inspired, and gladdened him with a teaching."
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.6"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.6"
 msgid "Atha kho so seṭṭhiputto āyasmatā upanandena sakyaputtena dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito āyasmantaṃ upanandaṃ sakyaputtaṃ etadavoca—"
 msgstr "Afterwards that merchant’s son said to Upananda:"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.7"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.7"
 msgid "“vadeyyātha, bhante, yena attho."
 msgstr "“Venerable, please tell me what you need."
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.8"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.8"
 msgid "Paṭibalā mayaṃ ayyassa dātuṃ yadidaṃ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāran”ti."
 msgstr "I’m able to give you robe-cloth, almsfood, dwellings, and medicines.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.9"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.9"
 msgid "“Sace me tvaṃ, āvuso, dātukāmosi, ito ekaṃ sāṭakaṃ dehī”ti."
 msgstr "“If you wish to give me something, then give me one of your robes.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.10"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.10"
 msgid "“Amhākaṃ kho, bhante, kulaputtānaṃ kismiṃ viya ekasāṭakaṃ gantuṃ."
 msgstr "“Venerable, it’s shameful for the son of a good family to walk around in only one robe."
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.11"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.11"
 msgid "Āgamehi, bhante, yāva gharaṃ gacchāmi."
 msgstr "Please wait until I get back home."
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.12"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.12"
 msgid "Gharaṃ gato ito vā ekaṃ sāṭakaṃ pahiṇissāmi ito vā sundarataran”ti."
 msgstr "I’ll send you this robe or a better one.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="1975"></a> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.13"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.13"
 msgid "Dutiyampi kho āyasmā upanando sakyaputto taṃ seṭṭhiputtaṃ etadavoca—"
 msgstr "A second time"
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.14"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.14"
 msgid "“sace me tvaṃ, āvuso, dātukāmosi ito ekaṃ sāṭakaṃ dehī”ti."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.15"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.15"
 msgid "Amhākaṃ kho bhante kulaputtānaṃ kismiṃ viya ekasāṭakaṃ gantuṃ, āgamehi, bhante yāva gharaṃ gacchāmi, gharaṃ gato ito vā ekaṃ sāṭakaṃ pahiṇissāmi ito vā sundarataranti."
 msgstr ""
 
 #. </p><p><a class="sc" id="3"></a> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.16"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.16"
 msgid "Tatiyampi kho āyasmā upanando sakyaputto taṃ seṭṭhiputtaṃ etadavoca—"
 msgstr "and a third time Upananda said"
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.17"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.17"
 msgid "“sace me tvaṃ, āvuso, dātukāmosi, ito ekaṃ sāṭakaṃ dehī”ti."
 msgstr "the same thing to that merchant’s son,"
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.18"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.18"
 msgid "Amhākaṃ kho, bhante, kulaputtānaṃ kismiṃ viya ekasāṭakaṃ gantuṃ, āgamehi, bhante yāva gharaṃ gacchāmi, gharaṃ gato ito vā ekaṃ sāṭakaṃ pahiṇissāmi ito vā sundarataranti."
 msgstr "and he got the same reply."
 
 #. <a class="pts-vp-en" id="bd.2.44"></a> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.19"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.19"
 msgid "“Kiṃ pana tayā, āvuso, adātukāmena pavāritena yaṃ tvaṃ pavāretvā na desī”ti."
 msgstr "He then said, “What’s the point of making an offer if you don’t want to give?”"
 
 #. </p><p><a class="sc" id="4"></a><a class="wt-pa" id="1977"></a> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs1.20"
+msgctxt "pli-tv-bu-vb-np6:pts-cs1.1.20"
 msgid "Atha kho so seṭṭhiputto āyasmatā upanandena sakyaputtena nippīḷiyamāno ekaṃ sāṭakaṃ datvā agamāsi."
 msgstr "Being pressured by Upananda, that merchant’s son gave him one of his robes and left."
 
@@ -407,111 +407,111 @@ msgid "(<em>6</em>:<strong>25</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.0a"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="12"></a><a class="pts-cs" id="bu-np.6.3"></a><a class="pts-cs" id="bu-np.6.3.1"></a><a class="wt-pa" id="1985"></a>
+#. </h2><p><a class="sc" id="12"></a><a class="pts-cs-empty" id="bu-np.6.3"></a><a class="pts-cs" id="bu-np.6.3.1"></a><a class="wt-pa" id="1985"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.1"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.2"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.3"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.4"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.5"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.5"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="1986"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.6"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.6"
 msgid "Aññātako nāma"
 msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.7"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.7"
 msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="1987"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.8"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.8"
 msgid "Gahapati nāma"
 msgstr "A layman:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.9"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.9"
 msgid "yo koci agāraṃ ajjhāvasati."
 msgstr "any man who lives in a house."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="1988"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.10"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.10"
 msgid "Gahapatānī nāma"
 msgstr "A laywoman:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.11"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.11"
 msgid "yā kāci agāraṃ ajjhāvasati."
 msgstr "any woman who lives in a house."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="pts-vp-pli" id="pts-vp-pli3.213"></a><a class="pts-vp-en" id="bd.2.48"></a><a class="wt-pa" id="1989"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.12"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.12"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
 #. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.13"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.13"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="1990"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.14"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.14"
 msgid "Aññatra samayāti"
 msgstr "Unless there is an appropriate reason:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.15"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.15"
 msgid "ṭhapetvā samayaṃ."
 msgstr "except at an appropriate time."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="1991"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.16"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.16"
 msgid "Acchinnacīvaro nāma"
 msgstr "His robes are stolen:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.17"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.17"
 msgid "bhikkhussa cīvaraṃ acchinnaṃ hoti rājūhi vā corehi vā dhuttehi vā, yehi kehici vā acchinnaṃ hoti."
 msgstr "a monk’s robe is taken by kings, bandits, scoundrels, or anyone whomsoever."
 
 #. </span></p><p><a class="sc" id="19"></a><a class="wt-pa" id="1992"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.18"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.18"
 msgid "Naṭṭhacīvaro nāma"
 msgstr "His robes are destroyed:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np6:pts-cs3.19"
+msgctxt "pli-tv-bu-vb-np6:pts-cs3.1.19"
 msgid "bhikkhussa cīvaraṃ agginā vā daḍḍhaṃ hoti, udakena vā vūḷhaṃ hoti, undūrehi vā upacikāhi vā khāyitaṃ hoti, paribhogajiṇṇaṃ vā hoti."
 msgstr "a monk’s robe is burnt by fire, carried away by water, eaten by rats or termites, or worn through use."
 

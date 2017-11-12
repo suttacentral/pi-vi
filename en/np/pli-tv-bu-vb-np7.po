@@ -206,174 +206,174 @@ msgid "(<em>7</em>:<strong>26</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.0a"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.7.2"></a><a class="pts-cs" id="bu-np.7.2.1"></a><a class="wt-pa" id="2003"></a>
+#. </h2><p><a class="sc" id="6"></a><a class="pts-cs-empty" id="bu-np.7.2"></a><a class="pts-cs" id="bu-np.7.2.1"></a><a class="wt-pa" id="2003"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.1"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.1"
 msgid "Tañceti"
 msgstr "That monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.2"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.2"
 msgid "acchinnacīvarakaṃ bhikkhuṃ."
 msgstr "the monk whose robes have been stolen."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2004"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.3"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.3"
 msgid "Aññātako nāma"
 msgstr "Unrelated:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.4"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.4"
 msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2005"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.5"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.5"
 msgid "Gahapati nāma"
 msgstr "A layman:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.6"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.6"
 msgid "yo koci agāraṃ ajjhāvasati."
 msgstr "any man who lives in a house."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2006"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.7"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.7"
 msgid "Gahapatānī nāma"
 msgstr "A laywoman:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.8"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.8"
 msgid "yā kāci agāraṃ ajjhāvasati."
 msgstr "any woman who lives in a house."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2007"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.9"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.9"
 msgid "Bahūhi cīvarehīti"
 msgstr "Much robe-cloth:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.10"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.10"
 msgid "bahukehi cīvarehi."
 msgstr "a lot of robe-cloth."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2008"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.11"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.11"
 msgid "Abhihaṭṭhuṃ pavāreyyāti"
 msgstr "Invites […] to take:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.12"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.12"
 msgid "yāvatakaṃ icchasi tāvatakaṃ gaṇhāhīti."
 msgstr "saying, “Take as many as you like.”"
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2009"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.13"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.13"
 msgid "Santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbanti"
 msgstr "He should accept at most robe-cloth for one lower robe and one upper robe:"
 
 #. </strong><a class="pts-vp-en" id="bd.2.52"></a><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.14"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.14"
 msgid "sace tīṇi naṭṭhāni honti dve sāditabbāni,"
 msgstr "if three robes are destroyed, he should accept robe-cloth for two;"
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.15"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.15"
 msgid "dve naṭṭhāni ekaṃ sāditabbaṃ,"
 msgstr "if two robes are destroyed, he should accept robe-cloth for one;"
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.16"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.16"
 msgid "ekaṃ naṭṭhaṃ na kiñci sāditabbaṃ."
 msgstr "if one robe is destroyed, he should not accept any robe-cloth."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="pts-vp-pli" id="pts-vp-pli3.215"></a><a class="wt-pa" id="2010"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.17"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.17"
 msgid "Tato ce uttari sādiyeyyāti"
 msgstr "If he accepts more than that:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.18"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.18"
 msgid "tatuttari viññāpeti, payoge dukkaṭaṃ."
 msgstr "for the act of asking for more than that, he commit an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.19"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.19"
 msgid "Paṭilābhena nissaggiyaṃ hoti."
 msgstr "When he gets the robe-cloth, it becomes subject to relinquishment."
 
 #. </span></p><hr><p>
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.20"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.20"
 msgid "Nissajjitabbaṃ saṃghassa vā gaṇassa vā puggalassa vā."
 msgstr "The robe-cloth should be relinquished to an Order, a group, or an individual."
 
 #. <span class="kamma"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.21"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.21"
 msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
 msgstr "“And, monks, it should be relinquished in this way. …"
 
 #. <span class="add"> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.22"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.22"
 msgid "pe …"
 msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1#13\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.23"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.23"
 msgid "“idaṃ me, bhante, cīvaraṃ aññātakaṃ gahapatikaṃ upasaṅkamitvā tatuttari viññāpitaṃ nissaggiyaṃ."
 msgstr "‘Venerables, this robe-cloth which I received after asking an unrelated lay person for too much is to be relinquished."
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.24"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.24"
 msgid "Imāhaṃ saṃghassa nissajjāmī”ti … pe …"
 msgstr "I relinquish it to the Order.’ …"
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.25"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.25"
 msgid "dadeyyāti … pe …"
 msgstr "the Order should give …"
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.26"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.26"
 msgid "dadeyyunti … pe …"
 msgstr "you should give …"
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.27"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.27"
 msgid "āyasmato dammīti."
 msgstr "‘I give this robe-cloth back to you.’”"
 
 #. </span></p><h2>
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.27a"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.27a"
 msgid ""
 msgstr "Permutations"
 
 #. </h2><p><a class="sc" id="14"></a> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.28"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.28"
 msgid "Aññātake aññātakasaññī tatuttari cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the person is unrelated and the monk perceives them as unrelated, and he asks them for too much robe-cloth, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.29"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.29"
 msgid "Aññātake vematiko tatuttari cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the person is unrelated, but the monk is unsure if they are, and he asks them for too much robe-cloth, he commits an offense entailing relinquishment and confession."
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.30"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.30"
 msgid "Aññātake ñātakasaññī tatuttari cīvaraṃ viññāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the person is unrelated, but the monk perceives them as related, and he asks them for too much robe-cloth, he commits an offense entailing relinquishment and confession."
 
 #. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="2012"></a> 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.31"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.31"
 msgid "Ñātake aññātakasaññī, āpatti dukkaṭassa."
 msgstr "If the person is related, but the monk perceives them as unrelated, he commit an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.32"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.32"
 msgid "Ñātake vematiko, āpatti dukkaṭassa."
 msgstr "If the person is related, but the monk is unsure if they are, he commit an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-np7:pts-cs2.33"
+msgctxt "pli-tv-bu-vb-np7:pts-cs2.1.33"
 msgid "Ñātake ñātakasaññī, anāpatti."
 msgstr "If the person is related and the monk perceives them as related, there is no offense."
 

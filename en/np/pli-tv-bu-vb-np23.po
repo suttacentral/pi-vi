@@ -41,165 +41,165 @@ msgid "23. Bhesajjasikkhāpada"
 msgstr "23. The training rule on tonics"
 
 #. </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.0a"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.0a"
 msgid ""
 msgstr "Origin story"
 
-#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-np.23.1"></a><a class="pts-cs" id="bu-np.23.1.1"></a><a class="pts-vp-en" id="bd.2.126"></a><a class="wt-pa" id="2307"></a> 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.1"
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs-empty" id="bu-np.23.1"></a><a class="pts-cs" id="bu-np.23.1.1"></a><a class="pts-vp-en" id="bd.2.126"></a><a class="wt-pa" id="2307"></a> 
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.1"
 msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
 msgstr "At one time the Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.2"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.2"
 msgid "Tena kho pana samayena āyasmā pilindavaccho rājagahe pabbhāraṃ sodhāpeti leṇaṃ kattukāmo."
 msgstr "At that time Venerable Pilindavaccha wanted to build a shelter, and he was having a hillside cleared near Rājagaha."
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.3"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.3"
 msgid "Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami;"
 msgstr "On that occasion King Seniya Bimbisāra of Magadha went to Pilindavaccha,"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.4"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.4"
 msgid "upasaṅkamitvā āyasmantaṃ pilindavacchaṃ abhivādetvā ekamantaṃ nisīdi."
 msgstr "bowed down to him, sat down to one side,"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.5"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.5"
 msgid "Ekamantaṃ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṃ pilindavacchaṃ etadavoca—"
 msgstr "and said,"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.6"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.6"
 msgid "“kiṃ, bhante, thero kārāpetī”ti?"
 msgstr "“Venerable, what are you having made?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.7"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.7"
 msgid "“Pabbhāraṃ, mahārāja, sodhāpemi leṇaṃ kattukāmo”ti."
 msgstr "“I’m clearing the hillside, great king, because I want to build a shelter.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.8"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.8"
 msgid "“Attho, bhante, ayyassa ārāmikenā”ti?"
 msgstr "“Do you need a monastery worker?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.9"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.9"
 msgid "“Na kho, mahārāja, bhagavatā ārāmiko anuññāto”ti."
 msgstr "“The Master hasn’t allowed monastery workers.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.10"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.10"
 msgid "“Tena hi, bhante, bhagavantaṃ paṭipucchitvā mama āroceyyāthā”ti."
 msgstr "“Well then, Venerable, please ask the Master and tell me the outcome.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.11"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.11"
 msgid "“Evaṃ, mahārājā”ti kho āyasmā pilindavaccho rañño māgadhassa seniyassa bimbisārassa paccassosi."
 msgstr "“Yes, great king.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.12"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.12"
 msgid "Atha kho āyasmā pilindavaccho rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi."
 msgstr "And Pilindavaccha instructed, inspired, and gladdened King Bimbisāra with a teaching."
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.13"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.13"
 msgid "Atha kho rājā māgadho seniyo bimbisāro āyasmatā pilindavacchena dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito uṭṭhāyāsanā āyasmantaṃ pilindavacchaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi."
 msgstr "The king rose from his seat, bowed down to Pilindavaccha, circumambulated him with his right side towards him, and departed."
 
 #. </p><p><a class="sc" id="2"></a><a class="pts-vp-pli" id="pts-vp-pli3.249"></a><a class="wt-pa" id="2308"></a> 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.14"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.14"
 msgid "Atha kho āyasmā pilindavaccho bhagavato santike dūtaṃ pāhesi—"
 msgstr "Soon afterwards Pilindavaccha sent a message to the Master:"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.15"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.15"
 msgid "“rājā, bhante, māgadho seniyo bimbisāro ārāmikaṃ dātukāmo."
 msgstr "“Venerable Sir, King Seniya Bimbisāra of Magadha wishes to provide a monastery worker."
 
 #. <a class="pts-vp-en" id="bd.2.127"></a> 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.16"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.16"
 msgid "Kathaṃ nu kho, bhante, mayā paṭipajjitabban”ti?"
 msgstr "What should I do?”"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.17"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.17"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "The Master then gave a teaching and addressed the monks,"
 
 #. <strong class="rule"> 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.18"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.18"
 msgid "“anujānāmi, bhikkhave, ārāmikan”ti."
 msgstr "“Monks, I allow monastery workers.”"
 
 #. </strong></p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.19"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.19"
 msgid "Dutiyampi kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami;"
 msgstr "Once again King Bimbisāra went to Pilindavaccha,"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.20"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.20"
 msgid "upasaṅkamitvā āyasmantaṃ pilindavacchaṃ abhivādetvā ekamantaṃ nisīdi."
 msgstr "bowed down to him, and sat down to one side."
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.21"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.21"
 msgid "Ekamantaṃ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṃ pilindavacchaṃ etadavoca—"
 msgstr "And said,"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.22"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.22"
 msgid "“anuññāto, bhante, bhagavatā ārāmiko”ti?"
 msgstr "“Venerable, has the Master allowed monastery workers?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.23"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.23"
 msgid "“Evaṃ, mahārājā”ti."
 msgstr "“Yes, great king.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.24"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.24"
 msgid "“Tena hi, bhante, ayyassa ārāmikaṃ dammī”ti."
 msgstr "“Well then, I’ll provide you with a monastery worker.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.25"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.25"
 msgid "Atha kho rājā māgadho seniyo bimbisāro āyasmato pilindavacchassa ārāmikaṃ paṭissuṇitvā vissaritvā cirena satiṃ paṭilabhitvā aññataraṃ sabbatthakaṃ mahāmattaṃ āmantesi—"
 msgstr "But after promising a monastery worker to Pilindavaccha, he forgot about it. He only remembered after a long time. He then addressed the minister in charge of all practical affairs,"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.26"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.26"
 msgid "“yo mayā, bhaṇe, ayyassa ārāmiko paṭissuto, dinno so ārāmiko”ti?"
 msgstr "“Listen, has the monastery worker I promised been provided?”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.27"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.27"
 msgid "“Na kho, deva, ayyassa ārāmiko dinno”ti."
 msgstr "“No, sir, he hasn’t.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.28"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.28"
 msgid "“Kīvaciraṃ nu kho, bhaṇe, ito hi taṃ hotī”ti?"
 msgstr "“How long is it since we made that promise?”"
 
 #. </p><p>
 #. VAR: gaṇetvā → vigaṇetvā (bj, pts1, mr)
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.29"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.29"
 msgid "Atha kho so mahāmatto rattiyo gaṇetvā rājānaṃ māgadhaṃ seniyaṃ bimbisāraṃ etadavoca—"
 msgstr "The minister counted the days and said,"
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.30"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.30"
 msgid "“pañca, deva, rattisatānī”ti."
 msgstr "“It’s five hundred days, sir.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.31"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.31"
 msgid "“Tena hi, bhaṇe, ayyassa pañca ārāmikasatāni dehī”ti."
 msgstr "“Well then, provide him with five hundred monastery workers.”"
 
 #. </p><p>
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.32"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.32"
 msgid "“Evaṃ, devā”ti"
 msgstr "“Yes, sir.”"
 
 #. </p><p><a class="pts-vp-en" id="bd.2.128"></a> 
 #. VAR: pādāsi → adāsi (s1-3)
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.33"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.33"
 msgid "kho so mahāmatto rañño māgadhassa seniyassa bimbisārassa paṭissuṇitvā āyasmato pilindavacchassa pañca ārāmikasatāni pādāsi, pāṭiyekko gāmo nivisi."
 msgstr "The minister provided Pilindavaccha with five hundred monastery workers, and a separate village was established."
 
-msgctxt "pli-tv-bu-vb-np23:pts-cs1.34"
+msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.34"
 msgid "Ārāmikagāmakotipi naṃ āhaṃsu, pilindagāmakotipi naṃ āhaṃsu."
 msgstr "They called it “The Monastery Workers’ Village” and “Pilinda Village.”"
 

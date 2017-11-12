@@ -227,68 +227,68 @@ msgid "(<em>1</em>:<strong>20</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.0a"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-np.1.3"></a><a class="pts-cs" id="bu-np.1.3.1"></a><a class="pts-vp-en" id="bd.2.6"></a><a class="wt-pa" id="1868"></a>
+#. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-np.1.3"></a><a class="pts-cs" id="bu-np.1.3.1"></a><a class="pts-vp-en" id="bd.2.6"></a><a class="wt-pa" id="1868"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.1"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.1"
 msgid "Niṭṭhitacīvarasminti"
 msgstr "When his robe is finished:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>This refers to the robe-cloth received during the robe-making season. For details see <span class="ref">Mv.7.2-7.12</span>.</span> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.2"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.2"
 msgid "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
 msgstr "the monk has made a robe, or the robe-cloth has been lost, destroyed, or burnt, or he has abandoned his expectation of receiving further robe-cloth."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="1869"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.3"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.3"
 msgid "Ubbhatasmiṃ kathineti"
 msgstr "The robe-making season has ended:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>For an explanation of this see <span class="ref">Mv.7.1.7</span> and <span class="ref">Mv.7.2-7.12</span>.</span> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.4"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.4"
 msgid "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
 msgstr "it has ended according to one of the eight headings or the Order has ended it, whichever comes first."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="1870"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.5"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.5"
 msgid "Dasāhaparamanti"
 msgstr "For ten days at the most:"
 
 #. </strong><span class="gloss"> 
 #. VAR: dasāhaparamatā → dasāha­parama­tāya (si)
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.6"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.6"
 msgid "dasāhaparamatā dhāretabbaṃ."
 msgstr "it should be kept for ten days at a maximum."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="pts-vp-en" id="bd.2.7"></a><a class="wt-pa" id="1871"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.7"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.7"
 msgid "Atirekacīvaraṃ nāma"
 msgstr "Extra robe-cloth:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>“Transferred” is a rendering of <i lang="pli">vikappita</i>. The explanation given at <i lang="pli">pācittiya</i> 59 seems to make it clear that <i lang="pli">vikappanā</i> refers to a change in ownership. The word commentary specifically says that the item is given to someone else and that the monk giving it up may use it only if he takes their belonging on trust.</span> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.8"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.8"
 msgid "anadhiṭṭhitaṃ avikappitaṃ."
 msgstr "robe-cloth that is not determined, nor transferred."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="1872"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.9"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.9"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
 #. </strong><span class="gloss">
 #. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp, see <span class="ref">Mv.8.3.1</span>.</span>
 #. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
-msgctxt "pli-tv-bu-vb-np1:pts-cs3.10"
+msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.10"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 

@@ -206,71 +206,71 @@ msgid "(<em>39</em>:<strong>88</strong>)"
 msgstr ""
 
 #. </p><h2>
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.0a"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.39.3"></a><a class="pts-cs" id="bu-pc.39.3.1"></a><a class="wt-pa" id="wt-pa830"></a>
+#. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-pc.39.3"></a><a class="pts-cs" id="bu-pc.39.3.1"></a><a class="wt-pa" id="wt-pa830"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.1"
 msgid "Yāni kho pana tāni paṇītabhojanānī</strong>ti <strong>sappi nāma"
 msgstr "These kinds of fine foods:"
 
 #. </strong></p><div class="gloss"><p><strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.2"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.2"
 msgid "sappi nāma"
 msgstr "Ghee:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.3"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.3"
 msgid "gosappi vā ajikāsappi vā mahiṃsasappi vā, yesaṃ maṃsaṃ kappati tesaṃ sappi."
 msgstr "ghee from cows, ghee from goats, ghee from buffaloes, or ghee from whatever animal whose meat is allowable."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa831"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.4"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.4"
 msgid "Navanītaṃ nāma"
 msgstr "Butter:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.5"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.5"
 msgid "tesaññeva navanītaṃ."
 msgstr "butter from those same animals."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa832"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.6"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.6"
 msgid "Telaṃ nāma"
 msgstr "Oil:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.7"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.7"
 msgid "tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ."
 msgstr "sesame oil, mustard seed oil, honey tree oil, castor oil, oil from tallow."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa833"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.8"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.8"
 msgid "Madhu nāma"
 msgstr "Honey:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.9"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.9"
 msgid "makkhikāmadhu."
 msgstr "honey from bees."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="wt-pa834"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.10"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.10"
 msgid "Phāṇitaṃ nāma"
 msgstr "Sugar:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.11"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.11"
 msgid "ucchumhā nibbattaṃ."
 msgstr "from sugar cane."
 
@@ -278,126 +278,126 @@ msgstr "from sugar cane."
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="wt-pa835"></a>
 #. VAR: udako → udakacaro (s1-3, pts1, mr)
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.12"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.12"
 msgid "Maccho nāma"
 msgstr "Fish:"
 
 #. </strong><span class="gloss"><span class="note" hidden>Here I follow the alternative reading <i lang="pli">udakacaro</i> found in the PTS version. MS has <i lang="pli">udako</i>, which must be an editing mistake.</span> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.13"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.13"
 msgid "udako vuccati."
 msgstr "what lives in water is what is meant."
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="wt-pa836"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.14"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.14"
 msgid "Maṃsaṃ nāma"
 msgstr "Meat:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.15"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.15"
 msgid "yesaṃ maṃsaṃ kappati, tesaṃ maṃsaṃ."
 msgstr "the meat of those animals whose meat is allowable."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa837"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.16"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.16"
 msgid "Khīraṃ nāma"
 msgstr "Milk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.17"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.17"
 msgid "gokhīraṃ vā ajikākhīraṃ vā mahiṃsakhīraṃ vā, yesaṃ maṃsaṃ kappati, tesaṃ khīraṃ."
 msgstr "milk from cows, milk from goats, milk from buffaloes, or milk from whatever animal whose meat is allowable."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa838"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.18"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.18"
 msgid "Dadhi nāma"
 msgstr "Curd:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.19"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.19"
 msgid "tesaññeva dadhi."
 msgstr "curd from those same animals."
 
 #. </span>
 #. </p></div><p><a class="sc" id="16"></a><a class="pts-vp-pli" id="pts-vp-pli4.89"></a><a class="pts-vp-en" id="BD.2.343"></a><a class="wt-pa" id="wt-pa839"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.20"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.20"
 msgid "Yo panāti"
 msgstr "A:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.21"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.21"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.22"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.22"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.23"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.23"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.24"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.24"
 msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="17"></a><a class="wt-pa" id="wt-pa840"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.25"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.25"
 msgid "Evarūpāni paṇītabhojanānīti"
 msgstr "Any of these kinds of fine foods:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.26"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.26"
 msgid "tathārūpāni paṇītabhojanāni."
 msgstr "such kinds of fine foods."
 
 #. </span>
 #. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa841"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.27"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.27"
 msgid "Agilāno nāma"
 msgstr "Not sick:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.28"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.28"
 msgid "yassa vinā paṇītabhojanāni phāsu hoti."
 msgstr "one who is comfortable without fine foods."
 
 #. </span>
 #. </p><p><a class="sc" id="19"></a><a class="wt-pa" id="wt-pa842"></a>
 #. <strong class="term"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.29"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.29"
 msgid "Gilāno nāma"
 msgstr "Sick:"
 
 #. </strong><span class="gloss"> 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.30"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.30"
 msgid "yassa vinā paṇītabhojanāni na phāsu hoti."
 msgstr "one who is not comfortable without fine foods."
 
 #. </span>
 #. </p><hr><p><a class="sc" id="20"></a><a class="wt-pa" id="wt-pa843"></a>
 #. VAR: viññāpeti, payoge → payoge payoge (pts1, mr)
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.31"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.31"
 msgid "Agilāno attano atthāya viññāpeti, payoge dukkaṭaṃ."
 msgstr "If he is not sick, then for the act of asking for himself, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.32"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.32"
 msgid "Paṭilābhena “bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa."
 msgstr "When he receives it with the intention of eating it, he commits an offense of wrong conduct."
 
-msgctxt "pli-tv-bu-vb-pc39:pts-cs3.33"
+msgctxt "pli-tv-bu-vb-pc39:pts-cs3.1.33"
 msgid "Ajjhohāre ajjhohāre āpatti pācittiyassa."
 msgstr "For every mouthful, he commits an offense entailing confession."
 
