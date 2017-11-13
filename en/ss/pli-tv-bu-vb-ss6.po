@@ -475,7 +475,7 @@ msgctxt "pli-tv-bu-vb-ss6:pts-cs1.4.0a"
 msgid ""
 msgstr "Story"
 
-#. </h5></div><div class="story"><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli3.148"></a><a class="pts-cs" id="bu-ss.6.1.4"></a><a class="ms-pa" id="ms-pa1430"></a> 
+#. </h5></div><div class="sutta"><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli3.148"></a><a class="pts-cs" id="bu-ss.6.1.4"></a><a class="ms-pa" id="ms-pa1430"></a> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs1.4.1"
 msgid "Bhūtapubbaṃ, bhikkhave, aññataro bhikkhu himavantapasse viharati aññatarasmiṃ vanasaṇḍe."
 msgstr "“At one time, monks, a certain monk lived in a forest grove on the slopes of the Himalayas."
