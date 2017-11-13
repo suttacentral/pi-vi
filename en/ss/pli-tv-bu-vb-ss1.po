@@ -255,7 +255,7 @@ msgid "“Sañcetanikā sukkavissaṭṭhi saṃghādiseso”ti."
 msgstr "‘Intentional emission of semen is an offense entailing suspension.’”"
 
 #. </strong>
-#. </p><p class="endsection>"><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa779"></a> 
+#. </p><p class="endsection"><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa779"></a> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs1.2.24"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
