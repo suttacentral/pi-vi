@@ -228,7 +228,7 @@ msgstr "aristocrats and brahmins—"
 
 msgctxt "pli-tv-bu-vb-pc3:pts-cs2.1.14"
 msgid "Esā ukkaṭṭhā nāma jāti … pe …."
-msgstr "these are called “high castes.” … <span class=\"add\">To be expanded as in <a href=\"/en/pli-tv-bu-vb-pc2#9\">Pācittiya 2, paragraphs 9–16</a>.</span> …"
+msgstr "these are called “high castes.” … <span class=\"pe\">To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-pc2#9\">Pācittiya 2, paragraphs 9–16</a>.</span> …"
 
 #. </span></span></p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.13"></a><a class="wt-pa" id="wt-pa116"></a>
 #. <strong class="term"> 

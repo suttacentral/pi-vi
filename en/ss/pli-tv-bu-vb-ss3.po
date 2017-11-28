@@ -527,10 +527,10 @@ msgctxt "pli-tv-bu-vb-ss3:pts-cs3.2.2"
 msgid "Bhikkhu ca naṃ itthiyā vaccamaggaṃ passāvamaggaṃ ādissa vaṇṇampi bhaṇati avaṇṇampi bhaṇati yācatipi āyācatipi pucchatipi paṭipucchatipi ācikkhatipi anusāsatipi akkosatipi, āpatti saṃ­ghā­di­sesassa …"
 msgstr "If the monk, referring to one of the two private orifices of the woman, praises, disparages, requests, implores, asks, enquires, describes, instructs, abuses, he commits an offense entailing suspension. …"
 
-#. <span class="add"> 
+#. <span class="pe"> 
 msgctxt "pli-tv-bu-vb-ss3:pts-cs3.2.3"
 msgid "pe …."
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-ss2#30\">Saṅghādisesa 2, paragraphs 30–44</a>. …"
+msgstr "To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-ss2#30\">Saṅghādisesa 2, paragraphs 30–44</a>. …"
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1156"></a> 
@@ -546,10 +546,10 @@ msgctxt "pli-tv-bu-vb-ss3:pts-cs3.2.6"
 msgid "akkosatipi, āpatti dvinnaṃ saṃ­ghādi­sesānaṃ … pe …."
 msgstr "abuses, he commits two offenses entailing suspension. …"
 
-#. <span class="add"> 
+#. <span class="pe"> 
 msgctxt "pli-tv-bu-vb-ss3:pts-cs3.2.7"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-ss2#45\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
+msgstr "To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-ss2#45\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1157"></a> 
@@ -565,10 +565,10 @@ msgctxt "pli-tv-bu-vb-ss3:pts-cs3.2.10"
 msgid "akkosatipi, āpatti saṃghādisesena dukkaṭassa … pe …."
 msgstr "abuses, he commits one offense entailing suspension and one offense of wrong conduct. …"
 
-#. <span class="add"> 
+#. <span class="pe"> 
 msgctxt "pli-tv-bu-vb-ss3:pts-cs3.2.11"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-ss2#54\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
+msgstr "To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-ss2#54\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
 
 #. </span>
 #. </p><hr><p><a class="sc" id="26"></a><a class="pts-cs" id="bu-ss.3.3.3"></a><a class="ms-pa" id="ms-pa1158"></a><a class="pts-vp-pli" id="pts-vp-pli3.130"></a> 

@@ -561,10 +561,10 @@ msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.15"
 msgid "Puriso ca hoti … pe …"
 msgstr "It is a man …"
 
-#. <span class="add"> 
+#. <span class="pe"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.16"
 msgid ""
-msgstr "This section on “It is a man” is to be expanded as in <a href=\"/en/pli-tv-bu-vb-ss2#40\">Saṅghādisesa 2, paragraphs 40–41</a>. …"
+msgstr "This section on “It is a man” is to be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-ss2#40\">Saṅghādisesa 2, paragraphs 40–41</a>. …"
 
 #. </span> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.17"
@@ -601,10 +601,10 @@ msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.24"
 msgid "Bhikkhu ca naṃ dvinnaṃ itthīnaṃ santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti dvinnaṃ saṃ­ghādi­sesānaṃ … pe …."
 msgstr "If the monk encourages both women to satisfy his own needs, he commits two offenses entailing suspension. …"
 
-#. <span class="add"> 
+#. <span class="pe"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.25"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-ss2#45\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
+msgstr "To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-ss2#45\">Saṅghādisesa 2, paragraphs 45–53</a>. …"
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1209"></a> 
@@ -616,10 +616,10 @@ msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.27"
 msgid "Bhikkhu ca naṃ ubhinnaṃ santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāsati, āpatti saṃghādisesena dukkaṭassa … pe …."
 msgstr "If the monk encourages both of them to satisfy his own needs, he commits one offense entailing suspension and one offense of wrong conduct. …"
 
-#. <span class="add"> 
+#. <span class="pe"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.28"
 msgid ""
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-ss2#54\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
+msgstr "To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-ss2#54\">Saṅghādisesa 2, paragraphs 54–69</a>. …"
 
 #. </span>
 #. </p><h2>

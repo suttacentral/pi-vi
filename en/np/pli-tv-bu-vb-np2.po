@@ -399,10 +399,10 @@ msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.12"
 msgid "Evañca pana, bhikkhave, nissajjitabbaṃ …"
 msgstr "“And, monks, it should be relinquished in this way. …"
 
-#. <span class="add"> 
+#. <span class="pe"> 
 msgctxt "pli-tv-bu-vb-np2:pts-cs3.1.13"
 msgid "pe …"
-msgstr "To be expanded as in <a href=\"/en/pli-tv-bu-vb-np1/23-29\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
+msgstr "To be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-np1/23-29\">Relinquishment 1, paragraphs 13–17</a>, with appropriate substitutions. …"
 
 #. </span><a class="pts-vp-en" id="bd.2.16"></a> 
 #. VAR: rattivippavutthaṃ → rattiṃ vippavutthaṃ (bj, pts1)
