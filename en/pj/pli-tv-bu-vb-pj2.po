@@ -159,7 +159,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs1.2.10"
 msgid "Mā pacchimā janatā pāṇesu pātabyataṃ āpajji."
 msgstr "Don’t let future generations take up the destruction of living beings."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs1.2.11"
 msgid "Na ca, bhikkhave, sab­bamat­tikā­mayā kuṭikā kātabbā."
 msgstr "And, monks, you should not make a hut consisting of nothing but clay."
@@ -168,7 +168,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs1.2.12"
 msgid "Yo kareyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong></p><p>
+#. </span></p><p>
 #. <a class="pts-vp-en" id="bd.1.67"></a> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs1.2.13"
 msgid "“Evaṃ, bhante”ti, kho te bhikkhū bhagavato paṭissuṇitvā yena sā kuṭikā tenu­pasaṅka­miṃsu;"
@@ -600,7 +600,7 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="16"></a><a class="ms-pa" id="ms.206"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs1.6.28"
 msgid "“Yo pana bhikkhu adinnaṃ they­ya­saṅ­khā­taṃ ādiyeyya,"
 msgstr "‘If a monk, intending to steal, takes what has not been given to him—"
@@ -617,7 +617,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs1.6.31"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="17"></a><a class="ms-pa" id="ms.207"></a> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs1.6.32"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -629,7 +629,7 @@ msgid ""
 msgstr "Second sub-story"
 
 #. </h3><p><a class="sc" id="18"></a><a class="pts-cs" id="bu-pj.2.2"></a><a class="ms-pa" id="ms.208"></a>
-#. <span class="note" hidden>The text simply says “the dyers’ spread,” <i lang="pli">rajakattharaṇaṃ</i>, but the commentary qualifies that this refers to their spread of “cloth,” <i lang="pli">vatthāni</i>, see <span class="ref">Sp.2.298.17</span>.</span> 
+#. The text simply says “the dyers’ spread,” <i lang="pli">rajakattharaṇaṃ</i>, but the commentary qualifies that this refers to their spread of “cloth,” <i lang="pli">vatthāni</i>, see <ref>Sp.2.298.17</ref>.
 msgctxt "pli-tv-bu-vb-pj2:pts-cs2.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū raja­kattha­ra­ṇaṃ gantvā rajaka­bhaṇḍi­kaṃ avaharitvā ārāmaṃ haritvā bhājesuṃ."
 msgstr "At one time monks from the group of six went to the dyers’ spread of cloth, took the dyers’ goods to the monastery, and shared it out."
@@ -642,7 +642,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs2.3"
 msgid "“mahāpuññattha tumhe, āvuso."
 msgstr "“You have great merit,"
 
-#. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> at <i lang="pli">nissaggiya pācittiya</i> 1 <span class="ref">MS.1.1872</span>, it also refers to pieces of robe-cloth. This means that I vary my translation depending on the context. Sometimes, such as here, the meaning seems to encompass both robes and robe-cloth, and I then render it as robe(-cloth).</span> 
+#. In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> at <i lang="pli">nissaggiya pācittiya</i> 1 <ref>MS.1.1872</ref>, it also refers to pieces of robe-cloth. This means that I vary my translation depending on the context. Sometimes, such as here, the meaning seems to encompass both robes and robe-cloth, and I then render it as robe(-cloth).
 msgctxt "pli-tv-bu-vb-pj2:pts-cs2.4"
 msgid "Bahuṃ tumhākaṃ cīvaraṃ uppannan”ti."
 msgstr "since you’ve obtained so much robe(-cloth).”"
@@ -755,7 +755,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="20"></a><a class="ms-pa" id="ms.210"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs2.28"
 msgid "“Yo pana bhikkhu gāmā vā araññā vā adinnaṃ they­ya­saṅ­khā­taṃ ādiyeyya,"
 msgstr "‘If a monk, intending to steal, takes from a village or from the wilderness what has not been given to him—"
@@ -772,7 +772,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs2.31"
 msgid "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs2.32"
 msgid "(<em>2</em>:<strong>2</strong>)"
 msgstr ""
@@ -783,24 +783,24 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="21"></a><a class="pts-cs" id="bu-pj.2.3"></a><a class="ms-pa" id="ms.211"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -811,24 +811,24 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="pts-vp-en" id="bd.1.74"></a><a class="ms-pa" id="ms.212"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.6"
 msgid "Gāmo nāma"
 msgstr "A village:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.7"
 msgid "ekakuṭikopi gāmo, dvikuṭikopi gāmo, tikuṭikopi gāmo, catukuṭikopi gāmo, samanussopi gāmo, amanussopi gāmo, parikkhittopi gāmo, aparikkhittopi gāmo, gonisādi­niviṭṭhopi gāmo, yopi sattho ati­reka­catumā­sani­viṭṭho sopi vuccati gāmo."
 msgstr "a village of one hut, a village of two huts, a village of three huts, a village of four huts, an inhabited village, an uninhabited village, an enclosed village, an unenclosed village, a disorganized village, and even a caravan settled for more than four months is called “a village.”"
 
 #. </span></p><p><a class="sc" id="23"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.8"
 msgid "Gāmūpacāro nāma"
 msgstr "The vicinity of a village:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 #. VAR: indakhīle → indakhile (mr)
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.9"
@@ -841,12 +841,12 @@ msgstr "of an unenclosed village: the outward stone-throw of a man of average he
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms.214"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.11"
 msgid "Araññaṃ nāma"
 msgstr "The wilderness:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.12"
 msgid "ṭhapetvā gāmañca gāmūpacārañca avasesaṃ araññaṃ nāma."
@@ -854,12 +854,12 @@ msgstr "apart from the village and the vicinity of the village, the remainder is
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms.215"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.13"
 msgid "Adinnaṃ nāma"
 msgstr "What has not been given:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.14"
 msgid "yaṃ adinnaṃ anissaṭṭhaṃ apariccattaṃ rakkhitaṃ gopitaṃ mamāyitaṃ paraparig­gahi­taṃ."
@@ -875,12 +875,12 @@ msgstr "This is called “what has not been given.”"
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms.216"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.17"
 msgid "They­ya­saṅ­khā­tanti"
 msgstr "Intending to steal:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.18"
 msgid "theyyacitto avaharaṇacitto."
@@ -888,12 +888,12 @@ msgstr "the thought of stealing, the thought of taking."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms.217"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.19"
 msgid "Ādiyeyyāti"
 msgstr "Takes:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.20"
 msgid "ādiyeyya hareyya avahareyya iriyāpathaṃ vikopeyya ṭhānā cāveyya saṅketaṃ vītināmeyya."
@@ -901,12 +901,12 @@ msgstr "takes, carries off, takes away, interrupts the movement of, removes from
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms.218"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.21"
 msgid "Yathārūpaṃ nāma"
 msgstr "The sort:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.22"
 msgid "pādaṃ vā pādārahaṃ vā atirekapādaṃ vā."
@@ -914,12 +914,12 @@ msgstr "a <i lang=\"pli\">pāda</i> coin, the worth of a <i lang=\"pli\">pāda</
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="pts-vp-pli" id="pts-vp-pli3.47"></a> <a class="ms-pa" id="ms.219"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.23"
 msgid "Rājāno nāma"
 msgstr "Kings:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.24"
 msgid "pathabyārājā padesarājā maṇḍalikā antarabhogikā akkhadassā mahāmattā, ye vā pana chejjabhejjaṃ karontā anusāsanti."
@@ -931,12 +931,12 @@ msgstr "these are called “kings.”"
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="pts-vp-en" id="bd.1.75"></a><a class="ms-pa" id="ms.220"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.26"
 msgid "Coro nāma"
 msgstr "A thief:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.27"
 msgid "yo pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ adinnaṃ they­ya­saṅ­khā­taṃ ādiyati."
@@ -948,12 +948,12 @@ msgstr "he is called “a thief.”"
 
 #. </span>
 #. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms.221"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.29"
 msgid "Haneyyuṃ vāti"
 msgstr "Would beat:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.30"
 msgid "hatthena vā pādena vā kasāya vā vettena vā aḍḍhadaṇḍakena vā chejjāya vā haneyyuṃ."
@@ -961,12 +961,12 @@ msgstr "would beat with the hand, the foot, a whip, a cane, a cudgel, or by muti
 
 #. </span>
 #. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms.222"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.31"
 msgid "Bandheyyuṃ vāti "
 msgstr "Would […] imprison:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.32"
 msgid "rajju­bandha­nena vā andubandhanena vā saṅ­kha­lika­bandha­nena vā ghara­bandha­nena vā nagara­bandha­nena vā gāmabandhanena vā nigama­bandha­nena vā bandheyyuṃ, purisaguttiṃ vā kareyyuṃ."
@@ -974,12 +974,12 @@ msgstr "would imprison by constriction with a rope, by constriction with shackle
 
 #. </span>
 #. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="ms.223"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.33"
 msgid "Pabbājeyyuṃ vāti"
 msgstr "Would […] banish:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.34"
 msgid "gāmā vā nigamā vā nagarā vā janapadā vā janapadapadesā vā pabbājeyyuṃ."
@@ -987,13 +987,13 @@ msgstr "would banish from a village, from a town, from a city, from a country, o
 
 #. </span>
 #. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms.224"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.35"
 msgid "Corosi bālosi mūḷhosi thenosīti"
 msgstr "You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief:"
 
-#. </strong>
-#. <span class="note" hidden>Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang="pli">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang="pli">yathārūpaṃ</i>, “the sort,” and secondly, <i lang="pli">ādiyamāno</i>, which is defined in exactly the same way as <i lang="pli">ādiyeyya</i>, “takes.”</span>
+#. </span>
+#. Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are <i lang="pli">tathārūpaṃ</i>, which is defined in exactly the same way as <i lang="pli">yathārūpaṃ</i>, “the sort,” and secondly, <i lang="pli">ādiyamāno</i>, which is defined in exactly the same way as <i lang="pli">ādiyeyya</i>, “takes.”
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.36"
 msgid "paribhāso eso."
@@ -1001,34 +1001,34 @@ msgstr "this is a rebuke."
 
 #. </span>
 #. </p><p><a class="sc" id="35"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.37"
 msgid "Tathārūpaṃ nāma"
 msgstr ""
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.38"
 msgid "pādaṃ vā pādārahaṃ vā atirekapādaṃ vā."
 msgstr ""
 
 #. </span></p><p><a class="sc" id="36"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.39"
 msgid "Ādiyamānoti"
 msgstr ""
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.40"
 msgid "ādiyamāno haramāno avaharamāno iriyāpathaṃ vikopayamāno ṭhānā cāvayamāno saṅketaṃ vītināmayamāno."
 msgstr ""
 
 #. </span></p><p><a class="sc" id="37"></a><a class="ms-pa" id="ms.227"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.41"
 msgid "Ayampīti"
 msgstr "He too:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.42"
 msgid "purimaṃ upādāya vuccati."
@@ -1036,12 +1036,12 @@ msgstr "this is said with reference to the preceding offense entailing expulsion
 
 #. </span>
 #. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms.228"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.43"
 msgid "Pārājiko hotīti"
 msgstr "Is expelled:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 #. VAR: pavutto → pamutto (pts1) | pavuttho (itipi)
 #. VAR: haritatthāya → haritattāya (bj, s1-3, pts1)
@@ -1063,18 +1063,18 @@ msgstr "“he is expelled.”"
 
 #. </span>
 #. </p><p><a class="sc" id="39"></a><a class="ms-pa" id="ms.229"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.48"
 msgid "Asaṃvāsoti"
 msgstr "Excluded from the community:"
 
-#. </strong>
-#. <span class="gloss"><strong class="term"> 
+#. </span>
+#. <span class="gloss"><span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.49"
 msgid "saṃvāso nāma"
 msgstr "Community:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs3.50"
 msgid "ekakammaṃ ekuddeso samasikkhatā."
@@ -1122,12 +1122,12 @@ msgid ""
 msgstr "Exposition"
 
 #. </h4><p><a class="sc" id="41"></a><a class="pts-cs" id="bu-pj.2.4.2"></a><a class="ms-pa" id="ms.231"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.2.1"
 msgid "Bhūmaṭṭhaṃ nāma"
 msgstr "Being in the earth:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.2.2"
 msgid "bhaṇḍaṃ bhūmiyaṃ nikkhittaṃ hoti nikhātaṃ paṭicchannaṃ."
@@ -1226,12 +1226,12 @@ msgid "āpatti dukkaṭassa."
 msgstr "he commits an offense of wrong conduct."
 
 #. </p><p><a class="sc" id="42"></a><a class="pts-cs" id="bu-pj.2.4.3"></a><a class="ms-pa" id="ms.232"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.3.1"
 msgid "Thalaṭṭhaṃ nāma"
 msgstr "Being on the ground:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.3.2"
 msgid "bhaṇḍaṃ thale nikkhittaṃ hoti."
@@ -1260,12 +1260,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="43"></a><a class="pts-cs" id="bu-pj.2.4.4"></a><a class="ms-pa" id="ms.233"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.4.1"
 msgid "Ākāsaṭṭhaṃ nāma"
 msgstr "Being in the air:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.4.2"
 msgid "bhaṇḍaṃ ākāsagataṃ hoti."
@@ -1305,12 +1305,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="44"></a><a class="pts-cs" id="bu-pj.2.4.5"></a><a class="ms-pa" id="ms.234"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.5.1"
 msgid "Vehāsaṭṭhaṃ nāma"
 msgstr "Being above ground:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.5.2"
 msgid "bhaṇḍaṃ vehāsagataṃ hoti."
@@ -1343,12 +1343,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="45"></a><a class="pts-cs" id="bu-pj.2.4.6"></a><a class="pts-vp-pli" id="pts-vp-pli3.49"></a> <a class="ms-pa" id="ms.235"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.6.1"
 msgid "Udakaṭṭhaṃ nāma"
 msgstr "Being in the water:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.6.2"
 msgid "bhaṇḍaṃ udake nikkhittaṃ hoti."
@@ -1393,24 +1393,24 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="46"></a><a class="pts-cs" id="bu-pj.2.4.7"></a><a class="ms-pa" id="ms.236"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.7.1"
 msgid "Nāvā nāma"
 msgstr "A boat:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.7.2"
 msgid "yāya tarati."
 msgstr "that by mean of which one crosses."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.7.3"
 msgid "Nāvaṭṭhaṃ nāma"
 msgstr "Being in a boat:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.7.4"
 msgid "bhaṇḍaṃ nāvāya nikkhittaṃ hoti."
@@ -1472,24 +1472,24 @@ msgid "Uddhaṃ vā adho vā tiriyaṃ vā antamaso kesag­gamattampi saṅkāme
 msgstr "If he makes it move up or down or across the water, even as much as a hair’s breadth, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="47"></a><a class="pts-cs" id="bu-pj.2.4.8"></a><a class="ms-pa" id="ms.237"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.8.1"
 msgid "Yānaṃ nāma"
 msgstr "A vehicle:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.8.2"
 msgid "vayhaṃ ratho sakaṭaṃ sandamānikā."
 msgstr "a wagon, a carriage, a cart, a chariot."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.8.3"
 msgid "Yānaṭṭhaṃ nāma"
 msgstr "Being in a vehicle:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.8.4"
 msgid "bhaṇḍaṃ yāne nikkhittaṃ hoti."
@@ -1538,12 +1538,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="48"></a><a class="pts-cs" id="bu-pj.2.4.9"></a><a class="ms-pa" id="ms.238"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.9.1"
 msgid "Bhāro nāma"
 msgstr "A burden:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.9.2"
 msgid "sīsabhāro khandhabhāro kaṭibhāro olambako."
@@ -1596,24 +1596,24 @@ msgid "Theyyacitto bhūmito gaṇhāti, āpatti pārājikassa."
 msgstr "If, intending to steal, he takes it from the ground, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="49"></a><a class="pts-cs" id="bu-pj.2.4.10"></a><a class="ms-pa" id="ms.239"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.10.1"
 msgid "Ārāmo nāma"
 msgstr "A park:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.10.2"
 msgid "pupphārāmo phalārāmo."
 msgstr "a park with flowers, an orchard."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.10.3"
 msgid "Ārāmaṭṭhaṃ nāma"
 msgstr "Being in a park:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.10.4"
 msgid "bhaṇḍaṃ ārāme catūhi ṭhānehi nikkhittaṃ hoti—"
@@ -1681,12 +1681,12 @@ msgid "Dhammaṃ caranto parajjati, āpatti thullaccayassa."
 msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p><a class="sc" id="50"></a><a class="pts-cs" id="bu-pj.2.4.11"></a><a class="ms-pa" id="ms.240"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.11.1"
 msgid "Vihāraṭṭhaṃ nāma"
 msgstr "Being in a monastic dwelling:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.11.2"
 msgid "bhaṇḍaṃ vihāre catūhi ṭhānehi nikkhittaṃ hoti—"
@@ -1739,24 +1739,24 @@ msgid "Dhammaṃ caranto parajjati, āpatti thullaccayassa."
 msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p><a class="sc" id="51"></a><a class="pts-cs" id="bu-pj.2.4.12"></a><a class="ms-pa" id="ms.241"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.12.1"
 msgid "Khettaṃ nāma"
 msgstr "A field:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.12.2"
 msgid "yattha pubbaṇṇaṃ vā aparaṇṇaṃ vā jāyati."
 msgstr "where grain or vegetables grow."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.12.3"
 msgid "Khettaṭṭhaṃ nāma"
 msgstr "Being in a field:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.12.4"
 msgid "bhaṇḍaṃ khette catūhi ṭhānehi nikkhittaṃ hoti—"
@@ -1835,24 +1835,24 @@ msgid "Tasmiṃ payoge āgate, āpatti pārājikassa."
 msgstr "When the last action of the moving is completed, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="52"></a><a class="pts-cs" id="bu-pj.2.4.13"></a><a class="ms-pa" id="ms.242"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.13.1"
 msgid "Vatthu nāma"
 msgstr "A plot of land:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.13.2"
 msgid "ārāmavatthu vihāravatthu."
 msgstr "the plot of land of a park or a monastery, the plot of land of a monastic dwelling."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.13.3"
 msgid "Vatthuṭṭhaṃ nāma"
 msgstr "Being on a plot of land:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.13.4"
 msgid "bhaṇḍaṃ vatthusmiṃ catūhi ṭhānehi nikkhittaṃ hoti—"
@@ -1918,12 +1918,12 @@ msgid "Tasmiṃ payoge āgate āpatti pārājikassa."
 msgstr "When the last action of the moving is completed, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="53"></a><a class="pts-cs" id="bu-pj.2.4.14"></a><a class="ms-pa" id="ms.243"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.14.1"
 msgid "Gāmaṭṭhaṃ nāma"
 msgstr "Being in a village:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.14.2"
 msgid "bhaṇḍaṃ gāme catūhi ṭhānehi nikkhittaṃ hoti—"
@@ -1956,24 +1956,24 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="54"></a><a class="pts-cs" id="bu-pj.2.4.15"></a><a class="pts-vp-pli" id="pts-vp-pli3.51"></a> <a class="ms-pa" id="ms.244"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.15.1"
 msgid "Araññaṃ nāma"
 msgstr "The wilderness:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.15.2"
 msgid "yaṃ manussānaṃ pariggahitaṃ hoti, taṃ araññaṃ."
 msgstr "any wilderness which is owned by people."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.15.3"
 msgid "Araññaṭṭhaṃ nāma"
 msgstr "Being in the wilderness:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.15.4"
 msgid "bhaṇḍaṃ araññe catūhi ṭhānehi nikkhittaṃ hoti—"
@@ -2018,12 +2018,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="55"></a><a class="pts-cs" id="bu-pj.2.4.16"></a><a class="ms-pa" id="ms.245"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.16.1"
 msgid "Udakaṃ nāma"
 msgstr "Water:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.16.2"
 msgid "bhājanagataṃ vā hoti pokkharaṇiyā vā taḷāke vā."
@@ -2043,7 +2043,7 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
 #. </p><p>
-#. <span class="note" hidden>The Pali text just says “into,” and I have added “the container holding the water” for clarity.</span> 
+#. The Pali text just says “into,” and I have added “the container holding the water” for clarity.
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.16.6"
 msgid "Attano bhājanaṃ pavesetvā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ udakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal, he puts his own vessel into the container holding the water, and he touches water having a value of five <i lang=\"pli\">māsaka</i> coins or more than five <i lang=\"pli\">māsakas</i>, he commits an offense of wrong conduct."
@@ -2074,12 +2074,12 @@ msgid "Māsakaṃ vā ūnamāsakaṃ vā agghanakaṃ udakaṃ nikkhāmeti, āpa
 msgstr "If he allows water to escape that has a value of a <i lang=\"pli\">māsaka</i> or less than a <i lang=\"pli\">māsaka</i>, he commits an offense of wrong conduct."
 
 #. </p><p><a class="sc" id="56"></a><a class="pts-cs" id="bu-pj.2.4.17"></a><a class="ms-pa" id="ms.246"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.17.1"
 msgid "Dantapoṇaṃ"
 msgstr "Toothbrush:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.17.2"
 msgid "chinnaṃ vā acchinnaṃ vā."
@@ -2099,12 +2099,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="57"></a><a class="pts-cs" id="bu-pj.2.4.18"></a><a class="pts-vp-en" id="bd.1.86"></a><a class="ms-pa" id="ms.247"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.18.1"
 msgid "Vanappati nāma"
 msgstr "Forest tree:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.18.2"
 msgid "yo manussānaṃ pariggahito hoti rukkho paribhogo."
@@ -2124,12 +2124,12 @@ msgid "Tasmiṃ pahāre āgate, āpatti pārājikassa."
 msgstr "When the last blow is completed, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="58"></a><a class="pts-cs" id="bu-pj.2.4.19"></a><a class="ms-pa" id="ms.248"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.19.1"
 msgid "Haraṇakaṃ"
 msgstr "Goods being carried:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.19.2"
 msgid "nāma aññassa haraṇakaṃ bhaṇḍaṃ."
@@ -2175,12 +2175,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="59"></a><a class="pts-cs" id="bu-pj.2.4.20"></a><a class="ms-pa" id="ms.249"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.20.1"
 msgid "Upanidhi"
 msgstr "Deposit:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.20.2"
 msgid "upanikkhittaṃ bhaṇḍaṃ."
@@ -2191,7 +2191,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs4.20.3"
 msgid "Dehi me bhaṇḍanti vuccamāno nāhaṃ gaṇhāmīti bhaṇati, āpatti dukkaṭassa."
 msgstr "If he is told, “Give me my goods,” and he says, “I’m not getting them,” he commits an offense of wrong conduct."
 
-#. <span class="note" hidden>The Pali text just says that he evokes doubt in the mind of the owner, <i lang="pli">sāmikassa vimatiṃ uppādeti</i>. That the doubt refers to the possibility of getting the goods back is supplied from the commentary, see <span class="ref">Sp.2.350.1</span>: <i lang="pli">‘Dassati nu kho me no’ti sāmiko vimatiṃ uppādeti</i>.</span> 
+#. The Pali text just says that he evokes doubt in the mind of the owner, <i lang="pli">sāmikassa vimatiṃ uppādeti</i>. That the doubt refers to the possibility of getting the goods back is supplied from the commentary, see <ref>Sp.2.350.1</ref>: <i lang="pli">‘Dassati nu kho me no’ti sāmiko vimatiṃ uppādeti</i>.
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.20.4"
 msgid "Sāmikassa vimatiṃ uppādeti, āpatti thullaccayassa."
 msgstr "If he evokes doubt in the mind of the owner as to whether he will get them back, he commits a serious offense."
@@ -2210,12 +2210,12 @@ msgid "Dhammaṃ caranto parajjati, āpatti thullaccayassa."
 msgstr "If he resorts to the law but is defeated, he commits a serious offense."
 
 #. </p><p><a class="sc" id="60"></a><a class="pts-cs" id="bu-pj.2.4.21"></a><a class="ms-pa" id="ms.250"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.21.1"
 msgid "Suṅkaghātaṃ nāma"
 msgstr "Customs station:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.21.2"
 msgid "raññā ṭhapitaṃ hoti pabbatakhaṇḍe vā nadītitthe vā gāmadvāre vā—"
@@ -2226,7 +2226,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs4.21.3"
 msgid "“atra paviṭṭhassa suṅkaṃ gaṇhantū”ti."
 msgstr "so that tax can be collected from a person passing through."
 
-#. <span class="note" hidden>Although not explicitly stated in the Pali, the commentary, <span class="ref">Sp.2.358.29</span>, confirms that the value meant is the tax value: “Goods having a value to the king means: goods having a worth to the king. The meaning is: the goods because of which tax having a value of five <i lang="pli">māsakas</i> or more is to be given to the king.” (<i lang="pli">Rājaggaṃ bhaṇḍanti: rājārahaṃ bhaṇḍaṃ; yato rañño pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ suṅkaṃ dātabbaṃ hoti, taṃ bhaṇḍanti attho</i>.)</span> 
+#. Although not explicitly stated in the Pali, the commentary, <ref>Sp.2.358.29</ref>, confirms that the value meant is the tax value: “Goods having a value to the king means: goods having a worth to the king. The meaning is: the goods because of which tax having a value of five <i lang="pli">māsakas</i> or more is to be given to the king.” (<i lang="pli">Rājaggaṃ bhaṇḍanti: rājārahaṃ bhaṇḍaṃ; yato rañño pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ suṅkaṃ dātabbaṃ hoti, taṃ bhaṇḍanti attho</i>.)
 #. VAR: rājaggaṃ → rājagghaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.21.4"
 msgid "Tatra pavisitvā rājaggaṃ bhaṇḍaṃ pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
@@ -2256,12 +2256,12 @@ msgid "Suṅkaṃ pariharati, āpatti dukkaṭassa."
 msgstr "If he avoids the customs station altogether, he commits an offense of wrong conduct."
 
 #. </p><p><a class="sc" id="61"></a><a class="pts-cs" id="bu-pj.2.4.22"></a><a class="ms-pa" id="ms.251"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.22.1"
 msgid "Pāṇo nāma"
 msgstr "Creature:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.22.2"
 msgid "manussapāṇo vuccati."
@@ -2290,12 +2290,12 @@ msgid "Dutiyaṃ pādaṃ saṅkāmeti, āpatti pārājikassa."
 msgstr "If he makes them move the second foot, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="62"></a><a class="pts-cs" id="bu-pj.2.4.23"></a><a class="ms-pa" id="ms.252"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.23.1"
 msgid "Apadaṃ nāma"
 msgstr "Footless:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.23.2"
 msgid "ahi macchā."
@@ -2315,12 +2315,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="63"></a><a class="pts-cs" id="bu-pj.2.4.24"></a><a class="ms-pa" id="ms.253"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.24.1"
 msgid "Dvipadaṃ nāma"
 msgstr "Two-footed:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.24.2"
 msgid "manussā, pakkhajātā."
@@ -2349,12 +2349,12 @@ msgid "Dutiyaṃ pādaṃ saṅkāmeti, āpatti pārājikassa."
 msgstr "If he makes it move the second foot, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="64"></a><a class="pts-cs" id="bu-pj.2.4.25"></a><a class="ms-pa" id="ms.254"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.25.1"
 msgid "Catuppadaṃ nāma—"
 msgstr "Four-footed:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.25.2"
 msgid "hatthī assā oṭṭhā goṇā gadrabhā pasukā."
@@ -2392,12 +2392,12 @@ msgid "Catutthaṃ pādaṃ saṅkāmeti, āpatti pārājikassa."
 msgstr "If he makes it move the fourth foot, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="65"></a><a class="pts-cs" id="bu-pj.2.4.26"></a><a class="ms-pa" id="ms.255"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.26.1"
 msgid "Bahuppadaṃ nāma—"
 msgstr "Many-footed:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.26.2"
 msgid "vicchikā satapadī uccāliṅ­ga­pāṇakā."
@@ -2426,12 +2426,12 @@ msgid "Pacchimaṃ pādaṃ saṅkāmeti, āpatti pārājikassa."
 msgstr "When the last leg moves, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="66"></a><a class="pts-cs" id="bu-pj.2.4.27"></a><a class="ms-pa" id="ms.256"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.27.1"
 msgid "Ocarako nāma"
 msgstr "A spy:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.27.2"
 msgid "bhaṇḍaṃ ocaritvā ācikkhati—"
@@ -2451,12 +2451,12 @@ msgid "So taṃ bhaṇḍaṃ avaharati, āpatti ubhinnaṃ pārājikassa."
 msgstr "If he makes it quiver, he commits a serious offense."
 
 #. </p><p><a class="sc" id="67"></a><a class="pts-cs" id="bu-pj.2.4.28"></a><a class="pts-vp-pli" id="pts-vp-pli3.53"></a> <a class="ms-pa" id="ms.257"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.28.1"
 msgid "Oṇirakkho nāma"
 msgstr "A protector of goods:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.28.2"
 msgid "āhaṭaṃ bhaṇḍaṃ gopento"
@@ -2476,12 +2476,12 @@ msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves them from their base, he commits an offense entailing expulsion."
 
 #. </p><p><a class="sc" id="68"></a><a class="pts-cs" id="bu-pj.2.4.29"></a><a class="ms-pa" id="ms.258"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.29.1"
 msgid "Saṃvidāvahāro nāma"
 msgstr "A mutually agreed theft:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.29.2"
 msgid "sambahulā saṃvidahitvā"
@@ -2493,12 +2493,12 @@ msgid "eko bhaṇḍaṃ avaharati, āpatti sabbesaṃ pārājikassa."
 msgstr "If only one steals the goods, there is an offense entailing expulsion for all of them."
 
 #. </p><p><a class="sc" id="69"></a><a class="pts-cs" id="bu-pj.2.4.30"></a><a class="ms-pa" id="ms.259"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.30.1"
 msgid "Saṅketakammaṃ nāma"
 msgstr "An action by appointment:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.30.2"
 msgid "saṅketaṃ karoti—"
@@ -2531,12 +2531,12 @@ msgid "Avahārakassa āpatti pārājikassa."
 msgstr "but an offense entailing expulsion for the thief."
 
 #. </p><p><a class="sc" id="70"></a><a class="pts-cs" id="bu-pj.2.4.31"></a><a class="ms-pa" id="ms.260"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.31.1"
 msgid "Nimittakammaṃ nāma"
 msgstr "Making a sign:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs4.31.2"
 msgid "nimittaṃ karoti."
@@ -3760,7 +3760,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.6.16"
 msgid "Pīṭhe nisīdanaṃ nikkhipitvā …"
 msgstr "put down his sitting-mat on a bench …"
 
-#. <span class="note" hidden>I have added one set of ellipses points that seems to be missing from the Pali of MS.1.302.</span> 
+#. I have added one set of ellipses points that seems to be missing from the Pali of MS.1.302.
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.6.17"
 msgid "heṭṭhāpīṭhe pattaṃ nikkhipitvā vihāraṃ pāvisi."
 msgstr "put his bowl under a bench and entered his dwelling."
@@ -3969,7 +3969,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.8.10"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.8.11"
 msgid "Na ca, bhikkhave, abhinne sarīre paṃsukūlaṃ gahetabbaṃ."
 msgstr "But a monk shouldn’t take rags from a fresh corpse."
@@ -3978,7 +3978,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.8.12"
 msgid "Yo gaṇheyya, āpatti dukkaṭassā”ti."
 msgstr "If he does, he commits an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.8.13"
 msgid "(33)"
 msgstr ""
@@ -4756,7 +4756,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.1"
 msgid "Tena kho pana samayena aññataro bhikkhu gāmakaṃ gacchanto aññataraṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, as he was going to the village, a monk said to another monk,"
 
-#. <span class="note" hidden><i lang="pli">Āvuso tuyhaṃ upaṭṭhākakulaṃ vutto vajjemīti</i>. The unusual expression <i lang="pli">vutto vajjemi</i> recurs in the next two cases. <i lang="pli">Vajjemi</i> is apparently an optative formation from <i lang="pli">vadāmi</i>, “I could say,” whereas <i lang="pli">vutto</i> seems to be the past participle of <i lang="pli">vuccati</i>, “spoken to,” the overall meaning being, “I, (having been) spoken to, could say to the family that supports you.” The idea conveyed seems to be the taking of a message, and this is reinforced by the commentary: <i lang="pli">Tava vacanena vadāmīti attho</i>, “The meaning is, ‘I will speak your statement.’”</span> 
+#. <i lang="pli">Āvuso tuyhaṃ upaṭṭhākakulaṃ vutto vajjemīti</i>. The unusual expression <i lang="pli">vutto vajjemi</i> recurs in the next two cases. <i lang="pli">Vajjemi</i> is apparently an optative formation from <i lang="pli">vadāmi</i>, “I could say,” whereas <i lang="pli">vutto</i> seems to be the past participle of <i lang="pli">vuccati</i>, “spoken to,” the overall meaning being, “I, (having been) spoken to, could say to the family that supports you.” The idea conveyed seems to be the taking of a message, and this is reinforced by the commentary: <i lang="pli">Tava vacanena vadāmīti attho</i>, “The meaning is, ‘I will speak your statement.’”
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.2"
 msgid "“āvuso, tuyhaṃ upaṭṭhākakulaṃ vutto vajjemī”ti."
 msgstr "“I can take a message to the family that supports you.”"
@@ -4782,7 +4782,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.7"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.8"
 msgid "Na ca, bhikkhave, vutto vajjemīti vattabbo."
 msgstr "But you should not say, ‘I can take a message.’"
@@ -4791,7 +4791,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.9"
 msgid "Yo vadeyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.10"
 msgid "(86)"
 msgstr ""
@@ -4829,7 +4829,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.18"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.19"
 msgid "Na ca, bhikkhave, vutto vajjehīti vattabbo."
 msgstr "But you shouldn’t say, ‘Please take a message.’"
@@ -4838,7 +4838,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.20"
 msgid "Yo vadeyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.21"
 msgid "(87)"
 msgstr ""
@@ -4881,7 +4881,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.30"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.31"
 msgid "Na ca, bhikkhave, vutto vajjemīti vattabbo, na ca vutto vajjehīti vattabbo."
 msgstr "But you should not say, ‘I can take a message;’ nor should you say, ‘Please do.’"
@@ -4890,7 +4890,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.32"
 msgid "Yo vadeyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.25.33"
 msgid "(88)"
 msgstr ""
@@ -5868,7 +5868,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.43.4"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They told the Master."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.43.5"
 msgid "“Na, bhikkhave, aññatra paribhogo aññatra pari­bhuñji­tabbo."
 msgstr "“You should not use elsewhere furniture belonging somewhere else."
@@ -5877,7 +5877,7 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.43.6"
 msgid "Yo paribhuñjeyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.43.7"
 msgid "(143)"
 msgstr ""
@@ -5895,12 +5895,12 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.44.3"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They told the Master."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.44.4"
 msgid "“Anujānāmi, bhikkhave, tāvakālikaṃ haritun”ti."
 msgstr "“I allow you to borrow."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.44.5"
 msgid "(144)"
 msgstr ""
@@ -6133,13 +6133,13 @@ msgctxt "pli-tv-bu-vb-pj2:pts-cs7.47.9"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "And they told the Master."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: iddhimassa → iddhimato (bj) | iddhimantassa (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.47.10"
 msgid "“Anāpatti, bhikkhave, iddhimassa iddhivisaye”ti."
 msgstr "He said, “There’s no offense in the area of supernormal powers for one who possesses them.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj2:pts-cs7.47.11"
 msgid "(148)"
 msgstr ""

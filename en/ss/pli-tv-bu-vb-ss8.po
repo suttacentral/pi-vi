@@ -845,7 +845,8 @@ msgctxt "pli-tv-bu-vb-ss8:pts-cs1.9.32a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1573"></a><strong class="rule"> 
+#. </h2><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1573"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs1.9.33"
 msgid "“Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya—"
 msgstr "‘If a monk who is angry and displeased groundlessly accuses another monk of an offense entailing expulsion,"
@@ -855,7 +856,7 @@ msgctxt "pli-tv-bu-vb-ss8:pts-cs1.9.34"
 msgid "‘appeva nāma naṃ imamhā brahmacariyā cāveyyan’ti, tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā amūlakañceva taṃ adhikaraṇaṃ hoti bhikkhu ca dosaṃ patiṭṭhāti, saṃghādiseso”ti."
 msgstr "aiming to make him leave the monastic life, and then after some time, whether he is questioned or not, it is clear that the legal issue is groundless, and he admits to his ill-will, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs1.9.35"
 msgid "(<em>8</em>:<strong>12</strong>)"
 msgstr ""
@@ -866,23 +867,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="19"></a><a class="pts-cs" id="bu-ss.8.2"></a><a class="ms-pa" id="ms-pa1574"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -893,132 +894,132 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1575"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.6"
 msgid "Bhikkhunti"
 msgstr "Another monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.7"
 msgid "aññaṃ bhikkhuṃ."
 msgstr "a different monk."
 
 #. </span>
 #. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1576"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.8"
 msgid "Duṭṭho dosoti"
 msgstr "Angry:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.9"
 msgid "kupito anattamano anabhiraddho āhatacitto khilajāto."
 msgstr "upset, dissatisfied, discontent, having hatred, hostile."
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1577"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.10"
 msgid "Appatītoti"
 msgstr "Displeased:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.11"
 msgid "tena ca kopena tena ca dosena tāya ca anattamanatāya tāya ca anabhiraddhiyā appatīto hoti."
 msgstr "because of that upset, that ill-will, that dissatisfaction, and that discontent, he is displeased."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="pts-vp-en" id="bd.1.282"></a><a class="ms-pa" id="ms-pa1578"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.12"
 msgid "Amūlakaṃ nāma"
 msgstr "Groundlessly:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.13"
 msgid "adiṭṭhaṃ asutaṃ aparisaṅkitaṃ."
 msgstr "not seen, not heard, not suspected."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1579"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.14"
 msgid "Pārājikena dhammenāti"
 msgstr "An offense entailing expulsion:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.15"
 msgid "catunnaṃ aññatarena."
 msgstr "one of the four."
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1580"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.16"
 msgid "Anuddhaṃseyyāti"
 msgstr "Accuses:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.17"
 msgid "codeti vā codāpeti vā."
 msgstr "accuses or causes to be accused."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="pts-vp-pli" id="pts-vp-pli3.164"></a><a class="ms-pa" id="ms-pa1581"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.18"
 msgid "Appeva nāma naṃ imamhā brahmacariyā cāveyyanti"
 msgstr "To make him leave the monastic life:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.19"
 msgid "bhikkhubhāvā cāveyyaṃ, samaṇadhammā cāveyyaṃ, sīlakkhandhā cāveyyaṃ, tapoguṇā cāveyyaṃ."
 msgstr "to make him leave the monkhood, leave the state of an ascetic, leave his virtue, leave the benefits of asceticism."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1582"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.20"
 msgid "Tato aparena samayenāti"
 msgstr "And then after some time:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.21"
 msgid "yasmiṃ khaṇe anuddhaṃsito hoti taṃ khaṇaṃ taṃ layaṃ taṃ muhuttaṃ vītivatte."
 msgstr "the moment, the instant, the second after he has made the accusation."
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1583"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.22"
 msgid "Sama­nug­gāhīya­mānoti"
 msgstr "He is questioned:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.23"
 msgid "yena vatthunā anuddhaṃsito hoti tasmiṃ vatthusmiṃ sama­nug­gāhīya­māno."
 msgstr "he is questioned about the grounds of his accusation."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1584"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.24"
 msgid "Asama­nug­gāhīya­mānoti"
 msgstr "Not:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.25"
 msgid "na kenaci vuccamāno."
 msgstr "he is not spoken to by anyone."
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1585"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.26"
 msgid "Adhikaraṇaṃ nāma"
 msgstr "The legal issue:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.27"
 msgid "cattāri adhikaraṇāni—"
 msgstr "there are four kinds of legal issues:"
@@ -1029,12 +1030,12 @@ msgstr "legal issues arising from disputes, legal issues arising from accusation
 
 #. </span>
 #. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1586"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.29"
 msgid "Bhikkhu ca dosaṃ patiṭṭhātīti"
 msgstr "And he admits to his ill-will:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.30"
 msgid "tucchakaṃ mayā bhaṇitaṃ, musā mayā bhaṇitaṃ, abhūtaṃ mayā bhaṇitaṃ,"
 msgstr "“what I said was empty, what I said was false, what I said was unreal;"
@@ -1045,12 +1046,12 @@ msgstr "I said it without knowing.”"
 
 #. </span>
 #. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms-pa1587"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.32"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss8:pts-cs2.33"
 msgid "… pe … tenapi vuccati saṃghādisesoti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
@@ -1749,7 +1750,7 @@ msgctxt "pli-tv-bu-vb-ss8:pts-cs4.2.5"
 msgid "Asuddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ ajjhāpanno."
 msgstr "An impure person has committed an offense entailing expulsion."
 
-#. <span class="note" hidden>See <span class="ref">MS.2.24</span> for the rule on abusive speech.</span> 
+#. See <ref>MS.2.24</ref> for the rule on abusive speech.
 msgctxt "pli-tv-bu-vb-ss8:pts-cs4.2.6"
 msgid "Tañce suddhadiṭṭhi samāno anokāsaṃ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādena dukkaṭassa."
 msgstr "If one thinks he is pure, but then, without having obtained his consent, speaks with the aim of abusing him, one commits one offense for abusive speech and one offense of wrong conduct."
@@ -1832,7 +1833,7 @@ msgctxt "pli-tv-bu-vb-ss8:pts-cs4.3.13"
 msgid "Asuddho hoti puggalo aññataraṃ pārājikaṃ dhammaṃ ajjhāpanno."
 msgstr "An impure person has committed an offense entailing expulsion."
 
-#. <span class="note" hidden>See <span class="ref">MS.2.24</span> for the rule on abusive speech.</span> 
+#. See <ref>MS.2.24</ref> for the rule on abusive speech.
 msgctxt "pli-tv-bu-vb-ss8:pts-cs4.3.14"
 msgid "Tañce asuddhadiṭṭhi samāno anokāsaṃ kārāpetvā akkosādhippāyo vadeti, āpatti omasavādena dukkaṭassa."
 msgstr "If one thinks he is impure, and then, without having obtained his consent, speaks with the aim of abusing him, one commits one offense for abusive speech and one offense of wrong conduct."

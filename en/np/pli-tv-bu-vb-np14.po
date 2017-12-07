@@ -161,7 +161,7 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="4"></a><a class="wt-pa" id="2138"></a><a class="pts-vp-en" id="bd.2.80"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs1.26"
 msgid "“Navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ."
 msgstr "‘If a monk gets a new blanket made, he should keep it for six years."
@@ -170,7 +170,7 @@ msgctxt "pli-tv-bu-vb-np14:pts-cs1.27"
 msgid "Orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "Whether that blanket has been given away or not, if he gets another new blanket made in less than six years, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="5"></a><a class="pts-vp-en" id="bd.2.4"></a><a class="wt-pa" id="2139"></a> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs1.28"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -344,7 +344,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="12"></a><a class="wt-pa" id="2146"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs2.38"
 msgid "“Navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ."
 msgstr "‘If a monk gets a new blanket made, he should keep it for six years."
@@ -353,7 +353,7 @@ msgctxt "pli-tv-bu-vb-np14:pts-cs2.39"
 msgid "Orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyan”ti."
 msgstr "Whether that blanket has been given away or not, if he gets another new blanket made in less than six years, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs2.40"
 msgid "(<em>14</em>:<strong>33</strong>)"
 msgstr ""
@@ -364,89 +364,89 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="13"></a><a class="pts-cs" id="bu-np.14.3"></a><a class="wt-pa" id="2147"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.1"
 msgid "Navaṃ nāma"
 msgstr "New:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.2"
 msgid "karaṇaṃ upādāya vuccati."
 msgstr "newly made is what is meant."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2148"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.3"
 msgid "Santhataṃ nāma"
 msgstr "A blanket:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.4"
 msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2149"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.5"
 msgid "Kārāpetvāti"
 msgstr "Gets made:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.6"
 msgid "karitvā vā kārāpetvā vā."
 msgstr "makes or gets made."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2150"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.7"
 msgid "Chabbassāni dhāretabbanti"
 msgstr "He should keep it for six years:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.8"
 msgid "chabbassaparamatā dhāretabbaṃ."
 msgstr "he should keep it for a minimum of six years."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2151"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.9"
 msgid "Orena ce channaṃ vassānanti"
 msgstr "In less than six years:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.10"
 msgid "ūnakachabbassāni."
 msgstr "fewer than six years."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="2152"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.11"
 msgid "Taṃ santhataṃ vissajjetvāti"
 msgstr "That blanket has been given away:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.12"
 msgid "aññesaṃ datvā."
 msgstr "it has been given to others."
 
 #. </span></p><p><a class="sc" id="19"></a><a class="wt-pa" id="2153"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.13"
 msgid "Avissajjetvāti"
 msgstr "Not:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.14"
 msgid "na kassaci datvā."
 msgstr "it has not been given to anyone."
 
 #. </span></p><p><a class="sc" id="20"></a><a class="wt-pa" id="2154"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.15"
 msgid "Aññatra bhikkhusammutiyāti"
 msgstr "except if the monks have agreed:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np14:pts-cs3.16"
 msgid "ṭhapetvā bhikkhusammutiṃ aññaṃ navaṃ santhataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ."
 msgstr "for the act of making another new blanket, or getting one made, unless he has the permission of the monks, he commits an offense of wrong conduct."

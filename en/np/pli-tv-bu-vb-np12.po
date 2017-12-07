@@ -116,12 +116,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="2112"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs1.16"
 msgid "“Yo pana bhikkhu suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk gets a blanket made entirely of black wool, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs1.17"
 msgid "(<em>12</em>:<strong>31</strong>)"
 msgstr ""
@@ -132,22 +132,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-np.12.2"></a><a class="pts-vp-en" id="bd.2.75"></a><a class="wt-pa" id="2113"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever … "
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -157,12 +157,12 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2114"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.6"
 msgid "Kāḷakaṃ nāma"
 msgstr "Black:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.7"
 msgid "dve kāḷakāni—"
 msgstr "there are two kinds of black:"
@@ -172,23 +172,23 @@ msgid "jātiyā kāḷakaṃ vā rajanakāḷakaṃ vā."
 msgstr "natural black and dyed black."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2115"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.9"
 msgid "Santhataṃ nāma"
 msgstr "A blanket:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.10"
 msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.226"></a><a class="wt-pa" id="2116"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.11"
 msgid "Kārāpeyyāti"
 msgstr "Gets made:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np12:pts-cs2.12"
 msgid "karoti vā kārāpeti vā, payoge dukkaṭaṃ."
 msgstr "for the act of making the blanket, or getting it made, he commits an offense of wrong conduct."

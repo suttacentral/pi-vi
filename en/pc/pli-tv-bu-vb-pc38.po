@@ -128,12 +128,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli4.87"></a><a class="wt-pa" id="wt-pa814"></a><a class="pts-vp-en" id="BD.2.339"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs1.19"
 msgid "“Yo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyan”ti."
 msgstr "‘If a monk eats staple or non-staple food that he has stored, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs1.20"
 msgid "(<em>38</em>:<strong>87</strong>)"
 msgstr ""
@@ -144,23 +144,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.38.2"></a><a class="pts-cs" id="bu-pc.38.2.1"></a><a class="wt-pa" id="wt-pa815"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -171,36 +171,36 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa816"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.6"
 msgid "Sannidhikārakaṃ nāma"
 msgstr "That he has stored:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.7"
 msgid "ajja paṭiggahitaṃ aparajju khāditaṃ hoti."
 msgstr "received today and eaten on the following day."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa817"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.8"
 msgid "Khādanīyaṃ nāma"
 msgstr "Non-staple food:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.9"
 msgid "pañca bhojanāni—yāmakālikaṃ sattāhakālikaṃ yāvajīvikaṃ ṭhapetvā avasesaṃ khādanīyaṃ nāma."
 msgstr "apart from the five staple foods, the post-midday tonics, the seven-day tonics, and the lifetime tonics—the rest is called “non-staple food.”"
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa818"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.10"
 msgid "Bhojanīyaṃ nāma"
 msgstr "Staple food:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc38:pts-cs2.1.11"
 msgid "pañca bhojanāni—"
 msgstr "there are five kinds of staple food:"

@@ -111,7 +111,8 @@ msgctxt "pli-tv-bu-vb-pc49:pts-cs1.15a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa997"></a><strong class="rule">
+#. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa997"></a>
+#. <span class="rule">
 #. VAR: dirattatirattaṃ → dviratta … (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc49:pts-cs1.16"
 msgid "“Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ."
@@ -121,7 +122,7 @@ msgctxt "pli-tv-bu-vb-pc49:pts-cs1.17"
 msgid "Tato ce uttari vaseyya, pācittiyan”ti."
 msgstr "If he stays longer than that, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 msgctxt "pli-tv-bu-vb-pc49:pts-cs1.18"
 msgid "(<em>49</em>:<strong>98</strong>)"
 msgstr ""
@@ -132,36 +133,36 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.49.2"></a><a class="pts-cs" id="bu-pc.49.2.1"></a><a class="wt-pa" id="wt-pa998"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc49:pts-cs2.1.1"
 msgid "Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāyāti"
 msgstr "If that monk has a reason for going to the army:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc49:pts-cs2.1.2"
 msgid "siyā paccayo siyā karaṇīyaṃ."
 msgstr "if he has a reason, if he has business."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="pts-vp-en" id="BD.2.378"></a><a class="wt-pa" id="wt-pa999"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc49:pts-cs2.1.3"
 msgid "Dirattatirattaṃ tena bhikkhunā senāya vasitabbanti"
 msgstr "He may stay with the army for two or three nights:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc49:pts-cs2.1.4"
 msgid "dvetisso rattiyo vasitabbaṃ."
 msgstr "he may stay for two or for three nights."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa1000"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc49:pts-cs2.1.5"
 msgid "Tato ce uttari vaseyyāti"
 msgstr "If he stays longer than that:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc49:pts-cs2.1.6"
 msgid "catutthe divase atthaṅgate sūriye senāya vasati, āpatti pācittiyassa."
 msgstr "if he is staying with the army at sunset on the fourth day, he commits an offense entailing confession."

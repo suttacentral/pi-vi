@@ -570,12 +570,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli3.138"></a><a class="ms-pa" id="ms-pa1234"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs1.5.13"
 msgid "“Yo pana bhikkhu sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ purisassa vā itthimatiṃ, jāyattane vā jārattane vā, saṃghādiseso”ti."
 msgstr "‘If a monk mediates a man’s intentions to a woman or a woman’s intentions to a man, for marriage or for an affair, he commits an offense entailing suspension.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1235"></a> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs1.5.14"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -792,13 +792,13 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1242"></a><a class="pts-vp-en" id="bd.1.236"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: itthimatiṃ → itthīmatiṃ (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss5:pts-cs2.2.14"
 msgid "“Yo pana bhikkhu sañcarittaṃ samāpajjeyya, itthiyā vā purisamatiṃ purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāyapi, saṃghādiseso”ti."
 msgstr "‘If a monk mediates a man’s intentions to a woman or a woman’s intentions to a man, for marriage or for an affair, even if just a brief one, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs2.2.15"
 msgid "(<em>5</em>:<strong>9</strong>)"
 msgstr ""
@@ -809,107 +809,107 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="24"></a><a class="pts-cs" id="bu-ss.5.3"></a><a class="ms-pa" id="ms-pa1243"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.4"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1244"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.5"
 msgid "Sañcarittaṃ samāpajjeyyāti"
 msgstr "Mediates:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.6"
 msgid "itthiyā vā pahito purisassa santike gacchati, purisena vā pahito itthiyā santike gacchati."
 msgstr "sent by a woman he goes to a man, or sent by a man he goes to a woman."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1245"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.7"
 msgid "Itthiyā vā purisamatinti"
 msgstr "A man’s intentions to a woman:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.8"
 msgid "purisassa matiṃ itthiyā āroceti."
 msgstr "he informs a woman of a man’s intention."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1246"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.9"
 msgid "Purisassa vā itthimatinti"
 msgstr "A woman’s intentions to a man:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.10"
 msgid "itthiyā matiṃ purisassa āroceti."
 msgstr "he informs a man of a woman’s intention."
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1247"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.11"
 msgid "Jāyattane vāti"
 msgstr "For marriage:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.12"
 msgid "jāyā bhavissasi."
 msgstr "you will be his wife."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1248"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.13"
 msgid "Jārattane vāti"
 msgstr "For an affair:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.14"
 msgid "jārī bhavissasi."
 msgstr "you will be his mistress."
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1249"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.15"
 msgid "Antamaso taṅkhaṇikāyapīti"
 msgstr "Even if just a brief one:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.16"
 msgid "muhuttikā bhavissasi."
 msgstr "you will be in a short relationship."
 
 #. </span>
 #. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1250"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.17"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs3.18"
 msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
@@ -954,108 +954,108 @@ msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="34"></a><a class="pts-cs" id="bu-ss.5.4.2"></a><a class="ms-pa" id="ms-pa1253"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.1"
 msgid "Māturakkhitā nāma"
 msgstr "The one protected by her mother:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.2"
 msgid "mātā rakkhati gopeti issariyaṃ kāreti vasaṃ vatteti."
 msgstr "her mother protects, guards, wields authority, controls."
 
 #. </span>
 #. </p><p><a class="sc" id="35"></a><a class="ms-pa" id="ms-pa1254"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.3"
 msgid "Piturakkhitā nāma"
 msgstr "The one protected by her father:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.4"
 msgid "pitā rakkhati gopeti issariyaṃ kāreti vasaṃ vatteti."
 msgstr "her father protects, guards, wields authority, controls."
 
 #. </span>
 #. </p><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa1255"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.5"
 msgid "­Mātāpi­tu­rak­khitā nāma"
 msgstr "The one protected by her parents:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.6"
 msgid "mātāpitaro rakkhanti gopenti issariyaṃ kārenti vasaṃ vattenti."
 msgstr "her parents protect, guard, wield authority, control."
 
 #. </span>
 #. </p><p><a class="sc" id="37"></a><a class="ms-pa" id="ms-pa1256"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.7"
 msgid "Bhāturakkhitā nāma"
 msgstr "The one protected by her brother:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.8"
 msgid "bhātā rakkhati gopeti issariyaṃ kāreti vasaṃ vatteti."
 msgstr "her brother protects, guards, wields authority, controls."
 
 #. </span>
 #. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms-pa1257"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.9"
 msgid "Bhagi­ni­rak­khitā nāma"
 msgstr "The one protected by her sister:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.10"
 msgid "bhaginī rakkhati gopeti issariyaṃ kāreti vasaṃ vatteti."
 msgstr "her sister protects, guards, wields authority, controls."
 
 #. </span>
 #. </p><p><a class="sc" id="39"></a><a class="ms-pa" id="ms-pa1258"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.11"
 msgid "Ñātirakkhitā nāma"
 msgstr "The one protected by her relatives:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.12"
 msgid "ñātakā rakkhanti gopenti issariyaṃ kārenti vasaṃ vattenti."
 msgstr "her relatives protect, guard, wield authority, control."
 
 #. </span>
 #. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1259"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.13"
 msgid "Gottarakkhitā nāma"
 msgstr "The one protected by her kinsmen:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.14"
 msgid "sagottā rakkhanti gopenti issariyaṃ kārenti vasaṃ vattenti."
 msgstr "her kinsmen protect, guard, wield authority, control."
 
 #. </span>
 #. </p><p><a class="sc" id="41"></a><a class="ms-pa" id="ms-pa1260"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.15"
 msgid "Dhammarakkhitā nāma"
 msgstr "The one protected by her religion:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.16"
 msgid "sahadhammikā rakkhanti gopenti issariyaṃ kārenti vasaṃ vattenti."
 msgstr "her fellow believers protect, guard, wield authority, control."
 
 #. </span>
 #. </p><p><a class="sc" id="42"></a><a class="ms-pa" id="ms-pa1261"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.17"
 msgid "Sārakkhā nāma"
 msgstr "The one otherwise protected:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.18"
 msgid "gabbhepi pariggahitā hoti—"
 msgstr "even when she is in the womb, there is a master who thinks,"
@@ -1070,133 +1070,133 @@ msgstr "and even when she is engaged for marriage."
 
 #. </span>
 #. </p><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa1262"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.21"
 msgid "Saparidaṇḍā nāma"
 msgstr "The one protected by the threat of punishment:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.2.22"
 msgid "kehici daṇḍo ṭhapito hoti—yo itthannāmaṃ itthiṃ gacchati ettako daṇḍoti."
 msgstr "those who punish will punish anyone going to her."
 
 #. </span>
 #. </p><p><a class="sc" id="44"></a><a class="pts-vp-pli" id="pts-vp-pli3.140"></a><a class="pts-cs" id="bu-ss.5.4.3"></a><a class="ms-pa" id="ms-pa1263"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.1"
 msgid "Dhanakkītā nāma"
 msgstr "The bought wife:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.2"
 msgid "dhanena kiṇitvā vāseti."
 msgstr "after buying her with money, they live together."
 
 #. </span>
 #. </p><p><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa1264"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.3"
 msgid "Chandavāsinī nāma"
 msgstr "The wife by choice:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.4"
 msgid "piyo piyaṃ vāseti."
 msgstr "being dear to each other, they live together."
 
 #. </span>
 #. </p><p><a class="sc" id="46"></a><a class="ms-pa" id="ms-pa1265"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.5"
 msgid "Bhogavāsinī nāma"
 msgstr "The wife through property:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.6"
 msgid "bhogaṃ datvā vāseti."
 msgstr "after giving wealth, they live together."
 
 #. </span>
 #. </p><p><a class="sc" id="47"></a><a class="ms-pa" id="ms-pa1266"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.7"
 msgid "Paṭavāsinī nāma"
 msgstr "The wife through clothes:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.8"
 msgid "paṭaṃ datvā vāseti."
 msgstr "after giving clothes, they live together."
 
 #. </span>
 #. </p><p><a class="sc" id="48"></a><a class="ms-pa" id="ms-pa1267"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.9"
 msgid "Odapattakinī nāma"
 msgstr "The wife through the bowl-of-water ritual:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.10"
 msgid "udakapattaṃ āmasitvā vāseti."
 msgstr "after touching a bowl of water, they live together."
 
 #. </span>
 #. </p><p><a class="sc" id="49"></a><a class="ms-pa" id="ms-pa1268"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 #. VAR: Obhaṭacumbaṭā → ohata … (bj) | obhata (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.11"
 msgid "Obhaṭacumbaṭā nāma"
 msgstr "The wife through removing the head pad:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.12"
 msgid "cumbaṭaṃ oropetvā vāseti."
 msgstr "after taking down the head pad, they live together."
 
 #. </span>
 #. </p><p><a class="sc" id="50"></a><a class="ms-pa" id="ms-pa1269"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.13"
 msgid "Dāsī nāma"
 msgstr "The slave wife:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.14"
 msgid "dāsī ceva hoti bhariyā ca."
 msgstr "she is a slave and a wife."
 
 #. </span>
 #. </p><p><a class="sc" id="51"></a><a class="ms-pa" id="ms-pa1270"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.15"
 msgid "Kammakārī nāma"
 msgstr "The servant wife:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.16"
 msgid "kammakārī ceva hoti bhariyā ca."
 msgstr "she is a servant and a wife."
 
 #. </span>
 #. </p><p><a class="sc" id="52"></a><a class="ms-pa" id="ms-pa1271"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.17"
 msgid "Dhajāhaṭā nāma"
 msgstr "The captured wife:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.18"
 msgid "karamarānītā vuccati."
 msgstr "this refers to one brought back as a captive."
 
 #. </span>
 #. </p><p><a class="sc" id="53"></a><a class="ms-pa" id="ms-pa1272"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.19"
 msgid "Muhuttikā nāma"
 msgstr "The momentary wife:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss5:pts-cs4.3.20"
 msgid "taṅkhaṇikā vuccati."
 msgstr "this refers to a wife for one occasion."

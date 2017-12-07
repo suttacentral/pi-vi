@@ -155,12 +155,13 @@ msgctxt "pli-tv-bu-vb-pc31:pts-cs1.24a"
 msgid ""
 msgstr "Preliminary ruling"
 
-#. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa666"></a><strong class="rule"> 
+#. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa666"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs1.25"
 msgid "“Eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiyan”ti."
 msgstr "‘If a monk eats more than one alms-meal at a public guest house, he commits an offense entailing confession.’”"
 
-#. </strong></p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa667"></a> 
+#. </span></p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa667"></a> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs1.26"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -218,12 +219,12 @@ msgctxt "pli-tv-bu-vb-pc31:pts-cs2.11"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs2.12"
 msgid "“anujānāmi, bhikkhave, gilānena bhikkhunā anuvasitvā anuvasitvā āvasathapiṇḍaṃ bhuñjituṃ."
 msgstr "“Monks, I allow a sick monk to stay on at a public guest house and eat alms there."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs2.13"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "” And so, monks, this training rule should be recited thus:"
@@ -233,7 +234,8 @@ msgctxt "pli-tv-bu-vb-pc31:pts-cs2.13a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa670"></a><strong class="rule"> 
+#. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa670"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs2.14"
 msgid "“Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo."
 msgstr "‘If a monk who is not sick eats more than one alms-meal at a public guest house,"
@@ -243,7 +245,7 @@ msgctxt "pli-tv-bu-vb-pc31:pts-cs2.15"
 msgid "Tato ce uttari bhuñjeyya, pācittiyan”ti."
 msgstr "he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs2.16"
 msgid "(<em>31</em>:<strong>80</strong>)"
 msgstr ""
@@ -254,36 +256,36 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-pc.31.3"></a><a class="pts-cs" id="bu-pc.31.3.1"></a><a class="wt-pa" id="wt-pa671"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs3.1.1"
 msgid "Agilāno nāma"
 msgstr "Who is not sick:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs3.1.2"
 msgid "sakkoti tamhā āvasathā pakkamituṃ."
 msgstr "he is able to leave that public guest house."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa672"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs3.1.3"
 msgid "Gilāno nāma"
 msgstr "Who is sick:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs3.1.4"
 msgid "na sakkoti tamhā āvasathā pakkamituṃ."
 msgstr "he is not able to leave that public guest house."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="pts-vp-pli" id="pts-vp-pli4.71"></a><a class="pts-vp-en" id="BD.2.305"></a><a class="wt-pa" id="wt-pa673"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs3.1.5"
 msgid "Āvasathapiṇḍo nāma"
 msgstr "Alms-meal at a public guest house:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc31:pts-cs3.1.6"
 msgid "pañcannaṃ bhojanānaṃ aññataraṃ bhojanaṃ—"
 msgstr "as much as one needs of any of the five staple foods, prepared for the general public,"
@@ -354,7 +356,7 @@ msgctxt "pli-tv-bu-vb-pc31:pts-cs3.3.3"
 msgid "agilāno sakiṃ bhuñjati,"
 msgstr "if he is not sick and he eats once;"
 
-#. <span class="note" hidden>The commentary explain this as: “Or going means: whoever is going, if he eats one day on the road and one day at the place he has gone to, there is no offense. The same method applies for one who is coming. After going, even when returning, he may eat one day on the road and one day at the place returned to.” <i lang="pli">Gacchanto vāti yo gacchanto antarāmagge ekadivasaṃ gataṭṭhāne ca ekadivasaṃ bhuñjati, tassāpi anāpatti. Āgacchantepi eseva nayo. Gantvā paccāgacchantopi antarāmagge ekadivasaṃ āgataṭṭhāne ca ekadivasaṃ bhuñjituṃ labhati.</i></span> 
+#. The commentary explain this as: “Or going means: whoever is going, if he eats one day on the road and one day at the place he has gone to, there is no offense. The same method applies for one who is coming. After going, even when returning, he may eat one day on the road and one day at the place returned to.” <i lang="pli">Gacchanto vāti yo gacchanto antarāmagge ekadivasaṃ gataṭṭhāne ca ekadivasaṃ bhuñjati, tassāpi anāpatti. Āgacchantepi eseva nayo. Gantvā paccāgacchantopi antarāmagge ekadivasaṃ āgataṭṭhāne ca ekadivasaṃ bhuñjituṃ labhati.</i>
 msgctxt "pli-tv-bu-vb-pc31:pts-cs3.3.4"
 msgid "gacchanto, vā āgacchanto vā bhuñjati,"
 msgstr "if he eats while coming or going;"

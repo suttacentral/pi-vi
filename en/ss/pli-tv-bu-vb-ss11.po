@@ -126,7 +126,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="ms-pa" id="ms-pa1706"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs1.20"
 msgid "“Tasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā."
 msgstr "‘That monk may have one, two, or three monks who take his side and support him,"
@@ -185,7 +185,7 @@ msgctxt "pli-tv-bu-vb-ss11:pts-cs1.33"
 msgid "no ce paṭi­nissaj­jey­yuṃ, saṃghādiseso”ti."
 msgstr "If not, they commit an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs1.34"
 msgid "(<em>11</em>:<strong>15</strong>)"
 msgstr ""
@@ -196,60 +196,60 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-ss.11.2"></a><a class="ms-pa" id="ms-pa1707"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.1"
 msgid "Tasseva kho panāti"
 msgstr "That:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.2"
 msgid "tassa saṃgha­bheda­kassa bhikkhuno."
 msgstr "that monk who is pursuing schism in the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa1708"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.3"
 msgid "Bhikkhū hontīti"
 msgstr "May have […] monks:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.4"
 msgid "aññe bhikkhū honti."
 msgstr "may have other monks."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa1709"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.5"
 msgid "Anuvattakāti"
 msgstr "Who take his side:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.6"
 msgid "yaṃdiṭṭhiko so hoti yaṃkhantiko yaṃruciko tepi taṃdiṭṭhikā honti taṃkhantikā taṃrucikā."
 msgstr "they have the same view, the same belief, the same persuasion as he does."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a><a class="ms-pa" id="ms-pa1710"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.7"
 msgid "Vaggavādakāti"
 msgstr "Who […] support him:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.8"
 msgid "tassa vaṇṇāya pakkhāya ṭhitā honti."
 msgstr "they take his side and are part of his group."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.176"></a><a class="pts-vp-en" id="bd.1.306"></a><a class="ms-pa" id="ms-pa1711"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.9"
 msgid "Eko vā dve vā tayo vāti"
 msgstr "One, two, or three:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.10"
 msgid "eko vā hoti dve vā tayo vā."
 msgstr "There is one, or two, or three."
@@ -272,24 +272,24 @@ msgstr "And he speaks with our consent and approval. He knows about us and speak
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1712"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.15"
 msgid "Te bhikkhūti"
 msgstr "Those monks:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.16"
 msgid "ye te anuvattakā bhikkhū."
 msgstr "those monks who take his side."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1713"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.17"
 msgid "Bhikkhūhīti"
 msgstr "The monks:"
 
-#. </strong>
+#. </span>
 #. </p><div class="gloss"><p><a class="ms-pa" id="ms-pa1714"></a> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.18"
 msgid "aññehi bhikkhūhi."
@@ -388,12 +388,12 @@ msgid "no ce paṭi­nissaj­janti, āpatti dukkaṭassa."
 msgstr "If they do not stop, they commit an offense of wrong conduct."
 
 #. </p></div><p>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.40"
 msgid "Te bhikkhū sama­nubhā­si­tabbā."
 msgstr "Should admonish them:"
 
-#. </strong>
+#. </span>
 #. </p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.41"
 msgid "“Evañca pana, bhikkhave, sama­nubhā­si­tabbā."
@@ -518,12 +518,12 @@ msgid "Dve tayo ekato sama­nubhā­si­tabbā, taduttari na sama­nubhā­si­t
 msgstr "Two or three can be admonished together, but not more than that."
 
 #. </p><hr><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1720"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.70"
 msgid "Saṃghādisesoti"
 msgstr "They commit an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss11:pts-cs2.71"
 msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"

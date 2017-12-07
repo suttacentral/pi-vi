@@ -150,12 +150,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="3"></a><a class="pts-vp-en" id="BD.2.375"></a><a class="wt-pa" id="wt-pa983"></a>
-#. <strong class="rule">
+#. <span class="rule">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs1.23"
 msgid "“Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk goes to see an army in action, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa984"></a>
 msgctxt "pli-tv-bu-vb-pc48:pts-cs1.24"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -208,12 +208,12 @@ msgctxt "pli-tv-bu-vb-pc48:pts-cs2.10"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule">
+#. <span class="rule">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs2.11"
 msgid "“anujānāmi, bhikkhave, tathārūpappaccayā senāya gantuṃ."
 msgstr "“Monks, I allow you to go to the army when there’s a suitable reason."
 
-#. </strong>
+#. </span>
 msgctxt "pli-tv-bu-vb-pc48:pts-cs2.12"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -224,13 +224,13 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa986"></a>
-#. <strong class="rule">
+#. <span class="rule">
 #. VARL tathārūpappaccayā → … rūpapaccayā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc48:pts-cs2.13"
 msgid "“Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, aññatra tathārūpappaccayā, pācittiyan”ti."
 msgstr "‘If a monk goes to see an army in action, unless there is a suitable reason, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 msgctxt "pli-tv-bu-vb-pc48:pts-cs2.14"
 msgid "(<em>48</em>:<strong>97</strong>)"
 msgstr ""
@@ -241,23 +241,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-pc.48.3"></a><a class="pts-cs" id="bu-pc.48.3.1"></a><a class="wt-pa" id="wt-pa987"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -268,24 +268,24 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa988"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.6"
 msgid "Uyyuttā nāma"
 msgstr "An army in action:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.7"
 msgid "senā gāmato nikkhamitvā niviṭṭhā vā hoti payātā vā."
 msgstr "it has left the village and is either encamped or marching."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa989"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.8"
 msgid "Senā nāma"
 msgstr "An army:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.9"
 msgid "hatthī assā rathā pattī."
 msgstr "elephants, horses, chariots, infantry."
@@ -309,12 +309,12 @@ msgid "Dassanūpacāraṃ vijahitvā punappunaṃ passati, āpatti pācittiyassa
 msgstr "Every time he moves outside of the range of sight and then sees it again, he commits an offense entailing confession."
 
 #. </p><hr><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa990"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.14"
 msgid "Aññatra tathārūpappaccayāti"
 msgstr "Unless there is a suitable reason:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc48:pts-cs3.1.15"
 msgid "ṭhapetvā tathārūpappaccayaṃ."
 msgstr "except if there is a suitable reason."

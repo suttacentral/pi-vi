@@ -117,12 +117,12 @@ msgid ""
 msgstr "First preliminary ruling"
 
 #. </h3><p><a class="sc" id="3"></a><a class="pts-vp-en" id="BD.2.307"></a><a class="wt-pa" id="wt-pa680"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs1.16"
 msgid "“Gaṇabhojane pācittiyan”ti."
 msgstr "‘If a monk eats in a group, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa681"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs1.17"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -150,12 +150,12 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs2.4"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards he gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs2.5"
 msgid "“anujānāmi, bhikkhave, gilānena bhikkhunā gaṇabhojanaṃ bhuñjituṃ."
 msgstr "“Monks, I allow a sick monk to eat in a group."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs2.6"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -165,7 +165,8 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs2.6a"
 msgid ""
 msgstr "Second preliminary ruling"
 
-#. </h3><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa683"></a><strong class="rule"> 
+#. </h3><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa683"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs2.7"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -178,7 +179,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs2.9"
 msgid "Gilānasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick.’”"
 
-#. </strong></p><p class="endsection"><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa684"></a> 
+#. </span></p><p class="endsection"><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa684"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs2.10"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -211,12 +212,12 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs3.5"
 msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "They told the Master. …"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs3.6"
 msgid "anujānāmi, bhikkhave, cīvaradānasamaye gaṇabhojanaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat in a group during the robe-giving season."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs3.7"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -226,7 +227,8 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs3.7a"
 msgid ""
 msgstr "Third preliminary ruling"
 
-#. </h3><p><a class="sc" id="9"></a><strong class="rule"><a class="wt-pa" id="wt-pa686"></a> 
+#. </h3><p><a class="sc" id="9"></a>
+#. <span class="rule"><a class="wt-pa" id="wt-pa686"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs3.8"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -239,7 +241,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs3.10"
 msgid "Gilānasamayo, cīvaradānasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season.’”"
 
-#. </strong></p><p class="endsection"><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa687"></a> 
+#. </span></p><p class="endsection"><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa687"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs3.11"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -262,12 +264,12 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs4.3"
 msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "They told the Master. …"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs4.4"
 msgid "anujānāmi, bhikkhave, cīvarakārasamaye gaṇabhojanaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat in a group when you are making a robe."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs4.5"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -277,7 +279,8 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs4.5a"
 msgid ""
 msgstr "Fourth preliminary ruling"
 
-#. </h3><p><a class="sc" id="12"></a><strong class="rule"><a class="wt-pa" id="wt-pa689"></a> 
+#. </h3><p><a class="sc" id="12"></a>
+#. <span class="rule"><a class="wt-pa" id="wt-pa689"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs4.6"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -290,7 +293,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs4.8"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe.’”"
 
-#. </strong></p><p class="endsection"><a class="sc" id="13"></a><a class="wt-pa" id="wt-pa690"></a> 
+#. </span></p><p class="endsection"><a class="sc" id="13"></a><a class="wt-pa" id="wt-pa690"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs4.9"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -330,12 +333,12 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs5.7"
 msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "They told the Master. …"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs5.8"
 msgid "anujānāmi, bhikkhave, addhānagamanasamaye gaṇabhojanaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat in a group when you are traveling on a main road."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs5.9"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -345,7 +348,8 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs5.9a"
 msgid ""
 msgstr "Fifth preliminary ruling"
 
-#. </h3><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa692"></a><strong class="rule"> 
+#. </h3><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa692"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs5.10"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -358,7 +362,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs5.12"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road.’”"
 
-#. </strong></p><p class="endsection"><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa693"></a> 
+#. </span></p><p class="endsection"><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa693"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs5.13"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -397,12 +401,12 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs6.7"
 msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "They told the Master. …"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs6.8"
 msgid "anujānāmi, bhikkhave, nāvābhiruhanasamaye gaṇabhojanaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat in a group when you are traveling by boat."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs6.9"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -412,7 +416,8 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs6.9a"
 msgid ""
 msgstr "Sixth preliminary ruling"
 
-#. </h3><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa695"></a><strong class="rule"> 
+#. </h3><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa695"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs6.10"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -425,7 +430,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs6.12"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road, he is traveling by boat.’”"
 
-#. </strong></p><p><a class="sc" id="19"></a><a class="wt-pa" id="wt-pa696"></a> 
+#. </span></p><p><a class="sc" id="19"></a><a class="wt-pa" id="wt-pa696"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs6.13"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -453,12 +458,12 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs7.4"
 msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "They told the Master. …"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs7.5"
 msgid "anujānāmi, bhikkhave, mahāsamaye gaṇabhojanaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat in a group on big occasions."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs7.6"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -468,7 +473,8 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs7.6a"
 msgid ""
 msgstr "Seventh preliminary ruling"
 
-#. </h3><p><a class="sc" id="21"></a><a class="wt-pa" id="wt-pa698"></a><strong class="rule"> 
+#. </h3><p><a class="sc" id="21"></a><a class="wt-pa" id="wt-pa698"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs7.7"
 msgid "“Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -481,7 +487,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs7.9"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road, he is traveling by boat, it is a big occasion.’”"
 
-#. </strong></p><p class="endsection"><a class="sc" id="22"></a><a class="wt-pa" id="wt-pa699"></a> 
+#. </span></p><p class="endsection"><a class="sc" id="22"></a><a class="wt-pa" id="wt-pa699"></a> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs7.10"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
@@ -569,12 +575,12 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs8.18"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs8.19"
 msgid "“anujānāmi, bhikkhave, samaṇabhattasamaye gaṇabhojanaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat in a group when the meal is given by an ascetic."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs8.20"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -584,7 +590,8 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs8.20a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="24"></a><a class="wt-pa" id="wt-pa701"></a><strong class="rule"> 
+#. </h2><p><a class="sc" id="24"></a><a class="wt-pa" id="wt-pa701"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs8.21"
 msgid "Gaṇabhojane, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk eats in a group, unless there is an appropriate reason, he commits an offense entailing confession."
@@ -598,7 +605,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs8.23"
 msgid "Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo—ayaṃ tattha samayo”ti."
 msgstr "he is sick, it is the robe-giving season, he is making a robe, he is traveling on a main road, he is traveling by boat, it is a big occasion, it is a meal given by an ascetic.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs8.24"
 msgid "(<em>32</em>:<strong>81</strong>)"
 msgstr ""
@@ -609,12 +616,12 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="25"></a><a class="pts-cs-empty" id="bu-pc.32.9"></a><a class="pts-cs" id="bu-pc.32.9.1"></a><a class="wt-pa" id="wt-pa702"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.1"
 msgid "Gaṇabhojanaṃ nāma"
 msgstr "Eats in a group:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.2"
 msgid "yattha cattāro bhikkhū pañcannaṃ bhojanānaṃ aññatarena bhojanena nimantitā bhuñjanti."
 msgstr "wherever four monks, after being invited, eat any of the five staple foods—"
@@ -625,24 +632,24 @@ msgstr "this is called “eats in a group."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="wt-pa" id="wt-pa703"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.4"
 msgid "Aññatra samayāti"
 msgstr "Unless there is an appropriate reason:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.5"
 msgid "ṭhapetvā samayaṃ."
 msgstr "except at an appropriate time."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="wt-pa" id="wt-pa704"></a> 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.6"
 msgid "Gilānasamayo nāma"
 msgstr "He is sick:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 #. VAR: phalitā → phālitā (bj, s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.7"
 msgid "antamaso pādāpi phalitā honti."
@@ -654,24 +661,26 @@ msgstr "he may eat in a group."
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="wt-pa" id="wt-pa705"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.9"
 msgid "Cīvaradānasamayo nāma"
 msgstr "It is the robe-giving season:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.312"></a><span class="note" hidden>That is, the last month of the rainy season, plus the four months of the cold season.</span> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.312"></a>
+#. That is, the last month of the rainy season, plus the four months of the cold season. 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.10"
 msgid "anatthate kathine vassānassa pacchimo māso, atthate kathine pañcamāsā. “Cīvaradānasamayo”ti bhuñjitabbaṃ."
 msgstr "if he has not done the robe-making ceremony, he may eat in a group during the last month of the rainy season. If he has done the robe-making ceremony, he may eat in a group during the five month period."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="wt-pa" id="wt-pa706"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.11"
 msgid "Cīvarakārasamayo nāma"
 msgstr "He is making a robe:"
 
-#. </strong><span class="gloss"><span class="note" hidden>According to the commentary, <span class="ref">Sp.4.813.4</span>, “Whoever does any work to be done in regard to the robe—the Mahāpaccariya says, ‘Even one who just threads the needle’—may eat a group meal because he is making a robe,” <i lang="pli">yo tattha cīvare kattabbaṃ yaṃkiñci kammaṃ karoti, mahāpaccariyañhi “antamaso sūcivedhanako”tipi vuttaṃ, tena cīvarakārasamayoti bhuñjitabbaṃ</i>.</span> 
+#. </span><span class="gloss">
+#. According to the commentary, <ref>Sp.4.813.4</ref>, “Whoever does any work to be done in regard to the robe—the Mahāpaccariya says, ‘Even one who just threads the needle’—may eat a group meal because he is making a robe,” <i lang="pli">yo tattha cīvare kattabbaṃ yaṃkiñci kammaṃ karoti, mahāpaccariyañhi “antamaso sūcivedhanako”tipi vuttaṃ, tena cīvarakārasamayoti bhuñjitabbaṃ</i>. 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.12"
 msgid "cīvare kayiramāne."
 msgstr "if he is making a robe,"
@@ -682,36 +691,37 @@ msgstr "he may eat in a group."
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="pts-vp-pli" id="pts-vp-pli4.75"></a><a class="wt-pa" id="wt-pa707"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.14"
 msgid "Addhānagamanasamayo nāma"
 msgstr "He is traveling on a main road:"
 
-#. </strong><span class="gloss"><span class="note" hidden>Half a <i lang="pli">yojana</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16). Thus half a <i lang="pli">yojana</i> is just over 6 km.</span> 
+#. </span><span class="gloss">
+#. Half a <i lang="pli">yojana</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16). Thus half a <i lang="pli">yojana</i> is just over 6 km. 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.15"
 msgid "“addhayojanaṃ gacchissāmī”ti bhuñjitabbaṃ, gacchantena bhuñjitabbaṃ, gatena bhuñjitabbaṃ."
 msgstr "if he intends to travel at least six kilometers, he may eat in a group. And he may eat in a group while he is traveling, and after traveling."
 
 #. </span>
 #. </p><p><a class="sc" id="31"></a><a class="wt-pa" id="wt-pa708"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.16"
 msgid "Nāvābhiruhanasamayo nāma"
 msgstr "He is traveling by boat:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.17"
 msgid "“nāvaṃ abhiruhissāmī”ti bhuñjitabbaṃ, āruḷhena bhuñjitabbaṃ, oruḷhena bhuñjitabbaṃ."
 msgstr "if he intends to board a boat, he may eat in a group. And he may eat in a group while on-board, and after disembarking."
 
 #. </span>
 #. </p><p><a class="sc" id="32"></a><a class="wt-pa" id="wt-pa709"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.18"
 msgid "Mahāsamayo nāma"
 msgstr "It is a big occasion:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.19"
 msgid "yattha dve tayo bhikkhū piṇḍāya caritvā yāpenti, catutthe āgate na yāpenti."
 msgstr "if two or three monks can get by by walking for alms, but not a group of four,"
@@ -722,12 +732,12 @@ msgstr "he may eat in a group."
 
 #. </span>
 #. </p><p><a class="sc" id="33"></a><a class="wt-pa" id="wt-pa710"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.21"
 msgid "Samaṇabhattasamayo nāma"
 msgstr "It is a meal given by an ascetic:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.1.22"
 msgid "yo koci paribbājakasamāpanno bhattaṃ karoti."
 msgstr "if any kind of wanderer is making the meal,"
@@ -808,7 +818,7 @@ msgctxt "pli-tv-bu-vb-pc32:pts-cs9.3.6"
 msgid "niccabhattaṃ,"
 msgstr "if it is a meal invitation decided by drawing lots;"
 
-#. <span class="note" hidden>One of the sub-commentaries says: <i lang="pli">Ekasmiṃ pakkhe ekadivasaṃ dātabbaṃ bhattaṃ pakkhikaṃ</i>, “<i lang="pli">pakkhikaṃ</i> means: meal to be given one day in one half-month.” (Sp-ṭ.2.30).</span> 
+#. One of the sub-commentaries says: <i lang="pli">Ekasmiṃ pakkhe ekadivasaṃ dātabbaṃ bhattaṃ pakkhikaṃ</i>, “<i lang="pli">pakkhikaṃ</i> means: meal to be given one day in one half-month.” (Sp-ṭ.2.30).
 msgctxt "pli-tv-bu-vb-pc32:pts-cs9.3.7"
 msgid "pakkhikaṃ,"
 msgstr "if it is a half-monthly meal;"

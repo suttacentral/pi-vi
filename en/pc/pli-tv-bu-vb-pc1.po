@@ -61,7 +61,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs1.2"
 msgid "Tena kho pana samayena hatthako sakyaputto vādakkhitto hoti."
 msgstr "At that time Hatthaka the Sakyan had been beaten in debate."
 
-#. <span class="note" hidden>According to <span class="ref">Sp.4.736.6</span> this means: “Before the meal, etc., he would make an appointment, saying, ‘Let there be a debate at such-and-such a time and at such-and-such a place,’ and he would then go there before or after the time of the appointment, saying, ‘Look, sirs, the ascetics of other sects have not come; they are defeated,’ and he would then depart,” <i lang="pli">purebhattādīsu, “asukasmiṃ nāma kāle asukasmiṃ nāma padese vādo hotū”ti saṅketaṃ katvā saṅketato pure vā pacchā vā gantvā, “passatha bho, titthiyā na āgatā parājitā”ti pakkamati</i>.</span> 
+#. According to <ref>Sp.4.736.6</ref> this means: “Before the meal, etc., he would make an appointment, saying, ‘Let there be a debate at such-and-such a time and at such-and-such a place,’ and he would then go there before or after the time of the appointment, saying, ‘Look, sirs, the ascetics of other sects have not come; they are defeated,’ and he would then depart,” <i lang="pli">purebhattādīsu, “asukasmiṃ nāma kāle asukasmiṃ nāma padese vādo hotū”ti saṅketaṃ katvā saṅketato pure vā pacchā vā gantvā, “passatha bho, titthiyā na āgatā parājitā”ti pakkamati</i>.
 msgctxt "pli-tv-bu-vb-pc1:pts-cs1.3"
 msgid "So titthiyehi saddhiṃ sallapanto avajānitvā paṭijānāti, paṭijānitvā avajānāti, aññenaññaṃ paṭicarati, sampajānamusā bhāsati, saṅketaṃ katvā visaṃvādeti."
 msgstr "While talking with ascetics of other sects, he would assert things after denying them, and he would deny things after asserting them. He evaded the issues, lied, and made sham appointments."
@@ -143,12 +143,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="pts-vp-en" id="BD.2.166"></a><a class="wt-pa" id="wt-pa6"></a><a class="sc" id="6"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs1.20"
 msgid "“Sampajānamusāvāde pācittiyan”ti."
 msgstr "‘If a monk lies in full awareness, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs1.21"
 msgid "(<em>1</em>:<strong>50</strong>)"
 msgstr ""
@@ -159,13 +159,13 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-pc.1.2"></a><a class="pts-cs" id="bu-pc.1.2.1"></a><a class="wt-pa" id="wt-pa7"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.1"
 msgid "Sampajānamusāvādo nāma"
 msgstr "Lies in full awareness:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.167"></a>
-#. <span class="note" hidden>Although <i lang="pli">muta</i> normally means “thought,” translating as “sensed” is necessary in light of the next paragraph.</span> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.167"></a>
+#. Although <i lang="pli">muta</i> normally means “thought,” translating as “sensed” is necessary in light of the next paragraph.
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.2"
 msgid "visaṃvādanapurekkhārassa vācā, girā, byappatho, vacībhedo, vācasikā viññatti, aṭṭha anariyavohārā—adiṭṭhaṃ diṭṭhaṃ meti, assutaṃ sutaṃ meti, amutaṃ mutaṃ meti, aviññātaṃ viññātaṃ meti, diṭṭhaṃ adiṭṭhaṃ meti, sutaṃ assutaṃ meti, mutaṃ amutaṃ meti, viññātaṃ aviññātaṃ meti."
 msgstr "the speech of one who is intent on deceiving—his words, his way of speaking, his breaking into speech, his verbal expression, his eight kinds of ignoble speech: he says that he has seen what he has not seen; he says that he has heard what he has not heard; he says that he has sensed what he has not sensed; he says that he has known what he has not known; he says that he has not seen what he has seen; he says that he has not heard what he has heard; he says that he has not sensed what he has sensed; he says that he has not known what he has known."
@@ -182,89 +182,89 @@ msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa8"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.3"
 msgid "Adiṭṭhaṃ nāma"
 msgstr "Not seen:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.4"
 msgid "na cakkhunā diṭṭhaṃ."
 msgstr "not seen with the eye."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.5"
 msgid "Assutaṃ nāma"
 msgstr "Not heard:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.6"
 msgid "na sotena sutaṃ."
 msgstr "not heard with the ear."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.7"
 msgid "Amutaṃ nāma"
 msgstr "Not sensed:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.8"
 msgid "na ghānena ghāyitaṃ, na jivhāya sāyitaṃ, na kāyena phuṭṭhaṃ."
 msgstr "not smelled with the nose, not tasted with the tongue, not touched with the body."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.9"
 msgid "Aviññātaṃ nāma"
 msgstr "Not known:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.10"
 msgid "na manasā viññātaṃ."
 msgstr "not known with the mind."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.11"
 msgid "Diṭṭhaṃ nāma"
 msgstr "Seen:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.12"
 msgid "cakkhunā diṭṭhaṃ."
 msgstr "seen with the eye."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.13"
 msgid "Sutaṃ nāma"
 msgstr "Heard:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.14"
 msgid "sotena sutaṃ."
 msgstr "heard with the ear."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.15"
 msgid "Mutaṃ nāma"
 msgstr "Sensed:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.16"
 msgid "ghānena ghāyitaṃ, jivhāya sāyitaṃ, kāyena phuṭṭhaṃ."
 msgstr "smelled with the nose, tasted with the tongue, touched with the body."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.17"
 msgid "Viññātaṃ nāma"
 msgstr "Known:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.1.18"
 msgid "manasā viññātaṃ."
 msgstr "known with the mind."
@@ -388,7 +388,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.3.5"
 msgid "tīhākārehi adiṭṭhaṃ “diṭṭhañca me sutañca viññātañcā”ti … pe …"
 msgstr "If he lies in full awareness, saying that he has seen and heard and known what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
 
-#. <span class="note" hidden>This series seems to be missing one combination: “… saying that he has seen and sensed and known what he has not seen …” Similarly, one combination seems to be missing from <span class="ref">MS. 2.17-2.19</span>.</span> 
+#. This series seems to be missing one combination: “… saying that he has seen and sensed and known what he has not seen …” Similarly, one combination seems to be missing from <ref>MS. 2.17-2.19</ref>.
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.3.6"
 msgid "tīhākārehi adiṭṭhaṃ “diṭṭhañca me sutañca mutañca viññātañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …."
 msgstr "If he lies in full awareness, saying that he has seen and heard and sensed and known what he has not seen, he commits an offense entailing confession when three conditions are fulfilled …"
@@ -516,7 +516,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.5.5"
 msgid "tīhākārehi diṭṭhaṃ “sutañca me viññātañcā”ti … pe …"
 msgstr "saying that he has heard and known what he has seen …"
 
-#. <span class="note" hidden>This series, too, seems to be missing one combination: “… saying that he has sensed and known what he has seen …” Similarly, one combination seems to be missing from <span class="ref">MS. 2.22-2.24</span>.</span> 
+#. This series, too, seems to be missing one combination: “… saying that he has sensed and known what he has seen …” Similarly, one combination seems to be missing from <ref>MS. 2.22-2.24</ref>.
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.5.6"
 msgid "tīhākārehi diṭṭhaṃ “sutañca me mutañca viññātañcā”ti sampajānamusā bhaṇantassa āpatti pācittiyassa … pe …"
 msgstr "saying that he has heard and sensed and known what he seen, he commits an offense entailing confession when three conditions are fulfilled …"
@@ -634,7 +634,7 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.6.8"
 msgid "viññātaṃ pamuṭṭho hoti; viññātañca me diṭṭhañca mutañcāti … pe …"
 msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and seen and sensed …"
 
-#. <span class="note" hidden>This series, too, seems to be missing one combination: “… saying that he has known and heard and sensed what he has seen …”.</span> 
+#. This series, too, seems to be missing one combination: “… saying that he has known and heard and sensed what he has seen …”.
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.6.9"
 msgid "viññātaṃ pamuṭṭho hoti; viññātañca me diṭṭhañca sutañca mutañcāti sampajānamusā bhaṇantassa āpatti pācittiyassa."
 msgstr "is confused about what he has known, but he lies in full awareness, saying that he has known and seen and heard and sensed, he commits an offense entailing confession when three conditions are fulfilled …"
@@ -676,22 +676,22 @@ msgctxt "pli-tv-bu-vb-pc1:pts-cs2.7.2"
 msgid "davā bhaṇati, ravā bhaṇati."
 msgstr "if he speaks playfully; if he is speaks too fast;"
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.7.3"
 msgid "“Davā bhaṇati nāma"
 msgstr "(speaks playfully means:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.7.4"
 msgid "sahasā bhaṇati."
 msgstr "speaking quickly; "
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.7.5"
 msgid "Ravā bhaṇati nāma"
 msgstr "speaks too fast means:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc1:pts-cs2.7.6"
 msgid "‘aññaṃ bhaṇissāmī’ti aññaṃ bhaṇati”."
 msgstr "thinking to say one thing, he says something else);"

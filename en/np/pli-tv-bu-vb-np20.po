@@ -229,12 +229,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2242"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs1.41"
 msgid "“Yo pana bhikkhu nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk barters in various ways, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs1.42"
 msgid "(<em>20</em>:<strong>39</strong>)"
 msgstr ""
@@ -245,22 +245,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.20.2"></a><a class="wt-pa" id="2243"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -270,23 +270,23 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2244"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.6"
 msgid "Nānappakārakaṃ nāma"
 msgstr "Various ways:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.7"
 msgid "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā, antamaso cuṇṇapiṇḍopi dantakaṭṭhampi dasikasuttampi."
 msgstr "robe-cloth, almsfood, dwellings, or medicines; even bath powder, a toothbrush, or a piece of thread."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.242"></a><a class="wt-pa" id="2245"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.8"
 msgid "Kayavikkayaṃ samāpajjeyyāti"
 msgstr "Barters:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np20:pts-cs2.9"
 msgid "iminā imaṃ dehi, iminā imaṃ āhara, iminā imaṃ parivattehi, iminā imaṃ cetāpehīti."
 msgstr "if he misbehaves, saying, “Give that for this/bring that for this/purchase that with this/exchange that for this,”"

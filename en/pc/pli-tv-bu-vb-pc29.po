@@ -166,12 +166,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli4.67"></a><a class="wt-pa" id="632"></a><a class="pts-vp-en" id="BD.2.297"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs1.26"
 msgid "“Yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya, pācittiyan”ti."
 msgstr "‘If a monk eats almsfood knowing that a nun got it prepared, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="5"></a><a class="wt-pa" id="633"></a> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs1.27"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -226,12 +226,12 @@ msgctxt "pli-tv-bu-vb-pc29:pts-cs2.10"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs2.11"
 msgid "“anujānāmi, bhikkhave, pubbe gihisamārambhe jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat almsfood knowing that a nun got it prepared if the lay person had already intended to prepare it."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs2.12"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "” And so, monks, this training rule should be recited thus:"
@@ -242,14 +242,14 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="636"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: gihisamārambhā → gihīsamārambhā (bj)
 #. VAR: bhikkhuniparipācitaṃ → bhikkhunī … (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc29:pts-cs2.13"
 msgid "“Yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya, aññatra pubbe gihisamārambhā, pācittiyan”ti."
 msgstr "‘If a monk eats almsfood knowing that a nun got it prepared, unless the lay person had already intended to prepare it, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs2.14"
 msgid "(<em>29</em>:<strong>78</strong>)"
 msgstr ""
@@ -260,23 +260,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="9"></a><a class="pts-cs-empty" id="bu-pc.29.3"></a><a class="pts-cs" id="bu-pc.29.3.1"></a><a class="wt-pa" id="637"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -287,36 +287,37 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="638"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.6"
 msgid "Jānāti nāma"
 msgstr "He knows:"
 
-#. </strong><span class="gloss"><span class="note" hidden>The last of these three ways of knowing presumably refers to the nun herself having told the monk. See discussion in note to Relinquishment 30, <span class="ref">MS.1.2425</span>.</span> 
+#. </span><span class="gloss">
+#. The last of these three ways of knowing presumably refers to the nun herself having told the monk. See discussion in note to Relinquishment 30, <ref>MS.1.2425</ref>. 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.7"
 msgid "sāmaṃ vā jānāti aññe vā tassa ārocenti sā vā āroceti."
 msgstr "he knows by himself or others have told him or the nun has told him."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="pts-vp-en" id="BD.2.298"></a><a class="wt-pa" id="639"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.8"
 msgid "Bhikkhunī nāma"
 msgstr "A nun:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.9"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both Orders."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="640"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.10"
 msgid "Paripāceti nāma"
 msgstr "Gets it prepared:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.11"
 msgid "pubbe adātukāmānaṃ akattukāmānaṃ—"
 msgstr "if she says to those who do not already want to give or want to prepare,"
@@ -327,36 +328,36 @@ msgstr "“This monk is a reciter/this monk is learned/this monk is an expert on
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="641"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.13"
 msgid "Piṇḍapāto nāma"
 msgstr "Almsfood:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.14"
 msgid "pañcannaṃ bhojanānaṃ aññataraṃ bhojanaṃ."
 msgstr "any of the five staple foods."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="642"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.15"
 msgid "Aññatra pubbe gihisamārambhāti"
 msgstr "Unless the lay person had already intended to prepare it:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.16"
 msgid "ṭhapetvā gihisamārambhaṃ."
 msgstr "except if the lay person had intended to prepare it."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="643"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.17"
 msgid "Gihisamārambho nāma"
 msgstr "The lay person had intended to prepare it:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc29:pts-cs3.1.18"
 msgid "ñātakā vā honti pavāritā vā pakatipaṭiyattaṃ vā."
 msgstr "they are relatives or they have invited or they normally give."

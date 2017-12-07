@@ -183,12 +183,12 @@ msgid ""
 msgstr "First preliminary ruling"
 
 #. </h3><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa201"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs1.31"
 msgid "“Yo pana bhikkhu mātugāmassa dhammaṃ deseyya pācittiyan”ti."
 msgstr "‘If a monk gives a teaching to a woman, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa202"></a> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs1.32"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -263,12 +263,12 @@ msgid ""
 msgstr "Second preliminary ruling"
 
 #. </h3><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa205"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs2.14"
 msgid "“Yo pana bhikkhū mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, pācittiyan”ti."
 msgstr "‘If a monk gives a teaching of more than five or six sentences to a woman, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="10"></a><a class="pts-vp-pli" id="pts-vp-pli4.22"></a><a class="wt-pa" id="wt-pa206"></a> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs2.15"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -334,13 +334,13 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="13"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: uttarichappañcavācāhi → uttariṃ ­chappañ­cavācāhi (s1-3)
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.12"
 msgid "“Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā purisaviggahena, pācittiyan”ti."
 msgstr "‘If a monk gives a teaching of more than five or six sentences to a woman, except in the presence of a man who understands, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.13"
 msgid "(<em>7</em>:<strong>56</strong>)"
 msgstr ""
@@ -351,33 +351,33 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="14"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.14"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.15"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.16"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.17"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "…The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa211"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.18"
 msgid "Mātugāmo nāma"
 msgstr "A woman:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.19"
 msgid "manussitthī; na yakkhī na petī na tiracchānagatā;"
 msgstr "a human female, not a female spirit, not a female ghost, not a female animal;"
@@ -387,34 +387,34 @@ msgid "viññū, paṭibalā subhāsitadubbhāsitaṃ duṭṭhullāduṭṭhull
 msgstr "one who understands and is capable of discerning bad speech and good speech, what is lewd and what is not lewd."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa212"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.21"
 msgid "Uttarichappañcavācāhīti"
 msgstr "More than five or six sentences:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.22"
 msgid "atirekachappañcavācāhi."
 msgstr "in excess of five or six sentences."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="wt-pa213"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.23"
 msgid "Dhammo nāma"
 msgstr "A teaching:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.24"
 msgid "buddhabhāsito, sāvakabhāsito, isibhāsito, devatābhāsito, atthūpasañhito, dhammūpasañhito."
 msgstr "what has been spoken by the Buddha, what has been spoken by disciples, what has been spoken by sages, what has been spoken by gods, what is connected with what is beneficial, what is connected with the Teaching."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa214"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.25"
 msgid "Deseyyāti"
 msgstr "Gives:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.26"
 msgid "padena deseti, pade pade āpatti pācittiyassa."
 msgstr "if he teaches by the line, then for every line he commits an offense entailing confession."
@@ -424,23 +424,23 @@ msgid "Akkharāya deseti, akkharakkharāya āpatti pācittiyassa."
 msgstr "If he teaches by the syllable, then for every syllable he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="19"></a><a class="wt-pa" id="wt-pa215"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.28"
 msgid "Aññatra viññunā purisaviggahenāti"
 msgstr "Except in the presence of a man who understands:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>“Is present” is not actually found in the Pali, but it is implied.</span> 
+#. </span><span class="gloss">
+#. “Is present” is not actually found in the Pali, but it is implied.
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.29"
 msgid "ṭhapetvā viññuṃ purisaviggahaṃ."
 msgstr "unless a man who understands is present."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.30"
 msgid "Viññū nāma"
 msgstr "A man who understands:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc7:pts-cs3.31"
 msgid "purisaviggaho, paṭibalo hoti subhāsitadubbhāsitaṃ duṭṭhullāduṭṭhullaṃ ājānituṃ."
 msgstr "one who is capable of discerning bad speech and good speech, what is lewd and what is not lewd."
@@ -507,7 +507,7 @@ msgctxt "pli-tv-bu-vb-pc7:pts-cs4.3.5"
 msgid "uṭṭhahitvā puna nisīditvā deseti,"
 msgstr "if he gets up and then sits down again and teaches;"
 
-#. <span class="note" hidden><i lang="pli">Tasmiṃ deseti</i>. According to <span class="ref">Sp.4.751.8</span> this locative should be read as a dative.</span> 
+#. <i lang="pli">Tasmiṃ deseti</i>. According to <ref>Sp.4.751.8</ref> this locative should be read as a dative.
 msgctxt "pli-tv-bu-vb-pc7:pts-cs4.3.6"
 msgid "mātugāmo uṭṭhahitvā puna nisīdati tasmiṃ deseti,"
 msgstr "if the woman gets up and then sits down again, and he then teaches her;"

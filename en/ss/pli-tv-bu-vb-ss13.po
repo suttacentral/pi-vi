@@ -615,7 +615,8 @@ msgctxt "pli-tv-bu-vb-ss13:pts-cs1.8.13a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1765"></a><strong class="rule"> 
+#. </h2><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1765"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs1.8.14"
 msgid "“Bhikkhu paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsako pāpasamācāro."
 msgstr "‘If a monk who lives supported by a village or town is a corrupter of families and badly behaved,"
@@ -710,7 +711,7 @@ msgctxt "pli-tv-bu-vb-ss13:pts-cs1.8.36"
 msgid "no ce paṭi­nissaj­jeyya, saṃghādiseso”ti."
 msgstr "If not, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs1.8.37"
 msgid "(<em>13</em>:<strong>17</strong>)"
 msgstr ""
@@ -721,36 +722,36 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="14"></a><a class="pts-cs" id="bu-ss.13.2"></a><a class="ms-pa" id="ms-pa1766"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.1"
 msgid "Bhikkhu paneva aññataraṃ gāmaṃ vā nigamaṃ vāti"
 msgstr "A monk […] a village or town:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.2"
 msgid "gāmopi nigamopi nagarampi gāmo ceva nigamo ca."
 msgstr "a village and a town and a city are included in just a village and a town."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1767"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.3"
 msgid "Upanissāya viharatīti"
 msgstr "Lives supported by:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.4"
 msgid "tattha paṭibaddhā honti cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khārā."
 msgstr "robe-cloth, almsfood, dwellings, and medicines can be obtained in that place."
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="pts-vp-pli" id="pts-vp-pli3.185"></a><a class="ms-pa" id="ms-pa1768"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.5"
 msgid "Kulaṃ nāma"
 msgstr "A family:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.6"
 msgid "cattāri kulāni—"
 msgstr "there are four kinds of families:"
@@ -761,12 +762,12 @@ msgstr "aristocratic families, brahmin families, merchant families, worker famil
 
 #. </span>
 #. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1769"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.8"
 msgid "Kuladūsakoti"
 msgstr "A corrupter of families:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: vā → veḷunā vā (bj, s1-3)
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.9"
 msgid "kulāni dūseti pupphena vā phalena vā cuṇṇena vā mattikāya vā dantakaṭṭhena vā veḷuyā vā vejjikāya vā jaṅgha­pe­sani­kena vā."
@@ -774,12 +775,12 @@ msgstr "he corrupts families by means of flowers, fruit, bath powder, soap, toot
 
 #. </span>
 #. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1770"></a><a class="pts-vp-en" id="bd.1.326"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.10"
 msgid "Pāpasamācāroti"
 msgstr "Badly behaved:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.11"
 msgid "mālāvacchaṃ ropetipi ropāpetipi,"
 msgstr "he plants flowering trees and gets it done;"
@@ -798,12 +799,12 @@ msgstr "he ties the flowers together and gets it done."
 
 #. </span>
 #. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1771"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.15"
 msgid "Dissanti ceva suyyanti cāti"
 msgstr "Is seen and heard about:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.16"
 msgid "ye saṃmukhā te passanti,"
 msgstr "those who are present see it;"
@@ -814,12 +815,12 @@ msgstr "those who are absent hear about it."
 
 #. </span>
 #. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1772"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.18"
 msgid "Kulāni ca tena duṭṭhānīti"
 msgstr "The families corrupted by him:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.19"
 msgid "pubbe saddhā hutvā taṃ āgamma assaddhā honti,"
 msgstr "they have lost their faith because of him;"
@@ -830,12 +831,12 @@ msgstr "they have lost their confidence because of him."
 
 #. </span>
 #. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1773"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.21"
 msgid "Dissanti ceva suyyanti cāti"
 msgstr "Are seen and heard about:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.22"
 msgid "ye saṃmukhā te passanti,"
 msgstr "those who are present see it;"
@@ -846,24 +847,24 @@ msgstr "those who are absent hear about it."
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1774"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.24"
 msgid "So bhikkhūti"
 msgstr "Him:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.25"
 msgid "yo so kuladūsako bhikkhu."
 msgstr "that monk who is a corrupter of families."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1775"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.26"
 msgid "Bhikkhūhīti"
 msgstr "The monks:"
 
-#. </strong></p><div class="gloss"><p>
+#. </span></p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.27"
 msgid "aññehi bhikkhūhi."
 msgstr "Other monks,"
@@ -912,24 +913,24 @@ msgid "Tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī�
 msgstr "because of this sort of offense, you banish some, but not others.”"
 
 #. </p></div><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1777"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.38"
 msgid "So bhikkhūti"
 msgstr "Him:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.39"
 msgid "yo so kammakato bhikkhu."
 msgstr "that monk who is having a procedure done against him."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1778"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.40"
 msgid "Bhikkhūhīti"
 msgstr "The monks:"
 
-#. </strong></p><div class="gloss"><p><a class="ms-pa" id="ms-pa1779"></a> 
+#. </span></p><div class="gloss"><p><a class="ms-pa" id="ms-pa1779"></a> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.41"
 msgid "aññehi bhikkhūhi."
 msgstr "Other monks,"
@@ -1044,12 +1045,12 @@ msgctxt "pli-tv-bu-vb-ss13:pts-cs2.66"
 msgid "No ce paṭinissajjati, āpatti dukkaṭassa."
 msgstr "If he does not stop, he commits an offense of wrong conduct."
 
-#. </p></div><p><strong class="term"> 
+#. </p></div><p><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.67"
 msgid "So bhikkhu sama­nubhā­si­tabbo."
 msgstr "Should admonish him:"
 
-#. </strong>
+#. </span>
 #. </p><div class="gloss"><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1781"></a> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.68"
 msgid "“Evañca pana, bhikkhave, sama­nubhā­si­tabbo."
@@ -1146,12 +1147,12 @@ msgid "Saṃghādisesaṃ ajjhā­pajjan­tassa ñattiyā dukkaṭaṃ, dvīhi k
 msgstr "For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled."
 
 #. </p><hr><p><a class="sc" id="35"></a><a class="pts-vp-pli" id="pts-vp-pli3.186"></a><a class="ms-pa" id="ms-pa1787"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.90"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss13:pts-cs2.91"
 msgid "saṃghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti;"
 msgstr "only the Order gives probation for that offense, sends back to the beginning, gives a trial period, and rehabilitates—"

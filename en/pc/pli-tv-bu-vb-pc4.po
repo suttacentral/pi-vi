@@ -117,12 +117,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa152"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs1.17"
 msgid "“Yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya pācittiyan”ti."
 msgstr "‘If a monk instructs a person who is not fully ordained to memorize the Teaching, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs1.18"
 msgid "(<em>4</em>:<strong>53</strong>)"
 msgstr ""
@@ -132,89 +132,89 @@ msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.4.2"></a><a class="pts-cs" id="bu-pc.4.2.1"></a><a class="wt-pa" id="wt-pa153"></a><strong class="term"> 
+#. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.4.2"></a><a class="pts-cs" id="bu-pc.4.2.1"></a><a class="wt-pa" id="wt-pa153"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.3"
 msgid "bhikkhūti "
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.4"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="pts-vp-en" id="BD.2.191"></a><a class="wt-pa" id="wt-pa154"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.5"
 msgid "Anupasampanno nāma"
 msgstr "A person who is not fully ordained:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.6"
 msgid "bhikkhuñca bhikkhuniñca ṭhapetvā avaseso anupasampanno nāma."
 msgstr "anyone except a fully ordained monk and a fully ordained nun."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.15"></a><a class="wt-pa" id="wt-pa155"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.7"
 msgid "Padaso nāma"
 msgstr "To memorize:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.8"
 msgid "padaṃ, anupadaṃ, anvakkharaṃ, anubyañjanaṃ."
 msgstr "a line, the next line, syllable by syllable, the next phrase."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa156"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.9"
 msgid "Padaṃ nāma"
 msgstr "A line:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.10"
 msgid "ekato paṭṭhapetvā ekato osāpenti."
 msgstr "they start together and finish together."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.11"
 msgid "Anupadaṃ nāma"
 msgstr "The next line:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.12"
 msgid "pāṭekkaṃ paṭṭhapetvā ekato osāpenti."
 msgstr "one of them starts, but they finish together."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.13"
 msgid "Anvakkharaṃ nāma"
 msgstr "Syllable by syllable:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.14"
 msgid "“rūpaṃ aniccan”ti vuccamāno, “run”ti opāteti."
 msgstr "when ‘<i lang=\"pli\">rūpaṃ aniccaṃ</i>’ is being said, he prompts him, saying, ‘<i lang=\"pli\">rū</i>.’"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.15"
 msgid "Anubyañjanaṃ nāma"
 msgstr "The next phrase:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.16"
 msgid "“rūpaṃ aniccan”ti vuccamāno, “vedanā aniccā”ti saddaṃ nicchāreti."
 msgstr "when ‘<i lang=\"pli\">rūpaṃ aniccaṃ</i>,’ is being said, the other says, ‘<i lang=\"pli\">vedanā aniccā</i>.’"
@@ -231,23 +231,23 @@ msgid "sabbametaṃ padaso nāma."
 msgstr "this is all called “to memorize the Teaching.”"
 
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa158"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.19"
 msgid "Dhammo nāma"
 msgstr "The Teaching:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.192"></a> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.192"></a> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.20"
 msgid "buddhabhāsito, sāvakabhāsito, isibhāsito, devatābhāsito, atthūpasañhito, dhammūpasañhito."
 msgstr "what has been spoken by the Buddha, what has been spoken by disciples, what has been spoken by sages, what has been spoken by gods, what is connected with what is beneficial, what is connected with the Teaching."
 
 #. </span>
-#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa159"></a><strong class="term"> 
+#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa159"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.21"
 msgid "Vāceyyāti"
 msgstr "Instructs:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc4:pts-cs2.1.22"
 msgid "padena vāceti, pade pade āpatti pācittiyassa."
 msgstr "if he instructs by the line, then for every line he commits an offense entailing confession."

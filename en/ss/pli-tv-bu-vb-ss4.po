@@ -254,7 +254,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="7"></a><a class="ms-pa" id="ms-pa1186"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs1.2.20"
 msgid "“Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakā­ma­pāri­cari­yāya vaṇṇaṃ bhāseyya—"
 msgstr "‘If a lustful monk encourages a woman to satisfy his own needs:"
@@ -264,7 +264,7 @@ msgctxt "pli-tv-bu-vb-ss4:pts-cs1.2.21"
 msgid "‘etadaggaṃ, bhagini, pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyāti methunu­pasaṃ­hi­tena’, saṃghādiseso”ti."
 msgstr "“Sister, she provides the highest service who in this way satisfies one like me, who is virtuous, celibate, and of good character,” and if it is a reference to sexual intercourse, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs1.2.22"
 msgid "(<em>4</em>:<strong>8</strong>)"
 msgstr ""
@@ -275,23 +275,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-ss.4.2"></a><a class="ms-pa" id="ms-pa1187"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -302,24 +302,26 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1188"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.6"
 msgid "Otiṇṇo nāma"
 msgstr "Lustful:"
 
-#. </strong><span class="note" hidden>I have rendered <i lang="pli">otiṇṇo vipariṇatena cittena</i> with the single word “lustful.” This means that the definition for <i lang="pli">vipariṇataṃ</i> is missing from my translation. Here is the Pali, followed by a translation: <i lang="pli">Vipariṇatanti rattampi cittaṃ vipariṇataṃ. Duṭṭhampi cittaṃ vipariṇataṃ. Mūḷhampi cittaṃ vipariṇataṃ. Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti</i>; “distorted: a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted. But in this case ‘distorted’ refers to a mind with desire.”</span><span class="gloss"> 
+#. </span>
+#. I have rendered <i lang="pli">otiṇṇo vipariṇatena cittena</i> with the single word “lustful.” This means that the definition for <i lang="pli">vipariṇataṃ</i> is missing from my translation. Here is the Pali, followed by a translation: <i lang="pli">Vipariṇatanti rattampi cittaṃ vipariṇataṃ. Duṭṭhampi cittaṃ vipariṇataṃ. Mūḷhampi cittaṃ vipariṇataṃ. Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti</i>; “distorted: a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted. But in this case ‘distorted’ refers to a mind with desire.”
+#. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.7"
 msgid "sāratto apekkhavā paṭi­baddha­citto."
 msgstr "having lust, longing for, in love with."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1189"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.8"
 msgid "Vipariṇatanti"
 msgstr ""
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.9"
 msgid "rattampi cittaṃ vipariṇataṃ, duṭṭhampi cittaṃ vipariṇataṃ, mūḷhampi cittaṃ vipariṇataṃ."
 msgstr ""
@@ -330,12 +332,12 @@ msgstr ""
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa1190"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.11"
 msgid "Mātugāmo nāma"
 msgstr "A woman:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.12"
 msgid "manussitthī, na yakkhī, na petī, na tiracchānagatā."
 msgstr "a human female, not a female spirit, not a female ghost, not a female animal."
@@ -346,49 +348,49 @@ msgstr "She understands and is capable of discerning bad speech and good speech,
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1191"></a>
-#. <span class="note" hidden>I have rendered <i lang="pli">mātugāmassa santike</i>, “in the presence of a woman,” simply as “woman.” Since woman has already been defined above, this definition falls away in my translation. Here is the Pali of the missing part, followed by a translation: <i lang="pli">Mātugāmassa santiketi mātugāmassa sāmantā, mātugāmassa avidūre.</i>; “in the presence of a woman: near a woman, close to a woman.”</span>
-#. <strong class="term"> 
+#. I have rendered <i lang="pli">mātugāmassa santike</i>, “in the presence of a woman,” simply as “woman.” Since woman has already been defined above, this definition falls away in my translation. Here is the Pali of the missing part, followed by a translation: <i lang="pli">Mātugāmassa santiketi mātugāmassa sāmantā, mātugāmassa avidūre.</i>; “in the presence of a woman: near a woman, close to a woman.”
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.14"
 msgid "Mātugāmassa santiketi"
 msgstr ""
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.15"
 msgid "mātugāmassa sāmantā, mātugāmassa avidūre."
 msgstr ""
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1192"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.16"
 msgid "Attakāmanti"
 msgstr "His own needs:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.17"
 msgid "attano kāmaṃ attano hetuṃ attano adhippāyaṃ attano pāricariyaṃ."
 msgstr "his own sense desires, for the sake of himself, aiming at himself, satisfying himself."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1193"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.18"
 msgid "Etadagganti"
 msgstr "The highest:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.19"
 msgid "etaṃ aggaṃ etaṃ seṭṭhaṃ etaṃ mokkhaṃ etaṃ uttamaṃ etaṃ pavaraṃ."
 msgstr "this is the highest, this is the best, this is the foremost, this is the utmost, this is the most excellent."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1194"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.20"
 msgid "Yāti"
 msgstr "She:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: khattiyī → khattiyā (bj, s1-3) | khatti (si)
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.21"
 msgid "khattiyī vā brāhmaṇī vā vessī vā suddī vā."
@@ -396,96 +398,96 @@ msgstr "a female aristocrat, a female brahmin, a female merchant, or a female wo
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1195"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.22"
 msgid "Mādisanti"
 msgstr "One like me:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.23"
 msgid "khattiyaṃ vā brāhmaṇaṃ vā vessaṃ vā suddaṃ vā."
 msgstr "a male aristocrat, a male brahmin, a male merchant, or a male worker."
 
 #. </span>
 #. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1196"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.24"
 msgid "Sīlavantanti"
 msgstr "Who is virtuous:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.25"
 msgid "pāṇātipātā paṭivirataṃ, adinnādānā paṭivirataṃ, musāvādā paṭivirataṃ."
 msgstr "one who refrains from killing living beings, who refrains from stealing, who refrains from lying."
 
 #. </span>
 #. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1197"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.26"
 msgid "Brahmacārinti"
 msgstr "Celibate:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.27"
 msgid "methunadhammā paṭivirataṃ."
 msgstr "one who refrains from sexual intercourse."
 
 #. </span>
 #. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1198"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.28"
 msgid "Kalyāṇadhammo nāma"
 msgstr "Of good character:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.29"
 msgid "tena ca sīlena tena ca brahmacariyena kalyāṇadhammo hoti."
 msgstr "he is one of good character because of that virtue and because of being celibate."
 
 #. </span>
 #. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1199"></a><a class="pts-vp-en" id="bd.1.226"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.30"
 msgid "Etena dhammenāti"
 msgstr "In this way:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.31"
 msgid "methuna­dham­mena."
 msgstr "with sexual intercourse."
 
 #. </span>
 #. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1200"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.32"
 msgid "Paricareyyāti"
 msgstr "Satisfies:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.33"
 msgid "abhirameyya."
 msgstr "gives pleasure to."
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1201"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.34"
 msgid "Methunu­pasaṃ­hi­tenāti"
 msgstr "If it is a reference to sexual intercourse:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.35"
 msgid "methuna­dhammap­paṭi­saṃ­yuttena."
 msgstr "if it is a reference to the sexual act."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1202"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.36"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss4:pts-cs2.37"
 msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"
@@ -571,7 +573,7 @@ msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.17"
 msgid "tiracchānagato ca hoti tiracchā­na­gata­saññī … pe …"
 msgstr "It is an animal, he perceives it as an animal …"
 
-#. <span class="note" hidden>MS has missed out the ellipses points between <i lang="pli">vematiko</i> and <i lang="pli">itthisaññī</i>, that is, between “but he is unsure of it” and “but he perceives it as a woman.”</span> 
+#. MS has missed out the ellipses points between <i lang="pli">vematiko</i> and <i lang="pli">itthisaññī</i>, that is, between “but he is unsure of it” and “but he perceives it as a woman.”
 msgctxt "pli-tv-bu-vb-ss4:pts-cs3.1.18"
 msgid "vematiko <span class=\"add\">…</span>"
 msgstr "It is an animal, but he is unsure of it …"

@@ -239,7 +239,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa998"></a><a class="pts-vp-en" id="bd.1.202"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: veṇiggāhaṃ → veṇigāhaṃ (bj, s1-3, pts1)
 #. VAR: hatthaggāhaṃ → hatthagāhaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:pts-cs1.2.16"
@@ -250,7 +250,7 @@ msgctxt "pli-tv-bu-vb-ss2:pts-cs1.2.17"
 msgid "saṃghādiseso”ti."
 msgstr "he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs1.2.18"
 msgid "(<em>2</em>:<strong>6</strong>)"
 msgstr ""
@@ -261,23 +261,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-ss.2.2"></a><a class="pts-cs" id="bu-ss.2.2.1"></a><a class="ms-pa" id="ms-pa999"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -288,24 +288,26 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli3.121"></a><a class="ms-pa" id="ms-pa1000"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.6"
 msgid "Otiṇṇo nāma"
 msgstr "Lustful:"
 
-#. </strong><span class="note" hidden>I have rendered <i lang="pli">otiṇṇo vipariṇatena cittena</i> with the single word “lustful.” This means that the definition for <i lang="pli">vipariṇataṃ</i> is missing from my translation. Here is the Pali, followed by a translation: <i lang="pli">Vipariṇatanti rattampi cittaṃ vipariṇataṃ. Duṭṭhampi cittaṃ vipariṇataṃ. Mūḷhampi cittaṃ vipariṇataṃ. Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti</i>; “distorted: a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted. But in this case ‘distorted’ refers to a mind with desire.”</span><span class="gloss"> 
+#. </span>
+#. I have rendered <i lang="pli">otiṇṇo vipariṇatena cittena</i> with the single word “lustful.” This means that the definition for <i lang="pli">vipariṇataṃ</i> is missing from my translation. Here is the Pali, followed by a translation: <i lang="pli">Vipariṇatanti rattampi cittaṃ vipariṇataṃ. Duṭṭhampi cittaṃ vipariṇataṃ. Mūḷhampi cittaṃ vipariṇataṃ. Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti</i>; “distorted: a mind with desire is distorted, a mind with anger is distorted, a confused mind is distorted. But in this case ‘distorted’ refers to a mind with desire.”
+#. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.7"
 msgid "sāratto apekkhavā paṭi­baddha­citto."
 msgstr "having lust, longing for, in love with."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1001"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.8"
 msgid "Vipariṇatanti"
 msgstr ""
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.9"
 msgid "rattampi cittaṃ vipariṇataṃ."
 msgstr ""
@@ -324,12 +326,12 @@ msgid "Api ca rattaṃ cittaṃ imasmiṃ atthe adhippetaṃ vipariṇatanti."
 msgstr ""
 
 #. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1002"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.13"
 msgid "Mātugāmo nāma"
 msgstr "A woman:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.14"
 msgid "manussitthī, na yakkhī na petī, na tiracchānagatā."
 msgstr "a human female, not a female spirit, not a female ghost, not a female animal;"
@@ -340,60 +342,60 @@ msgstr "even a girl born on that very day, all the more an older one."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa1003"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.16"
 msgid "Saddhinti"
 msgstr "With:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.17"
 msgid "ekato."
 msgstr "together."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1004"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.18"
 msgid "Kāyasaṃsaggaṃ samāpajjeyyāti"
 msgstr "Makes physical contact:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.19"
 msgid "ajjhācāro vuccati."
 msgstr "misconduct is what is meant."
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="pts-vp-en" id="bd.1.203"></a><a class="ms-pa" id="ms-pa1005"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.20"
 msgid "Hattho nāma"
 msgstr "Hand:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.21"
 msgid "kapparaṃ upādāya yāva agganakhā."
 msgstr "from the elbow to the tip of the nails."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1006"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.22"
 msgid "Veṇī nāma"
 msgstr "Hair:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.23"
 msgid "suddhakesā vā, suttamissā vā, mālāmissā vā, hiraññamissā vā, suvaṇṇamissā vā, muttāmissā vā, maṇimissā vā."
 msgstr "just the hair; or hair with strings in it, with a garland, with gold, with pearls, or with gems."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1007"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.24"
 msgid "Aṅgaṃ nāma"
 msgstr "Any part of her body:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.1.25"
 msgid "hatthañca veṇiñca ṭhapetvā avasesaṃ aṅgaṃ nāma."
 msgstr "anything apart from the hand and the hair is called “any part of her body.”"
@@ -415,84 +417,84 @@ msgid ""
 msgstr "Sub-definitions"
 
 #. </h4><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1009"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.2"
 msgid "Āmasanā nāma"
 msgstr "Physical contact:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.3"
 msgid "āmaṭṭhamattā."
 msgstr "mere physical contact."
 
 #. </span>
 #. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1010"></a><a class="pts-vp-en" id="bd.1.204"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.4"
 msgid "Parāmasanā nāma"
 msgstr "Touching:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.5"
 msgid "itocito ca sañcopanā."
 msgstr "touching here and there."
 
 #. </span>
 #. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1011"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.6"
 msgid "Omasanā nāma"
 msgstr "Stroking downwards:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.7"
 msgid "heṭṭhā oropanā."
 msgstr "lowering down."
 
 #. </span>
 #. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1012"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.8"
 msgid "Ummasanā nāma"
 msgstr "Stroking upwards:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.9"
 msgid "uddhaṃ uccāraṇā."
 msgstr "raising up."
 
 #. </span>
 #. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1013"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.10"
 msgid "Olaṅghanā nāma"
 msgstr "Pulling down:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.11"
 msgid "heṭṭhā onamanā."
 msgstr "lowering."
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1014"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.12"
 msgid "Ullaṅghanā nāma"
 msgstr "Raising up:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.13"
 msgid "uddhaṃ uccāraṇā."
 msgstr "lifting."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1015"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.14"
 msgid "Ākaḍḍhanā nāma"
 msgstr "Pulling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: āviñchanā → āviñjanā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.15"
 msgid "āviñchanā."
@@ -500,72 +502,72 @@ msgstr "drawing to."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1016"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.16"
 msgid "Patikaḍḍhanā nāma"
 msgstr "Pushing:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.17"
 msgid "patippaṇāmanā."
 msgstr "sending away."
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1017"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.18"
 msgid "Abhiniggaṇhanā nāma"
 msgstr "Squeezing:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.19"
 msgid "aṅgaṃ gahetvā nippīḷanā."
 msgstr "taking hold of a bodily part and then pressing."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1018"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.20"
 msgid "Abhinippīḷanā nāma"
 msgstr "Pressing:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.21"
 msgid "kenaci saha nippīḷanā."
 msgstr "pressing with something."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1019"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.22"
 msgid "Gahaṇaṃ nāma"
 msgstr "Take hold of:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.23"
 msgid "gahitamattaṃ."
 msgstr "mere taking hold of."
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1020"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.24"
 msgid "Chupanaṃ nāma"
 msgstr "Contacting:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.25"
 msgid "phuṭṭhamattaṃ."
 msgstr "mere contact."
 
 #. </span>
 #. </p><hr><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1021"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.26"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss2:pts-cs2.2.27"
 msgid "… pe …"
 msgstr "…"
@@ -1354,7 +1356,7 @@ msgid "gaṇhāti chupati, āpatti dvinnaṃ dukkaṭānaṃ … pe …."
 msgstr "takes hold of them, contacts them, he commits two offenses of wrong conduct. …"
 
 #. </p><h5>
-#. <span class="note" hidden>By throwing, dropping, etc.</span>
+#. By throwing, dropping, etc.
 msgctxt "pli-tv-bu-vb-ss2:pts-cs3.4.27a"
 msgid ""
 msgstr "Making indirect contact: contact by releasing"

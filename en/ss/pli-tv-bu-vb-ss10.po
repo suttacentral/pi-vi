@@ -365,7 +365,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-vp-pli" id="pts-vp-pli3.173"></a><a class="ms-pa" id="ms-pa1679"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs1.3.17"
 msgid "“Yo pana bhikkhu samaggassa saṃghassa bhedāya parakkameyya, bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo—"
 msgstr "‘If a monk pursues schism in a united Order or persists in taking up a legal issue conducive to schism, the monks should say to him,"
@@ -397,7 +397,7 @@ msgctxt "pli-tv-bu-vb-ss10:pts-cs1.3.23"
 msgid "no ce paṭi­nissaj­jeyya, saṃghādiseso”ti."
 msgstr "If not, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs1.3.24"
 msgid "(<em>10</em>:<strong>14</strong>)"
 msgstr ""
@@ -408,23 +408,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-ss.10.2"></a><a class="ms-pa" id="ms-pa1680"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -435,98 +435,98 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1681"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.6"
 msgid "Samaggo nāma saṃgho"
 msgstr "A united Order:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.7"
 msgid "samā­nasaṃ­vāsako samānasīmāyaṃ ṭhito."
 msgstr "belonging to the same community, staying within the same boundary."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1682"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.8"
 msgid "Bhedāya parakkameyyā</strong>ti—"
 msgstr "Pursues schism:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.9"
 msgid "“kathaṃ ime nānā assu, vinā assu, vaggā assū”ti pakkhaṃ pariyesati, gaṇaṃ bandhati."
 msgstr "thinking, “What can be done so that these become various, separated, divided,” he searches for a faction and puts together a group."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa1683"></a>
-#. <span class="note" hidden>For these eighteen grounds, see <span class="ref">MS.4.1595-4.1614</span>.</span>
-#. <strong class="term"> 
+#. For these eighteen grounds, see <ref>MS.4.1595-4.1614</ref>.
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.10"
 msgid "Bheda­na­saṃ­vatta­ni­kaṃ vā adhikaraṇanti"
 msgstr "A legal issue conducive to schism:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.11"
 msgid "aṭṭhā­ra­sa­bheda­ka­ra­vatthūni."
 msgstr "the eighteen grounds for creating a schism."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1684"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.12"
 msgid "Samādāyāti"
 msgstr "Taking up:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.13"
 msgid "ādāya."
 msgstr "having adopted it, he proclaims it."
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1685"></a>
-#. <strong class="term">
-#. <span class="note" hidden>“Taking up” here renders both <i lang="pli">samādāya</i> and <i lang="pli">paggayha</i>, and as a consequence it appears as if one of the definitions found in the Pali is missing in the translation. In the Pali <i lang="pli">samādāya</i> is defined as <i lang="pli">ādāya</i>, “having adopted,” and <i lang="pli">paggayha</i> as <i lang="pli">dīpeyya</i>, “he proclaims.”</span> 
+#. <span class="term">
+#. “Taking up” here renders both <i lang="pli">samādāya</i> and <i lang="pli">paggayha</i>, and as a consequence it appears as if one of the definitions found in the Pali is missing in the translation. In the Pali <i lang="pli">samādāya</i> is defined as <i lang="pli">ādāya</i>, “having adopted,” and <i lang="pli">paggayha</i> as <i lang="pli">dīpeyya</i>, “he proclaims.”
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.14"
 msgid "Paggayhāti"
 msgstr ""
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.15"
 msgid "dīpeyya."
 msgstr ""
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="pts-vp-en" id="bd.1.301"></a><a class="ms-pa" id="ms-pa1686"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.16"
 msgid "Tiṭṭheyyāti"
 msgstr "If […] persists in:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.17"
 msgid "na paṭi­nissaj­jeyya."
 msgstr "if he does not stop."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="ms-pa" id="ms-pa1687"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.18"
 msgid "So bhikkhūti"
 msgstr "Him:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.19"
 msgid "yo so saṃghabhedako bhikkhu."
 msgstr "the monk who is pursuing schism in the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1688"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.20"
 msgid "Bhikkhūhīti"
 msgstr "The monks:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.21"
 msgid "aññehi bhikkhūhi."
 msgstr ""
@@ -613,12 +613,12 @@ msgctxt "pli-tv-bu-vb-ss10:pts-cs2.39"
 msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
 msgstr "If he does not stop, he commits an offense of wrong conduct."
 
-#. </p></div><p><strong class="term"> 
+#. </p></div><p><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.40"
 msgid "So bhikkhu sama­nubhā­si­tabbo—"
 msgstr "Should admonish him:"
 
-#. </strong>
+#. </span>
 #. </p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.41"
 msgid "“evañca pana, bhikkhave, sama­nubhā­si­tabbo."
@@ -739,12 +739,12 @@ msgid "Saṃghādisesaṃ ajjhā­pajjan­tassa ñattiyā dukkaṭaṃ, dvīhi k
 msgstr "For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled."
 
 #. </p><hr><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1695"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.69"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss10:pts-cs2.70"
 msgid "… pe … tenapi vuccati saṃghādisesoti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"

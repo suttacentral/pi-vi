@@ -169,13 +169,13 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="2338"></a>
-#. <strong class="rule">
-#. <span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.</span> 
+#. <span class="rule">
+#. <i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.28"
 msgid "“Yo pana bhikkhu bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk himself gives robe-cloth to a monk, but then, in anger, takes it back or gets it taken back, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.29"
 msgid "(<em>25</em>:<strong>44</strong>)"
 msgstr ""
@@ -186,22 +186,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.30"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.31"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.32"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.33"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -211,70 +211,70 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2340"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.35"
 msgid "Bhikkhussāti"
 msgstr "To a monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.36"
 msgid "aññassa bhikkhussa."
 msgstr "to another monk."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2341"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.37"
 msgid "Sāmanti"
 msgstr "Himself:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.38"
 msgid "sayaṃ datvā."
 msgstr "he himself has given it."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2342"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.39"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
-#. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh. 94.4</span> and BMC I, pp. 565-566.</span> 
+#. </span><span class="gloss">
+#. The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <ref>Mv.8.3.1</ref>.
+#. This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <ref>Kkh. 94.4</ref> and BMC I, pp. 565-566.
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.40"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2343"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.41"
 msgid "Kupito anattamanoti"
 msgstr "In anger:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.42"
 msgid "anabhiraddho āhatacitto khilajāto."
 msgstr "discontent, having hatred, hostile."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2344"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.43"
 msgid "Acchindeyyāti"
 msgstr "Takes […] back:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.44"
 msgid "sayaṃ acchindati, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he takes it back himself, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2345"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.45"
 msgid "Acchindāpeyyāti"
 msgstr "Gets […] taken back:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np25:pts-cs1.46"
 msgid "aññaṃ āṇāpeti, āpatti dukkaṭassa."
 msgstr "if he asks another, he commits an offense of wrong conduct."

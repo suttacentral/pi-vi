@@ -225,14 +225,14 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a>
-#. <strong class="rule"><a class="wt-pa" id="522"></a> 
+#. <span class="rule"><a class="wt-pa" id="522"></a> 
 #. VAR: sūriye → suriye (s1-3, pts1)
 #. VAR: Sammatopi ce → sammato ce pi (pts1)
 msgctxt "pli-tv-bu-vb-pc22:pts-cs1.41"
 msgid "“Sammatopi ce bhikkhu atthaṅgate sūriye bhikkhuniyo ovadeyya, pācittiyan”ti."
 msgstr "‘Even if he has been agreed upon, if a monk instructs the nuns after sunset, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs1.42"
 msgid "(<em>22</em>:<strong>71</strong>)"
 msgstr ""
@@ -243,48 +243,48 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.21.2.1"></a><a class="wt-pa" id="523"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.1"
 msgid "Sammato nāma"
 msgstr "Who has been agreed upon:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.2"
 msgid "ñatticatutthena kammena sammato."
 msgstr "who has been agreed upon through a procedure consisting of one motion and three announcements."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="wt-pa" id="524"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.3"
 msgid "Atthaṅgate sūriyeti"
 msgstr "After sunset:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.4"
 msgid "oggate sūriye."
 msgstr "after the sun has gone down."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="525"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.5"
 msgid "Bhikkhunī nāma"
 msgstr "The nuns:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.6"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "they have been given the full ordination by both Orders."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="526"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.7"
 msgid "Ovadeyyāti"
 msgstr "Instructs:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc22:pts-cs2.1.8"
 msgid "aṭṭhahi vā garudhammehi aññena vā dhammena ovadati, āpatti pācittiyassa."
 msgstr "if he instructs in the eight rules to be respected or he gives any other teaching, he commits an offense entailing confession."

@@ -37,7 +37,7 @@ msgid ""
 msgstr "Monks’ Relinquishment"
 
 #. </p><h1>
-#. <span class="note" hidden>Here, and in the heading to <i lang="pli">nissaggiya pācittiya 3</i> (and also at the end of each of these rules), I translate <i lang="pli">kathina</i> as “robe-making season” rather than “robe-making ceremony,” since this is the contextual meaning in these rules.</span> 
+#. Here, and in the heading to <i lang="pli">nissaggiya pācittiya 3</i> (and also at the end of each of these rules), I translate <i lang="pli">kathina</i> as “robe-making season” rather than “robe-making ceremony,” since this is the contextual meaning in these rules.
 msgctxt "pli-tv-bu-vb-np1:pts-cs0.6"
 msgid "1. Kathinasikkhāpada"
 msgstr "1. The training rule on the robe-making season"
@@ -121,12 +121,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="4"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs1.14"
 msgid "“Yo pana bhikkhu atirekacīvaraṃ dhāreyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk has extra robe-cloth, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p><a class="sc" id="5"></a><a class="pts-vp-en" id="bd.2.4"></a><a class="wt-pa" id="1865"></a> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs1.15"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -210,8 +210,8 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="1867"></a><a class="pts-vp-en" id="bd.2.5"></a>
-#. <span class="note" hidden>In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> below it also refers to pieces of robe-cloth. This means that I have to vary my translation depending on the context.</span>
-#. <strong class="rule"> 
+#. In addition to meaning a finished robe, according to the definition of <i lang="pli">cīvara</i> below it also refers to pieces of robe-cloth. This means that I have to vary my translation depending on the context.
+#. <span class="rule"> 
 #. VAR: kathine → kaṭhine (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np1:pts-cs1.32"
 msgid "“Niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ."
@@ -221,7 +221,7 @@ msgctxt "pli-tv-bu-vb-np1:pts-cs1.33"
 msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
 msgstr "If he keeps it beyond that, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs1.34"
 msgid "(<em>1</em>:<strong>20</strong>)"
 msgstr ""
@@ -232,74 +232,74 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-np.1.3"></a><a class="pts-cs" id="bu-np.1.3.1"></a><a class="pts-vp-en" id="bd.2.6"></a><a class="wt-pa" id="1868"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.1"
 msgid "Niṭṭhitacīvarasminti"
 msgstr "When his robe is finished:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>This refers to the robe-cloth received during the robe-making season. For details see <span class="ref">Mv.7.2-7.12</span>.</span> 
+#. </span><span class="gloss">
+#. This refers to the robe-cloth received during the robe-making season. For details see <ref>Mv.7.2-7.12</ref>.
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.2"
 msgid "bhikkhuno cīvaraṃ kataṃ vā hoti naṭṭhaṃ vā vinaṭṭhaṃ vā daḍḍhaṃ vā cīvarāsā vā upacchinnā."
 msgstr "the monk has made a robe, or the robe-cloth has been lost, destroyed, or burnt, or he has abandoned his expectation of receiving further robe-cloth."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="1869"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.3"
 msgid "Ubbhatasmiṃ kathineti"
 msgstr "The robe-making season has ended:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>For an explanation of this see <span class="ref">Mv.7.1.7</span> and <span class="ref">Mv.7.2-7.12</span>.</span> 
+#. </span><span class="gloss">
+#. For an explanation of this see <ref>Mv.7.1.7</ref> and <ref>Mv.7.2-7.12</ref>.
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.4"
 msgid "aṭṭhannaṃ mātikānaṃ aññatarāya mātikāya ubbhataṃ hoti, saṃghena vā antarā ubbhataṃ hoti."
 msgstr "it has ended according to one of the eight headings or the Order has ended it, whichever comes first."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="1870"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.5"
 msgid "Dasāhaparamanti"
 msgstr "For ten days at the most:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: dasāhaparamatā → dasāha­parama­tāya (si)
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.6"
 msgid "dasāhaparamatā dhāretabbaṃ."
 msgstr "it should be kept for ten days at a maximum."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="pts-vp-en" id="bd.2.7"></a><a class="wt-pa" id="1871"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.7"
 msgid "Atirekacīvaraṃ nāma"
 msgstr "Extra robe-cloth:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>“Transferred” is a rendering of <i lang="pli">vikappita</i>. The explanation given at <i lang="pli">pācittiya</i> 59 seems to make it clear that <i lang="pli">vikappanā</i> refers to a change in ownership. The word commentary specifically says that the item is given to someone else and that the monk giving it up may use it only if he takes their belonging on trust.</span> 
+#. </span><span class="gloss">
+#. “Transferred” is a rendering of <i lang="pli">vikappita</i>. The explanation given at <i lang="pli">pācittiya</i> 59 seems to make it clear that <i lang="pli">vikappanā</i> refers to a change in ownership. The word commentary specifically says that the item is given to someone else and that the monk giving it up may use it only if he takes their belonging on trust.
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.8"
 msgid "anadhiṭṭhitaṃ avikappitaṃ."
 msgstr "robe-cloth that is not determined, nor transferred."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="1872"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.9"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp, see <span class="ref">Mv.8.3.1</span>.</span>
-#. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
+#. </span><span class="gloss">
+#. The six are linen, cotton, silk, wool, sunn hemp, and hemp, see <ref>Mv.8.3.1</ref>.
+#. This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <ref>Kkh.94.4</ref> and BMC I, pp.565-566.
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.1.10"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="pts-cs" id="bu-np.1.3.2"></a><a class="wt-pa" id="1873"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.2.1"
 msgid "Taṃ atikkāmayato nissaggiyaṃ hotīti"
 msgstr "If he keeps it beyond that […] entailing relinquishment:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>According to the commentary this means the tenth dawn after one received the robe(cloth, see <span class="ref">Sp.3.639.27</span></span> 
+#. </span><span class="gloss">
+#. According to the commentary this means the tenth dawn after one received the robe(cloth, see <ref>Sp.3.639.27</ref>
 msgctxt "pli-tv-bu-vb-np1:pts-cs3.2.2"
 msgid "ekādase aruṇuggamane nissaggiyaṃ hoti."
 msgstr "it becomes subject to relinquishment at dawn on the eleventh day."
@@ -474,12 +474,13 @@ msgctxt "pli-tv-bu-vb-np1:pts-cs4.10"
 msgid "Avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been stolen, but he perceives it as stolen, he commits an offense entailing relinquishment and confession."
 
-#. </p><p><a class="sc" id="19"></a><a class="wt-pa" id="1879"></a><strong class="rule"> 
+#. </p><p><a class="sc" id="19"></a><a class="wt-pa" id="1879"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs4.11"
 msgid "Nissaggiyaṃ cīvaraṃ anissajjitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he uses a robe-cloth that should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs4.12"
 msgid "Dasāhānatikkante atikkantasaññī, āpatti dukkaṭassa."
 msgstr "If it is less than ten days, but he perceives it as more than ten days, he commits an offense of wrong conduct."
@@ -523,7 +524,8 @@ msgctxt "pli-tv-bu-vb-np1:pts-cs5.2"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They told the Master."
 
-#. <a class="pts-vp-en" id="bd.2.11"></a><strong class="rule"> 
+#. <a class="pts-vp-en" id="bd.2.11"></a>
+#. <span class="rule"> 
 #. VAR: () → () s1-3 potthakesu
 msgctxt "pli-tv-bu-vb-np1:pts-cs5.3"
 msgid "() “Na, bhikkhave, nissaṭṭhacīvaraṃ na dātabbaṃ."
@@ -533,7 +535,7 @@ msgctxt "pli-tv-bu-vb-np1:pts-cs5.4"
 msgid "Yo na dadeyya, āpatti dukkaṭassā”ti."
 msgstr "If a monk does not give it back, he commits an offense of wrong conduct.”"
 
-#. </strong></p><hr><p class="endsutta"><a class="sc" id="22"></a><a class="wt-pa" id="1882"></a> 
+#. </span></p><hr><p class="endsutta"><a class="sc" id="22"></a><a class="wt-pa" id="1882"></a> 
 msgctxt "pli-tv-bu-vb-np1:pts-cs5.5"
 msgid "Kathinasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on the robe-making season, is finished."

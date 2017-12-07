@@ -119,12 +119,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa372"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc13:pts-cs1.16"
 msgid "“Ujjhāpanake pācittiyan”ti."
 msgstr "‘If a monk complains, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa373"></a> 
 msgctxt "pli-tv-bu-vb-pc13:pts-cs1.17"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -194,13 +194,13 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa375"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: khiyyanake → khīyanake (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc13:pts-cs2.13"
 msgid "“Ujjhāpanake khiyyanake pācittiyan”ti."
 msgstr "‘If a monk complains or denounces, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc13:pts-cs2.14"
 msgid "(<em>13</em>:<strong>62</strong>)"
 msgstr ""
@@ -211,13 +211,13 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-pc.13.3"></a>
-#. <a class="pts-cs" id="bu-pc.13.3.1"></a><a class="wt-pa" id="wt-pa376"></a><strong class="term"> 
+#. <a class="pts-cs" id="bu-pc.13.3.1"></a><a class="wt-pa" id="wt-pa376"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.1"
 msgid "Ujjhāpanakaṃ nāma"
 msgstr "Complaining:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden><i lang="pli">Khajjaka</i>. According to <span class="ref">Sp.4.893.16</span> (commenting on the <i lang="pli">sekhiya</i> rules) this refers to all non-staple foods: <i lang="pli">ettha mūlakhādanīyādi sabbaṃ gahetabbaṃ</i>, “Here the non-staple foods which are roots, etc., may all be taken.”</span> 
+#. </span><span class="gloss">
+#. <i lang="pli">Khajjaka</i>. According to <ref>Sp.4.893.16</ref> (commenting on the <i lang="pli">sekhiya</i> rules) this refers to all non-staple foods: <i lang="pli">ettha mūlakhādanīyādi sabbaṃ gahetabbaṃ</i>, “Here the non-staple foods which are roots, etc., may all be taken.”
 msgctxt "pli-tv-bu-vb-pc13:pts-cs3.1.2"
 msgid "upasampannaṃ saṃghena sammataṃ senāsanapaññāpakaṃ vā bhattuddesakaṃ vā yāgubhājakaṃ vā phalabhājakaṃ vā khajjabhājakaṃ vā appamattakavissajjakaṃ vā avaṇṇaṃ kattukāmo, ayasaṃ kattukāmo, maṅkukattukāmo, upasampannaṃ ujjhāpeti vā khiyyati vā, āpatti pācittiyassa."
 msgstr "when someone who is fully ordained is the assigner of dwellings or the designator of meals or the distributor of rice-porridge or the distributor of fruit or the distributor of non-staple food or the distributor of small requisites, and he has been agreed upon by the Order as such, then if a monk complains about him or denounces him to one who is fully ordained—desiring to disparage him, desiring to give him a bad reputation, desiring to humiliate him—he commits an offense entailing confession."

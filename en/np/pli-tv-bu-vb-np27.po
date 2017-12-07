@@ -322,7 +322,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="wt-pa" id="2367"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs1.63"
 msgid "“Bhikkhuṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya—"
 msgstr "‘If a layman or laywoman is getting robe-cloth woven by weavers for an unrelated monk and, without first being invited, that monk goes to those weavers and specifies the kind of robe-cloth he wants, saying,"
@@ -348,7 +348,7 @@ msgctxt "pli-tv-bu-vb-np27:pts-cs1.68"
 msgid "Evañca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyan”ti."
 msgstr "then, in saying that and afterwards giving them a small gift, even if it is only a bit of almsfood, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs1.69"
 msgid "(<em>27</em>:<strong>46</strong>)"
 msgstr ""
@@ -359,102 +359,102 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs" id="bu-np.27.2"></a><a class="wt-pa" id="2368"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.1"
 msgid "Bhikkhuṃ paneva uddissāti"
 msgstr "For a […] monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.2"
 msgid "bhikkhussatthāya bhikkhuṃ ārammaṇaṃ karitvā bhikkhuṃ acchādetukāmo."
 msgstr "for the benefit of a monk; making a monk the object, he wishes to give to the monk."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2369"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.3"
 msgid "Aññātako nāma"
 msgstr "Unrelated:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.4"
 msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddho."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2370"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.5"
 msgid "Gahapati nāma"
 msgstr "A layman:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.6"
 msgid "yo koci agāraṃ ajjhāvasati."
 msgstr "any man who lives in a house."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2071"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.7"
 msgid "Gahapatānī nāma"
 msgstr "A laywoman:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.8"
 msgid "yā kāci agāraṃ ajjhāvasati."
 msgstr "any woman who lives in a house."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2372"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.9"
 msgid "Tantavāyehīti"
 msgstr "By weavers:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.10"
 msgid "pesakārehi."
 msgstr "by those who weave."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2373"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.11"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <span class="ref">Mv.8.3.1</span>.</span>
-#. <span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span></span> 
+#. </span><span class="gloss">
+#. The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <ref>Mv.8.3.1</ref>.
+#. This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <ref>Kkh.94.4</ref> and BMC I, pp.565-566.</span>
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.12"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
 
 #. </p><p><a class="sc" id="13"></a><a class="pts-vp-en" id="bd.2.149"></a><a class="wt-pa" id="2374"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.13"
 msgid "Vāyāpeyyāti"
 msgstr "Is getting […] woven:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.14"
 msgid "vināpeti."
 msgstr "is causing to weave."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2375"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.15"
 msgid "Tatra ce so bhikkhūti"
 msgstr "If […] that monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.16"
 msgid "yaṃ bhikkhuṃ uddissa cīvaraṃ viyyati so bhikkhu."
 msgstr "the monk for whom the robe-cloth is being woven."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2376"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.17"
 msgid "Pubbe appavāritoti"
 msgstr "Without first being invited:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.18"
 msgid "pubbe avutto hoti—"
 msgstr "without it first being said,"
@@ -468,23 +468,23 @@ msgid "kīdisaṃ te cīvaraṃ vāyāpemī”ti?"
 msgstr "What kind of robe-cloth should I get woven for you?”"
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2377"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.21"
 msgid "Tantavāye upasaṅkamitvāti"
 msgstr "Goes to those weavers:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.22"
 msgid "gharaṃ gantvā yattha katthaci upasaṅkamitvā."
 msgstr "having gone to their house or having gone wherever."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2378"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.23"
 msgid "Cīvare vikappaṃ āpajjeyyāti—"
 msgstr "Specifies the kind of robe-cloth he wants:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.24"
 msgid "“idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, āyatañca karotha vitthatañca."
 msgstr "“Sirs, this robe-cloth that you are weaving for me, make it long and wide;"
@@ -498,7 +498,7 @@ msgid "Appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā”
 msgstr "and perhaps I will even give you a small gift.”"
 
 #. </span></p><p><a class="sc" id="18"></a><a class="pts-vp-pli" id="pts-vp-pli3.260"></a><a class="wt-pa" id="2379"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.27"
 msgid "Evañca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampīti."
 msgstr "Then in saying that and afterwards giving them a small gift, even if it is only a bit of almsfood—"
@@ -507,7 +507,7 @@ msgctxt "pli-tv-bu-vb-np27:pts-cs2.28"
 msgid "Piṇḍapāto nāma"
 msgstr "Almsfood:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np27:pts-cs2.29"
 msgid "yāgupi bhattampi khādanīyampi cuṇṇapiṇḍopi dantakaṭṭhampi dasikasuttampi, antamaso dhammampi bhaṇati."
 msgstr "rice-porridge, a meal, non-staple food, bath powder, a toothbrush, a piece of thread, and even if he gives a teaching."

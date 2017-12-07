@@ -131,12 +131,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="533"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs1.18"
 msgid "“Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, pācittiyan”ti."
 msgstr "‘If a monk goes to a nun’s dwelling place, and then instructs her, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="534"></a> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs1.19"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -222,12 +222,12 @@ msgctxt "pli-tv-bu-vb-pc23:pts-cs2.17"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs2.18"
 msgid "“anujānāmi, bhikkhave, bhikkhunupassayaṃ upasaṅkamitvā gilānaṃ bhikkhuniṃ ovadituṃ."
 msgstr "“Monks, I allow you to go and instruct a sick nun at her dwelling place."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs2.19"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -238,7 +238,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.57"></a><a class="wt-pa" id="536"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: bhikkhunupassayaṃ → bhik­khu­nū­passa­yaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc23:pts-cs2.20"
 msgid "“Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, aññatra samayā, pācittiyaṃ."
@@ -248,7 +248,7 @@ msgctxt "pli-tv-bu-vb-pc23:pts-cs2.21"
 msgid "Tatthāyaṃ samayo. Gilānā hoti bhikkhunī—ayaṃ tattha samayo”ti."
 msgstr "The appropriate reason is that a nun is sick.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs2.22"
 msgid "(<em>23</em>:<strong>72</strong>)"
 msgstr ""
@@ -259,23 +259,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-pc.23.3"></a><a class="pts-cs" id="bu-pc.23.3.1"></a><a class="wt-pa" id="537"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -286,73 +286,73 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="pts-vp-en" id="BD.2.278"></a><a class="wt-pa" id="538"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.6"
 msgid "Bhikkhunupassayo nāma"
 msgstr "The nuns’ dwelling place:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.7"
 msgid "yattha bhikkhuniyo ekarattampi vasanti."
 msgstr "where nuns stay for even a single night."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="539"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.8"
 msgid "Upasaṅkamitvāti"
 msgstr "Goes to:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.9"
 msgid "tattha gantvā."
 msgstr "goes there."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="540"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.10"
 msgid "Bhikkhunī nāma"
 msgstr "Them:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.11"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "they have been given the full ordination by both Orders."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="541"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.12"
 msgid "Ovadeyyāti"
 msgstr "Instructs:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.13"
 msgid "aṭṭhahi garudhammehi ovadati, āpatti pācittiyassa."
 msgstr "if he instructs about the eight rules to be respected, he commits an offense entailing confession."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="542"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.14"
 msgid "Aññatra samayāti"
 msgstr "Unless there is an appropriate reason:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.15"
 msgid "ṭhapetvā samayaṃ."
 msgstr "except at an appropriate time."
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="543"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.16"
 msgid "Gilānā nāma"
 msgstr "A sick nun:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>A formal meeting of the community,” <i lang="pli">saṃvāsa</i>, is defined at <i lang="pli">pācittiya</i> 69, <span class="ref">MS.2.1274</span>, as the observance day ceremony, the invitation ceremony, or a procedure.</span> 
+#. </span><span class="gloss">
+#. A formal meeting of the community,” <i lang="pli">saṃvāsa</i>, is defined at <i lang="pli">pācittiya</i> 69, <ref>MS.2.1274</ref>, as the observance day ceremony, the invitation ceremony, or a procedure.
 msgctxt "pli-tv-bu-vb-pc23:pts-cs3.1.17"
 msgid "bhikkhunī na sakkoti ovādāya vā saṃvāsāya vā gantuṃ."
 msgstr "she is not able to go to the instruction or to a formal meeting of the community."

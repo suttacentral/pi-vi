@@ -113,12 +113,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="3"></a><a class="wt-pa" id="591"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs1.15"
 msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, pācittiyan”ti."
 msgstr "‘If a monk travels on a main road by appointment with a nun, even if just between villages, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="4"></a><a class="wt-pa" id="592"></a> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs1.16"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -183,12 +183,12 @@ msgctxt "pli-tv-bu-vb-pc27:pts-cs2.12"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs2.13"
 msgid "“anujānāmi, bhikkhave, satthagamanīye magge sāsaṅkasammate sappaṭibhaye bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjituṃ."
 msgstr "“Monks, I allow you to travel on a main road by appointment with a nun if it’s a dangerous and frightening road that should be traveled with a group."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs2.14"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "”And so, monks, this training rule should be recited thus:"
@@ -198,17 +198,18 @@ msgctxt "pli-tv-bu-vb-pc27:pts-cs2.14a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="595"></a><strong class="rule"> 
+#. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="595"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs2.15"
 msgid "“Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, aññatra samayā, pācittiyaṃ."
 msgstr "‘If a monk travels on a main road by appointment with a nun, even if just between villages, unless there is an appropriate reason, he commits an offense entailing confession."
 
-#. <span class="note" hidden><i lang="pli">Sattho</i>, often translated as caravan. According to <span class="ref">Sp-ṭ.2.489</span> this refers either to a caravan of travelers walking on foot or to a caravan of carts: <i lang="pli">satthoti jaṅghasattho sakaṭasattho vā</i>.</span> 
+#. <i lang="pli">Sattho</i>, often translated as caravan. According to <ref>Sp-ṭ.2.489</ref> this refers either to a caravan of travelers walking on foot or to a caravan of carts: <i lang="pli">satthoti jaṅghasattho sakaṭasattho vā</i>.
 msgctxt "pli-tv-bu-vb-pc27:pts-cs2.16"
 msgid "Tatthāyaṃ samayo. Satthagamanīyo hoti maggo sāsaṅkasammato sappaṭibhayo—ayaṃ tattha samayo”ti."
 msgstr "The appropriate reason is that the road is considered dangerous and frightening and should be traveled with a group.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs2.17"
 msgid "(<em>27</em>:<strong>76</strong>)"
 msgstr ""
@@ -219,23 +220,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-pc.27.3"></a><a class="pts-cs" id="bu-pc.27.3.1"></a><a class="wt-pa" id="596"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -246,88 +247,88 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="597"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.6"
 msgid "Bhikkhunī nāma"
 msgstr "A nun:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.7"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both Orders."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="598"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.8"
 msgid "Saddhinti"
 msgstr "With:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.9"
 msgid "ekato."
 msgstr "together."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="pts-vp-en" id="BD.2.290"></a><a class="wt-pa" id="599"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.10"
 msgid "Saṃvidhāyāti—"
 msgstr "By appointment: if he makes an appointment like this:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.11"
 msgid "“gacchāma, bhagini, gacchāmāyya; gacchāmāyya, gacchāma, bhagini; ajja vā hiyyo vā pare vā gacchāmā”ti saṃvidahati, āpatti dukkaṭassa."
 msgstr "he says, “Let’s go, Sister,” and she replies, “Yes, let’s go, Venerable;” or she says, “Let’s go, Venerable,” and he replies, “Yes, let’s go, Sister;” or he says, “Let’s go today/tomorrow/the day after tomorrow,” then he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="600"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.12"
 msgid "Antamaso gāmantarampīti"
 msgstr "Even if just between villages:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.13"
 msgid "kukkuṭasampāte gāme, gāmantare gāmantare āpatti pācittiyassa."
 msgstr "when the villages are a chicken’s flight apart, then for every village interval he commits an offense entailing confession."
 
-#. <span class="note" hidden>Half a <i lang="pli">yojana</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16). Thus half a <i lang="pli">yojana</i> is just over 6 km.</span> 
+#. Half a <i lang="pli">yojana</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or just under 13 kilometers (see ACMC, p.16). Thus half a <i lang="pli">yojana</i> is just over 6 km.
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.14"
 msgid "Agāmake araññe, addhayojane addhayojane āpatti pācittiyassa."
 msgstr "If it is in an uninhabited area, in the wilderness, then for every six kilometers he commits an offense entailing confession."
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="601"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.15"
 msgid "Aññatra samayāti"
 msgstr "Unless there is an appropriate reason:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.16"
 msgid "ṭhapetvā samayaṃ."
 msgstr "except at an appropriate time."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="602"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.17"
 msgid "Satthagamanīyo nāma"
 msgstr "The road […] should be traveled with a group:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.18"
 msgid "maggo na sakkā hoti vinā satthena gantuṃ."
 msgstr "it is not possible to travel without a group."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="603"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.19"
 msgid "Sāsaṅkaṃ nāma"
 msgstr "Dangerous:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: tasmiṃ magge → yasmiṃ magge (?)
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.20"
 msgid "tasmiṃ magge corānaṃ niviṭṭhokāso dissati, bhuttokāso dissati, ṭhitokāso dissati, nisinnokāso dissati, nipannokāso dissati."
@@ -335,12 +336,12 @@ msgstr "thieves have been seen along that road, camped, eating, standing, seated
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="pts-vp-pli" id="pts-vp-pli4.64"></a><a class="wt-pa" id="604"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.21"
 msgid "Sappaṭibhayaṃ nāma"
 msgstr "Frightening:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc27:pts-cs3.1.22"
 msgid "tasmiṃ magge corehi manussā hatā dissanti, viluttā dissanti, ākoṭitā dissanti, sappaṭibhayaṃ gantvā appaṭibhayaṃ dassetvā uyyojetabbā—"
 msgstr "thieves have been seen along that road, injuring, robbing, or beating people. If they go thinking it is frightening, but then see that it is not, the nuns are to be dismissed,"

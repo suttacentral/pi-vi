@@ -295,12 +295,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa187"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs1.58"
 msgid "“Yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya pācittiyan”ti."
 msgstr "‘If a monk sleeps in the same sleeping place as a woman, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs1.59"
 msgid "(<em>6</em>:<strong>55</strong>)"
 msgstr ""
@@ -311,33 +311,33 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-pc.6.2"></a><a class="pts-cs" id="bu-pc.6.2.1"></a><a class="wt-pa" id="wt-pa188"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.4"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa189"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.5"
 msgid "Mātugāmo nāma"
 msgstr "A woman:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: yakkhī → yakkhinī (mr)
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.6"
 msgid "manussitthī, na yakkhī, na petī, na tiracchānagatā;"
@@ -348,35 +348,35 @@ msgid "antamaso tadahujātāpi dārikā, pageva mahattarī."
 msgstr "even a girl born on that very day, all the more an older one."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa190"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.8"
 msgid "Sahāti"
 msgstr "Same:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.9"
 msgid "ekato."
 msgstr "together."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa191"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.10"
 msgid "Seyyā nāma"
 msgstr "Sleeping place:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.11"
 msgid "sabbacchannā, sabbaparicchannā, yebhuyyenacchannā, yebhuyyena paricchannā."
 msgstr "fully roofed, fully walled; mostly roofed, mostly walled."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli4.20"></a><a class="wt-pa" id="wt-pa192"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.12"
 msgid "Seyyaṃ kappeyyāti"
 msgstr "Sleeps […] in the same sleeping place"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc6:pts-cs2.1.13"
 msgid "atthaṅgate sūriye, mātugāme nipanne bhikkhu nipajjati, āpatti pācittiyassa."
 msgstr "when the sun has set: if the monk lies down when the woman is already lying down, he commits an offense entailing confession;"

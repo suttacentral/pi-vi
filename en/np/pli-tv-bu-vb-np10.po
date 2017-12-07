@@ -313,7 +313,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-vp-pli" id="pts-vp-pli3.222"></a><a class="pts-cs" id="bu-np.10.1.3"></a><a class="wt-pa" id="2076"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs1.3.1"
 msgid "“Bhikkhuṃ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya—"
 msgstr "‘If a king, a king’s employee, a brahmin, or a householder sends a robe fund for a monk by messenger, saying,"
@@ -423,7 +423,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs1.3.26"
 msgid "ayaṃ tattha sāmīcī”ti."
 msgstr "This is the proper procedure.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs1.3.27"
 msgid "(<em>10</em>:<strong>29</strong>)"
 msgstr ""
@@ -434,105 +434,105 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-np.10.2"></a><a class="pts-cs" id="bu-np.10.2.1"></a><a class="wt-pa" id="2077"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.1"
 msgid "Bhikkhuṃ paneva uddissāti"
 msgstr "For a monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.2"
 msgid "bhikkhussatthāya, bhikkhuṃ ārammaṇaṃ karitvā, bhikkhuṃ acchādetukāmo."
 msgstr "for the benefit of a monk; making a monk the object of consideration, one desires to give to him."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2078"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.3"
 msgid "Rājā nāma"
 msgstr "A king:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.4"
 msgid "yo koci rajjaṃ kāreti."
 msgstr "whoever rules."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-en" id="bd.2.67"></a><a class="wt-pa" id="2079"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.5"
 msgid "Rājabhoggo nāma"
 msgstr "A king’s employee:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.6"
 msgid "yo koci rañño bhattavetanāhāro."
 msgstr "whoever gets food and wages from a king."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2080"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.7"
 msgid "Brāhmaṇo nāma"
 msgstr "A brahmin:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.8"
 msgid "jātiyā brāhmaṇo."
 msgstr "a brahmin by birth."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2081"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.9"
 msgid "Gahapatiko nāma"
 msgstr "A householder:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.10"
 msgid "ṭhapetvā rājaṃ rājabhoggaṃ brāhmaṇaṃ avaseso gahapatiko nāma."
 msgstr "anyone apart from a king, a king’s employee, and a brahmin."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2082"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.11"
 msgid "Cīvaracetāpannaṃ nāma"
 msgstr "A robe fund:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.12"
 msgid "hiraññaṃ vā suvaṇṇaṃ vā muttā vā maṇi vā."
 msgstr "money, gold, a pearl, or a gem."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2083"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.13"
 msgid "Iminā cīvaracetāpannenāti"
 msgstr "With this robe fund:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.14"
 msgid "paccupaṭṭhitena."
 msgstr "with that which is at one’s disposal."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2084"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.15"
 msgid "Cetāpetvāti"
 msgstr "Buy:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.16"
 msgid "parivattetvā."
 msgstr "having exchanged."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2085"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.17"
 msgid "Acchādehīti"
 msgstr "Give:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.18"
 msgid "dajjehi."
 msgstr "donate."
 
-#. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2086"></a><strong class="term"> 
+#. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2086"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.19"
 msgid "So ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya—"
 msgstr "And the messenger goes to that monk and says,"
@@ -573,7 +573,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.28"
 msgid "“eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro”ti."
 msgstr "“He provides services for the monks”:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.29"
 msgid "Na vattabbo—"
 msgstr "he should not say,"
@@ -582,7 +582,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.30"
 msgid "“tassa dehīti vā, so vā nikkhipissati, so vā parivattessati, so vā cetāpessatī”ti."
 msgstr "“Give it to him/he’ll put it aside/he’ll do the exchange/he’ll buy it.”"
 
-#. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="2087"></a><strong class="term"> 
+#. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="2087"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.31"
 msgid "So ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya—"
 msgstr "If the messenger instructs that service-provider and then returns to the monk and says,"
@@ -603,7 +603,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.35"
 msgid "“attho me, āvuso, cīvarenā”ti."
 msgstr "“I need a robe”:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.36"
 msgid "Na vattabbo—"
 msgstr "he should not say,"
@@ -621,7 +621,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.39"
 msgid "Tatiyampi vattabbo."
 msgstr "and a third time."
 
-#. </span></p><p><strong class="term"> 
+#. </span></p><p><span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.40"
 msgid "Sace abhinipphādeti, iccetaṃ kusalaṃ;"
 msgstr "If he gets it, that is good."
@@ -630,7 +630,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.41"
 msgid "no ce abhinipphādeti, tattha gantvā tuṇhībhūtena uddissa ṭhātabbaṃ."
 msgstr "If he does not get it, [he should go there and] he should stand in silence for it:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.42"
 msgid "Na āsane nisīditabbaṃ."
 msgstr "he should not sit down on a seat."
@@ -648,7 +648,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.45"
 msgid "“Kiṃ kāraṇā āgatosī”ti pucchiyamāno"
 msgstr "If he is asked, “Why have you come?”,"
 
-#. <span class="note" hidden><i lang="pli">Jānāhi</i>. This verb, which normally means “to understand” or “to find out,” is used quite broadly in the Pali canon.</span> 
+#. <i lang="pli">Jānāhi</i>. This verb, which normally means “to understand” or “to find out,” is used quite broadly in the Pali canon.
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.1.46"
 msgid "“jānāhi, āvuso”ti vattabbo."
 msgstr "he should say, “Think about it.”"
@@ -723,7 +723,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.2.10"
 msgid "āyasmato dammīti."
 msgstr "‘I give this robe back to you.’”"
 
-#. </span></p><hr><p><a class="sc" id="21"></a><a class="wt-pa" id="2090"></a><strong class="term"> 
+#. </span></p><hr><p><a class="sc" id="21"></a><a class="wt-pa" id="2090"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.2.11"
 msgid "No ce abhinipphādeyya, yatassa cīvaracetāpannaṃ ābhataṃ tattha sāmaṃ vā gantabbaṃ dūto vā pāhetabbo—"
 msgstr "If he does not get a robe, he should go to the owner of that robe fund, or send a message:"
@@ -740,13 +740,13 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.2.14"
 msgid "mā vo sakaṃ vinassā”ti."
 msgstr "let it not be lost.’"
 
-#. </strong></p><p><a class="sc" id="22"></a><a class="wt-pa" id="2091"></a>
-#. <strong class="term"> 
+#. </span></p><p><a class="sc" id="22"></a><a class="wt-pa" id="2091"></a>
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.2.15"
 msgid "Ayaṃ tattha sāmīcīti"
 msgstr "This is the proper procedure:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.2.16"
 msgid "ayaṃ tattha anudhammatā."
 msgstr "this is the right method."
@@ -805,7 +805,7 @@ msgctxt "pli-tv-bu-vb-np10:pts-cs2.4.4"
 msgid "acodiyamāno deti,"
 msgstr "if it is given without prompting;"
 
-#. <span class="note" hidden>I am unable to make sense of the phrasing in the non-offense clause (<i lang="pli">sāmikā codetvā denti</i>), and I therefore translate according to the phrasing in the commentary, “After prompting by the owners, it is given;” <i lang="pli">sāmikehi codetvā dinne</i>, see <span class="ref">Kkh. 119.6</span>.</span> 
+#. I am unable to make sense of the phrasing in the non-offense clause (<i lang="pli">sāmikā codetvā denti</i>), and I therefore translate according to the phrasing in the commentary, “After prompting by the owners, it is given;” <i lang="pli">sāmikehi codetvā dinne</i>, see <ref>Kkh. 119.6</ref>.
 msgctxt "pli-tv-bu-vb-np10:pts-cs2.4.5"
 msgid "sāmikā codetvā denti,"
 msgstr "if the owners prompt and then it is given;"

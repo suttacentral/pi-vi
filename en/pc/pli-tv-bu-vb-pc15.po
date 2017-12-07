@@ -113,12 +113,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa402"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs1.16"
 msgid "“Yo pana bhikkhu saṃghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk puts out bedding in a dwelling belonging to the Order, or gets it put out, and he then leaves without putting it away, getting it put away, or telling anyone, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs1.17"
 msgid "(<em>15</em>:<strong>64</strong>)"
 msgstr ""
@@ -129,107 +129,107 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.15.2"></a>
-#. <a class="pts-cs" id="bu-pc.15.2.1"></a><a class="pts-vp-en" id="BD.2.244"></a><a class="wt-pa" id="wt-pa403"></a><strong class="term"> 
+#. <a class="pts-cs" id="bu-pc.15.2.1"></a><a class="pts-vp-en" id="BD.2.244"></a><a class="wt-pa" id="wt-pa403"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.4"
 msgid "… pe …ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "…The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a>
-#. <a class="wt-pa" id="wt-pa404"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa404"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.5"
 msgid "Saṃghiko nāma"
 msgstr "A dwelling belonging to the Order:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.6"
 msgid "vihāro saṃghassa dinno hoti pariccatto."
 msgstr "given to the Order, given up to the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a>
-#. <a class="wt-pa" id="wt-pa405"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa405"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.7"
 msgid "Seyyaṃ nāma"
 msgstr "Bedding:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.8"
 msgid "bhisi, cimilikā uttarattharaṇaṃ, bhūmattharaṇaṃ, taṭṭikā, cammakhaṇḍo, nisīdanaṃ, paccattharaṇaṃ, tiṇasanthāro, paṇṇasanthāro."
 msgstr "a mattress, a mat underlay, a blanket, a floor cover, a straw mat, a leather covering, a sitting-mat, a bed sheet, a spread of grass, a spread of leaves."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a>
-#. <a class="wt-pa" id="wt-pa406"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa406"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.9"
 msgid "Santharitvāti"
 msgstr "Puts out:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.10"
 msgid "sayaṃ santharitvā."
 msgstr "puts out oneself."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a>
-#. <a class="wt-pa" id="wt-pa407"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa407"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.11"
 msgid "Santharāpetvāti"
 msgstr "Gets […] put out:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.12"
 msgid "aññaṃ santharāpetvā."
 msgstr "gets another to put out."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a>
-#. <a class="wt-pa" id="wt-pa408"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa408"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.13"
 msgid "Taṃ pakkamanto neva uddhareyyāti"
 msgstr "Leaves without putting it away:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.14"
 msgid "na sayaṃ uddhareyya."
 msgstr "he does not put it away himself."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a>
-#. <a class="wt-pa" id="wt-pa409"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa409"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.15"
 msgid "Na uddharāpeyyāti"
 msgstr "Getting it put away:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.16"
 msgid "na aññaṃ uddharāpeyya."
 msgstr "he does not get another to put it away."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli4.42"></a>
-#. <a class="wt-pa" id="wt-pa410"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa410"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.17"
 msgid "Anāpucchaṃ vā gaccheyyāti"
 msgstr "Or telling anyone:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc15:pts-cs2.1.18"
 msgid "bhikkhuṃ vā sāmaṇeraṃ vā ārāmikaṃ vā anāpucchā parikkhittassa ārāmassa parikkhepaṃ atikkamantassa āpatti pācittiyassa."
 msgstr "if he does not tell a monk, a novice monk, or a  monastery worker, and he crosses the boundary of an enclosed monastery, he commits an offense entailing confession."

@@ -129,7 +129,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="pts-vp-pli" id="pts-vp-pli3.253"></a><a class="wt-pa" id="2325"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs1.19"
 msgid "“‘Māso seso gimhānan’ti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ;"
 msgstr "‘When there is a month left of the hot season, a monk may go looking for cloth for his rainy-season robe."
@@ -144,7 +144,7 @@ msgctxt "pli-tv-bu-vb-np24:pts-cs1.21"
 msgid "‘Orena ce māso seso gimhānan’ti vassikasāṭikacīvaraṃ pariyeseyya, ‘orenaddhamāso seso gimhānan’ti katvā nivāseyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he goes looking for cloth for his rainy-season robe when there is more than a month left of the hot season, or if he sews it and then wears it when there is more than a half-month left, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs1.22"
 msgid "(<em>24</em>:<strong>43</strong>)"
 msgstr ""
@@ -155,12 +155,12 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-np.24.2"></a><a class="wt-pa" id="2326"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.1"
 msgid "“Māso seso gimhānan”ti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbanti."
 msgstr "When there is a month left of the hot season, a monk may go looking for cloth for his rainy-season robe:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.2"
 msgid "Ye manussā pubbepi vassikasāṭikacīvaraṃ denti te upasaṅkamitvā evamassu vacanīyā—"
 msgstr "after approaching those people who previously, too, have given cloth for the rainy-season robes, he should says,"
@@ -179,34 +179,34 @@ msgid "“detha me vassikasāṭikacīvaraṃ, āharatha me vassikasāṭikacīv
 msgstr "“Give me cloth for the rainy-season robe/bring me cloth for the rainy-season robe/buy me cloth for the rainy-season robe/get cloth in exchange for me for the rainy-season robe.”"
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2327"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.6"
 msgid "“Addhamāso seso gimhānan”ti katvā nivāsetabbanti."
 msgstr "When there is a half-month left, he may sew it and then wear it:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.7"
 msgid "Addhamāse sese gimhāne katvā nivāsetabbaṃ."
 msgstr "after sewing it during the last half-month of the hot season, he may wear it."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2328"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.8"
 msgid "“Orena ce māso seso gimhānan”ti"
 msgstr "When there is more than a month left of the hot season:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.9"
 msgid "atirekamāse sese gimhāne vassikasāṭikacīvaraṃ pariyesati, nissaggiyaṃ pācittiyaṃ."
 msgstr "if he goes looking for cloth for the rainy-season robe when there is more than a month left of the hot season, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2329"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.10"
 msgid "“Orenaddhamāso seso gimhānan”ti"
 msgstr "When there is more than a half-month left of the hot season:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.11"
 msgid "atirekaddhamāse sese gimhāne katvā nivāseti, nissaggiyaṃ hoti."
 msgstr "if he wears it after sewing it when there is more than a half-month left of the hot season, it becomes subject to relinquishment."
@@ -278,12 +278,13 @@ msgctxt "pli-tv-bu-vb-np24:pts-cs2.25"
 msgid "Atirekaddhamāse sese gimhāne ūnakasaññī katvā nivāseti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If there is more than a half-month left of the hot season, but he perceives it as less, and he wears the rainy-season robe after sewing it, he commits an offense entailing relinquishment and confession."
 
-#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="2332"></a><strong class="rule"> 
+#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="2332"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.26"
 msgid "Satiyā vassikasāṭikāya naggo kāyaṃ ovassāpeti, āpatti dukkaṭassa."
 msgstr "If he has a rainy-season robe, but he bathes naked in the rain, he commits an offense of wrong conduct."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np24:pts-cs2.27"
 msgid "Ūnakamāse sese gimhāne atirekasaññī, āpatti dukkaṭassa."
 msgstr "If there is less than a month left of the hot season, but he perceives it as more, he commits an offense of wrong conduct."

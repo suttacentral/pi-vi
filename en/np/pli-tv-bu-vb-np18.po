@@ -214,12 +214,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2207"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.38"
 msgid "“Yo pana bhikkhu jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk takes, gets someone else to take, or consents to gold and silver being deposited for him, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.39"
 msgid "(<em>18</em>:<strong>37</strong>)"
 msgstr ""
@@ -230,22 +230,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.238"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.40"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.41"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.42"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.43"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -255,58 +255,58 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2209"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.45"
 msgid "Jātarūpaṃ nāma"
 msgstr "Gold:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.46"
 msgid "satthuvaṇṇo vuccati."
 msgstr "the color of the Teacher is what is meant."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2210"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.47"
 msgid "Rajataṃ nāma"
 msgstr "Silver:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.48"
 msgid "kahāpaṇo lohamāsako dārumāsako jatumāsako ye vohāraṃ gacchanti."
 msgstr "a <i lang=\"pli\">kahāpaṇa</i> coin, a copper <i lang=\"pli\">māsaka</i> coin, a wooden <i lang=\"pli\">māsaka</i> coin, a resin <i lang=\"pli\">māsaka</i> coin; whatever is used in commerce."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="pts-vp-en" id="bd.2.103"></a><a class="wt-pa" id="2211"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.49"
 msgid "Uggaṇheyyāti"
 msgstr "Takes:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.50"
 msgid "sayaṃ gaṇhāti nissaggiyaṃ pācittiyaṃ."
 msgstr "if he takes it himself, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2212"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.51"
 msgid "Uggaṇhāpeyyāti"
 msgstr "Gets someone else to take:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.52"
 msgid "aññaṃ gāhāpeti nissaggiyaṃ pācittiyaṃ."
 msgstr "if he gets another to take it, he commits an offense entailing relinquishment and confession."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2213"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.53"
 msgid "Upanikkhittaṃ vā sādiyeyyāti"
 msgstr "Consents to […] being deposited for him:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.54"
 msgid "idaṃ ayyassa hotūti upanikkhittaṃ sādiyati, nissaggiyaṃ hoti."
 msgstr "if someone says, “Let this be for you,” and he consents to it being deposited for him, it becomes subject to relinquishment."
@@ -466,7 +466,7 @@ msgid "evametaṃ dhārayāmī’”ti."
 msgstr "I will remember it thus.’”"
 
 #. </p></div><p><a class="sc" id="15"></a><a class="wt-pa" id="2217"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.91"
 msgid "Tena sammatena bhikkhunā animittaṃ katvā pātetabbaṃ."
 msgstr "The appointed monk should drop it without taking note of the location."
@@ -475,7 +475,7 @@ msgctxt "pli-tv-bu-vb-np18:pts-cs1.92"
 msgid "Sace nimittaṃ katvā pāteti, āpatti dukkaṭassa."
 msgstr "If he takes note of where he drops it, he commits an offense of wrong conduct."
 
-#. </strong></p><h2>
+#. </span></p><h2>
 msgctxt "pli-tv-bu-vb-np18:pts-cs1.92a"
 msgid ""
 msgstr "Permutations"

@@ -192,7 +192,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2389"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: kattikatemāsikapuṇṇamaṃ → kat­ti­ka­te­māsi­puṇṇamaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-np28:pts-cs1.2.19"
 msgid "“Dasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuno paneva accekacīvaraṃ uppajjeyya, accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ,"
@@ -208,7 +208,7 @@ msgctxt "pli-tv-bu-vb-np28:pts-cs1.2.21"
 msgid "Tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he stores it beyond that, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs1.2.22"
 msgid "(<em>28</em>:<strong>47</strong>)"
 msgstr ""
@@ -219,34 +219,34 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.28.2"></a><a class="wt-pa" id="2390"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.1"
 msgid "Dasāhānāgatanti"
 msgstr "There are ten days left:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.2"
 msgid "dasāhānāgatāya pavāraṇāya."
 msgstr "the invitation ceremony is ten days in the future."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2391"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.3"
 msgid "Kattikatemāsikapuṇṇamanti"
 msgstr "The Kattika full moon that ends the first rains residence:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.4"
 msgid "pavāraṇā kattikā vuccati."
 msgstr "the Kattika full moon of the invitation ceremony is what is meant."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2392"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.5"
 msgid "Accekacīvaraṃ nāma"
 msgstr "Haste-cloth:"
 
-#. </strong><a class="pts-vp-en" id="bd.2.154"></a><span class="gloss"> 
+#. </span><a class="pts-vp-en" id="bd.2.154"></a><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.6"
 msgid "senāya vā gantukāmo hoti, pavāsaṃ vā gantukāmo hoti, gilāno vā hoti, gabbhinī vā hoti, assaddhassa vā saddhā uppannā hoti, appasannassa vā pasādo uppanno hoti,"
 msgstr "when someone wants to go out with the army, when someone wants to go away, when someone is sick, when someone is pregnant, when someone without faith acquires faith, when someone without confidence acquires confidence—"
@@ -264,7 +264,7 @@ msgid "etaṃ accekacīvaraṃ nāma."
 msgstr "this is called “haste-cloth.”"
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2393"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.10"
 msgid "Accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ"
 msgstr "He may receive it if he regards it as urgent."
@@ -273,40 +273,40 @@ msgctxt "pli-tv-bu-vb-np28:pts-cs2.11"
 msgid "paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbanti"
 msgstr "He may then store it until the end of the robe season:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.12"
 msgid "saññāṇaṃ katvā nikkhipitabbaṃ—“idaṃ accekacīvaran”ti."
 msgstr "establishing the perception of it as a haste-cloth, he may store it."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2394"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.13"
 msgid "Cīvarakālasamayo nāma"
 msgstr "The robe season:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.14"
 msgid "anatthate kathine vassānassa pacchimo māso,"
 msgstr "for one who has not done the robe-making ceremony, it is the last month of the rainy season;"
 
-#. <span class="note" hidden>That is, the last month of the rainy season, plus the four months of the cold season.</span> 
+#. That is, the last month of the rainy season, plus the four months of the cold season.
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.15"
 msgid "atthate kathine pañcamāsā."
 msgstr "for one who has done the robe-making ceremony, it is the five month period."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli3.262"></a><a class="wt-pa" id="2395"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.16"
 msgid "Tato ce uttari nikkhipeyyāti"
 msgstr "If he stores it beyond that:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.17"
 msgid "anatthate kathine vassānassa pacchimaṃ divasaṃ atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "for one who has not done the robe-making ceremony, if he goes beyond the last day of the rainy season, he commits an offense entailing relinquishment and confession."
 
-#. <span class="note" hidden>The robe-making season ends if the Sangha decides to forgo the robe-making privilege, or if the monk leaves the monastery where he spent the rains residence and gives up any intention of making a robe before the end of the cold season, see <span class="ref">MS.1.1869</span> and <span class="ref">Mv.7.13.2</span>.</span> 
+#. The robe-making season ends if the Sangha decides to forgo the robe-making privilege, or if the monk leaves the monastery where he spent the rains residence and gives up any intention of making a robe before the end of the cold season, see <ref>MS.1.1869</ref> and <ref>Mv.7.13.2</ref>.
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.18"
 msgid "Atthate kathine kathinuddhāradivasaṃ atikkāmeti, nissaggiyaṃ hoti."
 msgstr "For one who has done the robe-making ceremony, if he goes beyond the day on which the robe-making season ends, the cloth becomes subject to relinquishment."
@@ -395,12 +395,13 @@ msgctxt "pli-tv-bu-vb-np28:pts-cs2.36"
 msgid "avilutte viluttasaññī cīvarakālasamayaṃ atikkāmeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been stolen, but he perceives it as stolen, and he keeps it beyond the robe season, he commits an offense entailing relinquishment and confession."
 
-#. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="2397"></a><strong class="rule"> 
+#. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="2397"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.37"
 msgid "Nissaggiyaṃ cīvaraṃ anissajjitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he uses a cloth which should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np28:pts-cs2.38"
 msgid "Anaccekacīvare accekacīvarasaññī, āpatti dukkaṭassa."
 msgstr "If it is not haste-cloth, but he perceives it as haste-cloth, he commits an offense of wrong conduct."

@@ -109,12 +109,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa921"></a>
-#. <strong class="rule">
+#. <span class="rule">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs1.15"
 msgid "“Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyan”ti."
 msgstr "‘If a monk sits down in private alone with a woman, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 msgctxt "pli-tv-bu-vb-pc45:pts-cs1.16"
 msgid "(<em>45</em>:<strong>94</strong>)"
 msgstr ""
@@ -125,23 +125,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.45.2.1"></a><a class="wt-pa" id="wt-pa922"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -152,81 +152,81 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa923"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.6"
 msgid "Mātugāmo nāma"
 msgstr "A woman:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.7"
 msgid "manussitthī, na yakkhī na petī na tiracchānagatā, viññū paṭibalā subhāsitadubbhāsitaṃ duṭṭhullāduṭṭhullaṃ ājānituṃ."
 msgstr "a human female, not a female spirit, not a female ghost, not a female animal. She understands and is capable of discerning bad speech and good speech, what is lewd and what is not lewd."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="pts-vp-en" id="BD.2.361"></a><a class="wt-pa" id="wt-pa924"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.8"
 msgid "Saddhinti"
 msgstr "With:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.9"
 msgid "ekato."
 msgstr "together."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa925"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.10"
 msgid "Eko ekāyāti"
 msgstr "Alone:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.11"
 msgid "bhikkhu ceva hoti mātugāmo ca."
 msgstr "just the monk and the woman."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa926"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.12"
 msgid "Raho nāma"
 msgstr "In private:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.13"
 msgid "cakkhussa raho, sotassa raho."
 msgstr "there is private to the eye and there is private to the ear."
 
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.14"
 msgid "Cakkhussa raho nāma"
 msgstr "Private to the eye:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.15"
 msgid "na sakkā hoti akkhiṃ vā nikhaṇīyamāne bhamukaṃ vā ukkhipīyamāne sīsaṃ vā ukkhipīyamāne passituṃ."
 msgstr "one is unable to see them winking, raising an eyebrow, or nodding."
 
 #. </span>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.16"
 msgid "Sotassa raho nāma"
 msgstr "Private to the ear:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.17"
 msgid "na sakkā hoti pakatikathā sotuṃ."
 msgstr "one is unable to hear ordinary speech."
 
 #. </span></span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa927"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.18"
 msgid "Nisajjaṃ kappeyyāti"
 msgstr "Sits down:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc45:pts-cs2.1.19"
 msgid "mātugāme nisinne bhikkhu upanisinno vā hoti upanipanno vā, āpatti pācittiyassa."
 msgstr "if the monk sits down or lies down next to a seated woman, he commits an offense entailing confession."

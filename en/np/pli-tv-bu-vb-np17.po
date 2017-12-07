@@ -144,12 +144,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="2192"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.22"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā eḷakalomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk gets an unrelated nun to wash, dye, or comb wool, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.23"
 msgid "(<em>17</em>:<strong>36</strong>)"
 msgstr ""
@@ -160,22 +160,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.24"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.25"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.26"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.27"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -185,23 +185,23 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-en" id="bd.2.96"></a><a class="wt-pa" id="2194"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.29"
 msgid "Aññātikā nāma"
 msgstr "Unrelated:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.30"
 msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2195"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.31"
 msgid "Bhikkhunī nāma"
 msgstr "A nun:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np17:pts-cs1.32"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both Orders."

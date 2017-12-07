@@ -264,12 +264,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa34"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs1.2.33"
 msgid "“Omasavāde pācittiyan”ti."
 msgstr "‘If a monk speaks abusively, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs1.2.34"
 msgid "(<em>2</em>:<strong>51</strong>)"
 msgstr ""
@@ -280,12 +280,12 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="7"></a><a class="pts-cs-empty" id="bu-pc.2.2"></a><a class="pts-cs" id="bu-pc.2.2.1"></a><a class="wt-pa" id="wt-pa35"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.1"
 msgid "Omasavādo nāma"
 msgstr "Speaks abusively:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.2"
 msgid "dasahi ākārehi omasati—"
 msgstr "he abuses in ten ways:"
@@ -305,12 +305,12 @@ msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa36"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.4"
 msgid "Jāti nāma"
 msgstr "Caste:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.5"
 msgid "dve jātiyo—"
 msgstr "there are two kinds of castes:"
@@ -319,12 +319,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.6"
 msgid "hīnā ca jāti ukkaṭṭhā ca jāti."
 msgstr "low castes and high castes."
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.7"
 msgid "Hīnā nāma"
 msgstr "Low castes:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.174"></a> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.174"></a> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.8"
 msgid "jāti—caṇḍālajāti, venajāti, nesādajāti, rathakārajāti, pukkusajāti."
 msgstr "outcasts, bamboo workers, hunters, chariot-makers, waste-removers—"
@@ -333,12 +333,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.9"
 msgid "Esā hīnā nāma jāti."
 msgstr "these are called “low castes.”"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.10"
 msgid "Ukkaṭṭhā nāma"
 msgstr "High castes:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.11"
 msgid "jāti—khattiyajāti, brāhmaṇajāti."
 msgstr "aristocrats and brahmins—"
@@ -348,12 +348,12 @@ msgid "Esā ukkaṭṭhā nāma jāti."
 msgstr "these are called “high castes.”"
 
 #. </span></span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa37"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.13"
 msgid "Nāmaṃ nāma"
 msgstr "Name:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.14"
 msgid "dve nāmāni—"
 msgstr "there are two kinds of names:"
@@ -362,12 +362,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.15"
 msgid "hīnañca nāmaṃ ukkaṭṭhañca nāmaṃ."
 msgstr "low names and high names."
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.16"
 msgid "Hīnaṃ nāma"
 msgstr "Low names:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.17"
 msgid "nāmaṃ—avakaṇṇakaṃ, javakaṇṇakaṃ, dhaniṭṭhakaṃ, saviṭṭhakaṃ, kulavaḍḍhakaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ,"
 msgstr "Avakaṇṇaka, Javakaṇṇaka, Dhaniṭṭhaka, Saviṭṭhaka, Kulavaḍḍhaka, or names, in whatever countries, that are despised, looked down upon, scorned, treated with contempt, disregarded—"
@@ -376,12 +376,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.18"
 msgid "etaṃ hīnaṃ nāma nāmaṃ."
 msgstr "these are called “low names.”"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.19"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High names:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.20"
 msgid "nāmaṃ—buddhappaṭisaṃyuttaṃ, dhammappaṭisaṃyuttaṃ, saṃghappaṭisaṃyuttaṃ, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ,"
 msgstr "those connected with the Buddha, connected with the Teaching, or connected with the Order, or names, in whatever countries, that are highly regarded, highly thought of, respected, valued, esteemed—"
@@ -391,12 +391,12 @@ msgid "etaṃ ukkaṭṭhaṃ nāma nāmaṃ."
 msgstr "these are called “high names.”"
 
 #. </span></span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa38"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.22"
 msgid "Gottaṃ nāma"
 msgstr "Family:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.23"
 msgid "dve gottāni—"
 msgstr "there are two kinds of families:"
@@ -406,12 +406,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.24"
 msgid "hīnañca gottaṃ ukkaṭṭhañca gottaṃ."
 msgstr "low families and high families."
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.25"
 msgid "Hīnaṃ nāma"
 msgstr "Low families:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.26"
 msgid "gottaṃ—kosiyagottaṃ, bhāradvājagottaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ,"
 msgstr "the Kosiya family, the Bhāradvāja family, or families, in whatever countries, that are despised, looked down upon, scorned, treated with contempt, disregarded—"
@@ -420,12 +420,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.27"
 msgid "etaṃ hīnaṃ nāma gottaṃ."
 msgstr "these are called “low families.”"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.28"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High families:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.29"
 msgid "gottaṃ—gotamagottaṃ, moggallānagottaṃ, kaccānagottaṃ, vāsiṭṭhagottaṃ, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ,"
 msgstr "the Gotama family, the Moggallāna family, the Kaccāna family, the Vāsiṭṭha family, or families, in whatever countries, that are highly regarded, highly thought of, respected, valued, esteemed—"
@@ -435,12 +435,12 @@ msgid "etaṃ ukkaṭṭhaṃ nāma gottaṃ."
 msgstr "these are called “high families.”"
 
 #. </span></span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="wt-pa39"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.31"
 msgid "Kammaṃ nāma"
 msgstr "Work:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.32"
 msgid "dve kammāni—"
 msgstr "there are two kinds of work:"
@@ -449,12 +449,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.33"
 msgid "hīnañca kammaṃ ukkaṭṭhañca kammaṃ."
 msgstr "low work and high work."
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.34"
 msgid "Hīnaṃ nāma"
 msgstr "Low work:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.35"
 msgid "kammaṃ—koṭṭhakakammaṃ, pupphachaḍḍakakammaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ,"
 msgstr "carpentry, waste-removing, or work, in whatever countries, that is despised, looked down upon, scorned, treated with contempt, disregarded—"
@@ -463,12 +463,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.36"
 msgid "etaṃ hīnaṃ nāma kammaṃ."
 msgstr "this is called “low work.”"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.37"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High work:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.38"
 msgid "kammaṃ—kasi, vaṇijjā, gorakkhā, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ."
 msgstr "farming, trade, cattle-keeping, or work, in whatever countries, that is highly regarded, highly thought of, respected, valued, esteemed—"
@@ -478,12 +478,12 @@ msgid "Etaṃ ukkaṭṭhaṃ nāma kammaṃ."
 msgstr "this is called “high work.”"
 
 #. </span></span></p><p><a class="sc" id="12"></a><a class="pts-vp-pli" id="pts-vp-pli4.7"></a><a class="pts-vp-en" id="BD.2.176"></a><a class="wt-pa" id="wt-pa40"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.40"
 msgid "Sippaṃ nāma"
 msgstr "Craft:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.41"
 msgid "dve sippāni—"
 msgstr "there are two kinds of crafts:"
@@ -492,12 +492,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.42"
 msgid "hīnañca sippaṃ ukkaṭṭhañca sippaṃ."
 msgstr "low crafts and high crafts."
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.43"
 msgid "Hīnaṃ nāma"
 msgstr "Low crafts:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.44"
 msgid "sippaṃ—naḷakārasippaṃ, kumbhakārasippaṃ, pesakārasippaṃ, cammakārasippaṃ, nahāpitasippaṃ, tesu tesu vā pana janapadesu oññātaṃ avaññātaṃ hīḷitaṃ paribhūtaṃ acittīkataṃ."
 msgstr "reed-work, pottery, weaving, leather-work, hairdressing, or crafts, in whatever countries, that are despised, looked down upon, scorned, treated with contempt, disregarded—"
@@ -506,12 +506,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.45"
 msgid "Etaṃ hīnaṃ nāma sippaṃ."
 msgstr "these are called “low crafts.”"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.46"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High crafts:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.177"></a> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.177"></a> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.47"
 msgid "sippaṃ—muddā, gaṇanā, lekhā, tesu tesu vā pana janapadesu anoññātaṃ anavaññātaṃ ahīḷitaṃ aparibhūtaṃ cittīkataṃ,"
 msgstr "calculating, accounting, writing, or crafts, in whatever countries, that are highly regarded, highly thought of, respected, valued, esteemed—"
@@ -522,16 +522,16 @@ msgstr "these are called “high crafts.”"
 
 #. </span></span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="wt-pa41"></a> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.49"
-msgid "<span class=\"gloss\">Sabbepi <strong class=\"term\">ābādhā</strong> hīnā, api ca madhumeho ābādho ukkaṭṭho."
-msgstr "<strong class=\"term\">Illnesses</strong>: <span class=\"gloss\">all are low, but there is the disease of diabetes which is high."
+msgid "<span class=\"gloss\">Sabbepi <span class=\"term\">ābādhā</strong> hīnā, api ca madhumeho ābādho ukkaṭṭho."
+msgstr "<span class=\"term\">Illnesses</strong>: <span class=\"gloss\">all are low, but there is the disease of diabetes which is high."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa42"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.50"
 msgid "Liṅgaṃ nāma"
 msgstr "Physical traits:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.51"
 msgid "dve liṅgāni—"
 msgstr "there are two kinds of physical traits:"
@@ -540,12 +540,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.52"
 msgid "hīnañca liṅgaṃ ukkaṭṭhañca liṅgaṃ."
 msgstr "low physical traits and high physical traits."
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.53"
 msgid "Hīnaṃ nāma"
 msgstr "Low physical traits:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.54"
 msgid "liṅgaṃ—atidīghaṃ, atirassaṃ, atikaṇhaṃ, accodātaṃ,"
 msgstr "too tall, too short, too dark, too fair—"
@@ -554,12 +554,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.55"
 msgid "etaṃ hīnaṃ nāma liṅgaṃ."
 msgstr "these are called “low physical traits.”"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.56"
 msgid "Ukkaṭṭhaṃ nāma"
 msgstr "High physical traits:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.57"
 msgid "liṅgaṃ—nātidīghaṃ, nātirassaṃ, nātikaṇhaṃ, nāccodātaṃ."
 msgstr "not too tall, not too short, not too dark, not too fair—"
@@ -570,26 +570,26 @@ msgstr "these are called “high physical traits.”"
 
 #. </span></span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa43"></a> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.59"
-msgid "<span class=\"gloss\">Sabbepi <strong class=\"term\">kilesā</strong> hīnā."
-msgstr "<strong class=\"term\">Defilements:</strong> <span class=\"gloss\">all are low."
+msgid "<span class=\"gloss\">Sabbepi <span class=\"term\">kilesā</strong> hīnā."
+msgstr "<span class=\"term\">Defilements:</strong> <span class=\"gloss\">all are low."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa44"></a> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.60"
-msgid "<span class=\"gloss\">Sabbāpi <strong class=\"term\">āpattiyo</strong> hīnā."
-msgstr "<strong class=\"term\">Offenses</strong>: <span class=\"gloss\">all are low,"
+msgid "<span class=\"gloss\">Sabbāpi <span class=\"term\">āpattiyo</strong> hīnā."
+msgstr "<span class=\"term\">Offenses</strong>: <span class=\"gloss\">all are low,"
 
-#. <span class="note" hidden>The English translation cannot properly capture the Pali, in which the word for “offense” and “attainment” is the same, <i lang="pli">āpatti</i>.</span> 
+#. The English translation cannot properly capture the Pali, in which the word for “offense” and “attainment” is the same, <i lang="pli">āpatti</i>.
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.61"
 msgid "Api ca sotāpattisamāpatti ukkaṭṭhā."
 msgstr "but there is the attainment of stream-entry which is high."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="wt-pa45"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.62"
 msgid "Akkoso nāma"
 msgstr "Insults:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.178"></a> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.178"></a> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.63"
 msgid "dve akkosā—"
 msgstr "there are two kinds of insults:"
@@ -598,12 +598,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.64"
 msgid "hīno ca akkoso ukkaṭṭho ca akkoso."
 msgstr "low insults and high insults."
 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.65"
 msgid "Hīno nāma"
 msgstr "Low insults:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.66"
 msgid "akkoso—oṭṭhosi, meṇḍosi, goṇosi, gadrabhosi, tiracchānagatosi, nerayikosi;"
 msgstr "“you’re a camel/you’re a ram/you’re an ox/you’re a donkey/you’re an animal/you’re bound for hell;"
@@ -616,12 +616,12 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.68"
 msgid "eso hīno nāma akkoso."
 msgstr "these are called “low insults.”"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.69"
 msgid "Ukkaṭṭho nāma"
 msgstr "High insults:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.1.70"
 msgid "akkoso—paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi,"
 msgstr "“you’re wise/you’re competent/you’re intelligent/you’re learned/you’re an expounder of the Teaching;"
@@ -857,7 +857,7 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.2.41"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṃ vadeti, kuṭṭhikaṃ gaṇḍikaṃ kilāsikaṃ sosikaṃ apamārikaṃ—"
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says what is low to one who is low—a leper/one with boils/one with tuberculosis/an epileptic—"
 
-#. <span class="note" hidden>I have not translated <i lang="pli">kilāsa</i>, since it simply seems to be a variety of leprosy, <i lang="pli">kuṭṭha</i>, see <span class="ref">Sp.5.996.12</span>. I am not aware that modern English terminology distinguishes between <i lang="pli">kuṭṭha</i> and <i lang="pli">kilāsa</i>.</span> 
+#. I have not translated <i lang="pli">kilāsa</i>, since it simply seems to be a variety of leprosy, <i lang="pli">kuṭṭha</i>, see <ref>Sp.5.996.12</ref>. I am not aware that modern English terminology distinguishes between <i lang="pli">kuṭṭha</i> and <i lang="pli">kilāsa</i>.
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.2.42"
 msgid "“kuṭṭhikosi, gaṇḍikosi, kilāsikosi, sosikosi, apamārikosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa."
 msgstr "saying, “You’re a leper/you have boils/you have tuberculosis/you’re an epileptic,” then for every statement, he commits an offense entailing confession."
@@ -1161,7 +1161,7 @@ msgctxt "pli-tv-bu-vb-pc2:pts-cs2.5.1"
 msgid "Upasampanno upasampannaṃ khuṃsetukāmo vambhetukāmo maṅkukattukāmo evaṃ vadeti, “na mayaṃ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati … pe …."
 msgstr "If one who is fully ordained, wishing to revile, wishing to insult, wishing to humiliate another who is fully ordained, says this, “We’re not outcasts/bamboo workers/hunters/chariot-makers/waste-removers” …"
 
-#. <span class="note" hidden>This looks like an editing mistake. Presumably this should read, “We’re not going to a good destination/we can only expect a bad destination.” And below <span class="ref">MS.2.96</span>, <span class="ref">MS.2.104</span>, and <span class="ref">MS.2.108</span>.</span> 
+#. This looks like an editing mistake. Presumably this should read, “We’re not going to a good destination/we can only expect a bad destination.” And below <ref>MS.2.96</ref>, <ref>MS.2.104</ref>, and <ref>MS.2.108</ref>.
 msgctxt "pli-tv-bu-vb-pc2:pts-cs2.5.2"
 msgid "“Na mayaṃ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṃ duggati, sugatiyeva amhākaṃ pāṭikaṅkhā”ti bhaṇati."
 msgstr "“We’re not wise ones/we’re not competent ones/we’re not intelligent ones/we’re not learned ones/we’re not expounders of the Teaching/we’re not going to a bad destination/we can only expect a good destination,”"

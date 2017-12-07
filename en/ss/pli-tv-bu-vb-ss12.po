@@ -153,7 +153,8 @@ msgctxt "pli-tv-bu-vb-ss12:pts-cs1.26a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="3"></a><strong class="rule"> 
+#. </h2><p><a class="sc" id="3"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs1.27"
 msgid "“Bhikkhu paneva dubbacajātiko hoti uddesa­pariyā­pan­nesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti—"
 msgstr "‘If a monk is difficult to correct, and he makes himself incorrigible when he is legitimately corrected by the monks concerning the training rules that are recited, saying,"
@@ -198,7 +199,7 @@ msgctxt "pli-tv-bu-vb-ss12:pts-cs1.36"
 msgid "no ce paṭi­nissaj­jeyya, saṃghādiseso”ti."
 msgstr "If not, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs1.37"
 msgid "(<em>12</em>:<strong>16</strong>)"
 msgstr ""
@@ -209,48 +210,48 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-ss.12.2"></a><a class="ms-pa" id="ms-pa1732"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.1"
 msgid "Bhikkhū paneva dubbacajātiko hotīti"
 msgstr "If a monk is difficult to correct:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.2"
 msgid "dubbaco hoti dova­cassaka­raṇehi dhammehi samannāgato akkhamo appa­dak­khi­ṇag­gāhī anusāsaniṃ."
 msgstr "if he is difficult to correct, endowed with qualities that make him hard to correct, resistant, not receiving instructions respectfully."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa1733"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.3"
 msgid "Uddesa­pariyā­pan­nesu sikkhāpadesūti"
 msgstr "Concerning the training rules that are recited:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.4"
 msgid "pāti­mokkha­pariyā­pan­nesu sikkhāpadesu."
 msgstr "concerning the training rules of the monastic code."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa1734"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.5"
 msgid "Bhikkhūhīti"
 msgstr "The monks:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.6"
 msgid "aññehi bhikkhūhi."
 msgstr "other monks."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a><a class="ms-pa" id="ms-pa1735"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.7"
 msgid "Sahadhammikaṃ nāma"
 msgstr "Legitimately:"
 
-#. </strong></p><div class="gloss"><p>
+#. </span></p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.8"
 msgid "yaṃ bhagavatā paññattaṃ sikkhāpadaṃ,"
 msgstr "about whatever training rule has been laid down by the Master—"
@@ -273,24 +274,24 @@ msgid "Vira­ma­thā­yasmanto mama vacanāyā”ti."
 msgstr "please refrain from correcting me.”"
 
 #. </p></div><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1737"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.13"
 msgid "So bhikkhūti"
 msgstr "Him:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.14"
 msgid "yo so dubbacajātiko bhikkhu."
 msgstr "the monk who is difficult to correct."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="pts-vp-pli" id="pts-vp-pli3.179"></a><a class="ms-pa" id="ms-pa1738"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.15"
 msgid "Bhikkhūhīti"
 msgstr "The monks:"
 
-#. </strong></p><div class="gloss"><p>
+#. </span></p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.16"
 msgid "aññehi bhikkhūhi."
 msgstr "Other monks,"
@@ -370,12 +371,12 @@ msgctxt "pli-tv-bu-vb-ss12:pts-cs2.33"
 msgid "no ce paṭinissajjati, āpatti dukkaṭassa."
 msgstr "If he does not stop, he commits an offense of wrong conduct."
 
-#. </p></div><p><strong class="term"> 
+#. </p></div><p><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.34"
 msgid "So bhikkhu sama­nubhā­si­tabbo."
 msgstr "Should admonish him:"
 
-#. </strong></p><div class="gloss"><p>
+#. </span></p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.35"
 msgid "“Evañca pana, bhikkhave, sama­nubhā­si­tabbo."
 msgstr "“And, monks, he should be admonished in this way."
@@ -495,12 +496,12 @@ msgid "Saṃghādisesaṃ ajjhā­pajjan­tassa ñattiyā dukkaṭaṃ, dvīhi k
 msgstr "For one who commits the offense entailing suspension, the offense of wrong conduct and the serious offenses are annulled."
 
 #. </p><hr><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1744"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.63"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss12:pts-cs2.64"
 msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"

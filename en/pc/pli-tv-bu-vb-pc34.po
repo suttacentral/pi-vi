@@ -322,7 +322,8 @@ msgctxt "pli-tv-bu-vb-pc34:pts-cs1.2.21a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa749"></a><a class="pts-vp-en" id="BD.2.324"></a><strong class="rule">
+#. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa749"></a><a class="pts-vp-en" id="BD.2.324"></a>
+#. <span class="rule">
 #. VAR: uttari → uttariṃ (bj, s1-3)
 #. VAR: paṭiggaṇheyya → paṭigaṇheyya (pts1)
 msgctxt "pli-tv-bu-vb-pc34:pts-cs1.2.22"
@@ -337,7 +338,7 @@ msgctxt "pli-tv-bu-vb-pc34:pts-cs1.2.24"
 msgid "Ayaṃ tattha sāmīcī”ti."
 msgstr "This is the proper procedure.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs1.2.25"
 msgid "(<em>34</em>:<strong>83</strong>)"
 msgstr ""
@@ -348,12 +349,12 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-pc.34.3"></a><a class="pts-cs" id="bu-pc.34.2.1"></a><a class="wt-pa" id="wt-pa750"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.1"
 msgid "Bhikkhuṃ paneva kulaṃ upagatanti"
 msgstr "A monk approaches a family:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.2"
 msgid "kulaṃ nāma cattāri kulāni—"
 msgstr "there are four kinds of families:"
@@ -364,96 +365,96 @@ msgstr "aristocratic families, brahmin families, merchant families, worker famil
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa751"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.4"
 msgid "Upagatanti"
 msgstr "Approaches:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.5"
 msgid "tattha gataṃ."
 msgstr "he has gone there."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa752"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.6"
 msgid "Pūvaṃ nāma"
 msgstr "Biscuits:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.7"
 msgid "yaṃ kiñci paheṇakatthāya paṭiyattaṃ."
 msgstr "whatever has been prepared for the purpose of sending away."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="wt-pa753"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.8"
 msgid "Manthaṃ nāma"
 msgstr "Cereals:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.9"
 msgid "yaṃ kiñci pātheyyatthāya paṭiyattaṃ."
 msgstr "whatever has been prepared as provisions for a journey."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="wt-pa754"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.10"
 msgid "Abhihaṭṭhuṃ pavāreyyāti"
 msgstr "Is invited to take:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.11"
 msgid "yāvatakaṃ icchasi tāvatakaṃ gaṇhāhīti."
 msgstr "saying, “Take as much as you like.”"
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="wt-pa755"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.12"
 msgid "Ākaṅkhamānenāti"
 msgstr "If he wishes:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.13"
 msgid "icchamānena."
 msgstr "if he desires."
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa756"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.14"
 msgid "Dvattipattapūrā paṭiggahetabbāti"
 msgstr "He may accept two or three bowlfuls:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.15"
 msgid "dvetayo pattapūrā paṭiggahetabbā."
 msgstr "two or three bowlfuls can be accepted."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa757"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.16"
 msgid "Tato ce uttari paṭigaṇheyyāti"
 msgstr "If he accepts more than that:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.17"
 msgid "tatuttari paṭiggaṇhāti, āpatti pācittiyassa."
 msgstr "if he receives more than that, he commit an offense entailing confession."
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa758"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.18"
 msgid "Dvattipattapūre paṭiggahetvā"
 msgstr "If he accepts two or three bowlfuls:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.19"
 msgid "tato nikkhamantena bhikkhuṃ passitvā ācikkhitabbaṃ—"
 msgstr "leaving that place and seeing a monk, he should tell him,"
@@ -462,36 +463,37 @@ msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.20"
 msgid "“amutra mayā dvattipattapūrā paṭiggahitā, mā kho tattha paṭiggaṇhī”ti."
 msgstr "“I’ve accepted two or three bowlfuls from such-and-such a place; don’t receive anything from there.”"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.21"
 msgid "Sace passitvā na ācikkhati, āpatti dukkaṭassa."
 msgstr "If he sees a monk, but does not tell him, he commits an offense of wrong conduct."
 
-#. </strong><strong class="rule"> 
+#. </span>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.22"
 msgid "Sace ācikkhite paṭiggaṇhāti, āpatti dukkaṭassa."
 msgstr "If one who is told accepts from there regardless, he commits an offense of wrong conduct."
 
-#. </strong></span>
+#. </span></span>
 #. </p><p><a class="sc" id="17"></a><a class="pts-vp-pli" id="pts-vp-pli4.81"></a><a class="wt-pa" id="wt-pa759"></a><a class="pts-vp-en" id="BD.2.325"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.23"
 msgid "Tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbanti"
 msgstr "He should take it away and share it with the monks:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.24"
 msgid "paṭikkamanaṃ nīharitvā saṃvibhajitabbaṃ."
 msgstr "he should take it away when he is returning from almsround and then share it."
 
 #. </span>
 #. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa760"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.25"
 msgid "Ayaṃ tattha sāmīcīti"
 msgstr "This is the proper procedure:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc34:pts-cs3.1.26"
 msgid "ayaṃ tattha anudhammatā."
 msgstr "this is the right method."

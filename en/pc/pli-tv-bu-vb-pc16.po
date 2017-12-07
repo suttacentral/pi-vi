@@ -119,7 +119,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa417"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: pubbupagataṃ → pubbūpagataṃ (bj, s1-3)
 #. VAR: anupakhajja → anūpakhajja (s1-3)
 msgctxt "pli-tv-bu-vb-pc16:pts-cs1.17"
@@ -130,7 +130,7 @@ msgctxt "pli-tv-bu-vb-pc16:pts-cs1.18"
 msgid "yassa sambādho bhavissati so pakkamissatī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiyan”ti."
 msgstr "with the intention that anyone who feels crowded will leave, and he does so only for this reason and no other, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs1.19"
 msgid "(<em>16</em>:<strong>65</strong>)"
 msgstr ""
@@ -141,23 +141,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-pc.16.2"></a>
-#. <a class="pts-cs" id="bu-pc.16.2.1"></a><a class="wt-pa" id="wt-pa418"></a><strong class="term"> 
+#. <a class="pts-cs" id="bu-pc.16.2.1"></a><a class="wt-pa" id="wt-pa418"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "…The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -167,48 +167,48 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="5"></a>
-#. <a class="wt-pa" id="wt-pa419"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa419"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.6"
 msgid "Saṃghiko nāma"
 msgstr "A dwelling belonging to the Order:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.7"
 msgid "vihāro saṃghassa dinno hoti pariccatto."
 msgstr "given to the Order, given up to the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a>
-#. <a class="wt-pa" id="wt-pa420"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa420"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.8"
 msgid "Jānāti nāma"
 msgstr "He knows:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.9"
 msgid "vuḍḍhoti jānāti, gilānoti jānāti, saṃghena dinnoti jānāti."
 msgstr "he knows that he is senior, he knows that he is sick, he knows that it was given to him by the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a>
-#. <a class="wt-pa" id="wt-pa421"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa421"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.10"
 msgid "Anupakhajjāti"
 msgstr "Encroaches on:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.11"
 msgid "anupavisitvā."
 msgstr "enters after."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a>
-#. <a class="wt-pa" id="wt-pa422"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa422"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.12"
 msgid "Seyyaṃ kappeyyāti"
 msgstr "Arranges his sleeping place:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.13"
 msgid "mañcassa vā pīṭhassa vā pavisantassa vā nikkhamantassa vā upacāre seyyaṃ santharati vā santharāpeti vā, āpatti dukkaṭassa."
 msgstr "if he puts out his sleeping place in the vicinity of the bed, the bench, the entry way, or the departure way, he commits an offense of wrong conduct."
@@ -218,12 +218,12 @@ msgid "Abhinisīdati vā abhinipajjati vā, āpatti pācittiyassa."
 msgstr "If he sits down or lies down on it, he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="9"></a>
-#. <a class="wt-pa" id="wt-pa423"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa423"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.15"
 msgid "Etadeva paccayaṃ karitvā anaññanti"
 msgstr "He does so only for this reason and no other:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc16:pts-cs2.1.16"
 msgid "na añño koci paccayo hoti anupakhajja seyyaṃ kappetuṃ."
 msgstr "there is no other reason for arranging the sleeping place in a way that encroaches."

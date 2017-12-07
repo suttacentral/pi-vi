@@ -150,7 +150,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="2403"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs1.2.17"
 msgid "“Upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya."
 msgstr "‘There are wilderness dwellings that are considered risky and dangerous. After observing the Kattika full moon that ends the rainy season, a monk who is staying in such a dwelling may store one of his three robes in an inhabited area, if he so desires, so long as he has a reason for staying apart from that robe."
@@ -163,7 +163,7 @@ msgctxt "pli-tv-bu-vb-np29:pts-cs1.2.19"
 msgid "Tato ce uttari vippavaseyya, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he stays apart from it beyond that, except if the monks have agreed, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs1.2.20"
 msgid "(<em>29</em>:<strong>48</strong>)"
 msgstr ""
@@ -174,149 +174,149 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-np.29.2"></a><a class="wt-pa" id="2404"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.1"
 msgid "Upavassaṃ kho panāti"
 msgstr "After observing:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.2"
 msgid "vuṭṭhavassānaṃ."
 msgstr "after completing the rainy season."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2405"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.3"
 msgid "Kattikapuṇṇamanti"
 msgstr "The Kattika full moon that ends the rainy season:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.4"
 msgid "kattikacātumāsinī vuccati."
 msgstr "the fourth full moon of the rainy season in the month of Kattika is what is meant."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2406"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.5"
 msgid "Yāni kho pana tāni āraññakāni senāsanānīti"
 msgstr "There are wilderness dwellings:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.6"
 msgid "āraññakaṃ nāma"
 msgstr "it is called a wilderness dwelling"
 
-#. <span class="note" hidden>The text reads “five hundred bow-lengths,” <i lang="pli">pañcadhanusatikaṃ</i>. According to <span class="ref">Sp-ṭ.2.92</span>: “A measure of nine hand-spans of an ordinary hand, or a measure of four fore-arms when the bowstring is attached, this is called the teacher’s bow length,” <i lang="pli">ācariyadhanu nāma pakatihatthena navavidatthippamāṇaṃ, jiyāya pana āropitāya catuhatthappamāṇa</i>. The teacher’s bow-length is the standard measure for bow-lengths, see <span class="ref">Sp. 2.301.15</span>. Given the estimate of 50 cm for one forearm (a <i lang="pli">hattha</i>, sometimes translated as “cubit”) in BMC I, pp. 565-566, five hundred bow-lengths add up to about one kilometer.</span> 
+#. The text reads “five hundred bow-lengths,” <i lang="pli">pañcadhanusatikaṃ</i>. According to <ref>Sp-ṭ.2.92</ref>: “A measure of nine hand-spans of an ordinary hand, or a measure of four fore-arms when the bowstring is attached, this is called the teacher’s bow length,” <i lang="pli">ācariyadhanu nāma pakatihatthena navavidatthippamāṇaṃ, jiyāya pana āropitāya catuhatthappamāṇa</i>. The teacher’s bow-length is the standard measure for bow-lengths, see <ref>Sp. 2.301.15</ref>. Given the estimate of 50 cm for one forearm (a <i lang="pli">hattha</i>, sometimes translated as “cubit”) in BMC I, pp. 565-566, five hundred bow-lengths add up to about one kilometer.
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.7"
 msgid "senāsanaṃ pañcadhanusatikaṃ pacchimaṃ."
 msgstr "if it is at least one kilometer away from any inhabited area."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-en" id="bd.2.158"></a><a class="wt-pa" id="2407"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.8"
 msgid "Sāsaṅkaṃ nāma"
 msgstr "Risky:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.9"
 msgid "ārāme ārāmūpacāre corānaṃ niviṭṭhokāso dissati, bhuttokāso dissati, ṭhitokāso dissati, nisinnokāso dissati, nipannokāso dissati."
 msgstr "in the monastery, or in the vicinity of the monastery, thieves have been seen camping, eating, standing, seated, or lying down."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2408"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.10"
 msgid "Sappaṭibhayaṃ nāma"
 msgstr "Dangerous:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.11"
 msgid "ārāme ārāmūpacāre corehi manussā hatā dissanti, viluttā dissanti, ākoṭitā dissanti."
 msgstr "in the monastery, or in the vicinity of the monastery, thieves have been seen injuring, robbing, or beating people."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2409"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.12"
 msgid "Tathārūpesu bhikkhu senāsanesu viharantoti"
 msgstr "A monk who is staying in such a dwelling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.13"
 msgid "evarūpesu bhikkhu senāsanesu viharanto."
 msgstr "a monk who is staying in that kind of dwelling."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli3.264"></a><a class="wt-pa" id="2410"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.14"
 msgid "Ākaṅkhamānoti"
 msgstr "If he so desires:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.15"
 msgid "icchamāno."
 msgstr "if he so wishes."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2411"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.16"
 msgid "Tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaranti"
 msgstr "One of his three robes:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.17"
 msgid "saṅghāṭiṃ vā uttarāsaṅgaṃ vā antaravāsakaṃ vā."
 msgstr "the outer robe, the upper robe, or the lower robe."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2412"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.18"
 msgid "Antaraghare nikkhipeyyāti"
 msgstr "May store […] in an inhabited area:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.19"
 msgid "samantā gocaragāme nikkhipeyya."
 msgstr "may store it anywhere in his alms village."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2413"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.20"
 msgid "Siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāyāti"
 msgstr "So long as he has a reason for staying apart from that robe:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.21"
 msgid "siyā paccayo siyā karaṇīyaṃ."
 msgstr "if there is a reason, if there is something to be done."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2414"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.22"
 msgid "Chārattaparamaṃ tena bhikkhunā tena cīvarena vippavasitabbanti"
 msgstr "He should stay apart from that robe for six days at the most:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.23"
 msgid "chārattaparamatā vippavasitabbaṃ."
 msgstr "he should stay apart from it for six days at the maximum."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2415"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.24"
 msgid "Aññatra bhikkhusammutiyāti"
 msgstr "Except if the monks have agreed:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.25"
 msgid "ṭhapetvā bhikkhusammutiṃ."
 msgstr "unless he has the permission of the monks."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2416"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.26"
 msgid "Tato ce uttari vippavaseyyāti"
 msgstr "If he stays apart from it beyond that:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.27"
 msgid "sattame aruṇuggamane nissaggiyaṃ hoti."
 msgstr "the robe becomes subject to relinquishment at dawn on the seventh day."
@@ -401,12 +401,13 @@ msgctxt "pli-tv-bu-vb-np29:pts-cs2.44"
 msgid "avilutte viluttasaññī vippavasati, aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ."
 msgstr "If the robe has not been stolen, but he perceives it as stolen, and he is staying apart from it, then, except if the monks have agreed, he commits an offense entailing relinquishment and confession."
 
-#. </p><p><a class="sc" id="19"></a><a class="wt-pa" id="2418"></a><strong class="rule"> 
+#. </p><p><a class="sc" id="19"></a><a class="wt-pa" id="2418"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.45"
 msgid "Nissaggiyaṃ cīvaraṃ anissajjitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he uses a robe that should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np29:pts-cs2.46"
 msgid "Ūnakachāratte atirekasaññī, āpatti dukkaṭassa."
 msgstr "If it is less than six days, but he perceives it as more, he commits an offense of wrong conduct."

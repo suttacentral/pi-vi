@@ -203,12 +203,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="1944"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs1.36"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk gets an unrelated nun to wash, dye, or beat a used robe, he commits and offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs1.37"
 msgid "(<em>4</em>:<strong>23</strong>)"
 msgstr ""
@@ -219,22 +219,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a><a class="pts-cs-empty" id="bu-np.4.2"></a><a class="pts-cs" id="bu-np.4.2.1"></a><a class="wt-pa" id="1945"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -244,34 +244,34 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="1946"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.6"
 msgid "Aññātikā nāma"
 msgstr "Unrelated:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.7"
 msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="pts-vp-en" id="bd.2.32"></a><a class="wt-pa" id="1947"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.8"
 msgid "Bhikkhunī nāma"
 msgstr "A nun:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.9"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both Orders."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="1948"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.10"
 msgid "Purāṇacīvaraṃ nāma"
 msgstr "A used robe:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np4:pts-cs2.1.11"
 msgid "sakiṃ nivatthampi sakiṃ pārutampi."
 msgstr "a lower robe or an upper robe, even worn once."

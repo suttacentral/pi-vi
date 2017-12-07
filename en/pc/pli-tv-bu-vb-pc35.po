@@ -147,12 +147,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa768"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs1.22"
 msgid "“Yo pana bhikkhu bhuttāvī pavārito khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyan”ti."
 msgstr "‘If a monk who has eaten and expressed his satisfaction eats staple or non-staple food, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa769"></a> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs1.23"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -207,7 +207,7 @@ msgctxt "pli-tv-bu-vb-pc35:pts-cs2.10"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs2.11"
 msgid "“anujānāmi, bhikkhave, gilānassa ca agilānassa ca atirittaṃ bhuñjituṃ."
 msgstr "“Monks, I allow you to eat the leftovers from those who are sick, and also from those who are not sick."
@@ -220,7 +220,7 @@ msgctxt "pli-tv-bu-vb-pc35:pts-cs2.13"
 msgid "‘alametaṃ sabban’ti."
 msgstr "‘I’ve had enough of all of this.’"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs2.14"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -231,14 +231,15 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa771"></a> 
-#. <strong class="rule"><span class="note" hidden><i lang="pli">Pavārito</i>, often translated as “invited,” but the word also means “satisfied.” In the present case, the contextual meaning (see below) is that the monk has expressed his satisfaction after being invited to take more.</span>
+#. <span class="rule">
+#. <i lang="pli">Pavārito</i>, often translated as “invited,” but the word also means “satisfied.” In the present case, the contextual meaning (see below) is that the monk has expressed his satisfaction after being invited to take more.
 #. VAR: khādanīyaṃ → khādaniyaṃ (pts1)
 #. VAR: bhojanīyaṃ → bhojaniyaṃ (pts1)
 msgctxt "pli-tv-bu-vb-pc35:pts-cs2.15"
 msgid "“Yo pana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyan”ti."
 msgstr "‘If a monk who has eaten and expressed his satisfaction eats staple or non-staple food that is not left over, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs2.16"
 msgid "(<em>35</em>:<strong>84</strong>)"
 msgstr ""
@@ -249,23 +250,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs-empty" id="bu-pc.35.3"></a><a class="pts-cs" id="bu-pc.35.3.1"></a><a class="wt-pa" id="wt-pa772"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -276,36 +277,37 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa773"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.6"
 msgid "Bhuttāvī nāma"
 msgstr "Who has eaten:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.7"
 msgid "pañcannaṃ bhojanānaṃ aññataraṃ bhojanaṃ antamaso kusaggenapi bhuttaṃ hoti."
 msgstr "who has eaten any of the five staple foods, even just what fits on the tip of a blade of grass."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa774"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.8"
 msgid "Pavārito nāma"
 msgstr "Expressed his satisfaction:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.329"></a> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.329"></a> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.9"
 msgid "asanaṃ paññāyati, bhojanaṃ paññāyati, hatthapāse ṭhito abhiharati, paṭikkhepo paññāyati."
 msgstr "there is eating; there is staple food; it is offered by one standing within arm’s reach; there is a refusal."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="wt-pa775"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.10"
 msgid "Anatirittaṃ nāma"
 msgstr "Not left over:"
 
-#. </strong><span class="gloss"><span class="note" hidden><i lang="pli">Akappiyakataṃ hoti</i>, literally, “It is done with what is not allowable.”The “it,” both here and below, refers to the ceremony of making it allowable, and the “what” refers to the food.</span>"
+#. </span><span class="gloss">
+#. <i lang="pli">Akappiyakataṃ hoti</i>, literally, “It is done with what is not allowable.”The “it,” both here and below, refers to the ceremony of making it allowable, and the “what” refers to the food.
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.11"
 msgid "akappiyakataṃ hoti,"
 msgstr "the making it leftover is done with food that is not allowable;"
@@ -344,12 +346,12 @@ msgstr "this is called “not leftover.”"
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="wt-pa776"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.20"
 msgid "Atirittaṃ nāma"
 msgstr "Left over:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.21"
 msgid "kappiyakataṃ hoti,"
 msgstr "the making it leftover is done with food that is allowable;"
@@ -389,24 +391,24 @@ msgstr "this is called “leftover.”"
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="pts-vp-pli" id="pts-vp-pli4.83"></a><a class="wt-pa" id="wt-pa777"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.30"
 msgid "Khādanīyaṃ nāma"
 msgstr "Non-staple food:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.31"
 msgid "pañca bhojanāni—yāmakālikaṃ sattāhakālikaṃ yāvajīvikaṃ ṭhapetvā avasesaṃ khādanīyaṃ nāma."
 msgstr "apart from the five staple foods, the post-midday tonics, the seven-day tonics, and the lifetime tonics—the rest is called “non-staple food.”"
 
 #. </span>
 #. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa778"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.32"
 msgid "Bhojanīyaṃ nāma"
 msgstr "Staple food:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc35:pts-cs3.1.33"
 msgid "pañca bhojanāni—"
 msgstr "there are five kinds of staple food:"

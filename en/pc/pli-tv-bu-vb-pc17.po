@@ -186,12 +186,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa431"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs1.32"
 msgid "“Yo pana bhikkhu bhikkhuṃ kupito anattamano saṃghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyan”ti."
 msgstr "‘If a monk, in anger, throws another monk out of a dwelling belonging to the Order, or gets him thrown out, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs1.33"
 msgid "(<em>17</em>:<strong>66</strong>)"
 msgstr ""
@@ -202,23 +202,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.17.2"></a>
-#. <a class="pts-cs" id="bu-pc.17.2.1"></a><a class="wt-pa" id="wt-pa432"></a><strong class="term"> 
+#. <a class="pts-cs" id="bu-pc.17.2.1"></a><a class="wt-pa" id="wt-pa432"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "…The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -228,48 +228,48 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli4.45"></a>
-#. <a class="wt-pa" id="wt-pa433"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa433"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.6"
 msgid "Bhikkhunti"
 msgstr "Another monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.7"
 msgid "aññaṃ bhikkhuṃ."
 msgstr "a different monk."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a>
-#. <a class="wt-pa" id="wt-pa434"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa434"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.8"
 msgid "Kupito anattamanoti"
 msgstr "In anger:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.9"
 msgid "anabhiraddho āhatacitto khilajāto."
 msgstr "discontent, having hatred, hostile."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a>
-#. <a class="wt-pa" id="wt-pa435"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa435"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.10"
 msgid "Saṃghiko nāma"
 msgstr "A dwelling belonging to the Order:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.11"
 msgid "vihāro saṃghassa dinno hoti pariccatto."
 msgstr "given to the Order, given up to the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a>
-#. <a class="wt-pa" id="wt-pa436"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa436"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.12"
 msgid "Nikkaḍḍheyyāti"
 msgstr "Throws out:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.252"></a> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.252"></a> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.13"
 msgid "gabbhe gahetvā pamukhaṃ nikkaḍḍhati, āpatti pācittiyassa."
 msgstr "if he takes hold of him in a room and throws him into the entrance area, he commits an offense entailing confession."
@@ -284,12 +284,12 @@ msgstr "Even if he makes him go through many doors with a single effort, he comm
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa437"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.16"
 msgid "Nikkaḍḍhāpeyyāti"
 msgstr "Gets […] thrown out:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 #. VAR: pācittiyassa → dukkaṭassa (pts1)
 msgctxt "pli-tv-bu-vb-pc17:pts-cs2.1.17"
 msgid "aññaṃ āṇāpeti, āpatti pācittiyassa."

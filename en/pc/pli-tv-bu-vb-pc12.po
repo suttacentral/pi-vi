@@ -189,12 +189,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa356"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs1.33"
 msgid "“Aññavādake pācittiyan”ti."
 msgstr "‘If a monk speaks evasively, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa357"></a> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs1.34"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -331,12 +331,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa363"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs2.29"
 msgid "“Aññavādake vihesake pācittiyan”ti."
 msgstr "‘If a monk speaks evasively or harasses, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs2.30"
 msgid "(<em>12</em>:<strong>61</strong>)"
 msgstr ""
@@ -347,12 +347,12 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="15"></a><a class="pts-vp-pli" id="pts-vp-pli4.37"></a><a class="pts-cs-empty" id="bu-pc.12.3"></a><a class="pts-cs" id="bu-pc.12.3.1"></a><a class="wt-pa" id="wt-pa364"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.1"
 msgid "Aññavādako nāma"
 msgstr "One who speaks evasively:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.2"
 msgid "saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo aññenaññaṃ paṭicarati—"
 msgstr "when being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, he speaks evasively because he does not want to talk about it or reveal it, saying,"
@@ -366,12 +366,12 @@ msgid "Eso aññavādako nāma."
 msgstr "this is called “one who speaks evasively.”"
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa365"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.5"
 msgid "Vihesako nāma"
 msgstr "One who harasses:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc12:pts-cs3.1.6"
 msgid "saṃghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno taṃ na kathetukāmo taṃ na ugghāṭetukāmo tuṇhībhūto saṃghaṃ viheseti."
 msgstr "when being examined in the midst of the Order about an action that was the basis for an offense or about the class of an offense, he harasses the Order by remaining silent because he does not want to talk about it or reveal it—"

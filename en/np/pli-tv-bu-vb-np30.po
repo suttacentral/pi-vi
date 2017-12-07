@@ -170,12 +170,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="2423"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs1.28"
 msgid "“Yo pana bhikkhu jānaṃ saṃghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk diverts to himself something that he knows was intended for the Order, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs1.29"
 msgid "(<em>30</em>:<strong>49</strong>)"
 msgstr ""
@@ -186,22 +186,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-np.30.2"></a><a class="wt-pa" id="2424"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -211,35 +211,35 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2425"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.6"
 msgid "Jānāti nāma"
 msgstr "He knows:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>The meaning of the last of these three ways of knowing, <i lang="pli">so vā āroceti</i>, is not clear. CPD suggests: “<i lang="pli">sa (sā) āroceti</i> (?). Perhaps this last form is conformable to sa. [Sanskrit] <i lang="pli">ārocayate</i> med. caus. [middle voice causative] in the meaning: he or she makes inquiries (of others).” However, this does not fit with the parallel usage at Confession 29 <span class="ref">MS.2.638</span> where the text says that she tells (<i lang="pli">sā vā āroceti</i>) him, presumably referring to the nun telling the monk. In this case <i lang="pli">āroceti</i> cannot refer to the monk making inquiries. The commentaries are silent, and I therefore assume that a straight-forward meaning is the most likely one. I would suggest, then, that it simply refers to the donor telling the monk directly.</span> 
+#. </span><span class="gloss">
+#. The meaning of the last of these three ways of knowing, <i lang="pli">so vā āroceti</i>, is not clear. CPD suggests: “<i lang="pli">sa (sā) āroceti</i> (?). Perhaps this last form is conformable to sa. [Sanskrit] <i lang="pli">ārocayate</i> med. caus. [middle voice causative] in the meaning: he or she makes inquiries (of others).” However, this does not fit with the parallel usage at Confession 29 <ref>MS.2.638</ref> where the text says that she tells (<i lang="pli">sā vā āroceti</i>) him, presumably referring to the nun telling the monk. In this case <i lang="pli">āroceti</i> cannot refer to the monk making inquiries. The commentaries are silent, and I therefore assume that a straight-forward meaning is the most likely one. I would suggest, then, that it simply refers to the donor telling the monk directly.
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.7"
 msgid "sāmaṃ vā jānāti aññe vā tassa ārocenti so vā āroceti."
 msgstr "he knows by himself or others have told him or the donor has told him."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.266"></a><a class="wt-pa" id="2426"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.8"
 msgid "Saṃghikaṃ nāma"
 msgstr "For the Order:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.9"
 msgid "saṃghassa dinnaṃ hoti pariccattaṃ."
 msgstr "given to the Order, given up to the Order."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2427"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.10"
 msgid "Lābho nāma"
 msgstr "Something:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.11"
 msgid "cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā."
 msgstr "robe-cloth, almsfood, dwellings, and medicines;"
@@ -249,12 +249,12 @@ msgid "Antamaso cuṇṇapiṇḍopi, dantakaṭṭhampi, dasikasuttampi."
 msgstr "even bath powder, a toothbrush, or a piece of string."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="pts-vp-en" id="bd.2.162"></a><a class="wt-pa" id="2428"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.13"
 msgid "Pariṇataṃ nāma"
 msgstr "Intended:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np30:pts-cs2.14"
 msgid "dassāma karissāmāti vācā bhinnā hoti."
 msgstr "they have said, “We will give/we will prepare.”"

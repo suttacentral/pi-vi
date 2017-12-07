@@ -125,8 +125,8 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="wt-pa460"></a><a class="pts-vp-en" id="BD.2.258"></a>
-#. <span class="note" hidden><i lang="pli">Dvatticchadanassa pariyāyaṃ […] adhiṭṭhātabbaṃ,</i> “a succession of two or three coverings may be applied.”</span>
-#. <strong class="rule">
+#. <i lang="pli">Dvatticchadanassa pariyāyaṃ […] adhiṭṭhātabbaṃ,</i> “a succession of two or three coverings may be applied.”
+#. <span class="rule">
 #. VAR: aggaḷaṭṭhapanāya → aggalaṭ­ṭhapa­nāya (bj, s1, s3)
 #. VAR: appaharite → apaharite (s2)
 msgctxt "pli-tv-bu-vb-pc19:pts-cs1.19"
@@ -138,7 +138,7 @@ msgctxt "pli-tv-bu-vb-pc19:pts-cs1.20"
 msgid "Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya pācittiyan”ti."
 msgstr "If he applies more than that, even if he stands where there are no cultivated plants, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs1.21"
 msgid "(<em>19</em>:<strong>68</strong>)"
 msgstr ""
@@ -149,85 +149,87 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-pc.19.2"></a>
-#. <a class="pts-cs" id="bu-pc.19.2.1"></a><a class="wt-pa" id="wt-pa461"></a><strong class="term"> 
+#. <a class="pts-cs" id="bu-pc.19.2.1"></a><a class="wt-pa" id="wt-pa461"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.1"
 msgid "Mahallako nāma"
 msgstr "A large dwelling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.2"
 msgid "vihāro sassāmiko vuccati."
 msgstr "one with an owner is what is meant."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a>
-#. <a class="wt-pa" id="wt-pa462"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa462"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.3"
 msgid "Vihāro nāma"
 msgstr "A dwelling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.4"
 msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
 msgstr "plastered inside or plastered outside or plastered both inside and outside."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a>
-#. <a class="wt-pa" id="wt-pa463"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa463"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.5"
 msgid "Kārayamānenāti"
 msgstr "Building:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.6"
 msgid "karonto vā kārāpento vā."
 msgstr "building or getting built."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a>
-#. <a class="wt-pa" id="wt-pa464"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa464"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.7"
 msgid "Yāva dvārakosāti"
 msgstr "As far as the door frame:"
 
 #. VAR: piṭṭhasaṅghāṭassa → pīṭha­saṃ­ghāṭassa (itipi) | piṭṭhi­saṅghā­ṭassa (s1-3)
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.8"
 msgid "piṭṭhasaṅghāṭassa samantā hatthapāsā."
 msgstr "a distance of an arm’s reach next to the lintel and the door-posts."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a>
-#. <a class="wt-pa" id="wt-pa465"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa465"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.9"
 msgid "Aggaḷaṭṭhapanāyāti"
 msgstr "For fixing the door:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.10"
 msgid "dvāraṭṭhapanāya."
 msgstr "for the fixing of the door."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a>
-#. <a class="wt-pa" id="wt-pa466"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa466"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.11"
 msgid "Ālokasandhiparikammāyāti"
 msgstr "For treating the window shutters:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.259"></a><span class="note" hidden><i lang="pli">Makaradantaka</i>. Lit. “Like the teeth of a <i lang="pli">makara</i>.” In later Buddhism the <i lang="pli">makara</i> is the name of a mythological marine animal, but what it refers to in this context is not clear. According to Sp-yoj.3.243 <i lang="pli">makara</i> is the name of a certain species of fish:" <i lang="pli">Makaradantaketi makaranāmakassa macchassa dantasadise dante</i>. “Swordfish” is merely a tentative rendering taken from PED.</span><span class="note" hidden><i lang="pli">Pañcapaṭika</i>. Vmv.4.299(VRI): <i lang="pli">Pāḷiyaṃ pañcapaṭikanti jātiādipañcappakāravaṇṇamaṭṭhaṃ</i>, “<i lang="pli">Pañcapaṭika</i> in the canonical text means the five-fold appearance, starting with jasmine.” The meaning is not clear, especially of <i lang="pli">jāti</i>.</span> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.259"></a>
+#. <i lang="pli">Makaradantaka</i>. Lit. “Like the teeth of a <i lang="pli">makara</i>.” In later Buddhism the <i lang="pli">makara</i> is the name of a mythological marine animal, but what it refers to in this context is not clear. According to Sp-yoj.3.243 <i lang="pli">makara</i> is the name of a certain species of fish:" <i lang="pli">Makaradantaketi makaranāmakassa macchassa dantasadise dante</i>. “Swordfish” is merely a tentative rendering taken from PED.
+#. <i lang="pli">Pañcapaṭika</i>. Vmv.4.299(VRI): <i lang="pli">Pāḷiyaṃ pañcapaṭikanti jātiādipañcappakāravaṇṇamaṭṭhaṃ</i>, “<i lang="pli">Pañcapaṭika</i> in the canonical text means the five-fold appearance, starting with jasmine.” The meaning is not clear, especially of <i lang="pli">jāti</i>. 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.12"
 msgid "vātapānaparikammāya setavaṇṇaṃ kāḷavaṇṇaṃ gerukaparikammaṃ mālākammaṃ latākammaṃ makaradantakaṃ pañcapaṭikaṃ."
 msgstr "for treating the windows there is white color, black color, and treating with red ocher; making a garland pattern, a creeper pattern, a pattern of sword-fish teeth, and the fivefold pattern."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="pts-vp-pli" id="pts-vp-pli4.48"></a>
-#. <a class="wt-pa" id="wt-pa467"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa467"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.13"
 msgid "Dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbanti—"
 msgstr "Standing where there are no cultivated plants, he may apply two or three courses of covering:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.14"
 msgid "haritaṃ nāma pubbaṇṇaṃ aparaṇṇaṃ."
 msgstr ""
@@ -236,7 +238,9 @@ msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.15"
 msgid "Sace harite ṭhito adhiṭṭhāti, āpatti dukkaṭassa."
 msgstr "if he applies it while standing where there are cultivated plants, he commits an offense of wrong conduct."
 
-#. <span class="note" hidden><i lang="pli">Maggena</i>, explained by the commentary (<span class="ref">Sp.4.785.12</span>) as, “not encircling, just straight covering,” <i lang="pli">aparikkhipitvā ujukameva chādanaṃ</i>.</span><span class="note" hidden><i lang="pli">Dve magge</i>, “two lines.” The context requires that this must refer to lines on top of each other rather than next to each other.</span><span class="note" hidden><i lang="pli">Pakkamitabbaṃ</i>. The point, according to <span class="ref">Sp.4.785.21</span>, seems to be that he may not keep on asking: “If he does not depart, he should stand in silence,” <i lang="pli">sace na pakkamati, tuṇhībhūtena ṭhātabbaṃ</i>.</span> 
+#. <i lang="pli">Maggena</i>, explained by the commentary (<ref>Sp.4.785.12</ref>) as, “not encircling, just straight covering,” <i lang="pli">aparikkhipitvā ujukameva chādanaṃ</i>.
+#. <i lang="pli">Dve magge</i>, “two lines.” The context requires that this must refer to lines on top of each other rather than next to each other.
+#. <i lang="pli">Pakkamitabbaṃ</i>. The point, according to <ref>Sp.4.785.21</ref>, seems to be that he may not keep on asking: “If he does not depart, he should stand in silence,” <i lang="pli">sace na pakkamati, tuṇhībhūtena ṭhātabbaṃ</i>.
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.16"
 msgid "Maggena chādentassa dve magge adhiṭṭhahitvā tatiyaṃ maggaṃ āṇāpetvā pakkamitabbaṃ."
 msgstr "For someone covering in lines, after covering with two layers, he may ask for a third layer, and he should then depart."
@@ -245,23 +249,24 @@ msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.17"
 msgid "Pariyāyena chādentassa dve pariyāye adhiṭṭhahitvā tatiyaṃ pariyāyaṃ āṇāpetvā pakkamitabbaṃ."
 msgstr "For someone covering in circles, after covering with two layers, he may ask for a third layer, and he should then depart."
 
-#. </span></p><p><strong class="term"> 
+#. </span></p><p><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.18"
 msgid ""
 msgstr "Cultivated plants"
 
-#. </strong><span class="gloss"><span class="note" hidden>I have moved this last definition from the beginning of the paragraph to the end to make the translation clearer.</span> 
+#. </span><span class="gloss">
+#. I have moved this last definition from the beginning of the paragraph to the end to make the translation clearer. 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.19"
 msgid ""
 msgstr "vegetables and grains."
 
 #. </span></p><p><a class="sc" id="12"></a>
-#. <a class="wt-pa" id="wt-pa468"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa468"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.20"
 msgid "Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyyāti"
 msgstr "If he applies more than that, even if he stands where there are no cultivated plants:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc19:pts-cs2.1.21"
 msgid "iṭṭhakāya chādentassa iṭṭhakiṭṭhakāya āpatti pācittiyassa."
 msgstr "if he is covering with bricks, then for every brick, he commits an offense entailing confession."

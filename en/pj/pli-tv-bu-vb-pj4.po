@@ -368,7 +368,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs1.2.31"
 msgid "vigarahitvā dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "After criticizing them and giving a teaching, he addressed the monks:"
 
-#. </p><div class="parallel"><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pj.4.1.3"></a><a class="ms-pa" id="ms.542"></a> 
+#. </p><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-pj.4.1.3"></a><a class="ms-pa" id="ms.542"></a> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.1"
 msgid "“Pañcime, bhikkhave, mahācorā santo saṃvijjamānā lokasmiṃ."
 msgstr "“Monks, there are these five great gangsters to be found in the world."
@@ -458,7 +458,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.21"
 msgid "Puna caparaṃ, bhikkhave, idhekacco pāpabhikkhu yāni tāni saṃghassa garubhaṇḍāni garu­parik­khā­rāni, seyyathidaṃ—"
 msgstr "Again, a bad monk takes valuable goods and equipment belonging to the Order—"
 
-#. <span class="note" hidden>I have rendered <i lang="pli">muñja</i>-reed and <i lang="pli">pabbaja</i>-reed with the single word “reed.” I am not aware that these two types of reed can be distinguished in English.</span>
+#. I have rendered <i lang="pli">muñja</i>-reed and <i lang="pli">pabbaja</i>-reed with the single word “reed.” I am not aware that these two types of reed can be distinguished in English.
 #. VAR: bibbohanaṃ → bimbohanaṃ (bj, s1-3, pts1)
 #. VAR: parasu → pharasu (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.22"
@@ -554,7 +554,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.41"
 msgid "raṭṭhapiṇḍaṃ asaññatoti."
 msgstr "to eat the country’s alms."
 
-#. </p></blockquote></div><p><a class="sc" id="17"></a><a class="ms-pa" id="ms.550"></a> 
+#. </p></blockquote><p><a class="sc" id="17"></a><a class="ms-pa" id="ms.550"></a> 
 #. VAR: bhagavā → bhagavā te (c1)
 msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.42"
 msgid "Atha kho bhagavā vaggu­mudā­tīriye bhikkhū aneka­pariyā­yena vigarahitvā dubbharatāya dupposatāya … pe …"
@@ -570,7 +570,7 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="18"></a><a class="ms-pa" id="ms.551"></a><a class="pts-vp-en" id="bd.1.158"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.44"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
 msgstr "‘If a monk falsely claims for himself a superhuman quality, knowledge and vision worthy of the noble ones, saying,"
@@ -600,7 +600,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.50"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="19"></a><a class="ms-pa" id="ms.552"></a> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs1.3.51"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -665,7 +665,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="22"></a><a class="ms-pa" id="ms.555"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: attupanāyikaṃ → attūpanāyikaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pj4:pts-cs2.12"
 msgid "“Yo pana bhikkhu anabhijānaṃ uttari­manus­sa­dhammaṃ attupanāyikaṃ ala­mariya­ñāṇadas­sanaṃ samudācareyya—"
@@ -701,7 +701,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs2.19"
 msgid "ayampi pārājiko hoti asaṃvāso”ti."
 msgstr "he too is expelled and excluded from the community.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs2.20"
 msgid "(<em>4</em>:<strong>4</strong>)"
 msgstr ""
@@ -711,23 +711,23 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs3.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="23"></a><a class="pts-cs" id="bu-pj.4.3"></a><a class="ms-pa" id="ms.556"></a> <strong class="term"> 
+#. </h2><p><a class="sc" id="23"></a><a class="pts-cs" id="bu-pj.4.3"></a><a class="ms-pa" id="ms.556"></a> <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span> <strong class="term"> 
+#. </span> <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.4"
 msgid "… pe …"
@@ -739,12 +739,12 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms.557"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.6"
 msgid "Anabhijānanti"
 msgstr "Falsely:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.7"
 msgid "asantaṃ abhūtaṃ asaṃvijjamānaṃ ajānanto apassanto attani kusalaṃ dhammaṃ—"
@@ -755,12 +755,12 @@ msgid "atthi me kusalo dhammoti."
 msgstr "he says, “I have this wholesome quality.”"
 
 #. </span>
-#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms.558"></a><strong class="term"> 
+#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms.558"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.9"
 msgid "Uttari­manus­sa­dhammo nāma"
 msgstr "A superhuman quality:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 #. VAR: vimokkho → vimokkhaṃ (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.10"
@@ -769,12 +769,12 @@ msgstr "absorption, release, stillness, attainment, knowledge and vision, develo
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms.559"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.11"
 msgid "Attupanāyikanti"
 msgstr "For himself:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.12"
 msgid "te vā kusale dhamme attani upaneti attānaṃ vā tesu kusalesu dhammesu upaneti."
@@ -782,24 +782,24 @@ msgstr "either he presents those good qualities as in himself, or he presents hi
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms.560"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.13"
 msgid "Ñāṇanti"
 msgstr "Knowledge:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.14"
 msgid "tisso vijjā."
 msgstr "the three true insights."
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.15"
 msgid "Dassananti"
 msgstr "Vision:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.16"
 msgid "yaṃ ñāṇaṃ taṃ dassanaṃ, yaṃ dassanaṃ taṃ ñāṇaṃ."
@@ -807,12 +807,12 @@ msgstr "knowledge and vision are equivalent."
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="pts-vp-pli" id="pts-vp-pli3.92"></a> <a class="ms-pa" id="ms.561"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.17"
 msgid "Samudācareyyāti"
 msgstr "Claims:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.18"
 msgid "āroceyya itthiyā vā purisassa vā gahaṭṭhassa vā pabbajitassa vā."
@@ -820,12 +820,12 @@ msgstr "announces to a woman or a man, to a lay person or one gone forth."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms.562"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.19"
 msgid "Iti jānāmi iti passāmīti"
 msgstr "This I know, this I see:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.20"
 msgid "jānāmahaṃ ete dhamme,"
@@ -842,12 +842,12 @@ msgstr "and I conform to them.”"
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms.563"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.23"
 msgid "Tato aparena samayenāti"
 msgstr "After some time:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.24"
 msgid "yasmiṃ khaṇe samudāciṇṇaṃ hoti taṃ khaṇaṃ taṃ layaṃ taṃ muhuttaṃ vītivatte."
@@ -855,12 +855,12 @@ msgstr "the moment, the second, the instant after he has made the claim."
 
 #. </span>
 #. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms.564"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.25"
 msgid "Sama­nug­gāhīya­mānoti"
 msgstr "He is questioned:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.26"
 msgid "yaṃ vatthu paṭiññātaṃ hoti tasmiṃ vatthusmiṃ sama­nug­gāhīya­māno—"
@@ -892,12 +892,12 @@ msgstr "Which qualities did you gain?”"
 
 #. </span>
 #. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms.565"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.33"
 msgid "Asama­nug­gāhīya­mānoti"
 msgstr "Not:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.34"
 msgid "na kenaci vuccamāno."
@@ -905,12 +905,12 @@ msgstr "he is not spoken to by anyone."
 
 #. </span>
 #. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="ms.566"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.35"
 msgid "Āpannoti"
 msgstr "Having committed the offense:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.36"
 msgid "pāpiccho icchāpakato asantaṃ abhūtaṃ uttari­manus­sa­dhammaṃ ullapitvā pārājikaṃ āpattiṃ āpanno hoti."
@@ -918,12 +918,12 @@ msgstr "having bad desires, overcome by desire, claiming a non-existent, unreal 
 
 #. </span>
 #. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms.567"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.37"
 msgid "Visuddhāpekkhoti"
 msgstr "Desiring purification:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.38"
 msgid "gihī vā hotukāmo upāsako vā hotukāmo ārāmiko vā hotukāmo sāmaṇero vā hotukāmo."
@@ -931,12 +931,12 @@ msgstr "he desires to be a lay person, a lay follower, a monastery attendant, or
 
 #. </span>
 #. </p><p><a class="sc" id="35"></a><a class="ms-pa" id="ms.568"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.39"
 msgid "Ajānamevaṃ, āvuso, avacaṃ—jānāmi, apassaṃ passāmīti"
 msgstr "Not knowing I said that I know, not seeing that I see:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.40"
 msgid "nāhaṃ ete dhamme jānāmi,"
@@ -956,12 +956,12 @@ msgstr "and I don’t conform to them.”"
 
 #. </span>
 #. </p><p><a class="sc" id="36"></a><a class="ms-pa" id="ms.569"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.44"
 msgid "Tucchaṃ musā vilapinti"
 msgstr "What I said was empty and false:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.45"
 msgid "tucchakaṃ mayā bhaṇitaṃ,"
@@ -981,12 +981,12 @@ msgstr "I said it without knowing."
 
 #. </span>
 #. </p><p><a class="sc" id="37"></a><a class="ms-pa" id="ms.570"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.49"
 msgid "Aññatra adhimānāti"
 msgstr "Unless it is due to overestimation:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.50"
 msgid "ṭhapetvā adhimānaṃ."
@@ -994,12 +994,12 @@ msgstr "except if it is overestimation."
 
 #. </span>
 #. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms.571"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.51"
 msgid "Ayampīti"
 msgstr "He too:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.52"
 msgid "purime upādāya vuccati."
@@ -1007,12 +1007,12 @@ msgstr "this is said with reference to the preceding offenses entailing expulsio
 
 #. </span>
 #. </p><p><a class="sc" id="39"></a><a class="ms-pa" id="ms.572"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.53"
 msgid "Pārājiko hotīti"
 msgstr "Is expelled:"
 
-#. </strong>
+#. </span>
 #. <a class="pts-vp-en" id="bd.1.161"></a>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.54"
@@ -1033,18 +1033,18 @@ msgstr "“he is expelled.”"
 
 #. </span>
 #. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms.573"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.58"
 msgid "Asaṃvāsoti"
 msgstr "Excluded from the community:"
 
-#. </strong>
-#. <span class="gloss"><strong class="term"> 
+#. </span>
+#. <span class="gloss"><span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.59"
 msgid "saṃvāso nāma"
 msgstr "Community:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs3.60"
 msgid "ekakammaṃ ekuddeso samasikkhatā—"
@@ -1093,12 +1093,12 @@ msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="42"></a><a class="ms-pa" id="ms.575"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.3"
 msgid "Jhānanti"
 msgstr "Absorption:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.4"
 msgid "paṭhamaṃ jhānaṃ"
@@ -1118,12 +1118,12 @@ msgstr "the fourth absorption."
 
 #. </span>
 #. </p><p><a class="sc" id="43"></a><a class="ms-pa" id="ms.576"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.8"
 msgid "Vimokkhoti"
 msgstr "Release:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.9"
 msgid "suññato vimokkho"
@@ -1139,12 +1139,12 @@ msgstr "desireless release."
 
 #. </span>
 #. </p><p><a class="sc" id="44"></a><a class="pts-vp-pli" id="pts-vp-pli3.93"></a> <a class="ms-pa" id="ms.577"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.12"
 msgid "Samādhīti"
 msgstr "Stillness:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.13"
 msgid "suññato samādhi"
@@ -1160,12 +1160,12 @@ msgstr "desireless stillness."
 
 #. </span>
 #. </p><p><a class="sc" id="45"></a><a class="ms-pa" id="ms.578"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.16"
 msgid "Samāpattīti"
 msgstr "Attainment:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.17"
 msgid "suññatā samāpatti"
@@ -1181,12 +1181,12 @@ msgstr "desireless attainment."
 
 #. </span>
 #. </p><p><a class="sc" id="46"></a><a class="ms-pa" id="ms.579"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.20"
 msgid "Ñāṇadassananti"
 msgstr "Knowledge and vision:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.21"
 msgid "tisso vijjā."
@@ -1194,12 +1194,12 @@ msgstr "the three true insights."
 
 #. </span>
 #. </p><p><a class="sc" id="47"></a><a class="ms-pa" id="ms.580"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.22"
 msgid "Maggabhāvanāti"
 msgstr "Development of the path:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.23"
 msgid "cattāro satipaṭṭhānā,"
@@ -1232,12 +1232,12 @@ msgstr "the noble eightfold path."
 
 #. </span>
 #. </p><p><a class="sc" id="48"></a><a class="ms-pa" id="ms.581"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.30"
 msgid "Phala­sacchi­kiriyāti"
 msgstr "Realization of the fruits:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.31"
 msgid "sotā­patti­phalassa sacchikiriyā,"
@@ -1258,12 +1258,12 @@ msgstr "realization of perfection."
 
 #. </span>
 #. </p><p><a class="sc" id="49"></a><a class="ms-pa" id="ms.582"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.35"
 msgid "Kilesappahānanti"
 msgstr "Abandoning the defilements:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.36"
 msgid "rāgassa pahānaṃ"
@@ -1279,12 +1279,12 @@ msgstr "the abandoning of confusion."
 
 #. </span>
 #. </p><p><a class="sc" id="50"></a><a class="ms-pa" id="ms.583"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.39"
 msgid "Vinīvaraṇatā cittassāti"
 msgstr "A mind without hindrances:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.40"
 msgid "rāgā cittaṃ vinīvaraṇatā,"
@@ -1300,12 +1300,12 @@ msgstr "a mind without confusion."
 
 #. </span>
 #. </p><p><a class="sc" id="51"></a><a class="ms-pa" id="ms.584"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.43"
 msgid "Suññāgāre abhiratīti"
 msgstr "Delighting in empty dwellings:"
 
-#. </strong>
+#. </span>
 #. <span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.1.44"
 msgid "paṭhamena jhānena suññāgāre abhirati,"
@@ -1369,7 +1369,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs4.2.8"
 msgid "bhaṇitassa hoti musā mayā bhaṇitanti,"
 msgstr "after he has lied, he knows he has lied;"
 
-#. <span class="note" hidden>“Of what is true” is not in the Pali, but has been added for clarity.</span> 
+#. “Of what is true” is not in the Pali, but has been added for clarity.
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.2.9"
 msgid "vinidhāya diṭṭhiṃ."
 msgstr "he misrepresents his view of what is true."
@@ -2436,7 +2436,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs4.5.68"
 msgid ""
 msgstr "I master …"
 
-#. <span class="note" hidden>I have added two sets of ellipses points that seem to be missing from the Pali of MS.1.625.</span> 
+#. I have added two sets of ellipses points that seem to be missing from the Pali of MS.1.625.
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.5.69"
 msgid "arahattassa lābhimhi vasimhi arahattaṃ sacchikataṃ mayāti sampajānamusā bhaṇantassa āpatti pārājikassa."
 msgstr "I’ve realized perfection,” he commits an offense entailing expulsion when three conditions are fulfilled."
@@ -2500,7 +2500,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsection"><a class="sc" id="99"></a><a class="ms-pa" id="ms.632"></a>
-#. <span class="note" hidden>For an explanation of the term ʻbasic,’ <i lang="pli">suddhika</i>, see <span class="ref">Sp.2.497.6</span>.</span> 
+#. For an explanation of the term ʻbasic,’ <i lang="pli">suddhika</i>, see <ref>Sp.2.497.6</ref>.
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.5.83"
 msgid "Suddhikaṃ niṭṭhitaṃ."
 msgstr "The basic series is finished."
@@ -2967,7 +2967,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsection"><a class="sc" id="114"></a><a class="ms-pa" id="ms.647"></a>
-#. <span class="note" hidden>For an explanation of the term ʻunconnected,’ <i lang="pli">khaṇḍa</i>, see <span class="ref">Sp.2.497.10</span>.</span> 
+#. For an explanation of the term ʻunconnected,’ <i lang="pli">khaṇḍa</i>, see <ref>Sp.2.497.10</ref>.
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.6.111"
 msgid "Khaṇḍacakkaṃ niṭṭhitaṃ."
 msgstr "The unconnected permutation series is finished."
@@ -3202,7 +3202,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsection"><a class="sc" id="120"></a><a class="ms-pa" id="ms.653"></a>
-#. <span class="note" hidden>For an explanation of the term ʻlinked,’ <i lang="pli">baddha</i>, see <span class="ref">Sp.2.497.14</span>.</span> 
+#. For an explanation of the term ʻlinked,’ <i lang="pli">baddha</i>, see <ref>Sp.2.497.14</ref>.
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.7.57"
 msgid "Baddhacakkaṃ."
 msgstr "The linked permutation series."
@@ -3681,7 +3681,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsection"><a class="sc" id="138"></a><a class="ms-pa" id="ms.671"></a>
-#. <span class="note" hidden>Although two attainments are given in each case of the above permutation series, it seems that only the one which remains unchanged within each sub-section is considered the root item.</span> 
+#. Although two attainments are given in each case of the above permutation series, it seems that only the one which remains unchanged within each sub-section is considered the root item.
 #. VAR: Ekamūlakaṃ niṭṭhitaṃ → ekamūlakaṃ saṅkhittaṃ niṭṭhitaṃ (s1-3) | ekamūlakaṃ (pts1)
 msgctxt "pli-tv-bu-vb-pj4:pts-cs4.8.115"
 msgid "Ekamūlakaṃ niṭṭhitaṃ."
@@ -3781,7 +3781,7 @@ msgid "Tīhākārehi paṭhamaṃ jhānaṃ samāpajjinti vattukāmo dutiyaṃ j
 msgstr "If he lies in full awareness, meaning to say, “I attained the first absorption,” while actually saying, “I attained the second absorption,” then, if the listener understands, he commits an offense entailing expulsion when three conditions are fulfilled;"
 
 #. <a class="pts-vp-en" id="bd.1.168"></a>
-#. <span class="note" hidden>In agreement with the commentary (<span class="ref">Sp.2.501.10</span>), I understand <i lang="pli">paṭivijānantassa</i> to refer to the listener rather than the speaker. Grammatically the word could refer to either (it can be regarded as a genitive agreeing with <i lang="pli">bhaṇantassa</i>, thus referring to the speaker, or it can be regarded as a dative of the person spoken to, that is, the listener), but logically it seems it must refer to the listener. <i lang="pli">Paṭivijānantassa</i> refers to understanding the overall meaning of what is said, rather than knowing the exact words that have been spoken. Since the speaker knows he is lying, he understands the overall meaning. It follows that the understanding here must refer to the listener.</span> 
+#. In agreement with the commentary (<ref>Sp.2.501.10</ref>), I understand <i lang="pli">paṭivijānantassa</i> to refer to the listener rather than the speaker. Grammatically the word could refer to either (it can be regarded as a genitive agreeing with <i lang="pli">bhaṇantassa</i>, thus referring to the speaker, or it can be regarded as a dative of the person spoken to, that is, the listener), but logically it seems it must refer to the listener. <i lang="pli">Paṭivijānantassa</i> refers to understanding the overall meaning of what is said, rather than knowing the exact words that have been spoken. Since the speaker knows he is lying, he understands the overall meaning. It follows that the understanding here must refer to the listener.
 msgctxt "pli-tv-bu-vb-pj4:pts-cs5.1.2"
 msgid "na paṭi­vijānan­tassa āpatti thullaccayassa."
 msgstr "if the listener does not understand, he commits a serious offense when three conditions are fulfilled."
@@ -3946,7 +3946,7 @@ msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
 
 #. </p><p class="endsection"><a class="sc" id="147"></a><a class="ms-pa" id="ms.680"></a>
-#. <span class="note" hidden>The Pali text reads <i lang="pli">vatthu</i>,“basis,ˮ rather than <i lang="pli">vattu</i>, “speech.ˮ However, I have chosen to follow the alternative reading of <i lang="pli">vattu</i>—found in the PTS edition and in the commentary (<span class="ref">Sp.2.500.23</span>)—since this seems more reasonable to me given the context.</span> 
+#. The Pali text reads <i lang="pli">vatthu</i>,“basis,ˮ rather than <i lang="pli">vattu</i>, “speech.ˮ However, I have chosen to follow the alternative reading of <i lang="pli">vattu</i>—found in the PTS edition and in the commentary (<ref>Sp.2.500.23</ref>)—since this seems more reasonable to me given the context.
 #. VAR: Vatthu­vi­sārakassa → vattu­vissā­ra­kassa (bj)
 msgctxt "pli-tv-bu-vb-pj4:pts-cs5.1.42"
 msgid "Vatthu­vi­sārakassa ekamūlakassa khaṇḍacakkaṃ niṭṭhitaṃ."
@@ -4626,7 +4626,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs6.2.23"
 msgid "na paṭi­vijānan­tassa āpatti dukkaṭassa … pe …"
 msgstr "if the listener does not understand, he commits an offense of wrong conduct when three conditions are fulfilled … when seven conditions are fulfilled …"
 
-#. <span class="note" hidden>The Pali has an additional set of ellipses points between “who has made use of your medicines” and “attained the fourth absorption in an empty dwelling.” This seems to be a mistake.</span> 
+#. The Pali has an additional set of ellipses points between “who has made use of your medicines” and “attained the fourth absorption in an empty dwelling.” This seems to be a mistake.
 msgctxt "pli-tv-bu-vb-pj4:pts-cs6.2.24"
 msgid "vinidhāya bhāvaṃ."
 msgstr "he misrepresents his sentiment of what is true."
@@ -4980,7 +4980,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.5"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.6"
 msgid "Na ca, bhikkhave, paṇidhāya araññe vatthabbaṃ."
 msgstr "But, monks, you should not live in the wilderness because of a wish."
@@ -4989,7 +4989,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.7"
 msgid "Yo vaseyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.8"
 msgid "(2)"
 msgstr ""
@@ -5015,7 +5015,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.13"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.14"
 msgid "Na ca, bhikkhave, paṇidhāya piṇḍāya caritabbaṃ."
 msgstr "But, monks, you should not walk for almsfood because of a wish."
@@ -5024,7 +5024,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.15"
 msgid "Yo careyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs8.2.16"
 msgid "(3)"
 msgstr ""
@@ -5132,7 +5132,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs8.4.8"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs8.4.9"
 msgid "Na ca, bhikkhave, paṇidhāya seyyā kappetabbā."
 msgstr "But, monks, you should not walk up and down … stand … sit … lie down because of a wish."
@@ -5141,7 +5141,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs8.4.10"
 msgid "Yo kappeyya, āpatti dukkaṭassā”ti."
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs8.4.11"
 msgid "(6–‍9)"
 msgstr ""
@@ -5937,7 +5937,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs9.1.0a"
 msgid ""
 msgstr "Case details, part 2"
 
-#. </h3><div class="parallel"><p><a class="sc" id="209"></a><a class="pts-cs-empty" id="bu-pj.4.9"></a><a class="pts-cs" id="bu-pj.4.9.1"></a><a class="ms-pa" id="ms.742"></a> 
+#. </h3><p><a class="sc" id="209"></a><a class="pts-cs-empty" id="bu-pj.4.9"></a><a class="pts-cs" id="bu-pj.4.9.1"></a><a class="ms-pa" id="ms.742"></a> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs9.1.1"
 msgid "Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
 msgstr "At one time the Buddha was staying at Rājagaha in the Bamboo Grove, the squirrel sanctuary,"
@@ -6591,7 +6591,7 @@ msgctxt "pli-tv-bu-vb-pj4:pts-cs9.3.111"
 msgid "(53–‍56)"
 msgstr ""
 
-#. </p></div><hr><p><a class="sc" id="231"></a><a class="pts-cs" id="bu-pj.4.9.4"></a><a class="ms-pa" id="ms.764"></a> 
+#. </p><hr><p><a class="sc" id="231"></a><a class="pts-cs" id="bu-pj.4.9.4"></a><a class="ms-pa" id="ms.764"></a> 
 msgctxt "pli-tv-bu-vb-pj4:pts-cs9.4.1"
 msgid "Atha kho āyasmā mahāmoggallāno bhikkhū āmantesi—"
 msgstr "Venerable Mahāmoggallāna said to the monks,"

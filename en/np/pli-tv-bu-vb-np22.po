@@ -143,7 +143,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs1.1.23"
 msgid "vigarahitvā dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "After criticizing them, he gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs1.1.24"
 msgid "“na, bhikkhave, patto viññāpetabbo."
 msgstr "“Monks, a monk should not ask for a bowl."
@@ -152,7 +152,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs1.1.25"
 msgid "Yo viññāpeyya, āpatti dukkaṭassā”ti."
 msgstr "If he does, he commits an offense of wrong conduct.”"
 
-#. </strong></p><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-np.22.1.2"></a><a class="wt-pa" id="2276"></a> 
+#. </span></p><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-np.22.1.2"></a><a class="wt-pa" id="2276"></a> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs1.2.1"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno patto bhinno hoti."
 msgstr "Soon afterwards the bowl of a certain monk broke."
@@ -186,12 +186,12 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs1.2.8"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs1.2.9"
 msgid "“anujānāmi, bhikkhave, naṭṭhapattassa vā bhinnapattassa vā pattaṃ viññāpetun”ti."
 msgstr "“Monks, I allow you to ask for a new bowl if your bowl has been lost or is broken.”"
 
-#. </strong></p><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.22.1.3"></a><a class="wt-pa" id="2278"></a><a class="pts-vp-en" id="bd.2.120"></a> 
+#. </span></p><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-np.22.1.3"></a><a class="wt-pa" id="2278"></a><a class="pts-vp-en" id="bd.2.120"></a> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs1.3.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā anuññātaṃ naṭṭhapattassa vā bhinnapattassa vā pattaṃ viññāpetun”ti appamattakenapi bhinnena appamattakenapi khaṇḍena vilikhitamattenapi bahū patte viññāpenti."
 msgstr "When they knew about the Master’s allowance, the monks from the group of six asked for many bowls even when their existing bowls only had a minor chip or scratch."
@@ -270,7 +270,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="9"></a><a class="wt-pa" id="2281"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs1.3.18"
 msgid "“Yo pana bhikkhu ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ."
 msgstr "‘If a monk gets a new bowl in exchange for a bowl with less than five mends, he commits an offense entailing relinquishment and confession."
@@ -294,7 +294,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs1.3.22"
 msgid "Ayaṃ tattha sāmīcī”ti."
 msgstr "This is the proper procedure.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs1.3.23"
 msgid "(<em>22</em>:<strong>41</strong>)"
 msgstr ""
@@ -305,22 +305,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="10"></a><a class="pts-cs-empty" id="bu-np.22.2"></a><a class="pts-cs" id="bu-np.22.2.1"></a><a class="wt-pa" id="2282"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -330,54 +330,54 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2283"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.6"
 msgid "Ūnapañcabandhano nāma"
 msgstr "A bowl with less than five mends:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.7"
 msgid "patto abandhano vā ekabandhano vā dvibandhano vā tibandhano vā catubandhano vā."
 msgstr "it has no mends, one mend, two mends, three mends, or four mends."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.8"
 msgid "Abandhanokāso nāma patto"
 msgstr "A bowl with a mend that does not count:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>That is, a fracture of two finger-breaths, <i lang="pli">dvaṅgulā</i>. For the conversion into metric units I follow the suggestions of BMC I, pp. 565-566.</span> 
+#. </span><span class="gloss">
+#. That is, a fracture of two finger-breaths, <i lang="pli">dvaṅgulā</i>. For the conversion into metric units I follow the suggestions of BMC I, pp. 565-566.
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.9"
 msgid "yassa dvaṅgulā rāji na hoti."
 msgstr "one that does not have a 4 cm long fracture."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.10"
 msgid "Bandhanokāso nāma patto "
 msgstr "A bowl with a mend that counts:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.11"
 msgid "yassa dvaṅgulā rāji hoti."
 msgstr "one that has a 4 cm long fracture."
 
-#. </span></p><p><strong class="term"> 
+#. </span></p><p><span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.12"
 msgid "Navo nāma"
 msgstr "New bowl:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.13"
 msgid "patto viññattiṃ upādāya vuccati."
 msgstr "newly asked for is what is meant."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="pts-vp-pli" id="pts-vp-pli3.247"></a><a class="wt-pa" id="2284"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.14"
 msgid "Cetāpeyyāti"
 msgstr "Gets […] in exchange:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.15"
 msgid "viññāpeti, payoge dukkaṭaṃ."
 msgstr "for the act of asking, he commits an offense of wrong conduct."
@@ -403,7 +403,8 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.20"
 msgid "“mahagghaṃ pattaṃ gahessāmī”ti."
 msgstr "“I’ll get a valuable bowl.”"
 
-#. <a class="pts-vp-en" id="bd.2.122"></a><strong class="rule"> 
+#. <a class="pts-vp-en" id="bd.2.122"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.21"
 msgid "Sace lāmakaṃ pattaṃ adhiṭṭheti—"
 msgstr "If you determine an inferior bowl, thinking,"
@@ -416,7 +417,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.23"
 msgid "āpatti dukkaṭassa."
 msgstr "you commits an offense of wrong conduct."
 
-#. </strong></p><p><span class="kamma"> 
+#. </span></p><p><span class="kamma"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.24"
 msgid "Evañca pana, bhikkhave, nissajjitabbo."
 msgstr "“And, monks, it should be relinquished in this way."
@@ -523,7 +524,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.48"
 msgid "Sace thero gaṇhāti, therassa patto dutiyassa gāhetabbo."
 msgstr "If the most senior monk takes it, his bowl should be offered to the next monk."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.49"
 msgid "Na ca tassa anuddayatāya na gahetabbo."
 msgstr "He should not not take that bowl out of sympathy."
@@ -532,7 +533,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.50"
 msgid "Yo na gaṇheyya, āpatti dukkaṭassa."
 msgstr "If he does, he commits an offense of wrong conduct."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.51"
 msgid "Apattakassa na gāhetabbo."
 msgstr "It is not to be offered to anyone who does not have bowl."
@@ -541,7 +542,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.52"
 msgid "Eteneva upāyena yāva saṃghanavakā gāhetabbo."
 msgstr "In this manner it should be offered all the way to the most junior monk in the Order."
 
-#. </p><hr><p><strong class="term"> 
+#. </p><hr><p><span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.53"
 msgid "Yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo—"
 msgstr "He is then to be given the last bowl belonging to that assembly of monks:"
@@ -550,7 +551,7 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.54"
 msgid "“ayaṃ te, bhikkhu, patto yāva bhedanāya dhāretabbo”ti."
 msgstr "‘Monk, this bowl is yours; keep it until it breaks’:"
 
-#. </strong></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2289"></a><a class="pts-vp-en" id="bd.2.124"></a><span class="gloss"> 
+#. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2289"></a><a class="pts-vp-en" id="bd.2.124"></a><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.55"
 msgid "Tena bhikkhunā so patto na adese nikkhipitabbo, na abhogena bhuñjitabbo, na vissajjetabbo—"
 msgstr "That monk is not to store that bowl in an unsuitable place, to use it in an unsuitable way, or to give it away, thinking,"
@@ -559,18 +560,18 @@ msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.56"
 msgid "“kathāyaṃ patto nasseyya vā vinasseyya vā bhijjeyya vā”ti?"
 msgstr "“How may this bowl be lost, destroyed, or broken?”"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.57"
 msgid "Sace adese vā nikkhipati abhogena vā bhuñjati vissajjeti vā, āpatti dukkaṭassa."
 msgstr "If he stores it in an unsuitable place, uses it in an unsuitable way, or gives it away, he commits an offense of wrong conduct.”"
 
-#. </strong></span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="2290"></a>
-#. <strong class="term"> 
+#. </span></span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="2290"></a>
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.58"
 msgid "Ayaṃ tattha sāmīcīti"
 msgstr "This is the proper procedure:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np22:pts-cs2.1.59"
 msgid "ayaṃ tattha anudhammatā."
 msgstr "this is in right method."

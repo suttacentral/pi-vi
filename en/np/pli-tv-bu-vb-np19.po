@@ -116,12 +116,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="2225"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs1.16"
 msgid "“Yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk trades with money in various ways, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs1.17"
 msgid "(<em>19</em>:<strong>38</strong>)"
 msgstr ""
@@ -132,22 +132,22 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-np.19.2"></a><a class="wt-pa" id="2226"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -157,64 +157,64 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-en" id="bd.2.107"></a><a class="wt-pa" id="2227"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.6"
 msgid "Nānappakārakaṃ nāma"
 msgstr "Various ways:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.7"
 msgid "katampi akatampi katākatampi."
 msgstr "what is shaped, what is not shaped, and what is both shaped and not shaped."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.8"
 msgid "Kataṃ nāma"
 msgstr "What is shaped:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.9"
 msgid "sīsūpagaṃ gīvūpagaṃ hatthūpagaṃ pādūpagaṃ kaṭūpagaṃ."
 msgstr "what is meant for the head, what is meant for the neck, what is meant for the hands, what is meant for the feet, what is meant for the waist."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.10"
 msgid "Akataṃ nāma"
 msgstr "What is not shaped:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.11"
 msgid "ghanakataṃ vuccati."
 msgstr "what is shaped in a lump is what is meant."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.12"
 msgid "Katākataṃ nāma"
 msgstr "What is both shaped and not shaped:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.13"
 msgid "tadubhayaṃ."
 msgstr "both of them."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="pts-vp-pli" id="pts-vp-pli3.240"></a><a class="wt-pa" id="2228"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.14"
 msgid "Rūpiyaṃ nāma"
 msgstr "Money:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.15"
 msgid "satthuvaṇṇo kahāpaṇo, lohamāsako, dārumāsako, jatumāsako ye vohāraṃ gacchanti."
 msgstr "a golden <i lang=\"pli\">kahāpaṇa</i> coin, a copper <i lang=\"pli\">māsaka</i> coin, a wooden <i lang=\"pli\">māsaka</i> coin, a resin <i lang=\"pli\">māsaka</i> coin; whatever is used in commerce."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2229"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.16"
 msgid "Samāpajjeyyāti"
 msgstr "Trades:"
 
-#. </strong></p><div class="gloss"><p> 
+#. </span></p><div class="gloss"><p> 
 #. VAR: nissaggiyaṃ pācittiyaṃ → nissaggiyaṃ hoti (s1-3)
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.17"
 msgid "katena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
@@ -409,7 +409,7 @@ msgid "evametaṃ dhārayāmī’”ti."
 msgstr "I will remember it thus.’”"
 
 #. </p></div><p><a class="sc" id="12"></a><a class="wt-pa" id="2233"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.62"
 msgid "Tena sammatena bhikkhunā animittaṃ katvā pātetabbaṃ."
 msgstr "The appointed monk should drop it without taking note of the location."
@@ -418,13 +418,13 @@ msgctxt "pli-tv-bu-vb-np19:pts-cs2.63"
 msgid "Sace nimittaṃ katvā pāteti, āpatti dukkaṭassa."
 msgstr "If he takes note of where he drops it, he commits an offense of wrong conduct."
 
-#. </strong></p><h2>
+#. </span></p><h2>
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.63a"
 msgid ""
 msgstr "Permutations"
 
 #. </h2><p><a class="sc" id="13"></a><a class="wt-pa" id="2234"></a>
-#. <span class="note" hidden>The commentarial explanation makes it clear that what is meant here is that one exchanges money into money. The same is true for the next two cases. See <span class="ref">Sp.3.696.30</span>: “For one who is exchanging a relinquishable object with a relinquishable object, in accordance with the cases spoken of in the previous training rule,” <i lang="pli">purimasikkhāpade vuttavatthūsu nissaggiyavatthunā nissaggiyavatthuṃ cetāpentassa</i>.</span> 
+#. The commentarial explanation makes it clear that what is meant here is that one exchanges money into money. The same is true for the next two cases. See <ref>Sp.3.696.30</ref>: “For one who is exchanging a relinquishable object with a relinquishable object, in accordance with the cases spoken of in the previous training rule,” <i lang="pli">purimasikkhāpade vuttavatthūsu nissaggiyavatthunā nissaggiyavatthuṃ cetāpentassa</i>.
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.64"
 msgid "Rūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, and he perceives it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
@@ -438,7 +438,7 @@ msgid "Rūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiya�
 msgstr "If it is money, but he does not perceive it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
 #. </p><p>
-#. <span class="note" hidden>The commentarial explanation makes it clear that what is meant here is that one exchanges what is not money into money, that is, one is selling something and therefore ending up with money. The same is true for the next two cases. See <span class="ref">Sp.3.697.7</span>: “One exchanges one’s own non-money for someone else’s money,” <i lang="pli">attano vā hi arūpiyena parassa rūpiyaṃ cetāpeyya</i>.</span> 
+#. The commentarial explanation makes it clear that what is meant here is that one exchanges what is not money into money, that is, one is selling something and therefore ending up with money. The same is true for the next two cases. See <ref>Sp.3.697.7</ref>: “One exchanges one’s own non-money for someone else’s money,” <i lang="pli">attano vā hi arūpiyena parassa rūpiyaṃ cetāpeyya</i>.
 msgctxt "pli-tv-bu-vb-np19:pts-cs2.67"
 msgid "Arūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is not money, but he perceives it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."

@@ -179,12 +179,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="4"></a><a class="wt-pa" id="561"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs1.30"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya, pācittiyan”ti."
 msgstr "‘If a monk gives robe-cloth to an unrelated nun, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="5"></a><a class="wt-pa" id="562"></a> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs1.31"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -222,7 +222,7 @@ msgctxt "pli-tv-bu-vb-pc25:pts-cs2.6"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "Soon afterwards the Master gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs2.7"
 msgid "“anujānāmi, bhikkhave, pañcannaṃ pārivattakaṃ dātuṃ."
 msgstr "“Monks, if it is part of an exchange, I allow you to give things to five groups of people:"
@@ -235,7 +235,7 @@ msgctxt "pli-tv-bu-vb-pc25:pts-cs2.9"
 msgid "anujānāmi, bhikkhave, imesaṃ pañcannaṃ pārivattakaṃ dātuṃ."
 msgstr ""
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs2.10"
 msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
 msgstr "And so, monks, this training rule should be recited thus:"
@@ -245,13 +245,14 @@ msgctxt "pli-tv-bu-vb-pc25:pts-cs2.10a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="565"></a><span class="note" hidden><i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.</span>
-#. <strong class="rule"> 
+#. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="565"></a>
+#. <i lang="pli">Cīvara</i> means both a finished robe and any cloth that can be used to make a robe. Thus I vary my translation depending on the context.
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs2.11"
 msgid "“Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya, aññatra pārivattakā, pācittiyan”ti."
 msgstr "‘If a monk gives robe-cloth to an unrelated nun, unless it is an exchange, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs2.12"
 msgid "(<em>25</em>:<strong>74</strong>)"
 msgstr ""
@@ -262,23 +263,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="9"></a><a class="pts-cs-empty" id="bu-pc.25.3"></a><a class="pts-cs" id="bu-pc.25.3.1"></a><a class="wt-pa" id="566"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -289,36 +290,38 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="567"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.6"
 msgid "Aññātikā nāma"
 msgstr "Unrelated:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.7"
 msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span>
 #. </p><p><a class="sc" id="11"></a><a class="pts-vp-en" id="BD.2.284"></a><a class="wt-pa" id="568"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.8"
 msgid "Bhikkhunī nāma"
 msgstr "A nun:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.9"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "she has been given the full ordination by both Orders."
 
 #. </span>
 #. </p><p><a class="sc" id="12"></a><a class="wt-pa" id="569"></a> 
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.10"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
-#. </strong><span class="gloss"><span class="note" hidden>The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <span class="ref">Mv.8.3.1</span>.</span><span class="note" hidden>This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class="ref">Kkh.94.4</span> and BMC I, pp.565-566.</span> 
+#. </span><span class="gloss">
+#. The six are linen, cotton, silk, wool, sunn hemp, and hemp; see <ref>Mv.8.3.1</ref>.
+#. This means not smaller than 8 by 4 standard (<i lang="pli">sugata</i>) finger-breadths, or 16 by 8 cm; see <ref>Kkh.94.4</ref> and BMC I, pp.565-566. 
 #. VAR: vikappanupagaṃ pacchimaṃ → vikap­pa­nupaga­pacchi­maṃ (pts1)
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.11"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ pacchimaṃ."
@@ -326,12 +329,12 @@ msgstr "one of the six kinds of robe-cloth, but not smaller than what can be tra
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a><a class="wt-pa" id="570"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.12"
 msgid "Aññatra pārivattakāti"
 msgstr "Unless it is an exchange:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc25:pts-cs3.1.13"
 msgid "ṭhapetvā pārivattakaṃ deti, āpatti pācittiyassa."
 msgstr "except if it is an exchange."

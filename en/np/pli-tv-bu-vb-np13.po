@@ -103,7 +103,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="2123"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs1.13"
 msgid "“Navaṃ pana bhikkhunā santhataṃ kārayamānena dve bhāgā suddhakāḷakānaṃ eḷakalomānaṃ ādātabbā tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ."
 msgstr "‘If a monk is getting a new blanket made, he should use two parts of entirely black wool, a third part of white, and a fourth part of brown."
@@ -113,7 +113,7 @@ msgctxt "pli-tv-bu-vb-np13:pts-cs1.14"
 msgid "Anādā ce bhikkhu dve bhāge suddhakāḷakānaṃ eḷakalomānaṃ tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ navaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he gets a new blanket made without using two parts of entirely black wool, a third part of white, and a fourth part of brown, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np13:pts-c1.15"
 msgid "(<em>13</em>:<strong>32</strong>)"
 msgstr ""
@@ -124,78 +124,78 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs" id="bu-np.13.2"></a><a class="wt-pa" id="2124"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.1"
 msgid "Navaṃ nāma"
 msgstr "New:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.2"
 msgid "karaṇaṃ upādāya vuccati."
 msgstr "newly made is what is meant."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2125"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.3"
 msgid "Santhataṃ nāma"
 msgstr "A blanket:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.4"
 msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2126"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.5"
 msgid "Kārayamānenāti"
 msgstr "Getting made:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.6"
 msgid "karonto vā kārāpento vā."
 msgstr "making or getting made."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2127"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.7"
 msgid "Dve bhāgā suddhakāḷakānaṃ eḷakalomānaṃ ādātabbāti"
 msgstr "He should use two parts of entirely black wool:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.8"
 msgid "dhārayitvā dve tulā ādātabbā."
 msgstr "having weighed it, he should use two measures."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2128"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.9"
 msgid "Tatiyaṃ odātānanti"
 msgstr "A third part of white:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.10"
 msgid "tulaṃ odātānaṃ."
 msgstr "one measure of white."
 
 #. </span></p><p><a class="sc" id="9"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.11"
 msgid "Catutthaṃ gocariyānanti"
 msgstr "A fourth part of brown:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.12"
 msgid "tulaṃ gocariyānaṃ."
 msgstr "one measure of brown."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-pli" id="pts-vp-pli3.227"></a><a class="wt-pa" id="2130"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.13"
 msgid "Anādā ce bhikkhu dve bhāge suddhakāḷakānaṃ eḷakalomānaṃ tatiyaṃ odātānaṃ catutthaṃ gocariyānanti."
 msgstr "Without using two parts of entirely black wool, a third part of white, and a fourth part of brown:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np13:pts-cs2.14"
 msgid "Anādiyitvā dve tule suddhakāḷakānaṃ eḷakalomānaṃ tulaṃ odātānaṃ tulaṃ gocariyānaṃ navaṃ santhataṃ karoti vā kārāpeti vā payoge dukkaṭaṃ,"
 msgstr "for the act of making it, or getting it made, without using two measures of entirely black wool, one measure of white, and one measure of brown, he commits an offense of wrong conduct."

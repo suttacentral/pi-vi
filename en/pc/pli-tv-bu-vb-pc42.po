@@ -115,7 +115,8 @@ msgctxt "pli-tv-bu-vb-pc42:pts-cs1.16a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa882"></a><strong class="rule">
+#. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa882"></a>
+#. <span class="rule">
 #. VAR: bhikkhuṃ—‘ehāvuso → bhikkhuṃ evaṃ vadeyya ehāvuso (syā1-3)
 msgctxt "pli-tv-bu-vb-pc42:pts-cs1.17"
 msgid "“Yo pana bhikkhu bhikkhuṃ—‘ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā’ti tassa dāpetvā vā adāpetvā vā uyyojeyya—"
@@ -126,7 +127,7 @@ msgctxt "pli-tv-bu-vb-pc42:pts-cs1.18"
 msgid "‘gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiyan”ti."
 msgstr "“Go away, I’m not comfortable talking or sitting with you, but only if I talk and sit by myself,” and he does so only for this reason and no other, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 msgctxt "pli-tv-bu-vb-pc42:pts-cs1.19"
 msgid "(<em>42</em>:<strong>91</strong>)"
 msgstr ""
@@ -137,23 +138,23 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.42.2"></a><a class="pts-cs" id="bu-pc.42.2.1"></a><a class="wt-pa" id="wt-pa883"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.2"
 msgid "yo, yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -164,60 +165,60 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa884"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.6"
 msgid "Bhikkhunti"
 msgstr "Another monk:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.7"
 msgid "aññaṃ bhikkhuṃ."
 msgstr "a different monk."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa885"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.8"
 msgid "Ehāvuso, gāmaṃ vā nigamaṃ vāti"
 msgstr "Come […] to the village/town:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.9"
 msgid "gāmopi nigamopi nagarampi, gāmo ceva nigamo ca."
 msgstr "a village, also a town, also a city; both a village and a town."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa886"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.10"
 msgid "Tassa dāpetvāti"
 msgstr "He has had food given to him:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.11"
 msgid "yāguṃ vā bhattaṃ vā khādanīyaṃ vā bhojanīyaṃ vā dāpetvā."
 msgstr "he has had rice-porridge, a meal, non-staples, or staples given to him."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa887"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.12"
 msgid "Adāpetvāti"
 msgstr "Not:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.13"
 msgid "na kiñci dāpetvā."
 msgstr "he has not had anything given to him."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa888"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.14"
 msgid "Uyyojeyyāti"
 msgstr "Sends away:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.15"
 msgid "mātugāmena saddhiṃ hasitukāmo kīḷitukāmo raho nisīditukāmo anācāraṃ ācaritukāmo evaṃ vadeti—"
 msgstr "if, wanting to laugh with a woman, wanting to amuse himself with her, wanting to sit down in private with her, wanting to misconduct himself with her, he says,"
@@ -236,12 +237,12 @@ msgstr "When the other monk has gone beyond, he commits an offense entailing con
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa889"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.19"
 msgid "Etadeva paccayaṃ karitvā anaññanti"
 msgstr "He does so only for this reason and no other:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc42:pts-cs2.1.20"
 msgid "na añño koci paccayo hoti uyyojetuṃ."
 msgstr "there is no other reason for sending him away."

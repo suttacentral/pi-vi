@@ -268,12 +268,12 @@ msgctxt "pli-tv-bu-vb-np15:pts-cs1.2.14"
 msgid "yathāpaññattesu sikkhāpadesu samādāya vattitabbaṃ."
 msgstr "One should practice and undertake the training rules as they are."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs1.2.15"
 msgid "Anujānāmi, upasena, ye te bhikkhū āraññikā piṇḍapātikā paṃsukūlikā yathāsukhaṃ maṃ dassanāya upasaṅkamantū”ti."
 msgstr "And, Upasena, I allow those monks who dwell in the wilderness, who walk for alms, and who wear rag-robes to come and see me whenever they please.”"
 
-#. </strong></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2162"></a> 
+#. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2162"></a> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs1.2.16"
 msgid "Tena kho pana samayena sambahulā bhikkhū bahidvārakoṭṭhake ṭhitā honti—"
 msgstr "Just then many monks were standing outside the entrance, thinking,"
@@ -416,9 +416,9 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="2165"></a>
-#. <strong class="rule">
-#. <span class="note" hidden>That is, one <i lang="pli">sugata-vidatthi</i>, “one <i lang="pli">sugata</i> hand-span.” <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it is used to designate a standard measure, “the standard hand-span.” For the conversion into metric units, I follow the estimate of the <i lang="pli">sugata-vidatthi</i> given in BMC I, pp.565-566.</span>
-#. <span class="note" hidden><i lang="pli">Purāṇasanthatassa sāmantā sugatavidatthi</i>, “a piece of 25 centimeters from the border of an old blanket.” This is based on the analysis and translation provided by Bhikkhu Ñāṇatusita in TAP, p.140. The commentary seems to support this: “<i lang="pli">sāmantā</i> means: having cut a circle or a square from one side, at the place where it is taken a measure of one hand-span is to be taken,” sāmantāti ekapassato vaṭṭaṃ vā caturassaṃ vā chinditvā gahitaṭṭhānaṃ yathā vidatthimattaṃ hoti, evaṃ gahetabbaṃ; see <span class="ref">Sp.3.687.9</span>.</span> 
+#. <span class="rule">
+#. That is, one <i lang="pli">sugata-vidatthi</i>, “one <i lang="pli">sugata</i> hand-span.” <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it is used to designate a standard measure, “the standard hand-span.” For the conversion into metric units, I follow the estimate of the <i lang="pli">sugata-vidatthi</i> given in BMC I, pp.565-566.
+#. <i lang="pli">Purāṇasanthatassa sāmantā sugatavidatthi</i>, “a piece of 25 centimeters from the border of an old blanket.” This is based on the analysis and translation provided by Bhikkhu Ñāṇatusita in TAP, p.140. The commentary seems to support this: “<i lang="pli">sāmantā</i> means: having cut a circle or a square from one side, at the place where it is taken a measure of one hand-span is to be taken,” sāmantāti ekapassato vaṭṭaṃ vā caturassaṃ vā chinditvā gahitaṭṭhānaṃ yathā vidatthimattaṃ hoti, evaṃ gahetabbaṃ; see <ref>Sp.3.687.9</ref>.
 msgctxt "pli-tv-bu-vb-np15:pts-cs1.3.13"
 msgid "“Nisīdanasanthataṃ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya,"
 msgstr "‘If a monk is getting a sitting-blanket made, he must incorporate a 25 centimeter piece from the border of an old blanket in order to make it ugly."
@@ -427,7 +427,7 @@ msgctxt "pli-tv-bu-vb-np15:pts-cs1.3.14"
 msgid "anādā ce bhikkhu purāṇasanthatassa sāmantā sugatavidatthiṃ navaṃ nisīdanasanthataṃ kārāpeyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he gets a new sitting-blanket made without incorporating a 25 centimeter piece from the border of an old blanket, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs1.3.15"
 msgid "(<em>15</em>:<strong>34</strong>)"
 msgstr ""
@@ -438,67 +438,67 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-np.15.2"></a><a class="wt-pa" id="2166"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.1"
 msgid "Nisīdanaṃ nāma"
 msgstr "Sitting(-mat):"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.2"
 msgid "sadasaṃ vuccati."
 msgstr "one with a border is what is meant."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-en" id="bd.2.88"></a><a class="wt-pa" id="2167"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.3"
 msgid "Santhataṃ nāma"
 msgstr "A blanket:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.4"
 msgid "santharitvā kataṃ hoti avāyimaṃ."
 msgstr "it is made by spreading out, not by weaving."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2168"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.5"
 msgid "Kārayamānenāti"
 msgstr "Getting made:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.6"
 msgid "karonto vā kārāpento vā."
 msgstr "making or getting made."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2169"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.7"
 msgid "Purāṇasanthataṃ nāma"
 msgstr "An old blanket:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.8"
 msgid "sakiṃ nivatthampi sakiṃ pārutampi."
 msgstr "even worn once."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2170"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.9"
 msgid "Sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāyāti"
 msgstr "He must incorporate a 25 centimeter piece from the border […] in order to make it ugly:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.10"
 msgid "thirabhāvāya vaṭṭaṃ vā caturassaṃ vā chinditvā ekadese vā santharitabbaṃ vijaṭetvā vā santharitabbaṃ."
 msgstr "to make it strong, he cuts out a circle or a four-sided piece, and he then incorporates it in one place or he spreads it out after pulling it apart."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2171"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.11"
 msgid "Anādā ce bhikkhu purāṇasanthatassa sāmantā sugatavidatthinti"
 msgstr "Without using a 25 centimeter piece from the border of an old blanket:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np15:pts-cs2.12"
 msgid "anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ navaṃ nisīdanasanthataṃ karoti vā kārāpeti vā, payoge dukkaṭaṃ,"
 msgstr "for the act of making a new sitting-blanket, or having one made, without incorporating a 25 centimeter piece from the border of an old blanket, he commits an offense of wrong conduct."

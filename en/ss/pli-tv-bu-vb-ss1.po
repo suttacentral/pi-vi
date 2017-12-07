@@ -248,13 +248,13 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="5"></a><a class="ms-pa" id="ms-pa778"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: sukkavissaṭṭhi → sukkavisaṭṭhi (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss1:pts-cs1.2.23"
 msgid "“Sañcetanikā sukkavissaṭṭhi saṃghādiseso”ti."
 msgstr "‘Intentional emission of semen is an offense entailing suspension.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa779"></a> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs1.2.24"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -321,13 +321,13 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="8"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: sukkavissaṭṭhi → sukkavisaṭṭhi (bj, s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.1.13"
 msgid "“Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṃghādiseso”ti."
 msgstr "‘Intentional emission of semen, except while dreaming, is an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.1.14"
 msgid "(<em>1</em>:<strong>5</strong>)"
 msgstr ""
@@ -337,23 +337,23 @@ msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-ss.1.2.2"></a><a class="ms-pa" id="ms-pa782"></a><strong class="term"> 
+#. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-ss.1.2.2"></a><a class="ms-pa" id="ms-pa782"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.1"
 msgid "Sañcetanikāti"
 msgstr "Intentional:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.2"
 msgid "jānanto sañjānanto cecca abhivitaritvā vītikkamo."
 msgstr "knowing, perceiving, having intended, having decided, he transgresses."
 
 #. </span>
-#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa783"></a><strong class="term"> 
+#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa783"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.3"
 msgid "Sukkanti"
 msgstr "Semen:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.4"
 msgid "dasa sukkāni—"
 msgstr "there are ten kinds of semen:"
@@ -363,35 +363,35 @@ msgid "nīlaṃ pītakaṃ lohitakaṃ odātaṃ takkavaṇṇaṃ dakavaṇṇa
 msgstr "blue, yellow, red, white, the color of buttermilk, the color of water, the color of oil, the color of milk, the color of curd, the color of ghee."
 
 #. </span>
-#. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa784"></a><strong class="term"> 
+#. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa784"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.6"
 msgid "Vissaṭṭhīti"
 msgstr "Emission:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.7"
 msgid "ṭhānato cāvanā vuccati vissaṭṭhīti."
 msgstr "making it move from its base—this is what is meant by “emission”."
 
 #. </span>
-#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa785"></a><strong class="term"> 
+#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa785"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.8"
 msgid "Aññatra supinantāti"
 msgstr "Except while dreaming:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.9"
 msgid "ṭhapetvā supinantaṃ."
 msgstr "apart from that which occurs while dreaming."
 
 #. </span>
-#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa786"></a><strong class="term"> 
+#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa786"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.10"
 msgid "<strong>Saṃghādiseso</strong>ti"
 msgstr "An offense entailing suspension:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden><i lang="pli">Mānattaṃ deti</i>.For the meaning of <i lang="pli">mānatta</i> see TAP 123.</span> 
+#. </span><span class="gloss">
+#. <i lang="pli">Mānattaṃ deti</i>.For the meaning of <i lang="pli">mānatta</i> see TAP 123.
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.11"
 msgid "saṃghova tassā āpattiyā parivāsaṃ deti, mūlāya paṭikassati, mānattaṃ deti, abbheti;"
 msgstr "only the Order gives probation for that offense, sends back to the beginning, gives a trial period, and rehabilitates—"
@@ -401,7 +401,7 @@ msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.12"
 msgid "na sambahulā, na ekapuggalo."
 msgstr "not several monks, not an individual."
 
-#. <span class="note" hidden>The point here, which can only be understood from the Pali, is that the word <i lang="pli">saṅghādisesa</i> (<i lang="pli">saṅgha</i> + <i lang="pli">ādisesa</i>) is derived from the fact that only the <i lang="pli">sangha</i> can do the procedures required when a monastic commits this offense.</span> 
+#. The point here, which can only be understood from the Pali, is that the word <i lang="pli">saṅghādisesa</i> (<i lang="pli">saṅgha</i> + <i lang="pli">ādisesa</i>) is derived from the fact that only the <i lang="pli">sangha</i> can do the procedures required when a monastic commits this offense.
 msgctxt "pli-tv-bu-vb-ss1:pts-cs2.2.13"
 msgid "Tena vuccati—“saṃghādiseso”ti."
 msgstr "Therefore it is called “an offense entailing suspension."
@@ -555,215 +555,215 @@ msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.0a"
 msgid ""
 msgstr "Definitions"
 
-#. </h4><p><a class="sc" id="15"></a><a class="pts-cs" id="bu-ss.1.3.2"></a><a class="ms-pa" id="ms-pa788"></a><strong class="term"> 
+#. </h4><p><a class="sc" id="15"></a><a class="pts-cs" id="bu-ss.1.3.2"></a><a class="ms-pa" id="ms-pa788"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.1"
 msgid "Ajjhattarūpeti"
 msgstr "With one’s own body:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: upādinne → upādinna (s1-3, pts1) | upādiṇṇe (mr)
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.2"
 msgid "ajjhattaṃ upādinne rūpe."
 msgstr "with one’s own physical body."
 
 #. </span>
-#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa789"></a><strong class="term"> 
+#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa789"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.3"
 msgid "Bahiddhārūpeti"
 msgstr "With an external body:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.4"
 msgid "bahiddhā upādinne vā anupādinne vā."
 msgstr "with an external physical body, whether organic or inorganic."
 
 #. </span>
-#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa790"></a><strong class="term"> 
+#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa790"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.5"
 msgid "Ajjhat­ta­bahid­dhā­rūpeti"
 msgstr "Both with one’s own body and with an external body:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.6"
 msgid "tadubhaye."
 msgstr "with both."
 
 #. </span>
 #. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa791"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.7"
 msgid "Ākāse kaṭiṃ kampentoti"
 msgstr "Shaking the pelvis in the air:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.8"
 msgid "ākāse vāyamantassa aṅgajātaṃ kammaniyaṃ hoti."
 msgstr "when one makes an effort in the air, the penis becomes erect."
 
 #. </span>
 #. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa792"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.9"
 msgid "Rāgūpatthambheti"
 msgstr "When it is stiff because of sensual desire:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.10"
 msgid "rāgena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
 msgstr "for one oppressed by sensual desire, the penis becomes erect."
 
 #. </span>
 #. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa793"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.11"
 msgid "Vaccū­pattham­bheti"
 msgstr "When it is stiff due to feces:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.12"
 msgid "vaccena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
 msgstr "for one oppressed by feces, the penis becomes erect."
 
 #. </span>
 #. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa794"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.13"
 msgid "Passā­vū­pattham­bheti"
 msgstr "When it is stiff due to urine:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.14"
 msgid "passāvena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
 msgstr "for one oppressed by urine, the penis becomes erect."
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa795"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.15"
 msgid "Vātūpatthambheti"
 msgstr "When it is stiff because of wind:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.16"
 msgid "vātena pīḷitassa aṅgajātaṃ kammaniyaṃ hoti."
 msgstr "for one oppressed by wind, the penis becomes erect."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa796"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.17"
 msgid "Uccāliṅ­ga­pāṇaka­daṭṭhū­pattham­bheti"
 msgstr "When it is stiff because of being bitten by caterpillars:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.18"
 msgid "uccāliṅ­ga­pāṇaka­daṭ­ṭhena aṅgajātaṃ kammaniyaṃ hoti."
 msgstr "when bitten by caterpillars, the penis becomes erect."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa797"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.19"
 msgid "Ārogyatthāyāti"
 msgstr "For the sake of health:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.20"
 msgid "arogo bhavissāmi."
 msgstr "thinking, “I’ll be healthy.”"
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa798"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.21"
 msgid "Sukhatthāyāti"
 msgstr "For the sake of pleasure:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.22"
 msgid "sukhaṃ vedanaṃ uppādessāmi."
 msgstr "thinking, “I’ll produce a pleasant feeling.”"
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa799"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.23"
 msgid "Bhesajjatthāyāti"
 msgstr "For the sake of medicine:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.24"
 msgid "bhesajjaṃ bhavissati."
 msgstr "thinking, “There will be medicine.”"
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa800"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.25"
 msgid "Dānatthāyāti"
 msgstr "For the sake of a gift:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.26"
 msgid "dānaṃ dassāmi."
 msgstr "thinking, “I’ll give a gift.”"
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa801"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.27"
 msgid "Puññatthāyāti"
 msgstr "For the sake of merit:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.28"
 msgid "puññaṃ bhavissati."
 msgstr "thinking, “There will be merit.”"
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa802"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.29"
 msgid "Yaññatthāyāti"
 msgstr "For the sake of sacrifice:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.30"
 msgid "yaññaṃ yajissāmi."
 msgstr "thinking, “I’ll offer a sacrifice.”"
 
 #. </span>
 #. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa803"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.31"
 msgid "Saggatthāyāti"
 msgstr "For the sake of heaven:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.32"
 msgid "saggaṃ gamissāmi."
 msgstr "thinking, “I’ll go to heaven.”"
 
 #. </span>
 #. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa804"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.33"
 msgid "Bījatthāyāti"
 msgstr "For the sake of seed:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.34"
 msgid "bījaṃ bhavissati."
 msgstr "thinking, “There will be seed.”"
 
 #. </span>
 #. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms-pa805"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.35"
 msgid "Vīmaṃsatthāyāti"
 msgstr "For the sake of investigating:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.36"
 msgid "nīlaṃ bhavissati,"
 msgstr "thinking, “Will it be blue?"
@@ -806,12 +806,12 @@ msgstr "Will it be the color of ghee?”"
 
 #. </span>
 #. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="ms-pa806"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.46"
 msgid "Davatthāyāti"
 msgstr "For the sake of fun:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss1:pts-cs3.2.47"
 msgid "khiḍḍādhippāyo."
 msgstr "desiring to play."
@@ -2680,7 +2680,7 @@ msgid "pupphāvaliyaṃ pokkharaṃ;"
 msgstr "Mud play, lotus;"
 
 #. <br>
-#. <span class="note" hidden><i lang="pli">Usseko</i>, which I take to be related to <i lang="pli">seka</i>, perhaps via the prefix <i lang="pli">ud</i>.</span> 
+#. <i lang="pli">Usseko</i>, which I take to be related to <i lang="pli">seka</i>, perhaps via the prefix <i lang="pli">ud</i>.
 #. VAR: kaddamusseko → kaddamudako (pts1) | kaddamoseko (?)
 msgctxt "pli-tv-bu-vb-ss1:pts-cs4.26"
 msgid "Vālikā kaddamusseko,"

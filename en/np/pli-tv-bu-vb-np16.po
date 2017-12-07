@@ -152,7 +152,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="2178"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: addhānamaggappaṭipannassa → … magga­paṭi­pannassa (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np16:pts-cs1.24"
 msgid "“Bhikkhuno paneva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ."
@@ -162,7 +162,7 @@ msgctxt "pli-tv-bu-vb-np16:pts-cs1.25"
 msgid "Ākaṅkhamānena bhikkhunā paṭiggahetabbāni."
 msgstr "If he receives it"
 
-#. <span class="note" hidden>Three <i lang="pli">yojanas</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or approximately 13 kilometers (see ACMC, p.16). Thus 3 <i lang="pli">yojanas</i> is close to 40 km, which seems like a suitably round number given the uncertainty in the estimate.</span> 
+#. Three <i lang="pli">yojanas</i>. The length of a <i lang="pli">yojana</i> is uncertain, and perhaps it never was a precise distance. But a reasonable estimate is 8 miles or approximately 13 kilometers (see ACMC, p.16). Thus 3 <i lang="pli">yojanas</i> is close to 40 km, which seems like a suitably round number given the uncertainty in the estimate.
 #. VAR: haritabbāni → hāretabbāni (si, s1-3, pts1, mr)
 msgctxt "pli-tv-bu-vb-np16:pts-cs1.26"
 msgid "Paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni, asante hārake."
@@ -173,7 +173,7 @@ msgctxt "pli-tv-bu-vb-np16:pts-cs1.27"
 msgid "Tato ce uttari hareyya, asantepi hārake, nissaggiyaṃ pācittiyan”ti."
 msgstr "If he carries it further than that, even if there is no one else to carry it, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs1.28"
 msgid "(<em>16</em>:<strong>35</strong>)"
 msgstr ""
@@ -184,67 +184,67 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-vp-pli" id="pts-vp-pli3.234"></a><a class="pts-cs" id="bu-np.16.2"></a><a class="wt-pa" id="2179"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.1"
 msgid "Bhikkhuno paneva addhānamaggappaṭipannassāti"
 msgstr "To a monk who is traveling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.2"
 msgid "panthaṃ gacchantassa."
 msgstr "one walking on a road."
 
 #. </span></p><p><a class="sc" id="5"></a><a class="wt-pa" id="2180"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.3"
 msgid "Eḷakalomāni uppajjeyyunti"
 msgstr "If wool is given:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.4"
 msgid "uppajjeyyuṃ saṃghato vā gaṇato vā ñātito vā mittato vā paṃsukūlaṃ vā attano vā dhanena."
 msgstr "if it is given by the Order, by a group, by a relative, by a friend, or if it is discarded wool, or if it is by means of his own property."
 
 #. </span></p><p><a class="sc" id="6"></a><a class="wt-pa" id="2181"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.5"
 msgid "Ākaṅkhamānenāti"
 msgstr "If he wishes:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.6"
 msgid "icchamānena paṭiggahetabbāni."
 msgstr "if he desires, he may receive it."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2182"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.7"
 msgid "Paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbānīti"
 msgstr "If he receives it […] he may carry it himself for at most 40 kilometers:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.8"
 msgid "tiyojanaparamatā sahatthā haritabbāni."
 msgstr "he may carry it himself no further than 40 kilometers."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2183"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.9"
 msgid "Asante hāraketi"
 msgstr "There is no one else to carry it:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.10"
 msgid "nāñño koci hārako hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
 msgstr "there is no other person who can carry it, either a woman or a man, either a lay person or a monastic."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2184"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.11"
 msgid "Tato ce uttari hareyya, asantepi hāraketi"
 msgstr "If he carries it further than that, even if there is no one else to carry it:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np16:pts-cs2.12"
 msgid "paṭhamaṃ pādaṃ tiyojanaṃ atikkāmeti, āpatti dukkaṭassa."
 msgstr "when he goes beyond 40 kilometers with the first foot, he commits an offense of wrong conduct."

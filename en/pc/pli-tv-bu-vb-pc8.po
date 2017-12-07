@@ -287,12 +287,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa224"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs1.2.27"
 msgid "“Yo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya bhūtasmiṃ, pācittiyan”ti."
 msgstr "‘If a monk truthfully tells a person who is not fully ordained of a superhuman quality, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs1.2.28"
 msgid "(<em>8</em>:<strong>57</strong>)"
 msgstr ""
@@ -303,45 +303,45 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-cs-empty" id="bu-pc.8.2"></a><a class="pts-cs" id="bu-pc.8.2.1"></a><a class="wt-pa" id="wt-pa225"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.4"
 msgid "… pe … ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa226"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.5"
 msgid "Anupasampanno nāma"
 msgstr "A person who is not fully ordained:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.6"
 msgid "bhikkhuñca bhikkhuniñca ṭhapetvā, avaseso anupasampanno nāma."
 msgstr "anyone except a fully ordained monk and a fully ordained nun."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="wt-pa" id="wt-pa227"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.7"
 msgid "Uttarimanussadhammo nāma"
 msgstr "A superhuman quality:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.8"
 msgid "jhānaṃ, vimokkho, samādhi, samāpatti, ñāṇadassanaṃ, maggabhāvanā, phalasacchikiriyā, kilesappahānaṃ, vinīvaraṇatā cittassa, suññāgāre abhirati."
 msgstr "absorption, release, stillness, attainment, knowledge and vision, development of the path, realization of the fruits, abandoning the defilements, a mind without hindrances, delighting in solitude."
@@ -358,113 +358,113 @@ msgid ""
 msgstr "Definitions"
 
 #. </h4><p><a class="sc" id="9"></a><a class="wt-pa" id="wt-pa228"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.9"
 msgid "Jhānanti"
 msgstr "Absorption:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.10"
 msgid "paṭhamaṃ jhānaṃ, dutiyaṃ jhānaṃ, tatiyaṃ jhānaṃ, catutthaṃ jhānaṃ."
 msgstr "the first absorption, the second absorption, the third absorption, the fourth absorption."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="wt-pa229"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.11"
 msgid "Vimokkhoti"
 msgstr "Release:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.12"
 msgid "suññato vimokkho, animitto vimokkho, appaṇihito vimokkho."
 msgstr "emptiness release, signless release, desireless release."
 
 #. </span></p><p><a class="sc" id="11"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.13"
 msgid "Samādhīti"
 msgstr "Stillness:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.14"
 msgid "suññato samādhi, animitto samādhi, appaṇihito samādhi."
 msgstr "emptiness stillness, signless stillness, desireless stillness."
 
 #. </span></p><p><a class="sc" id="12"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.15"
 msgid "Samāpattīti"
 msgstr "Attainment:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.16"
 msgid "suññatā samāpatti, animittā samāpatti, appaṇihitā samāpatti."
 msgstr "emptiness attainment, signless attainment, desireless attainment."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="pts-vp-pli" id="pts-vp-pli4.26"></a><a class="wt-pa" id="wt-pa232"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.17"
 msgid "Ñāṇadassananti"
 msgstr "Knowledge and vision:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.18"
 msgid "tisso vijjā."
 msgstr "the three true insights."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="wt-pa233"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.19"
 msgid "Maggabhāvanāti"
 msgstr "Development of the path:"
 
-#. </strong><span class="gloss"><a class="pts-vp-en" id="BD.2.212"></a> 
+#. </span><span class="gloss"><a class="pts-vp-en" id="BD.2.212"></a> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.20"
 msgid "cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo."
 msgstr "the four applications of mindfulness, the four right efforts, the four bases of supernormal power, the five spiritual faculties, the five spiritual powers, the seven factors of awakening, the noble eightfold path."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="wt-pa234"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.21"
 msgid "Phalasacchikiriyāti"
 msgstr "Realization of the fruits:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: arahattassa → arahat­ta­phalassa (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.22"
 msgid "sotāpattiphalassa sacchikiriyā, sakadāgāmiphalassa sacchikiriyā, anāgāmiphalassa sacchikiriyā, arahattassa sacchikiriyā."
 msgstr "realization of the fruit of stream-entry, realization of the fruit of once-returning, realization of the fruit of non-returning, realization of perfection."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="wt-pa235"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.23"
 msgid "Kilesappahānanti"
 msgstr "Abandoning the defilements:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.24"
 msgid "rāgassa pahānaṃ, dosassa pahānaṃ, mohassa pahānaṃ."
 msgstr "the abandoning of sensual desire, the abandoning of ill-will, the abandoning of confusion."
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="wt-pa236"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.25"
 msgid "Vinīvaraṇatā cittassāti"
 msgstr "A mind without hindrances:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.26"
 msgid "rāgā cittaṃ vinīvaraṇatā, dosā cittaṃ vinīvaraṇatā, mohā cittaṃ vinīvaraṇatā."
 msgstr "a mind without sensual desire, a mind without ill-will, a mind without confusion."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa237"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.27"
 msgid "Suññāgāre abhiratīti"
 msgstr "Delighting in solitude:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.1.28"
 msgid "paṭhamena jhānena suññāgāre abhirati, dutiyena jhānena suññāgāre abhirati, tatiyena jhānena suññāgāre abhirati, catutthena jhānena suññāgāre abhirati."
 msgstr "because of the first absorption there is delight in solitude, because of the second absorption there is delight in solitude, because of the third absorption there is delight in solitude, because of the fourth absorption there is delight in solitude."
@@ -481,67 +481,67 @@ msgid ""
 msgstr "First absorption"
 
 #. </h5><p><a class="sc" id="19"></a><a class="pts-cs" id="bu-pc.8.2.2"></a><a class="wt-pa" id="wt-pa238"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.1"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.2"
 msgid "anupasampannassa—“paṭhamaṃ jhānaṃ samāpajjin”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "if a monk says to a person who is not fully ordained, “I attained the first absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="20"></a><a class="wt-pa" id="wt-pa239"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.3"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.4"
 msgid "anupasampannassa—“paṭhamaṃ jhānaṃ samāpajjāmī”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "if a monk says to a person who is not fully ordained, “I’m attaining the first absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="21"></a><a class="wt-pa" id="wt-pa240"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.5"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.6"
 msgid "anupasampannassa—“paṭhamaṃ jhānaṃ samāpanno”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "if a monk says to a person who is not fully ordained, “I’ve attained the first absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="22"></a><a class="wt-pa" id="wt-pa241"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.7"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.8"
 msgid "anupasampannassa—“paṭhamassa jhānassa lābhimhī”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "if a monk says to a person who is not fully ordained, “I obtain the first absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="23"></a><a class="wt-pa" id="wt-pa242"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.9"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.10"
 msgid "anupasampannassa—“paṭhamassa jhānassa vasimhī”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "if a monk says to a person who is not fully ordained, “I master the first absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="24"></a><a class="wt-pa" id="wt-pa243"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.11"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.12"
 msgid "anupasampannassa—“paṭhamaṃ jhānaṃ sacchikataṃ mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "if a monk says to a person who is not fully ordained, “I’ve realized the first absorption,” he commits an offense entailing confession."
@@ -552,12 +552,12 @@ msgid ""
 msgstr "Other individual attainments"
 
 #. </h5><p><a class="sc" id="25"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.13"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.14"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -583,12 +583,12 @@ msgid "catutthaṃ jhānaṃ sacchikataṃ mayā”ti bhaṇantassa āpatti pāc
 msgstr "I’ve realized the fourth absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="26"></a><a class="wt-pa" id="wt-pa245"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.20"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.21"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -627,12 +627,12 @@ msgid "appaṇihito samādhi sacchikato mayā”ti bhaṇantassa āpatti pācitt
 msgstr "I’ve realized the desireless stillness,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="27"></a><a class="wt-pa" id="wt-pa246"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.30"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.31"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -658,12 +658,12 @@ msgid "appaṇihitā samāpatti sacchikatā mayā”ti bhaṇantassa āpatti pā
 msgstr "I’ve realized the desireless attainment,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="28"></a><a class="wt-pa" id="wt-pa247"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.37"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.38"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -681,12 +681,12 @@ msgid "tisso vijjā sacchikatā mayā”ti bhaṇantassa āpatti pācittiyassa."
 msgstr "I’ve realized the three true insights,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="29"></a><a class="pts-vp-pli" id="pts-vp-pli4.27"></a><a class="wt-pa" id="wt-pa248"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.42"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.43"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -712,12 +712,12 @@ msgid "cattāro iddhipādā sacchikatā mayā”ti bhaṇantassa āpatti pācitt
 msgstr "I’ve realized the four bases for supernormal power,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="30"></a><a class="wt-pa" id="wt-pa249"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.49"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.50"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -739,12 +739,12 @@ msgid "pañca balāni sacchikatāni mayā”ti bhaṇantassa āpatti pācittiyas
 msgstr "I’ve realized the five spiritual powers,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="31"></a><a class="wt-pa" id="wt-pa250"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.55"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.56"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained, "
@@ -762,12 +762,12 @@ msgid "satta bojjhaṅgā sacchikatā mayā”ti bhaṇantassa āpatti pācittiy
 msgstr "I’ve realized the seven factors of awakening,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="32"></a><a class="wt-pa" id="wt-pa251"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.60"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.61"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -785,12 +785,12 @@ msgid "ariyo aṭṭhaṅgiko maggo sacchikato mayā”ti bhaṇantassa āpatti 
 msgstr "I’ve realized the noble eightfold path,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="33"></a><a class="wt-pa" id="wt-pa252"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.65"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.66"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -822,12 +822,12 @@ msgid "arahattaṃ sacchikataṃ mayā”ti bhaṇantassa āpatti pācittiyassa.
 msgstr "I’ve realized perfection,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="34"></a><a class="wt-pa" id="wt-pa253"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.73"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.74"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -845,12 +845,12 @@ msgid "moho me catto, vanto, mutto, pahīno, paṭinissaṭṭho, ukkheṭito, s
 msgstr "I’ve given up confusion, I’ve renounced it, I’ve let it go, I’ve abandoned it, I’ve relinquished it, I’ve forsaken it, I’ve thrown it aside,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="35"></a><a class="wt-pa" id="wt-pa254"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.78"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.79"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -868,12 +868,12 @@ msgid "mohā me cittaṃ vinīvaraṇan”ti bhaṇantassa āpatti pācittiyassa
 msgstr "My mind is free from the hindrance of confusion,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="36"></a><a class="wt-pa" id="wt-pa255"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.83"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.2.84"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -908,12 +908,12 @@ msgid ""
 msgstr "Combinations of two attainments"
 
 #. </h5><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-pc.8.2.3"></a><a class="wt-pa" id="wt-pa256"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.1"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.2"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -931,12 +931,12 @@ msgid "paṭhamañca jhānaṃ dutiyañca jhānaṃ sacchikataṃ mayā”ti bha
 msgstr "I’ve realized the first absorption and the second absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="38"></a><a class="wt-pa" id="wt-pa257"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.6"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.7"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained, "
@@ -958,12 +958,12 @@ msgid "paṭhamañca jhānaṃ catutthañca jhānaṃ sacchikataṃ mayā”ti b
 msgstr "I’ve realized the first absorption and the fourth absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="39"></a><a class="wt-pa" id="wt-pa258"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.12"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.13"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained, "
@@ -1001,12 +1001,12 @@ msgid "paṭhamañca jhānaṃ appaṇihito ca samādhi sacchikato mayā”ti bh
 msgstr "I’ve realized the first absorption and the desireless stillness,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="40"></a><a class="wt-pa" id="wt-pa259"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.22"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.23"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained, "
@@ -1032,12 +1032,12 @@ msgid "paṭhamañca jhānaṃ appaṇihitā ca samāpatti sacchikatā mayā”t
 msgstr "I’ve realized the first absorption and the desireless attainment,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="41"></a><a class="wt-pa" id="wt-pa260"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.29"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.30"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1056,12 +1056,12 @@ msgid "paṭhamañca jhānaṃ tisso ca vijjā sacchikatā mayā”ti bhaṇanta
 msgstr "I’ve realized the first absorption and the three true insights,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="42"></a><a class="pts-vp-pli" id="pts-vp-pli4.28"></a><a class="wt-pa" id="wt-pa261"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.34"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.35"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1087,12 +1087,12 @@ msgid "paṭhamañca jhānaṃ cattāro ca iddhipādā sacchikatā mayā”ti bh
 msgstr "I’ve realized the first absorption and the four bases for supernormal power,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="43"></a><a class="wt-pa" id="wt-pa262"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.41"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.42"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1114,12 +1114,12 @@ msgid "paṭhamañca jhānaṃ pañca ca balāni sacchikatāni mayā”ti bhaṇ
 msgstr "I’ve realized the first absorption and the five spiritual powers,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="44"></a><a class="wt-pa" id="wt-pa263"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.47"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.48"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1137,12 +1137,12 @@ msgid "paṭhamañca jhānaṃ satta ca bojjhaṅgā sacchikatā mayā”ti bha�
 msgstr "I’ve realized the first absorption and the seven factors of awakening,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="45"></a><a class="wt-pa" id="wt-pa264"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.52"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.53"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1160,12 +1160,12 @@ msgid "paṭhamañca jhānaṃ ariyo ca aṭṭhaṅgiko maggo sacchikato mayā�
 msgstr "I’ve realized the first absorption and the noble eightfold path,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="46"></a><a class="wt-pa" id="wt-pa265"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.57"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.58"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1197,12 +1197,12 @@ msgid "paṭhamañca jhānaṃ arahattañca sacchikataṃ mayā”ti bhaṇantas
 msgstr "I’ve realized the first absorption and perfection,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="47"></a><a class="wt-pa" id="wt-pa266"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.65"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.66"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1216,12 +1216,12 @@ msgid "moho ca me catto, vanto, mutto, pahīno, paṭinissaṭṭho, ukkheṭito
 msgstr "I’ve realized the first absorption and I’ve given up confusion,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="48"></a><a class="wt-pa" id="wt-pa267"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.69"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.70"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1235,12 +1235,12 @@ msgid "mohā ca me cittaṃ vinīvaraṇan”ti bhaṇantassa āpatti pācittiya
 msgstr "I’ve realized the first absorption and my mind is free from the hindrance of confusion,” he commits an offense entailing confession."
 
 #. </span></p><hr><p><a class="sc" id="49"></a><a class="wt-pa" id="wt-pa268"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.73"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.74"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1262,12 +1262,12 @@ msgid "dutiyañca jhānaṃ catutthañca jhānaṃ sacchikataṃ mayā”ti bha�
 msgstr "I’ve realized the second absorption and the fourth absorption,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="50"></a><a class="wt-pa" id="wt-pa269"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.79"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.80"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1281,12 +1281,12 @@ msgid "mohā ca me cittaṃ vinīvaraṇan”ti bhaṇantassa āpatti pācittiya
 msgstr "and my mind is free from the hindrance of confusion,” he commits an offense entailing confession."
 
 #. </span></p><p><a class="sc" id="51"></a><a class="wt-pa" id="wt-pa270"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.83"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.84"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1309,12 +1309,12 @@ msgid "Mūlaṃ saṃkhittaṃ."
 msgstr "The basis in brief."
 
 #. </p><p><a class="sc" id="53"></a><a class="wt-pa" id="wt-pa272"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.89"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.90"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1333,12 +1333,12 @@ msgid "mohā ca me cittaṃ vinīvaraṇaṃ, paṭhamañca jhānaṃ sacchikata
 msgstr "My mind is free from the hindrance of confusion and I’ve realized the first absorption,” he commits an offense entailing confession. …"
 
 #. </span></p><p><a class="sc" id="54"></a><a class="wt-pa" id="wt-pa273"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.94"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.95"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1353,12 +1353,12 @@ msgid ""
 msgstr "Combination of all attainments"
 
 #. </h5><p><a class="sc" id="55"></a><a class="pts-vp-pli" id="pts-vp-pli4.29"></a><a class="wt-pa" id="wt-pa274"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.97"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.3.98"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1378,28 +1378,28 @@ msgid ""
 msgstr "Meaning to say one thing, but saying something else"
 
 #. </h5><p><a class="sc" id="56"></a><a class="pts-cs" id="bu-pc.8.2.4"></a><a class="wt-pa" id="wt-pa275"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.1"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.2"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
 
-#. <span class="note" hidden>For the meaning of <i lang="pli">paṭivijānantassa</i>, here translated as “if the listener understands,” see note to <i lang="pli">pārājika</i> 4, <span class="ref">MS.1.676</span>.</span> 
+#. For the meaning of <i lang="pli">paṭivijānantassa</i>, here translated as “if the listener understands,” see note to <i lang="pli">pārājika</i> 4, <ref>MS.1.676</ref>.
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.3"
 msgid "“paṭhamaṃ jhānaṃ samāpajjin”ti vattukāmo—“dutiyaṃ jhānaṃ samāpajjin”ti bhaṇantassa paṭivijānantassa āpatti pācittiyassa, na paṭivijānantassa āpatti dukkaṭassa."
 msgstr "“I attained the first absorption,” while actually saying, “I attained the second absorption,” if the listener understands, he commits an offense entailing confession; if the listener does not understand, he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="57"></a><a class="wt-pa" id="wt-pa276"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.4"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.5"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
@@ -1423,12 +1423,12 @@ msgid "rāgā me cittaṃ vinīvaraṇaṃ, dosā me cittaṃ vinīvaraṇaṃ, 
 msgstr "my mind is free from the hindrance of sensual desire … my mind is free from the hindrance of ill-will … my mind is free from the hindrance of confusion,” if the listener understands, he commits an offense entailing confession; if the listener does not understand, he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="58"></a><a class="wt-pa" id="wt-pa277"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.10"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.11"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
@@ -1438,12 +1438,12 @@ msgid "“dutiyaṃ jhānaṃ samāpajjin”ti vattukāmo … pe … “mohā me
 msgstr "“I attained the second absorption” … while actually saying, “My mind is free from the hindrance of confusion,” if the listener understands, he commits an offense entailing confession; if the listener does not understand, he commits an offense of wrong conduct. …"
 
 #. </span></p><p><a class="sc" id="59"></a><a class="wt-pa" id="wt-pa278"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.13"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.14"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
@@ -1458,12 +1458,12 @@ msgid "Mūlaṃ saṃkhittaṃ."
 msgstr "The basis in brief."
 
 #. </p><p><a class="sc" id="61"></a><a class="wt-pa" id="wt-pa280"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.17"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.18"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
@@ -1473,12 +1473,12 @@ msgid "“mohā me cittaṃ vinīvaraṇan”ti vattukāmo— “paṭhamaṃ jh
 msgstr "“My mind is free from the hindrance of confusion,” while actually saying, “I attained the first absorption,” if the listener understands, he commits an offense entailing confession; if the listener does not understand, he commits an offense of wrong conduct. …"
 
 #. </span></p><p><a class="sc" id="62"></a><a class="wt-pa" id="wt-pa281"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.20"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.21"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
@@ -1488,12 +1488,12 @@ msgid "“mohā me cittaṃ vinīvaraṇan”ti vattukāmo—“dosā me citta�
 msgstr "“My mind is free from the hindrance of confusion,” while actually saying, “My mind is free from the hindrance of ill-will,” if the listener understands, he commits an offense entailing confession; if the listener does not understand, he commits an offense of wrong conduct. …"
 
 #. </span></p><hr><p><a class="sc" id="63"></a><a class="wt-pa" id="wt-pa282"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.23"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.24"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
@@ -1503,12 +1503,12 @@ msgid "“paṭhamañca jhānaṃ dutiyañca jhānaṃ tatiyañca jhānaṃ catu
 msgstr "“I attained the first absorption and the second absorption and the third absorption and the fourth absorption … and my mind is free from the hindrance of ill-will,” while actually saying, “My mind is free from the hindrance of confusion,” if the listener understands, he commits an offense entailing confession; if the listener does not understand, he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="64"></a><a class="wt-pa" id="wt-pa283"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.26"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.4.27"
 msgid "anupasampannassa—"
 msgstr "if a monk means to say to a person who is not fully ordained,"
@@ -1523,12 +1523,12 @@ msgid ""
 msgstr "Gross hinting"
 
 #. </h5><p><a class="sc" id="65"></a><a class="pts-cs" id="bu-pc.8.2.5"></a><a class="wt-pa" id="wt-pa284"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.1"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.2"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1547,12 +1547,12 @@ msgid "tena bhikkhunā paṭhamaṃ jhānaṃ sacchikatan”ti bhaṇantassa āp
 msgstr "has realized the first absorption,” he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="66"></a><a class="wt-pa" id="wt-pa285"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.6"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.7"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1574,12 +1574,12 @@ msgid "tena bhikkhunā catutthaṃ jhānaṃ sacchikatan”ti bhaṇantassa āpa
 msgstr "has realized the fourth absorption,” he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="67"></a><a class="wt-pa" id="wt-pa286"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.12"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.13"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1601,12 +1601,12 @@ msgid "tena bhikkhunā appaṇihito samādhi sacchikato”ti bhaṇantassa āpat
 msgstr "has realized the desireless stillness,” he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="68"></a><a class="wt-pa" id="wt-pa287"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.18"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.19"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1628,12 +1628,12 @@ msgid "tena bhikkhunā appaṇihitā samāpatti sacchikatā”ti bhaṇantassa �
 msgstr "has realized the desireless attainment,” he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="69"></a><a class="pts-vp-pli" id="pts-vp-pli4.30"></a><a class="wt-pa" id="wt-pa288"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.24"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.25"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1656,12 +1656,12 @@ msgid "tassa bhikkhuno rāgā cittaṃ vinīvaraṇaṃ, dosā cittaṃ vinīvar
 msgstr "has a mind free from the hindrance of sensual desire … has a mind free from the hindrance of ill-will … has a mind free from the hindrance of confusion,” he commits an offense of wrong conduct."
 
 #. </span></p><hr><p><a class="sc" id="70"></a><a class="wt-pa" id="wt-pa289"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.30"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.31"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1683,12 +1683,12 @@ msgid "tena bhikkhunā suññāgāre catutthaṃ jhānaṃ sacchikatan”ti bha�
 msgstr "has realized the fourth absorption in an empty dwelling,” he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="71"></a><a class="wt-pa" id="wt-pa290"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.36"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.37"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1706,12 +1706,12 @@ msgid "tena bhikkhunā suññāgāre catutthaṃ jhānaṃ sacchikatan”ti bha�
 msgstr "has realized the fourth absorption in an empty dwelling,” he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="72"></a><a class="wt-pa" id="wt-pa291"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.41"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.42"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"
@@ -1729,12 +1729,12 @@ msgid "tena bhikkhunā suññāgāre catutthaṃ jhānaṃ sacchikatan”ti bha�
 msgstr "has realized the fourth absorption in an empty dwelling,” he commits an offense of wrong conduct."
 
 #. </span></p><p><a class="sc" id="73"></a><a class="wt-pa" id="wt-pa292"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.46"
 msgid "Āroceyyāti"
 msgstr "Tells:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc8:pts-cs2.5.47"
 msgid "anupasampannassa—"
 msgstr "if a monk says to a person who is not fully ordained,"

@@ -130,12 +130,12 @@ msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa1007"></a>
 #. VAR: uyyodhikaṃ → uyyodhakaṃ (s3)
-#. <strong class="rule">
+#. <span class="rule">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs1.20"
 msgid "“Dirattatirattañce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk who is staying with an army for two or three nights goes to a battle, a troop review, a massing of the army, or a troop inspection, he commits an offense entailing confession.’”"
 
-#. </strong>
+#. </span>
 msgctxt "pli-tv-bu-vb-pc50:pts-cs1.21"
 msgid "(<em>50</em>:<strong>99</strong>)"
 msgstr ""
@@ -146,60 +146,60 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="4"></a><a class="pts-cs-empty" id="bu-pc.50.2"></a><a class="pts-cs" id="bu-pc.50.2.1"></a><a class="wt-pa" id="wt-pa1008"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.1"
 msgid "Dirattatirattañce bhikkhu senāya vasamānoti"
 msgstr "If a monk who is staying with an army for two or three nights:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.2"
 msgid "dvetisso rattiyo vasamāno."
 msgstr "he is staying for two or for three nights."
 
 #. </span>
 #. </p><p><a class="sc" id="5"></a><a class="wt-pa" id="wt-pa1009"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.3"
 msgid "Uyyodhikaṃ nāma"
 msgstr "A battle:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.4"
 msgid "yattha sampahāro dissati."
 msgstr "wherever fighting is seen."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="wt-pa" id="wt-pa1010"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.5"
 msgid "Balaggaṃ nāma"
 msgstr "A troop review:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.6"
 msgid "ettakā hatthī, ettakā assā, ettakā rathā, ettakā pattī."
 msgstr "so many elephants, so many horses, so many chariots, so much infantry."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a><a class="wt-pa" id="wt-pa1011"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.7"
 msgid "Senābyūhaṃ nāma"
 msgstr "A massing of the army:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.8"
 msgid "ito hatthī hontu, ito assā hontu, ito rathā hontu, ito pattikā hontu."
 msgstr "let the elephants set out from here; let the horses set out from here; let the chariots set out from here; let the infantry set out from here."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="pts-vp-pli" id="pts-vp-pli4.108"></a><a class="wt-pa" id="wt-pa1012"></a>
-#. <strong class="term">
+#. <span class="term">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.9"
 msgid "Anīkaṃ nāma"
 msgstr "Troops:"
 
-#. </strong><span class="gloss">
+#. </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pc50:pts-cs2.1.10"
 msgid "hatthānīkaṃ, assānīkaṃ, rathānīkaṃ, pattānīkaṃ."
 msgstr "elephant troops, horse  troops, chariot troops, infantry troops."

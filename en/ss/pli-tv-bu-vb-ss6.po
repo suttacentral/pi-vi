@@ -53,7 +53,7 @@ msgctxt "pli-tv-bu-vb-ss6:pts-cs1.1.4"
 msgid "Te yācanabahulā viññattibahulā viharanti—"
 msgstr "and so the monks kept on asking and begging,"
 
-#. <span class="note" hidden>I have rendered <i lang="pli">muñja</i>-reed and <i lang="pli">pabbaja</i>-reed with the single word “reed.” I am not aware that these two types of reed can be distinguished in English.</span> 
+#. I have rendered <i lang="pli">muñja</i>-reed and <i lang="pli">pabbaja</i>-reed with the single word “reed.” I am not aware that these two types of reed can be distinguished in English.
 msgctxt "pli-tv-bu-vb-ss6:pts-cs1.1.5"
 msgid "“purisaṃ detha, puri­sattha­ka­raṃ detha, goṇaṃ detha, sakaṭaṃ detha, vāsiṃ detha, parasuṃ detha, kuṭhāriṃ detha, kudālaṃ detha, nikhādanaṃ detha, valliṃ detha, veḷuṃ detha, muñjaṃ detha, pabbajaṃ detha, tiṇaṃ detha, mattikaṃ dethā”ti."
 msgstr "“Give a man, give a servant, give an ox, give a cart, give an adz, give a hatchet, give an ax, give a spade, give a chisel, give a creeper, give bamboo, give reed, give grass, give clay.”"
@@ -733,12 +733,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1437"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs1.6.6"
 msgid "“Saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā."
 msgstr "‘When a monk, by means of begging, builds a hut without a sponsoring owner and intended for himself,"
 
-#. <span class="note" hidden>That is, twelve <i lang="pli">sugata-vidatthis</i> long and seven <i lang="pli">sugata-vidatthis</i> wide inside. A <i lang="pli">vidatthi</i> is often translated as a hand-span. <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it is used to designate a standard measure, “the standard hand-span.” The commentary, <span class="ref">Sp.3.567.21</span>, says that, “Here the <i lang="pli">sugata vidatthi</i> is equal to three <i lang="pli">vidatthis</i> of an average man,” <i lang="pli">sugatavidatthi nāma idāni majjhimassa purisassa tisso vidatthiyo</i>. This does not need to be understood as the Buddha being three times the size of an ordinary person, but just that the standard hand-span is three times the regular length. For the conversion into metric units I nevertheless follow the estimate of the <i lang="pli">sugata-vidatthi</i> in BMC, pp.565-566. For an explanation of the rendering “sponsoring owner,” see note to the following rule, <span class="ref">MS.1.1515</span>.</span> 
+#. That is, twelve <i lang="pli">sugata-vidatthis</i> long and seven <i lang="pli">sugata-vidatthis</i> wide inside. A <i lang="pli">vidatthi</i> is often translated as a hand-span. <i lang="pli">Sugata</i> is an epithet of the Buddha, but in this context it is used to designate a standard measure, “the standard hand-span.” The commentary, <ref>Sp.3.567.21</ref>, says that, “Here the <i lang="pli">sugata vidatthi</i> is equal to three <i lang="pli">vidatthis</i> of an average man,” <i lang="pli">sugatavidatthi nāma idāni majjhimassa purisassa tisso vidatthiyo</i>. This does not need to be understood as the Buddha being three times the size of an ordinary person, but just that the standard hand-span is three times the regular length. For the conversion into metric units I nevertheless follow the estimate of the <i lang="pli">sugata-vidatthi</i> in BMC, pp.565-566. For an explanation of the rendering “sponsoring owner,” see note to the following rule, <ref>MS.1.1515</ref>.
 msgctxt "pli-tv-bu-vb-ss6:pts-cs1.6.7"
 msgid "Tatridaṃ pamāṇaṃ—dīghaso dvādasa vidatthiyo, sugata­vidat­thiyā; tiriyaṃ sattantarā."
 msgstr "it is to be no more than 3 meters long and 1.75 meters wide inside."
@@ -762,7 +762,7 @@ msgctxt "pli-tv-bu-vb-ss6:pts-cs1.6.11"
 msgid "Sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṃghādiseso”ti."
 msgstr "If a monk, by means of begging, builds a hut on a site where harm will be done and which lacks a space on all sides, or he does not get monks to approve the site, or he exceeds the size limit, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs1.6.12"
 msgid "(<em>6</em>:<strong>10</strong>)"
 msgstr ""
@@ -773,67 +773,67 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="22"></a><a class="pts-cs-empty" id="bu-ss.6.2"></a><a class="pts-cs" id="bu-ss.6.2.1"></a><a class="pts-vp-en" id="bd.1.254"></a><a class="ms-pa" id="ms-pa1438"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.1"
 msgid "Saññācikā nāma"
 msgstr "By means of begging:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.2"
 msgid "sayaṃ yācitvā purisampi puri­sattha­ka­rampi goṇampi sakaṭampi vāsimpi parasumpi kuṭhārimpi kudālampi nikhādanampi vallimpi veḷumpi muñjampi pabbajampi tiṇampi mattikampi."
 msgstr "having himself begged for a man, a servant, an ox, a cart, an adz, a hatchet, an ax, a spade, a chisel, a creeper, bamboo, reed, grass, clay."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1439"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.3"
 msgid "Kuṭi nāma"
 msgstr "A hut:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.4"
 msgid "ullittā vā hoti avalittā vā ullittāvalittā vā."
 msgstr "a wattle and daub hut."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1440"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.5"
 msgid "Kārayamānenāti"
 msgstr "Builds:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.6"
 msgid "karonto vā kārāpento vā."
 msgstr "building it himself or getting someone else to build it."
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1441"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.7"
 msgid "Assāmikanti"
 msgstr "Without a sponsoring owner:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.8"
 msgid "na añño koci sāmiko hoti, itthī vā puriso vā gahaṭṭho vā pabbajito vā."
 msgstr "there is no other owner, either a woman or a man, either a lay person or one gone forth."
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1442"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.9"
 msgid "Attuddesanti"
 msgstr "Intended for himself:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.10"
 msgid "attano atthāya."
 msgstr "for his own use."
 
 #. </span>
 #. </p><p><a class="sc" id="27"></a><a class="ms-pa" id="ms-pa1443"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.11"
 msgid "Pamāṇikā kāretabbā."
 msgstr "It is to be no more than 3 meters long:"
@@ -842,31 +842,31 @@ msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.12"
 msgid "Tatridaṃ pamāṇaṃ—dīghaso dvādasa vidatthiyo, sugata­vidat­thiyāti"
 msgstr ""
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.13"
 msgid "bāhirimena mānena."
 msgstr "measured outside."
 
 #. </span>
 #. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1444"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.14"
 msgid "Tiriyaṃ sattantarāti"
 msgstr "And 1.75 meters wide inside:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.1.15"
 msgid "abbhantarimena mānena."
 msgstr "measured inside."
 
 #. </span>
 #. </p><p><a class="sc" id="29"></a><a class="pts-vp-pli" id="pts-vp-pli3.150"></a><a class="pts-cs" id="bu-ss.6.2.2"></a><a class="ms-pa" id="ms-pa1445"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.2.1"
 msgid "Bhikkhū abhinetabbā vatthudesanāyāti"
 msgstr "He must get monks to approve a site:"
 
-#. </strong></p><div class="gloss"><p>
+#. </span></p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.2.2"
 msgid "tena kuṭikārakena bhikkhunā kuṭivatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
 msgstr "The monk who wishes to build a hut should clear a site. He should then approach the Order, put his upper robe over one shoulder, pay respect at the feet of the senior monks, squat on his heels, put the palms of hands together, and say,"
@@ -1071,12 +1071,12 @@ msgid "evametaṃ dhārayāmī’”ti."
 msgstr "I will remember it thus.’”"
 
 #. </p></div></div><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-ss.6.2.3"></a><a class="ms-pa" id="ms-pa1453"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.1"
 msgid "Sārambhaṃ nāma"
 msgstr "Where harm will be done:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: undūrānaṃ → undurānaṃ (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.2"
 msgid "kipillikānaṃ vā āsayo hoti, upacikānaṃ vā āsayo hoti, undūrānaṃ vā āsayo hoti, ahīnaṃ vā āsayo hoti, vicchikānaṃ vā āsayo hoti, satapadīnaṃ vā āsayo hoti, hatthīnaṃ vā āsayo hoti, assānaṃ vā āsayo hoti, sīhānaṃ vā āsayo hoti, byagghānaṃ vā āsayo hoti, dīpīnaṃ vā āsayo hoti, acchānaṃ vā āsayo hoti, taracchānaṃ vā āsayo hoti,"
@@ -1094,12 +1094,12 @@ msgstr "this is called “where harm will be done.”"
 
 #. </span>
 #. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms-pa1454"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.5"
 msgid "Aparikkamanaṃ nāma"
 msgstr "Which lacks a space on all sides:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.6"
 msgid "na sakkā hoti yathāyuttena sakaṭena anuparigantuṃ samantā nisseṇiyā anuparigantuṃ."
 msgstr "it is not possible to go around it with a yoked cart, or to go all the way around it with a ladder—"
@@ -1110,12 +1110,12 @@ msgstr "this is called “which lacks a space on all sides.”"
 
 #. </span>
 #. </p><p><a class="sc" id="39"></a><a class="ms-pa" id="ms-pa1455"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.8"
 msgid "Anārambhaṃ nāma"
 msgstr "Where no harm will be done:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 #. VAR: undūrānaṃ → undurānaṃ (s1-3)
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.9"
 msgid "na kipillikānaṃ vā āsayo hoti, na upacikānaṃ vā āsayo hoti, na undūrānaṃ vā āsayo hoti, na ahīnaṃ vā āsayo hoti, na vicchikānaṃ vā āsayo hoti, na satapadīnaṃ vā āsayo hoti … pe …"
@@ -1131,12 +1131,12 @@ msgstr "this is called “where no harm will be done.”"
 
 #. </span>
 #. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1456"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.12"
 msgid "Saparikkamanaṃ nāma"
 msgstr "Which has a space on all sides:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.3.13"
 msgid "sakkā hoti yathāyuttena sakaṭena anuparigantuṃ, samantā nisseṇiyā anuparigantuṃ."
 msgstr "it is possible to go around it with a yoked cart, or to go all the way around it with a ladder—"
@@ -1147,12 +1147,12 @@ msgstr "this is called “which has a space on all sides.”"
 
 #. </span>
 #. </p><p><a class="sc" id="41"></a><a class="pts-cs" id="bu-ss.6.2.4"></a><a class="ms-pa" id="ms-pa1457"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.1"
 msgid "Saññācikā nāma"
 msgstr "By means of begging:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.2"
 msgid "sayaṃ yācitvā purisampi puri­sattha­ka­rampi … pe …"
 msgstr "having himself begged for a man, a servant …"
@@ -1163,36 +1163,36 @@ msgstr "clay."
 
 #. </span>
 #. </p><p><a class="sc" id="42"></a><a class="ms-pa" id="ms-pa1458"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.4"
 msgid "Kuṭi nāma"
 msgstr "A hut:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.5"
 msgid "ullittā vā hoti avalittā vā ullittāvalittā vā."
 msgstr "a wattle and daub hut."
 
 #. </span>
 #. </p><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa1459"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.6"
 msgid "Kāreyyāti"
 msgstr "Builds:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.7"
 msgid "karoti vā kārāpeti vā."
 msgstr "building it himself or getting someone else to build it."
 
 #. </span>
 #. </p><p><a class="sc" id="44"></a><a class="ms-pa" id="ms-pa1460"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.8"
 msgid "Bhikkhū vā anabhineyya, vatthudesanāya pamāṇaṃ vā atikkāmeyyāti"
 msgstr "Or he does not get monks to approve the site, or he exceeds the size limit:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.9"
 msgid "ñattidutiyena kammena kuṭivatthuṃ na desāpetvā,"
 msgstr "if the site for the hut has not been approved through a procedure consisting of one motion and three announcements,"
@@ -1217,12 +1217,12 @@ msgstr "When the last piece is finished, he commits an offense entailing suspens
 
 #. </span>
 #. </p><p><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa1461"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.14"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss6:pts-cs2.4.15"
 msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
 msgstr "… Therefore, too, it is called “an offense entailing suspension.”"

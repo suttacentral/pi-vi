@@ -256,12 +256,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="9"></a><a class="wt-pa" id="492"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs1.48"
 msgid "“Yo pana bhikkhu asammato bhikkhuniyo ovadeyya pācittiyan”ti."
 msgstr "‘If a monk who has not been agreed upon instructs the nuns, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs1.49"
 msgid "(<em>21</em>:<strong>70</strong>)"
 msgstr ""
@@ -394,7 +394,8 @@ msgctxt "pli-tv-bu-vb-pc21:pts-cs2.28"
 msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "he gave a teaching and addressed the monks:"
 
-#. </p><div class="rule"><p><span class="note" hidden>This set of eight qualities is also found at AN8.52 <span class="ref">MS.???.556</span>, see NDB, pp.1192-93.</span>
+#. </p><p class="rule">
+#. This set of eight qualities is also found at AN8.52 <ref>MS.???.556</ref>, see NDB, pp.1192-93.
 msgctxt "pli-tv-bu-vb-pc21:pts-cs2.29"
 msgid "“anujānāmi, bhikkhave, aṭṭhahaṅgehi samannāgataṃ bhikkhuṃ bhikkhunovādakaṃ sammannituṃ."
 msgstr "“Monks, you should appoint a monk who possesses eight qualities as an instructor of the nuns:"
@@ -445,29 +446,29 @@ msgctxt "pli-tv-bu-vb-pc21:pts-cs2.38"
 msgid "anujānāmi, bhikkhave, imehi aṭṭhahaṅgehi samannāgataṃ bhikkhuṃ bhikkhunovādakaṃ sammannitun”ti."
 msgstr "Monks, you should appoint a monk who possesses these eight qualities as an instructor of the nuns.”"
 
-#. </p></div><h2>
+#. </p><h2>
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.0a"
 msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="14"></a><a class="pts-vp-pli" id="pts-vp-pli4.52"></a><a class="pts-cs" id="bu-pc.21.3.1"></a><a class="wt-pa" id="497"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.4"
 msgid "… pe …"
 msgstr "… The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -478,36 +479,36 @@ msgstr "this sort of monk is meant in this case."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a><a class="wt-pa" id="498"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.6"
 msgid "Asammato nāma"
 msgstr "Who has not been agreed upon:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.7"
 msgid "ñatticatutthena kammena asammato."
 msgstr "who has not been agreed upon through a procedure consisting of one motion and three announcements."
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a><a class="wt-pa" id="499"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.8"
 msgid "Bhikkhuniyo nāma"
 msgstr "Nuns:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.9"
 msgid "ubhatosaṃghe upasampannā."
 msgstr "they have been given the full ordination by both Orders."
 
 #. </span>
 #. </p><p><a class="sc" id="17"></a><a class="wt-pa" id="500"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.10"
 msgid "Ovadeyyāti"
 msgstr "Instructs:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.11"
 msgid "aṭṭhahi garudhammehi ovadati, āpatti pācittiyassa."
 msgstr "If he instructs in the eight rules to be respected, he commits an offense entailing confession."
@@ -544,7 +545,8 @@ msgid "Sace “samaggāmhāyyā”ti bhaṇanti, “vattanti, bhaginiyo, aṭṭ
 msgstr "If they say, “We’re all present, Venerable,” he should say, “Are you keeping the eight rules to be respected?”"
 
 #. </p><p>
-#. VAR: niyyādetabbo → niyyātetabbo (itipi)</span><span class="note" hidden><i lang="pli">Niyyādetabbo</i>. For the meaning of this word in this context, see the usage in the origin story to the next rule, <span class="ref">MS.2.517</span>, and the explanation at <span class="ref">Sp.4.792.10</span>, <span class="ref">Sp.4.800.25</span>.
+#. VAR: niyyādetabbo → niyyātetabbo (itipi)
+#. <i lang="pli">Niyyādetabbo</i>. For the meaning of this word in this context, see the usage in the origin story to the next rule, <ref>MS.2.517</ref>, and the explanation at <ref>Sp.4.792.10</ref>, <ref>Sp.4.800.25</ref>.
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.19"
 msgid "Sace “vattantāyyā”ti bhaṇanti, “eso, bhaginiyo, ovādo”ti niyyādetabbo."
 msgstr "If they say, “We are,” he should present the instruction, “This is the instruction.”"
@@ -563,7 +565,8 @@ msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.22"
 msgid "ayampi dhammo sakkatvā garukatvā mānetvā pūjetvā yāvajīvaṃ anatikkamanīyo."
 msgstr "This rule is to be honored and respected all one’s life, and is not to be breached."
 
-#. </li><li><span class="note" hidden>The Pali word behind the translation “monastery” is <i lang="pli">āvāsa</i>. This refers to the area within the <i lang="pli">simā</i>, the boundary, as established through a procedure. This area may be much larger than the space occupied by any actual buildings.</span> 
+#. </li><li>
+#. The Pali word behind the translation “monastery” is <i lang="pli">āvāsa</i>. This refers to the area within the <i lang="pli">simā</i>, the boundary, as established through a procedure. This area may be much larger than the space occupied by any actual buildings. 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.23"
 msgid "Na bhikkhuniyā abhikkhuke āvāse vassaṃ vasitabbaṃ;"
 msgstr "A nun should not spend the rainy season in a monastery where there are no monks."
@@ -587,7 +590,8 @@ msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.27"
 msgid "ayampi dhammo … pe …"
 msgstr "This rule too is to be honored and respected all one’s life, and is not to be breached."
 
-#. </li><li><span class="note" hidden>Serious offense, <i lang="pli">garudhamma</i>, here refers to the <i lang="pli">saṅghādisesa</i> offenses, the offenses entailing suspension.</span> 
+#. </li><li>
+#. Serious offense, <i lang="pli">garudhamma</i>, here refers to the <i lang="pli">saṅghādisesa</i> offenses, the offenses entailing suspension. 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.28"
 msgid "garudhammaṃ ajjhāpannāya bhikkhuniyā ubhatosaṃghe pakkhamānattaṃ caritabbaṃ;"
 msgstr "A nun who has committed a serious offense should undertake a trial period towards both Orders for a half-month."
@@ -614,7 +618,8 @@ msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.33"
 msgid "ayampi dhammo … pe …"
 msgstr "This rule too is to be honored and respected all one’s life, and is not to be breached."
 
-#. </li><li><span class="note" hidden>“Correct” is here for <i lang="pli">vacanapatha</i>. For the meaning of this word see BVS, pp.73-76.</span> 
+#. </li><li>
+#. “Correct” is here for <i lang="pli">vacanapatha</i>. For the meaning of this word see BVS, pp.73-76. 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.34"
 msgid "ajjatagge ovaṭo bhikkhunīnaṃ bhikkhūsu vacanapatho, anovaṭo bhikkhūnaṃ bhikkhunīsu vacanapatho;"
 msgstr "From today onwards, nuns may not correct monks, but monks may correct nuns."
@@ -623,7 +628,8 @@ msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.35"
 msgid "ayampi dhammo sakkatvā garukatvā mānetvā pūjetvā yāvajīvaṃ anatikkamanīyo”ti."
 msgstr "This rule too is to be honored and respected all one’s life, and is not to be breached.”"
 
-#. </li></ul><p><a class="sc" id="19"></a><a class="wt-pa" id="502"></a><span class="note" hidden>This seems to say that if the nuns are all present then the monk must always give an <i lang="pli">ovāda</i> that consists in teaching the eight <i lang="pli">garudhammas</i>.This, however, needs to be seen in light of the further subdivision given in the text above, where the instruction in the <i lang="pli">garudhammas</i> is to be given only when the nuns say they are not practicing them.If the nuns are practicing the <i lang="pli">garudhammas</i>, there seems to be no restriction on the nature of the <i lang="pli">ovāda</i>.</span> 
+#. </li></ul><p><a class="sc" id="19"></a><a class="wt-pa" id="502"></a>
+#. This seems to say that if the nuns are all present then the monk must always give an <i lang="pli">ovāda</i> that consists in teaching the eight <i lang="pli">garudhammas</i>.This, however, needs to be seen in light of the further subdivision given in the text above, where the instruction in the <i lang="pli">garudhammas</i> is to be given only when the nuns say they are not practicing them.If the nuns are practicing the <i lang="pli">garudhammas</i>, there seems to be no restriction on the nature of the <i lang="pli">ovāda</i>. 
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.36"
 msgid "Sace “samaggāmhāyyā”ti bhaṇantaṃ aññaṃ dhammaṃ bhaṇati, āpatti dukkaṭassa."
 msgstr "If they say, “We’re all present, Venerable,” and he instructs them with another teaching, then he commits an offense of wrong conduct."
@@ -632,7 +638,7 @@ msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.37"
 msgid "Sace “vaggāmhāyyā”ti bhaṇantaṃ aṭṭha garudhamme bhaṇati, āpatti dukkaṭassa."
 msgstr "If they say, “We’re not all present, Venerable,” and he instructs them in the eight rules to be respected, then he commits an offense of wrong conduct."
 
-#. <span class="note" hidden>According to the commentary (<span class="ref">Sp.4.800.25</span>) this simply means not having said, “Sisters, this is the instruction,” <i lang="pli">ovādaṃ aniyyādetvāti eso bhaginiyo ovādoti avatvā</i>. This, however, does seem contrived. A more natural meaning might be to see this statement in conjunction with the previous one, and the two together might then be paraphrased as follows: If the nuns say they are not all present, then one should not instruct in the eight rules to be respected, nor in any other teaching. In any case, once “Sisters, this is the instruction” has been said, it seems any teaching can be given; see origin story to the next rule, <span class="ref">MS.2.517</span>.</span> 
+#. According to the commentary (<ref>Sp.4.800.25</ref>) this simply means not having said, “Sisters, this is the instruction,” <i lang="pli">ovādaṃ aniyyādetvāti eso bhaginiyo ovādoti avatvā</i>. This, however, does seem contrived. A more natural meaning might be to see this statement in conjunction with the previous one, and the two together might then be paraphrased as follows: If the nuns say they are not all present, then one should not instruct in the eight rules to be respected, nor in any other teaching. In any case, once “Sisters, this is the instruction” has been said, it seems any teaching can be given; see origin story to the next rule, <ref>MS.2.517</ref>.
 msgctxt "pli-tv-bu-vb-pc21:pts-cs3.1.38"
 msgid "Ovādaṃ aniyyādetvā aññaṃ dhammaṃ bhaṇati, āpatti dukkaṭassa."
 msgstr "If he does not present the instruction, but he gives them another teaching, then he commits an offense of wrong conduct."

@@ -125,8 +125,9 @@ msgctxt "pli-tv-bu-vb-ss7:pts-cs1.19a"
 msgid ""
 msgstr "Final ruling"
 
-#. </h2><p><a class="sc" id="4"></a><strong class="rule">
-#. <span class="note" hidden>I have rendered <i lang="pli">sassāmikaṃ</i> as “with a sponsoring owner.” The word <i lang="pli">sāmika</i> generally means “owner,” and there seems to be no reason why that should not also be the meaning here. However, although the monk does not own the dwelling, he is still the builder and the intended user once the building is finished. To indicate this, I have added the word “sponsoring.”</span> 
+#. </h2><p><a class="sc" id="4"></a>
+#. <span class="rule">
+#. I have rendered <i lang="pli">sassāmikaṃ</i> as “with a sponsoring owner.” The word <i lang="pli">sāmika</i> generally means “owner,” and there seems to be no reason why that should not also be the meaning here. However, although the monk does not own the dwelling, he is still the builder and the intended user once the building is finished. To indicate this, I have added the word “sponsoring.”
 msgctxt "pli-tv-bu-vb-ss7:pts-cs1.20"
 msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ bhikkhū abhinetabbā vatthudesanāya."
 msgstr "‘When a monk builds a large dwelling with a sponsoring owner and intended for himself,"
@@ -139,7 +140,7 @@ msgctxt "pli-tv-bu-vb-ss7:pts-cs1.22"
 msgid "Sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya bhikkhū vā anabhineyya vatthudesanāya, saṃghādiseso”ti."
 msgstr "If a monk builds a large dwelling on a site where harm will be done and which lacks a space on all sides, or he does not get monks to approve the site, he commits an offense entailing suspension.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs1.23"
 msgid "(<em>7</em>:<strong>11</strong>)"
 msgstr ""
@@ -150,72 +151,72 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-ss.7.2"></a><a class="ms-pa" id="ms-pa1516"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.1"
 msgid "Mahallako nāma"
 msgstr "A large dwelling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.2"
 msgid "vihāro sassāmiko vuccati."
 msgstr "one with a sponsoring owner is what is meant."
 
 #. </span>
 #. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa1517"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.3"
 msgid "Vihāro nāma"
 msgstr "Dwelling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.4"
 msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
 msgstr "a wattle and daub dwelling."
 
 #. </span>
 #. </p><p><a class="sc" id="7"></a><a class="pts-vp-en" id="bd.1.268"></a><a class="ms-pa" id="ms-pa1518"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.5"
 msgid "Kārayamānenāti"
 msgstr "Builds:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.6"
 msgid "karonto vā kārāpento vā."
 msgstr "building it himself or getting someone else to build it."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a><a class="ms-pa" id="ms-pa1519"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.7"
 msgid "Sassāmikanti"
 msgstr "With a sponsoring owner:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.8"
 msgid "añño koci sāmiko hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
 msgstr "there is another owner, either a woman or a man, either a lay person or one gone forth."
 
 #. </span>
 #. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1520"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.9"
 msgid "Attuddesanti"
 msgstr "Intended for himself:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.10"
 msgid "attano atthāya."
 msgstr "for his own use."
 
 #. </span>
 #. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1521"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.11"
 msgid "Bhikkhū abhinetabbā vatthudesanāyāti"
 msgstr "He must get monks to approve a site:"
 
-#. </strong>
+#. </span>
 #. </p><div class="gloss"><p>
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.12"
 msgid "tena vihārakārakena bhikkhunā vihāravatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
@@ -430,12 +431,12 @@ msgid "evametaṃ dhārayāmī”ti."
 msgstr "I will remember it thus.’”"
 
 #. </p></div></div><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1529"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.62"
 msgid "Sārambhaṃ nāma"
 msgstr "Where harm will be done:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.63"
 msgid "kipillikānaṃ vā āsayo hoti, upacikānaṃ vā āsayo hoti, undūrānaṃ vā … pe …"
 msgstr "it is the abode of ants, termites, rats,"
@@ -494,12 +495,12 @@ msgstr "this is called “where harm will be done.”"
 
 #. </span>
 #. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1530"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.77"
 msgid "Aparikkamanaṃ nāma"
 msgstr "Which lacks a space on all sides:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.78"
 msgid "na sakkā hoti yathāyuttena sakaṭena anuparigantuṃ, samantā nisseṇiyā anuparigantuṃ."
 msgstr "it is not possible to go around it with a yoked cart, or to go all the way around it with a ladder—"
@@ -510,12 +511,12 @@ msgstr "this is called “which lacks a space on all sides.”"
 
 #. </span>
 #. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1531"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.80"
 msgid "Anārambhaṃ nāma"
 msgstr "Where no harm will be done:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.81"
 msgid "na kipillikānaṃ vā āsayo hoti … pe …"
 msgstr "it is not the abode of ants …"
@@ -530,12 +531,12 @@ msgstr "this is called “where no harm will be done.”"
 
 #. </span>
 #. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1532"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.84"
 msgid "Saparikkamanaṃ nāma"
 msgstr "Which has a space on all sides:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.85"
 msgid "sakkā hoti yathāyuttena sakaṭena anuparigantuṃ, samantā nisseṇiyā anuparigantuṃ."
 msgstr "it is possible to go around it with a yoked cart, or to go all the way around it with a ladder—"
@@ -546,48 +547,48 @@ msgstr "this is called “which has a space on all sides.”"
 
 #. </span>
 #. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1533"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.87"
 msgid "Mahallako nāma"
 msgstr "A large dwelling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.88"
 msgid "vihāro sassāmiko vuccati."
 msgstr "one with a sponsoring owner is what is meant."
 
 #. </span>
 #. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1534"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.89"
 msgid "Vihāro nāma"
 msgstr "Dwelling:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.90"
 msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
 msgstr "a wattle and daub dwelling."
 
 #. </span>
 #. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1535"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.91"
 msgid "Kāreyyāti"
 msgstr "Builds:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.92"
 msgid "karoti vā kārāpeti vā."
 msgstr "building it himself or getting someone else to build it."
 
 #. </span>
 #. </p><p><a class="sc" id="25"></a><a class="pts-vp-pli" id="pts-vp-pli3.157"></a><a class="ms-pa" id="ms-pa1536"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.93"
 msgid "Bhikkhū vā anabhineyya vatthudesanāyāti"
 msgstr "Or he does not get monks to approve the site:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.94"
 msgid "ñattidutiyena kammena vihāravatthuṃ na desāpetvā karoti vā kārāpeti vā, payoge dukkaṭaṃ."
 msgstr "if the site has not been approved through a procedure consisting of one motion and three announcements, and he then builds a dwelling or gets one built, he commits an offense of wrong conduct for the action."
@@ -602,12 +603,12 @@ msgstr "When the last piece is finished, he commits an offense entailing suspens
 
 #. </span>
 #. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1537"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.97"
 msgid "Saṃghādisesoti"
 msgstr "He commits an offense entailing suspension:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-ss7:pts-cs2.98"
 msgid "… pe … tenapi vuccati—"
 msgstr "… Therefore, too, it is called"
@@ -879,7 +880,7 @@ msgctxt "pli-tv-bu-vb-ss7:pts-cs3.4.20"
 msgid "“anārambho ca hotu saparikkamano cā”ti … pe …"
 msgstr "to build one where no harm will be done, and which has a space on all sides. … <span class=\"pe\">This paragraph is to be expanded as in <a class=\"cr\" href=\"./pli-tv-bu-vb-ss6#64\">Saṅghādisesa 6, paragraphs 64–75</a>.</span> …"
 
-#. <span class="note" hidden>The last two sets of ellipses points are not found in MS. I have added them for clarification.</span> 
+#. The last two sets of ellipses points are not found in MS. I have added them for clarification.
 #. VAR: hotū”ti → hotūti … pe … anārambhaṃ saparikkamanaṃ (bj) | hotūti … pe … (s1-3)
 msgctxt "pli-tv-bu-vb-ss7:pts-cs3.4.21"
 msgid "“anārambho hotū”ti."

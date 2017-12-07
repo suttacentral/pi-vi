@@ -217,7 +217,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="5"></a><a class="wt-pa" id="2045"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: paccekacīvaracetāpannāni upakkhaṭāni → … cetāpannā upakkhaṭā (bj) | … cetāpanā upakkhaṭā (s1-3, pts1)
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.39"
 msgid "“Bhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti—"
@@ -231,12 +231,12 @@ msgctxt "pli-tv-bu-vb-np9:pts-cs1.41"
 msgid "tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya—"
 msgstr "and if that monk, without first being invited, approaches them and specifies the kind of robe he wants, saying,"
 
-#. <span class="note" hidden>The only phrase in this rule that may be somewhat unclear is <i lang="pli">ubhova santā ekena</i>, here translated as “put together.” It seems to me that this phrase needs to be related to the main sentence verb <i lang="pli">acchādetha</i>, “present” or “give,” which takes the instrumental of the thing given: “present (him) with one (robe).” <i lang="pli">Ubhova santā</i> is explained below in the word commentary as <i lang="pli">dvepi janā</i>, “both people,” and the overall phrase then becomes, “two people present (him) with one (robe).“ This means that the funds are put together, and I translate accordingly.</span> 
+#. The only phrase in this rule that may be somewhat unclear is <i lang="pli">ubhova santā ekena</i>, here translated as “put together.” It seems to me that this phrase needs to be related to the main sentence verb <i lang="pli">acchādetha</i>, “present” or “give,” which takes the instrumental of the thing given: “present (him) with one (robe).” <i lang="pli">Ubhova santā</i> is explained below in the word commentary as <i lang="pli">dvepi janā</i>, “both people,” and the overall phrase then becomes, “two people present (him) with one (robe).“ This means that the funds are put together, and I translate accordingly.
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.42"
 msgid "‘sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha, ubhova santā ekenā’ti, kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘It would be good if you would put these separate robe funds together to buy such-and-such a robe and then give it to me,’ and he does so because he wants something nice, he commits and offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.43"
 msgid "(<em>9</em>:<strong>28</strong>)"
 msgstr ""
@@ -247,122 +247,122 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-vp-pli" id="pts-vp-pli3.219"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.44"
 msgid "Bhikkhuṃ paneva uddissāti"
 msgstr "For a […] monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.45"
 msgid "bhikkhussatthāya, bhikkhuṃ ārammaṇaṃ karitvā, bhikkhuṃ acchādetukāmā."
 msgstr "for the benefit of a monk; making a monk the object of consideration, they desire to give to him."
 
 #. </span></p><p><a class="sc" id="7"></a><a class="wt-pa" id="2047"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.46"
 msgid "Ubhinnanti"
 msgstr "Two:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.47"
 msgid "dvinnaṃ."
 msgstr "a pair."
 
 #. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2048"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.48"
 msgid "Aññātakā nāma"
 msgstr "Unrelated:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.49"
 msgid "mātito vā pitito vā yāva sattamā pitāmahayugā asambaddhā."
 msgstr "anyone who is not a descendant of one’s male ancestors going back seven generations, either on the mother’s side or on the father’s side."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2049"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.50"
 msgid "Gahapatī nāma"
 msgstr "Male lay people:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.51"
 msgid "ye keci agāraṃ ajjhāvasanti."
 msgstr "any men who live in a house."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2050"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.52"
 msgid "Gahapatāniyo nāma"
 msgstr "Female lay people:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.53"
 msgid "yā kāci agāraṃ ajjhāvasanti."
 msgstr "any women who live in a house."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2051"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.54"
 msgid "Cīvaracetāpannāni nāma"
 msgstr "Robe funds:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.55"
 msgid "hiraññā vā suvaṇṇā vā muttā vā maṇī vā pavāḷā vā phalikā vā paṭakā vā suttā vā kappāsā vā."
 msgstr "money, gold, pearls, gems, corals, crystals, cloth, thread, or cotton wool."
 
 #. </span></p><p><a class="sc" id="12"></a><a class="wt-pa" id="2052"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.56"
 msgid "Imehi paccekacīvaracetāpannehīti"
 msgstr "With these separate robe funds:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.57"
 msgid "paccupaṭṭhitehi."
 msgstr "with that which is at their disposal."
 
 #. </span></p><p><a class="sc" id="13"></a><a class="wt-pa" id="2053"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.58"
 msgid "Cetāpetvāti"
 msgstr "We will buy:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.59"
 msgid "parivattetvā."
 msgstr "having exchanged."
 
 #. </span></p><p><a class="sc" id="14"></a><a class="wt-pa" id="2054"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.60"
 msgid "Acchādessāmāti"
 msgstr "We will […] give:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.61"
 msgid "dassāma."
 msgstr "we will donate."
 
 #. </span></p><p><a class="sc" id="15"></a><a class="wt-pa" id="2055"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.62"
 msgid "Tatra ce so bhikkhūti"
 msgstr "If that monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.63"
 msgid "yaṃ bhikkhuṃ uddissa cīvaracetāpannāni upakkhaṭāni honti so bhikkhu."
 msgstr "the monk for whom the robe funds have been set aside."
 
 #. </span></p><p><a class="sc" id="16"></a><a class="wt-pa" id="2056"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.64"
 msgid "Pubbe appavāritoti"
 msgstr "Without first being invited:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.65"
 msgid "pubbe avutto hoti—"
 msgstr "they have not said beforehand:"
@@ -376,89 +376,89 @@ msgid "kīdisaṃ te cīvaraṃ cetāpemā”ti."
 msgstr "What kind of robe can we buy for you?”"
 
 #. </span></p><p><a class="sc" id="17"></a><a class="wt-pa" id="2057"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.68"
 msgid "Upasaṅkamitvāti"
 msgstr "Approaches them:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.69"
 msgid "gharaṃ gantvā yattha katthaci upasaṅkamitvā."
 msgstr "having gone to their house or having gone wherever."
 
 #. </span></p><p><a class="sc" id="18"></a><a class="wt-pa" id="2058"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.70"
 msgid "Cīvare vikappaṃ āpajjeyyāti"
 msgstr "Specifies the kind of robe he wants:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.71"
 msgid "āyataṃ vā hotu vitthataṃ vā appitaṃ vā saṇhaṃ vā."
 msgstr "please make it long or wide or closely woven or soft."
 
 #. </span></p><p><a class="sc" id="19"></a><a class="wt-pa" id="2059"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.72"
 msgid "Imehi paccekacīvaracetāpannehīti"
 msgstr "These separate robe funds:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.73"
 msgid "paccupaṭṭhitehi."
 msgstr "that which is at their disposal."
 
 #. </span></p><p><a class="sc" id="20"></a><a class="wt-pa" id="2060"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.74"
 msgid "Evarūpaṃ vā evarūpaṃ vāti"
 msgstr "Such-and-such:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.75"
 msgid "āyataṃ vā vitthataṃ vā appitaṃ vā saṇhaṃ vā."
 msgstr "long or wide or closely woven or soft."
 
 #. </span></p><p><a class="sc" id="21"></a><a class="wt-pa" id="2061"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.76"
 msgid "Cetāpetvāti"
 msgstr "To buy:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.77"
 msgid "parivattetvā."
 msgstr "having exchanged."
 
 #. </span></p><p><a class="sc" id="22"></a><a class="wt-pa" id="2062"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.78"
 msgid "Acchādethāti"
 msgstr "Give:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.79"
 msgid "dajjetha."
 msgstr "donate."
 
 #. </span></p><p><a class="sc" id="23"></a><a class="wt-pa" id="2063"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.80"
 msgid "Ubhova santā ekenāti"
 msgstr "Put […] together:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.81"
 msgid "dvepi janā ekena."
 msgstr "two people supplying him with one robe."
 
 #. </span></p><p><a class="sc" id="24"></a><a class="wt-pa" id="2064"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.82"
 msgid "Kalyāṇakamyataṃ upādāyāti"
 msgstr "Because he wants something nice:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np9:pts-cs1.83"
 msgid "sādhatthiko mahagghatthiko."
 msgstr "wanting something nice, wanting something expensive."

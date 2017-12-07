@@ -122,12 +122,12 @@ msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.17"
 msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "The Master then gave a teaching and addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.18"
 msgid "“anujānāmi, bhikkhave, ārāmikan”ti."
 msgstr "“Monks, I allow monastery workers.”"
 
-#. </strong></p><p>
+#. </span></p><p>
 msgctxt "pli-tv-bu-vb-np23:pts-cs1.1.19"
 msgid "Dutiyampi kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami;"
 msgstr "Once again King Bimbisāra went to Pilindavaccha,"
@@ -499,7 +499,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="8"></a><a class="wt-pa" id="2314"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs1.3.39"
 msgid "“Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ—"
 msgstr "‘After being received, the tonics allowable for sick monks—"
@@ -516,7 +516,7 @@ msgctxt "pli-tv-bu-vb-np23:pts-cs1.3.42"
 msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
 msgstr "If one uses them beyond that, one commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs1.3.43"
 msgid "(<em>23</em>:<strong>42</strong>)"
 msgstr ""
@@ -527,7 +527,7 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="9"></a><a class="pts-cs" id="bu-np.23.2"></a><a class="wt-pa" id="2315"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.1"
 msgid "Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjānīti"
 msgstr "The tonics allowable for sick monks:"
@@ -536,70 +536,70 @@ msgctxt "pli-tv-bu-vb-np23:pts-cs2.2"
 msgid "sappi nāma"
 msgstr "Ghee:"
 
-#. </strong><a class="pts-vp-en" id="bd.2.132"></a><span class="gloss"> 
+#. </span><a class="pts-vp-en" id="bd.2.132"></a><span class="gloss"> 
 #. VAR: mahiṃsasappi → mahisasappi (bj, s1-3) | mahisaṃ vā sappi (pts1)
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.3"
 msgid "gosappi vā ajikāsappi vā mahiṃsasappi vā yesaṃ maṃsaṃ kappati tesaṃ sappi."
 msgstr "ghee from cows, ghee from goats, ghee from buffaloes, or ghee from whatever animal whose meat is allowable."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.4"
 msgid "Navanītaṃ nāma"
 msgstr "Butter:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.5"
 msgid "tesaṃyeva navanītaṃ."
 msgstr "butter from the same animals."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.6"
 msgid "Telaṃ nāma"
 msgstr "Oil:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.7"
 msgid "tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ."
 msgstr "sesame oil, mustard seed oil, honey tree oil, castor oil, oil from tallow."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.8"
 msgid "Madhu nāma"
 msgstr "Honey:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.9"
 msgid "makkhikāmadhu."
 msgstr "honey from bees."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.10"
 msgid "Phāṇitaṃ nāma"
 msgstr "Sugar:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.11"
 msgid "ucchumhā nibbattaṃ."
 msgstr "from sugar cane."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="wt-pa" id="2316"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.12"
 msgid "Tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbānīti"
 msgstr "After being received […] should be used from storage for at most seven days:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.13"
 msgid "sattāhaparamatā paribhuñjitabbāni."
 msgstr "they are to be used for seven days at the maximum."
 
 #. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="2317"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.14"
 msgid "Taṃ atikkāmayato nissaggiyaṃ hotīti"
 msgstr "If one uses them beyond that, one commits an offense entailing relinquishment:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np23:pts-cs2.15"
 msgid "aṭṭhame aruṇuggamane nissaggiyaṃ hoti."
 msgstr "it becomes subject to relinquishment at dawn on the eighth day."

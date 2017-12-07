@@ -92,12 +92,12 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="3"></a><a class="wt-pa" id="wt-pa382"></a><a class="pts-vp-en" id="BD.2.239"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.10"
 msgid "“Yo pana bhikkhu saṃghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyan”ti."
 msgstr "‘If a monk takes a bed, a bench, a mattress, or a stool belonging to the Order and puts it out in the open or gets it put out, and he then leaves without putting it away, getting it put away, or telling anyone, he commits an offense entailing confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs1.1.11"
 msgid "(<em>14</em>:<strong>63</strong>)"
 msgstr ""
@@ -125,35 +125,35 @@ msgctxt "pli-tv-bu-vb-pc14:pts-cs1.2.3"
 msgid "Disvāna etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
 msgstr "and after giving a teaching, he addressed the monks,"
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 #. VAR: aṭṭha māse avassikasaṅkete → vasituṃ avassi­ka­saṃ­kete (itipi)
 msgctxt "pli-tv-bu-vb-pc14:pts-cs1.2.4"
 msgid "“anujānāmi, bhikkhave, aṭṭha māse avassikasaṅkete maṇḍape vā rukkhamūle vā yattha kākā vā kulalā vā na ūhadanti tattha senāsanaṃ nikkhipitun”ti."
 msgstr "“Monks, during the eight months outside of the rainy season, I allow you  to store furniture under a roof-cover or at the foot of a tree or wherever crows or ravens donʼt leave droppings.”"
 
-#. </strong></p><h2>
+#. </span></p><h2>
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.0a"
 msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="6"></a><a class="pts-cs" id="bu-pc.14.2"></a>
-#. <a class="pts-cs" id="bu-pc.14.2.1"></a><a class="wt-pa" id="wt-pa385"></a><strong class="term"> 
+#. <a class="pts-cs" id="bu-pc.14.2.1"></a><a class="wt-pa" id="wt-pa385"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.1"
 msgid "Yo panāti"
 msgstr "A:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.2"
 msgid "yo yādiso … pe …"
 msgstr "whoever …"
 
 #. </span>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.3"
 msgid "bhikkhūti"
 msgstr "Monk:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.4"
 msgid "… pe …"
 msgstr "…The monk who has been given the full ordination by a complete Order through a procedure consisting of one motion and three announcements that is unchallengeable and fit to stand—"
@@ -163,40 +163,40 @@ msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
 msgstr "this sort of monk is meant in this case."
 
 #. </span></p><p><a class="sc" id="7"></a>
-#. <a class="wt-pa" id="wt-pa386"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa386"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.6"
 msgid "Saṃghikaṃ nāma"
 msgstr "Belonging to the Order:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.7"
 msgid "saṃghassa dinnaṃ hoti pariccattaṃ."
 msgstr "given to the Order, given up to the Order."
 
 #. </span>
 #. </p><p><a class="sc" id="8"></a>
-#. <a class="pts-vp-en" id="BD.2.240"></a><a class="wt-pa" id="wt-pa387"></a><strong class="term"> 
+#. <a class="pts-vp-en" id="BD.2.240"></a><a class="wt-pa" id="wt-pa387"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.8"
 msgid "Mañco nāma"
 msgstr "A bed:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.9"
 msgid "cattāro mañcā—"
 msgstr "there are four kinds of beds:"
 
-#. <span class="note" hidden><i lang="pli">Masāraka</i>. Sp.2.111(VRI): <i lang="pli">Masārakoti mañcapāde vijjhitvā tattha aṭaniyo pavesetvā kato</i>—“<i lang="pli">Masāraka</i>: it is made by making a hole in the legs of the bed and then inserting the rails of the frame there.”</span>
+#. <i lang="pli">Masāraka</i>. Sp.2.111(VRI): <i lang="pli">Masārakoti mañcapāde vijjhitvā tattha aṭaniyo pavesetvā kato</i>—“<i lang="pli">Masāraka</i>: it is made by making a hole in the legs of the bed and then inserting the rails of the frame there.”
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.10"
 msgid "masārako, bundikābaddho, kuḷīrapādako, āhaccapādako."
 msgstr "one with legs and frame called <i lang=\"pli\">masāraka</i>, one with legs and frame called <i lang=\"pli\">bundikābaddha</i>, one with crooked legs, one with detachable legs."
 
 #. </span></p><p><a class="sc" id="9"></a>
-#. <a class="wt-pa" id="wt-pa388"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa388"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.11"
 msgid "Pīṭhaṃ nāma"
 msgstr "A bench:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.12"
 msgid "cattāri pīṭhāni—"
 msgstr "there are four kinds of benches:"
@@ -206,12 +206,12 @@ msgid "masārakaṃ, bundikābaddhaṃ, kuḷīrapādakaṃ, āhaccapādakaṃ."
 msgstr "one with legs and frame called <i lang=\"pli\">masāraka</i>, one with legs and frame called <i lang=\"pli\">bundikābaddha</i>, one with crooked legs, one with detachable legs."
 
 #. </span></p><p><a class="sc" id="10"></a>
-#. <a class="wt-pa" id="wt-pa389"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa389"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.14"
 msgid "Bhisi nāma"
 msgstr "A mattress:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.15"
 msgid "pañca bhisiyo—"
 msgstr "there are five kinds of mattresses:"
@@ -220,37 +220,38 @@ msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.16"
 msgid "uṇṇabhisi, coḷabhisi, vākabhisi, tiṇabhisi, paṇṇabhisi."
 msgstr "a mattress stuffed with wool, a mattress stuffed with cloth, a mattress stuffed with bark, a mattress stuffed with grass, a mattress stuffed with leaves."
 
-#. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="wt-pa390"></a><strong class="term"> 
+#. </span></p><p><a class="sc" id="11"></a><a class="wt-pa" id="wt-pa390"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.17"
 msgid "Kocchaṃ nāma—"
 msgstr "A stool:"
 
-#. </strong>
-#. <span class="gloss"><span class="note" hidden>I have rendered khus-khus reed, <i lang="pli">muñja</i>-reed, and <i lang="pli">pabbaja</i>-reed with the single word “reed.” I am not aware that these types of reed can be properly distinguished in English.</span> 
+#. </span>
+#. <span class="gloss">
+#. I have rendered khus-khus reed, <i lang="pli">muñja</i>-reed, and <i lang="pli">pabbaja</i>-reed with the single word “reed.” I am not aware that these types of reed can be properly distinguished in English.
 #. VAR: pabbajamayaṃ → babbajamayaṃ (bj, pts1)
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.18"
 msgid "vākamayaṃ vā usīramayaṃ vā muñjamayaṃ vā pabbajamayaṃ vā anto saṃveṭhetvā baddhaṃ hoti."
 msgstr "one made of bark, one made of reed; it is upholstered and then bound together."
 
 #. </span></p><p><a class="sc" id="12"></a>
-#. <a class="wt-pa" id="wt-pa391"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa391"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.19"
 msgid "Santharitvāti"
 msgstr "Puts […] out:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.20"
 msgid "sayaṃ santharitvā."
 msgstr "puts out oneself."
 
 #. </span>
 #. </p><p><a class="sc" id="13"></a>
-#. <a class="pts-vp-en" id="BD.2.241"></a><a class="wt-pa" id="wt-pa392"></a><strong class="term"> 
+#. <a class="pts-vp-en" id="BD.2.241"></a><a class="wt-pa" id="wt-pa392"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.21"
 msgid "Santharāpetvāti"
 msgstr "Gets […] put out:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.22"
 msgid "aññaṃ santharāpetvā."
 msgstr "gets another to put out."
@@ -265,36 +266,36 @@ msgid "Upasampannaṃ santharāpeti, santhārakassa palibodho."
 msgstr "If he gets one who is fully ordained to put it out, it is the responsibility of the one who puts it out."
 
 #. </span></p><p><a class="sc" id="14"></a>
-#. <a class="wt-pa" id="wt-pa393"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa393"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.25"
 msgid "Taṃ pakkamanto neva uddhareyyāti"
 msgstr "Leaves without putting it away:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.26"
 msgid "na sayaṃ uddhareyya."
 msgstr "he does not put it away himself."
 
 #. </span>
 #. </p><p><a class="sc" id="15"></a>
-#. <a class="wt-pa" id="wt-pa394"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa394"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.27"
 msgid "Na uddharāpeyyāti"
 msgstr "Getting it put away:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.28"
 msgid "na aññaṃ uddharāpeyya."
 msgstr "he does not get another to put it away."
 
 #. </span>
 #. </p><p><a class="sc" id="16"></a>
-#. <a class="wt-pa" id="wt-pa395"></a><strong class="term"> 
+#. <a class="wt-pa" id="wt-pa395"></a><span class="term"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.29"
 msgid "Anāpucchaṃ vā gaccheyyāti"
 msgstr "Or telling anyone:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.1.30"
 msgid "bhikkhuṃ vā sāmaṇeraṃ vā ārāmikaṃ vā anāpucchā majjhimassa purisassa leḍḍupātaṃ atikkamantassa āpatti pācittiyassa."
 msgstr "if he does not tell a monk, a novice monk, or a monastery worker, then when he goes beyond the distance of a stone-throw of an average man, he commits an offense entailing confession."
@@ -318,7 +319,8 @@ msgctxt "pli-tv-bu-vb-pc14:pts-cs2.2.3"
 msgid "saṃghike puggalikasaññī ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, āpatti pācittiyassa."
 msgstr "If it belongs to the Order, but he perceives it as belonging to an individual, and he puts it out in the open or gets it put out, and he then leaves without putting it away or getting it put away or telling anyone, he commits an offense entailing confession."
 
-#. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa397"></a><a class="pts-vp-en" id="BD.2.242"></a><span class="note" hidden><i lang="pli">Cimilikā</i>. Sp.2.112(VRI): <i lang="pli">Cimilikā nāma sudhādiparikammakatāya bhūmiyā vaṇṇānurakkhaṇatthaṃ katā hoti, taṃ heṭṭhā pattharitvā upari kaṭasārakaṃ pattharanti</i>—“A <i lang="pli">cimilikā</i> is made to protect the color of a floor that has been plastered, etc. It is spread out underneath, with a straw-mat spread out on top.”</span>
+#. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="wt-pa397"></a><a class="pts-vp-en" id="BD.2.242"></a>
+#. <i lang="pli">Cimilikā</i>. Sp.2.112(VRI): <i lang="pli">Cimilikā nāma sudhādiparikammakatāya bhūmiyā vaṇṇānurakkhaṇatthaṃ katā hoti, taṃ heṭṭhā pattharitvā upari kaṭasārakaṃ pattharanti</i>—“A <i lang="pli">cimilikā</i> is made to protect the color of a floor that has been plastered, etc. It is spread out underneath, with a straw-mat spread out on top.”
 msgctxt "pli-tv-bu-vb-pc14:pts-cs2.2.4"
 msgid "Cimilikaṃ vā uttarattharaṇaṃ vā bhūmattharaṇaṃ vā taṭṭikaṃ vā cammakhaṇḍaṃ vā pādapuñchaniṃ vā phalakapīṭhaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, āpatti dukkaṭassa."
 msgstr "If it is a mat underlay, a blanket, a floor cover, a straw mat, a leather covering, a foot-wiping cloth, or a wooden bench, and he puts it out or gets it put out in the open, and he then leaves without putting it away or getting it put away or telling anyone, he commits an offense of wrong conduct."

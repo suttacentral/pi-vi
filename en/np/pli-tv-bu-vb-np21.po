@@ -125,12 +125,12 @@ msgid ""
 msgstr "Preliminary ruling"
 
 #. </h3><p><a class="sc" id="4"></a><a class="wt-pa" id="2255"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs1.17"
 msgid "“Yo pana bhikkhu atirekapattaṃ dhāreyya, nissaggiyaṃ pācittiyan”ti."
 msgstr "‘If a monk keeps an extra bowl, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong>
+#. </span>
 #. </p><p class="endsection"><a class="sc" id="5"></a><a class="wt-pa" id="2256"></a> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs1.18"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
@@ -214,7 +214,7 @@ msgid ""
 msgstr "Final ruling"
 
 #. </h2><p><a class="sc" id="7"></a><a class="wt-pa" id="2258"></a>
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs2.17"
 msgid "“Dasāhaparamaṃ atirekapatto dhāretabbo."
 msgstr "‘A monk should have an extra bowl for ten days at the most."
@@ -223,7 +223,7 @@ msgctxt "pli-tv-bu-vb-np21:pts-cs2.18"
 msgid "Taṃ atikkāmayato nissaggiyaṃ pācittiyan”ti."
 msgstr "If he keeps it beyond that, he commits an offense entailing relinquishment and confession.’”"
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs2.19"
 msgid "(<em>21</em>:<strong>40</strong>)"
 msgstr ""
@@ -234,34 +234,34 @@ msgid ""
 msgstr "Definitions"
 
 #. </h2><p><a class="sc" id="8"></a><a class="pts-cs" id="bu-np.21.3"></a><a class="wt-pa" id="2259"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.1"
 msgid "Dasāhaparamanti"
 msgstr "For ten days at the most:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.2"
 msgid "dasāhaparamatā dhāretabbo."
 msgstr "it should be kept for ten days at a maximum."
 
 #. </span></p><p><a class="sc" id="9"></a><a class="wt-pa" id="2260"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.3"
 msgid "Atirekapatto nāma"
 msgstr "An extra bowl:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.4"
 msgid "anadhiṭṭhito avikappito."
 msgstr "a bowl that is not determined, nor transferred."
 
 #. </span></p><p><a class="sc" id="10"></a><a class="pts-vp-en" id="bd.2.115"></a><a class="wt-pa" id="2261-2262"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.5"
 msgid "Patto nāma"
 msgstr "A bowl:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.6"
 msgid "dve pattā"
 msgstr "there are two kinds of bowl:"
@@ -283,32 +283,32 @@ msgctxt "pli-tv-bu-vb-np21:pts-cs3.10"
 msgid ""
 msgstr "Anything larger than this is not a bowl, nor anything smaller."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.11"
 msgid "Ukkaṭṭho nāma patto"
 msgstr "The large bowl:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.12"
 msgid "aḍḍhāḷhakodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
 msgstr "it takes half an <i lang=\"pli\">āḷhaka</i> measure of rice, a fourth part of non-staple food, and suitable curry."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.13"
 msgid "Majjhimo nāma patto"
 msgstr "The medium bowl:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.14"
 msgid "nāḷikodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
 msgstr "it takes a <i lang=\"pli\">nāḷika</i> measure of rice, a fourth part of non-staple food, and suitable curry."
 
-#. </span><strong class="term"> 
+#. </span><span class="term"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.15"
 msgid "Omako nāma patto"
 msgstr "The small bowl:"
 
-#. </strong><span class="gloss"> 
+#. </span><span class="gloss"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.16"
 msgid "patthodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ."
 msgstr "it takes a <i lang=\"pli\">pattha</i> measure of rice, a fourth part of non-staple food, and suitable curry."
@@ -318,13 +318,13 @@ msgid "Tato ukkaṭṭho apatto, omako apatto."
 msgstr ""
 
 #. </span></p><p><a class="sc" id="12"></a><a class="pts-vp-pli" id="pts-vp-pli3.244"></a><a class="wt-pa" id="2263"></a>
-#. <strong class="term"> 
+#. <span class="term"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.18"
 msgid "Taṃ atikkāmayato nissaggiyo hotīti"
 msgstr "If he keeps it beyond that […] entailing relinquishment:"
 
-#. </strong><span class="gloss">
-#. <span class="note" hidden>According to the commentary this means the tenth dawn after one received the bowl, see <span class="ref">Sp.3.639.27</span></span> 
+#. </span><span class="gloss">
+#. According to the commentary this means the tenth dawn after one received the bowl, see <ref>Sp.3.639.27</ref>
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.19"
 msgid "ekādase aruṇuggamane nissaggiyo hoti."
 msgstr "it becomes subject to relinquishment at dawn on the eleventh day."
@@ -495,12 +495,13 @@ msgctxt "pli-tv-bu-vb-np21:pts-cs3.56"
 msgid "Avilutte viluttasaññī, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it has not been stolen, but he perceives it as stolen, he commits an offense entailing relinquishment and confession."
 
-#. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="2269"></a><strong class="rule"> 
+#. </p><p><a class="sc" id="18"></a><a class="wt-pa" id="2269"></a>
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.57"
 msgid "Nissaggiyaṃ pattaṃ anissajjitvā paribhuñjati, āpatti dukkaṭassa."
 msgstr "If he uses a bowl that should be relinquished without first relinquishing it, he commits an offense of wrong conduct."
 
-#. </strong> 
+#. </span> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs3.58"
 msgid "Dasāhānatikkante atikkantasaññī, āpatti dukkaṭassa."
 msgstr "If it is less than ten days, but he perceives it as more than ten days, he commits an offense of wrong conduct."
@@ -546,7 +547,7 @@ msgctxt "pli-tv-bu-vb-np21:pts-cs4.2"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They told the Master."
 
-#. <strong class="rule"> 
+#. <span class="rule"> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs4.3"
 msgid "“Na, bhikkhave, nissaṭṭhapatto na dātabbo."
 msgstr "“Monks, a relinquished bowl should be given back."
@@ -555,7 +556,7 @@ msgctxt "pli-tv-bu-vb-np21:pts-cs4.4"
 msgid "Yo na dadeyya, āpatti dukkaṭassā”ti."
 msgstr "If a monk doesn’t give it back, he commits an offense of wrong conduct.”"
 
-#. </strong></p><hr><p class="endsutta"><a class="sc" id="21"></a><a class="wt-pa" id="2272"></a> 
+#. </span></p><hr><p class="endsutta"><a class="sc" id="21"></a><a class="wt-pa" id="2272"></a> 
 msgctxt "pli-tv-bu-vb-np21:pts-cs4.5"
 msgid "Pattasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on bowls, is finished."
