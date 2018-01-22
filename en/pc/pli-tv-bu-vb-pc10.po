@@ -31,12 +31,12 @@ msgstr "The chapter on confession (<i lang=\"pli\">pācittiya</i>)"
 #. VAR: Musāvādavagga → paṭha­vi­kha­ṇa­na­sikkhā­padaṃ (bj)
 msgctxt "pli-tv-bu-vb-pc10:pts-cs0.4"
 msgid "Musāvādavagga"
-msgstr ""
+msgstr "Monks’ Confession 10"
 
 #. </p><h1>
 msgctxt "pli-tv-bu-vb-pc10:pts-cs0.5"
 msgid "10. Pathavīkhaṇanasikkhāpada"
-msgstr "Monks’ Confession 10: the training rule on digging the earth"
+msgstr "The training rule on digging the earth"
 
 #. </h1></div><h2>
 msgctxt "pli-tv-bu-vb-pc10:pts-cs1.0a"

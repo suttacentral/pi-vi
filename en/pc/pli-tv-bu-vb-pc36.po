@@ -31,12 +31,12 @@ msgstr "The chapter on confession (<i lang=\"pli\">pācittiya</i>)"
 #. VAR: Bhojanavagga → dutiya­pavāra­ṇa­sikkhā­padaṃ (bj)
 msgctxt "pli-tv-bu-vb-pc36:pts-cs0.4"
 msgid "Bhojanavagga"
-msgstr ""
+msgstr "Monks’ Confession 36"
 
 #. </p><h1>
 msgctxt "pli-tv-bu-vb-pc36:pts-cs0.5"
 msgid "36. Dutiyapavāraṇāsikkhāpada"
-msgstr "Monks’ Confession 36: the second training rule on satisfaction"
+msgstr "The second training rule on satisfaction"
 
 #. </h1></div><h2>
 msgctxt "pli-tv-bu-vb-pc36:pts-cs1.0a"

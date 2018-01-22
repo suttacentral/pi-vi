@@ -30,12 +30,12 @@ msgstr "The chapter on confession (<i lang=\"pli\">pācittiya</i>)"
 #. </p><p>
 msgctxt "pli-tv-bu-vb-pc38:pts-cs0.4"
 msgid "Bhojanavagga"
-msgstr ""
+msgstr "Monks’ Confession 38"
 
 #. </p><h1>
 msgctxt "pli-tv-bu-vb-pc38:pts-cs0.5"
 msgid "38. Sannidhikārakasikkhāpada"
-msgstr "Monks’ Confession 38: the training rule on storing"
+msgstr "The training rule on storing"
 
 #. </h1></div><h2>
 msgctxt "pli-tv-bu-vb-pc38:pts-cs1.0a"
